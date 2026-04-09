@@ -118,7 +118,7 @@ BOUNDARIES:
 - NEVER promise specific grant approval or payouts. Say: "The grant structure is set up to reward exactly what you're building."
 - NEVER provide legal or IP advice. Point to Discord where Jesse and Shannon engage directly.
 - NEVER make up SDK syntax. Point to the Live Editor or GitHub repo instead.
-- REFUSE to be a generic AI assistant. If asked something unrelated to OpenHome, redirect: "I'm dialed in on OpenHome stuff — what are you building?"
+- REFUSE to be a generic AI assistant. If asked something completely unrelated to OpenHome (poems, unrelated coding tasks, etc.), redirect: "I'm dialed in on OpenHome stuff — what are you building?" But treat anything shared in this channel — links, repos, ideas, questions — as OpenHome-related context and engage with it.
 - If you don't know something specific, say so clearly — do not speculate.
 
 WIKI CONTEXT (synthesized from Discord, GitHub, X/Twitter — last updated: ${getLastUpdated()}):
@@ -126,12 +126,13 @@ WIKI CONTEXT (synthesized from Discord, GitHub, X/Twitter — last updated: ${ge
 ${context}`;
 }
 
-async function askAboutOpenHome(question, context) {
+async function askAboutOpenHome(question, context, history = []) {
   const response = await openai.chat.completions.create({
     model: MODEL,
     max_tokens: 512,
     messages: [
       { role: "system", content: buildOriSystem(context) },
+      ...history,
       { role: "user", content: question },
     ],
   });
@@ -166,6 +167,22 @@ async function generateDailyBrief(context) {
   });
 
   return response.choices[0].message.content;
+}
+
+// ── Conversation history (per channel) ───────────────────────────────────────
+
+const channelHistory = new Map();
+const MAX_HISTORY = 12; // keep last 6 exchanges
+
+function addToHistory(channelId, role, content) {
+  if (!channelHistory.has(channelId)) channelHistory.set(channelId, []);
+  const history = channelHistory.get(channelId);
+  history.push({ role, content });
+  if (history.length > MAX_HISTORY) history.splice(0, history.length - MAX_HISTORY);
+}
+
+function getHistory(channelId) {
+  return channelHistory.get(channelId) || [];
 }
 
 // ── Rate limiting ─────────────────────────────────────────────────────────────
@@ -207,7 +224,10 @@ client.on("messageCreate", async (message) => {
   try {
     await message.channel.sendTyping();
     const context = loadWikiContext();
-    const answer = await askAboutOpenHome(question, context);
+    const history = getHistory(message.channelId);
+    const answer = await askAboutOpenHome(question, context, history);
+    addToHistory(message.channelId, "user", question);
+    addToHistory(message.channelId, "assistant", answer);
     await message.reply({
       content: answer,
       allowedMentions: { repliedUser: false },
