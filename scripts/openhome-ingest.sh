@@ -320,6 +320,13 @@ PLATFORM_PAGES=(
 TEAM_PAGES=(
   "team/jesse"
   "team/shannon"
+  "team/bradymck"
+  "team/doogriss"
+  "team/kaeden"
+  "team/zain"
+  "team/abubakar"
+  "team/ali"
+  "team/peej"
 )
 
 PARTNER_PAGES=(
@@ -331,11 +338,41 @@ MODERATOR_PAGES=(
 )
 
 GUIDE_PAGES=(
-  # Populated as Community Guide-role members are identified from Discord
+  "guides/sira"
+  "guides/skillstone"
+  "guides/sagarjethi"
+  "guides/discomelon"
+  "guides/franci"
+  "guides/ac31415"
+  "guides/super-greg"
+  "guides/brianchilders"
+  "guides/adamdew"
+  "guides/samuel35"
+  "guides/ve3vvs4987"
+  "guides/voidsshadows"
 )
 
 BUILDERS_PAGES=(
   "builders/bradymck"
+  "builders/nicholas3415"
+  "builders/emperormidas"
+  "builders/leeb9972"
+  "builders/sonordi"
+  "builders/jkoppel"
+  "builders/freshdelii"
+  "builders/slowjamsteve"
+  "builders/shoompa"
+  "builders/mathieub"
+  "builders/michaelgold"
+  "builders/pmckelvy"
+  "builders/shookdt"
+  "builders/pauldy"
+  "builders/joyboyo42"
+  "builders/0x-404"
+  "builders/illectric-co"
+  "builders/pl-geek"
+  "builders/xtremegamer007"
+  "builders/jagatfx"
 )
 
 ABILITIES_PAGES=(
