@@ -11,12 +11,12 @@
  *
  * Required env vars:
  *   DISCORD_BOT_TOKEN     — Discord bot token
- *   ANTHROPIC_API_KEY     — Anthropic API key (Haiku)
+ *   OPENAI_API_KEY        — OpenAI API key (gpt-4o-mini)
  *   INTEL_CHANNEL_ID      — Discord channel ID (default: 1491929017576591401)
  */
 
 const { Client, GatewayIntentBits } = require("discord.js");
-const Anthropic = require("@anthropic-ai/sdk");
+const OpenAI = require("openai");
 const fs = require("fs");
 const path = require("path");
 const http = require("http");
@@ -27,7 +27,7 @@ const { spawnSync } = require("child_process");
 const INTEL_CHANNEL_ID =
   process.env.INTEL_CHANNEL_ID || "1491929017576591401";
 const WIKI_PATH = path.join(__dirname, "../wiki");
-const MODEL = "claude-haiku-4-5-20251001";
+const MODEL = "gpt-4o-mini";
 const MAX_WIKI_CHARS = 12000;
 const BRIEF_HOUR_UTC = 13; // 8am ET
 
@@ -46,10 +46,10 @@ function getSecret(envKey, keychainService) {
 }
 
 const DISCORD_BOT_TOKEN = getSecret("DISCORD_BOT_TOKEN", "openhome-discord-bot-token");
-const ANTHROPIC_API_KEY = getSecret("ANTHROPIC_API_KEY", "anthropic-api-key");
+const OPENAI_API_KEY = getSecret("OPENAI_API_KEY", "openai-api-key");
 
-if (!DISCORD_BOT_TOKEN || !ANTHROPIC_API_KEY) {
-  console.error("ERROR: Missing DISCORD_BOT_TOKEN or ANTHROPIC_API_KEY");
+if (!DISCORD_BOT_TOKEN || !OPENAI_API_KEY) {
+  console.error("ERROR: Missing DISCORD_BOT_TOKEN or OPENAI_API_KEY");
   process.exit(1);
 }
 
@@ -90,44 +90,52 @@ function getLastUpdated() {
 
 // ── Claude Haiku ─────────────────────────────────────────────────────────────
 
-const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
+const openai = new OpenAI({ apiKey: OPENAI_API_KEY });
 
 async function askAboutOpenHome(question, context) {
-  const response = await anthropic.messages.create({
+  const response = await openai.chat.completions.create({
     model: MODEL,
     max_tokens: 512,
-    system: [
-      "You are the OpenHome Intel bot. You answer questions about OpenHome — the voice AI platform with physical speakers and a plugin system called \"abilities\".",
-      "Your knowledge comes from the OpenHome wiki, synthesized from Discord, GitHub, and X/Twitter.",
-      "Be concise and direct. Use Discord markdown (bold, bullet points).",
-      "If you don't know something, say so clearly — do not speculate.",
-      "Do not roleplay or add personality. Just answer the question.",
-      `Wiki last updated: ${getLastUpdated()}`,
-      "---",
-      context,
-    ].join("\n"),
-    messages: [{ role: "user", content: question }],
+    messages: [
+      {
+        role: "system",
+        content: [
+          "You are the OpenHome Intel bot. You answer questions about OpenHome — the voice AI platform with physical speakers and a plugin system called \"abilities\".",
+          "Your knowledge comes from the OpenHome wiki, synthesized from Discord, GitHub, and X/Twitter.",
+          "Be concise and direct. Use Discord markdown (bold, bullet points).",
+          "If you don't know something, say so clearly — do not speculate.",
+          "Do not roleplay or add personality. Just answer the question.",
+          `Wiki last updated: ${getLastUpdated()}`,
+          "---",
+          context,
+        ].join("\n"),
+      },
+      { role: "user", content: question },
+    ],
   });
 
-  return response.content[0].text;
+  return response.choices[0].message.content;
 }
 
 async function generateDailyBrief(context) {
   const today = new Date().toISOString().split("T")[0];
-  const response = await anthropic.messages.create({
+  const response = await openai.chat.completions.create({
     model: MODEL,
     max_tokens: 600,
-    system: [
-      "You are the OpenHome Intel bot. Generate a concise daily brief for the OpenHome team.",
-      "Use Discord markdown. Keep it under 500 words.",
-      "Structure (skip any section you have no data for):",
-      "- **What's live** — active features/abilities",
-      "- **In progress** — what's being built right now",
-      "- **Community** — notable builder activity",
-      "- **Heads up** — anything flagged as important or urgent",
-      "Be factual, no filler.",
-    ].join("\n"),
     messages: [
+      {
+        role: "system",
+        content: [
+          "You are the OpenHome Intel bot. Generate a concise daily brief for the OpenHome team.",
+          "Use Discord markdown. Keep it under 500 words.",
+          "Structure (skip any section you have no data for):",
+          "- **What's live** — active features/abilities",
+          "- **In progress** — what's being built right now",
+          "- **Community** — notable builder activity",
+          "- **Heads up** — anything flagged as important or urgent",
+          "Be factual, no filler.",
+        ].join("\n"),
+      },
       {
         role: "user",
         content: `Daily brief for ${today}.\n\nWiki context:\n${context}`,
@@ -135,7 +143,7 @@ async function generateDailyBrief(context) {
     ],
   });
 
-  return response.content[0].text;
+  return response.choices[0].message.content;
 }
 
 // ── Rate limiting ─────────────────────────────────────────────────────────────

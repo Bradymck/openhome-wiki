@@ -10,7 +10,7 @@
     "ingest:lint": "bash scripts/openhome-ingest.sh lint"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.37.0",
+    "openai": "^4.77.0",
     "discord.js": "^14.17.3"
   },
   "engines": {
