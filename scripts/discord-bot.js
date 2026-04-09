@@ -191,7 +191,7 @@ client.on("messageCreate", async (message) => {
       allowedMentions: { repliedUser: false },
     });
   } catch (err) {
-    console.error("[openhome-intel] Error:", err.message);
+    console.log("[openhome-intel] ERROR:", err.message, err.status ?? "", JSON.stringify(err.error ?? ""));
     await message.reply("Couldn't reach the knowledge base. Try again shortly.");
   }
 });
