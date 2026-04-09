@@ -159,7 +159,7 @@ const client = new Client({
   ],
 });
 
-client.once("ready", () => {
+client.once("clientReady", () => {
   console.log(`[openhome-intel] Online as ${client.user.tag}`);
   console.log(`[openhome-intel] Channel: ${INTEL_CHANNEL_ID}`);
   scheduleDailyBrief();
