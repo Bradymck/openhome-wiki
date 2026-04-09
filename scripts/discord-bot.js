@@ -183,20 +183,15 @@ client.on("messageCreate", async (message) => {
   if (isRateLimited(message.author.id)) return;
 
   try {
-    console.log("[openhome-intel] step:typing");
     await message.channel.sendTyping();
-    console.log("[openhome-intel] step:context");
     const context = loadWikiContext();
-    console.log("[openhome-intel] step:ask len=" + context.length);
     const answer = await askAboutOpenHome(question, context);
-    console.log("[openhome-intel] step:reply");
     await message.reply({
       content: answer,
       allowedMentions: { repliedUser: false },
     });
-    console.log("[openhome-intel] step:done");
   } catch (err) {
-    console.log("[openhome-intel] ERROR status=" + (err.status ?? "?") + " msg=" + err.message);
+    console.log("[openhome-intel] ERROR:", err.message);
     await message.reply("Couldn't reach the knowledge base. Try again shortly.");
   }
 });
