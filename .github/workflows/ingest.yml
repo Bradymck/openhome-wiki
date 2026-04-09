@@ -1,0 +1,62 @@
+name: OpenHome Wiki Daily Ingest
+
+on:
+  schedule:
+    # Daily at 11:00 UTC (6am ET)
+    - cron: '0 11 * * *'
+  workflow_dispatch:
+    inputs:
+      entity_type:
+        description: 'Entity type to ingest (all, platform, abilities, builders, concepts, roadmap, index, lint)'
+        required: false
+        default: 'all'
+
+permissions:
+  contents: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install -y jq curl
+          python3 --version
+
+      - name: Run ingest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+          DISCORD_SERVER_ID: '1197724389630824508'
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Safe: validate entity_type against allowlist in script, never interpolated into shell directly
+          ENTITY_TYPE: ${{ github.event.inputs.entity_type || 'all' }}
+        run: |
+          chmod +x scripts/openhome-ingest.sh
+          # Validate ENTITY_TYPE against allowlist before passing to script
+          ALLOWED="all platform abilities builders concepts roadmap index lint"
+          if ! echo "$ALLOWED" | grep -qw "$ENTITY_TYPE"; then
+            echo "Invalid entity_type: $ENTITY_TYPE" >&2
+            exit 1
+          fi
+          bash scripts/openhome-ingest.sh "$ENTITY_TYPE"
+
+      - name: Commit updated wiki pages
+        run: |
+          git config user.name "openhome-ingest[bot]"
+          git config user.email "openhome-ingest@users.noreply.github.com"
+          git add wiki/
+          if git diff --staged --quiet; then
+            echo "No wiki changes to commit"
+          else
+            git commit -m "chore(wiki): daily ingest $(date -u +%Y-%m-%d)"
+            git push
+          fi

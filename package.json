@@ -1,0 +1,19 @@
+{
+  "name": "openhome-wiki",
+  "version": "0.1.0",
+  "description": "OpenHome community knowledge base — synthesized from Discord, GitHub, and X",
+  "private": true,
+  "scripts": {
+    "bot": "node scripts/discord-bot.js",
+    "ingest": "bash scripts/openhome-ingest.sh all",
+    "ingest:index": "bash scripts/openhome-ingest.sh index",
+    "ingest:lint": "bash scripts/openhome-ingest.sh lint"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.37.0",
+    "discord.js": "^14.17.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
