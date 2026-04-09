@@ -19,6 +19,7 @@ const { Client, GatewayIntentBits } = require("discord.js");
 const Anthropic = require("@anthropic-ai/sdk");
 const fs = require("fs");
 const path = require("path");
+const http = require("http");
 const { spawnSync } = require("child_process");
 
 // ── Config ───────────────────────────────────────────────────────────────────
@@ -219,6 +220,16 @@ function scheduleDailyBrief() {
     }
   }, 60_000);
 }
+
+// ── Health check server (required for Railway) ────────────────────────────────
+
+const PORT = process.env.PORT || 3000;
+http.createServer((req, res) => {
+  res.writeHead(200);
+  res.end("ok");
+}).listen(PORT, () => {
+  console.log(`[openhome-intel] Health check listening on port ${PORT}`);
+});
 
 // ── Boot ─────────────────────────────────────────────────────────────────────
 
