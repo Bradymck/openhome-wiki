@@ -26,6 +26,7 @@ const path = require("path");
 const http = require("http");
 const https = require("https");
 const { spawnSync } = require("child_process");
+const { Pool } = require("pg");
 
 // ── Config ───────────────────────────────────────────────────────────────────
 
@@ -328,61 +329,63 @@ Reply with EXACTLY one of these labels and nothing else:
 // Rolling 24h event log: { ts, userId, username, channelName, signal, excerpt }
 const communityEvents = [];
 
-function recordSignal(userId, username, channelName, signal, content) {
+async function recordSignal(userId, username, channelName, signal, content) {
+  if (signal === SIGNAL.NORMAL) return;
+  const excerpt = content.slice(0, 120);
+  console.log(`[signal] @${username} #${channelName} → ${signal}`);
+
+  if (db) {
+    await db.query(
+      "INSERT INTO community_signals (user_id, username, channel_name, signal, excerpt) VALUES ($1,$2,$3,$4,$5)",
+      [userId, username, channelName, signal, excerpt]
+    ).catch((e) => console.log("[signal] db error:", e.message));
+    return;
+  }
+
+  // In-memory fallback
   const now = Date.now();
-  // Prune events older than 24h
   while (communityEvents.length && communityEvents[0].ts < now - SIGNAL_WINDOW_MS) {
     communityEvents.shift();
   }
-  if (signal === SIGNAL.NORMAL) return; // don't log noise
-  communityEvents.push({
-    ts: now,
-    userId,
-    username,
-    channelName,
-    signal,
-    excerpt: content.slice(0, 120),
-  });
-  console.log(`[signal] @${username} #${channelName} → ${signal}`);
+  communityEvents.push({ ts: now, userId, username, channelName, signal, excerpt });
 }
 
-function getCommunityHealthSummary() {
-  if (!communityEvents.length) return null;
+async function getCommunityHealthSummary() {
+  let events;
 
-  const counts = {};
-  const byUser = {};
-  for (const e of communityEvents) {
-    counts[e.signal] = (counts[e.signal] || 0) + 1;
-    if (!byUser[e.username]) byUser[e.username] = {};
-    byUser[e.username][e.signal] = (byUser[e.username][e.signal] || 0) + 1;
+  if (db) {
+    const res = await db.query(
+      `SELECT username, channel_name AS "channelName", signal, excerpt
+       FROM community_signals
+       WHERE ts > NOW() - INTERVAL '24 hours'
+       ORDER BY ts DESC LIMIT 200`
+    ).catch(() => ({ rows: [] }));
+    events = res.rows;
+  } else {
+    const cutoff = Date.now() - SIGNAL_WINDOW_MS;
+    events = communityEvents.filter((e) => e.ts > cutoff);
   }
 
+  if (!events.length) return null;
+
+  const by = (sig) => events.filter((e) => e.signal === sig);
+  const names = (arr) => [...new Set(arr.map((e) => `@${e.username}`))];
   const lines = ["**Community signals (last 24h):**"];
 
-  const scams = communityEvents.filter((e) => e.signal === SIGNAL.SCAM);
-  if (scams.length) {
-    lines.push(`🚨 **Scam/fraud** (${scams.length}): ${[...new Set(scams.map((e) => `@${e.username}`))].join(", ")}`);
-  }
+  const scams = by(SIGNAL.SCAM);
+  if (scams.length) lines.push(`🚨 **Scam/fraud** (${scams.length}): ${names(scams).join(", ")}`);
 
-  const spam = communityEvents.filter((e) => e.signal === SIGNAL.SPAM);
-  if (spam.length) {
-    lines.push(`🗑️ **Spam** (${spam.length}): ${[...new Set(spam.map((e) => `@${e.username}`))].join(", ")}`);
-  }
+  const spam = by(SIGNAL.SPAM);
+  if (spam.length) lines.push(`🗑️ **Spam** (${spam.length}): ${names(spam).join(", ")}`);
 
-  const disgruntled = communityEvents.filter((e) => e.signal === SIGNAL.DISGRUNTLED);
-  if (disgruntled.length) {
-    lines.push(`😤 **Disgruntled** (${disgruntled.length}): ${disgruntled.map((e) => `@${e.username} in #${e.channelName}`).slice(0, 5).join(", ")}`);
-  }
+  const disgruntled = by(SIGNAL.DISGRUNTLED);
+  if (disgruntled.length) lines.push(`😤 **Disgruntled** (${disgruntled.length}): ${disgruntled.slice(0,5).map((e) => `@${e.username} in #${e.channelName}`).join(", ")}`);
 
-  const needsHelp = communityEvents.filter((e) => e.signal === SIGNAL.NEEDS_HELP);
-  if (needsHelp.length) {
-    lines.push(`🙋 **Needs help** (${needsHelp.length}): ${needsHelp.map((e) => `@${e.username} in #${e.channelName}`).slice(0, 5).join(", ")}`);
-  }
+  const needsHelp = by(SIGNAL.NEEDS_HELP);
+  if (needsHelp.length) lines.push(`🙋 **Needs help** (${needsHelp.length}): ${needsHelp.slice(0,5).map((e) => `@${e.username} in #${e.channelName}`).join(", ")}`);
 
-  const positive = communityEvents.filter((e) => e.signal === SIGNAL.POSITIVE);
-  if (positive.length) {
-    lines.push(`🚀 **Positive signals** (${positive.length}): ${[...new Set(positive.map((e) => `@${e.username}`))].slice(0, 8).join(", ")}`);
-  }
+  const positive = by(SIGNAL.POSITIVE);
+  if (positive.length) lines.push(`🚀 **Positive** (${positive.length}): ${names(positive).slice(0,8).join(", ")}`);
 
   return lines.join("\n");
 }
@@ -525,22 +528,101 @@ async function generateDailyBrief(wikiContext, communityHealth, liveMarketplace)
   return response.choices[0].message.content;
 }
 
-// ── Conversation history ──────────────────────────────────────────────────────
+// ── Postgres (optional) ───────────────────────────────────────────────────────
+// Falls back to in-memory if DATABASE_URL is not set.
+// History is keyed per (channelId + userId) so multi-user conversations
+// don't bleed into each other.
 
-const channelHistory = new Map();
-const MAX_HISTORY = 12;
+const db = process.env.DATABASE_URL
+  ? new Pool({ connectionString: process.env.DATABASE_URL, ssl: { rejectUnauthorized: false } })
+  : null;
 
-function addToHistory(channelId, role, content) {
-  if (!channelHistory.has(channelId)) channelHistory.set(channelId, []);
-  const history = channelHistory.get(channelId);
-  history.push({ role, content });
-  if (history.length > MAX_HISTORY) history.splice(0, history.length - MAX_HISTORY);
-  console.log(`[history] #${channelId} → ${history.length} messages stored`);
+async function initDb() {
+  if (!db) {
+    console.log("[db] No DATABASE_URL — using in-memory storage");
+    return;
+  }
+  await db.query(`
+    CREATE TABLE IF NOT EXISTS conversations (
+      id          SERIAL PRIMARY KEY,
+      channel_id  TEXT NOT NULL,
+      user_id     TEXT NOT NULL,
+      username    TEXT NOT NULL,
+      role        TEXT NOT NULL,
+      content     TEXT NOT NULL,
+      ts          TIMESTAMPTZ DEFAULT NOW()
+    );
+    CREATE INDEX IF NOT EXISTS conversations_lookup
+      ON conversations (channel_id, user_id, ts DESC);
+
+    CREATE TABLE IF NOT EXISTS community_signals (
+      id           SERIAL PRIMARY KEY,
+      user_id      TEXT NOT NULL,
+      username     TEXT NOT NULL,
+      channel_name TEXT NOT NULL,
+      signal       TEXT NOT NULL,
+      excerpt      TEXT,
+      ts           TIMESTAMPTZ DEFAULT NOW()
+    );
+    CREATE INDEX IF NOT EXISTS signals_ts ON community_signals (ts DESC);
+  `);
+  console.log("[db] Postgres ready");
 }
 
-function getHistory(channelId) {
-  const h = channelHistory.get(channelId) || [];
-  if (h.length) console.log(`[history] #${channelId} → loaded ${h.length} messages`);
+// ── Conversation history ──────────────────────────────────────────────────────
+// Keyed by channelId+userId so each person gets their own context thread.
+// In a busy public channel this prevents A's conversation bleeding into B's.
+
+const channelHistory = new Map(); // fallback when no DB
+const MAX_HISTORY = 14; // 7 exchanges
+
+function historyKey(channelId, userId) {
+  return `${channelId}:${userId}`;
+}
+
+async function addToHistory(channelId, userId, username, role, content) {
+  const key = historyKey(channelId, userId);
+
+  if (db) {
+    await db.query(
+      "INSERT INTO conversations (channel_id, user_id, username, role, content) VALUES ($1,$2,$3,$4,$5)",
+      [channelId, userId, username, role, content]
+    );
+    // Prune to last MAX_HISTORY rows for this user
+    await db.query(`
+      DELETE FROM conversations WHERE id IN (
+        SELECT id FROM conversations
+        WHERE channel_id=$1 AND user_id=$2
+        ORDER BY ts DESC OFFSET $3
+      )`, [channelId, userId, MAX_HISTORY]);
+    console.log(`[history] db: @${username} in #${channelId}`);
+  } else {
+    if (!channelHistory.has(key)) channelHistory.set(key, []);
+    const h = channelHistory.get(key);
+    // Store with username prefix so model knows who said what
+    h.push({ role, content: role === "user" ? `@${username}: ${content}` : content });
+    if (h.length > MAX_HISTORY) h.splice(0, h.length - MAX_HISTORY);
+    console.log(`[history] mem: @${username} → ${h.length} msgs`);
+  }
+}
+
+async function getHistory(channelId, userId, username) {
+  if (db) {
+    const res = await db.query(
+      `SELECT role, content, username FROM conversations
+       WHERE channel_id=$1 AND user_id=$2
+       ORDER BY ts ASC LIMIT $3`,
+      [channelId, userId, MAX_HISTORY]
+    );
+    const rows = res.rows.map((r) => ({
+      role: r.role,
+      content: r.role === "user" ? `@${r.username}: ${r.content}` : r.content,
+    }));
+    if (rows.length) console.log(`[history] db: loaded ${rows.length} msgs for @${username}`);
+    return rows;
+  }
+  const h = channelHistory.get(historyKey(channelId, userId)) || [];
+  if (h.length) console.log(`[history] mem: loaded ${h.length} msgs for @${username}`);
   return h;
 }
 
@@ -566,11 +648,12 @@ const client = new Client({
   ],
 });
 
-client.once("clientReady", () => {
+client.once("clientReady", async () => {
   console.log(`[openhome-intel] Online as ${client.user.tag}`);
   console.log(`[openhome-intel] Active channel: ${INTEL_CHANNEL_ID}`);
   console.log(`[openhome-intel] Community monitoring: ALL channels`);
   console.log(`[openhome-intel] Live marketplace: ${OPENHOME_API_KEY ? "enabled" : "disabled (no API key)"}`);
+  await initDb();
   scheduleDailyBrief();
 });
 
@@ -591,6 +674,9 @@ client.on("messageCreate", async (message) => {
   if (!question) return;
   if (isRateLimited(message.author.id)) return;
 
+  const userId   = message.author.id;
+  const username = message.author.username;
+
   try {
     // Keep typing indicator alive — it expires after 10s, refresh every 8s
     await message.channel.sendTyping();
@@ -598,30 +684,32 @@ client.on("messageCreate", async (message) => {
       message.channel.sendTyping().catch(() => {});
     }, 8000);
 
-    let wikiContext, urlContext, liveMarketplace;
+    let wikiContext, urlContext, liveMarketplace, history;
     try {
-      // Resolve all context in parallel
-      [wikiContext, urlContext, liveMarketplace] = await Promise.all([
+      [wikiContext, urlContext, liveMarketplace, history] = await Promise.all([
         Promise.resolve(loadWikiContext()),
         resolveUrlsInMessage(question),
         getLiveMarketplace(),
+        getHistory(message.channelId, userId, username),
       ]);
     } finally {
       clearInterval(typingInterval);
     }
 
-    const history = getHistory(message.channelId);
     const answer = await askAboutOpenHome(question, wikiContext, urlContext, liveMarketplace, history);
 
-    addToHistory(message.channelId, "user", question);
-    addToHistory(message.channelId, "assistant", answer);
+    // Store both sides of the exchange
+    await Promise.all([
+      addToHistory(message.channelId, userId, username, "user", question),
+      addToHistory(message.channelId, userId, username, "assistant", answer),
+    ]);
 
     await message.reply({
       content: answer,
       allowedMentions: { repliedUser: false },
     });
 
-    // Also silently classify intel channel messages for community health
+    // Silently classify for community health
     handlePassiveMessage(message).catch(() => {});
   } catch (err) {
     console.log("[openhome-intel] ERROR:", err.message);
@@ -645,11 +733,11 @@ function scheduleDailyBrief() {
       const channel = await client.channels.fetch(INTEL_CHANNEL_ID);
       if (!channel?.isTextBased()) return;
 
-      const [wikiContext, liveMarketplace] = await Promise.all([
+      const [wikiContext, liveMarketplace, communityHealth] = await Promise.all([
         Promise.resolve(loadWikiContext()),
         getLiveMarketplace(),
+        getCommunityHealthSummary(),
       ]);
-      const communityHealth = getCommunityHealthSummary();
 
       const brief = await generateDailyBrief(wikiContext, communityHealth, liveMarketplace);
       const dateStr = new Date().toISOString().split("T")[0];
@@ -671,23 +759,28 @@ function scheduleDailyBrief() {
 const PORT = process.env.PORT || 3000;
 http.createServer((req, res) => {
   if (req.url === "/health/signals") {
-    // Lightweight JSON endpoint for community health (internal tooling)
-    const summary = {
-      total_events: communityEvents.length,
-      signals: communityEvents.reduce((acc, e) => {
-        acc[e.signal] = (acc[e.signal] || 0) + 1;
-        return acc;
-      }, {}),
-      recent: communityEvents.slice(-10).map((e) => ({
-        username: e.username,
-        channel: e.channelName,
-        signal: e.signal,
-        excerpt: e.excerpt,
-        age_min: Math.floor((Date.now() - e.ts) / 60000),
-      })),
-    };
-    res.writeHead(200, { "Content-Type": "application/json" });
-    res.end(JSON.stringify(summary, null, 2));
+    (async () => {
+      let recent = [];
+      let signals = {};
+      if (db) {
+        const r = await db.query(
+          `SELECT username, channel_name, signal, excerpt,
+                  EXTRACT(EPOCH FROM (NOW()-ts))/60 AS age_min
+           FROM community_signals ORDER BY ts DESC LIMIT 20`
+        ).catch(() => ({ rows: [] }));
+        recent = r.rows;
+        signals = recent.reduce((acc, e) => { acc[e.signal] = (acc[e.signal]||0)+1; return acc; }, {});
+      } else {
+        recent = communityEvents.slice(-10).map((e) => ({
+          username: e.username, channel_name: e.channelName,
+          signal: e.signal, excerpt: e.excerpt,
+          age_min: Math.floor((Date.now() - e.ts) / 60000),
+        }));
+        signals = communityEvents.reduce((acc, e) => { acc[e.signal] = (acc[e.signal]||0)+1; return acc; }, {});
+      }
+      res.writeHead(200, { "Content-Type": "application/json" });
+      res.end(JSON.stringify({ storage: db ? "postgres" : "memory", signals, recent }, null, 2));
+    })().catch(() => { res.writeHead(500); res.end("error"); });
   } else {
     res.writeHead(200);
     res.end("ok");
