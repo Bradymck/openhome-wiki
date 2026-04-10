@@ -41,13 +41,11 @@ GITHUB_REPOS=("open-home" "openhome-abilities" "openhome-sdk")
 # ── Credential resolution ────────────────────────────────────────────────────
 
 get_secret() {
-  local key="$1"
-  # 1. Environment variable
-  local val="${!key:-}"
-  if [[ -n "$val" ]]; then echo "$val"; return; fi
-  # 2. macOS Keychain (local runs)
+  # Only macOS Keychain — env vars are resolved directly below (hyphens break ${!key})
+  local keychain_service="$1"
   if command -v security &>/dev/null; then
-    val=$(security find-generic-password -a "openclaw" -s "$key" -w 2>/dev/null || true)
+    local val
+    val=$(security find-generic-password -a "openclaw" -s "$keychain_service" -w 2>/dev/null || true)
     if [[ -n "$val" ]]; then echo "$val"; return; fi
   fi
   echo ""
@@ -56,7 +54,8 @@ get_secret() {
 OPENAI_API_KEY="${OPENAI_API_KEY:-$(get_secret openai-api-key)}"
 DISCORD_BOT_TOKEN="${DISCORD_BOT_TOKEN:-$(get_secret openhome-discord-bot-token)}"
 X_BEARER_TOKEN="${X_BEARER_TOKEN:-$(get_secret x-bearer-token)}"
-GITHUB_TOKEN="${GITHUB_TOKEN:-$(get_secret github-token)}"
+# GH_TOKEN is injected by GitHub Actions; fall back to Keychain for local runs
+GITHUB_TOKEN="${GH_TOKEN:-${GITHUB_TOKEN:-$(get_secret github-token)}}"
 
 if [[ -z "$OPENAI_API_KEY" ]]; then
   echo "ERROR: OPENAI_API_KEY not found" >&2
