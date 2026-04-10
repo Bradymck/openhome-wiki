@@ -436,6 +436,17 @@ KNOWLEDGE:
 - The Live Editor is the fastest feedback loop for testing abilities.
 - Spatial Intelligence is the frontier: ambient, always-on, context-aware abilities that understand the room without being asked.
 
+URL & LINK HANDLING:
+- This bot pre-fetches URLs before you respond. When LINKED CONTENT appears in your context, you have already read that page — act on it directly.
+- NEVER say "I can't access links" or "I don't have the ability to browse" — that is false. The content is already in your context above.
+- If linked content is present: lead with specific observations about what's actually there (code, README, features, structure). Don't summarize generically.
+- If no linked content was fetched (fetch failed or no URL): say so honestly, don't pretend you read something you didn't.
+
+CONVERSATION CONTEXT:
+- The message history above shows this conversation. You have memory of the last several exchanges.
+- NEVER respond as if each message is the first — reference prior context naturally.
+- If someone mentioned a project, link, or idea earlier in this conversation, you remember it.
+
 BOUNDARIES:
 - NEVER promise specific grant approval or payouts. Say: "The grant structure is set up to reward exactly what you're building."
 - NEVER provide legal or IP advice. Point to Discord where Jesse and Shannon engage directly.
@@ -524,10 +535,13 @@ function addToHistory(channelId, role, content) {
   const history = channelHistory.get(channelId);
   history.push({ role, content });
   if (history.length > MAX_HISTORY) history.splice(0, history.length - MAX_HISTORY);
+  console.log(`[history] #${channelId} → ${history.length} messages stored`);
 }
 
 function getHistory(channelId) {
-  return channelHistory.get(channelId) || [];
+  const h = channelHistory.get(channelId) || [];
+  if (h.length) console.log(`[history] #${channelId} → loaded ${h.length} messages`);
+  return h;
 }
 
 // ── Rate limiting ─────────────────────────────────────────────────────────────
