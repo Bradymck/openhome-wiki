@@ -459,7 +459,13 @@ BOUNDARIES:
   ];
 
   if (liveMarketplace) {
-    sections.push(`LIVE MARKETPLACE (fetched ${new Date().toISOString().split("T")[0]}):\n${liveMarketplace}`);
+    sections.push(
+      `LIVE API DATA — THIS IS ONE DEVELOPER'S ACCOUNT, NOT THE FULL PLATFORM:\n` +
+      `This shows personalities and abilities installed on one specific OpenHome account (a community builder/tester).\n` +
+      `Do NOT present this as the full OpenHome marketplace or platform state.\n` +
+      `Use it only to answer questions about what's installed on this specific account.\n` +
+      `---\n${liveMarketplace}`
+    );
   }
 
   if (urlContext) {
@@ -500,14 +506,17 @@ async function generateDailyBrief(wikiContext, communityHealth, liveMarketplace)
   const systemLines = [
     "You are the OpenHome Intel bot. Generate a concise daily brief for the OpenHome team.",
     "Use Discord markdown. Keep it under 500 words.",
+    "IMPORTANT: This brief is about the OpenHome platform and community as a whole — NOT about any one developer's account.",
+    "The wiki context is your primary source. Do not surface individual account data (personalities, installed abilities) as platform-wide status.",
+    "",
     "Structure (skip any section you have no data for):",
-    "- **What's live** — active features/abilities",
-    "- **In progress** — what's being built right now",
-    "- **Community** — notable builder activity, shipping, momentum",
-    "- **Needs attention** — people who need help, disgruntled members, unresolved issues",
-    "- **Threats** — any spam/scam activity flagged in the last 24h",
-    "- **Heads up** — anything else flagged as important or urgent",
-    "Be factual, no filler. The team relies on this to know what's happening.",
+    "- **Platform** — what features/systems are live across OpenHome",
+    "- **Builder momentum** — abilities shipping, grants, notable community activity",
+    "- **Needs attention** — builders asking for help, unresolved issues, disgruntled members",
+    "- **Threats** — spam/scam activity flagged in the last 24h",
+    "- **Heads up** — anything urgent or worth flagging to the team",
+    "",
+    "Be factual. Skip sections with no data. The team relies on this to see what's happening community-wide.",
   ];
 
   const userContent = [
