@@ -105,7 +105,8 @@ function getLastUpdated() {
 
 // ── URL fetching + llms.txt ───────────────────────────────────────────────────
 
-const URL_PATTERN = /https?:\/\/[^\s<>"']+/g;
+// Matches plain URLs and Discord's <url> suppressed-embed format
+const URL_PATTERN = /<?(https?:\/\/[^\s<>"']+)>?/g;
 
 function fetchUrl(url, timeoutMs = URL_FETCH_TIMEOUT_MS) {
   return new Promise((resolve) => {
@@ -196,11 +197,20 @@ async function fetchUrlContext(url) {
 }
 
 async function resolveUrlsInMessage(content) {
-  const urls = [...new Set((content.match(URL_PATTERN) || []))].slice(0, 3); // max 3 per msg
+  // Extract capture group 1 (the URL without angle brackets)
+  const rawMatches = [];
+  const re = /<?(https?:\/\/[^\s<>"']+)>?/g;
+  let m;
+  while ((m = re.exec(content)) !== null) {
+    rawMatches.push(m[1]);
+  }
+  const urls = [...new Set(rawMatches)].slice(0, 3); // max 3 per msg
   if (!urls.length) return null;
 
+  console.log(`[url-fetch] resolving ${urls.length} URL(s): ${urls.join(", ")}`);
   const contexts = await Promise.all(urls.map(fetchUrlContext));
   const valid = contexts.filter(Boolean);
+  console.log(`[url-fetch] fetched ${valid.length}/${urls.length} successfully`);
   return valid.length ? valid.join("\n\n---\n\n") : null;
 }
 
@@ -439,7 +449,12 @@ BOUNDARIES:
   }
 
   if (urlContext) {
-    sections.push(`LINKED CONTENT (fetched from URLs in this message):\n---\n${urlContext}\n---`);
+    sections.push(
+      `LINKED CONTENT — FETCHED FROM URLS IN THIS MESSAGE:\n` +
+      `You MUST reference this content in your response. Lead with what you actually found at the link.\n` +
+      `Do NOT give a generic response when linked content is present — respond to what's actually there.\n` +
+      `---\n${urlContext}\n---`
+    );
   }
 
   sections.push(`WIKI CONTEXT (synthesized from Discord, GitHub, X/Twitter — last updated: ${getLastUpdated()}):\n---\n${wikiContext}`);
@@ -563,14 +578,23 @@ client.on("messageCreate", async (message) => {
   if (isRateLimited(message.author.id)) return;
 
   try {
+    // Keep typing indicator alive — it expires after 10s, refresh every 8s
     await message.channel.sendTyping();
+    const typingInterval = setInterval(() => {
+      message.channel.sendTyping().catch(() => {});
+    }, 8000);
 
-    // Resolve all context in parallel
-    const [wikiContext, urlContext, liveMarketplace] = await Promise.all([
-      Promise.resolve(loadWikiContext()),
-      resolveUrlsInMessage(question),
-      getLiveMarketplace(),
-    ]);
+    let wikiContext, urlContext, liveMarketplace;
+    try {
+      // Resolve all context in parallel
+      [wikiContext, urlContext, liveMarketplace] = await Promise.all([
+        Promise.resolve(loadWikiContext()),
+        resolveUrlsInMessage(question),
+        getLiveMarketplace(),
+      ]);
+    } finally {
+      clearInterval(typingInterval);
+    }
 
     const history = getHistory(message.channelId);
     const answer = await askAboutOpenHome(question, wikiContext, urlContext, liveMarketplace, history);
