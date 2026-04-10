@@ -53,13 +53,13 @@ get_secret() {
   echo ""
 }
 
-ANTHROPIC_API_KEY="${ANTHROPIC_API_KEY:-$(get_secret anthropic-api-key)}"
+OPENAI_API_KEY="${OPENAI_API_KEY:-$(get_secret openai-api-key)}"
 DISCORD_BOT_TOKEN="${DISCORD_BOT_TOKEN:-$(get_secret openhome-discord-bot-token)}"
 X_BEARER_TOKEN="${X_BEARER_TOKEN:-$(get_secret x-bearer-token)}"
 GITHUB_TOKEN="${GITHUB_TOKEN:-$(get_secret github-token)}"
 
-if [[ -z "$ANTHROPIC_API_KEY" ]]; then
-  echo "ERROR: ANTHROPIC_API_KEY not found" >&2
+if [[ -z "$OPENAI_API_KEY" ]]; then
+  echo "ERROR: OPENAI_API_KEY not found" >&2
   exit 1
 fi
 
@@ -202,7 +202,7 @@ sanitize_sources() {
     | head -c 8000  # hard cap on input size
 }
 
-# ── Claude synthesis ─────────────────────────────────────────────────────────
+# ── OpenAI synthesis (gpt-4o-mini) ───────────────────────────────────────────
 
 synthesize_page() {
   local entity="$1"
@@ -239,24 +239,22 @@ PROMPT
 
   local payload
   payload=$(jq -n \
-    --arg model "claude-haiku-4-5-20251001" \
     --arg prompt "$prompt" \
     '{
-      model: $model,
+      model: "gpt-4o-mini",
       max_tokens: 1024,
       messages: [{role: "user", content: $prompt}]
     }')
 
   local response
   response=$(curl -s \
-    -H "x-api-key: $ANTHROPIC_API_KEY" \
-    -H "anthropic-version: 2023-06-01" \
+    -H "Authorization: Bearer $OPENAI_API_KEY" \
     -H "content-type: application/json" \
     --data "$payload" \
-    "https://api.anthropic.com/v1/messages" \
+    "https://api.openai.com/v1/chat/completions" \
     2>/dev/null)
 
-  echo "$response" | jq -r '.content[0].text' 2>/dev/null || echo "ERROR: synthesis failed for $entity"
+  echo "$response" | jq -r '.choices[0].message.content' 2>/dev/null || echo "ERROR: synthesis failed for $entity"
 }
 
 # ── Schema excerpt extraction ────────────────────────────────────────────────

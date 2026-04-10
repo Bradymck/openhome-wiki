@@ -32,7 +32,7 @@ jobs:
 
       - name: Run ingest
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           DISCORD_SERVER_ID: '1197724389630824508'
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
