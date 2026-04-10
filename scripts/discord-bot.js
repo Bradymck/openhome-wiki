@@ -16,7 +16,6 @@
  *   DISCORD_BOT_TOKEN      — Discord bot token
  *   OPENAI_API_KEY         — OpenAI API key (gpt-4o-mini)
  *   INTEL_CHANNEL_ID       — Active channel ID (default: 1491929017576591401)
- *   OPENHOME_API_KEY       — OpenHome API key (for live marketplace queries, optional)
  */
 
 const { Client, GatewayIntentBits } = require("discord.js");
@@ -36,7 +35,6 @@ const MODEL = "gpt-4o-mini";
 const MAX_WIKI_CHARS = 12000;
 const BRIEF_HOUR_UTC = 13; // 8am ET
 const URL_FETCH_TIMEOUT_MS = 8000;
-const MARKETPLACE_CACHE_TTL_MS = 5 * 60 * 1000; // 5 min
 const SIGNAL_WINDOW_MS = 24 * 60 * 60 * 1000;   // 24h rolling window
 
 // Signal types for community monitoring
@@ -63,7 +61,6 @@ function getSecret(envKey, keychainService) {
 
 const DISCORD_BOT_TOKEN = getSecret("DISCORD_BOT_TOKEN", "openhome-discord-bot-token");
 const OPENAI_API_KEY    = getSecret("OPENAI_API_KEY",    "openai-api-key");
-const OPENHOME_API_KEY  = getSecret("OPENHOME_API_KEY",  "openhome-api-key");
 
 if (!DISCORD_BOT_TOKEN || !OPENAI_API_KEY) {
   console.error("ERROR: Missing DISCORD_BOT_TOKEN or OPENAI_API_KEY");
@@ -215,44 +212,8 @@ async function resolveUrlsInMessage(content) {
   return valid.length ? valid.join("\n\n---\n\n") : null;
 }
 
-// ── Live marketplace queries ──────────────────────────────────────────────────
-
-let marketplaceCache = null;
-let marketplaceCachedAt = 0;
-
-async function getLiveMarketplace() {
-  if (!OPENHOME_API_KEY) return null;
-  if (Date.now() - marketplaceCachedAt < MARKETPLACE_CACHE_TTL_MS) return marketplaceCache;
-
-  try {
-    // Use get_personalities — lists all personalities + their installed abilities
-    // (get-all-capability endpoint not yet deployed per CLI fallback logic)
-    const res = await fetch("https://app.openhome.com/api/sdk/get_personalities", {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${OPENHOME_API_KEY}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ api_key: OPENHOME_API_KEY, with_image: false }),
-      signal: AbortSignal.timeout(8000),
-    });
-    if (!res.ok) return null;
-    const data = await res.json();
-    const personalities = data?.personalities || [];
-
-    const lines = ["**Live personalities on this account:**"];
-    for (const p of personalities) {
-      const caps = (p.matching_capabilities || []).filter(Boolean);
-      lines.push(`- **${p.name}** — ${caps.length ? `abilities: ${caps.join(", ")}` : "no abilities installed"}`);
-    }
-
-    marketplaceCache = lines.join("\n");
-    marketplaceCachedAt = Date.now();
-    return marketplaceCache;
-  } catch {
-    return null;
-  }
-}
+// Live marketplace queries removed — personal API key = personal account data,
+// not community-wide state. Wiki is the source of truth for platform/ability info.
 
 // ── Community signal classifier ───────────────────────────────────────────────
 
@@ -417,7 +378,7 @@ async function handlePassiveMessage(message) {
 
 // ── OpenHome Bot system prompt ────────────────────────────────────────────────
 
-function buildSystemPrompt(wikiContext, urlContext, liveMarketplace) {
+function buildSystemPrompt(wikiContext, urlContext) {
   const sections = [
     `You are the OpenHome Bot, a developer co-pilot for the OpenHome platform. You have deep expertise in OpenHome, voice AI development, and the Ability ecosystem. You are direct, knowledgeable, and energized — like the most plugged-in person in the Discord. You treat every developer as a pioneer.
 
@@ -484,8 +445,8 @@ BOUNDARIES:
 
 // ── Q&A ───────────────────────────────────────────────────────────────────────
 
-async function askAboutOpenHome(question, wikiContext, urlContext, liveMarketplace, history = []) {
-  const systemPrompt = buildSystemPrompt(wikiContext, urlContext, liveMarketplace);
+async function askAboutOpenHome(question, wikiContext, urlContext, history = []) {
+  const systemPrompt = buildSystemPrompt(wikiContext, urlContext);
   const response = await openai.chat.completions.create({
     model: MODEL,
     max_tokens: 512,
@@ -500,7 +461,7 @@ async function askAboutOpenHome(question, wikiContext, urlContext, liveMarketpla
 
 // ── Daily brief ───────────────────────────────────────────────────────────────
 
-async function generateDailyBrief(wikiContext, communityHealth, liveMarketplace) {
+async function generateDailyBrief(wikiContext, communityHealth) {
   const today = new Date().toISOString().split("T")[0];
 
   const systemLines = [
@@ -521,7 +482,6 @@ async function generateDailyBrief(wikiContext, communityHealth, liveMarketplace)
 
   const userContent = [
     `Daily brief for ${today}.`,
-    liveMarketplace ? `\nLive marketplace:\n${liveMarketplace}` : "",
     communityHealth ? `\nCommunity signals:\n${communityHealth}` : "",
     `\nWiki context:\n${wikiContext}`,
   ].filter(Boolean).join("\n");
@@ -661,7 +621,6 @@ client.once("clientReady", async () => {
   console.log(`[openhome-intel] Online as ${client.user.tag}`);
   console.log(`[openhome-intel] Active channel: ${INTEL_CHANNEL_ID}`);
   console.log(`[openhome-intel] Community monitoring: ALL channels`);
-  console.log(`[openhome-intel] Live marketplace: ${OPENHOME_API_KEY ? "enabled" : "disabled (no API key)"}`);
   await initDb();
   scheduleDailyBrief();
 });
@@ -693,19 +652,18 @@ client.on("messageCreate", async (message) => {
       message.channel.sendTyping().catch(() => {});
     }, 8000);
 
-    let wikiContext, urlContext, liveMarketplace, history;
+    let wikiContext, urlContext, history;
     try {
-      [wikiContext, urlContext, liveMarketplace, history] = await Promise.all([
+      [wikiContext, urlContext, history] = await Promise.all([
         Promise.resolve(loadWikiContext()),
         resolveUrlsInMessage(question),
-        getLiveMarketplace(),
         getHistory(message.channelId, userId, username),
       ]);
     } finally {
       clearInterval(typingInterval);
     }
 
-    const answer = await askAboutOpenHome(question, wikiContext, urlContext, liveMarketplace, history);
+    const answer = await askAboutOpenHome(question, wikiContext, urlContext, history);
 
     // Store both sides of the exchange
     await Promise.all([
@@ -742,13 +700,12 @@ function scheduleDailyBrief() {
       const channel = await client.channels.fetch(INTEL_CHANNEL_ID);
       if (!channel?.isTextBased()) return;
 
-      const [wikiContext, liveMarketplace, communityHealth] = await Promise.all([
+      const [wikiContext, communityHealth] = await Promise.all([
         Promise.resolve(loadWikiContext()),
-        getLiveMarketplace(),
         getCommunityHealthSummary(),
       ]);
 
-      const brief = await generateDailyBrief(wikiContext, communityHealth, liveMarketplace);
+      const brief = await generateDailyBrief(wikiContext, communityHealth);
       const dateStr = new Date().toISOString().split("T")[0];
 
       const healthSection = communityHealth
