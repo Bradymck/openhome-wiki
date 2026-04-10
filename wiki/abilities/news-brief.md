@@ -1,23 +1,29 @@
+```markdown
 ---
-entity: abilities/news-brief
-category: utility / productivity
+title: abilitlies/news-brief
+entity_type: abilities
 status: live
+last_updated: 2026-04-10
 ---
 
 ## what-it-does
-A daily news briefing ability that reads top headlines aloud when triggered. Configurable by source and topic.
+The News Brief ability provides users with quick updates regarding current events and news. Users can activate this ability using specific voice commands to receive brief summaries of the latest news articles and happenings in various domains.
 
 ## how-to-build
-Fetches headlines from a news API on a schedule or on-demand. Synthesizes a short brief and speaks it via the Personality. Builder-configurable sources.
+To build the News Brief ability, developers need to integrate APIs that fetch news data from reputable sources. The ability should handle voice commands that trigger the news updates. Custom Python logic can be used to parse and summarize the news articles, ensuring a concise delivery to the user.
 
 ## category
-utility / productivity
+utility
 
 ## built-by
-community
+[[abilities/deadman-fm]]
 
 ## status
 live
 
 ## connects-to
-[[platform/abilities]], [[platform/marketplace]], [[concepts/abilities-as-apps]]
+[[abilities/trivia]]
+[[abilities/aquaprime]]
+
+<!-- synthesized: 2026-04-10T20:56:04Z -->
+```

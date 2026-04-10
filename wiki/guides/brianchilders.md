@@ -1,18 +1,24 @@
+```markdown
 ---
-entity: guides/brianchilders
-discord: brianchilders
-role: Community Guide
-status: stub
+title: "Brian Childers"
+entity_type: "guides/"
+status: "stub"
+last_updated: 2026-04-10
 ---
 
 ## who-they-are
-Community Guide active in the OpenHome Discord.
+Brian Childers is a member of the OpenHome community with expertise in developing smart solutions, particularly in the realm of AI and voice technology.
 
 ## what-they-help-with
-status: stub
+Brian helps with the creation of voice AI agents and extensions through Abilities. He has experience with integration of various software tools, APIs, and developing features that enhance user interactions with devices.
 
 ## how-to-reach
-- discord: @brianchilders
+Discord: @brianchilders
 
 ## connects-to
-[[platform/openhome]], [[concepts/abilities-as-apps]]
+[[guides/]]
+[[openhome/]]
+[[OpenClaw/]]
+[[abilities/]]
+<!-- synthesized: 2026-04-10T20:56:04Z -->
+```

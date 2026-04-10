@@ -1,17 +1,26 @@
----
-entity: platform/openhome
-name: OpenHome
-current-status: live
----
+```yaml
+title: OpenHome
+entity_type: platform
+status: live
+last_updated: 2026-04-10
+```
 
 ## what-it-is
-OpenHome is an open-source, local-first voice AI platform built around a physical smart speaker. It is the privacy-respecting, developer-extensible alternative to Alexa, Google Home, and Siri — with no cloud lock-in, no data collection, and full owner control.
+OpenHome is an open-source Voice AI platform that enables users to build conversational AI agents known as Personalities, which can be enhanced with modular voice plugins called Abilities.
 
 ## how-it-works
-OpenHome speakers run a Personality (a local voice AI) that can be extended with Abilities (Python plugins). Builders write Abilities using the CapabilityWorker SDK, test them in the Live Editor, and publish to the Marketplace. Everything runs locally on the device.
+OpenHome allows developers to create and manage AI agents with unique voices and personas. The platform operates on a system where a Personality can be equipped with various Abilities that expand its functionality—such as calling APIs, playing music, or controlling smart home devices. Users can interact with Personalities through voice commands, with specific Abilities being triggered by keywords during conversations. The development environment provides tools for creating, forking, and sharing Abilities, fostering a community-driven ecosystem of voice applications. OpenHome also includes a Dashboard for managing AI agents and offers a global community for developers to collaborate.
 
 ## current-status
 live
 
 ## connects-to
-[[platform/speakers]], [[platform/abilities]], [[platform/voice-ai]], [[platform/local-link]], [[platform/marketplace]], [[platform/live-editor]], [[platform/dashboard]], [[concepts/voice-first]], [[concepts/local-first]]
+[[platform/speakers]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/voice-ai]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
+
+<!-- synthesized: 2026-04-10T20:56:04Z -->

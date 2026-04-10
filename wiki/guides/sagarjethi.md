@@ -1,18 +1,25 @@
+```markdown
 ---
-entity: guides/sagarjethi
-discord: sagarjethi
-role: Community Guide
-status: live
+title: "sagarjethi"
+entity_type: "guides/"
+status: "stub"
+last_updated: 2026-04-10
 ---
 
 ## who-they-are
-Community Guide helping builders get started with OpenHome integrations.
+Sagarjethi is a developer with over 7 years of experience in creating web applications, software, and AI-based tools. They focus on building efficient and user-friendly solutions that tackle real-world problems. They have a keen interest in emerging technologies and startup ecosystems, and they continually seek to understand how various industries evolve.
 
 ## what-they-help-with
-Builder onboarding, integrations
+Sagarjethi specializes in building AI-driven applications, particularly using the OpenHome platform. They have created a sales monitor for Gumroad and Shopify, which allows users to check daily revenue and sales trends through voice commands. This project showcases their ability to integrate API functionalities into voice AI applications.
 
 ## how-to-reach
-- discord: @sagarjethi
+You can reach Sagarjethi on Discord, although their handle was not specified in the source material.
 
 ## connects-to
-[[platform/openhome]], [[concepts/abilities-as-apps]]
+- [[guides]]
+- [[OpenHome]]
+- [[Voice AI]]
+- [[API Integrations]]
+
+<!-- synthesized: 2026-04-10T20:56:04Z -->
+```

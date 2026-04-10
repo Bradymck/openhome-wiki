@@ -1,20 +1,24 @@
+```markdown
 ---
-entity: team/shannon
-name: Shannon
-discord: cetapod
-role: CEO
+title: Shannon
+entity_type: team
 status: live
+last_updated: 2026-04-10
 ---
 
-## who-they-are
-Shannon is CEO and co-founder of OpenHome. She leads product vision, community growth, the grant program, and partnerships. She is the primary public voice of OpenHome on X and Discord.
+### who-they-are
+Shannon is the CEO of OpenHome. With a background in technology and leadership, Shannon plays a crucial role in steering the company towards its mission of making AI-powered, voice-first applications accessible to everyone.
 
-## what-they-own
-Grant program, community strategy, partnerships, product direction, OpenHome brand
+### what-they-own
+Shannon leads the overall strategy and vision of the OpenHome platform. They are responsible for overseeing the development and deployment of OpenHome's AI solutions and ensuring a cohesive approach to product innovation and customer engagement.
 
-## how-to-reach
-- discord: @cetapod
-- x: https://x.com/openhome
+### how-to-reach
+- Discord: @openhome
+- X/Twitter: @openhome
 
-## connects-to
-[[platform/openhome]], [[platform/marketplace]], [[concepts/grant-program]], [[concepts/abilities-as-apps]]
+### connects-to
+[[team/jesse]]  
+[[projects/openhome]]
+  
+<!-- synthesized: 2026-04-10T20:56:04Z -->
+```

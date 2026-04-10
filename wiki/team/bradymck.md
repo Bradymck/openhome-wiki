@@ -1,20 +1,24 @@
----
-entity: team/bradymck
-name: Brady
-discord: bradymck
-role: Team / Builder
-status: live
----
+```yaml
+title: Brady McK
+entity_type: team/bradymck
+status: stub
+last_updated: 2026-04-10
+```
 
-## who-they-are
-Brady is on the OpenHome team and is an active builder in the ecosystem. He is building AquaPrime — an on-chain voice RPG powered by an OpenHome speaker. He is also the creator of the deadman.fm ability and the AquaPrime ability.
+### who-they-are
+Brady McK is a member of the OpenHome team, contributing to its vision and development.
 
-## what-they-own
-AquaPrime integration, deadman.fm ability, community builder relations
+### what-they-own
+Brady focuses on the integration and development of AI capabilities within the OpenHome platform, particularly in enhancing user interactions with voice-based applications.
 
-## how-to-reach
-- discord: @bradymck
-- x: https://x.com/BradyMck_
+### how-to-reach
+You can connect with Brady on Discord; their handle is not specified in the available data.
 
-## connects-to
-[[abilities/aquaprime]], [[abilities/deadman-fm]], [[platform/openhome]], [[concepts/web3-native]]
+### connects-to
+- [[team/jesse]]
+- [[team/shannon]]
+- [[OpenHome]]
+- [[voice AI]]
+- [[developer docs]]
+
+<!-- synthesized: 2026-04-10T20:56:04Z -->

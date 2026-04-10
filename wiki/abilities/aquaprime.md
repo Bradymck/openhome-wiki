@@ -1,23 +1,30 @@
+```markdown
 ---
-entity: abilities/aquaprime
-category: web3 / entertainment
-status: in-review
+title: abilities/aquaprime
+entity_type: abilities
+status: stub
+last_updated: 2026-04-10
 ---
 
-## what-it-does
-AquaPrime is an on-chain voice RPG ability for OpenHome speakers. Players interact with their AquaPrime NFT platypus companions through voice — exploring locations, battling, and progressing through a living game world narrated by ARI.
+### what-it-does
+Aquaprime is an ability designed for managing and summarizing sales data across different platforms such as Gumroad and Shopify. Users can easily query their current sales metadata by saying "check my sales," and the ability will provide insights into today's revenue, best sellers, and sales trends.
 
-## how-to-build
-Built using the CapabilityWorker SDK + web3 wallet integration. The ability connects to the AquaPrime game backend (platypuspassions.com), authenticates via SIWE, and routes voice commands through the ARI narration engine.
+### how-to-build
+Details on the specific implementation and API surface of Aquaprime are currently not documented. Builders interested in creating similar abilities or enhancing Aquaprime can refer to the OpenHome developer resources.
 
-## category
-web3 / entertainment
+### category
+utility
 
-## built-by
-[[builders/bradymck]]
+### built-by
+[[User Profile of the Builder]]
 
-## status
-in-review
+### status
+stub
 
-## connects-to
-[[builders/bradymck]], [[concepts/web3-native]], [[platform/abilities]], [[platform/voice-ai]]
+### connects-to
+[[abilities/deadman-fm]]  
+[[abilities/trivia]]  
+[[abilities/news-brief]]  
+
+<!-- synthesized: 2026-04-10T20:56:04Z -->
+```

@@ -1,15 +1,27 @@
+```markdown
 ---
-entity: concepts/grant-program
+title: Grant Program
+entity_type: concepts/grant-program
+status: live
+last_updated: 2026-04-10
 ---
 
 ## definition
-The OpenHome Grant Program rewards builders for shipping Abilities. Grants scale with traction: $100 for first shipped Ability, $1K at day 7, $5K-$20K at 30 days, up to $50K at 3-6 months.
+The Grant Program is an initiative aimed at supporting developers and contributors within the OpenHome community. It provides financial and resource allocation for innovative projects that utilize the OpenHome platform.
 
 ## why-it-matters
-The grant program is the primary economic incentive for the builder ecosystem. It funds early-stage exploration and rewards sustained community contribution.
+The Grant Program is crucial for fostering innovation and encouraging development within the OpenHome ecosystem. By supporting community members who create valuable applications and contributions, it enhances the overall capabilities of the platform and promotes a collaborative environment.
 
 ## how-it-manifests
-Managed by Shannon (CEO). Builders apply after shipping. Grant structure is public but approvals are discretionary based on quality and traction.
+The Grant Program manifests through the distribution of physical development kits (devkits) to top contributors and those who provide valuable feedback. Recipients of the devkits receive additional grant budgets, promotional support for their projects, and resources to help bring their ideas to life. This initiative ensures that developers have the tools and backing necessary to experiment and innovate on the OpenHome platform.
 
 ## connects-to
-[[team/shannon]], [[platform/marketplace]], [[platform/abilities]], [[concepts/abilities-as-apps]]
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+
+<!-- synthesized: 2026-04-10T20:56:04Z -->
+```

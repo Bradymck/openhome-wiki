@@ -1,20 +1,24 @@
----
-entity: team/jesse
-name: Jesse
-discord: jesserank
-role: CTO
+```yaml
+title: team/jesse
+entity_type: team
 status: live
----
+last_updated: 2026-04-10
+```
 
 ## who-they-are
-Jesse is CTO and co-founder of OpenHome. He leads all technical development including the OpenHome speaker firmware, the Ability SDK, the CapabilityWorker runtime, and the Live Editor. Previously built embedded systems and voice interfaces before founding OpenHome.
+Jesse is the Chief Technology Officer (CTO) at OpenHome. He has an extensive background in developing AI-powered applications and technology solutions, focusing on voice interfaces and user interaction.
 
 ## what-they-own
-Speaker firmware, Ability SDK (CapabilityWorker), Live Editor, GitHub repos, platform architecture
+Jesse leads the development of OpenHome’s Voice AI platform, overseeing project initiatives related to building conversational agents and modular voice plugins, known as Abilities. He is also involved in the strategic direction and technical implementation of new features within the platform.
 
 ## how-to-reach
-- discord: @jesserank
-- x: https://x.com/jesserank
+Jesse can be reached on Discord as @jesserank. 
 
 ## connects-to
-[[platform/openhome]], [[platform/abilities]], [[platform/live-editor]], [[platform/speakers]], [[platform/voice-ai]]
+[[team/shannon]]
+[[dev.openhome.com]]
+[[docs.openhome.com]]
+[[app.openhome.com]]
+[[github.com/openhome-dev/abilities]]
+
+<!-- synthesized: 2026-04-10T20:56:04Z -->
