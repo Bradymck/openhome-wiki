@@ -2,27 +2,28 @@
 ---
 title: Roadmap for OpenHome
 entity_type: roadmap/planned
-status: live
-last_updated: 2026-04-10
+status: in-progress
+last_updated: 2026-04-11
 ---
 
-### what-it-is
-OpenHome is an open-source Voice AI platform that enables the development of conversational AI agents known as Personalities. Users can build these agents and enhance them with modular voice plugins called Abilities, which allow for new skills and interactions.
+## what-it-is
+OpenHome is currently in the process of shipping version 0.1 development kits (DevKits), which are advanced smart speakers designed to enable users to build AI-powered voice applications. These kits support building personal voice AI agents called Personalities, along with modular plugins known as Abilities that enhance their functionality.
 
-### status
-In-progress
+## status
+in-progress
 
-### why-it-matters
-The motivation behind OpenHome is to revolutionize user interaction with technology, making voice-first applications accessible and intuitive. This platform aims to empower users by enhancing their abilities to connect with devices through immersive voice interactions.
+## why-it-matters
+By providing developers with access to physical DevKits and a platform for creating personalized AI experiences, OpenHome aims to make AI technology more accessible and promote innovation in voice-first applications. The development kits serve as a tool for early adopters and contributors to drive feedback and improvement on the platform.
 
-### eta
-Ongoing development with physical devkits shipping globally in small batches as of now.
+## eta
+Shipping is currently happening globally in small batches, with a persistent call for contributions and prototyping ideas. An official timeline for broader availability or new features has not been explicitly stated but will likely evolve as community contributions are integrated.
 
-### connects-to
+## connects-to
 [[OpenHome]]
+[[Voice AI]]
 [[Personalities]]
 [[Abilities]]
-[[Voice AI]]
-[[Community Development]]
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+[[Developer Docs]]
+
+<!-- synthesized: 2026-04-11T11:06:58Z -->
 ```

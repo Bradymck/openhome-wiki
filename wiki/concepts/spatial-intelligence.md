@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-04-10
+last_updated: 2026-04-11
 ---
 
 ### definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial information and understand the relationship between objects in space. It encompasses skills such as spatial reasoning, navigation, and the understanding of physical environments.
+Spatial intelligence refers to the capacity to understand, reason, and remember the spatial relations among objects. It plays a significant role in how individuals perceive and interact with their environment, effectively navigating space and understanding the layout and arrangement of physical elements. 
 
 ### why-it-matters
-In the context of OpenHome, spatial intelligence is crucial for creating immersive user experiences. By integrating spatial awareness into voice-first applications, OpenHome allows AI agents to interact with users in a more intuitive manner, facilitating an understanding of the physical space around them.
+In the context of OpenHome, spatial intelligence enhances the ability of AI agents to understand their surroundings, facilitating more natural interactions with users. This capability is crucial for voice AI applications, as it enables agents to contextualize conversations based on the user's spatial environment.
 
 ### how-it-manifests
-While specific implementations of spatial intelligence in OpenHome are not detailed in the available information, it is likely to manifest through features that enable AI agents to comprehend location-based queries and actions, improve user interactions with smart home devices, and provide context-sensitive responses based on the physical setting of the user.
+Spatial intelligence manifests within the OpenHome platform as part of the capabilities of AI agents to process spatial information related to user commands, such as location-based services, device control based on proximity, and navigation tasks. Agents equipped with spatial intelligence can thus manage smart home devices more effectively and respond to user queries that involve spatial contexts.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific implementations of spatial intelligence in OpenHome are not detai
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+<!-- synthesized: 2026-04-11T11:06:58Z -->
 ```

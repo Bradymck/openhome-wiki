@@ -2,28 +2,27 @@
 ---
 title: builders/shoompa
 entity_type: builders
-status: live
-last_updated: 2026-04-10
+status: stub
+last_updated: 2026-04-11
 ---
 
-## who-they-are
-Shoompa is an active member of the OpenHome community, specializing in creating innovative voice AI solutions. They are focused on building abilities that enhance user interaction with AI through conversational agents.
+### who-they-are
+Shoompa is a member of the OpenHome community, which focuses on building AI-powered voice applications. They have experience in developing web apps and AI-based tools, emphasizing efficiency and real problem-solving.
 
-## what-they-built
-Shoompa has developed a sales monitor ability for platforms like Gumroad and Shopify. This ability allows users to inquire about their sales by simply saying "check my sales", which triggers a response detailing today's revenue, best sellers, and trends. The ability includes a demo mode, allowing users to test it without needing API keys.
+### what-they-built
+Shoompa has contributed to building AI capabilities within the OpenHome platform. They created a sales monitoring Ability that integrates with platforms such as Gumroad and Shopify, allowing users to check their sales and revenue through voice commands.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: [@shoompa](https://discord.com/users/shoompa)
-- GitHub: [shoompa](https://github.com/shoompa)
-- X: [@shoompa](https://x.com/shoompa)
+### how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
+[[builders/openhome]]
+[[builders/openhome-dev]]
 [[abilities/sales-monitor]]
-[[openhome]]
-[[abilities]]
-
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+<!-- synthesized: 2026-04-11T11:06:58Z -->
 ```

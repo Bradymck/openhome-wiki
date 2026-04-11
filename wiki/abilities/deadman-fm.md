@@ -1,27 +1,30 @@
-```yaml
+```markdown
+---
 title: Deadman FM
 entity_type: abilities
 status: live
-last_updated: 2026-04-10
-```
+last_updated: 2026-04-11
+---
 
-## what-it-does
-Deadman FM is a voice plugin that allows users to check their sales from platforms like Gumroad and Shopify. Users can simply say "check my sales," and it provides information on today's revenue, best sellers, and sales trends. Additionally, it features a demo mode for testing without needing API keys.
+### what-it-does
+Deadman FM allows users to interact with a radio streaming service through voice commands. Users can request specific stations, check what's currently playing, and even control playback features like pause and resume.
 
-## how-to-build
-To build Deadman FM, developers can utilize the OpenHome platform. The plugin integrates with sales data APIs from Gumroad and Shopify, allowing access to revenue and sales information. Developers can refer to the [developer documentation](https://docs.openhome.com/) for more detailed instructions on creating plugins.
+### how-to-build
+Builders can create Deadman FM by integrating streaming APIs for radio services. The ability relies on voice recognition to trigger commands, which require custom Python logic. Detailed API integration information can be found in the developer documentation provided by OpenHome.
 
-## category
-productivity
+### category
+entertainment
 
-## built-by
-[[abilities/deadman-fm]]
+### built-by
+[[users/developer_name]]
 
-## status
+### status
 live
 
-## connects-to
+### connects-to
+[[abilities/aquaprime]]
 [[abilities/trivia]]
 [[abilities/news-brief]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+<!-- synthesized: 2026-04-11T11:06:58Z -->
+```

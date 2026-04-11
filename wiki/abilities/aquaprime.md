@@ -1,30 +1,29 @@
-```markdown
----
-title: abilities/aquaprime
-entity_type: abilities
+```yaml
+title: aquaprime
+entity_type: abilities/
 status: stub
-last_updated: 2026-04-10
----
+last_updated: 2026-04-11
+```
 
-### what-it-does
-Aquaprime is an ability designed for managing and summarizing sales data across different platforms such as Gumroad and Shopify. Users can easily query their current sales metadata by saying "check my sales," and the ability will provide insights into today's revenue, best sellers, and sales trends.
+## what-it-does
+Aquaprime is designed to enhance conversational AI capabilities by enabling agents built on the OpenHome platform to interact intelligently with users about water-related topics, potentially including hydration tracking or resources related to water usage.
 
-### how-to-build
-Details on the specific implementation and API surface of Aquaprime are currently not documented. Builders interested in creating similar abilities or enhancing Aquaprime can refer to the OpenHome developer resources.
+## how-to-build
+Details on how to construct the Aquaprime ability are currently not available. Builders interested in creating this ability are encouraged to follow typical OpenHome development practices, which involve learning to use the OpenHome API and accessing community resources for guidance.
 
-### category
+## category
 utility
 
-### built-by
-[[User Profile of the Builder]]
+## built-by
+[builder page not found]
 
-### status
+## status
 stub
 
-### connects-to
-[[abilities/deadman-fm]]  
-[[abilities/trivia]]  
-[[abilities/news-brief]]  
+## connects-to
+[[abilities/deadman-fm]]
+[[abilities/trivia]]
+[[abilities/news-brief]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+<!-- synthesized: 2026-04-11T11:06:58Z --> 
 ```

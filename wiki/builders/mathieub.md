@@ -1,30 +1,29 @@
 ```markdown
 ---
-title: builders/mathieub
-entity_type: builders
+title: "mathieub"
+entity_type: "builders/"
 status: live
-last_updated: 2026-04-10
+last_updated: 2026-04-11
 ---
 
 ### who-they-are
-Mathieu B. is an active member of the OpenHome community, focusing on developing AI-powered voice applications. With a strong background in creating efficient and user-friendly tools, he is contributing to the revolutionary OpenHome platform, which facilitates the creation of conversational AI agents known as Personalities.
+Mathieub is an active member of the OpenHome community, focusing on building conversational AI agents called Personalities. He engages with the community to develop and prototype new skills for these agents, utilizing the OpenHome platform to enhance user interactions with technology.
 
 ### what-they-built
-Mathieu has developed a sales monitor that integrates with Gumroad and Shopify. This ability allows users to simply say “check my sales” to receive updates on their daily revenue, best-selling products, and sales trends. The integration includes a demo mode for users to test the functionality without needing API keys. 
+Mathieub has contributed to the OpenHome ecosystem by developing an integration for sales monitoring that allows users to check revenue, best-selling items, and trends simply by saying "check my sales." This integration is designed to work with platforms like Gumroad and Shopify, featuring a demo mode for testing without needing API keys. Additionally, he has opened a pull request to the OpenHome abilities repository for broader community access.
 
 ### grant-status
-none
+$1K
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: [mathieub](https://github.com/mathieub)
-- X: Not provided
+- Discord: mathieub
+- GitHub: [mathieub GitHub](https://github.com/openhome-dev/abilities/pull/244)
+- X: [Real Decimalist's post](https://x.com/realdecimalist/status/2042726099885662385?s=20)
 
 ### connects-to
-[[builders/openhome]]
-[[builders/abilities]]
-[[builders/gumroad-integration]]
-[[builders/shopify-integration]]
+[[builders/]]
+[[abilities/sales-monitor]]
+[[abilities/openhome-personalities]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+<!-- synthesized: 2026-04-11T11:06:58Z -->
 ```

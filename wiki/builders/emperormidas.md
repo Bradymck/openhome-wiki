@@ -1,28 +1,27 @@
-```markdown
----
-title: emperormidas
+```yaml
+title: builders/emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-04-10
----
+last_updated: 2026-04-11
+```
 
 ### who-they-are
-Emperormidas is an active community builder involved with the OpenHome project, which is focused on creating a platform for building conversational AI agents.
+EmporerMidas is part of the OpenHome community, focusing on building and enhancing voice AI applications. Their work emphasizes creating practical and efficient tools for developers and users alike.
 
 ### what-they-built
-As part of the OpenHome community, emperormidas has contributed a sales monitor ability for platforms like Gumroad and Shopify. This ability allows users to retrieve their current sales performance by using a voice command: "check my sales." It includes a demo mode for testing without requiring API keys.
+Details regarding specific abilities or integrations created by EmporerMidas are currently unavailable. However, they are involved in the OpenHome project, which revolves around AI-driven voice agents and the development of modular voice plugins known as Abilities.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ### connects-to
-[[sales monitor ability]]
-[[OpenHome]]
+[[OpenHome]]  
+[[Voice AI]]  
+[[Abilities]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
-```
+<!-- synthesized: 2026-04-11T11:06:58Z -->

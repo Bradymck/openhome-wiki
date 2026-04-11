@@ -1,28 +1,27 @@
 ```markdown
 ---
-title: slowjamsteve
-entity_type: builders/
-status: live
-last_updated: 2026-04-10
+title: builders/slowjamsteve
+entity_type: builders
+status: stub
+last_updated: 2026-04-11
 ---
 
 ### who-they-are
-slowjamsteve is a developer actively contributing to the OpenHome community, focused on creating AI-powered voice applications and building integrations that enhance user experiences with voice technology.
+Slowjamsteve is an active member of the OpenHome community, contributing to the development of AI-powered voice applications. They have a background in software development and focus on creating useful and efficient tools that solve real problems.
 
 ### what-they-built
-slowjamsteve has shipped a sales monitor ability for platforms like Gumroad and Shopify. This ability allows users to query their sales data by simply stating, "check my sales," providing insights such as today's revenue, best sellers, and trends. The ability also features a demo mode for testing without API keys. The pull request for this integration can be found [here](https://github.com/openhome-dev/abilities/pull/244).
+Slowjamsteve has developed a sales monitor ability for OpenHome that integrates with platforms such as Gumroad and Shopify. This feature allows users to query their sales data and receive updates on revenue, best sellers, and trends. It also includes a demo mode for testing without needing API keys.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: @slowjamsteve
-- GitHub: [slowjamsteve](https://github.com/slowjamsteve)
-- X: [slowjamsteve](https://x.com/slowjamsteve)
+- Discord: Not specified
+- GitHub: [https://github.com/openhome-dev/abilities/pull/244](https://github.com/openhome-dev/abilities/pull/244)
+- X: Not specified
 
 ### connects-to
-[[builders/openhome]]  
-[[builders/abilities]]  
-[[builders/devkit]]
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+- [[abilities/sales-monitor]]
+
+<!-- synthesized: 2026-04-11T11:06:58Z -->
 ```

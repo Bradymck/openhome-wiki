@@ -1,19 +1,18 @@
-```markdown
----
+```yaml
 title: platform/abilities
-entity_type: wiki_page
-status: live
-last_updated: 2026-04-10
----
+entity_type: wiki
+status: beta
+last_updated: 2026-04-11
+```
 
 ## what-it-is
-Abilities are modular voice plugins within the OpenHome platform that extend the capabilities of conversational AI agents, known as Personalities. They enable Personalities to perform various tasks, such as calling APIs, playing music, running quizzes, and controlling smart devices.
+The Abilities in OpenHome are modular voice plugins that enhance the conversational AI agents known as Personalities by adding new skills and functionalities.
 
 ## how-it-works
-In the OpenHome ecosystem, Abilities are triggered through voice interactions using specific hotwords during a conversation. Each Ability runs custom Python logic to perform its functions, integrating seamlessly with the overarching Voice AI framework. Developers can create, modify, and share Abilities, promoting community innovation and collaboration within the OpenHome platform.
+Abilities are implemented as plugins that can be triggered during voice interactions. When a user converses with a Personality, specific hotwords can activate these Abilities, allowing the agent to perform a variety of tasks such as calling APIs, playing music, controlling smart devices, or running quizzes. These Abilities are developed using custom Python logic and are designed to be easily integrated into the OpenHome platform, enabling users to extend their AI agents’ capabilities based on their needs.
 
 ## current-status
-live
+beta
 
 ## connects-to
 [[platform/openhome]]
@@ -24,5 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
-```
+<!-- synthesized: 2026-04-11T11:06:58Z -->

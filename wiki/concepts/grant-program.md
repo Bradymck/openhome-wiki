@@ -3,17 +3,17 @@
 title: Grant Program
 entity_type: concepts/grant-program
 status: live
-last_updated: 2026-04-10
+last_updated: 2026-04-11
 ---
 
 ## definition
-The Grant Program is an initiative aimed at supporting developers and contributors within the OpenHome community. It provides financial and resource allocation for innovative projects that utilize the OpenHome platform.
+The Grant Program is a support initiative by OpenHome designed to provide resources, funding, and promotional opportunities to developers and contributors who create impactful projects using the OpenHome platform.
 
 ## why-it-matters
-The Grant Program is crucial for fostering innovation and encouraging development within the OpenHome ecosystem. By supporting community members who create valuable applications and contributions, it enhances the overall capabilities of the platform and promotes a collaborative environment.
+This program fosters innovation within the OpenHome community by incentivizing developers to build new capabilities and share feedback. It helps to expand the ecosystem around OpenHome, ultimately enhancing the user experience and encouraging a diverse range of applications.
 
 ## how-it-manifests
-The Grant Program manifests through the distribution of physical development kits (devkits) to top contributors and those who provide valuable feedback. Recipients of the devkits receive additional grant budgets, promotional support for their projects, and resources to help bring their ideas to life. This initiative ensures that developers have the tools and backing necessary to experiment and innovate on the OpenHome platform.
+The Grant Program is manifested through the distribution of physical development kits (devkits) to top contributors and projects, along with a budget for grants to support ongoing development. Recipients of devkits receive promotional support for their projects, helping to elevate their visibility within the community.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ The Grant Program manifests through the distribution of physical development kit
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+<!-- synthesized: 2026-04-11T11:06:58Z -->
 ```

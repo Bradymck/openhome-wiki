@@ -1,24 +1,27 @@
 ```yaml
-title: xtremegamer007
-entity_type: builders/
+title: builders/xtremegamer007
+entity_type: builders
 status: stub
-last_updated: 2026-04-10
+last_updated: 2026-04-11
 ```
 
 ## who-they-are
-xtremegamer007 is a developer active within the OpenHome community, contributing to the creation of abilities for voice AI agents. They have a passion for leveraging technology to enhance user experience through conversational interfaces.
+xtremegamer007 is an active member of the OpenHome community, contributing to the development of voice AI applications. They are involved in creating and enhancing conversational AI agents known as Personalities, utilizing the OpenHome platform to integrate new skills through Abilities.
 
 ## what-they-built
-xtremegamer007 has developed a sales monitor ability that integrates with Gumroad and Shopify. This ability allows users to check their sales by simply saying "check my sales," providing insights into daily revenue, best-selling items, and trends. The ability includes a demo mode for users to test it without requiring API keys.
+As of now, there are no specific details available about the particular Abilities or integrations that xtremegamer007 has shipped. They are encouraged to contribute to the community and may have plans to create and showcase their abilities in the future.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: @xtremegamer007
-- GitHub: [xtremegamer007's GitHub](https://github.com/openhome-dev/abilities/pull/244)
+- Discord Handle: not specified
+- GitHub: not specified
+- X (formerly Twitter): not specified
 
 ## connects-to
-[[abilities/sales-monitor]]
+[[builders]]
+[[OpenHome]]
+[[Abilities]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+<!-- synthesized: 2026-04-11T11:06:58Z -->

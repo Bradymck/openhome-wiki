@@ -1,28 +1,25 @@
-```markdown
----
-title: Platform Marketplace
+```yaml
+title: platform/marketplace
 entity_type: platform/marketplace
 status: beta
-last_updated: 2026-04-10
----
+last_updated: 2026-04-11
+```
 
-### what-it-is
-The OpenHome Marketplace is a platform component designed to facilitate the distribution and discovery of modular voice plugins known as Abilities. This environment allows developers to create, share, and monetize their Contributions effectively, enabling enhanced functionalities for Personalities, the voice AI agents built on the OpenHome platform.
+# what-it-is
+OpenHome Marketplace is a platform component designed to facilitate the discovery, sharing, and integration of various voice AI abilities and applications created by developers within the OpenHome community.
 
-### how-it-works
-The Marketplace operates by allowing users to browse a variety of Abilities that have been developed by the community or the OpenHome team. Developers can submit their own Abilities, providing unique skills that Personalities can utilize, such as controlling smart home devices, playing music, or fetching information from the internet. The integration with the OpenHome Dashboard and other platform components ensures that users can easily manage and deploy these Abilities within their AI agents. The marketplace also encourages feedback and collaboration among developers by promoting ideas, features, and improvements.
+# how-it-works
+The Marketplace allows developers to publish their custom abilities and engage with a community of users and other developers to share insights, feedback, and improvements. Users can browse community-contributed abilities, fork existing projects, and submit their own capabilities to enhance the functionality of their AI agents created on the OpenHome platform. The Marketplace is integrated into the broader OpenHome ecosystem, allowing seamless interaction between developers, users, and the voice AI agents known as Personalities.
 
-### current-status
+# current-status
 beta
 
-### connects-to
+## connects-to
 [[platform/openhome]]
-[[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
 [[platform/voice-ai]]
 [[platform/local-link]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
-```
+<!-- synthesized: 2026-04-11T11:06:58Z -->

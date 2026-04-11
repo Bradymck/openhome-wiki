@@ -1,19 +1,18 @@
-```markdown
----
-title: Abilities as Apps
+```yaml
+title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-04-10
----
+last_updated: 2026-04-11
+```
 
 ## definition
-Abilities as Apps are modular voice plugins within the OpenHome platform that enhance the capabilities of AI-driven conversational agents, known as Personalities. These abilities add new skills to the agents, allowing them to perform various tasks such as calling APIs, playing music, or controlling smart devices.
+Abilities-as-apps are modular voice plugins within the OpenHome platform that extend the capabilities of conversational AI agents, known as Personalities. These plugins allow Personalities to perform various tasks, such as calling APIs, playing music, running quizzes, and controlling smart devices, enhancing user interactions through voice commands.
 
 ## why-it-matters
-This concept is central to OpenHome's mission of creating a versatile and dynamic voice AI ecosystem. By allowing developers to easily create and integrate new Abilities, OpenHome promotes innovation and collaboration, enabling users to customize their AI experiences and efficiently interact with technology.
+This concept is crucial to OpenHome as it enables the creation of versatile, interactive AI agents that can cater to a wide range of user needs. By allowing developers to build and integrate Abilities, OpenHome promotes innovation and customization, making voice interactions more relevant and efficient. This aligns with OpenHome's mission of creating immersive and human-like voice experiences.
 
 ## how-it-manifests
-In the OpenHome platform, Abilities are triggered by specific hotwords during voice interactions. Each Ability contains custom logic written in Python, making it highly flexible and adaptable for various use cases. Developers can prototype Abilities and contribute to the community, enriching the overall experience and functionality of Personalities.
+Abilities manifest in OpenHome as individual components that are triggered during voice conversations through specified hotwords. When a user interacts with a Personality and invokes a hotword, the corresponding Ability executes custom Python logic to fulfill the request. Developers can create and contribute Abilities, enriching the platform's ecosystem, and enhancing the functionality of Personalities.
 
 ## connects-to
 [[concepts/voice-first]]
@@ -23,5 +22,4 @@ In the OpenHome platform, Abilities are triggered by specific hotwords during vo
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
-```
+<!-- synthesized: 2026-04-11T11:06:58Z -->

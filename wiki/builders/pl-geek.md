@@ -2,30 +2,28 @@
 ---
 title: builders/pl-geek
 entity_type: builders/
-status: stub
-last_updated: 2026-04-10
+status: live
+last_updated: 2026-04-11
 ---
 
-### who-they-are
-pl-geek is an active member of the OpenHome community, which focuses on building AI-powered conversational agents using the OpenHome platform. They have experience in web applications, software development, and AI-based tools, with over 7 years in the field.
+## who-they-are
+Pl-geek is a member of the OpenHome community, focusing on building conversational AI agents and exploring integrations that enhance user interaction with voice AI technology. With a background in development, they contribute actively to the OpenHome platform by building and refining Abilities.
 
-### what-they-built
-pl-geek has built a sales monitor ability for platforms like Gumroad and Shopify. Users can query their sales by simply saying "check my sales," receiving information about daily revenue, best sellers, and trends, along with a demo mode for testing without requiring API keys. 
+## what-they-built
+Pl-geek has developed a sales monitor Ability that can be integrated into conversational AI agents. This Ability allows users to say "check my sales," providing insights into today's revenue, best sellers, and trends. It also features a demo mode that enables users to test its functionality without requiring API keys.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
 - GitHub: [pl-geek's GitHub](https://github.com/openhome-dev/abilities/pull/244)
 - X: Not specified
 
 ## connects-to
-[[sales monitor]]
-[[OpenHome]]
-[[abilities]]
-[[Gumroad]]
-[[Shopify]]
-
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+[[builders/openhome]]
+[[abilities/sales-monitor]]
+[[abilities/general-ai]]
+[[platforms/openhome]]
+<!-- synthesized: 2026-04-11T11:06:58Z -->
 ```

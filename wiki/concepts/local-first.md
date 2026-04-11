@@ -1,26 +1,25 @@
 ```markdown
 ---
 title: Local First
-entity_type: concepts
-status: beta
-last_updated: 2026-04-10
+entity_type: concepts/local-first
+status: planned
+last_updated: 2026-04-11
 ---
 
-## definition
-Local First is a foundational concept in OpenHome that emphasizes building applications and functionalities that operate primarily on local devices rather than relying on constant internet connectivity. This approach ensures that users can access and utilize features seamlessly even when offline.
+### definition
+Local First refers to a paradigm in software design and system architecture where applications prioritize local interactions and data storage, enabling functionalities even when offline. This concept emphasizes the importance of maintaining a responsive user experience by processing data and executing features directly on the user's device.
 
-## why-it-matters
-The Local First approach is significant for OpenHome as it enhances user experience by providing reliability and responsiveness. By prioritizing local operation, OpenHome can ensure that its voice AI applications remain functional in various environments, thereby increasing user trust and engagement.
+### why-it-matters
+Local First is crucial to OpenHome as it enhances the user experience by ensuring that the platform's features remain accessible without relying solely on internet connectivity. This approach empowers users with immediate responses, fosters reliability, and enhances privacy and security by keeping user data local.
 
-## how-it-manifests
-In OpenHome, Local First manifests through the use of physical devices, such as smart speakers, which can function autonomously. These devices are designed to carry out tasks like playing music, controlling smart home functions, and interacting with users without needing to contact external servers for every interaction. This not only speeds up response times but also protects user privacy by minimizing data transmission.
+### how-it-manifests
+In OpenHome, the Local First concept manifests through its architecture that allows smart devices to function independently of a central server. This includes capabilities like local music playback, immediate AI response when interacting with smart home devices, and executing commands without latency caused by network dependency.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+<!-- synthesized: 2026-04-11T11:06:58Z -->
 ```

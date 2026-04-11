@@ -1,20 +1,20 @@
 ```yaml
-title: platform/speakers
-entity_type: platform
-status: live
-last_updated: 2026-04-10
+title: Speakers
+entity_type: platform/speakers
+status: beta
+last_updated: 2026-04-11
 ```
 
-### what-it-is
-OpenHome speakers are advanced smart speakers designed to integrate seamlessly with the OpenHome voice AI platform. They serve as physical devices that allow users to interact with AI-powered agents, referred to as Personalities, enabling a variety of functionalities, including music playback, smart home control, and conversation.
+## what-it-is
+OpenHome Speakers are cutting-edge smart speakers designed to work seamlessly within the OpenHome ecosystem. They provide a platform for users to interact with AI agents called Personalities, utilizing voice commands to control various features and functionalities.
 
-### how-it-works
-OpenHome speakers operate by providing a hardware interface for users to engage with their AI agents. These agents, known as Personalities, can be customized with various Abilities — plugins that enhance their skills and functionalities. Users can invoke these Abilities through voice commands, triggering specific actions such as playing music, querying information, or controlling other smart devices. The speakers are built to operate locally, ensuring user privacy and responsiveness without depending on cloud connectivity.
+## how-it-works
+OpenHome Speakers utilize voice AI technology to facilitate conversations between users and their Personalities. These speakers are equipped with functionality that enables them to perform a variety of tasks by integrating modular voice plugins known as Abilities. Users can create their Personalized AI agents, provide them with unique voices and personas, and enhance their capabilities by adding different Abilities. The interaction is initiated through hotwords that trigger specific functions during voice conversations, allowing users to control smart home devices, access music, and execute other customized tasks.
 
-### current-status
-live
+## current-status
+beta
 
-### connects-to
+## connects-to
 - [[platform/openhome]]
 - [[platform/abilities]]
 - [[platform/dashboard]]
@@ -23,4 +23,4 @@ live
 - [[platform/marketplace]]
 - [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-10T20:56:04Z -->
+<!-- synthesized: 2026-04-11T11:06:58Z -->
