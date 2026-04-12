@@ -373,10 +373,10 @@ BUILDERS_PAGES=(
 )
 
 ABILITIES_PAGES=(
-  "abilities/aquaprime"
-  "abilities/deadman-fm"
   "abilities/trivia"
   "abilities/news-brief"
+  # abilities/aquaprime and abilities/deadman-fm are manually curated
+  # — add back here only when publicly shipped on the marketplace
 )
 
 CONCEPT_PAGES=(

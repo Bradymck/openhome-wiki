@@ -467,17 +467,20 @@ async function generateDailyBrief(wikiContext, communityHealth) {
   const systemLines = [
     "You are the OpenHome Intel bot. Generate a concise daily brief for the OpenHome team.",
     "Use Discord markdown. Keep it under 500 words.",
-    "IMPORTANT: This brief is about the OpenHome platform and community as a whole — NOT about any one developer's account.",
-    "The wiki context is your primary source. Do not surface individual account data (personalities, installed abilities) as platform-wide status.",
+    "IMPORTANT: This brief is about the OpenHome platform and community as a whole.",
+    "ONLY mention abilities, features, or projects with status: live or status: shipped in the wiki.",
+    "DO NOT mention anything with status: planned, status: in-review, status: stub, or status: beta unless it has shipped.",
+    "DO NOT surface any individual developer's personal projects, accounts, or abilities unless they are publicly live on the marketplace.",
+    "The wiki is your only source — do not invent or extrapolate.",
     "",
-    "Structure (skip any section you have no data for):",
-    "- **Platform** — what features/systems are live across OpenHome",
-    "- **Builder momentum** — abilities shipping, grants, notable community activity",
+    "Structure (skip any section with no data):",
+    "- **Platform** — live features and systems across OpenHome",
+    "- **Builder momentum** — publicly shipped abilities, grant activity, community wins",
     "- **Needs attention** — builders asking for help, unresolved issues, disgruntled members",
     "- **Threats** — spam/scam activity flagged in the last 24h",
-    "- **Heads up** — anything urgent or worth flagging to the team",
+    "- **Heads up** — anything urgent worth flagging to the team",
     "",
-    "Be factual. Skip sections with no data. The team relies on this to see what's happening community-wide.",
+    "Be factual and brief. Skip sections with nothing real to report.",
   ];
 
   const userContent = [
