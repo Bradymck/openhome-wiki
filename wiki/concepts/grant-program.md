@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Grant Program
-entity_type: concepts/grant-program
+title: "Grant Program"
+entity_type: "concepts/"
 status: live
-last_updated: 2026-04-11
+last_updated: 2026-04-12
 ---
 
 ## definition
-The Grant Program is a support initiative by OpenHome designed to provide resources, funding, and promotional opportunities to developers and contributors who create impactful projects using the OpenHome platform.
+A Grant Program is an initiative designed to support developers and contributors within the OpenHome community by providing financial resources, physical development kits, and promotional opportunities for innovative projects and contributions.
 
 ## why-it-matters
-This program fosters innovation within the OpenHome community by incentivizing developers to build new capabilities and share feedback. It helps to expand the ecosystem around OpenHome, ultimately enhancing the user experience and encouraging a diverse range of applications.
+The Grant Program fosters community engagement and encourages the development of advanced applications and functionalities within the OpenHome platform. By incentivizing creativity and practical implementations, the program not only enhances the ecosystem but also elevates the overall quality and capability of the technology.
 
 ## how-it-manifests
-The Grant Program is manifested through the distribution of physical development kits (devkits) to top contributors and projects, along with a budget for grants to support ongoing development. Recipients of devkits receive promotional support for their projects, helping to elevate their visibility within the community.
+The Grant Program appears as a structured opportunity where developers can apply for physical V0.1 devkits by contributing ideas, projects, or prototypes that utilize OpenHome. Selected participants receive support, which can include monetary grants and promotional backing for their projects. Active involvement in the community, sharing ideas, and proposing new Abilities can expedite the evaluation process for receiving grants or devkits.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ The Grant Program is manifested through the distribution of physical development
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-04-11T11:06:58Z -->
+<!-- synthesized: 2026-04-12T11:24:46Z -->
 ```

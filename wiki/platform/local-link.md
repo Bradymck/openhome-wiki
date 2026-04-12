@@ -1,16 +1,15 @@
-```markdown
----
+```yaml
 title: platform/local-link
 entity_type: platform
 status: stub
-last_updated: 2026-04-11
----
+last_updated: 2026-04-12
+```
 
 ### what-it-is
-Platform/local-link is a component of the OpenHome ecosystem that facilitates the integration of various devices and services, allowing them to communicate seamlessly with one another within the platform.
+The platform/local-link is a component within the OpenHome ecosystem designed to enable seamless connectivity between AI-driven voice applications and local devices, such as smart speakers and home automation systems.
 
 ### how-it-works
-While specific technical details regarding platform/local-link are limited, it functions by providing a framework through which different devices and service capabilities can connect to and interact with the OpenHome system. This likely includes support for local communications and control over interconnected devices, enhancing user interaction with voice AI agents.
+Local-link functions by establishing a direct communication pathway between OpenHome's AI services and devices within the user's local environment. It allows for reduced latency and enhanced responsiveness when interacting with connected devices, ensuring that voice commands are processed efficiently and actions are executed swiftly. By leveraging this framework, developers can create more integrated and intuitive interactions for users, enhancing the capabilities of their AI agents.
 
 ### current-status
 stub
@@ -24,5 +23,4 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-11T11:06:58Z -->
-```
+<!-- synthesized: 2026-04-12T11:24:46Z -->

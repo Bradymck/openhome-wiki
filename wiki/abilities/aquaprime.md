@@ -1,29 +1,28 @@
 ```yaml
-title: aquaprime
-entity_type: abilities/
-status: stub
-last_updated: 2026-04-11
+title: abilities/aquaprime
+entity_type: abilities
+status: planned
+last_updated: 2026-04-12
 ```
 
 ## what-it-does
-Aquaprime is designed to enhance conversational AI capabilities by enabling agents built on the OpenHome platform to interact intelligently with users about water-related topics, potentially including hydration tracking or resources related to water usage.
+Aquaprime is an ability that is designed to enhance conversational AI agents’ interaction with water management systems. It offers functionalities related to monitoring and controlling water usage, providing users with insights on water consumption, and helping optimize their water-related activities.
 
 ## how-to-build
-Details on how to construct the Aquaprime ability are currently not available. Builders interested in creating this ability are encouraged to follow typical OpenHome development practices, which involve learning to use the OpenHome API and accessing community resources for guidance.
+As of the current information, specific details on building Aquaprime have not been disclosed. Builders interested in developing this ability can refer to the OpenHome documentation and community resources for guidance on utilizing the OpenHome SDK to implement custom functionality.
 
 ## category
 utility
 
 ## built-by
-[builder page not found]
+[[builders/openhome-community]]
 
 ## status
-stub
+planned
 
 ## connects-to
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
 [[abilities/news-brief]]
 
-<!-- synthesized: 2026-04-11T11:06:58Z --> 
-```
+<!-- synthesized: 2026-04-12T11:24:46Z -->

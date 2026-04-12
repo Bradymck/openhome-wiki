@@ -1,25 +1,27 @@
-```yaml
-title: voice-first
+```markdown
+---
+title: Voice-First
 entity_type: concepts
 status: live
-last_updated: 2026-04-11
+last_updated: 2026-04-12
+---
+
+### definition
+Voice-first refers to an interaction paradigm where voice is the primary method of interfacing with technology, allowing users to communicate using natural language. This contrasts with traditional interfaces that rely on screens and touch.
+
+### why-it-matters
+Voice-first is crucial for OpenHome as it embodies the platform’s mission to make AI-powered applications accessible and intuitive. By prioritizing voice interactions, OpenHome aims to enhance user experience and revolutionize the way individuals connect with their devices.
+
+### how-it-manifests
+In OpenHome, voice-first technology is manifested through the development and deployment of conversational AI agents known as Personalities. These agents leverage voice interactions to perform tasks, respond to queries, and integrate with various Abilities, making the user experience seamless and efficient.
+
+### connects-to
+- [[concepts/abilities-as-apps]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
+
+<!-- synthesized: 2026-04-12T11:24:46Z -->
 ```
-
-## definition
-Voice-first is an approach to technology interaction that prioritizes voice input and output as the primary means of communication. It encompasses devices and applications that enable users to engage through conversational interfaces rather than traditional input methods like keyboards or touchscreens.
-
-## why-it-matters
-Voice-first technology is integral to OpenHome's mission of creating immersive and intuitive AI-powered applications. By focusing on voice interactions, OpenHome aims to enhance the user experience, making technology more accessible and simplifying how users connect with their devices.
-
-## how-it-manifests
-In OpenHome, the voice-first concept is realized through the platform's structure of building conversational AI agents called Personalities, which utilize voice for communication. Users can create Personalities that respond to voice commands, enabling a range of abilities such as playing music, controlling smart home devices, and more through simple voice interactions.
-
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
-
-<!-- synthesized: 2026-04-11T11:06:58Z -->

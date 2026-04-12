@@ -1,26 +1,24 @@
 ```markdown
 ---
-title: doogriss
+title: team/doogriss
 entity_type: team
 status: stub
-last_updated: 2026-04-11
+last_updated: 2026-04-12
 ---
 
 ### who-they-are
-doogriss is part of the OpenHome team with a focus on contributing to the development of voice AI applications and engaging with the community to enhance the platform's capabilities.
+Doogriss is a core member of the OpenHome team, contributing to the growth and development of the platform. 
 
 ### what-they-own
-doogriss leads initiatives related to the development and integration of new features for voice agents within the OpenHome system, specifically working on enhancing user interaction and experience with AI-powered applications.
+Doogriss leads various initiatives focused on enhancing the user experience and functionality of OpenHome's AI-powered voice applications.
 
 ### how-to-reach
-Discord Handle: doogriss
+Contact Doogriss via Discord. 
 
 ### connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[projects/openhome]]
-[[projects/abilities]]
-[[projects/devkits]]
+[[team/openhome]]
 
-<!-- synthesized: 2026-04-11T11:06:58Z -->
+<!-- synthesized: 2026-04-12T11:24:46Z -->
 ```

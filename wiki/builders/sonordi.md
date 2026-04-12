@@ -1,29 +1,26 @@
-```markdown
----
+```yaml
 title: builders/sonordi
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-04-11
----
-
-### who-they-are
-Sonordi is a community builder within the OpenHome ecosystem, focused on developing voice AI agents and extensible voice applications. They contribute to enhancing how users interact with technology through conversational AI.
-
-### what-they-built
-Sonordi has created a sales monitor integration for platforms like Gumroad and Shopify. This ability allows users to check daily revenue, best sellers, and trends through a simple voice command. The integration features a demo mode that enables testing without requiring API keys.
-
-### grant-status
-Applied
-
-### how-to-reach
-- Discord: Not publicly available
-- GitHub: [Sonordi's GitHub Profile](https://github.com/openhome-dev/abilities)
-- X: Not publicly available
-
-### connects-to
-- [[Sales Monitor Integration]]
-- [[OpenHome Abilities]]
-- [[Voice AI Agents]]
-
-<!-- synthesized: 2026-04-11T11:06:58Z -->
+last_updated: 2026-04-12
 ```
+
+## who-they-are
+Sonordi is a community builder actively involved in the development of OpenHome, an open-source Voice AI platform. They focus on creating conversational AI agents called Personalities and extending them with modular voice plugins known as Abilities.
+
+## what-they-built
+Sonordi has contributed to the development of various Abilities within the OpenHome ecosystem, enhancing its features for users. Specific projects or integrations built by Sonordi are not detailed in the current available data.
+
+## grant-status
+none
+
+## how-to-reach
+- Discord Handle: Not provided
+- GitHub: Not provided
+- X: Not provided
+
+## connects-to
+[[abilities]]
+[[OpenHome]]
+
+<!-- synthesized: 2026-04-12T11:24:46Z -->

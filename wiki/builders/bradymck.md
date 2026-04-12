@@ -1,26 +1,30 @@
-```yaml
-title: bradymck
+```markdown
+---
+title: builders/bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-04-11
-```
+last_updated: 2026-04-12
+---
 
-## who-they-are
-Brady McK is part of the OpenHome developer community, engaging in the construction of conversational AI agents known as Personalities, which are integrated with modular voice capabilities through Abilities.
+### who-they-are
+Brady McK is a developer with extensive experience in building web applications and AI-based tools. He is dedicated to creating efficient and user-friendly solutions that address real-world problems. He is actively engaged in exploring emerging technologies and contributing to community-driven projects, particularly in the startup ecosystem.
 
-## what-they-built
-Brady has contributed to an ability that functions as a sales monitor for platforms like Gumroad and Shopify. This ability allows users to query sales data simply by saying "check my sales," providing a summary of today's revenue, best sellers, and trends. The feature also includes a demo mode for testing without requiring API keys.
+### what-they-built
+Brady McK has developed a sales monitor integration for platforms like Gumroad and Shopify. This integration allows users to check their daily sales, best sellers, and revenue trends through voice commands. Additionally, it features a demo mode that users can test without requiring API keys.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Available through OpenHome community
-- GitHub: [bradymck's GitHub](https://github.com/bradymck)
-- X: Not specified
+### how-to-reach
+- Discord: @bradymck
+- GitHub: [bradymck](https://github.com/bradymck)
+- X: [@bradymck](https://x.com/bradymck)
 
 ## connects-to
 [[builders]]
-[[abilities/sales-monitor]]
-
-<!-- synthesized: 2026-04-11T11:06:58Z -->
+[[abilities]]
+[[openhome-dev/abilities]]
+[[voice-integration]]
+[[startup-ecosystem]]
+<!-- synthesized: 2026-04-12T11:24:46Z -->
+```

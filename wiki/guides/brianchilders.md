@@ -2,24 +2,23 @@
 ---
 title: "Brian Childers"
 entity_type: "guides/"
-status: "live"
-last_updated: 2026-04-11
+status: "stub"
+last_updated: 2026-04-12
 ---
 
 ### who-they-are
-Brian Childers is a community member with a background in software development, particularly with an emphasis on voice AI and associated technologies.
+Brian Childers is a developer with over 7 years of experience in web applications, software, and AI-based tools. He has a focus on building efficient solutions that address real-world problems and is interested in emerging technology and startup ecosystems.
 
 ### what-they-help-with
-Brian specializes in building AI agents using the OpenHome platform. He is knowledgeable in creating and prototyping various abilities for the Personalities framework on OpenHome, allowing developers to enhance their AI agents with new skills.
+Brian specializes in developing applications that leverage AI capabilities. He has experience with the OpenHome Voice AI platform, including creating AI agents and developing new functionalities through the addition of Abilities. He contributes to community discussions and codebases, particularly around improving user experiences and promoting innovative uses of AI technology.
 
 ### how-to-reach
-You can reach Brian through his Discord handle: [BrianChilders#0001](https://discord.com).
+Discord Handle: @brianchilders
 
 ### connects-to
-[[guides/]]
 [[OpenHome]]
-[[voice AI]]
-[[abilities]]
-
-<!-- synthesized: 2026-04-11T11:06:58Z -->  
+[[Voice AI]]
+[[Community Guides]]
+[[Abilities]]
+<!-- synthesized: 2026-04-12T11:24:46Z -->
 ```

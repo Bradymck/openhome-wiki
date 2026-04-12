@@ -3,26 +3,27 @@
 title: builders/nicholas3415
 entity_type: builder
 status: live
-last_updated: 2026-04-11
+last_updated: 2026-04-12
 ---
 
 ## who-they-are
-Nicholas3415 is a developer engaged with the OpenHome community, focusing on the creation and enhancement of AI-driven voice applications. They have extensive experience in building efficient and user-friendly software solutions that address real-world problems.
+Nicholas3415 is a developer with over 7 years of experience focusing on web applications, software, and AI-based tools. He is passionate about building efficient and user-friendly solutions that address real-world problems. He is interested in emerging technologies and the evolution of different industries.
 
 ## what-they-built
-Nicholas3415 has shipped an ability called a sales monitor for integration with platforms like Gumroad and Shopify. This ability responds to the command "check my sales", providing users with real-time information about today's revenue, best sellers, and trends, along with a demo mode for testing without API keys. 
+Nicholas3415 contributed to the development of a sales monitor for Gumroad and Shopify that allows users to check their sales data by simply saying "check my sales." This ability provides information on daily revenue, best sellers, and trends, including a demo mode for testing without API keys. He also participated in a PR that enables cryptographic process tracing for OpenHome, enhancing AI auditability.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: @nicholas3415
-- GitHub: [Nicholas3415's GitHub](https://github.com/nicholas3415)
-- X (formerly Twitter): [X Profile](https://x.com/nicholas3415)
+Discord: Not specified  
+GitHub: [nicholas3415](https://github.com/nicholas3415)  
+X: Not specified
 
 ## connects-to
-[[abilities/sales-monitor]]
-[[abilities/openhome-integration]]
+[[Ability: Sales Monitor]]  
+[[Ability: AI Auditability Enhancement]]  
 [[builders/openhome]]
-<!-- synthesized: 2026-04-11T11:06:58Z -->
+
+<!-- synthesized: 2026-04-12T11:24:46Z -->
 ```

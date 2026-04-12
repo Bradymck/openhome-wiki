@@ -1,25 +1,25 @@
 ```yaml
-title: platform/marketplace
-entity_type: platform/marketplace
+title: Platform Marketplace
+entity_type: platform
 status: beta
-last_updated: 2026-04-11
+last_updated: 2026-04-12
 ```
 
-# what-it-is
-OpenHome Marketplace is a platform component designed to facilitate the discovery, sharing, and integration of various voice AI abilities and applications created by developers within the OpenHome community.
+### what-it-is
+The OpenHome Marketplace is an online platform where users can discover, buy, and sell AI-powered voice applications and related technology. It is designed to facilitate the distribution of Personalities and Abilities within the OpenHome ecosystem.
 
-# how-it-works
-The Marketplace allows developers to publish their custom abilities and engage with a community of users and other developers to share insights, feedback, and improvements. Users can browse community-contributed abilities, fork existing projects, and submit their own capabilities to enhance the functionality of their AI agents created on the OpenHome platform. The Marketplace is integrated into the broader OpenHome ecosystem, allowing seamless interaction between developers, users, and the voice AI agents known as Personalities.
+### how-it-works
+Users can browse through a collection of community-created voice applications and skills, known as Abilities, directly from the Marketplace. Developers can submit their own creations for listing, allowing them to share their innovative solutions with the growing OpenHome community. The Marketplace provides a user-friendly interface to facilitate searches and transactions, making it easy for users to find the tools they need to enhance their AI agents.
 
-# current-status
+### current-status
 beta
 
-## connects-to
-[[platform/openhome]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/live-editor]]
+### connects-to
+[[platform/openhome]]  
+[[platform/abilities]]  
+[[platform/dashboard]]  
+[[platform/voice-ai]]  
+[[platform/local-link]]  
+[[platform/live-editor]]  
 
-<!-- synthesized: 2026-04-11T11:06:58Z -->
+<!-- synthesized: 2026-04-12T11:24:46Z -->

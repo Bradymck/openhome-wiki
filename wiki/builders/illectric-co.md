@@ -1,26 +1,28 @@
 ```yaml
-title: illectric-co
+title: Illectric Co.
 entity_type: builders
-status: live
-last_updated: 2026-04-11
+status: stub
+last_updated: 2026-04-12
 ```
 
 ## who-they-are
-illectric-co is a community builder involved with OpenHome, an open-source Voice AI platform designed for building conversational AI agents called Personalities. They focus on creating extensions for these agents through modular voice plugins known as Abilities.
+Illectric Co. is a community of builders focused on developing capabilities and applications for the OpenHome platform. They are engaged in projects that enhance the functionality and user experience of AI-driven voice applications, addressing real-world needs through innovative solutions.
 
 ## what-they-built
-illectric-co has developed a sales monitor Ability that integrates with platforms such as Gumroad and Shopify. Users can activate this Ability by saying "check my sales," allowing them to receive updates on today's revenue, best sellers, and trends, complete with a demo mode for testing without API keys. 
+While specific projects and abilities from Illectric Co. are not detailed in the available data, the community is known to create plugins referred to as "Abilities" that enhance the Personalities of voice AI agents. Their contributions may include tools for cryptographic process tracing and integrating e-commerce functionalities such as sales monitoring for platforms like Gumroad and Shopify.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: @illectric-co
-- GitHub: [illectric-co GitHub](https://github.com/openhome-dev/abilities)
-- X: [illectric-co on X](https://x.com/realdecimalist)
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/openhome]]
-[[builders/abilities]]
+[[Ability Plugins]]
+[[OpenHome]] 
+[[Community Builders]]
+[[Voice AI Applications]]
 
-<!-- synthesized: 2026-04-11T11:06:58Z -->
+<!-- synthesized: 2026-04-12T11:24:46Z -->

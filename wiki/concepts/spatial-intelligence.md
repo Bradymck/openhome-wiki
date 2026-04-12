@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: Spatial Intelligence
-entity_type: concepts
+title: Concepts: Spatial Intelligence
+entity_type: concepts/
 status: stub
-last_updated: 2026-04-11
+last_updated: 2026-04-12
 ---
 
-### definition
-Spatial intelligence refers to the capacity to understand, reason, and remember the spatial relations among objects. It plays a significant role in how individuals perceive and interact with their environment, effectively navigating space and understanding the layout and arrangement of physical elements. 
+## definition
+Spatial intelligence refers to the ability to perceive, manipulate, and interact with spatial relations and environments. It involves understanding how objects relate to one another in a physical space and how to navigate through that space effectively.
 
-### why-it-matters
-In the context of OpenHome, spatial intelligence enhances the ability of AI agents to understand their surroundings, facilitating more natural interactions with users. This capability is crucial for voice AI applications, as it enables agents to contextualize conversations based on the user's spatial environment.
+## why-it-matters
+In the context of OpenHome, spatial intelligence is crucial for developing smart home environments where AI agents can understand and interact with their physical surroundings. This capability enhances user experiences by allowing for more intuitive interactions with technology in real-world settings.
 
-### how-it-manifests
-Spatial intelligence manifests within the OpenHome platform as part of the capabilities of AI agents to process spatial information related to user commands, such as location-based services, device control based on proximity, and navigation tasks. Agents equipped with spatial intelligence can thus manage smart home devices more effectively and respond to user queries that involve spatial contexts.
+## how-it-manifests
+While specific implementations of spatial intelligence within the OpenHome platform are not detailed, it is anticipated that this concept can enhance personal assistants' abilities to control smart devices, navigate through rooms, and optimize responses based on the user's location and context.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
+[[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-04-11T11:06:58Z -->
+<!-- synthesized: 2026-04-12T11:24:46Z -->
 ```

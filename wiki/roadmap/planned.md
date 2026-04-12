@@ -1,29 +1,27 @@
-```markdown
----
-title: Roadmap for OpenHome
+```yaml
+title: Roadmap and Planned Features
 entity_type: roadmap/planned
-status: in-progress
-last_updated: 2026-04-11
----
+status: live
+last_updated: 2026-04-12
+```
 
 ## what-it-is
-OpenHome is currently in the process of shipping version 0.1 development kits (DevKits), which are advanced smart speakers designed to enable users to build AI-powered voice applications. These kits support building personal voice AI agents called Personalities, along with modular plugins known as Abilities that enhance their functionality.
+OpenHome is actively developing features related to their open-source Voice AI platform, designed for building conversational AI agents called Personalities and extending them with modular Abilities. The platform offers devkits for development, partnership opportunities, and a community-driven approach to feature enhancement.
 
 ## status
-in-progress
+In progress
 
 ## why-it-matters
-By providing developers with access to physical DevKits and a platform for creating personalized AI experiences, OpenHome aims to make AI technology more accessible and promote innovation in voice-first applications. The development kits serve as a tool for early adopters and contributors to drive feedback and improvement on the platform.
+The initiative aims to revolutionize interactions with technology by making AI-powered voice applications accessible and intuitive, enhancing user-device connections through voice-first applications.
 
 ## eta
-Shipping is currently happening globally in small batches, with a persistent call for contributions and prototyping ideas. An official timeline for broader availability or new features has not been explicitly stated but will likely evolve as community contributions are integrated.
+Currently, development is ongoing with no specific timelines provided. Shipment of physical V0.1 devkits has started globally in small batches.
 
 ## connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[Personalities]]
-[[Abilities]]
-[[Developer Docs]]
+- [[OpenHome]]
+- [[Abilities]]
+- [[DevKit]]
+- [[Voice AI]]
+- [[AI Applications]]
 
-<!-- synthesized: 2026-04-11T11:06:58Z -->
-```
+<!-- synthesized: 2026-04-12T11:24:46Z -->

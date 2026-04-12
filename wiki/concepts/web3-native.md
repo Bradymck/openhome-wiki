@@ -1,18 +1,19 @@
-```yaml
-title: Web3 Native
-entity_type: concepts/web3-native
-status: stub
-last_updated: 2026-04-11
-```
+```markdown
+---
+title: web3-native
+entity_type: concepts/
+status: beta
+last_updated: 2026-04-12
+---
 
 ## definition
-Web3 Native refers to concepts, technologies, and applications that are built with principles of decentralization, blockchain technology, and user sovereignty in mind. This encompasses a range of innovations aiming to create a more open and user-controlled digital ecosystem.
+Web3-native refers to applications and systems that are built on decentralized and blockchain technology, emphasizing user ownership, permissionless access, and secure transactions through smart contracts.
 
 ## why-it-matters
-Web3 Native principles are integral to OpenHome's mission of empowering users and enhancing interactions with technology. By embracing a decentralized architecture, OpenHome can foster transparency, security, and user autonomy, aligning with the broader goals of the Web3 movement.
+In the context of OpenHome, being web3-native is crucial as it aligns with the platform's mission of decentralizing AI technologies and empowering users by providing them with control over their data and interactions. This decentralization fosters innovation, trust, and transparency in AI-powered interactions.
 
 ## how-it-manifests
-While specific implementations of Web3 Native concepts within OpenHome are not detailed, the platform's focus on building open-source, community-driven applications suggests an alignment with Web3 values. This may include the development of decentralized applications (dApps) or integrations that promote user ownership and control over their digital identities and data.
+The web3-native concept manifests in OpenHome through its ability to integrate decentralized technologies for handling user data and interactions, facilitating direct relationships between users and their AI agents without relying on central servers. Features like cryptographic process tracing enhance trust and accountability in AI operations on the platform.
 
 ## connects-to
 - [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ While specific implementations of Web3 Native concepts within OpenHome are not d
 - [[concepts/spatial-intelligence]]
 - [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-11T11:06:58Z -->
+<!-- synthesized: 2026-04-12T11:24:46Z -->
+```

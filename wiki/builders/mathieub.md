@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: "mathieub"
-entity_type: "builders/"
+title: mathieub
+entity_type: builders
 status: live
-last_updated: 2026-04-11
+last_updated: 2026-04-12
 ---
 
-### who-they-are
-Mathieub is an active member of the OpenHome community, focusing on building conversational AI agents called Personalities. He engages with the community to develop and prototype new skills for these agents, utilizing the OpenHome platform to enhance user interactions with technology.
+## who-they-are
+Mathieu B. is a developer with over seven years of experience in web applications, software, and AI-based tools. He focuses on building efficient solutions that solve real-world problems and is interested in emerging technologies and startup ecosystems.
 
-### what-they-built
-Mathieub has contributed to the OpenHome ecosystem by developing an integration for sales monitoring that allows users to check revenue, best-selling items, and trends simply by saying "check my sales." This integration is designed to work with platforms like Gumroad and Shopify, featuring a demo mode for testing without needing API keys. Additionally, he has opened a pull request to the OpenHome abilities repository for broader community access.
+## what-they-built
+Mathieu has contributed to the OpenHome community by developing an AI-powered sales monitor that integrates with platforms like Gumroad and Shopify. This tool allows users to check sales metrics simply by saying "check my sales," and includes a demo mode for user testing without needing API keys. He has also worked on enhancing the cryptographic process tracing for OpenHome, aimed at improving the auditability of AI models.
 
-### grant-status
-$1K
+## grant-status
+none
 
-### how-to-reach
-- Discord: mathieub
-- GitHub: [mathieub GitHub](https://github.com/openhome-dev/abilities/pull/244)
-- X: [Real Decimalist's post](https://x.com/realdecimalist/status/2042726099885662385?s=20)
+## how-to-reach
+- Discord: Not specified
+- GitHub: [mathieub](https://github.com/mathieub)
+- X: Not specified
 
-### connects-to
-[[builders/]]
-[[abilities/sales-monitor]]
-[[abilities/openhome-personalities]]
+## connects-to
+[[builders/mathieub sales monitor]]
+[[builders/mathieub cryptographic tracing]]
+[[builders/openhome]]
 
-<!-- synthesized: 2026-04-11T11:06:58Z -->
+<!-- synthesized: 2026-04-12T11:24:46Z -->
 ```
