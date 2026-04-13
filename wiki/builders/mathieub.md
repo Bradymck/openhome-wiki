@@ -1,29 +1,30 @@
 ```markdown
 ---
-title: mathieub
-entity_type: builders
-status: live
-last_updated: 2026-04-12
+title: builders/mathieub
+entity_type: builder
+status: stub
+last_updated: 2026-04-13
 ---
 
-## who-they-are
-Mathieu B. is a developer with over seven years of experience in web applications, software, and AI-based tools. He focuses on building efficient solutions that solve real-world problems and is interested in emerging technologies and startup ecosystems.
+### who-they-are
+Mathieu is a developer with over 7 years of experience in building web applications, software, and AI-based tools. He has a strong interest in emerging technologies and startup ecosystems, focusing on creating efficient solutions that address real-world problems.
 
-## what-they-built
-Mathieu has contributed to the OpenHome community by developing an AI-powered sales monitor that integrates with platforms like Gumroad and Shopify. This tool allows users to check sales metrics simply by saying "check my sales," and includes a demo mode for user testing without needing API keys. He has also worked on enhancing the cryptographic process tracing for OpenHome, aimed at improving the auditability of AI models.
+### what-they-built
+Currently, specific details about Mathieu's shipped abilities or integrations within the OpenHome ecosystem are not provided. 
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
-- GitHub: [mathieub](https://github.com/mathieub)
+- GitHub: Not specified
 - X: Not specified
 
-## connects-to
-[[builders/mathieub sales monitor]]
-[[builders/mathieub cryptographic tracing]]
-[[builders/openhome]]
+### connects-to
+[[OpenHome]]  
+[[Ability Development]]  
+[[Voice AI]]  
+[[Community Contributions]]  
 
-<!-- synthesized: 2026-04-12T11:24:46Z -->
+<!-- synthesized: 2026-04-13T11:57:51Z -->
 ```

@@ -1,30 +1,26 @@
-```markdown
----
+```yaml
 title: builders/michaelgold
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-04-12
----
+last_updated: 2026-04-13
+```
 
-### who-they-are
-Michael Gold is a developer with a strong background in building efficient and user-friendly solutions. He is involved in the OpenHome community, which focuses on the development of voice AI applications and modular voice plugins known as Abilities.
+## who-they-are
+Michael Gold is a developer with over 7 years of experience focusing on web apps, software, and AI-based tools. He is interested in emerging technologies and the startup ecosystem, and is dedicated to creating efficient and user-friendly solutions that solve real-world problems.
 
-### what-they-built
-Michael has created a sales monitor integration for platforms like Gumroad and Shopify, allowing users to check their daily revenue and sales trends through voice commands. This integration includes a demo mode for testing without needing API keys.
+## what-they-built
+As of the latest information, there are no specific shipped abilities or integrations attributed to Michael Gold. However, he has expressed interest in building models and tools that are aimed at helping businesses leverage AI effectively.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[builders]]
 [[OpenHome]]
-[[Abilities]]
-[[voice AI]]
-[[sales monitor integration]]
-<!-- synthesized: 2026-04-12T11:24:46Z -->
-```
+[[Voice AI]]
+[[AI tools]]
+<!-- synthesized: 2026-04-13T11:57:51Z -->

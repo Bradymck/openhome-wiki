@@ -1,32 +1,30 @@
 ```markdown
 ---
-title: abilities/news-brief
-entity_type: abilities/
+title: Abilities/News-Brief
+entity_type: abilities
 status: live
-last_updated: 2026-04-12
+last_updated: 2026-04-13
 ---
 
 ## what-it-does
-The News Brief ability provides users with quick and concise updates on news topics. It is designed to interact via voice, allowing users to ask for the latest headlines or specific news categories.
+The News Brief ability provides user briefings and updates based on recent events and topics of interest, enhancing the conversational AI's ability to deliver timely information in a digestible format.
 
 ## how-to-build
-To build the News Brief ability, developers typically set up API integrations with news sources to pull the latest articles or summaries. The ability should listen for specific hotwords and execute Python logic to format and deliver the news content in an engaging manner.
+To create this ability, developers can use the existing APIs provided in the OpenHome platform. Focus on integrating various news APIs to fetch data, implement parsing logic for summarizing headlines, and utilize voice outputs for delivering the news in an engaging manner.
 
 ## category
 utility
 
 ## built-by
-[User Contribution](https://github.com/openhome-dev/abilities)
+[[abilities/aquaprime]]
 
 ## status
 live
 
 ## connects-to
-[[abilities/aquaprime]]
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
-[[OpenHome]]
-[[Voice AI]]
+[[abilities/aquaprime]]
 
-<!-- synthesized: 2026-04-12T11:24:46Z -->
+<!-- synthesized: 2026-04-13T11:57:51Z -->
 ```

@@ -1,29 +1,26 @@
-```markdown
----
+```yaml
 title: builders/shookdt
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-04-12
----
+last_updated: 2026-04-13
+```
 
-### who-they-are
-Shookdt is a developer with expertise in web applications and AI-based tools, focusing on building efficient and user-friendly solutions that address real-world problems.
+## who-they-are
+Shookdt is an active community builder in the OpenHome ecosystem, focusing on creating innovative AI-driven voice applications and integrations. With extensive experience in software and AI-based tools, Shookdt aims to enhance user interaction with technology through voice-first solutions.
 
-### what-they-built
-Shookdt has created a sales monitoring ability that integrates with Gumroad and Shopify. Users can say "check my sales" to receive updates on today's revenue, best sellers, and trends, featuring a demo mode for testing without the need for API keys.
+## what-they-built
+Shookdt has developed the "Conversation Insights Coach" ability, which analyzes communication patterns and provides feedback on aspects such as filler words and overall conversation style. This ability includes features like passive analysis, personalized spoken reports, and real-time coaching nudges.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
-[[sales monitoring ability]]
-[[Gumroad]]
-[[Shopify]]
+## connects-to
+[[builders]]
+[[abilities/conversation-insights-coach]]
 
-<!-- synthesized: 2026-04-12T11:24:46Z -->
-```
+<!-- synthesized: 2026-04-13T11:57:51Z -->

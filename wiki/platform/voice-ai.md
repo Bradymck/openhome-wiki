@@ -1,16 +1,15 @@
-```markdown
----
-title: Voice AI
+```yaml
+title: Voice AI Platform
 entity_type: platform/voice-ai
 status: live
-last_updated: 2026-04-12
----
+last_updated: 2026-04-13
+```
 
 ## what-it-is
-OpenHome's Voice AI is an open-source platform designed to empower developers to build conversational AI agents referred to as Personalities. These agents can be enhanced with modular voice plugins known as Abilities, which provide various interactive skills and functionalities.
+OpenHome's Voice AI Platform is an open-source framework designed for building conversational AI agents known as Personalities. The platform facilitates the extension of these agents with modular plugins called Abilities, which enhance their functionalities through voice interactions.
 
 ## how-it-works
-Voice AI operates by allowing users to create Personalities that have distinctive voices, personas, and conversation styles. Developers can add Abilities to these Personalities to expand their capabilities, enabling tasks such as API calls, music playback, quiz interactions, and smart device control. Users can trigger these Abilities during voice conversations through the use of hotwords, which activate the corresponding functionality. The platform supports the development and integration of custom logic in Python, making it adaptable and versatile for various applications.
+The Voice AI Platform operates by enabling developers to create and customize AI agents, referred to as Personalities, which embody distinctive voices and conversational styles. These agents are enhanced with Abilities—plugins that provide new skills such as controlling smart home devices, playing music, or executing commands. Interactions are initiated using hotwords, and the platform supports the execution of custom Python logic for various tasks, ensuring a rich and immersive user experience.
 
 ## current-status
 live
@@ -24,5 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-12T11:24:46Z -->
-```
+<!-- synthesized: 2026-04-13T11:57:51Z -->

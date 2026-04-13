@@ -1,18 +1,18 @@
 ```yaml
 title: Dead Man's Switch
-entity_type: concepts/dead-mans-switch
+entity_type: concepts
 status: stub
-last_updated: 2026-04-12
+last_updated: 2026-04-13
 ```
 
 ## definition
-A Dead Man's Switch is a safety mechanism that triggers an action if a specific condition is not met, often used to ensure that a system will take a fallback action if the primary operator is unable to do so.
+A Dead Man's Switch is a safety mechanism that automatically executes a certain action if a user becomes incapacitated or fails to interact with the system within a specified timeframe. It is often used in various applications to ensure that critical functions do not remain inactive due to unforeseen circumstances.
 
 ## why-it-matters
-In the context of OpenHome, a Dead Man's Switch can enhance user safety and peace of mind by ensuring that critical automated tasks continue to function or that protocols are followed even if the user becomes incapacitated or unresponsive.
+In the context of OpenHome, the Dead Man's Switch is significant for maintaining user control and ensuring that voice AI agents operate reliably and safely. It can prevent potential mishaps caused by unresponsiveness, thereby enhancing user trust in AI systems.
 
 ## how-it-manifests
-This concept might manifest in OpenHome applications where personal AI agents could prompt users for their status or take predefined actions after a certain period of inactivity. Although specific implementations are not detailed, the integration of such mechanisms could provide a way to ensure ongoing management of automated environments.
+The concept of a Dead Man's Switch can manifest in OpenHome through features that require periodic user interaction or engagement to remain active. For example, if a user stops responding to a voice AI for a set period, the system may deactivate or revert to a safe state to mitigate risks.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +22,4 @@ This concept might manifest in OpenHome applications where personal AI agents co
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-12T11:24:46Z -->
+<!-- synthesized: 2026-04-13T11:57:51Z -->

@@ -1,20 +1,21 @@
-```yaml
-title: Speakers
+```markdown
+---
+title: platform/speakers
 entity_type: platform
-status: beta
-last_updated: 2026-04-12
-```
+status: live
+last_updated: 2026-04-13
+---
 
-## what-it-is
-The speakers in the OpenHome platform are cutting-edge smart devices designed to support various functionalities including music playback, smart home integration, and interaction with AI agents.
+### what-it-is
+OpenHome speakers are cutting-edge smart speakers designed to work with the OpenHome platform, enabling immersive voice interactions and integration with a variety of functionalities, including music playback, AI interaction, and smart home control.
 
-## how-it-works
-OpenHome speakers function as part of a larger Voice AI ecosystem where users can create and interact with AI agents, referred to as Personalities. These speakers can execute commands, play media, and run custom abilities that are triggered by specific voice commands. The integration with Abilities allows users to extend the functionality of their speakers, enabling them to access a plethora of services and APIs.
+### how-it-works
+OpenHome speakers operate within the open-source Voice AI platform that allows users to build conversational AI agents, referred to as Personalities. Each speaker serves as a physical embodiment of these Personalities, enabling users to interact through voice commands. The speakers respond to defined hotwords and can trigger various Abilities, modular plugins that expand their functionality. Users can develop their own abilities or utilize existing ones created by the community. The speakers are designed to work fully local, providing privacy and customization.
 
-## current-status
-beta
+### current-status
+live
 
-## connects-to
+### connects-to
 - [[platform/openhome]]
 - [[platform/abilities]]
 - [[platform/dashboard]]
@@ -23,4 +24,5 @@ beta
 - [[platform/marketplace]]
 - [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-12T11:24:46Z -->
+<!-- synthesized: 2026-04-13T11:57:51Z -->
+```

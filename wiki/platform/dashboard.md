@@ -1,26 +1,26 @@
 ```yaml
-title: OpenHome Dashboard
+title: Dashboard
 entity_type: platform/dashboard
-status: beta
-last_updated: 2026-04-12
+status: live
+last_updated: 2026-04-13
 ```
 
 ## what-it-is
-The OpenHome Dashboard is a user interface for interacting with the OpenHome platform, allowing developers to create and manage conversational AI agents known as Personalities. It serves as a central hub for building and configuring voice applications and integrating various abilities.
+The OpenHome Dashboard is a user interface that allows developers to create and manage their AI agents, known as Personalities, on the OpenHome platform.
 
 ## how-it-works
-The Dashboard enables users to set up their AI agents by defining characteristics such as voice, persona, and conversation style. Users can add Abilities, which are modular voice plugins that extend the capabilities of a Personality. The platform is designed to facilitate the onboarding process for developers by providing a user-friendly interface to create and customize their voice AI applications efficiently.
+The Dashboard serves as a central hub where users can set up their Personalities by providing details such as name, voice, and conversation style. Users can also enhance their Personalities by integrating various Abilities, which are modular voice plugins that add new skills such as playing music, calling APIs, or running quizzes. The interface is designed to facilitate easy navigation and management of user-created agents, offering tools to explore community-developed Abilities and fork examples to modify them according to individual needs.
 
 ## current-status
-beta
+live
 
 ## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+[[platform/openhome]]  
+[[platform/speakers]]  
+[[platform/abilities]]  
+[[platform/voice-ai]]  
+[[platform/local-link]]  
+[[platform/marketplace]]  
+[[platform/live-editor]]  
 
-<!-- synthesized: 2026-04-12T11:24:46Z -->
+<!-- synthesized: 2026-04-13T11:57:51Z -->

@@ -1,26 +1,28 @@
-```yaml
+```markdown
+---
 title: roadmap/shipped
 entity_type: roadmap
 status: live
-last_updated: 2026-04-12
-```
+last_updated: 2026-04-13
+---
 
 ## what-it-is
-OpenHome now allows users to build with OpenClaw or create their own agents using the OpenHome platform. Physical V0.1 development kits are being shipped globally, providing developers with tools to create and enhance voice AI agents known as Personalities, which can utilize Abilities for additional skills.
+OpenHome has introduced the OpenClaw development kit, a cutting-edge smart speaker platform designed to enable developers to build their own agents or use OpenHome's capabilities. The kit contains features such as music playback, smart home integration, and interaction with AI elements.
 
 ## status
-shipped
+Shipped
 
 ## why-it-matters
-This feature is significant as it empowers developers to create conversational AI agents that enhance human-device interaction. The availability of development kits incentivizes innovation within the community and promotes the development of modular voice plugins, expanding the platform’s capabilities.
+This initiative aims to enhance voice-first application development by providing developers with the tools needed to create and customize their own voice AI agents, thus promoting greater engagement in the OpenHome ecosystem. It also intends to revolutionize interactions with technology by making AI more accessible and beneficial in everyday situations.
 
 ## eta
-Shipped as of April 12, 2026.
+Initial shipments are occurring globally in small batches as of now, with ongoing development support available for users actively participating in the platform.
 
 ## connects-to
 [[OpenHome]]
-[[OpenClaw]]
-[[Personalities]]
 [[Abilities]]
-
-<!-- synthesized: 2026-04-12T11:24:46Z -->
+[[Developer Docs]]
+[[OpenHome Dashboard]]
+[[GitHub]]
+<!-- synthesized: 2026-04-13T11:57:51Z -->
+```

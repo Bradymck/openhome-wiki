@@ -1,27 +1,23 @@
 ```yaml
-title: Roadmap and Planned Features
-entity_type: roadmap/planned
+title: roadmap/planned
+entity_type: roadmap
 status: live
-last_updated: 2026-04-12
+last_updated: 2026-04-13
 ```
 
 ## what-it-is
-OpenHome is actively developing features related to their open-source Voice AI platform, designed for building conversational AI agents called Personalities and extending them with modular Abilities. The platform offers devkits for development, partnership opportunities, and a community-driven approach to feature enhancement.
+OpenHome is launching a new feature called *Conversation Insights Coach*, designed to enhance communication skills by analyzing users' speaking habits and providing feedback.
 
 ## status
-In progress
+In-progress
 
 ## why-it-matters
-The initiative aims to revolutionize interactions with technology by making AI-powered voice applications accessible and intuitive, enhancing user-device connections through voice-first applications.
+This feature aims to empower users by providing personalized coaching on their conversational skills, thereby improving user interactions with the AI and enhancing the overall experience of using OpenHome.
 
 ## eta
-Currently, development is ongoing with no specific timelines provided. Shipment of physical V0.1 devkits has started globally in small batches.
+No specific release date provided; currently in development.
 
 ## connects-to
-- [[OpenHome]]
-- [[Abilities]]
-- [[DevKit]]
-- [[Voice AI]]
-- [[AI Applications]]
+[[OpenHome]], [[Voice AI]], [[Abilities]], [[Development Kits]]
 
-<!-- synthesized: 2026-04-12T11:24:46Z -->
+<!-- synthesized: 2026-04-13T11:57:51Z -->

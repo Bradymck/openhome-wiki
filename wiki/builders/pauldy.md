@@ -2,26 +2,26 @@
 title: builders/pauldy
 entity_type: builders
 status: stub
-last_updated: 2026-04-12
+last_updated: 2026-04-13
 ```
 
 ## who-they-are
-Pauldy is an active member of the OpenHome community, focusing on developing conversational AI agents and enhancing user interactions with technology. They have a background in software development, particularly with voice AI platforms.
+Pauldy is an active developer with over 7 years of experience in building web applications, software, and AI-based tools. They focus on creating efficient and user-friendly solutions that address real-world problems. Pauldy is particularly interested in emerging technologies and the evolving startup ecosystem.
 
 ## what-they-built
-Pauldy has contributed to the OpenHome ecosystem by creating various abilities that extend the functionality of AI agents. Notable contributions include building an AI-driven sales monitor for platforms like Gumroad and Shopify, which responds to user queries about sales performance and trends.
+Details about specific abilities or integrations shipped by Pauldy are currently unavailable.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: [pauldy’s GitHub profile](https://github.com/pauldy)
-- X: Not specified
+Discord handle: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
 ## connects-to
-[[builders]]
-[[abilities/sales-monitor]]
-[[openhome]]
+[[abilities]]  
+[[OpenHome]]  
+[[AI tools]]  
 
-<!-- synthesized: 2026-04-12T11:24:46Z -->
+<!-- synthesized: 2026-04-13T11:57:51Z -->

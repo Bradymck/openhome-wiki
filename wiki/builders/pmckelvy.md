@@ -1,32 +1,23 @@
-```markdown
----
-title: pmckelvy
-entity_type: builders
-status: live
-last_updated: 2026-04-12
----
+```yaml
+title: builders/pmckelvy
+entity_type: builder
+status: stub
+last_updated: 2026-04-13
+```
 
 ### who-they-are
-pmckelvy is a developer involved in the OpenHome community, focusing on building conversational AI agents and extending their functionalities through various abilities. They have a background in developing web apps and AI-based tools, with a strong interest in emerging technologies.
+Details about pmckelvy's background and current projects are not provided in the available data.
 
 ### what-they-built
-pmckelvy has contributed to the development of an AI sales monitor ability for platforms such as Gumroad and Shopify. This ability allows users to inquire about sales performance, receive insights on today’s revenue, best sellers, and trends, along with a demo mode for testing without API keys.
+Information on specific abilities or integrations developed by pmckelvy is not specified in the available data.
 
 ### grant-status
-applied
+The grant status for pmckelvy has not been mentioned in the available data.
 
 ### how-to-reach
-- Discord: @pmckelvy
-- GitHub: [pmckelvy on GitHub](https://github.com/pmckelvy)
-- X: [pmckelvy on X](https://x.com/pmckelvy)
+Contact information for pmckelvy is not available in the provided data.
 
 ### connects-to
-[[builders]]
-[[OpenHome]]
-[[abilities]]
-[[AI sales monitoring]]
-[[Gumroad integration]]
-[[Shopify integration]]
+No specific connections to other abilities or integrations are noted in the available data.
 
-<!-- synthesized: 2026-04-12T11:24:46Z -->
-```
+<!-- synthesized: 2026-04-13T11:57:51Z -->
