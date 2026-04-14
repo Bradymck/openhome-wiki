@@ -1,27 +1,28 @@
 ```yaml
-title: Shoompa
+title: builders/shoompa
 entity_type: builders
-status: live
-last_updated: 2026-04-13
+status: stub
+last_updated: 2026-04-14
 ```
 
 ## who-they-are
-Shoompa is a developer and community member within the OpenHome ecosystem, focusing on building voice AI applications and enhancing user interaction with technology. With over seven years of experience in web applications, software, and AI-based tools, they aim to create efficient solutions that address real problems.
+Shoompa is an active community builder within the OpenHome platform, focusing on the development of AI-powered voice applications. Their background includes a strong emphasis on emerging technology and building efficient, user-friendly solutions.
 
 ## what-they-built
-Shoompa is actively contributing to the OpenHome platform, particularly in relation to creating conversational AI agents and modular voice plugins known as Abilities. They are involved in the development and refinement of these Abilities, including a notable one called Conversation Insights Coach, which analyzes communication styles and provides feedback to users.
+Specific capabilities or integrations developed by Shoompa are not detailed in the available material. However, they are engaged in the broader OpenHome community, involving the creation and prototyping of various voice applications and their related abilities.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: [Shoompa's GitHub](https://github.com/leo-guinan) (the identified user contributing to the OpenHome community)
-- X: Not specified
+Discord handle: Unknown  
+GitHub: Unknown  
+X: Unknown  
 
 ## connects-to
-- [[abilities]]
-- [[OpenHome]]
-- [[Conversation Insights Coach]]
+[[abilities]]
+[[OpenHome]]
+[[Voice AI]]
+[[developers]]
 
-<!-- synthesized: 2026-04-13T11:57:51Z -->
+<!-- synthesized: 2026-04-14T11:49:22Z -->

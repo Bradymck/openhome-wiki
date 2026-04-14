@@ -1,30 +1,30 @@
 ```markdown
 ---
-title: illectric-co
+title: Illectric Co
 entity_type: builders
 status: stub
-last_updated: 2026-04-13
+last_updated: 2026-04-14
 ---
 
-## who-they-are
-illectric-co is a community of developers working within the OpenHome platform. They focus on building capabilities for AI-powered voice applications, fostering an environment of collaboration and innovation through contribution to the OpenHome ecosystem.
+### who-they-are
+Illectric Co is a community of developers engaged in creating innovative solutions using the OpenHome platform. They focus on building conversational AI agents, termed Personalities, that can be enhanced with various modular voice plugins known as Abilities.
 
-## what-they-built
-As part of their contributions, illectric-co has engaged in the development of various abilities for OpenHome, such as the "Conversation Insights Coach" ability. This ability provides users with analysis on their communication style, tracking aspects like filler words and conversation statistics.
+### what-they-built
+There is currently limited documented information on specific abilities or integrations shipped by Illectric Co. They actively participate in the OpenHome community, contributing ideas and prototypes related to voice AI applications.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord: N/A
+- GitHub: N/A
+- X: N/A
 
 ## connects-to
-- [[OpenHome]]
-- [[Abilities]]
-- [[Voice AI]]
-- [[Conversation Insights Coach]]
+[[OpenHome]]
+[[Abilities]]
+[[Voice AI]]
+[[Conversational Agents]]
 
-<!-- synthesized: 2026-04-13T11:57:51Z -->
+<!-- synthesized: 2026-04-14T11:49:22Z -->
 ```

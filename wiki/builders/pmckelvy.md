@@ -1,23 +1,25 @@
 ```yaml
-title: builders/pmckelvy
-entity_type: builder
+title: pmckelvy
+entity_type: builders/
 status: stub
-last_updated: 2026-04-13
+last_updated: 2026-04-14
 ```
 
-### who-they-are
-Details about pmckelvy's background and current projects are not provided in the available data.
+## who-they-are
+pmckelvy is an active community builder associated with OpenHome, which is an open-source Voice AI platform designed to create conversational AI agents termed Personalities. pmckelvy focuses on building features and abilities that enhance user interactions with voice technology.
 
-### what-they-built
-Information on specific abilities or integrations developed by pmckelvy is not specified in the available data.
+## what-they-built
+Details about specific abilities or integrations built by pmckelvy are currently unspecified.
 
-### grant-status
-The grant status for pmckelvy has not been mentioned in the available data.
+## grant-status
+none
 
-### how-to-reach
-Contact information for pmckelvy is not available in the provided data.
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-No specific connections to other abilities or integrations are noted in the available data.
+## connects-to
+[[builders/pmckelvy]]
 
-<!-- synthesized: 2026-04-13T11:57:51Z -->
+<!-- synthesized: 2026-04-14T11:49:22Z -->

@@ -1,24 +1,25 @@
-```yaml
-title: Super Greg
-entity_type: guides/super-greg
-status: live
-last_updated: 2026-04-13
-```
+```markdown
+---
+title: "super-greg"
+entity_type: "guides/"
+status: "stub"
+last_updated: 2026-04-14
+---
 
 ## who-they-are
-Super Greg is a community guide within the OpenHome platform, recognized for his extensive background in voice AI technology and software development. With over 7 years of experience in developing web applications and AI-based tools, he focuses on building efficient solutions that address real-world problems. His interests include emerging technology and understanding the evolution of various industries.
+Super Greg is a member of the OpenHome community, described as a developer with expertise in building efficient and user-friendly applications, particularly in the realms of web apps and AI-based tools. They have over seven years of experience in these fields and are interested in emerging technologies and startup ecosystems.
 
 ## what-they-help-with
-Super Greg specializes in onboarding new users to the OpenHome platform, providing support and guidance on building conversational AI agents referred to as Personalities. He offers assistance in using various components of the platform, including creating and extending Abilities that enhance the functionalities of these agents.
+Super Greg helps community members by offering guidance in building applications on the OpenHome platform, including creating conversational AI agents and extending their functionalities with abilities. They focus on practical applications that solve real-world problems.
 
 ## how-to-reach
-You can reach Super Greg on Discord.
+Super Greg can be reached via their Discord handle, which is not specified in the extracted content.
 
 ## connects-to
-- [[OpenHome]]
-- [[Abilities]]
-- [[Personality]]
-- [[Developer Docs]]
-- [[GitHub]]
+[[guides/]]
+[[OpenHome]]
+[[Ability Development]]
+[[Community Contributions]]
 
-<!-- synthesized: 2026-04-13T11:57:51Z -->
+<!-- synthesized: 2026-04-14T11:49:22Z -->
+```

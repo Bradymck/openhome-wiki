@@ -2,26 +2,24 @@
 ---
 title: local-first
 entity_type: concepts
-status: live
-last_updated: 2026-04-13
+status: stub
+last_updated: 2026-04-14
 ---
 
-## definition
-Local-first is a concept that emphasizes the importance of performing data operations and storage on the user's device rather than relying solely on a cloud-based architecture. This approach prioritizes user autonomy, privacy, and performance by enabling applications to work seamlessly offline or with limited connectivity.
+### definition
+Local-first refers to a design approach that prioritizes local data storage and processing on devices before syncing with the cloud. This means that applications built on local-first principles can function independently of internet connectivity, enhancing user experience and responsiveness.
 
-## why-it-matters
-In the context of OpenHome, the local-first approach enhances user experience by allowing agents to function independently of internet connectivity. This is particularly relevant for voice AI applications that need to be responsive and reliable, as it mitigates issues related to latency and privacy concerns inherent in cloud-dependent systems.
+### why-it-matters
+Local-first is crucial for the OpenHome platform as it enhances privacy and security by keeping user data local. This approach ensures that users have control over their information and can access it without relying on external servers, which can be vulnerable to breaches or downtime.
 
-## how-it-manifests
-The local-first philosophy is evident in OpenHome's development of smart speakers that operate primarily from local processing. These devices utilize local storage for capabilities such as music playback and smart home controls, providing users with instant access to their applications without the need for ongoing internet connectivity. This functionality supports engaging voice AI interactions that can persist irrespective of external connectivity.
+### how-it-manifests
+This concept appears in OpenHome's architecture, where voice AI agents, or Personalities, can operate with locally stored data, allowing for real-time interaction with minimal latency. Additionally, abilities integrated into these agents can be designed to function seamlessly offline or with intermittent internet access.
 
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/web3-native]]  
+[[concepts/spatial-intelligence]]  
 
-<!-- synthesized: 2026-04-13T11:57:51Z -->
+<!-- synthesized: 2026-04-14T11:49:22Z -->
 ```

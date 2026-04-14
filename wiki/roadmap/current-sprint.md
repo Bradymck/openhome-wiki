@@ -1,29 +1,27 @@
-```markdown
----
-title: Roadmap - Current Sprint
-entity_type: roadmap
-status: live
-last_updated: 2026-04-13
----
+```yaml
+title: Current Sprint Roadmap
+entity_type: roadmap/current-sprint
+status: in-progress
+last_updated: 2026-04-14
+```
 
 ## what-it-is
-The current sprint includes the release of OpenHome's V0.1 developer kits, enabling developers to build agents using OpenClaw on the OpenHome platform. This platform allows for the creation of voice AI agents, or Personalities, that can be extended with modular voice plugins called Abilities.
+The Current Sprint Roadmap outlines the ongoing development and features being introduced to the OpenHome Voice AI platform. Notably, it includes the distribution of physical V0.1 devkits for users who contribute significantly and provide valuable feedback. 
 
 ## status
 in-progress
 
 ## why-it-matters
-This initiative allows developers to create more interactive and beneficial voice AI applications, thereby broadening the accessibility and functionality of AI technology in everyday life. The developer kits will provide valuable resources for feedback and improvements, further enhancing the platform's capabilities.
+This roadmap is crucial as it illustrates the platform's evolution, facilitates developer engagement, and supports the mission of OpenHome to make AI-powered, voice-first applications accessible to a wider audience. The delivery of devkits enhances hands-on involvement and accelerates innovation within the developer community.
 
 ## eta
-Shipping globally in small batches; specific timeline for larger availability has not been disclosed.
+Devkits are being shipped globally in small batches; the exact timeline is not specified. Participation in development and prototyping enhances chances for quicker access.
 
 ## connects-to
-[[OpenHome]]
-[[Personalities]]
-[[Abilities]]
-[[Developer Docs]]
-[[OpenHome Dashboard]]
-[[GitHub]]
-<!-- synthesized: 2026-04-13T11:57:51Z -->
+- [[OpenHome]]
+- [[Developer Docs]]
+- [[OpenHome Dashboard]]
+- [[GitHub Abilities]]
+- [[OpenHome Community]]
+<!-- synthesized: 2026-04-14T11:49:22Z -->
 ```

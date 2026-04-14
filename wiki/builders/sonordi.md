@@ -1,29 +1,27 @@
-```markdown
----
+```yaml
 title: builders/sonordi
 entity_type: builders
 status: stub
-last_updated: 2026-04-13
----
+last_updated: 2026-04-14
+```
 
-### who-they-are
-Sonordi is part of the OpenHome community, a platform focused on building conversational AI agents known as Personalities. They are involved in utilizing OpenHome’s capabilities to create innovative voice applications that enhance user interaction with technology.
+## who-they-are
+Sonordi is a developer with over 7 years of experience focused on building efficient and user-friendly applications that solve real problems. They are interested in emerging technology and the evolution of various industries, particularly in the startup ecosystem.
 
-### what-they-built
-Sonordi has contributed to the development of various abilities within the OpenHome ecosystem, although specific shipped abilities or integrations were not detailed in the available sources.
+## what-they-built
+Information on specific abilities or integrations created by Sonordi is not currently available. 
 
-### grant-status
-none
+## grant-status
+None
 
-### how-to-reach
-- Discord handle: Not specified
+## how-to-reach
+- Discord Handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
+## connects-to
 [[OpenHome]]
-[[Conversational AI]]
-[[Voice Applications]]
+[[Personalities]]
+[[Abilities]]
 
-<!-- synthesized: 2026-04-13T11:57:51Z -->
-```
+<!-- synthesized: 2026-04-14T11:49:22Z -->

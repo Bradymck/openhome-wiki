@@ -1,24 +1,25 @@
 ```markdown
 ---
-title: guides/adamdew
-entity_type: Community Guide
+title: Adam Dew
+entity_type: guides/
 status: live
-last_updated: 2026-04-13
+last_updated: 2026-04-14
 ---
 
 ## who-they-are
-Adam Dew is a developer with over 7 years of experience, focusing on web applications, software, and AI-based tools. He is interested in emerging technologies and the evolution of various industries.
+Adam Dew is a community member associated with OpenHome, specifically noted for his contributions in the realms of AI and web technologies. He has expressed a keen interest in emerging technologies and in building efficient, user-friendly applications.
 
 ## what-they-help-with
-Adam specializes in building efficient and user-friendly tools that solve real problems. He is involved in the OpenHome community, working on AI and voice applications, and extending the capabilities of the OpenHome platform.
+Adam specializes in discussing and advising on projects related to tokens, crypto, and the integration of AI into web applications. He actively engages with developers to ensure that crypto-related discussions are constructive and free from promotion of specific assets.
 
 ## how-to-reach
-Discord handle: @adamdew
+Discord Handle: @adamdew
 
 ## connects-to
+[[guides/]]
 [[OpenHome]]
-[[Voice AI]]
-[[Community Guides]]
-[[AI Development]]
-<!-- synthesized: 2026-04-13T11:57:51Z -->
+[[AI]]
+[[web3]]
+[[Community Guide]]
+<!-- synthesized: 2026-04-14T11:49:22Z -->
 ```

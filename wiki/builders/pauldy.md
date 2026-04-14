@@ -1,27 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/pauldy
 entity_type: builders
-status: stub
-last_updated: 2026-04-13
-```
+status: planned
+last_updated: 2026-04-14
+---
 
 ## who-they-are
-Pauldy is an active developer with over 7 years of experience in building web applications, software, and AI-based tools. They focus on creating efficient and user-friendly solutions that address real-world problems. Pauldy is particularly interested in emerging technologies and the evolving startup ecosystem.
+Pauldy is a community builder within the OpenHome platform, focusing on creating conversational AI agents and expanding the capabilities of voice-powered applications. They are engaged in developing smart home solutions and AI interactions that enhance user experiences. 
 
 ## what-they-built
-Details about specific abilities or integrations shipped by Pauldy are currently unavailable.
+Pauldy has contributed by shipping a series of abilities, including a "Conversation Insights Coach" that analyzes communication patterns and provides feedback. This ability tracks verbal habits such as filler words and offers personalized coaching reports to help users improve their conversational skills.
 
 ## grant-status
-none
+applied
 
 ## how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified  
+- Discord handle: Not specified
+- GitHub: Not specified
+- X (formerly Twitter): Not specified
 
 ## connects-to
-[[abilities]]  
-[[OpenHome]]  
-[[AI tools]]  
+[[abilities]]
+[[OpenHome]]
+[[Conversation Insights Coach]]
 
-<!-- synthesized: 2026-04-13T11:57:51Z -->
+<!-- synthesized: 2026-04-14T11:49:22Z -->
+```

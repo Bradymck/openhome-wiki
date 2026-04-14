@@ -1,26 +1,27 @@
 ```markdown
 ---
-title: "Abilities as Apps"
+title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-04-13
+last_updated: 2026-04-14
 ---
 
 ### definition
-Abilities as Apps refer to modular voice plugins within the OpenHome platform that enhance the functionality of conversational AI agents, known as Personalities. These abilities enable agents to perform a variety of tasks, including calling APIs, playing music, and controlling smart home devices.
+Abilities-as-apps refers to the modular nature of voice plugins within the OpenHome platform, allowing AI agents to enhance their skills by integrating new functionalities similar to mobile applications.
 
 ### why-it-matters
-This concept is central to the OpenHome ecosystem as it allows developers and users to customize their AI agents with specific skills that suit their needs. By facilitating the easy addition of new abilities, OpenHome fosters innovation and expansion of voice applications, making them more versatile and user-friendly.
+This concept is crucial for OpenHome as it fosters creativity and innovation within the community, enabling developers to build personalized experiences for users. By treating abilities as standalone applications, it simplifies the process of adding new features and facilitates collaboration among contributors.
 
 ### how-it-manifests
-Abilities are implemented as plugins that can be added to Personalities through the OpenHome dashboard. They can be triggered during conversations using hotwords, allowing for seamless interaction between users and their AI agents. The abilities can also be shared and modified within the OpenHome community, encouraging collaboration and an ever-growing library of functionalities.
+Abilities appear as plugins that can be added to an AI agent, known as a Personality. These plugins can perform a wide variety of tasks, such as calling APIs, playing music, or controlling smart home devices. They are activated by specific hotwords during conversations, allowing for seamless interaction between users and their AI agents.
 
 ### connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/grant-program]]
-[[concepts/spatial-intelligence]]
-[[concepts/web3-native]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-13T11:57:51Z -->
+<!-- synthesized: 2026-04-14T11:49:22Z -->
 ```

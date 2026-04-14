@@ -1,28 +1,26 @@
-```markdown
----
-title: platform/speakers
+```yaml
+title: Speakers
 entity_type: platform
-status: live
-last_updated: 2026-04-13
----
+status: beta
+last_updated: 2026-04-14
+```
 
 ### what-it-is
-OpenHome speakers are cutting-edge smart speakers designed to work with the OpenHome platform, enabling immersive voice interactions and integration with a variety of functionalities, including music playback, AI interaction, and smart home control.
+OpenHome speakers are cutting-edge smart devices designed to host conversational AI agents known as Personalities, integrating modular plugins called Abilities for enhanced functionalities.
 
 ### how-it-works
-OpenHome speakers operate within the open-source Voice AI platform that allows users to build conversational AI agents, referred to as Personalities. Each speaker serves as a physical embodiment of these Personalities, enabling users to interact through voice commands. The speakers respond to defined hotwords and can trigger various Abilities, modular plugins that expand their functionality. Users can develop their own abilities or utilize existing ones created by the community. The speakers are designed to work fully local, providing privacy and customization.
+OpenHome speakers operate on an open-source Voice AI platform, allowing users to create AI agents with unique voices and personas. These Personalities can be extended through various Abilities that introduce new skills such as playing music, controlling smart home devices, and other interactive features. The speakers leverage voice recognition to activate these Abilities using hotwords, thereby enabling seamless user interaction. The platform supports local operation, ensuring privacy and fast performance, and facilitates community collaboration where developers can share and prototype new Abilities.
 
 ### current-status
-live
+beta
 
 ### connects-to
-- [[platform/openhome]]
-- [[platform/abilities]]
-- [[platform/dashboard]]
-- [[platform/voice-ai]]
-- [[platform/local-link]]
-- [[platform/marketplace]]
-- [[platform/live-editor]]
+[[platform/openhome]]  
+[[platform/abilities]]  
+[[platform/dashboard]]  
+[[platform/voice-ai]]  
+[[platform/local-link]]  
+[[platform/marketplace]]  
+[[platform/live-editor]]  
 
-<!-- synthesized: 2026-04-13T11:57:51Z -->
-```
+<!-- synthesized: 2026-04-14T11:49:22Z -->

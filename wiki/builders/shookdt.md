@@ -1,26 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/shookdt
 entity_type: builder
 status: stub
-last_updated: 2026-04-13
-```
+last_updated: 2026-04-14
+---
 
-## who-they-are
-Shookdt is an active community builder in the OpenHome ecosystem, focusing on creating innovative AI-driven voice applications and integrations. With extensive experience in software and AI-based tools, Shookdt aims to enhance user interaction with technology through voice-first solutions.
+### who-they-are
+Shookdt is an active community builder in the OpenHome ecosystem, focusing on creating efficient and user-friendly AI-based tools and applications. With a background in software development and emerging technologies, Shookdt is engaged in building solutions that aim to solve real-world problems and enhance user interactions with technology.
 
-## what-they-built
-Shookdt has developed the "Conversation Insights Coach" ability, which analyzes communication patterns and provides feedback on aspects such as filler words and overall conversation style. This ability includes features like passive analysis, personalized spoken reports, and real-time coaching nudges.
+### what-they-built
+Currently, specific shipped abilities or integrations by Shookdt have not been detailed in the available material. The broader OpenHome platform allows for the development of conversational AI agents and modular plugins called Abilities, suggesting a potential alignment with these technologies.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
+### how-to-reach
+- Discord handle: Not specified
 - GitHub: Not specified
-- X: Not specified
+- X (formerly Twitter): Not specified
 
-## connects-to
-[[builders]]
-[[abilities/conversation-insights-coach]]
+### connects-to
+[[OpenHome]]
+[[Voice AI]]
+[[Abilities]]
 
-<!-- synthesized: 2026-04-13T11:57:51Z -->
+<!-- synthesized: 2026-04-14T11:49:22Z -->
+```
