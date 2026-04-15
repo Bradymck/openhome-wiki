@@ -1,27 +1,28 @@
 ```yaml
-title: Current Sprint Roadmap
-entity_type: roadmap/current-sprint
-status: in-progress
-last_updated: 2026-04-14
+title: Roadmap Current Sprint
+entity_type: roadmap
+status: live
+last_updated: 2026-04-15
 ```
 
 ## what-it-is
-The Current Sprint Roadmap outlines the ongoing development and features being introduced to the OpenHome Voice AI platform. Notably, it includes the distribution of physical V0.1 devkits for users who contribute significantly and provide valuable feedback. 
+The current sprint includes the ongoing distribution of OpenHome DevKit V0.1, a physical smart speaker designed for developers to create and build AI agents using the OpenHome platform.
 
 ## status
 in-progress
 
 ## why-it-matters
-This roadmap is crucial as it illustrates the platform's evolution, facilitates developer engagement, and supports the mission of OpenHome to make AI-powered, voice-first applications accessible to a wider audience. The delivery of devkits enhances hands-on involvement and accelerates innovation within the developer community.
+The OpenHome DevKit allows developers to build and prototype AI agents, facilitating innovation in the voice AI space. By offering these devkits, OpenHome aims to encourage contributions and feedback from the developer community, enhancing the overall quality and capabilities of the platform.
 
 ## eta
-Devkits are being shipped globally in small batches; the exact timeline is not specified. Participation in development and prototyping enhances chances for quicker access.
+Devkits are shipping globally in small batches as of now, with no specific completion date mentioned.
 
 ## connects-to
-- [[OpenHome]]
-- [[Developer Docs]]
-- [[OpenHome Dashboard]]
-- [[GitHub Abilities]]
-- [[OpenHome Community]]
-<!-- synthesized: 2026-04-14T11:49:22Z -->
-```
+[[OpenHome]]
+[[OpenClaw]]
+[[Voice AI]]
+[[Developer Docs]]
+[[GitHub Abilities]]
+[[Conversation Insights Coach]]
+
+<!-- synthesized: 2026-04-15T11:44:46Z -->

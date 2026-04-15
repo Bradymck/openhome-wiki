@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: Skillstone Community Guide
-entity_type: guides/
-status: live
-last_updated: 2026-04-14
+title: guides/skillstone
+entity_type: Community Guides
+status: stub
+last_updated: 2026-04-15
 ---
 
 ## who-they-are
-Skillstone is a community guide associated with the OpenHome platform, which focuses on building AI-powered voice applications. The guides are power users who possess a strong background in software development, particularly in the areas of voice AI, APIs, and modular plugins.
+Skillstone is a guide within the OpenHome community, known for providing support and advice on building and enhancing conversational AI agents. They have a strong background in software development, particularly in the fields of voice AI, smart home technology, and modular voice plugins.
 
 ## what-they-help-with
-Skillstone helps newcomers navigate the OpenHome platform by providing insights into building conversational AI agents called Personalities, as well as creating and integrating Abilities—modular voice plugins that enhance those agents with new skills. They are knowledgeable about the platform's architecture, the available development resources, and best practices for optimizing the use of Abilities.
+Skillstone specializes in helping users understand the OpenHome platform, including the development of Personalities and Abilities. They provide insights into utilizing APIs, troubleshooting development issues, and best practices for creating engaging voice interactions. They also assist in navigating community resources and contribute to discussions regarding emerging tech trends within the ecosystem.
 
 ## how-to-reach
-Skillstone can be reached on Discord at `@Skillstone`.
+Skillstone can be reached via Discord. Exact Discord handle not provided in the source material.
 
 ## connects-to
-[[OpenHome]]
-[[Voices in AI]]
-[[Community Abilities]]
-[[Developer Docs]]
-[[GitHub Abilities]]
-[[Voice AI Agents]]
+[[guides/openhome]]
+[[guides/abilities]]
+[[guides/conversational-ai]]
+[[guides/dev-tools]]
+[[guides/community-resources]]
 
-<!-- synthesized: 2026-04-14T11:49:22Z -->
+<!-- synthesized: 2026-04-15T11:44:46Z -->
 ```

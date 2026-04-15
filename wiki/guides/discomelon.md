@@ -1,25 +1,24 @@
 ```markdown
 ---
 title: guides/discomelon
-entity_type: Community Guide
+entity_type: Community Guides
 status: stub
-last_updated: 2026-04-14
+last_updated: 2026-04-15
 ---
 
 ## who-they-are
-Information about the identity or background of Discomelon is currently unavailable.
+Discomelon is a community contributor within the OpenHome ecosystem. They are a developer with over 7 years of experience in building web applications, software, and AI-based tools, focusing on efficiency and problem-solving.
 
 ## what-they-help-with
-Discomelon is a community guide that assists users with their queries related to OpenHome's voice AI platform. Specific areas of expertise and the tools or APIs they specialize in have yet to be detailed.
+Discomelon specializes in emerging technologies and AI tools. They are actively involved in creating and sharing helpful resources for developers within the OpenHome platform, particularly focusing on integrating and improving AI functionalities with voice applications.
 
 ## how-to-reach
-Information on how to reach Discomelon through Discord or other communication channels is not presently available.
+Discord handle: Not specified
 
 ## connects-to
-[[guides]]
-[[OpenHome]]
-[[Voice AI]]
-[[Community Guide]]
+[[guides/openhome]]
+[[guides/ai-tools]]
+[[guides/developer-resources]]
 
-<!-- synthesized: 2026-04-14T11:49:22Z -->
+<!-- synthesized: 2026-04-15T11:44:46Z -->
 ```

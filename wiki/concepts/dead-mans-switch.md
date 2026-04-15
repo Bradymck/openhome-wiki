@@ -1,26 +1,26 @@
-```yaml
+```markdown
+---
 title: Dead Man's Switch
-entity_type: concepts
+entity_type: concepts/
 status: stub
-last_updated: 2026-04-14
-```
+last_updated: 2026-04-15
+---
 
 ### definition
-A dead man's switch is a safety mechanism that automatically triggers an action when a specified condition is met, often related to the inactivity of the user. This can be used in various applications to ensure that important procedures or notifications occur if the user is unable to trigger them due to incapacitation.
+A dead man's switch is a mechanism designed to automatically activate a function or series of actions if the user becomes incapacitated or fails to respond for a specified period. It ensures that important processes continue to run or that certain protocols are enacted in response to the user's absence.
 
 ### why-it-matters
-In the context of OpenHome, a dead man's switch can play a critical role in ensuring the reliability and safety of voice AI interactions. It can help safeguard against situations where users may be unresponsive, ensuring continuity of operations or alerting designated contacts.
+In the context of OpenHome, the dead man's switch is crucial for enhancing user safety and ensuring that critical tasks are performed autonomously, especially in scenarios where a user's health or safety may be at risk. This feature can empower users to maintain control over their environment, even in situations where they are no longer able to communicate or interact manually with their devices.
 
 ### how-it-manifests
-While specific implementations within OpenHome may vary, the concept typically appears in scenarios where voice AI must maintain user engagement or enact safety protocols in case of unexpected user inactivity. This might include functions related to personal safety, reminders, or emergency alerts.
+The dead man's switch could manifest in various features within OpenHome's platform, such as automated safety protocols that engage if a user fails to respond to prompts over a certain timeframe. For example, if a user does not interact with their smart home devices for an extended period, the system may automatically send alerts to emergency contacts or take specific safety actions to protect the user.
 
 ### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-14T11:49:22Z --> 
+<!-- synthesized: 2026-04-15T11:44:46Z -->
 ```

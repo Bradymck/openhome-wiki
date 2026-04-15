@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: Ali
-entity_type: team/
+title: "Ali"
+entity_type: team
 status: stub
-last_updated: 2026-04-14
+last_updated: 2026-04-15
 ---
 
 ### who-they-are
-Ali is a member of the OpenHome team, serving in an administrative role. Background details about Ali's previous work experience or specific contributions to OpenHome are not available at this time.
+Ali is a member of the OpenHome team, holding a role of significance within the organization. Further background details about their experience or previous roles are currently unavailable.
 
 ### what-they-own
-Ali is responsible for overseeing certain areas of the OpenHome platform. Specific details about which areas or projects Ali leads are currently unclear.
+Ali is responsible for leading areas of the OpenHome platform, although specific domains or projects they oversee have not been detailed in the available information.
 
 ### how-to-reach
-Contact information for Ali is not provided in the available data.
+Ali’s preferred contact methods, including Discord handle or any social media presence, remain unspecified.
 
-## connects-to
-- [[team/jesse]]
-- [[team/shannon]]
+### connects-to
+[[team/jesse]]
+[[team/shannon]]
 
-<!-- synthesized: 2026-04-14T11:49:22Z -->
+<!-- synthesized: 2026-04-15T11:44:46Z -->
 ```

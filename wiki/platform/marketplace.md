@@ -2,27 +2,27 @@
 ---
 title: Platform Marketplace
 entity_type: platform/marketplace
-status: beta
-last_updated: 2026-04-14
+status: live
+last_updated: 2026-04-15
 ---
 
 ### what-it-is
-The OpenHome marketplace is a platform for discovering and sharing abilities that enhance the functionality of voice AI agents known as Personalities. It serves as a hub for developers to contribute to and utilize modular voice plugins that add diverse skills to their AI applications.
+The OpenHome Marketplace is a platform for users to access and share various Abilities, which are modular voice plugins that extend the functionality of conversational AI agents known as Personalities.
 
 ### how-it-works
-The marketplace allows users to browse, fork, and submit abilities created by the OpenHome community. Developers can create and upload custom abilities to the platform, which can be activated during voice interactions with Personalities. These abilities enable various functionalities such as API calls, music playback, and smart device control. Through user contributions, the marketplace continually evolves, enhancing the capabilities of OpenHome's AI agents and fostering community collaboration.
+Users can browse through a collection of community-developed Abilities in the Marketplace. These Abilities enhance the capabilities of Personalities by adding new skills such as calling APIs, playing music, or controlling smart devices. Contributors can submit their own Abilities for inclusion in the Marketplace, allowing for a collaborative approach to expanding the platform's functionality. The Marketplace streamlines the integration of these skills into Personalities, making them more useful and versatile.
 
 ### current-status
-beta
+live
 
-### connects-to
+## connects-to
 [[platform/openhome]]
-[[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
 [[platform/voice-ai]]
+[[platform/speakers]]
 [[platform/local-link]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-14T11:49:22Z -->
+<!-- synthesized: 2026-04-15T11:44:46Z --> 
 ```

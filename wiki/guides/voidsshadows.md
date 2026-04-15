@@ -2,23 +2,24 @@
 ---
 title: guides/voidsshadows
 entity_type: Community Guide
-status: stub
-last_updated: 2026-04-14
+status: live
+last_updated: 2026-04-15
 ---
 
 ### who-they-are
-Voidsshadows is a community guide known for their significant contributions and expertise in the OpenHome Voice AI platform, particularly in developing and extending AI agents.
+Voidsshadows is a community guide and power user within the OpenHome ecosystem, specializing in the development and deployment of voice AI agents.
 
 ### what-they-help-with
-Voidsshadows specializes in assisting users with building conversational AI agents, known as Personalities, and integrating various Abilities that enhance the functionality of these agents within the OpenHome environment.
+Voidsshadows provides guidance on building and enhancing AI-driven voice applications on the OpenHome platform. They offer expertise in the use of Abilities, helping new users to develop conversational AI agents known as Personalities, utilize APIs, and troubleshoot integration issues.
 
 ### how-to-reach
-Discord handle: Voidsshadows
+You can connect with Voidsshadows via Discord.
 
 ### connects-to
-[[guides/openhome]]
-[[guides/abilities]]
-[[community/openhome-dev]]
-[[community/contributors]]
-<!-- synthesized: 2026-04-14T11:49:22Z -->
+- [[OpenHome]]
+- [[Voice AI]]
+- [[Development Guides]]
+- [[Community Contributions]]
+
+<!-- synthesized: 2026-04-15T11:44:46Z -->
 ```

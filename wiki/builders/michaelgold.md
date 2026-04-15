@@ -3,27 +3,27 @@
 title: builders/michaelgold
 entity_type: builder
 status: stub
-last_updated: 2026-04-14
+last_updated: 2026-04-15
 ---
 
 ## who-they-are
-Michael Gold is an active developer with over 7 years of experience in building web applications, software, and AI-based tools. He focuses on creating efficient and user-friendly solutions that address real-world problems. Michael is also interested in emerging technologies and the startup ecosystem.
+Michael Gold is a developer and community member actively involved in the OpenHome project, which focuses on building conversational AI agents and voice applications.
 
 ## what-they-built
-Currently, there isn't specific information available about the abilities or integrations Michael Gold has shipped within the OpenHome platform.  
+Michael Gold has contributed to building and integrating various abilities within the OpenHome platform, specifically developing a feature known as Conversation Insights Coach. This ability analyzes user communication styles and provides insights and feedback on vocal trends.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- **Discord:** Not provided
+- **GitHub:** Not provided
+- **X:** Not provided
 
 ## connects-to
-[[Voice AI]]
-[[Personalities]]
-[[Abilities]]
 [[OpenHome]]
-<!-- synthesized: 2026-04-14T11:49:22Z -->
+[[Conversation Insights Coach]]
+[[Abilities]]
+[[Developers]]
+<!-- synthesized: 2026-04-15T11:44:46Z -->
 ```

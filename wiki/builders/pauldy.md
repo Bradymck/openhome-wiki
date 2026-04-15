@@ -2,28 +2,29 @@
 ---
 title: builders/pauldy
 entity_type: builders
-status: planned
-last_updated: 2026-04-14
+status: stub
+last_updated: 2026-04-15
 ---
 
-## who-they-are
-Pauldy is a community builder within the OpenHome platform, focusing on creating conversational AI agents and expanding the capabilities of voice-powered applications. They are engaged in developing smart home solutions and AI interactions that enhance user experiences. 
+### who-they-are
+Pauldy is a developer with over 7 years of experience in web applications, software development, and AI-based tools. He focuses on building efficient and user-friendly solutions that address real-world problems. Pauldy is interested in emerging technologies and the dynamics of startup ecosystems.
 
-## what-they-built
-Pauldy has contributed by shipping a series of abilities, including a "Conversation Insights Coach" that analyzes communication patterns and provides feedback. This ability tracks verbal habits such as filler words and offers personalized coaching reports to help users improve their conversational skills.
+### what-they-built
+Currently, Pauldy is involved in creating a business model for distributing OpenHome technology through small businesses. He has shared ideas on how to set up and manage systems that can facilitate demos and AI "brains" for local enterprises.
 
-## grant-status
-applied
+### grant-status
+none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X (formerly Twitter): Not specified
+### how-to-reach
+- Discord: Not provided
+- GitHub: [pauldy's GitHub](https://github.com/leo-guinan)
+- X (formerly Twitter): Not provided
 
-## connects-to
-[[abilities]]
+### connects-to
+[[builders]]
 [[OpenHome]]
-[[Conversation Insights Coach]]
+[[AI]]
+[[business-models]]
 
-<!-- synthesized: 2026-04-14T11:49:22Z -->
+<!-- synthesized: 2026-04-15T11:44:46Z -->
 ```

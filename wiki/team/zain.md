@@ -1,26 +1,21 @@
-```markdown
----
-title: Team Zain
+```yaml
+title: Zain
 entity_type: team
 status: stub
-last_updated: 2026-04-14
----
+last_updated: 2026-04-15
+```
 
 ## who-they-are
-Zain is a core member of the OpenHome team, serving in a role that supports platform development and community engagement. They have experience in building software solutions and are passionate about advancing voice AI technology.
+Zain is a member of the OpenHome team, holding a role in administration.
 
 ## what-they-own
-Zain leads initiatives related to user engagement and the development of new modular Abilities for the OpenHome platform. They are focused on enhancing the functionality of conversational AI agents and ensuring that the platform remains accessible to developers.
+Zain leads various initiatives related to the development and management of AI-powered voice applications within the OpenHome platform.
 
 ## how-to-reach
-Zain can be contacted via Discord. Additional contact information may be provided in community channels.
+Zain can be contacted via Discord.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[dev.openhome.com]]
-[[github.com/openhome-dev/abilities]]
-[[docs.openhome.com]]
 
-<!-- synthesized: 2026-04-14T11:49:22Z -->
-```
+<!-- synthesized: 2026-04-15T11:44:46Z -->

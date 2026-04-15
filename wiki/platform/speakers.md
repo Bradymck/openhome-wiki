@@ -1,20 +1,20 @@
 ```yaml
-title: Speakers
+title: Platform/Speakers
 entity_type: platform
-status: beta
-last_updated: 2026-04-14
+status: stub
+last_updated: 2026-04-15
 ```
 
-### what-it-is
-OpenHome speakers are cutting-edge smart devices designed to host conversational AI agents known as Personalities, integrating modular plugins called Abilities for enhanced functionalities.
+## what-it-is
+OpenHome's speakers are cutting-edge smart devices designed to support the OpenHome platform, allowing for local voice interactions and various functionalities, including media playback and smart home control.
 
-### how-it-works
-OpenHome speakers operate on an open-source Voice AI platform, allowing users to create AI agents with unique voices and personas. These Personalities can be extended through various Abilities that introduce new skills such as playing music, controlling smart home devices, and other interactive features. The speakers leverage voice recognition to activate these Abilities using hotwords, thereby enabling seamless user interaction. The platform supports local operation, ensuring privacy and fast performance, and facilitates community collaboration where developers can share and prototype new Abilities.
+## how-it-works
+The smart speakers operate by integrating with OpenHome's Voice AI platform, facilitating the interaction of users with their AI agents (Personalities) through voice commands. These speakers come pre-equipped with capabilities that allow them to execute tasks such as playing music, controlling smart home devices, and interacting with various abilities coded in Python. Users can trigger different functionalities or "Abilities" via specific hotwords during their voice conversations.
 
-### current-status
-beta
+## current-status
+stub
 
-### connects-to
+## connects-to
 [[platform/openhome]]  
 [[platform/abilities]]  
 [[platform/dashboard]]  
@@ -23,4 +23,4 @@ beta
 [[platform/marketplace]]  
 [[platform/live-editor]]  
 
-<!-- synthesized: 2026-04-14T11:49:22Z -->
+<!-- synthesized: 2026-04-15T11:44:46Z -->

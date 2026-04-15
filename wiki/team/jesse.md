@@ -1,25 +1,25 @@
 ```markdown
 ---
-title: "team/jesse"
-entity_type: "team member"
-status: "live"
-last_updated: 2026-04-14
+title: Jesse
+entity_type: team
+status: live
+last_updated: 2026-04-15
 ---
 
 ### who-they-are
-Jesse serves as the CTO at OpenHome. He has a background in software engineering and voice AI technologies, focusing on enhancing the functionality and accessibility of voice-driven applications.
+Jesse is the CTO of OpenHome. He has a background in technology and development, focusing on voice AI solutions.
 
 ### what-they-own
-Jesse leads the development of the OpenHome platform's core technologies, including the design and implementation of the voice AI framework and the underlying infrastructure that supports the creation of conversational agents called Personalities.
+Jesse leads the development of the OpenHome platform, overseeing the core technological advancements and integrations that enable the creation of conversational AI agents and abilities.
 
 ### how-to-reach
-Jesse can be reached on Discord as @jesserank. He is also active on X/Twitter with the handle [@jesserank](https://twitter.com/jesserank).
+You can reach Jesse on Discord at `@jesserank`.
 
 ### connects-to
 - [[team/shannon]]
-- [[openhome]]
-- [[voices]]
-- [[abilities]]
+- [[Developer Docs]]
+- [[OpenHome Dashboard]]
+- [[GitHub]]
 
-<!-- synthesized: 2026-04-14T11:49:22Z -->
+<!-- synthesized: 2026-04-15T11:44:46Z -->
 ```
