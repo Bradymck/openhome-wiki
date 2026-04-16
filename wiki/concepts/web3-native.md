@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: web3-native
+title: Web3 Native
 entity_type: concepts
 status: stub
-last_updated: 2026-04-15
+last_updated: 2026-04-16
 ---
 
 ### definition
-Web3-native refers to the integration of decentralized technologies and principles within applications and platforms that leverage blockchain, cryptocurrencies, and other decentralized networks. This paradigm shift emphasizes user ownership, transparency, and the removal of intermediaries in transactions and interactions.
+Web3 native refers to applications and platforms that are built on decentralized blockchain technologies, embodying the principles of a peer-to-peer economy, user sovereignty, and enhanced privacy. These systems leverage smart contracts, decentralized finance, and community governance to create a new paradigm of digital interaction.
 
 ### why-it-matters
-In the context of OpenHome, being web3-native allows for enhanced user control and security, facilitating a shift towards more democratic technology use. Users can retain ownership of their data and interactions, increasing trust and engagement within the platform.
+Web3 native technologies are relevant to OpenHome as they enable the building of applications that prioritize user ownership and security. By integrating these principles, OpenHome can facilitate a more robust and user-centric environment, encouraging innovation and trust in AI interactions.
 
 ### how-it-manifests
-This concept may manifest in OpenHome through features that utilize blockchain technologies for data integrity, user identity verification, and secure transactions. OpenHome might also explore integrating cryptocurrency payments and decentralized applications (dApps) to provide users with innovative tools and services.
+In OpenHome, the web3 native concept can be seen through the integration of decentralized applications (dApps) that allow for seamless user interactions in voice AI. Features such as tokenized incentives for contribution, community governance structures, and secure data handling practices resonate with the web3 native ethos.
 
 ### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-15T11:44:46Z -->
+<!-- synthesized: 2026-04-16T11:49:28Z -->
 ```

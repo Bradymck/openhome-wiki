@@ -1,26 +1,24 @@
-```markdown
----
+```yaml
 title: Dead Man's Switch
-entity_type: concepts/
-status: stub
-last_updated: 2026-04-15
----
+entity_type: concepts
+status: planned
+last_updated: 2026-04-16
+```
 
-### definition
-A dead man's switch is a mechanism designed to automatically activate a function or series of actions if the user becomes incapacitated or fails to respond for a specified period. It ensures that important processes continue to run or that certain protocols are enacted in response to the user's absence.
+## definition
+A dead man's switch is a safety mechanism that is designed to prevent a specific action from occurring if the user becomes incapacitated or unresponsive. In the context of technology and systems, it ensures that a system continues to operate safely by requiring human interaction to remain active or functional.
 
-### why-it-matters
-In the context of OpenHome, the dead man's switch is crucial for enhancing user safety and ensuring that critical tasks are performed autonomously, especially in scenarios where a user's health or safety may be at risk. This feature can empower users to maintain control over their environment, even in situations where they are no longer able to communicate or interact manually with their devices.
+## why-it-matters
+In the OpenHome platform, the incorporation of a dead man's switch concept is crucial for user safety and control. It ensures that voice AI agents can detect if a user is no longer able to interact and can take necessary actions to protect privacy or shut down, thus maintaining user security.
 
-### how-it-manifests
-The dead man's switch could manifest in various features within OpenHome's platform, such as automated safety protocols that engage if a user fails to respond to prompts over a certain timeframe. For example, if a user does not interact with their smart home devices for an extended period, the system may automatically send alerts to emergency contacts or take specific safety actions to protect the user.
+## how-it-manifests
+This concept can manifest within the OpenHome framework by implementing features in AI agents that require periodic engagement from the user. For example, if a user fails to respond to prompts within a certain timeframe, the AI could trigger a shutdown sequence or alert a designated contact. This adds a layer of safety, especially in scenarios where the agent is controlling smart home devices.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
+[[concepts/web3-native]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-15T11:44:46Z -->
-```
+<!-- synthesized: 2026-04-16T11:49:28Z -->

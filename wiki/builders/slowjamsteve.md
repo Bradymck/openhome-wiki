@@ -1,30 +1,28 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-04-15
+last_updated: 2026-04-16
 ---
 
 ### who-they-are
-SlowJamSteve is a member of the OpenHome community with a focus on building efficient and user-friendly AI-based tools. They have experience working on web applications and are interested in emerging technology and startup ecosystems.
+SlowJamSteve is an active community member involved in building within the OpenHome ecosystem. He has a background in software development with a focus on practical applications that enhance user interactions.
 
 ### what-they-built
-Details about specific abilities or integrations that SlowJamSteve has shipped are not provided in the available data.
+Details regarding specific abilities or integrations developed by SlowJamSteve are not specified in the available data. More contributions and project specifics may emerge as the community grows and shares their work.
 
 ### grant-status
-The grant status for SlowJamSteve is currently unspecified.
+No grant status is provided or noted for SlowJamSteve.
 
 ### how-to-reach
-- Discord: @slowjamsteve
-- GitHub: Not available in the provided data
-- X: Not available in the provided data
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ### connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[AI Tools]]
-[[Community Builders]]
+[[builders/openhome]]
+[[abilities/conversation-insights-coach]]
 
-<!-- synthesized: 2026-04-15T11:44:46Z -->
+<!-- synthesized: 2026-04-16T11:49:28Z -->
 ```

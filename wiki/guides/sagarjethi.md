@@ -1,25 +1,25 @@
 ```markdown
 ---
-title: "Sagarjethi"
-entity_type: guides/sagarjethi
-status: stub
-last_updated: 2026-04-15
+title: guides/sagarjethi
+entity_type: Community Guide
+status: live
+last_updated: 2026-04-16
 ---
 
-### who-they-are
-Sagarjethi is a developer with 7+ years of experience working on web applications, software, and AI-based tools. They focus on building efficient and user-friendly solutions that address real problems.
+## who-they-are
+Sagar Jethi is a developer with over 7 years of experience in building web applications, software, and AI-based tools. He focuses on creating efficient and user-friendly solutions that address real-world problems. Sagar is interested in emerging technology and the dynamics of startup ecosystems.
 
-### what-they-help-with
-Sagarjethi specializes in AI development, offering insights on building voice AI agents using the OpenHome platform. Their expertise includes creating conversational agents (Personalities) and extending functionalities with modular voice plugins (Abilities).
+## what-they-help-with
+Sagar specializes in developing AI capabilities and smart applications using the OpenHome Voice AI platform. He helps users understand the platform’s functionalities, including the creation and integration of conversational AI agents (Personalities) and their associated skills (Abilities). His expertise extends to building applications that leverage voice technology to enhance user interactions with devices.
 
-### how-to-reach
-Discord Handle: Not specified
+## how-to-reach
+You can reach Sagar on Discord.
 
-### connects-to
+## connects-to
+[[guides]]
 [[OpenHome]]
-[[Voice AI]]
-[[Conversational Agents]]
-[[Abilities]]
-
-<!-- synthesized: 2026-04-15T11:44:46Z -->
+[[AI Applications]]
+[[Voice Technology]]
+[[Conversational AI]]
+<!-- synthesized: 2026-04-16T11:49:28Z -->
 ```

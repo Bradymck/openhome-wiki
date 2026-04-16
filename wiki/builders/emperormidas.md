@@ -1,29 +1,29 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: builders
+entity_type: community builder
 status: stub
-last_updated: 2026-04-15
+last_updated: 2026-04-16
 ---
 
 ### who-they-are
-Emperormidas is a developer with over 7 years of experience working on web applications, software, and AI-based tools. They focus on building efficient and user-friendly solutions that address real-world problems.
+Emperormidas is a member of the OpenHome community, which focuses on developing AI-powered voice applications and capabilities.
 
 ### what-they-built
-Specific projects or abilities shipped by Emperormidas have not been detailed in the available information. They are likely involved in building capabilities within the OpenHome ecosystem, contributing to conversational AI agents and modular voice plugins.
+Specific contributions or abilities shipped by emperormidas are not documented in the available sources.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-Not specified.
+- Discord handle: emperormidas
 
-### connects-to
+## connects-to
+[[builders]]
+[[community]]
 [[OpenHome]]
 [[Abilities]]
-[[Voice AI]]
-[[AI Integration]]
-[[Community Building]]
+[[Conversation Insights Coach]]
 
-<!-- synthesized: 2026-04-15T11:44:46Z -->
+<!-- synthesized: 2026-04-16T11:49:28Z -->
 ```

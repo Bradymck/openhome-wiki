@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: builders/mathieub
+title: "Mathieu B."
 entity_type: builders
 status: stub
-last_updated: 2026-04-15
+last_updated: 2026-04-16
 ---
 
 ### who-they-are
-Mathieub is an active developer with over 7 years of experience working on web applications and AI-based tools. He is focused on building solutions that are efficient, easy to use, and address real-world problems, particularly within the emerging tech and startup ecosystems.
+Mathieu B. is a member of the OpenHome community focused on building conversational AI agents, harnessing the power of voice interaction through his contributions to OpenHome's platform.
 
 ### what-they-built
-Mathieub is currently involved in the OpenHome project, contributing to the development of AI-powered voice applications and modular voice plugins (Abilities) that enhance user interactions with technology. He is actively participating in discussions about new abilities and features within the OpenHome platform.
+Mathieu has been involved in the development of various Abilities for OpenHome, including a tool known as the "Conversation Insights Coach," which analyzes communication patterns and provides feedback to users on their speaking habits.
 
 ### grant-status
 none
 
 ### how-to-reach
 - Discord: Not specified
-- GitHub: [Mathieub's GitHub](https://github.com/mathieub) (assumed based on common naming conventions)
+- GitHub: Not specified
 - X: Not specified
 
 ### connects-to
-[[builders/openhome]]
-[[builders/devkit]]
-[[builders/abilities]]
+[[builders/mathieub]]
+[[OpenHome]]
+[[Abilities]]
 
-<!-- synthesized: 2026-04-15T11:44:46Z -->
+<!-- synthesized: 2026-04-16T11:49:28Z -->
 ```

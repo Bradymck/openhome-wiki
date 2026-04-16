@@ -1,30 +1,30 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-04-15
+last_updated: 2026-04-16
 ---
 
-### who-they-are
-Pauldy is a developer with over 7 years of experience in web applications, software development, and AI-based tools. He focuses on building efficient and user-friendly solutions that address real-world problems. Pauldy is interested in emerging technologies and the dynamics of startup ecosystems.
+## who-they-are
+Pauldy is an active community builder within the OpenHome ecosystem. With a background in software development and a keen interest in voice AI technology, Pauldy is engaged in creating conversational AI agents and enhancing their functionalities through various integrations.
 
-### what-they-built
-Currently, Pauldy is involved in creating a business model for distributing OpenHome technology through small businesses. He has shared ideas on how to set up and manage systems that can facilitate demos and AI "brains" for local enterprises.
+## what-they-built
+While specific shipped abilities or integrations by Pauldy are not detailed in the available sources, they are involved in the development of tools and projects associated with OpenHome's voice AI platform, which enables users to create Personalities—AI agents that can interact in conversational styles—and enhance them with modular Abilities.
 
-### grant-status
-none
+## grant-status
+None
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: [pauldy's GitHub](https://github.com/leo-guinan)
-- X (formerly Twitter): Not provided
+## how-to-reach
+Discord handle: Not provided  
+GitHub: Not listed  
+X: Not mentioned  
 
-### connects-to
-[[builders]]
-[[OpenHome]]
-[[AI]]
-[[business-models]]
-
-<!-- synthesized: 2026-04-15T11:44:46Z -->
+## connects-to
+[[builders/openhome]]
+[[abilities/Voice AI]]
+[[abilities/Personalities]]
+[[abilities/Abilities]]
+[[projects/openhome-dev]]
+<!-- synthesized: 2026-04-16T11:49:28Z -->
 ```

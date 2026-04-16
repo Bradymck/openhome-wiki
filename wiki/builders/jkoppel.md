@@ -1,27 +1,30 @@
-```yaml
-title: jkoppel
-entity_type: builders/jkoppel
+```markdown
+---
+title: builders/jkoppel
+entity_type: builders
 status: stub
-last_updated: 2026-04-15
-```
+last_updated: 2026-04-16
+---
 
-## who-they-are
-jkoppel is a developer with a strong background in web applications and AI-based tools. They have over 7 years of experience and focus on building efficient and user-friendly solutions that solve real problems. jkoppel is interested in emerging technologies and the evolution of various industries.
+### who-they-are
+JKoppel is an active community builder within the OpenHome platform, focusing on the development and integration of conversational AI agents, known as Personalities. They are involved in extending these agents with modular voice plugins called Abilities.
 
-## what-they-built
-Currently, there is no specific information available on what jkoppel has built within the OpenHome community or related projects. Further contributions and integrations are awaited for more details.
+### what-they-built
+Details on specific shipped abilities or integrations by JKoppel are not currently available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-## connects-to
+### connects-to
+[[builders]]
 [[OpenHome]]
-[[Voice AI]]
-[[AI Agents]]
+[[Personalities]]
+[[Abilities]]
 
-<!-- synthesized: 2026-04-15T11:44:46Z -->
+<!-- synthesized: 2026-04-16T11:49:28Z -->
+```

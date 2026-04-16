@@ -1,28 +1,30 @@
-```yaml
+```markdown
+---
 title: Abilities News Brief
-entity_type: abilities/
+entity_type: abilities/news-brief
 status: live
-last_updated: 2026-04-15
-```
+last_updated: 2026-04-16
+---
 
-## what-it-does
-The Abilities News Brief is a communication channel within the OpenHome community that shares updates, news, and developments related to the platform and its abilities. It serves as a space for members to discuss contributions, feedback, and other announcements pertinent to the OpenHome ecosystem.
+### what-it-does
+The News Brief ability allows users to receive updates and insights about their communication patterns, providing feedback on aspects such as filler words, hedging language, and overall vocabulary diversity. It operates passively in the background and offers spoken reports based on user conversations.
 
-## how-to-build
-The News Brief does not have a specific build process as it primarily functions as a communication channel on Discord. However, community members are encouraged to contribute news and updates regarding abilities they've created or are working on.
+### how-to-build
+To create the News Brief ability, developers can utilize API endpoints provided by the OpenHome platform for speech analysis and data tracking. The ability monitors conversations and compiles insights, which can be reported back to users through voice interactions. Detailed documentation on the API can be found in the [Developer Docs](https://docs.openhome.com/).
 
-## category
-utility
+### category
+productivity
 
-## built-by
-[[OpenHome Community]]
+### built-by
+[[User Contributions]]
 
-## status
+### status
 live
 
-## connects-to
+### connects-to
+[[abilities/trivia]]
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
-[[abilities/trivia]]
 
-<!-- synthesized: 2026-04-15T11:44:46Z -->
+<!-- synthesized: 2026-04-16T11:49:28Z -->
+```

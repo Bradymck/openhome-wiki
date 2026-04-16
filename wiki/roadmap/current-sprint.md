@@ -1,28 +1,30 @@
-```yaml
+```markdown
+---
 title: Roadmap Current Sprint
 entity_type: roadmap
 status: live
-last_updated: 2026-04-15
-```
+last_updated: 2026-04-16
+---
 
 ## what-it-is
-The current sprint includes the ongoing distribution of OpenHome DevKit V0.1, a physical smart speaker designed for developers to create and build AI agents using the OpenHome platform.
+The current sprint focuses on enhancing the OpenHome platform by introducing the Conversation Insights Coach ability, which analyzes user communication patterns and provides feedback to improve conversational skills.
 
 ## status
-in-progress
+In-progress
 
 ## why-it-matters
-The OpenHome DevKit allows developers to build and prototype AI agents, facilitating innovation in the voice AI space. By offering these devkits, OpenHome aims to encourage contributions and feedback from the developer community, enhancing the overall quality and capabilities of the platform.
+This feature aims to enhance user interaction by offering personalized coaching based on communication styles, helping users understand and improve their conversational effectiveness with AI agents.
 
 ## eta
-Devkits are shipping globally in small batches as of now, with no specific completion date mentioned.
+Expected rollout in upcoming batches as the development progresses.
 
 ## connects-to
-[[OpenHome]]
-[[OpenClaw]]
-[[Voice AI]]
-[[Developer Docs]]
-[[GitHub Abilities]]
-[[Conversation Insights Coach]]
+- [[OpenHome]]
+- [[Abilities]]
+- [[Conversation Insights Coach]]
+- [[OpenClaw]]
+- [[Developer Docs]]
+- [[OpenHome Dashboard]]
 
-<!-- synthesized: 2026-04-15T11:44:46Z -->
+<!-- synthesized: 2026-04-16T11:49:28Z -->
+```

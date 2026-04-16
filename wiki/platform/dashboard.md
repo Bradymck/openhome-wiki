@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: OpenHome Dashboard
 entity_type: platform/dashboard
 status: live
-last_updated: 2026-04-15
-```
+last_updated: 2026-04-16
+---
 
-## what-it-is
-The OpenHome Dashboard is a user-facing interface that allows developers to create and manage AI agents, referred to as Personalities, and extend them with modular voice plugins called Abilities.
+### what-it-is
+The OpenHome Dashboard is a user interface that allows developers and users to create and manage AI agents known as Personalities. It serves as a central hub for building, customizing, and exploring the capabilities of conversational AI within the OpenHome platform.
 
-## how-it-works
-The Dashboard provides a streamlined environment for users to initiate the creation of their AI agent by setting parameters such as the agent's name, voice, and personality traits. Users can easily add Abilities, enhancing the agent's functionality with various skills, including making API calls and controlling smart home devices. This platform is designed to be accessible to developers of all skill levels, offering tools and resources that simplify the process of building and deploying conversational AI.
+### how-it-works
+The Dashboard enables users to set up their AI agents with unique names, voices, and styles of conversation. Users can easily add Abilities — modular plugins that enhance the skills of these agents by calling APIs, playing music, controlling smart home devices, and more. The Dashboard also offers tools for browsing community-created Abilities, forking existing projects, and submitting personal contributions. This interactive interface simplifies the process of designing and testing AI interactions, streamlining the development workflow for voice applications.
 
-## current-status
+### current-status
 live
 
-## connects-to
+### connects-to
 - [[platform/openhome]]
 - [[platform/speakers]]
 - [[platform/abilities]]
@@ -23,4 +24,5 @@ live
 - [[platform/marketplace]]
 - [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-15T11:44:46Z -->
+<!-- synthesized: 2026-04-16T11:49:28Z -->
+```
