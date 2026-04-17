@@ -1,25 +1,34 @@
 ```markdown
 ---
-title: guides/sagarjethi
-entity_type: Community Guide
+title: Sagar Jethi
+entity_type: guides/sagarjethi
 status: live
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 ---
 
-## who-they-are
-Sagar Jethi is a developer with over 7 years of experience in building web applications, software, and AI-based tools. He focuses on creating efficient and user-friendly solutions that address real-world problems. Sagar is interested in emerging technology and the dynamics of startup ecosystems.
+### who-they-are
+Sagar Jethi is an AI systems and backend engineer with extensive experience in developing production-ready LLM products, backend infrastructure, and scalable automation systems. He has a strong technical background and emphasizes building efficient and practical solutions in the AI domain.
 
-## what-they-help-with
-Sagar specializes in developing AI capabilities and smart applications using the OpenHome Voice AI platform. He helps users understand the platform’s functionalities, including the creation and integration of conversational AI agents (Personalities) and their associated skills (Abilities). His expertise extends to building applications that leverage voice technology to enhance user interactions with devices.
+### what-they-help-with
+Sagar specializes in various practical AI use cases, including:
+- AI customer support systems
+- Booking and workflow agents
+- Retrieval-Augmented Generation (RAG) pipelines
+- API integrations
+- Backend systems designed for scalability
+- Reliability fixes concerning rate limits, retries, failures, and cost control.
 
-## how-to-reach
+His work often focuses on ensuring existing systems function reliably in a production environment.
+
+### how-to-reach
 You can reach Sagar on Discord.
 
-## connects-to
-[[guides]]
-[[OpenHome]]
-[[AI Applications]]
-[[Voice Technology]]
-[[Conversational AI]]
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+### connects-to
+- [[AI Systems Engineering]]
+- [[Backend Infrastructure]]
+- [[Production-Ready LLM Products]]
+- [[API Integrations]]
+- [[Scalable Automation Systems]]
+
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```

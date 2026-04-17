@@ -2,20 +2,20 @@
 ---
 title: Spatial Intelligence
 entity_type: concepts
-status: live
-last_updated: 2026-04-16
+status: stub
+last_updated: 2026-04-17
 ---
 
-## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and understand the positions of objects in three-dimensional space. In the context of OpenHome, it involves the integration of spatial data and awareness into voice AI applications to enhance user interactions.
+### definition
+Spatial intelligence is the ability to visualize and manipulate spatial relationships and structures in three dimensions. It encompasses skills related to navigation, understanding spatial configurations, and interpreting maps and diagrams.
 
-## why-it-matters
-Spatial intelligence is crucial for creating immersive and intuitive experiences within the OpenHome platform. It enables AI agents to understand their physical environment and effectively interact with smart home devices, thereby improving user engagement and functionality. By leveraging spatial intelligence, OpenHome can provide more relevant and contextual responses based on the user's location and the arrangement of devices.
+### why-it-matters
+Spatial intelligence is crucial for enhancing user interactions within OpenHome, as it allows AI agents to better understand and navigate physical environments. By integrating spatial reasoning, OpenHome can provide more intuitive and context-aware interactions, especially in smart home settings where spatial awareness is vital for managing and controlling devices.
 
-## how-it-manifests
-In OpenHome, spatial intelligence manifests through features that allow AI agents to perform tasks based on spatial awareness. This includes controlling smart home devices, responding to user queries about their environment, and optimizing interactions based on the physical layout of objects. It also could involve augmented reality elements to enhance user experiences by blending digital interactions with the physical world.
+### how-it-manifests
+In the OpenHome platform, spatial intelligence can manifest through features that involve location-based services, environmental mapping, and smart device interactions that rely on spatial awareness. For example, an AI agent could use spatial intelligence to determine the best location for placing a smart speaker or to optimize the arrangement of devices in a user’s home.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ In OpenHome, spatial intelligence manifests through features that allow AI agent
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```

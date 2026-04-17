@@ -1,25 +1,33 @@
 ```markdown
 ---
 title: guides/brianchilders
-entity_type: Community Guide
+entity_type: community guide
 status: live
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 ---
 
 ### who-they-are
-Brian Childers is a developer with over 7 years of experience in building web applications, software, and AI-based tools. He specializes in creating efficient and user-friendly solutions that address real-world problems and has a keen interest in emerging technology and startup ecosystems.
+Brian Childers is an AI systems and backend engineer with expertise in building production-ready large language model (LLM) products, backend infrastructure, and scalable automation systems. He has experience in practical AI use cases, including AI customer support systems, booking and workflow agents, and API integrations. He focuses on ensuring reliable performance for existing systems in production.
 
 ### what-they-help-with
-Brian Childers helps community members with building conversational AI agents on the OpenHome platform. He guides users in creating and customizing Personalities and utilizing Abilities—modular plugins that enhance the functionality of AI agents. His expertise includes integrating various APIs and developing applications that leverage voice AI.
+Brian specializes in various technical areas, including:
+- AI customer support systems
+- Booking and workflow agents
+- Retrieval-Augmented Generation (RAG) pipelines
+- API integrations
+- Backend systems built for scalability
+- Reliability fixes, including rate limits and retries
+- Working with tools such as Python, FastAPI, TypeScript, PostgreSQL, Redis, OpenAI / Anthropic APIs, Docker, and distributed systems.
 
 ### how-to-reach
-You can reach Brian Childers on Discord at: @brianchilders
+You can reach Brian on Discord at: `<@502708633327632385>`
 
 ### connects-to
-- [[OpenHome]]
-- [[Voice AI]]
-- [[Abilities]]
-- [[Personalities]]
+[[guides]]
+[[community]] 
+[[OpenHome]]
+[[AI systems]]
+[[backend engineering]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```

@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: Grant Program
-entity_type: concepts/grant-program
+entity_type: concepts/
 status: live
-last_updated: 2026-04-16
-```
+last_updated: 2026-04-17
+---
 
 ## definition
-A grant program in the context of OpenHome is an initiative designed to support and fund developers who contribute innovative ideas, prototypes, and projects related to the OpenHome platform. This program incentivizes participation by providing resources and assistance to those who actively engage in development.
+The Grant Program is an initiative that supports developers and contributors within the OpenHome ecosystem by providing financial assistance and resources for their projects. It aims to foster innovation and collaboration in the development of voice AI applications and modular abilities on the platform.
 
 ## why-it-matters
-The grant program is crucial for fostering a vibrant developer community around OpenHome. By incentivizing contributions and providing financial or resource-based support, it helps generate a diverse range of applications and functionalities, ultimately enhancing the platform's ecosystem. This aligns with OpenHome's mission to empower users through accessible AI-driven voice applications.
+The Grant Program is essential for encouraging community engagement and accelerating the growth of the OpenHome platform. By offering support for top contributions and feedback, it motivates developers to create new and valuable features for voice AI agents, enhancing the overall user experience in OpenHome.
 
 ## how-it-manifests
-The grant program primarily manifests through the distribution of physical development kits (DevKits) to top contributors and active community members. These DevKits offer cutting-edge technology that helps developers build and prototype their ideas, leveraging the resources of the OpenHome platform.
+The program manifests through the distribution of physical development kits, known as DevKits, to selected developers who demonstrate significant contributions. These DevKits are equipped with the necessary tools and technology to build sophisticated AI agents, and they also provide recipients with community recognition and promotional support for their projects.
 
 ## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/web3-native]]
-- [[concepts/local-first]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
+```

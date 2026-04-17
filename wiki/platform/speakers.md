@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: "Speakers"
+title: Speakers
 entity_type: platform
-status: beta
-last_updated: 2026-04-16
+status: live
+last_updated: 2026-04-17
 ---
 
 ### what-it-is
-OpenHome speakers are cutting-edge smart speakers designed to serve as physical hosts for AI agents known as Personalities, enabling users to interact with technology through voice commands.
+OpenHome Speakers are part of the OpenHome platform, providing users with innovative, AI-powered voice interaction capabilities. They are designed to work seamlessly with the OpenHome system to deliver interactive audio experiences and smart home functionalities.
 
 ### how-it-works
-OpenHome speakers operate on an open-source Voice AI platform which allows developers to create and manage conversational AI agents. Each speaker supports various functionalities through modular plugins called Abilities, which can be added to Personalities to extend their capabilities. These speakers are fully local, meaning they do not rely on cloud services for operation, and they enable functionalities such as music playback, smart home control, and interaction with AI.
+OpenHome Speakers utilize an open-source Voice AI framework that allows developers to create custom conversational agents, referred to as Personalities. These agents can be enhanced with various Abilities, which are modular plugins that extend their functionality. The speakers feature local processing capabilities, enabling users to engage in voice interactions without needing constant internet connectivity. Abilities can perform tasks such as playing music, controlling smart home devices, and providing access to different applications, all triggered through voice commands.
 
 ### current-status
-beta
+live
 
 ### connects-to
-[[platform/openhome]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+- [[platform/openhome]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/voice-ai]]
+- [[platform/local-link]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```

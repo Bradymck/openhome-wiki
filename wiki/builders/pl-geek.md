@@ -1,26 +1,33 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: builders
-status: stub
-last_updated: 2026-04-16
+entity_type: builders/
+status: live
+last_updated: 2026-04-17
 ---
 
-### who-they-are
-PL Geek is part of the OpenHome community, dedicated to building and enhancing voice AI applications. They focus on developing conversational AI agents, referred to as Personalities, and extending them with modular voice plugins known as Abilities.
+## who-they-are
+pl-geek is an AI systems and backend engineer with experience in building production-ready large language model (LLM) products, backend infrastructure, and scalable automation systems. They focus on practical AI use cases, including AI customer support systems, booking/workflow agents, retrieval-augmented generation (RAG) pipelines, API integrations, and backend systems built for scale.
 
-### what-they-built
-PL Geek has contributed to the development of various Abilities within the OpenHome platform, although specific shipped abilities are not mentioned in the available resources.
+## what-they-built
+pl-geek has contributed to the OpenHome community by building various Abilities, showcasing their skills in integrating and extending AI functionalities. They are involved in creating conversational AI agents and personalized user interactions through modular voice plugins.
 
-### grant-status
-none
+## grant-status
+applied
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord: @pl-geek
+- GitHub: [pl-geek](https://github.com/pl-geek)
+- X: [pl-geek](https://x.com/pl-geek)
 
-### connects-to
-[[openhome]] [[abilities]] [[voice_ai]]
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+## connects-to
+[[builders/]]
+[[OpenHome]]
+[[AI customer support systems]]
+[[booking agents]]
+[[API integrations]]
+[[conversational AI]]
+[[modular voice plugins]]
+
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```

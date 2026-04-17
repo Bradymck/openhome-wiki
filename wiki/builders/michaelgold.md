@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: builders/michaelgold
-entity_type: builder
+entity_type: builders/
 status: stub
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 ---
 
 ## who-they-are
-Michael Gold is an active member of the OpenHome community, focusing on developing efficient and user-friendly capabilities within the field of voice AI. He has a solid background in software and AI-based tools, contributing to the evolution of conversational agents.
+Michael Gold is an AI systems and backend engineer with extensive experience building production-ready large language model (LLM) products, backend infrastructure, and scalable automation systems. His expertise lies in practical AI use cases including AI customer support systems, booking agents, and API integrations. 
 
 ## what-they-built
-As of now, specific details about Michael Gold's shipped abilities or integrations within the OpenHome platform have not been documented. Further contributions and projects may be forthcoming as he engages with the community.
+Michael has not publicly listed specific abilities or integrations that he has built on the OpenHome platform. However, his experience suggests he is capable of building and integrating voice AI systems and may contribute to modular voice plugins.
 
 ## grant-status
 none
@@ -21,10 +21,11 @@ none
 - X: Not specified
 
 ## connects-to
-[[builders/openhome]]
-[[abilities/conversation_insights_coach]]
-[[abilities/abilities_development]]
-[[platform/openhome]]
+[[OpenHome]]
+[[Abilities]]
+[[AI Systems]]
+[[Backend Infrastructure]]
+[[Voice AI]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```

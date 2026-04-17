@@ -1,24 +1,27 @@
-```yaml
-title: Dead Man's Switch
-entity_type: concepts
-status: planned
-last_updated: 2026-04-16
-```
+```markdown
+---
+title: "Dead Man's Switch"
+entity_type: "concepts/"
+status: "stub"
+last_updated: "2026-04-17"
+---
 
-## definition
-A dead man's switch is a safety mechanism that is designed to prevent a specific action from occurring if the user becomes incapacitated or unresponsive. In the context of technology and systems, it ensures that a system continues to operate safely by requiring human interaction to remain active or functional.
+### definition
+A dead man's switch is a safety mechanism designed to automatically trigger a specific action if a user becomes incapacitated or fails to respond. In the context of technology and applications, it often serves as a fail-safe to ensure systems remain operable or secure in the absence of user interaction.
 
-## why-it-matters
-In the OpenHome platform, the incorporation of a dead man's switch concept is crucial for user safety and control. It ensures that voice AI agents can detect if a user is no longer able to interact and can take necessary actions to protect privacy or shut down, thus maintaining user security.
+### why-it-matters
+The dead man's switch concept is relevant to OpenHome as it can enhance accountability and user security within AI interactions. Implementing such a feature could provide users peace of mind, knowing that their systems can react appropriately in unforeseen circumstances. This aligns with OpenHome’s mission to create safe and immersive interactions with technology.
 
-## how-it-manifests
-This concept can manifest within the OpenHome framework by implementing features in AI agents that require periodic engagement from the user. For example, if a user fails to respond to prompts within a certain timeframe, the AI could trigger a shutdown sequence or alert a designated contact. This adds a layer of safety, especially in scenarios where the agent is controlling smart home devices.
+### how-it-manifests
+While specific implementations of dead man's switches within the OpenHome platform are not detailed in available materials, the concept could be integrated as a feature in Personalities and Abilities. For instance, a Personality could initiate specific protocols to notify users or take actions if it detects inactivity over a predefined duration.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
 [[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
+```

@@ -3,25 +3,31 @@
 title: guides/franci
 entity_type: Community Guide
 status: live
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 ---
 
-## who-they-are
-Franci is a developer with over 7 years of experience working on web applications, software, and AI-based tools. They focus on creating efficient and user-friendly solutions to real-world problems. Franci is interested in emerging technologies and the evolution of startup ecosystems.
+### who-they-are
+Franci is an AI systems and backend engineer with a focus on building production-ready LLM products, backend infrastructure, and scalable automation systems. They have substantial experience in practical AI use cases.
 
-## what-they-help-with
-Franci specializes in building conversational AI agents, known as Personalities, within the OpenHome platform. They contribute to the development and prototyping of Abilities, which are modular voice plugins that enhance the functionality of these AI agents. Franci provides guidance on effective implementation and usage of AI tools, as well as assisting others in their projects.
+### what-they-help-with
+Franci specializes in:
+- AI customer support systems
+- Booking and workflow agents
+- Retrieval-Augmented Generation (RAG) pipelines
+- API integrations
+- Backend systems built for scale
+- Reliability fixes, including rate limits, retries, failures, and cost control
 
-## how-to-reach
-Discord Handle: <@franci>
+Franci is particularly effective in improving the reliability of existing systems in production.
 
-## connects-to
-[[OpenHome]]
-[[Artificial Intelligence]]
-[[Voice AI]]
-[[Community Guides]]
-[[Abilities]]
-[[Personalities]]
+### how-to-reach
+You can reach Franci on Discord.
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+### connects-to
+- [[OpenHome]]
+- [[AI Systems Engineering]]
+- [[Backend Infrastructure]]
+- [[AI Use Cases]]
+
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```

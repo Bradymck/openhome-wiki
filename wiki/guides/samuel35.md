@@ -1,24 +1,25 @@
-```yaml
+```markdown
+---
 title: guides/samuel35
 entity_type: Community Guide
-status: stub
-last_updated: 2026-04-16
-```
+status: live
+last_updated: 2026-04-17
+---
 
 ## who-they-are
-Samuel35 is a power user and contributor within the OpenHome community, specializing in AI-based tools and conversational agents. 
+Samuel35 is an AI systems and backend engineer with extensive experience in building production-ready AI applications and backend infrastructure. They have a strong focus on practical AI use cases including AI customer support systems, booking agents, and automation systems.
 
 ## what-they-help-with
-Samuel35 assists users in building and developing AI-powered voice applications using the OpenHome platform. Their expertise includes features related to creating Personalities and Abilities, and they focus on making voice interactions more effective and accessible.
+Samuel35 specializes in the development of scalable automation systems and backend services, particularly those that involve API integrations, reliability fixes, and scalable backends for deploying AI applications. They have expertise in languages and technologies such as Python, FastAPI, TypeScript, PostgreSQL, Redis, Docker, and various AI APIs.
 
 ## how-to-reach
-Discord Handle: samuel35
+You can reach Samuel35 on Discord.
 
 ## connects-to
+[[guides]]
 [[OpenHome]]
-[[Developer Docs]]
-[[GitHub]]
-[[Voice AI]]
-[[Community Guides]]
+[[AI Systems]]
+[[Backend Infrastructure]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
+```

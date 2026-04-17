@@ -1,28 +1,28 @@
 ```markdown
 ---
 title: Voice AI
-entity_type: platform
+entity_type: platform/voice-ai
 status: live
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 ---
 
-### what-it-is
-Voice AI refers to a component of the OpenHome platform that enables the creation of conversational AI agents, termed Personalities, which can interact with users via natural language voice commands.
+## what-it-is
+Voice AI is an integral component of the OpenHome platform, enabling the development of conversational AI agents known as Personalities. These agents can be enhanced with modular voice plugins called Abilities, allowing for a rich user interaction experience.
 
-### how-it-works
-In OpenHome, a Personality is crafted to embody the voice AI agent, characterized by a unique voice, persona, and conversational style. Users can enhance these Personalities with Abilities, which are modular voice plugins that add specific skills such as API interaction, music playback, quizzes, and device control. Abilities are activated during voice interactions using hotwords and run custom logic written in Python. The platform is designed to provide immersive and human-like voice interactions, thereby revolutionizing user engagement with technology.
+## how-it-works
+The Voice AI system allows users to create Personalities that embody specific voices, personas, and conversational styles. Abilities are plugins that extend the functionality of these Personalities, enabling them to perform tasks such as calling APIs, playing music, and controlling smart devices. Users can trigger these Abilities through specific hotwords during voice conversations, and each Ability can execute custom Python logic to fulfill user requests.
 
-### current-status
+## current-status
 live
 
-### connects-to
-[[platform/openhome]]  
-[[platform/speakers]]  
-[[platform/abilities]]  
-[[platform/dashboard]]  
-[[platform/local-link]]  
-[[platform/marketplace]]  
-[[platform/live-editor]]  
+## connects-to
+- [[platform/openhome]]
+- [[platform/speakers]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/local-link]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z --> 
 ```

@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: guides/super-greg
-entity_type: Community Guide
+title: super-greg
+entity_type: guides/super-greg
 status: stub
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 ---
 
-## who-they-are
-Super Greg is a contributor in the OpenHome community with a focus on building and enhancing voice AI agents. They have a background in software development with a strong emphasis on emerging technology and AI tools.
+### who-they-are
+Super Greg is an AI systems and backend engineer with extensive experience in building production-ready LLM (Large Language Model) products, backend infrastructure, and scalable automation systems. They have worked on practical AI applications, including AI customer support systems, booking and workflow agents, and API integrations.
 
-## what-they-help-with
-Super Greg specializes in creating and deploying Abilities for OpenHome's voice AI platform, which allows users to enhance their Personalities with new skills. They provide guidance on building conversational AI agents and integrating various functionalities, including API calls, music playback, and device control.
+### what-they-help-with
+Super Greg specializes in backend systems built for scalability, reliability fixes (such as rate limits, retries, failures, and cost control), and handling existing systems that require real-world problem-solving for production reliability. They are proficient with multiple technologies, including Python, FastAPI, TypeScript, PostgreSQL, Redis, OpenAI, Anthropic APIs, and Docker.
 
-## how-to-reach
-Discord Handle: SuperGreg
+### how-to-reach
+Discord handle: Not specified
 
-## connects-to
+### connects-to
 [[guides]]
-[[voice AI]]
-[[OpenHome]]
-[[Abilities]]
-[[Personalities]]
+[[AI systems]]
+[[backend systems]]
+[[OpenAI APIs]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```

@@ -1,30 +1,28 @@
 ```markdown
 ---
-title: Abilities News Brief
+title: News Brief Ability
 entity_type: abilities/news-brief
 status: live
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 ---
 
 ### what-it-does
-The News Brief ability allows users to receive updates and insights about their communication patterns, providing feedback on aspects such as filler words, hedging language, and overall vocabulary diversity. It operates passively in the background and offers spoken reports based on user conversations.
+The News Brief Ability provides concise updates on current events and news stories, enabling users to stay informed through their voice AI agents.
 
 ### how-to-build
-To create the News Brief ability, developers can utilize API endpoints provided by the OpenHome platform for speech analysis and data tracking. The ability monitors conversations and compiles insights, which can be reported back to users through voice interactions. Detailed documentation on the API can be found in the [Developer Docs](https://docs.openhome.com/).
+The ability can be built by utilizing available APIs to fetch news from various sources, format the updates, and deliver them as voice snippets via the OpenHome platform.
 
 ### category
-productivity
+utility
 
 ### built-by
-[[User Contributions]]
+[[builders/openhome]]
 
 ### status
 live
 
 ### connects-to
-[[abilities/trivia]]
-[[abilities/aquaprime]]
-[[abilities/deadman-fm]]
+[[abilities/aquaprime]], [[abilities/deadman-fm]], [[abilities/trivia]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```

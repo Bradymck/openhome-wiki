@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: Web3 Native
-entity_type: concepts
-status: stub
-last_updated: 2026-04-16
+entity_type: concepts/web3-native
+status: planned
+last_updated: 2026-04-17
 ---
 
-### definition
-Web3 native refers to applications and platforms that are built on decentralized blockchain technologies, embodying the principles of a peer-to-peer economy, user sovereignty, and enhanced privacy. These systems leverage smart contracts, decentralized finance, and community governance to create a new paradigm of digital interaction.
+## definition
+Web3 Native refers to applications, platforms, and technologies that are built on decentralized networks and leverage blockchain technology. These solutions prioritize user ownership, privacy, and security, defining a new paradigm for digital interactions that contrasts with traditional centralized systems.
 
-### why-it-matters
-Web3 native technologies are relevant to OpenHome as they enable the building of applications that prioritize user ownership and security. By integrating these principles, OpenHome can facilitate a more robust and user-centric environment, encouraging innovation and trust in AI interactions.
+## why-it-matters
+In the context of OpenHome, being Web3 Native enhances the platform's mission to empower users with control over their data and interactions. It aligns with OpenHome's vision of providing an open-source ecosystem where users can create and manage their AI-powered voice applications without intermediary interference.
 
-### how-it-manifests
-In OpenHome, the web3 native concept can be seen through the integration of decentralized applications (dApps) that allow for seamless user interactions in voice AI. Features such as tokenized incentives for contribution, community governance structures, and secure data handling practices resonate with the web3 native ethos.
+## how-it-manifests
+Web3 Native concepts can manifest in OpenHome through various features such as decentralized data storage, enabling users to manage their personal data without relying on centralized servers. Additionally, the platform may integrate smart contracts to facilitate secure transactions and interactions between users and the deployed AI agents.
 
-### connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```

@@ -1,26 +1,24 @@
 ```markdown
 ---
-title: Sira
-entity_type: guides/
-status: stub
-last_updated: 2026-04-16
+title: "Guides/Sira"
+entity_type: "guides/"
+status: "stub"
+last_updated: 2026-04-17
 ---
 
 ### who-they-are
-Sira is a community guide within the OpenHome platform, known for their expertise in developing and managing voice AI applications. They have experience with conversational AI and a background in emerging technologies, making them a valuable asset to those seeking assistance in this field.
+Sira is an AI systems and backend engineer specializing in building production-ready large language model (LLM) products and scalable automation systems. They possess extensive experience in practical AI applications, particularly in areas such as AI customer support systems and booking agents.
 
 ### what-they-help-with
-Sira specializes in onboarding new users to the OpenHome platform, helping them build conversational AI agents known as Personalities. They provide guidance on utilizing and extending abilities—modular voice plugins that enhance the functionality of these AI agents. Their expertise encompasses hardware integration, voice interaction design, and the creation of custom abilities.
+Sira focuses on backend infrastructure, API integrations, and reliability fixes for systems handling scaling challenges. Their expertise includes working with Python, FastAPI, TypeScript, PostgreSQL, Redis, OpenAI / Anthropic APIs, Docker, and distributed systems.
 
 ### how-to-reach
-You can reach Sira on Discord at their handle.
+Sira can be contacted via their Discord handle, which is "@sira".
 
 ### connects-to
-[[Community Guides]]
-[[OpenHome]]
-[[Personalities]]
-[[Abilities]]
-[[Discord Moderation Policy]]
+- [[guides/ai-systems]]
+- [[guides/backend-development]]
+- [[guides/api-integration]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```

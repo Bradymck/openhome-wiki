@@ -1,28 +1,31 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 ---
 
 ### who-they-are
-SlowJamSteve is an active community member involved in building within the OpenHome ecosystem. He has a background in software development with a focus on practical applications that enhance user interactions.
+Slowjamsteve is an AI systems and backend engineer with experience in building production-ready LLM products, backend infrastructure, and scalable automation systems. They have previously focused on practical AI use cases, including AI customer support systems, booking and workflow agents, RAG pipelines, API integrations, backend systems built for scale, and reliability fixes.
 
 ### what-they-built
-Details regarding specific abilities or integrations developed by SlowJamSteve are not specified in the available data. More contributions and project specifics may emerge as the community grows and shares their work.
+Details on specific shipped abilities or integrations by Slowjamsteve are not currently available.
 
 ### grant-status
-No grant status is provided or noted for SlowJamSteve.
+none
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ### connects-to
-[[builders/openhome]]
-[[abilities/conversation-insights-coach]]
+- [[builders]]
+- [[OpenHome]]
+- [[AI systems]]
+- [[voice AI]]
+- [[API integrations]]
 
-<!-- synthesized: 2026-04-16T11:49:28Z -->
+<!-- synthesized: 2026-04-17T11:40:34Z -->
 ```
