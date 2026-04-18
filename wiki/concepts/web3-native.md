@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: Web3 Native
-entity_type: concepts/web3-native
-status: planned
-last_updated: 2026-04-17
----
+entity_type: concepts/
+status: stub
+last_updated: 2026-04-18
+```
 
 ## definition
-Web3 Native refers to applications, platforms, and technologies that are built on decentralized networks and leverage blockchain technology. These solutions prioritize user ownership, privacy, and security, defining a new paradigm for digital interactions that contrasts with traditional centralized systems.
+Web3 native refers to applications and technologies built on decentralized networks, particularly those associated with blockchain and cryptocurrency. These systems prioritize user ownership, privacy, and security, enabling peer-to-peer interactions without intermediaries.
 
 ## why-it-matters
-In the context of OpenHome, being Web3 Native enhances the platform's mission to empower users with control over their data and interactions. It aligns with OpenHome's vision of providing an open-source ecosystem where users can create and manage their AI-powered voice applications without intermediary interference.
+In the context of OpenHome, being web3 native means leveraging decentralized protocols to enhance user control and data privacy within voice AI interactions. This approach aligns with OpenHome's mission to innovate how users interact with technology, ensuring that they maintain ownership of their data and digital identities.
 
 ## how-it-manifests
-Web3 Native concepts can manifest in OpenHome through various features such as decentralized data storage, enabling users to manage their personal data without relying on centralized servers. Additionally, the platform may integrate smart contracts to facilitate secure transactions and interactions between users and the deployed AI agents.
+Web3 native concepts can manifest in OpenHome through decentralized identity systems, smart contracts for transactions, and open-source development models that allow users to contribute and iterate on AI agents and abilities. Additionally, the use of tokens or cryptocurrencies for rewarding contributors aligns with the principles of web3.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
-```
+<!-- synthesized: 2026-04-18T11:25:11Z -->

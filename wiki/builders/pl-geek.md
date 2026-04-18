@@ -3,31 +3,38 @@
 title: builders/pl-geek
 entity_type: builders/
 status: live
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
 ## who-they-are
-pl-geek is an AI systems and backend engineer with experience in building production-ready large language model (LLM) products, backend infrastructure, and scalable automation systems. They focus on practical AI use cases, including AI customer support systems, booking/workflow agents, retrieval-augmented generation (RAG) pipelines, API integrations, and backend systems built for scale.
+Pl-Geek is a software engineer specializing in frontend and backend integration, web and mobile app development, API integration, AI chatbots, and assistant development. They have experience across various fields, including learning management systems, fintech, education, and healthcare. Pl-Geek's expertise includes building production-ready LLM products, backend infrastructure, and scalable automation systems.
 
 ## what-they-built
-pl-geek has contributed to the OpenHome community by building various Abilities, showcasing their skills in integrating and extending AI functionalities. They are involved in creating conversational AI agents and personalized user interactions through modular voice plugins.
+Pl-Geek has contributed to practical AI use cases, such as:
+- AI customer support systems
+- Booking and workflow agents
+- RAG pipelines
+- API integrations
+- Backend systems built for scalability
+- Reliability fixes (e.g., rate limits, retries, failures, cost control)
+
+Pl-Geek is active in the OpenHome community, where they are engaged in developing and integrates various smart home and voice capabilities.
 
 ## grant-status
-applied
+none
 
 ## how-to-reach
-- Discord: @pl-geek
-- GitHub: [pl-geek](https://github.com/pl-geek)
-- X: [pl-geek](https://x.com/pl-geek)
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/]]
-[[OpenHome]]
-[[AI customer support systems]]
-[[booking agents]]
-[[API integrations]]
-[[conversational AI]]
-[[modular voice plugins]]
+- [[Voice AI]]
+- [[AI Integration]]
+- [[Smart Home Abilities]]
+- [[Open Home Devkits]]
+- [[API Integration]]
+- [[AI Chatbots]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

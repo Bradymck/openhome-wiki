@@ -1,28 +1,26 @@
-```markdown
----
-title: Voice AI
-entity_type: platform/voice-ai
+```yaml
+title: platform/voice-ai
+entity_type: platform
 status: live
-last_updated: 2026-04-17
----
+last_updated: 2026-04-18
+```
 
 ## what-it-is
-Voice AI is an integral component of the OpenHome platform, enabling the development of conversational AI agents known as Personalities. These agents can be enhanced with modular voice plugins called Abilities, allowing for a rich user interaction experience.
+OpenHome's Voice AI platform is an open-source framework designed to build conversational AI agents called Personalities. These agents can be extended with modular plugins, known as Abilities, which add various skills and functionalities to enhance user interaction.
 
 ## how-it-works
-The Voice AI system allows users to create Personalities that embody specific voices, personas, and conversational styles. Abilities are plugins that extend the functionality of these Personalities, enabling them to perform tasks such as calling APIs, playing music, and controlling smart devices. Users can trigger these Abilities through specific hotwords during voice conversations, and each Ability can execute custom Python logic to fulfill user requests.
+The Voice AI platform enables developers to create Personalities that embody unique voices and conversation styles. Personalities can be customized with various Abilities—plugins that empower agents with new skills, such as calling APIs, playing music, controlling smart home devices, and more. The platform operates using voice commands, which trigger these Abilities during conversations. Development is facilitated through a user-friendly dashboard, documentation, and community-sourced resources that encourage collaboration and sharing of different Abilities.
 
 ## current-status
 live
 
 ## connects-to
-- [[platform/openhome]]
-- [[platform/speakers]]
-- [[platform/abilities]]
-- [[platform/dashboard]]
-- [[platform/local-link]]
-- [[platform/marketplace]]
-- [[platform/live-editor]]
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z --> 
-```
+<!-- synthesized: 2026-04-18T11:25:11Z -->

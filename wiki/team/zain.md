@@ -1,23 +1,23 @@
-```yaml
-title: team/zain
-entity_type: team
-status: stub
-last_updated: 2026-04-17
-```
+```markdown
+---
+title: "Zain"
+entity_type: "team"
+status: "stub"
+last_updated: 2026-04-18
+---
 
-## who-they-are
-Zain is a member of the OpenHome team, serving in a technical capacity within the organization. Specifically, Zain has a background as an AI systems/backend engineer and has experience in building production-ready large language model (LLM) products and backend infrastructure.
+### who-they-are
+Zain is a software engineer with expertise in frontend and backend integration, web and mobile app development, API integration, AI chatbots and assistants, workflow automation, and generative AI.
 
-## what-they-own
-Zain focuses on practical AI use cases, which include but are not limited to AI customer support systems, booking and workflow agents, and API integrations. Their expertise also covers backend systems designed for scale, reliability fixes, and automation systems.
+### what-they-own
+Zain leads various initiatives within the OpenHome platform, focusing on technical solutions for building conversational AI agents and enhancing user experience through innovative software applications. Their work encompasses development in AI customer support systems, booking and workflow agents, and backend systems for scalability.
 
-## how-to-reach
-Zain can be contacted via Discord. Specific contact details such as a handle are not available from the provided data.
+### how-to-reach
+Zain can be reached on Discord, and is open to networking opportunities. Specific handles were not provided in the source material.
 
-## connects-to
+### connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[dev-help]]
-[[ideas]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
+```

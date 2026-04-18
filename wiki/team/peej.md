@@ -1,22 +1,23 @@
 ```markdown
 ---
-title: "Peej"
-entity_type: "team/"
-status: "stub"
-last_updated: 2026-04-17
+title: Team Peej
+entity_type: team
+status: stub
+last_updated: 2026-04-18
 ---
 
 ### who-they-are
-Peej is a backend engineer at OpenHome, specializing in AI systems and production-ready language model products. They have significant experience with scalable automation systems and practical AI applications including AI customer support systems.
+Peej is a team member at OpenHome with a background in software engineering. They specialize in areas such as frontend and backend integration, web and mobile app development, AI chatbots, workflow automation, and generative AI.
 
 ### what-they-own
-Peej leads development in the backend infrastructure and automation processes within the OpenHome platform, focusing on making enhancements to existing systems and ensuring their reliability in production environments.
+Peej is involved in various aspects of platform development, particularly in building voice AI agents and developing modular voice plugins known as Abilities.
 
 ### how-to-reach
-Peej can be reached through their Discord handle.
+Currently, there is no specific Discord handle or social media contact provided for Peej. Further contact information may be accessible through the OpenHome community channels.
 
 ### connects-to
 [[team/jesse]]
 [[team/shannon]]
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

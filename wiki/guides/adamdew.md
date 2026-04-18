@@ -3,31 +3,23 @@
 title: guides/adamdew
 entity_type: Community Guide
 status: live
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
-### who-they-are
-Adam Dew is an AI systems and backend engineer with experience in building production-ready LLM products, backend infrastructure, and scalable automation systems. His work has primarily focused on practical AI use cases, including AI customer support systems and workflow agents.
+## who-they-are
+Adam Dew is a software engineer with over 7 years of experience specializing in frontend and backend integration, web and mobile app development, API integration, AI chatbots and assistants, workflow automation, and multimodal systems. Adam has a diverse background working on projects across various fields including learning management systems, fintech, education, and healthcare.
 
-### what-they-help-with
-Adam specializes in the development of:
-- AI customer support systems
-- Booking and workflow agents
-- RAG (Retrieve and Generate) pipelines
-- API integrations
-- Backend systems built for scalability and reliability fixes (such as rate limits, retries, failures, and cost control)
+## what-they-help-with
+Adam helps with building conversational AI agents and extending them with modular voice plugins (Abilities). His expertise covers developing robust backend infrastructures, building production-ready LLM products, and creating AI customer support systems. He is particularly skilled in practical AI use cases like booking agents, RAG pipelines, and scalable automation systems. Adam is proficient in Python, FastAPI, TypeScript, PostgreSQL, Redis, and has experience with OpenAI and Anthropic APIs.
 
-He is particularly proficient in situations where existing solutions need to function reliably in a production environment.
+## how-to-reach
+Discord handle: @adamdew
 
-### how-to-reach
-Discord Handle: @adamdew
+## connects-to
+[[guides/introduction]]
+[[guides/openhome]]
+[[guides/api-integration]]
+[[guides/ai-systems]]
 
-### connects-to
-[[guides]]
-[[OpenHome]]
-[[AI Systems]]
-[[Backend Engineering]]
-[[Production Systems]]
-[[Automation]]
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

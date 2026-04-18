@@ -1,31 +1,30 @@
 ```markdown
 ---
-title: builders/slowjamsteve
-entity_type: builder
-status: stub
-last_updated: 2026-04-17
+title: "builders/slowjamsteve"
+entity_type: "builder"
+status: "stub"
+last_updated: "2026-04-18"
 ---
 
-### who-they-are
-Slowjamsteve is an AI systems and backend engineer with experience in building production-ready LLM products, backend infrastructure, and scalable automation systems. They have previously focused on practical AI use cases, including AI customer support systems, booking and workflow agents, RAG pipelines, API integrations, backend systems built for scale, and reliability fixes.
+## who-they-are
+SlowJamSteve is a software engineer with expertise in various areas, including AI chatbots and assistant development, API integration, web and mobile app development, and backend infrastructure. He is known for building production-ready LLM products and scalable automation systems.
 
-### what-they-built
-Details on specific shipped abilities or integrations by Slowjamsteve are not currently available.
+## what-they-built
+Details on specific abilities or integrations that SlowJamSteve has shipped are not provided in the available information.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
+## connects-to
 - [[builders]]
-- [[OpenHome]]
-- [[AI systems]]
-- [[voice AI]]
-- [[API integrations]]
+- [[AI chatbots]]
+- [[API integration]]
+- [[Backend systems]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

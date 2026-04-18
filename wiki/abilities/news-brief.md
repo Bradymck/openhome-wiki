@@ -1,28 +1,30 @@
 ```markdown
 ---
-title: News Brief Ability
-entity_type: abilities/news-brief
+title: Abilities/News-Brief
+entity_type: abilities
 status: live
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
-### what-it-does
-The News Brief Ability provides concise updates on current events and news stories, enabling users to stay informed through their voice AI agents.
+## what-it-does
+The News Brief ability provides users with summarized news updates from various sources, offering a quick and efficient way to stay informed about current events.
 
-### how-to-build
-The ability can be built by utilizing available APIs to fetch news from various sources, format the updates, and deliver them as voice snippets via the OpenHome platform.
+## how-to-build
+To build the News Brief ability, developers can leverage APIs from news aggregation services. The implementation involves creating a plugin that fetches the latest news articles, summarizes them, and presents them in a conversational format suitable for voice interactions.
 
-### category
+## category
 utility
 
-### built-by
-[[builders/openhome]]
+## built-by
+[[builders/community]]
 
-### status
+## status
 live
 
-### connects-to
-[[abilities/aquaprime]], [[abilities/deadman-fm]], [[abilities/trivia]]
+## connects-to
+[[abilities/aquaprime]]
+[[abilities/deadman-fm]]
+[[abilities/trivia]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

@@ -1,24 +1,26 @@
 ```markdown
 ---
-title: "Guides/Sira"
-entity_type: "guides/"
-status: "stub"
-last_updated: 2026-04-17
+title: guides/sira
+entity_type: Community Guide
+status: live
+last_updated: 2026-04-18
 ---
 
 ### who-they-are
-Sira is an AI systems and backend engineer specializing in building production-ready large language model (LLM) products and scalable automation systems. They possess extensive experience in practical AI applications, particularly in areas such as AI customer support systems and booking agents.
+Sira is a software engineer with expertise in a variety of technical areas, including frontend and backend integration, web and mobile app development, API integration, AI chatbots, workflow automation, and software for SaaS projects. Sira has experience in fields such as learning management systems, fintech, education, and healthcare.
 
 ### what-they-help-with
-Sira focuses on backend infrastructure, API integrations, and reliability fixes for systems handling scaling challenges. Their expertise includes working with Python, FastAPI, TypeScript, PostgreSQL, Redis, OpenAI / Anthropic APIs, Docker, and distributed systems.
+Sira specializes in developing conversational AI agents and integrating voice technologies. This includes building production-ready AI customer support systems, booking and workflow agents, and scalable automation systems. Sira is proficient in various programming languages and technologies such as Python, FastAPI, TypeScript, PostgreSQL, and Redis.
 
 ### how-to-reach
-Sira can be contacted via their Discord handle, which is "@sira".
+Discord handle: Not explicitly provided in the source material.
 
 ### connects-to
-- [[guides/ai-systems]]
-- [[guides/backend-development]]
+- [[guides/openhome]]
+- [[guides/abilities]]
+- [[guides/developer-docs]]
+- [[guides/conversational-ai]]
 - [[guides/api-integration]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

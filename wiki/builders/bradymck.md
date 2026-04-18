@@ -1,33 +1,30 @@
 ```markdown
 ---
-title: builders/bradymck
+title: bradymck
 entity_type: builders
-status: live
-last_updated: 2026-04-17
+status: stub
+last_updated: 2026-04-18
 ---
 
-### who-they-are
-Brady McK is an AI systems and backend engineer with experience in building production-ready LLM (Large Language Model) products and scalable automation systems. His work focuses on practical AI use cases, including AI customer support systems, booking agents, workflow agents, retrieval-augmented generation (RAG) pipelines, and API integrations. He is proficient in various technologies such as Python, FastAPI, TypeScript, PostgreSQL, Redis, and Docker.
+## who-they-are
+Brady McK is a software engineer with expertise in frontend and backend integration, web and mobile app development, AI chatbots and assistants, workflow automation, and various other technologies. He has a diverse background in developing projects across multiple fields including learning management systems, fintech, education, and healthcare. His technical skills encompass Python, FastAPI, TypeScript, PostgreSQL, Redis, and distributed systems.
 
-### what-they-built
-Brady is actively contributing to OpenHome, an open-source platform that allows users to create conversational AI agents. He is involved in shipping abilities or integrations that enhance the functionality of these AI agents. His contributions include work on backend systems that ensure reliability and scalability for AI applications.
+## what-they-built
+Brady is involved in building AI systems and backend infrastructure capable of supporting production-ready LLM products and scalable automation systems. His contributions include practical AI use cases like AI customer support systems, booking and workflow agents, RAG pipelines, and API integrations. He also focuses on reliability enhancements for existing systems to ensure smooth operation under production conditions.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not specified
+## how-to-reach
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
-[[OpenHome]]  
-[[AI customer support systems]]  
-[[Booking agents]]  
-[[Workflow agents]]  
-[[RAG pipelines]]  
-[[API integrations]]  
-[[OpenAI]]  
+## connects-to
+[[builders]]
+[[AI systems]]
+[[backend engineering]]
+[[workflow automation]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

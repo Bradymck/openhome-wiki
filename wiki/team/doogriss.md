@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: Doogriss
+title: team/doogriss
 entity_type: team
 status: stub
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
 ### who-they-are
-Role at OpenHome and background information about Doogriss are currently unknown.
+Role at OpenHome: Not specified. Background includes a specialization in software engineering, focusing on frontend and backend integration, web and mobile app development, API integration, AI systems, and workflow automation.
 
 ### what-they-own
-Areas of the platform led by Doogriss are currently unknown.
+Areas of the platform they lead: Not explicitly detailed. However, they possess extensive experience in AI, including AI chatbots, automation systems, and the development of scalable products.
 
 ### how-to-reach
-Contact details, such as Discord handle or social media accounts for Doogriss, are currently unknown.
+Discord handle: Not provided. Preferred contact methods not specified.
 
-## connects-to
+### connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

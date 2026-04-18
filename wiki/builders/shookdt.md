@@ -1,30 +1,29 @@
 ```markdown
 ---
 title: builders/shookdt
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
 ### who-they-are
-Shookdt is an AI systems and backend engineer experienced in building production-ready LLM products. They focus on practical AI use cases, including AI customer support systems, booking/workflow agents, and backend systems built for scalability and reliability.
+Shookdt is a software engineer with expertise in frontend and backend integration, web and mobile app development, API integration, AI chatbots, and workflow automation. Shookdt has extensive experience across various fields including learning management systems, fintech, education, and healthcare, and is actively involved in building AI-based tools and applications.
 
 ### what-they-built
-While there are no specific shipped abilities or integrations mentioned, Shookdt is actively participating in the OpenHome community and is open to opportunities that involve building AI-driven applications and backend systems.
+As part of the OpenHome community, Shookdt is involved in the development of AI agents, conversational interfaces, and various abilities that enhance the user experience. Specific details on shipped abilities or integrations have not been provided.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Unknown
-- GitHub: Unknown
-- X: Unknown
+- Discord: N/A
+- GitHub: N/A
+- X: N/A
 
 ### connects-to
-[[builders]]
-[[OpenHome]]
-[[AI Systems]]
-[[Backend Development]]
+[[builders/openhome]]  
+[[abilities/AI_agents]]  
+[[abilities/workflow_automation]]  
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

@@ -3,19 +3,19 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
-### definition
-Spatial intelligence is the ability to visualize and manipulate spatial relationships and structures in three dimensions. It encompasses skills related to navigation, understanding spatial configurations, and interpreting maps and diagrams.
+## definition
+Spatial intelligence refers to the ability to visualize and manipulate three-dimensional objects and spaces. It involves understanding how to navigate physical environments and perceive spatial relationships among objects.
 
-### why-it-matters
-Spatial intelligence is crucial for enhancing user interactions within OpenHome, as it allows AI agents to better understand and navigate physical environments. By integrating spatial reasoning, OpenHome can provide more intuitive and context-aware interactions, especially in smart home settings where spatial awareness is vital for managing and controlling devices.
+## why-it-matters
+In the context of OpenHome, spatial intelligence is crucial for creating immersive and intuitive interactions between users and their voice AI agents. It enhances the ability of Personalities to understand and respond to the physical world in which they operate, making the interactions feel more natural and user-friendly.
 
-### how-it-manifests
-In the OpenHome platform, spatial intelligence can manifest through features that involve location-based services, environmental mapping, and smart device interactions that rely on spatial awareness. For example, an AI agent could use spatial intelligence to determine the best location for placing a smart speaker or to optimize the arrangement of devices in a user’s home.
+## how-it-manifests
+Spatial intelligence manifests within OpenHome through features that allow Personalities to interact with the physical environment. This includes recognizing spatial layouts, managing smart home devices based on their locations, and guiding users through tasks that require awareness of space, all integrated seamlessly into the voice-first platform.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ In the OpenHome platform, spatial intelligence can manifest through features tha
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

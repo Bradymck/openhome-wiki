@@ -1,30 +1,31 @@
 ```markdown
 ---
 title: builders/jkoppel
-entity_type: builder
-status: beta
-last_updated: 2026-04-17
+entity_type: builders
+status: live
+last_updated: 2026-04-18
 ---
 
 ## who-they-are
-jkoppel is an AI systems and backend engineer with extensive experience in building production-ready large language model (LLM) products, backend infrastructure, and scalable automation systems. Their work primarily focuses on practical AI applications, including AI customer support, booking and workflow agents, retrieval-augmented generation (RAG) pipelines, API integrations, and large-scale backend systems.
+jkoppel is a software engineer with expertise in frontend and backend integration, web and mobile app development, API integration, as well as AI chatbots and assistants. They have experience working across various domains, including learning management systems, fintech, education, and healthcare.
 
 ## what-they-built
-jkoppel is actively involved in developing the OpenHome platform, contributing by building and shipping various AI-powered voice applications and abilities. They are particularly noted for their capabilities in enhancing existing systems to work reliably in production environments.
+jkoppel has contributed to the OpenHome platform, working on the development of voice AI agents called Personalities and extending their capabilities with modular voice plugins known as Abilities. Their work includes practical AI use cases like AI customer support systems, booking/ workflow agents, and API integrations. 
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: @jkoppel
-- GitHub: [jkoppel's GitHub](https://github.com/jkoppel)
-- X: [jkoppel on X](https://twitter.com/jkoppel)
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-- [[openhome]]
-- [[AI customer support systems]]
-- [[API integrations]]
-- [[back end systems]]
+[[OpenHome]]
+[[Abilities]]
+[[AI chatbots]]
+[[API integrations]]
+[[Voice AI agents]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

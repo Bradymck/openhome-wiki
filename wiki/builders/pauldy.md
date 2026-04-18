@@ -1,30 +1,30 @@
-```yaml
+```markdown
+---
 title: builders/pauldy
 entity_type: builders
 status: stub
-last_updated: 2026-04-17
-```
+last_updated: 2026-04-18
+---
 
 ## who-they-are
-Pauldy is an AI systems and backend engineer with extensive experience in building production-ready LLM products, backend infrastructure, and scalable automation systems. Their work primarily focuses on practical AI use cases including AI customer support systems, booking and workflow agents, RAG pipelines, API integrations, and backend systems designed for scale and reliability.
+Pauldy is a software engineer with experience in frontend and backend integration, web and mobile app development, API integration, AI chatbots and assistants, and workflow automation. They are well-versed in generative AI, Web3 and Web4 technologies, and have worked on projects across various fields, including learning management systems, fintech, education, and healthcare.
 
 ## what-they-built
-Pauldy has shipped abilities and integrations related to various AI applications, particularly in enhancing reliability and effectiveness in production systems. They have contributed to automated solutions utilizing technologies like Python, FastAPI, TypeScript, PostgreSQL, Redis, and OpenAI/Anthropic APIs.
+Specific abilities or integrations that Pauldy has shipped are not detailed in the available data.
 
 ## grant-status
-none
+Grant status information for Pauldy is not specified.
 
 ## how-to-reach
-- Discord: `@pauldy` (hypothetical handle based on context)
-- GitHub: Not specified
-- X (formerly Twitter): Not specified
+- Discord: Not mentioned
+- GitHub: Not mentioned
+- X: Not mentioned
 
 ## connects-to
-[[AI customer support systems]]
-[[Booking agents]]
-[[Workflow agents]]
-[[RAG pipelines]]
-[[API integrations]]
-[[Backend systems]]
-
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+[[abilities]]
+[[OpenHome]]
+[[AI agents]]
+[[workflow automation]]
+[[generative AI]]
+<!-- synthesized: 2026-04-18T11:25:11Z -->
+```

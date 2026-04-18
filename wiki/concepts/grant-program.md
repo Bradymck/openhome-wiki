@@ -1,19 +1,18 @@
-```markdown
----
+```yaml
 title: Grant Program
-entity_type: concepts/
+entity_type: concepts/grant-program
 status: live
-last_updated: 2026-04-17
----
+last_updated: 2026-04-18
+```
 
 ## definition
-The Grant Program is an initiative that supports developers and contributors within the OpenHome ecosystem by providing financial assistance and resources for their projects. It aims to foster innovation and collaboration in the development of voice AI applications and modular abilities on the platform.
+The Grant Program is an initiative by OpenHome aimed at supporting developers and contributors who actively engage with the platform. It provides financial assistance and resources to those who innovate and contribute quality projects.
 
 ## why-it-matters
-The Grant Program is essential for encouraging community engagement and accelerating the growth of the OpenHome platform. By offering support for top contributions and feedback, it motivates developers to create new and valuable features for voice AI agents, enhancing the overall user experience in OpenHome.
+The Grant Program is crucial for fostering a vibrant community around OpenHome. By incentivizing developers and encouraging collaboration, it enables the growth of diverse applications and functionalities on the platform. This support ultimately leads to a richer user experience and a more robust ecosystem.
 
 ## how-it-manifests
-The program manifests through the distribution of physical development kits, known as DevKits, to selected developers who demonstrate significant contributions. These DevKits are equipped with the necessary tools and technology to build sophisticated AI agents, and they also provide recipients with community recognition and promotional support for their projects.
+The Grant Program manifests through the distribution of physical devkits to top contributors and those who offer valuable feedback. Recipients of these devkits receive not only hardware but also promotional exposure for their projects and additional financial support to further their development efforts.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +22,4 @@ The program manifests through the distribution of physical development kits, kno
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
-```
+<!-- synthesized: 2026-04-18T11:25:11Z -->

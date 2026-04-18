@@ -1,33 +1,25 @@
 ```markdown
 ---
 title: guides/franci
-entity_type: Community Guide
+entity_type: guides
 status: live
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
-### who-they-are
-Franci is an AI systems and backend engineer with a focus on building production-ready LLM products, backend infrastructure, and scalable automation systems. They have substantial experience in practical AI use cases.
+## who-they-are
+Franci is a software engineer with over 7 years of experience in web apps, software development, and AI-based tools. They have specialized expertise in frontend and backend integration, web and mobile app development, API integration, AI chatbots, workflow automation, and generative AI.
 
-### what-they-help-with
-Franci specializes in:
-- AI customer support systems
-- Booking and workflow agents
-- Retrieval-Augmented Generation (RAG) pipelines
-- API integrations
-- Backend systems built for scale
-- Reliability fixes, including rate limits, retries, failures, and cost control
+## what-they-help-with
+Franci is knowledgeable in building production-ready LLM (Large Language Model) products, backend infrastructure, and scalable automation systems. Their practical AI expertise includes developing AI customer support systems, workflow agents, and reliable backend systems. They handle tasks ranging from code base audits and bug fixes to high-level architecture design and MVP development.
 
-Franci is particularly effective in improving the reliability of existing systems in production.
+## how-to-reach
+Franci can be reached on Discord.
 
-### how-to-reach
-You can reach Franci on Discord.
+## connects-to
+[[OpenHome]]
+[[AI Development]]
+[[Voice AI]]
+[[API Integration]]
 
-### connects-to
-- [[OpenHome]]
-- [[AI Systems Engineering]]
-- [[Backend Infrastructure]]
-- [[AI Use Cases]]
-
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

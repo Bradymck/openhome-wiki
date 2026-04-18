@@ -1,32 +1,25 @@
-```markdown
----
-title: illectric-co
-entity_type: builders/
-status: live
-last_updated: 2026-04-17
----
+```yaml
+title: "Illectric Co"
+entity_type: "builders/"
+status: "stub"
+last_updated: 2026-04-18
+```
 
 ## who-they-are
-illectric-co is a community of builders focused on developing and enhancing voice AI applications on the OpenHome platform. They are contributing to the creation of intelligent, conversational AI agents known as Personalities, coupled with modular voice plugins called Abilities.
+Illectric Co is a community of developers engaged in building on the OpenHome platform, which is an open-source Voice AI platform designed for creating AI-powered voice interactions. The team is focused on developing innovative conversational agents and extending their capabilities with various Abilities.
 
 ## what-they-built
-illectric-co has primarily worked on integrating and shipping various Abilities within the OpenHome ecosystem. Their contributions include improvements to the overall system architecture and the deployment of production-ready AI solutions. They actively prototype new functionalities and enhance existing ones to ensure reliability in voice interactions.
+Details about specific shipped abilities or integrations from Illectric Co are currently unavailable. The community actively participates in discussions and projects related to voice AI applications and seeks to expand the functionalities of the OpenHome platform.
 
 ## grant-status
-applied
+Status of any grants applied for by Illectric Co is currently unknown.
 
 ## how-to-reach
-- Discord: @illectric-co
-- GitHub: [illectric-co GitHub profile](https://github.com/illectric-co)
-- X: [illectric-co on X](https://twitter.com/illectric-co)
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-- [[builders/]]
-- [[OpenHome]]
-- [[Voice AI]]
-- [[Abilities]]
-- [[Conversational AI]]
-- [[Smart Home]]
+[[builders/openhome]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
-```
+<!-- synthesized: 2026-04-18T11:25:11Z -->

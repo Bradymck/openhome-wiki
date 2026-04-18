@@ -1,27 +1,27 @@
-```yaml
+```markdown
+---
 title: builders/jagatfx
-entity_type: community builder
-status: live
-last_updated: 2026-04-17
-```
+entity_type: builders
+status: stub
+last_updated: 2026-04-18
+---
 
 ## who-they-are
-Jagatfx is an AI systems and backend engineer with a focus on building production-ready LLM products, backend infrastructure, and scalable automation systems. They have experience in practical AI use cases, including AI customer support systems and API integrations. Jagatfx has utilized various technologies in their projects, including Python, FastAPI, TypeScript, PostgreSQL, Redis, and OpenAI/Anthropic APIs.
+jagatfx is a software engineer with a specialization in frontend and backend integration, web and mobile app development, API integration, AI chatbots and assistants, workflow automation, and other areas of technology. They have experience in developing projects across various fields, including learning management systems, fintech, education, and healthcare. jagatfx is currently open to remote opportunities and aims to connect with teams or clients seeking a developer.
 
 ## what-they-built
-Jagatfx has contributed to the OpenHome project, particularly in the development of voice AI agents called Personalities, which can be extended with modular voice plugins known as Abilities. They are engaged in creating backend systems designed for scale and reliability, enabling seamless communication and functionality within AI applications.
+As part of their contributions to the OpenHome community, jagatfx has been involved in building functionalities related to AI agents and multimodal systems, although specific shipped abilities or integrations are not detailed in the available information.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Jagatfx#XXXX (Discord handle not specified in the source)
-- GitHub: [jagatfx GitHub Profile](https://github.com/jagatfx)
-- X: Not specified 
+- Discord handle: Not specified
+- GitHub: Not specified
+- X (formerly Twitter): Not specified
 
 ## connects-to
-- [[builders/openhome]]
-- [[abilities/voice_ai_agents]]
-- [[abilities/modular_voice_plugins]]
+[[AI agents]], [[OpenHome]], [[Voice AI]], [[API integrations]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
+```

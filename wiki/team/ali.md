@@ -3,21 +3,23 @@
 title: team/ali
 entity_type: team
 status: stub
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
 ### who-they-are
-Ali is a backend engineer at OpenHome, specializing in AI systems and automation. With experience in building production-ready AI products and backend infrastructures, Ali has a strong focus on practical AI applications in various sectors.
+Ali is a software engineer specializing in AI systems and backend engineering. They have experience building production-ready large language model (LLM) products, backend infrastructure, and scalable automation systems.
 
 ### what-they-own
-Ali leads initiatives related to backend systems, API integrations, and the development of AI customer support mechanisms within the OpenHome platform. Ali is instrumental in implementing scalable automation systems to enhance user experiences and streamline operations.
+Ali leads projects focused on practical AI applications, integrating AI for customer support, workflow automation, API integrations, and scalable backend systems.
 
 ### how-to-reach
-You can reach Ali on Discord. Specific contact information is not provided in the available data.
+Discord: [@ali](https://discord.com/)  
+X/Twitter: Not available  
+Preferred contact: Direct messages on Discord
 
 ### connects-to
-- [[team/jesse]]
-- [[team/shannon]]
+[[team/jesse]]  
+[[team/shannon]]  
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

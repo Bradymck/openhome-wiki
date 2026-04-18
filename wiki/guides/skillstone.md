@@ -1,26 +1,30 @@
 ```markdown
 ---
-title: guides/skillstone
-entity_type: community guide
-status: stub
-last_updated: 2026-04-17
+title: Skillstone Community Guides
+entity_type: guides/
+status: live
+last_updated: 2026-04-18
 ---
 
-### who-they-are
-Skillstone is a community guide that comprises power users experienced in AI systems, backend engineering, and voice AI applications, particularly within the OpenHome ecosystem.
+## who-they-are
+The Skillstone Community Guides are experienced power users within the OpenHome community who specialize in onboarding new members and facilitating their understanding of the platform. They have backgrounds in software development, specifically in areas such as AI systems, backend engineering, API integrations, and web and mobile app development.
 
-### what-they-help-with
-Skillstone specializes in helping users with conversational AI agents, particularly focusing on building Personalities and integrating Abilities. Their expertise includes working with frameworks and tools for API integrations, scalable automation systems, and practical AI use cases.
+## what-they-help-with
+The community guides help users by providing support and insights into building and extending conversational AI agents on the OpenHome platform, as well as contributing to the development of Abilities. Their expertise includes:
+- Development and integration of Abilities
+- Building Personalities (AI agents)
+- API integrations and automation systems
+- General troubleshooting and technical advice for new users
 
-### how-to-reach
-Discord handle: [not available]
+## how-to-reach
+Community members can reach out to the Skillstone Community Guides through their Discord handles, which are shared within community channels.
 
 ## connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[Conversational AI]]
-[[Abilities]]
-[[Personalities]]
+- [[OpenHome]]
+- [[Abilities]]
+- [[Personalities]]
+- [[AI Agents]]
+- [[API Integrations]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

@@ -1,31 +1,28 @@
 ```markdown
 ---
-title: mathieub
-entity_type: builders/
+title: builders/mathieub
+entity_type: builders
 status: stub
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
 ### who-they-are
-Mathieu B is an AI systems and backend engineer with a focus on building production-ready LLM products, backend infrastructure, and scalable automation systems. He has extensive experience in practical AI use cases, including AI customer support systems, booking/workflow agents, RAG pipelines, API integrations, and backend systems built for scale.
+Mathieu is a software engineer with over 7 years of experience specializing in web apps, AI-based tools, and integration of both frontend and backend systems. He has a wide-ranging skill set that includes API integration and automation, with a focus on building efficient and user-friendly solutions.
 
 ### what-they-built
-Mathieu is actively contributing to building applications within the OpenHome platform, focusing on modular voice plugins (Abilities) that enhance virtual conversational agents. While specific shipped abilities are not detailed in the available information, his background suggests a strong capacity for creating effective and reliable integrations within the OpenHome ecosystem.
+Details of specific abilities or integrations built by Mathieu have not been disclosed. However, he actively participates in the OpenHome community, contributing to the development of AI-driven applications and exploring innovative business models utilizing OpenHome's platform.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ### connects-to
-[[builders]]
-[[OpenHome]]
-[[Abilities]]
-[[AI_customer_support_systems]]
-[[API_integrations]]
+[[builders/openhome]]  
+[[builders/developers]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

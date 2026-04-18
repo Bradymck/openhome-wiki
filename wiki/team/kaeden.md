@@ -1,23 +1,25 @@
 ```markdown
 ---
-title: Kaeden
+title: team/kaeden
 entity_type: team
 status: stub
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
 ### who-they-are
-Kaeden is an AI systems and backend engineer with experience in building production-ready AI products, backend infrastructure, and scalable automation systems.
+Kaeden is a software engineer specializing in frontend and backend integration, web and mobile app development, and AI technologies. They have experience in developing AI chatbots, API integrations, and automation systems. Kaeden has worked across various fields including fintech, education, and healthcare, and is currently seeking remote opportunities to connect with teams or clients.
 
 ### what-they-own
-Kaeden leads initiatives focused on practical AI use cases, including AI customer support systems, booking/workflow agents, RAG pipelines, API integrations, and backend reliability improvements.
+Kaeden leads projects involving AI systems, backend infrastructure, and scalable automation systems within the OpenHome platform. They focus on practical AI use cases, including AI customer support systems and workflow agents.
 
 ### how-to-reach
-Kaeden's preferred contact channels are not specified.
+Kaeden can be contacted via Discord. Further contact information is currently not available.
 
 ### connects-to
 [[team/jesse]]
 [[team/shannon]]
+[[dev.openhome.com]]
+[[github.com/openhome-dev/abilities]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```

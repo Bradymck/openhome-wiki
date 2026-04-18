@@ -1,30 +1,31 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-04-17
+last_updated: 2026-04-18
 ---
 
 ### who-they-are
-Emperormidas is an AI systems and backend engineer with experience in building production-ready large language model (LLM) products and backend infrastructure. Their expertise includes practical AI use cases such as AI customer support systems, booking agents, and API integrations.
+EmperorMidas is a software engineer with over 7 years of experience in web and mobile app development, API integration, and AI systems. They specialize in building production-ready LLM products, backend infrastructure, and scalable automation systems.
 
 ### what-they-built
-While specific shipped abilities or integrations are not detailed, Emperormidas is involved in various projects related to OpenHome, focusing on creating efficient implementations and solutions that ensure reliable production systems.
+While specific details of shipped abilities or integrations are not provided, EmperorMidas has a strong background in developing AI chatbots and assistants, workflow automation, and various practical AI use cases including customer support systems and API integrations.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord Handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- **Discord:** Not specified
+- **GitHub:** Not specified
+- **X:** Not specified
 
 ### connects-to
-[[OpenHome]]
-[[AI Customer Support Systems]]
-[[API Integrations]]
-[[Backend Systems for Scale]]
+- [[builders]]
+- [[ability]]
+- [[AI systems]]
+- [[web development]]
+- [[API integration]]
 
-<!-- synthesized: 2026-04-17T11:40:34Z -->
+<!-- synthesized: 2026-04-18T11:25:11Z -->
 ```
