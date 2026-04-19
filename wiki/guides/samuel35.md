@@ -1,31 +1,26 @@
 ```markdown
 ---
-title: guides/samuel35
-entity_type: Community Guide
+title: Samuel35
+entity_type: guides/
 status: live
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
-## who-they-are
-Samuel35 is a software engineer with over 7 years of experience in various domains, including frontend and backend integration, web and mobile app development, API integration, AI chatbots and assistants, and workflow automation.
+### who-they-are
+Samuel35 is a community developer with over 7 years of experience in developing web applications, software, and AI-based tools. He has a strong interest in creating efficient and user-friendly solutions that address real-world problems.
 
-## what-they-help-with
-Samuel35 specializes in building and deploying AI systems and backend infrastructure for scalable applications. They have expertise in:
-- Developing production-ready large language model (LLM) products
-- Creating AI customer support systems and booking/workflow agents
-- Integrating APIs and managing backend systems for reliability and performance
-- Handling technical challenges in projects related to fintech, education, and healthcare
+### what-they-help-with
+Samuel35 specializes in building applications on the OpenHome platform, particularly focusing on conversational AI agents called Personalities and their modular voice plugins known as Abilities. He assists other developers in exploring the capabilities of OpenHome's AI technology and provides insights on integrating different functionalities within the platform.
 
-## how-to-reach
-Samuel35 can be reached on Discord.
+### how-to-reach
+Samuel35 can be reached on Discord as <@672636042364321812>.
 
-## connects-to
-[[guides]]
-[[AI systems]]
-[[API integration]]
-[[workflow automation]]
-[[OpenHome]]
-[[community support]]
+### connects-to
+[[guides/]]
+[[guides/openhome]]
+[[guides/voiceAI]]
+[[guides/development]]
+[[guides/community]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

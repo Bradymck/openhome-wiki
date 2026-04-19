@@ -1,30 +1,30 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
-## who-they-are
-Pauldy is a software engineer with experience in frontend and backend integration, web and mobile app development, API integration, AI chatbots and assistants, and workflow automation. They are well-versed in generative AI, Web3 and Web4 technologies, and have worked on projects across various fields, including learning management systems, fintech, education, and healthcare.
+### who-they-are
+Pauldy is a community developer working within the OpenHome ecosystem. They have a background in software development with a focus on building efficient and user-friendly applications. Pauldy is known for leveraging their skills in emerging tech and startup environments.
 
-## what-they-built
-Specific abilities or integrations that Pauldy has shipped are not detailed in the available data.
+### what-they-built
+As of the latest update, specific projects or integrations built by Pauldy have not been disclosed in the available data, indicating that further contributions are expected to emerge.
 
-## grant-status
-Grant status information for Pauldy is not specified.
+### grant-status
+none
 
-## how-to-reach
-- Discord: Not mentioned
-- GitHub: Not mentioned
-- X: Not mentioned
+### how-to-reach
+- Discord: Available upon request (not explicitly provided)
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
+### connects-to
+[[openhome]]
+[[developers]]
+[[voice AI]]
 [[abilities]]
-[[OpenHome]]
-[[AI agents]]
-[[workflow automation]]
-[[generative AI]]
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+ 
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

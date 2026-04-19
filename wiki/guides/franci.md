@@ -3,23 +3,22 @@
 title: guides/franci
 entity_type: guides
 status: live
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
-## who-they-are
-Franci is a software engineer with over 7 years of experience in web apps, software development, and AI-based tools. They have specialized expertise in frontend and backend integration, web and mobile app development, API integration, AI chatbots, workflow automation, and generative AI.
+### who-they-are
+Franci is a community developer with over 7 years of experience in developing web applications, software, and AI-based tools. Franci focuses on building efficient and user-friendly solutions that address real-world problems and has a keen interest in emerging technologies and startup ecosystems.
 
-## what-they-help-with
-Franci is knowledgeable in building production-ready LLM (Large Language Model) products, backend infrastructure, and scalable automation systems. Their practical AI expertise includes developing AI customer support systems, workflow agents, and reliable backend systems. They handle tasks ranging from code base audits and bug fixes to high-level architecture design and MVP development.
+### what-they-help-with
+Franci specializes in developing and prototyping voice AI agents using the OpenHome platform. They are knowledgeable about the technical aspects of utilizing the OpenHome SDK and are actively involved in improving community-driven projects by contributing to open-source development and engaging with fellow developers.
 
-## how-to-reach
-Franci can be reached on Discord.
+### how-to-reach
+You can reach Franci on Discord at: @franci
 
-## connects-to
+### connects-to
 [[OpenHome]]
-[[AI Development]]
 [[Voice AI]]
-[[API Integration]]
+[[Community Development]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

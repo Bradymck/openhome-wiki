@@ -2,24 +2,24 @@
 title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ```
 
 ## definition
-Voice-first design is an approach to user interface development that prioritizes voice interactions over traditional visual interfaces. In a voice-first environment, applications respond to spoken commands and provide audio feedback, creating a hands-free, intuitive interaction model.
+Voice-first refers to an interaction model where users primarily engage with technology through voice commands, rather than traditional methods like typing or using a touchscreen. This model emphasizes natural language processing and conversational AI to facilitate user communication with devices.
 
 ## why-it-matters
-Voice-first is critical for OpenHome as it aligns with the platform's mission to make AI-powered applications accessible to everyone. It enhances user engagement by allowing seamless and natural interactions, thereby making technology more approachable and usable.
+Voice-first is central to OpenHome’s mission of revolutionizing human-technology interaction. By making voice interaction intuitive and accessible, OpenHome aims to enhance user experiences, empowering individuals to connect more meaningfully with their devices and services.
 
 ## how-it-manifests
-Within OpenHome, the voice-first concept is embodied in its architecture through Personalities—AI agents that can converse with users via voice. These agents utilize various Abilities, which are triggered by voice commands, allowing users to interact with their devices and obtain information without the need for traditional input methods.
+In the OpenHome platform, the voice-first approach is evident through the development of AI-powered agents known as Personalities. These agents use voice to respond to user commands, control smart home devices, play music, and execute skills via modular plugins called Abilities. User interactions are primarily initiated through hotwords during conversations, emphasizing the voice-first paradigm.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->

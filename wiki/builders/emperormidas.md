@@ -1,31 +1,29 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 ### who-they-are
-EmperorMidas is a software engineer with over 7 years of experience in web and mobile app development, API integration, and AI systems. They specialize in building production-ready LLM products, backend infrastructure, and scalable automation systems.
+Emperormidas is a community developer with 7+ years of experience in web applications, software, and AI-based tools. They focus on building efficient, user-friendly solutions that address real-world problems, and are interested in emerging tech and startup ecosystems.
 
 ### what-they-built
-While specific details of shipped abilities or integrations are not provided, EmperorMidas has a strong background in developing AI chatbots and assistants, workflow automation, and various practical AI use cases including customer support systems and API integrations.
+Currently, there is no specific information available regarding the projects or abilities that Emperormidas has built within the OpenHome community.
 
 ### grant-status
 none
 
 ### how-to-reach
-- **Discord:** Not specified
-- **GitHub:** Not specified
-- **X:** Not specified
+- Discord Handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ### connects-to
-- [[builders]]
-- [[ability]]
-- [[AI systems]]
-- [[web development]]
-- [[API integration]]
-
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+[[developers]]
+[[openhome]]
+[[community]]
+[[ai-tools]]
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

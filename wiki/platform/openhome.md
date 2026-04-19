@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: OpenHome
-entity_type: platform
+entity_type: platform/openhome
 status: live
-last_updated: 2026-04-18
-```
+last_updated: 2026-04-19
+---
 
-## what-it-is
-OpenHome is an open-source Voice AI platform designed to enable users to build conversational AI agents, referred to as Personalities, which can be enhanced with modular voice plugins known as Abilities.
+### what-it-is
+OpenHome is an open-source Voice AI platform that enables developers to create conversational AI agents, known as Personalities, and enhance them with modular plugins called Abilities.
 
-## how-it-works
-The platform operates by allowing developers to create Personalities, which define the voice, persona, and conversation style of AI agents. Users can extend these Personalities with Abilities, which are plugins that bring new skills such as controlling smart home devices, playing music, or interfacing with APIs. Abilities are activated through hotwords during voice interactions and can execute custom Python logic, making OpenHome a flexible option for creating custom voice-first applications.
+### how-it-works
+OpenHome functions as a framework for building voice-first applications. Users can create a Personality by defining its voice, persona, and conversational style. Developers can then add various Abilities to their Personality, which are triggered by specific hotwords during voice interactions. These Abilities allow the agents to perform a wide range of tasks, such as calling APIs, playing music, or controlling smart home devices. The platform also provides tools for developers to explore existing community Abilities and collaborate on new features through a dedicated dashboard and GitHub repository.
 
-## current-status
+### current-status
 live
 
-## connects-to
+### connects-to
 [[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -23,4 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
+```

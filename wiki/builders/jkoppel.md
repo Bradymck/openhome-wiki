@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: builders/jkoppel
-entity_type: builders
+title: "jkoppel"
+entity_type: builders/jkoppel
 status: live
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 ## who-they-are
-jkoppel is a software engineer with expertise in frontend and backend integration, web and mobile app development, API integration, as well as AI chatbots and assistants. They have experience working across various domains, including learning management systems, fintech, education, and healthcare.
+jkoppel is a community developer involved with OpenHome, which is an open-source Voice AI platform aimed at creating immersive and human-like voice interactions. They have experience in web applications, software, and AI-based tools and focus on building solutions that are efficient and user-friendly.
 
 ## what-they-built
-jkoppel has contributed to the OpenHome platform, working on the development of voice AI agents called Personalities and extending their capabilities with modular voice plugins known as Abilities. Their work includes practical AI use cases like AI customer support systems, booking/ workflow agents, and API integrations. 
+jkoppel has obtained a V0.1 devkit from OpenHome, contributing to the development of Abilities that extend AI agents with new skills. Specific abilities or integrations built by jkoppel are not detailed in the available information but are likely related to enhancing the capabilities of Personalities within the OpenHome ecosystem.
 
 ## grant-status
 none
@@ -21,11 +21,9 @@ none
 - X: Not specified
 
 ## connects-to
-[[OpenHome]]
-[[Abilities]]
-[[AI chatbots]]
-[[API integrations]]
-[[Voice AI agents]]
+- [[OpenHome]]
+- [[Personalities]]
+- [[Abilities]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

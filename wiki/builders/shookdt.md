@@ -1,29 +1,30 @@
 ```markdown
 ---
 title: builders/shookdt
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 ### who-they-are
-Shookdt is a software engineer with expertise in frontend and backend integration, web and mobile app development, API integration, AI chatbots, and workflow automation. Shookdt has extensive experience across various fields including learning management systems, fintech, education, and healthcare, and is actively involved in building AI-based tools and applications.
+Shookdt is a community developer affiliated with OpenHome, an open-source voice AI platform that allows users to build conversational AI agents called Personalities. They are part of the developer community exploring the capabilities and integrations available through OpenHome.
 
 ### what-they-built
-As part of the OpenHome community, Shookdt is involved in the development of AI agents, conversational interfaces, and various abilities that enhance the user experience. Specific details on shipped abilities or integrations have not been provided.
+Details on specific shipped abilities or integrations by Shookdt are not provided in the available information.
 
 ### grant-status
-none
+No grant status information is available.
 
 ### how-to-reach
-- Discord: N/A
-- GitHub: N/A
-- X: N/A
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[builders/openhome]]  
-[[abilities/AI_agents]]  
-[[abilities/workflow_automation]]  
+## connects-to
+[[builders]]
+[[openhome]]
+[[personalities]]
+[[abilities]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

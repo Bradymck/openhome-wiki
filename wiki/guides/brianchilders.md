@@ -1,34 +1,26 @@
 ```markdown
 ---
 title: guides/brianchilders
-entity_type: Community Guide
-status: live
-last_updated: 2026-04-18
+entity_type: Community Guides
+status: stub
+last_updated: 2026-04-19
 ---
 
-## who-they-are
-Brian Childers is a software engineer with over 7 years of experience specializing in both frontend and backend integration, web and mobile app development, API integration, AI chatbots, and workflow automation. Brian has developed a range of projects across various sectors, including learning management systems, fintech, education, and healthcare.
+### who-they-are
+Brian Childers is a community developer involved with OpenHome, an open-source Voice AI platform. They have a background in developing with smart home tech and are experienced with AI-based tools. With over seven years in the field, they have worked extensively on web applications and software.
 
-## what-they-help-with
-Brian assists with the following areas:
-- AI systems and backend engineering
-- Production-ready LLM products
-- Scalable automation systems
-- API integrations
-- Development of AI customer support systems
-- Booking and workflow agents
-- Backend systems built for high reliability
-- Addressing reliability issues such as rate limits and cost control
+### what-they-help-with
+Brian specializes in building conversational AI agents known as Personalities and enhancing them with Abilities. They focus on developing efficient and user-friendly solutions that address real-world problems, particularly in the context of emerging technology and the startup ecosystem.
 
-## how-to-reach
-You can reach Brian on Discord.
+### how-to-reach
+Brian can be reached on Discord, under the handle <@502708633327632385>.
 
 ## connects-to
-[[guides]]  
-[[AI Systems]]  
-[[API Integration]]  
-[[Web Development]]  
-[[Chatbots]]  
+[[Community Guides]]
+[[OpenHome]]
+[[Voice AI]]
+[[Abilities]]
+[[Personalities]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

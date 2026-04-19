@@ -3,28 +3,26 @@
 title: Abilities/News-Brief
 entity_type: abilities
 status: live
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 ## what-it-does
-The News Brief ability provides users with summarized news updates from various sources, offering a quick and efficient way to stay informed about current events.
+The News Brief ability provides users with quick updates and summaries of the latest news in a conversational format, allowing them to stay informed without needing to actively search for information.
 
 ## how-to-build
-To build the News Brief ability, developers can leverage APIs from news aggregation services. The implementation involves creating a plugin that fetches the latest news articles, summarizes them, and presents them in a conversational format suitable for voice interactions.
+To build the News Brief ability, developers should utilize the OpenHome platform, integrating it with various news APIs to fetch and summarize headlines. Custom Python logic is employed to ensure the delivery of concise and relevant information triggered by user inquiries.
 
 ## category
 utility
 
 ## built-by
-[[builders/community]]
+[[abilities/community-dev]]
 
 ## status
 live
 
 ## connects-to
-[[abilities/aquaprime]]
-[[abilities/deadman-fm]]
-[[abilities/trivia]]
+[[abilities/aquaprime]], [[abilities/deadman-fm]], [[abilities/trivia]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

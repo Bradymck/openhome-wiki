@@ -1,26 +1,26 @@
 ```markdown
 ---
 title: guides/voidsshadows
-entity_type: Community Guides
+entity_type: Community Guide
 status: stub
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 ### who-they-are
-Voidsshadows is a community guide with a background in software engineering and AI systems. They specialize in developing production-ready AI applications and have a range of experience in backend infrastructure and scalable automation systems.
+Voidsshadows is a community developer with over 7 years of experience working on web applications, software, and AI-based tools. They focus on building efficient, user-friendly solutions that address real-world problems.
 
 ### what-they-help-with
-Voidsshadows assists others with AI customer support systems, booking and workflow agents, API integrations, and backend systems designed for scalability and reliability. Their expertise extends to various programming languages and frameworks, including Python, FastAPI, TypeScript, and more.
+Voidsshadows specializes in the development of AI agents on the OpenHome platform. They contribute to the creation of conversational AI agents, known as Personalities, and develop modular voice plugins called Abilities. Additionally, they explore the integration of emerging technologies and assist in onboarding new developers into the OpenHome ecosystem.
 
 ### how-to-reach
-Discord Handle: Not explicitly mentioned
+Discord Handle: Not specified in the provided material.
 
 ### connects-to
-[[AI Systems]]
-[[Backend Infrastructure]]
+[[guides]]
 [[OpenHome]]
-[[API Integrations]]
-[[Community Guides]]
+[[AI Agents]]
+[[Abilities]]
+[[Community Developers]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

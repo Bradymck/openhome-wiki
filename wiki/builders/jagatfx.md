@@ -1,27 +1,28 @@
 ```markdown
 ---
 title: builders/jagatfx
-entity_type: builders
-status: stub
-last_updated: 2026-04-18
+entity_type: builder
+status: live
+last_updated: 2026-04-19
 ---
 
 ## who-they-are
-jagatfx is a software engineer with a specialization in frontend and backend integration, web and mobile app development, API integration, AI chatbots and assistants, workflow automation, and other areas of technology. They have experience in developing projects across various fields, including learning management systems, fintech, education, and healthcare. jagatfx is currently open to remote opportunities and aims to connect with teams or clients seeking a developer.
+Jagatfx is an active community developer engaged in building with OpenHome, an open-source Voice AI platform that allows users to create conversational AI agents called Personalities. Jagatfx is focused on prototyping abilities and contributing to the community-driven development of this platform.
 
 ## what-they-built
-As part of their contributions to the OpenHome community, jagatfx has been involved in building functionalities related to AI agents and multimodal systems, although specific shipped abilities or integrations are not detailed in the available information.
+Jagatfx has created various abilities for the OpenHome platform, leveraging the provided V0.1 devkits, which are cutting-edge smart speakers. They have been actively involved in creating and modifying voice AI functionalities, particularly through building conversational agents with unique skills.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X (formerly Twitter): Not specified
+- Discord: @jagatfx
+- GitHub: [GitHub Profile](https://github.com/jagatfx)
+- X: [Profile on X](https://x.com/jagatfx)
 
 ## connects-to
-[[AI agents]], [[OpenHome]], [[Voice AI]], [[API integrations]]
-
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+[[builders/openhome]]
+[[abilities/voice-ai]]
+[[abilities/smart-home]]
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

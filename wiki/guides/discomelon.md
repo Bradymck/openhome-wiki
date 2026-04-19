@@ -1,25 +1,25 @@
 ```markdown
 ---
-title: "guides/discomelon"
-entity_type: "guides/"
-status: "stub"
-last_updated: "2026-04-18"
+title: guides/discomelon
+entity_type: Community Guide
+status: stub
+last_updated: 2026-04-19
 ---
 
 ### who-they-are
-Discomelon is a software engineer specializing in various areas of technology including frontend and backend integration, web and mobile app development, AI chatbots, and workflow automation. They have extensive experience in fields such as learning management systems, fintech, education, and healthcare, focusing on both high-level architecture design and rapid product launches.
+Discomelon is a community developer with 7+ years of experience working on web applications, software, and AI-based tools. They focus on building efficient and user-friendly solutions that address real-world problems and have a keen interest in emerging technologies and the evolution of various industries.
 
 ### what-they-help-with
-Discomelon helps with the development of conversational AI agents, including building AI-enhanced applications, API integrations, automated systems, and the creation of Personalities and Abilities within the OpenHome platform. Their expertise allows them to tackle complex technical issues, ensuring that solutions are efficient and reliable.
+Discomelon specializes in the development of conversational AI agents using the OpenHome platform. They provide support for building Personalities and integrating Abilities, alongside troubleshooting and sharing best practices for hardware such as the OpenHome devkit.
 
 ### how-to-reach
-Discord handle: Discomelon#1234 (example placeholder)
+Discord handle: Not specified
 
 ### connects-to
 [[OpenHome]]
-[[AI chatbots]]
-[[API integration]]
-[[workflow automation]]
-[[development]]
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+[[AI Applications]]
+[[Voice AI Development]]
+[[Community Supports]]
+
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

@@ -1,29 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/shoompa
-entity_type: community_builder
+entity_type: builders
 status: live
-last_updated: 2026-04-18
-```
+last_updated: 2026-04-19
+---
 
-## who-they-are
-Shoompa is an active community builder specializing in voice AI applications. They are part of the OpenHome platform, which focuses on creating conversational AI agents known as Personalities. Shoompa aims to enhance user interactions with technology by building innovative voice-first applications.
+### who-they-are
+Shoompa is a community developer involved with the OpenHome platform, which is an open-source Voice AI platform. Shoompa focuses on building conversational AI agents, referred to as Personalities, and creating various Abilities that enhance these agents.
 
-## what-they-built
-Shoompa has contributed to OpenHome by developing multiple Abilities that add new skills to AI agents. These Abilities allow Personalities to perform tasks such as calling APIs, controlling smart home devices, and engaging in conversational interactions. Their work is integral to the functionality and expansion of the OpenHome ecosystem.
+### what-they-built
+Shoompa has been actively participating in the development of modular voice plugins (Abilities) that add new skills to Personalities. The development work reflects contributions to the OpenHome community by prototyping and sharing abilities for the platform.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: N/A (not provided)
-- GitHub: [Shoompa on GitHub](https://github.com/openhome-dev/abilities/tree/dev)
-- X: N/A (not provided)
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[builders]]
-[[abilities]]
-[[openhome]]
-[[voice_ai]]
-[[personalities]]
+### connects-to
+- [[OpenHome]]
+- [[Voice AI]]
+- [[Abilities]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
+```

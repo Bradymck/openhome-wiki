@@ -1,30 +1,30 @@
 ```markdown
 ---
-title: Abilities/Trivia
+title: abilities/trivia
 entity_type: abilities
 status: stub
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 ### what-it-does
-The Trivia ability allows users to engage in fun and interactive quiz-style games by answering trivia questions on a variety of topics.
+Trivia ability allows users to engage in quizzes and trivia games, providing an interactive entertainment experience through voice commands.
 
 ### how-to-build
-To create a Trivia ability, developers need to define a set of trivia questions and answers, along with the logic for scoring and user interaction. The ability should respond to specific hotwords to initiate the trivia session and must handle user inputs effectively for a smooth experience.
+Developers can create trivia abilities by utilizing the voice AI platform to define questions, answers, and scoring mechanics. The interaction can be triggered by specific hotwords during conversations, allowing for real-time engagement.
 
 ### category
 entertainment
 
 ### built-by
-[abilities/community-builder](https://github.com/openhome-dev/abilities)
+[abilities/trivia-builder](#)
 
 ### status
-in-review
+planned
 
 ### connects-to
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
 [[abilities/news-brief]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
 ```

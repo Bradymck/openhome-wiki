@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: Grant Program
 entity_type: concepts/grant-program
 status: live
-last_updated: 2026-04-18
-```
+last_updated: 2026-04-19
+---
 
 ## definition
-The Grant Program is an initiative by OpenHome aimed at supporting developers and contributors who actively engage with the platform. It provides financial assistance and resources to those who innovate and contribute quality projects.
+The Grant Program is a support initiative designed to provide resources and funding for developers within the OpenHome community. It encourages innovative projects and contributions that enhance the OpenHome platform.
 
 ## why-it-matters
-The Grant Program is crucial for fostering a vibrant community around OpenHome. By incentivizing developers and encouraging collaboration, it enables the growth of diverse applications and functionalities on the platform. This support ultimately leads to a richer user experience and a more robust ecosystem.
+This program is vital for fostering creativity and collaboration among developers. By offering physical development kits and financial support, the Grant Program incentivizes developers to contribute high-quality projects to the OpenHome ecosystem, improving the platform's capabilities and user experience.
 
 ## how-it-manifests
-The Grant Program manifests through the distribution of physical devkits to top contributors and those who offer valuable feedback. Recipients of these devkits receive not only hardware but also promotional exposure for their projects and additional financial support to further their development efforts.
+The Grant Program appears in practice through initiatives where top contributors are recognized and rewarded with physical dev kits, such as V0.1 smart speakers. Recipients of these kits are encouraged to prototype new features and capabilities, submit their Abilities, and actively engage with the community to develop their projects further.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ The Grant Program manifests through the distribution of physical devkits to top 
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
+```

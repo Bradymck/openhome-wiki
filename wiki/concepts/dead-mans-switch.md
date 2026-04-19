@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: Dead Man's Switch
-entity_type: concepts
+entity_type: concepts/dead-mans-switch
 status: stub
-last_updated: 2026-04-18
-```
+last_updated: 2026-04-19
+---
 
 ### definition
-A dead man's switch is a safety mechanism designed to prevent failed operations or processes by automatically triggering an action if a user is incapacitated or fails to respond. Typically, it requires regular input from the user to confirm they are present and engaged; otherwise, it takes predefined actions, such as sending notifications or shutting down operations.
+A dead man's switch is a safety mechanism that automatically triggers a specific action if the operator becomes incapacitated or is unable to perform that action.
 
 ### why-it-matters
-In the context of OpenHome, a dead man's switch can enhance reliability and security in voice AI applications. It ensures that if the primary user becomes unresponsive—due to technical failure or other emergencies—the system can take safe actions that minimize risk, particularly in environments where AI is integrated with crucial home automation tasks.
+In the context of OpenHome, a dead man's switch can enhance user safety and reliability by ensuring that processes or interactions do not continue without appropriate oversight. This is particularly relevant for voice AI applications where continuous interaction is expected.
 
 ### how-it-manifests
-Dead man's switches could be integrated into the OpenHome platform as a feature within Personalities or Abilities. They might be triggered by voice interactions or require regular confirmation from the user to maintain active control over the system. This concept could be particularly vital for handling home security systems, emergency alerts, or critical applications requiring constant user engagement.
+While the specific implementation details are not provided, a dead man's switch could manifest in OpenHome by allowing agents to halt functions or request user verification if they detect inactivity or unclear responses from the user. This ensures that the AI operates responsibly and only when the user is present and engaged.
 
 ### connects-to
 [[concepts/abilities-as-apps]]  
@@ -22,4 +23,5 @@ Dead man's switches could be integrated into the OpenHome platform as a feature 
 [[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]  
 
-<!-- synthesized: 2026-04-18T11:25:11Z -->
+<!-- synthesized: 2026-04-19T11:25:51Z -->
+```

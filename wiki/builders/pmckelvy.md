@@ -1,33 +1,27 @@
 ```yaml
-title: pmckelvy
+title: builders/pmckelvy
 entity_type: builders
 status: stub
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ```
 
 ## who-they-are
-pmckelvy is a software engineer with expertise in frontend and backend integration, AI chatbots, and assistant development. They have a wealth of experience in building production-ready AI systems and have worked on projects spanning multiple fields including fintech, education, and healthcare.
+pmckelvy is a community developer associated with the OpenHome project. They have experience in building efficient and user-friendly applications, particularly in the realms of web apps and AI-based tools. As a member of the OpenHome community, they are engaged in prototyping and experimenting with the platform's capabilities.
 
 ## what-they-built
-pmckelvy has developed various AI systems, including:
-- AI customer support systems
-- Workflow agents
-- RAG (Retrieval-Augmented Generation) pipelines
-- API integrations
-- Backend systems designed for scalability and reliability
+Details on specific abilities or integrations shipped by pmckelvy are not provided. They are active within the OpenHome development community and involved in leveraging the platform's tools but specific contributions or projects have not been explicitly documented.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[AI systems]]
-[[API integrations]]
 [[OpenHome]]
-<!-- synthesized: 2026-04-18T11:25:11Z -->
-```
+[[Voice AI Agents]]
+[[Abilities]]
+
+<!-- synthesized: 2026-04-19T11:25:51Z -->
