@@ -2,28 +2,33 @@
 ---
 title: builders/xtremegamer007
 entity_type: builders/
-status: stub
-last_updated: 2026-04-19
+status: beta
+last_updated: 2026-04-20
 ---
 
 ### who-they-are
-xtremegamer007 is a community developer engaged with the OpenHome platform, specializing in building conversational AI agents and associated functionalities. They possess a V0.1 devkit, which allows them to prototype various abilities and enhance user experiences through voice interactions.
+xtremegamer007 is a developer within the OpenHome community, focused on building capabilities for voice AI applications. With experience in software development, they are actively contributing to the enhancement of the OpenHome platform.
 
 ### what-they-built
-Specific abilities or integrations developed by xtremegamer007 have not been detailed in the available sources. However, their involvement with the community suggests active contributions in creating or prototyping innovative functionalities for the OpenHome platform.
+xtremegamer007 has shipped an ability called **Curiosity Queue**, which enables users to capture unscripted moments of curiosity effortlessly during conversations. The key features of Curiosity Queue include:
+- Capturing thoughts without needing a trigger word.
+- Organizing curiosities by question type (how, why, what).
+- Keeping track of answered versus pending questions to avoid redundancy.
+- Remembering details across sessions and notifying users about new entries.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord Handle: Not specified in available sources
-- GitHub: Not specified in available sources
-- X: Not specified in available sources
+- Discord handle: xtremegamer007 (specific handle may vary)
+- GitHub: [github.com/xtremegamer007](https://github.com/xtremegamer007)
+- X: Not available
 
-### connects-to
-[[openhome]]
-[[personalities]]
-[[abilities]]
+## connects-to
+- [[Curiosity Queue]]
+- [[OpenHome]]
+- [[Abilities]]
+- [[Voice AI]]
 
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```

@@ -1,28 +1,26 @@
-```yaml
+```markdown
+---
 title: builders/joyboyo42
 entity_type: builders
-status: stub
-last_updated: 2026-04-19
-```
+status: live
+last_updated: 2026-04-20
+---
 
 ## who-they-are
-Joyboyo42 is a community developer active in the OpenHome platform. They are involved in building AI-powered voice applications and have experience in web apps and AI-based tools, focusing on usability and efficiency.
+Joyboyo42 is a community developer associated with OpenHome, focusing on building conversational AI agents and extensions. They are an active contributor participating in the development and enhancement of the OpenHome platform.
 
 ## what-they-built
-Currently, there are no specific details on the abilities or integrations that Joyboyo42 has officially shipped within the OpenHome ecosystem.
+Joyboyo42 has shipped the "Curiosity Queue" ability, which captures spontaneous questions and curiosities from users during conversations. This feature allows users to recall and explore their curiosities efficiently, keeping track of topics without requiring a trigger word. It organizes questions by type and remembers them across sessions.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: joyboyo42#1234
-- GitHub: [joyboyo42's GitHub](https://github.com/joyboyo42)
-- X: [joyboyo42's X](https://x.com/joyboyo42)
+- Discord: Joyboyo42
+- GitHub: [link not provided]
 
 ## connects-to
-[[builders]]
-[[OpenHome]]
-[[AI applications]]
-[[voice technology]]
+[[abilities/Curiosity Queue]]
 
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+<!-- synthesized: 2026-04-20T11:58:55Z -->
+```

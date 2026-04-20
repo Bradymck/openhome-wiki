@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: illectric-co
+title: builders/illectric-co
 entity_type: builders
-status: stub
-last_updated: 2026-04-19
+status: beta
+last_updated: 2026-04-20
 ---
 
-### who-they-are
-illectric-co is a community developer actively engaged in building with the OpenHome voice AI platform. They are equipped with a physical V0.1 devkit and have been exploring the SDK surface for creating conversational AI agents, known as Personalities.
+## who-they-are
+Illectric Co is a community-driven organization focused on the development of AI-powered voice applications through the OpenHome platform. They enable developers to create conversational AI agents called Personalities and enhance them with modular voice plugins known as Abilities.
 
-### what-they-built
-Details about specific abilities or integrations that illectric-co has shipped are currently not available.
+## what-they-built
+They have shipped the following abilities and integrations:
+- **Curiosity Queue**: A background intelligence tool that captures user curiosities and organizes inquiries by type. It allows users to ask about previously noted curiosities without needing trigger words.
 
-### grant-status
-None
+## grant-status
+applied
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
+## how-to-reach
+- Discord handle: Not specified
+- GitHub: [Illectric Co on GitHub](https://github.com/openhome-dev/abilities) 
 - X: Not specified
 
-### connects-to
-[[abilities]]
-[[OpenHome]]
-[[devkits]]
-[[Voice AI]]
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+## connects-to
+- [[abilities]]
+- [[OpenHome]]
+
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```

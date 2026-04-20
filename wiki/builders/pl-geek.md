@@ -1,30 +1,25 @@
-```markdown
----
+```yaml
 title: builders/pl-geek
-entity_type: builders/
+entity_type: builders
 status: live
-last_updated: 2026-04-19
----
+last_updated: 2026-04-20
+```
 
 ## who-they-are
-pl-geek is a community developer within the OpenHome ecosystem, focusing on building voice AI agents and contributing to the OpenHome platform. They are an active participant who has received a physical V0.1 development kit for their contributions and feedback on the project.
+pl-geek is a community developer within the OpenHome platform. They focus on building voice AI applications, particularly enhancing the capabilities of conversational AI agents known as Personalities. With over 7 years of experience in web apps, software, and AI-based tools, pl-geek aims to create efficient and user-friendly solutions that address real-world problems.
 
 ## what-they-built
-pl-geek has engaged in projects related to the OpenHome platform by building and prototyping various abilities for voice AI agents, particularly focusing on enhancing user interaction through modular voice plugins.
+pl-geek has shipped the "Curiosity Queue" ability, which allows users to capture and organize their curious thoughts in a seamless manner. This ability runs in the background, collecting moments of curiosity, and enables users to explore these thoughts later by asking their AI agent, "what am I curious about?" It organizes curiosities by type and maintains a history across sessions.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: <@502708633327632385>
-- GitHub: [pl-geek's GitHub](https://github.com/)
-- X: [@username](https://x.com/)
+- Discord: pl-geek
+- GitHub: [pl-geek GitHub](https://github.com/pl-geek)
+- X: N/A
 
 ## connects-to
-[[builders/pl-geek]]
-[[OpenHome]]
-[[Voice AI]]
-[[Abilities]]
+[[abilities/Curiosity Queue]]
 
-<!-- synthesized: 2026-04-19T11:25:51Z -->
-```
+<!-- synthesized: 2026-04-20T11:58:55Z -->

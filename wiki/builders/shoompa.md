@@ -1,29 +1,27 @@
-```markdown
----
+```yaml
 title: builders/shoompa
 entity_type: builders
 status: live
-last_updated: 2026-04-19
----
+last_updated: 2026-04-20
+```
 
-### who-they-are
-Shoompa is a community developer involved with the OpenHome platform, which is an open-source Voice AI platform. Shoompa focuses on building conversational AI agents, referred to as Personalities, and creating various Abilities that enhance these agents.
+## who-they-are
+Shoompa is a community developer involved with the OpenHome project, which focuses on building conversational AI agents and voice-enabled applications. They actively ship abilities and contribute to the development of the OpenHome platform.
 
-### what-they-built
-Shoompa has been actively participating in the development of modular voice plugins (Abilities) that add new skills to Personalities. The development work reflects contributions to the OpenHome community by prototyping and sharing abilities for the platform.
+## what-they-built
+Shoompa has created the "Curiosity Queue" ability for OpenHome, which captures queries and curiosities expressed in natural conversation without needing specific trigger phrases. This ability organizes user inquiries, remembers them across sessions, and provides notifications for new additions. It aims to keep track of the user's curiosities and offers insightful responses.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
-- GitHub: Not specified
+- GitHub: [shoompa's GitHub](https://github.com/openhome-dev/abilities)
 - X: Not specified
 
-### connects-to
+## connects-to
+- [[abilities]]
 - [[OpenHome]]
-- [[Voice AI]]
-- [[Abilities]]
+- [[Curiosity Queue]]
 
-<!-- synthesized: 2026-04-19T11:25:51Z -->
-```
+<!-- synthesized: 2026-04-20T11:58:55Z -->

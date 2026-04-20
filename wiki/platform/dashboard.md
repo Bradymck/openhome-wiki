@@ -1,21 +1,20 @@
-```markdown
----
-title: OpenHome Dashboard
-entity_type: platform/dashboard
+```yaml
+title: platform/dashboard
+entity_type: platform
 status: live
-last_updated: 2026-04-19
----
+last_updated: 2026-04-20
+```
 
-### what-it-is
-The OpenHome Dashboard is a web-based interface that allows users to create and manage their AI agents, referred to as Personalities, in the OpenHome ecosystem.
+## what-it-is
+The OpenHome Dashboard is a user interface that allows developers and users to create, manage, and configure conversational AI agents known as Personalities. It serves as the central hub for interaction with Abilities—modular voice plugins that enhance the functionality of these agents.
 
-### how-it-works
-Users can access the OpenHome Dashboard to set up their AI agents with specific characteristics, including names and voices. The dashboard facilitates the addition of Abilities—modular voice plugins that enhance the capabilities of these agents. Users can also browse community contributions, fork existing Abilities, or submit their own through the platform, enabling an interactive and collaborative development experience. The dashboard integrates users with the overall OpenHome framework, allowing real-time management and monitoring of their voice AI projects.
+## how-it-works
+The Dashboard provides tools for setting up and customizing Personalities, enabling users to define characteristics such as voice, persona, and conversation style. Users can also browse community-developed Abilities, either for inspiration or as a base for their own enhancements. The platform supports an ecosystem where personalizations can be made, utilizing a straightforward interface, documentation, and community engagement to foster development.
 
-### current-status
+## current-status
 live
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -24,5 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-19T11:25:51Z -->
-```
+<!-- synthesized: 2026-04-20T11:58:55Z -->

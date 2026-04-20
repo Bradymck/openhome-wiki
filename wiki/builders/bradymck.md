@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: bradymck
-entity_type: builders
-status: stub
-last_updated: 2026-04-19
+title: "builders/bradymck"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-04-20
 ---
 
 ### who-they-are
-bradymck is a community developer affiliated with the OpenHome project, which focuses on creating voice AI applications. With over 7 years of experience in web apps, software, and AI-based tools, bradymck specializes in building efficient and user-friendly solutions that address real-world problems. He is currently exploring the capabilities of the OpenHome SDK and is eager to contribute to the community.
+Brady McK is a community developer engaged with the OpenHome platform, focusing on enhancing voice AI interactions.
 
 ### what-they-built
-As of now, there is no specific information available regarding the specific abilities or integrations that bradymck has shipped within the OpenHome ecosystem.
+Brady McK has shipped an ability called Curiosity Queue, which allows users to capture spontaneous questions during conversations. This ability organizes inquiries without needing a trigger word, remembers them across sessions, and provides real-time notifications for new entries. The Curiosity Queue can differentiate between answered and pending questions and does not re-capture the same topic twice.
 
 ### grant-status
 none
@@ -18,13 +18,10 @@ none
 ### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X: Not specified
+- X (Twitter): Not specified
 
 ### connects-to
-[[builders/]]
-[[OpenHome]]
-[[voice AI]]
-[[abilities]]
+[[abilities/Curiosity Queue]]
 
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```

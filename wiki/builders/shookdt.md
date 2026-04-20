@@ -2,29 +2,25 @@
 ---
 title: builders/shookdt
 entity_type: builders
-status: stub
-last_updated: 2026-04-19
+status: live
+last_updated: 2026-04-20
 ---
 
-### who-they-are
-Shookdt is a community developer affiliated with OpenHome, an open-source voice AI platform that allows users to build conversational AI agents called Personalities. They are part of the developer community exploring the capabilities and integrations available through OpenHome.
+## who-they-are
+Shookdt is a community developer within the OpenHome ecosystem, focused on building innovative voice AI applications. With a background in web applications, software, and AI-based tools, Shookdt leverages over 7 years of experience to create efficient solutions that enhance user interactions.
 
-### what-they-built
-Details on specific shipped abilities or integrations by Shookdt are not provided in the available information.
+## what-they-built
+Shookdt has recently shipped the "Curiosity Queue" ability, which allows users to capture and organize their natural curiosities during conversations without needing trigger words. This ability remembers questions across sessions, keeps them categorized, and provides users with notifications and breakdowns of their queries.
 
-### grant-status
-No grant status information is available.
+## grant-status
+none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- GitHub: [Shookdt GitHub Profile](https://github.com/openhome-dev/abilities/tree/dev)
 
 ## connects-to
-[[builders]]
-[[openhome]]
-[[personalities]]
-[[abilities]]
+[[abilities/curiosity-queue]]
 
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```

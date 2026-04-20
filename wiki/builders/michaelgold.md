@@ -2,29 +2,28 @@
 ---
 title: builders/michaelgold
 entity_type: builders
-status: stub
-last_updated: 2026-04-19
+status: live
+last_updated: 2026-04-20
 ---
 
 ## who-they-are
-Michael Gold is a community developer engaged in building with OpenHome, an open-source Voice AI platform. He is actively exploring the OpenHome SDK and contributing to the development of AI-powered voice applications.
+Michael Gold is a community developer involved with OpenHome, focusing on building conversational AI agents, known as Personalities, on the platform. He actively participates in developing and enhancing the community by sharing contributions and engaging in discussions related to AI-powered voice applications.
 
 ## what-they-built
-Michael Gold is known for working with the OpenHome devkit, which includes integrating various functionalities, exploring improvements like adding LED systems, and contributing ideas on how to enhance the OpenHome platform with additional capabilities.
+Michael has shipped an ability called "Curiosity Queue." This ability silently captures moments of curiosity during conversations, allowing users to ask about their curiosities at any time, organize them by question type, and maintain a history of inquiries across sessions. The feature notifies users of new entries and categorizes them as answered or pending.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
+- Discord: Not specified
+- GitHub: [michaelgold’s GitHub](https://github.com/michaelgold)
 - X: Not specified
 
 ## connects-to
+[[builders]]
 [[OpenHome]]
-[[Abilities]]
-[[Voice AI]]
-[[SDK Development]]
-
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+[[Curiosity Queue]]
+[[abilities]]
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```

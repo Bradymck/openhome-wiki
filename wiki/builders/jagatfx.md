@@ -1,28 +1,27 @@
-```markdown
----
+```yaml
 title: builders/jagatfx
-entity_type: builder
+entity_type: builders
 status: live
-last_updated: 2026-04-19
----
+last_updated: 2026-04-20
+```
 
 ## who-they-are
-Jagatfx is an active community developer engaged in building with OpenHome, an open-source Voice AI platform that allows users to create conversational AI agents called Personalities. Jagatfx is focused on prototyping abilities and contributing to the community-driven development of this platform.
+Jagatfx is a community developer actively participating in the OpenHome ecosystem. They are focused on building AI-driven voice applications, leveraging their background in software development and emerging technologies. Their contributions are geared towards enhancing user experiences through conversational AI.
 
 ## what-they-built
-Jagatfx has created various abilities for the OpenHome platform, leveraging the provided V0.1 devkits, which are cutting-edge smart speakers. They have been actively involved in creating and modifying voice AI functionalities, particularly through building conversational agents with unique skills.
+Jagatfx has developed the "Curiosity Queue" ability, which allows users to capture spontaneous questions or thoughts during a conversation. This ability organizes user curiosities by type and maintains a record across sessions, notifying users of new entries and separating answered from unanswered queries. 
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: @jagatfx
-- GitHub: [GitHub Profile](https://github.com/jagatfx)
-- X: [Profile on X](https://x.com/jagatfx)
+- Discord handle: Not explicitly mentioned in the source material.
+- GitHub: [Jagatfx's GitHub](https://github.com/openhome-dev/abilities)
+- X: Not mentioned in the source material.
 
 ## connects-to
-[[builders/openhome]]
-[[abilities/voice-ai]]
-[[abilities/smart-home]]
-<!-- synthesized: 2026-04-19T11:25:51Z -->
-```
+[[abilities/Curiosity Queue]]
+[[openhome]]
+[[developers]]
+
+<!-- synthesized: 2026-04-20T11:58:55Z -->

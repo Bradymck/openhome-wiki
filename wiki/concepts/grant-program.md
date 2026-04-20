@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/grant-program
+entity_type: concepts
 status: live
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 ---
 
 ## definition
-The Grant Program is a support initiative designed to provide resources and funding for developers within the OpenHome community. It encourages innovative projects and contributions that enhance the OpenHome platform.
+The Grant Program is an initiative designed to support developers and contributors within the OpenHome community by providing financial resources and physical development kits. It aims to encourage innovation and feedback on the platform.
 
 ## why-it-matters
-This program is vital for fostering creativity and collaboration among developers. By offering physical development kits and financial support, the Grant Program incentivizes developers to contribute high-quality projects to the OpenHome ecosystem, improving the platform's capabilities and user experience.
+This program is vital for fostering a collaborative environment where developers can create and refine applications using OpenHome's technology. By incentivizing contributions, the Grant Program helps enhance the ecosystem and ensure a steady flow of new ideas and functionalities.
 
 ## how-it-manifests
-The Grant Program appears in practice through initiatives where top contributors are recognized and rewarded with physical dev kits, such as V0.1 smart speakers. Recipients of these kits are encouraged to prototype new features and capabilities, submit their Abilities, and actively engage with the community to develop their projects further.
+The Grant Program is manifested through offerings such as physical development kits (DevKits) for top contributors, funding for project ideas, and promotional support for successful projects. Participants can apply for grants and get involved in prototyping abilities for their agents.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```

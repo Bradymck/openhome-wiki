@@ -1,28 +1,27 @@
-```yaml
+```markdown
+---
 title: builders/slowjamsteve
-entity_type: builder
+entity_type: community builder
 status: stub
-last_updated: 2026-04-19
-```
+last_updated: 2026-04-20
+---
 
 ### who-they-are
-Slowjamsteve is an active community developer within the OpenHome ecosystem, known for their contributions and engagement in discussions relating to conversational AI and voice applications.
+SlowJamSteve is a community developer within the OpenHome ecosystem, working on various abilities that enhance AI-powered voice applications. They are involved in building conversational AI agents and contributing to the broader development community.
 
 ### what-they-built
-Details on specific abilities or integrations that Slowjamsteve has shipped are currently unavailable.
+SlowJamSteve recently shipped the "Curiosity Queue" ability, which captures spontaneous inquiries made during conversations without requiring a trigger word. This ability organizes curiosities, remembers them across sessions, and can notify users of new items added to the list.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: SlowJamSteve
+- GitHub: [SlowJamSteve's GitHub](https://github.com/)
 
-### connects-to
-[[builders]]
-[[openhome]]
+## connects-to
 [[abilities]]
-
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+[[OpenHome]]
+[[Curiosity Queue]]
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```

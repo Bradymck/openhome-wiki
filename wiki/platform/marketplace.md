@@ -3,14 +3,14 @@
 title: platform/marketplace
 entity_type: platform/marketplace
 status: stub
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 ---
 
 ### what-it-is
-The OpenHome marketplace serves as a platform for users to explore and share various abilities created for voice AI agents, facilitating a community-driven ecosystem for enhancing conversational AI functionalities.
+The OpenHome marketplace is a digital platform where developers and users can discover, create, and share voice AI applications and related abilities within the OpenHome ecosystem.
 
 ### how-it-works
-The marketplace allows developers to contribute by creating and sharing Abilities, which are modular plugins that can be integrated into Personalities—OpenHome's AI agents. Users can browse community-submitted Abilities, fork existing examples, and submit their own contributions, fostering collaboration and innovation among developers.
+Within the OpenHome marketplace, users can explore a variety of community-built Abilities that extend the functionality of their AI agents, referred to as Personalities. Developers can publish their own Abilities for others to use, allowing for collaborative enhancement of AI interactions. The marketplace functions as a central hub, promoting the sharing of knowledge, skills, and innovative ideas among users and contributors.
 
 ### current-status
 stub
@@ -23,5 +23,5 @@ stub
 [[platform/local-link]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```

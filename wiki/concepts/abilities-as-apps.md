@@ -2,26 +2,26 @@
 ---
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: live
-last_updated: 2026-04-19
+status: beta
+last_updated: 2026-04-20
 ---
 
 ### definition
-Abilities are modular voice plugins within the OpenHome platform that extend the functionality of conversational AI agents, allowing them to perform specific tasks such as API calls, music playback, quizzes, and device control.
+Abilities-as-Apps are modular voice plugins within the OpenHome platform that enhance Personalities, the conversational AI agents. Each Ability provides a specific functionality or skill, such as playing music, controlling smart devices, or calling APIs, enabling more interactive user experiences.
 
 ### why-it-matters
-Abilities are essential to the OpenHome ecosystem as they enable developers to enhance the versatility and usability of their AI agents. This modular approach fosters creativity and innovation, allowing for a wide variety of applications that adapt to user needs.
+Abilities-as-Apps are crucial for the OpenHome ecosystem as they allow for customizable and scalable interactions. By leveraging these modular enhancements, developers can create unique and varied applications that cater to the diverse needs of users, fostering greater engagement and satisfaction.
 
 ### how-it-manifests
-In OpenHome, abilities are integrated into Personalities, the voice AI agents that users create. Developers can explore, share, and prototype abilities through the OpenHome Dashboard and GitHub repository, encouraging community collaboration and the rapid development of new functionalities.
+This concept is integrated throughout the OpenHome platform where users can create Personalities that incorporate various Abilities. Developers can browse, submit, and prototype new Abilities via the OpenHome Dashboard and GitHub repository, facilitating a collaborative and dynamic development environment.
 
 ### connects-to
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```

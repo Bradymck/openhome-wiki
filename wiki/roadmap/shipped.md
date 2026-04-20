@@ -1,29 +1,24 @@
 ```markdown
 ---
-title: roadmap/shipped
+title: Roadmap/Shipped
 entity_type: roadmap
 status: live
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 ---
 
 ## what-it-is
-OpenHome has released physical V0.1 development kits (DevKits) for its Voice AI platform, allowing developers to build conversational AI agents called Personalities and extend them with modular voice plugins called Abilities.
+OpenHome has released the "Curiosity Queue," a feature that allows users to capture and track curiosity-driven questions that arise during conversations without needing to use a trigger word. This feature organizes queries by type, prevents duplicate entries, and remembers everything across sessions.
 
 ## status
-Shipped
+shipped
 
 ## why-it-matters
-This initiative allows developers to create rich, voice-first applications, empowering users to interact with technology in more immersive and intuitive ways. The DevKits are designed to promote innovation and feedback from the developer community, which is essential for the growth of the OpenHome ecosystem.
+The Curiosity Queue enhances user engagement with the OpenHome platform by effectively capturing spontaneous insights and questions, thereby facilitating a more interactive and thoughtful use of the AI agent. This feature aims to enrich the conversational experience, making AI interactions feel more natural and human-like.
 
 ## eta
-Shipping in small global batches; timeline for broader availability has not been specified.
+Shipped as of April 20, 2026.
 
 ## connects-to
-[[openhome]]
-[[voice AI]]
-[[AI agents]]
-[[Abilities]]
-[[dev.openhome.com]]
-[[developer docs]]
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+[[OpenHome]], [[Abilities]], [[Voice AI]], [[Personalities]]
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```

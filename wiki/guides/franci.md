@@ -1,24 +1,26 @@
 ```markdown
 ---
 title: guides/franci
-entity_type: guides
+entity_type: Community Guide
 status: live
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 ---
 
 ### who-they-are
-Franci is a community developer with over 7 years of experience in developing web applications, software, and AI-based tools. Franci focuses on building efficient and user-friendly solutions that address real-world problems and has a keen interest in emerging technologies and startup ecosystems.
+Franci is a community developer with over 7 years of experience in building web applications, software, and AI-based tools. They focus on creating efficient and user-friendly solutions that address real problems, particularly in the context of emerging technologies.
 
 ### what-they-help-with
-Franci specializes in developing and prototyping voice AI agents using the OpenHome platform. They are knowledgeable about the technical aspects of utilizing the OpenHome SDK and are actively involved in improving community-driven projects by contributing to open-source development and engaging with fellow developers.
+Franci specializes in developing and integrating Abilities (modular voice plugins) for OpenHome's Voice AI platform. They are involved in helping users understand how to create Personalities and enhance them with new skills using community resources and shared knowledge. Additionally, they actively participate in providing feedback and support for developers working with physical hardware and firmware versions of OpenHome products.
 
 ### how-to-reach
-You can reach Franci on Discord at: @franci
+Franci can be reached on Discord as Franci.
 
 ### connects-to
+[[Community Guides]]
 [[OpenHome]]
-[[Voice AI]]
-[[Community Development]]
+[[Abilities]]
+[[Personalities]]
+[[Developer Docs]]
 
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```

@@ -1,27 +1,35 @@
-```yaml
+```markdown
+---
 title: builders/pmckelvy
-entity_type: builders
-status: stub
-last_updated: 2026-04-19
-```
+entity_type: builders/
+status: live
+last_updated: 2026-04-20
+---
 
-## who-they-are
-pmckelvy is a community developer associated with the OpenHome project. They have experience in building efficient and user-friendly applications, particularly in the realms of web apps and AI-based tools. As a member of the OpenHome community, they are engaged in prototyping and experimenting with the platform's capabilities.
+### who-they-are
+pmckelvy is a community developer focused on creating innovative voice AI experiences utilizing the OpenHome platform. They have substantial experience in web apps, software, and AI-based tools, with a dedication to developing efficient solutions that address real-world problems.
 
-## what-they-built
-Details on specific abilities or integrations shipped by pmckelvy are not provided. They are active within the OpenHome development community and involved in leveraging the platform's tools but specific contributions or projects have not been explicitly documented.
+### what-they-built
+pmckelvy has contributed significantly to the OpenHome community by developing the "Curiosity Queue" ability. This ability allows users to capture spontaneous questions and curiosities during natural conversation, organizing them for later review. Notable features of Curiosity Queue include:
+- Recording spontaneous queries without any trigger.
+- Organizing captured curiosities by type (how/why/what questions).
+- Maintaining a log of answered vs. pending curiosities.
+- Providing real-time notifications for new entries.
+This ability is designed to enhance user engagement by allowing individuals to explore their inquiries over time.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
+### how-to-reach
+- Discord: @pmckelvy
+- GitHub: [pmckelvy](https://github.com/pmckelvy)
 - X: Not specified
 
-## connects-to
-[[OpenHome]]
-[[Voice AI Agents]]
-[[Abilities]]
-
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+### connects-to
+[[builders/openhome]]
+[[abilities/Curiosity Queue]]
+[[abilities/voice AI]]
+[[abilities/conversational AI]]
+[[developers]]
+<!-- synthesized: 2026-04-20T11:58:55Z -->
+```

@@ -3,17 +3,17 @@
 title: web3-native
 entity_type: concepts/
 status: stub
-last_updated: 2026-04-19
+last_updated: 2026-04-20
 ---
 
 ## definition
-Web3-native refers to applications and platforms built to leverage decentralized web technologies, enabling greater user control, privacy, and security compared to traditional web applications.
+Web3-native refers to applications, technologies, and ecosystems that are built on decentralized principles, utilizing blockchain technology to enhance user sovereignty and privacy in digital interactions.
 
 ## why-it-matters
-In the context of OpenHome, being web3-native demonstrates a commitment to decentralization and user empowerment. This approach aligns with the platform’s mission to enhance user interactions with technology by creating more ethical, transparent, and equitable applications.
+Web3-native concepts are crucial for OpenHome as they allow for the development of decentralized applications (dApps) that prioritize user control over their data and interactions. This aligns with OpenHome's mission to create a more accessible and intuitive AI-powered platform, fostering an environment where users can engage freely and securely.
 
 ## how-it-manifests
-While specific applications of web3-native features in OpenHome are not detailed in the provided information, it suggests potential integrations with blockchain technology, decentralized identity systems, and smart contracts. This could manifest in functionality where users directly control their personal data and interactions without intermediary oversight.
+In the OpenHome platform, web3-native elements could manifest through features like decentralized identity management, transparent data sharing, and user governance mechanisms that empower users to actively participate in the evolution of their personal AI agents and associated Abilities.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,6 +22,5 @@ While specific applications of web3-native features in OpenHome are not detailed
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
-
-<!-- synthesized: 2026-04-19T11:25:51Z -->
+<!-- synthesized: 2026-04-20T11:58:55Z -->
 ```
