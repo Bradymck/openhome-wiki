@@ -1,27 +1,28 @@
-```yaml
+```markdown
+---
 title: builders/jagatfx
 entity_type: builders
 status: live
-last_updated: 2026-04-20
-```
+last_updated: 2026-04-21
+---
 
 ## who-they-are
-Jagatfx is a community developer actively participating in the OpenHome ecosystem. They are focused on building AI-driven voice applications, leveraging their background in software development and emerging technologies. Their contributions are geared towards enhancing user experiences through conversational AI.
+Jagatfx is a developer focusing on creating reliable systems that connect different tools, such as APIs and databases, to solve real-world problems at scale. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools to improve workflows and automation.
 
 ## what-they-built
-Jagatfx has developed the "Curiosity Queue" ability, which allows users to capture spontaneous questions or thoughts during a conversation. This ability organizes user curiosities by type and maintains a record across sessions, notifying users of new entries and separating answered from unanswered queries. 
+Jagatfx has shipped an ability called **Curiosity Queue**, which captures spontaneous queries made during conversations. This ability operates seamlessly in the background without needing trigger words. It organizes these curiosities, maintains a history across sessions, and allows users to retrieve and explore their questions on demand.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: Not explicitly mentioned in the source material.
-- GitHub: [Jagatfx's GitHub](https://github.com/openhome-dev/abilities)
-- X: Not mentioned in the source material.
+- Discord: @jagatfx
+- GitHub: [jagatfx](https://github.com/jagatfx)
+- X: [jagatfx](https://x.com/jagatfx)
 
 ## connects-to
-[[abilities/Curiosity Queue]]
-[[openhome]]
-[[developers]]
-
-<!-- synthesized: 2026-04-20T11:58:55Z -->
+[[Curiosity Queue]]
+[[OpenHome]]
+[[Abilities]]
+<!-- synthesized: 2026-04-21T11:52:07Z -->
+```

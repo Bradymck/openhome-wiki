@@ -1,20 +1,21 @@
-```yaml
-title: Voice AI
+```markdown
+---
+title: platform/voice-ai
 entity_type: platform
 status: live
-last_updated: 2026-04-20
-```
+last_updated: 2026-04-21
+---
 
-## what-it-is
-Voice AI is a component of the OpenHome platform that allows users to create conversational AI agents, known as Personalities, with customizable voices and interaction styles.
+### what-it-is
+Voice AI in the OpenHome platform refers to the technology that enables the creation and interaction with conversational AI agents, known as Personalities, which can perform various tasks through voice commands.
 
-## how-it-works
-Voice AI operates through a framework where developers can build Personalities and extend their functionalities using modular plugins called Abilities. Abilities enable the Personalities to perform various tasks, such as calling APIs, playing music, running quizzes, and controlling smart devices. These plugins can be triggered during interactions using specific hotwords. The entire system is designed for local operation, ensuring user privacy and responsiveness.
+### how-it-works
+Voice AI allows users to build their own conversational agents called Personalities, which have distinct voices and personas. These agents can be enhanced with modular plugins known as Abilities, which are designed to add new skills, such as calling APIs, playing music, or controlling smart home devices. Interaction with the AI is facilitated through natural voice conversations, where users can issue commands or ask questions, triggering specific Abilities based on recognized hotwords. The system utilizes a robust architecture to handle voice recognition and processing, providing an intuitive experience for users.
 
-## current-status
+### current-status
 live
 
-## connects-to
+### connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -23,4 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-20T11:58:55Z -->
+<!-- synthesized: 2026-04-21T11:52:07Z -->
+```

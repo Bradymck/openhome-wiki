@@ -1,15 +1,16 @@
-```yaml
-title: platform/dashboard
-entity_type: platform
+```markdown
+---
+title: OpenHome Dashboard
+entity_type: platform/dashboard
 status: live
-last_updated: 2026-04-20
-```
+last_updated: 2026-04-21
+---
 
 ## what-it-is
-The OpenHome Dashboard is a user interface that allows developers and users to create, manage, and configure conversational AI agents known as Personalities. It serves as the central hub for interaction with Abilities—modular voice plugins that enhance the functionality of these agents.
+The OpenHome Dashboard is a user interface that allows developers and users to create, manage, and enhance their AI agents, known as Personalities, within the OpenHome platform. It serves as a central hub for accessing and configuring various features and Abilities that extend the functionality of these AI entities.
 
 ## how-it-works
-The Dashboard provides tools for setting up and customizing Personalities, enabling users to define characteristics such as voice, persona, and conversation style. Users can also browse community-developed Abilities, either for inspiration or as a base for their own enhancements. The platform supports an ecosystem where personalizations can be made, utilizing a straightforward interface, documentation, and community engagement to foster development.
+The Dashboard provides tools for setting up Personalities, where users can define characteristics such as name, voice, and conversational style. Additionally, users can browse and integrate community-contributed Abilities—modular voice plugins that add specific skills to the AI agents. These Abilities can trigger responses during conversations based on specific hotwords, enabling dynamic interaction and the execution of custom Python logic.
 
 ## current-status
 live
@@ -23,4 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-20T11:58:55Z -->
+<!-- synthesized: 2026-04-21T11:52:07Z -->
+```

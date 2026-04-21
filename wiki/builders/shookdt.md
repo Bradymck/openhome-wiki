@@ -1,26 +1,27 @@
-```markdown
----
+```yaml
 title: builders/shookdt
-entity_type: builders
+entity_type: builder
 status: live
-last_updated: 2026-04-20
----
+last_updated: 2026-04-21
+```
 
 ## who-they-are
-Shookdt is a community developer within the OpenHome ecosystem, focused on building innovative voice AI applications. With a background in web applications, software, and AI-based tools, Shookdt leverages over 7 years of experience to create efficient solutions that enhance user interactions.
+Shookdt is a community builder involved in the development of voice AI applications on the OpenHome platform. They focus on creating reliable systems that connect different tools such as APIs and databases to facilitate real-world problem-solving. With an emphasis on building modular voice plugins, Shookdt contributes to the enhancement of user interactions with technology through conversational AI agents known as Personalities.
 
 ## what-they-built
-Shookdt has recently shipped the "Curiosity Queue" ability, which allows users to capture and organize their natural curiosities during conversations without needing trigger words. This ability remembers questions across sessions, keeps them categorized, and provides users with notifications and breakdowns of their queries.
+Shookdt has recently shipped an integration called **Curiosity Queue**. This ability captures moments of user curiosity during natural conversations without needing a trigger word. Users can ask, "What am I curious about?" at any time to retrieve a list of questions they have pondered, which are organized by type and tracked across sessions. It also allows users to set real-time notifications for newly added curiosities.
 
 ## grant-status
-none
+$1K
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: [Shookdt GitHub Profile](https://github.com/openhome-dev/abilities/tree/dev)
+- Discord handle: Not specified
+- GitHub: [shookdt](https://github.com/shookdt)
+- X: Not specified
 
 ## connects-to
-[[abilities/curiosity-queue]]
+[[abilities/Curiosity Queue]]
+[[builders/openhome]]
+[[platforms/OpenHome]]
 
-<!-- synthesized: 2026-04-20T11:58:55Z -->
-```
+<!-- synthesized: 2026-04-21T11:52:07Z -->

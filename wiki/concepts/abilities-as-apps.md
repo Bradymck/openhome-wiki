@@ -1,21 +1,20 @@
-```markdown
----
+```yaml
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: beta
-last_updated: 2026-04-20
----
+status: live
+last_updated: 2026-04-21
+```
 
-### definition
-Abilities-as-Apps are modular voice plugins within the OpenHome platform that enhance Personalities, the conversational AI agents. Each Ability provides a specific functionality or skill, such as playing music, controlling smart devices, or calling APIs, enabling more interactive user experiences.
+## definition
+Abilities-as-apps refer to modular voice plugins in the OpenHome platform, which enhance AI agents' functionalities by adding new skills through the execution of custom logic.
 
-### why-it-matters
-Abilities-as-Apps are crucial for the OpenHome ecosystem as they allow for customizable and scalable interactions. By leveraging these modular enhancements, developers can create unique and varied applications that cater to the diverse needs of users, fostering greater engagement and satisfaction.
+## why-it-matters
+This concept is crucial to OpenHome as it allows for a flexible and extensible architecture, enabling developers to create personalized voice AI experiences that can adapt to various user needs and preferences.
 
-### how-it-manifests
-This concept is integrated throughout the OpenHome platform where users can create Personalities that incorporate various Abilities. Developers can browse, submit, and prototype new Abilities via the OpenHome Dashboard and GitHub repository, facilitating a collaborative and dynamic development environment.
+## how-it-manifests
+In OpenHome, abilities are integrated with Personalities (the AI agents). When triggered by specific hotwords during voice conversations, these abilities can perform various tasks, such as calling APIs, playing music, running quizzes, or controlling smart home devices.
 
-### connects-to
+## connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -23,5 +22,4 @@ This concept is integrated throughout the OpenHome platform where users can crea
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-20T11:58:55Z -->
-```
+<!-- synthesized: 2026-04-21T11:52:07Z -->

@@ -1,34 +1,27 @@
 ```markdown
 ---
-title: builders/jkoppel
-entity_type: builder
+title: jkoppel
+entity_type: builders/
 status: live
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## who-they-are
-jkoppel is an active contributor within the OpenHome community. They hold a V0.1 devkit and are focused on building innovative abilities for the OpenHome platform, a voice AI system intended for creating conversational agents known as Personalities.
+jkoppel is an active member of the OpenHome community, focused on creating systems that integrate various tools such as APIs and databases to address real-world challenges at scale. Their experience involves designing multi-agent systems, information retrieval pipelines, and multimedia tools aimed at enhancing workflows and automation.
 
 ## what-they-built
-jkoppel has shipped a notable ability called Curiosity Queue. This ability captures users' spontaneous curiosities during conversations, allowing them to retrieve those thoughts later and explore detailed answers. Key features include:
-- Automatic organization of questions by type (how, why, what)
-- Prevention of duplicate entries
-- Background functionality that silently tracks curiously generated topics
-- Real-time notifications for new queries
-- Distinction between answered and pending curiosities
+Recently, jkoppel shipped an ability known as **Curiosity Queue**. This ability captures moments of curiosity during natural conversations without the need for a trigger word. Users can ask, "what am I curious about?" to retrieve a list of topics they expressed curiosity about, complete with organized questions and answers.
 
 ## grant-status
-$5K-$20K
+none
 
 ## how-to-reach
 - Discord: Not specified
-- GitHub: [jkoppel's GitHub Profile](https://github.com/openhome-dev/abilities)
+- GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-- [[abilities/Curiosity Queue]]
-- [[builders/openhome]]
-- [[platforms/openhome]]
+[[abilities/Curiosity Queue]]
 
-<!-- synthesized: 2026-04-20T11:58:55Z -->
+<!-- synthesized: 2026-04-21T11:52:07Z -->
 ```

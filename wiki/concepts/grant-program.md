@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts
+entity_type: concepts/grant-program
 status: live
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ## definition
-The Grant Program is an initiative designed to support developers and contributors within the OpenHome community by providing financial resources and physical development kits. It aims to encourage innovation and feedback on the platform.
+A grant program is an initiative that provides financial support and resources to individuals or teams who contribute to the development of projects within the OpenHome ecosystem. This program aims to encourage innovation and active participation among developers and creators.
 
 ## why-it-matters
-This program is vital for fostering a collaborative environment where developers can create and refine applications using OpenHome's technology. By incentivizing contributions, the Grant Program helps enhance the ecosystem and ensure a steady flow of new ideas and functionalities.
+The grant program is crucial to OpenHome as it incentivizes community members to engage with the platform, fostering a collaborative environment that drives creativity and technological advancement. By offering support for promising projects, OpenHome enhances its ecosystem and expands its capabilities.
 
 ## how-it-manifests
-The Grant Program is manifested through offerings such as physical development kits (DevKits) for top contributors, funding for project ideas, and promotional support for successful projects. Participants can apply for grants and get involved in prototyping abilities for their agents.
+The grant program manifests through various initiatives, such as the distribution of physical developer kits, resources for project promotion, and funding for outstanding contributions. Recipients of grants may also gain access to additional support and mentorship, resulting in a more robust development community.
 
 ## connects-to
 - [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ The Grant Program is manifested through offerings such as physical development k
 - [[concepts/dead-mans-switch]]
 - [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-04-20T11:58:55Z -->
+<!-- synthesized: 2026-04-21T11:52:07Z -->
 ```

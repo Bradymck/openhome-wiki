@@ -1,27 +1,27 @@
 ```yaml
-title: Roadmap / Current Sprint
+title: Roadmap Current Sprint
 entity_type: roadmap
 status: live
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ```
 
 ## what-it-is
-The current sprint for OpenHome includes the release of the Curiosity Queue feature, which captures and organizes user questions about various topics as they arise during conversation.
+The current sprint focuses on the ongoing development and distribution of OpenHome's physical V0.1 devkits, which are advanced smart speakers designed for building voice AI agents called Personalities and extending them with modular plugins known as Abilities.
 
 ## status
-Shipped
+In-progress
 
 ## why-it-matters
-Curiosity Queue enhances user engagement by allowing natural conversation flow while remembering topics of interest for later exploration. This feature eliminates the need for trigger words and organizes inquiries based on type, promoting a seamless voice interaction experience.
+The OpenHome platform aims to revolutionize interactions with technology by providing an open-source environment that makes AI-powered, voice-first applications accessible to everyone. The devkits facilitate hands-on contributions and testing, allowing users to experiment with new functionalities and provide valuable feedback.
 
 ## eta
-Released as of April 20, 2026.
+Physical devkits are being shipped globally in small batches, with no specific timeline provided for full distribution.
 
 ## connects-to
-[[OpenHome]]
-[[Abilities]]
-[[Developer Docs]]
-[[OpenHome Dashboard]]
-[[GitHub]]
-<!-- synthesized: 2026-04-20T11:58:55Z -->
-```
+- [[OpenHome]]
+- [[OpenClaw]]
+- [[Abilities]]
+- [[Personality]]
+- [[Community Contributions]]
+
+<!-- synthesized: 2026-04-21T11:52:07Z -->

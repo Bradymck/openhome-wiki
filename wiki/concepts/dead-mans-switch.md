@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: Dead Man's Switch
-entity_type: concepts/dead-mans-switch
+title: concepts/dead-mans-switch
+entity_type: concepts
 status: stub
-last_updated: 2026-04-20
+last_updated: 2026-04-21
 ---
 
 ### definition
-A dead man's switch is a safety mechanism that triggers an action when the user becomes incapacitated or fails to respond as expected. It ensures that certain processes or alerts are enacted in situations where the user can no longer manage them.
+A dead man's switch is a safety mechanism that triggers an action if the user becomes incapacitated or unresponsive. Typically, this involves a system that continuously monitors a user’s state or activity and activates an alternative process or alert when certain conditions are no longer met.
 
 ### why-it-matters
-In the context of OpenHome, a dead man's switch can enhance safety and automation by ensuring that critical actions are executed if a user is no longer able to interact with their devices or systems. This is particularly relevant for home automation and personal assistant functionalities, where continuous user engagement may not always be possible.
+In the context of OpenHome, a dead man's switch can enhance safety and reliability for users interacting with AI systems or smart home devices. By ensuring that actions can be autonomously handled in the event the user is unable to respond, it helps maintain system integrity and user trust.
 
 ### how-it-manifests
-The concept of a dead man's switch may be incorporated into OpenHome's platform through features that allow users to set automated responses or alerts triggered by inactivity or lack of user input. This could appear in the development of specific Abilities that safeguard user preferences or execute essential tasks when user interaction stops.
+While specific implementations of a dead man's switch within OpenHome have not been detailed, the concept can find applications in ensuring that agents built on the OpenHome platform can autonomously handle tasks when a user is inactive. This could apply to scenarios like monitoring smart home security or managing energy consumption based on user presence.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-20T11:58:55Z -->
+<!-- synthesized: 2026-04-21T11:52:07Z -->
 ```
