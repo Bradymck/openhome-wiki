@@ -1,29 +1,31 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: builder
+entity_type: builders/
 status: live
-last_updated: 2026-04-21
+last_updated: 2026-04-22
 ---
 
 ## who-they-are
-pl-geek is focused on creating reliable systems that connect different tools such as APIs and databases to solve real-world problems at scale. They have experience designing multi-agent setups, information retrieval pipelines, and multimedia tools to enhance workflows and automation.
+Builders/pl-geek is part of the OpenHome community, focusing on creating reliable systems that connect various tools, including APIs and databases, to solve real-world problems at scale. Their expertise includes designing multi-agent setups, information retrieval pipelines, and multimedia tools to improve workflows and automation.
 
 ## what-they-built
-pl-geek has shipped an integration called "Curiosity Queue." This ability captures moments of curiosity during natural conversations without needing a specific trigger word. It organizes inquiries by type and keeps track of answered and pending questions, allowing users to retrieve and learn from their curiosities later.
+Pl-geek has shipped an integration called **Curiosity Queue**, which captures spontaneous questions during conversation without requiring a trigger word. Users can later ask "what am I curious about?" to receive a list of their questions along with detailed information on selected topics.
 
 ## grant-status
-none
+$100
 
 ## how-to-reach
-- Discord: Not publicly listed
-- GitHub: Not publicly listed
-- X: Not publicly listed
+- Discord: Not specified
+- GitHub: Not specified
+- X: [@carlosmarcialt](https://x.com/carlosmarcialt/status/2046573434650390575)
 
 ## connects-to
-[[abilities]]
-[[OpenHome]]
-[[Curiosity Queue]]
+[[builders/openhome]]
+[[abilities/curiosity-queue]]
+[[abilities/openhome]]
+[[abilities/voice-ai]]
+[[abilities/miscellaneous-tools]]
 
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+<!-- synthesized: 2026-04-22T11:50:10Z -->
 ```

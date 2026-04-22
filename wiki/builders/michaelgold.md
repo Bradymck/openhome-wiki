@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: builders/michaelgold
-entity_type: builder
-status: live
-last_updated: 2026-04-21
+title: "builders/michaelgold"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-04-22
 ---
 
-## who-they-are
-Michael Gold is a developer focused on creating reliable systems that integrate various tools like APIs and databases to address real-world problems at scale. He has experience in designing multi-agent setups, information retrieval pipelines, and multimedia tools aimed at improving workflows and automation.
+### who-they-are
+Michael Gold focuses on creating reliable systems that connect different tools like APIs and databases to solve real-world problems at scale. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools to improve workflows and automation. 
 
-## what-they-built
-Michael Gold has shipped the Curiosity Queue ability, which allows users to capture their spontaneous curiosities during conversations without needing a trigger word. The Curiosity Queue organizes inquiries by type, avoids duplicate entries, and retains memories across sessions, notifying users in real-time about new additions.
+### what-they-built
+Michael has shipped an ability called **Curiosity Queue**, which captures moments of curiosity during natural conversation without needing a trigger word. Users can later inquire about their curiosities, prompting the system to provide explanations in a clear and structured manner.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: [@michaelgold](https://discord.com/)
-- GitHub: [michaelgold](https://github.com/michaelgold)
+### how-to-reach
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[Curiosity Queue]]
-[[OpenHome]]
-[[Abilities]]
-[[Voice AI Agents]]
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+### connects-to
+[[builders]]
+[[abilities/curiosity-queue]]
+
+<!-- synthesized: 2026-04-22T11:50:10Z -->
 ```

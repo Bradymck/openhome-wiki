@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: platform/local-link
-entity_type: wiki
-status: beta
-last_updated: 2026-04-21
-```
+entity_type: platform
+status: stub
+last_updated: 2026-04-22
+---
 
 ## what-it-is
-The Local Link platform allows devices within local networks to communicate efficiently and securely, enabling seamless integration of smart home components with voice AI capabilities.
+The Local Link platform is a feature within the OpenHome ecosystem that enables seamless interaction between local devices, smart speakers, and AI agents.
 
 ## how-it-works
-Local Link operates by facilitating direct interactions between compatible devices without needing to route data through external servers. This ensures a quicker response time and enhances the privacy of user data. By using a set of APIs, devices that support Local Link can initiate and receive commands or queries locally, making it ideal for smart home applications where latency and security are paramount.
+Local Link operates by establishing direct communication between the user's devices and the OpenHome platform, allowing for real-time data exchange and control. This feature enhances the capabilities of AI agents by enabling them to integrate with various local smart devices and services, expanding their potential functionalities.
 
 ## current-status
-beta
+stub
 
 ## connects-to
 [[platform/openhome]]
@@ -23,4 +24,5 @@ beta
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+<!-- synthesized: 2026-04-22T11:50:10Z -->
+```

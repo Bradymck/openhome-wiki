@@ -1,27 +1,28 @@
-```yaml
+```markdown
+---
 title: builders/shookdt
 entity_type: builder
-status: live
-last_updated: 2026-04-21
-```
+status: stub
+last_updated: 2026-04-22
+---
 
 ## who-they-are
-Shookdt is a community builder involved in the development of voice AI applications on the OpenHome platform. They focus on creating reliable systems that connect different tools such as APIs and databases to facilitate real-world problem-solving. With an emphasis on building modular voice plugins, Shookdt contributes to the enhancement of user interactions with technology through conversational AI agents known as Personalities.
+Shookdt is an active member of the OpenHome community, focused on creating reliable systems that connect various tools like APIs and databases to solve real-world problems at scale. Their experience includes designing multi-agent setups and multimedia tools to improve automation and workflows.
 
 ## what-they-built
-Shookdt has recently shipped an integration called **Curiosity Queue**. This ability captures moments of user curiosity during natural conversations without needing a trigger word. Users can ask, "What am I curious about?" at any time to retrieve a list of questions they have pondered, which are organized by type and tracked across sessions. It also allows users to set real-time notifications for newly added curiosities.
+Shookdt has shipped the "Curiosity Queue" ability, which captures moments of curiosity during natural conversation without needing a trigger word. Users can later recall these moments by asking their AI agent what they were curious about, allowing for a comprehensive breakdown of inquiries.
 
 ## grant-status
-$1K
+none
 
 ## how-to-reach
-- Discord handle: Not specified
-- GitHub: [shookdt](https://github.com/shookdt)
+- Discord: Not specified
+- GitHub: Not specified
 - X: Not specified
 
 ## connects-to
+[[builders]]
 [[abilities/Curiosity Queue]]
-[[builders/openhome]]
-[[platforms/OpenHome]]
-
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+[[openhome]]
+<!-- synthesized: 2026-04-22T11:50:10Z -->
+```

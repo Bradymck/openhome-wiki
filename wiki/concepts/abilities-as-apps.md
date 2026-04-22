@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-04-21
-```
+last_updated: 2026-04-22
+---
 
-## definition
-Abilities-as-apps refer to modular voice plugins in the OpenHome platform, which enhance AI agents' functionalities by adding new skills through the execution of custom logic.
+### definition
+Abilities as Apps refer to modular voice plugins that extend the functionality of conversational AI agents (referred to as Personalities) on the OpenHome platform. These plugins enable Personalities to perform various tasks, such as calling APIs, playing music, or controlling smart home devices.
 
-## why-it-matters
-This concept is crucial to OpenHome as it allows for a flexible and extensible architecture, enabling developers to create personalized voice AI experiences that can adapt to various user needs and preferences.
+### why-it-matters
+This concept is crucial for OpenHome as it allows developers to create versatile and customizable AI applications that can adapt to users' specific needs and preferences. By promoting a modular approach, OpenHome encourages innovation and collaboration within its developer community, facilitating the rapid development of new functionalities.
 
-## how-it-manifests
-In OpenHome, abilities are integrated with Personalities (the AI agents). When triggered by specific hotwords during voice conversations, these abilities can perform various tasks, such as calling APIs, playing music, running quizzes, or controlling smart home devices.
+### how-it-manifests
+In the OpenHome platform, Abilities are integrated into Personalities, allowing them to be triggered during voice interactions using specific hotwords. Developers can easily create and share their own Abilities through the OpenHome Dashboard and GitHub repositories, fostering an expanding ecosystem of voice applications.
 
-## connects-to
+### connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -22,4 +23,5 @@ In OpenHome, abilities are integrated with Personalities (the AI agents). When t
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+<!-- synthesized: 2026-04-22T11:50:10Z -->
+```

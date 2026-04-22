@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: platform/voice-ai
-entity_type: platform
+title: Voice AI Platform
+entity_type: platform/voice-ai
 status: live
-last_updated: 2026-04-21
+last_updated: 2026-04-22
 ---
 
 ### what-it-is
-Voice AI in the OpenHome platform refers to the technology that enables the creation and interaction with conversational AI agents, known as Personalities, which can perform various tasks through voice commands.
+OpenHome is an open-source Voice AI platform designed for building conversational AI agents, referred to as Personalities, which can be enhanced with modular voice plugins known as Abilities.
 
 ### how-it-works
-Voice AI allows users to build their own conversational agents called Personalities, which have distinct voices and personas. These agents can be enhanced with modular plugins known as Abilities, which are designed to add new skills, such as calling APIs, playing music, or controlling smart home devices. Interaction with the AI is facilitated through natural voice conversations, where users can issue commands or ask questions, triggering specific Abilities based on recognized hotwords. The system utilizes a robust architecture to handle voice recognition and processing, providing an intuitive experience for users.
+The Voice AI platform enables users to create Personalities that embody unique voices, personas, and conversation styles. Personalities can be equipped with Abilities, which are plugins that provide additional skills, such as controlling smart devices, playing music, or accessing web APIs. Users interact with the system through voice commands, and Abilities are activated using specific trigger words during conversations. This architecture fosters customizable voice-first applications by allowing developers to create and prototype new functionalities swiftly using Python.
 
 ### current-status
 live
@@ -24,5 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+<!-- synthesized: 2026-04-22T11:50:10Z -->
 ```

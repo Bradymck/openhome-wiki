@@ -1,24 +1,25 @@
 ```markdown
 ---
-title: Kaeden
+title: Team Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-04-21
+last_updated: 2026-04-22
 ---
 
 ### who-they-are
-Kaeden is a member of the OpenHome team, focusing on creating reliable systems that connect different tools, such as APIs and databases, to solve real-world problems at scale. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools aimed at improving workflows and automation.
+Kaeden is a core member of the OpenHome team with a focus on developing innovative solutions for voice AI applications. They have a background in technology and system integration, specializing in creating reliable systems that connect various tools like APIs and databases to solve real-world challenges.
 
 ### what-they-own
-Kaeden leads the development of systems that integrate various technologies to enhance the functionality of OpenHome's platform. Their role involves ensuring efficient operations and creating solutions that streamline complex processes.
+Kaeden leads initiatives in integrating and automating workflows through the OpenHome platform, emphasizing multi-agent setups and information retrieval pipelines. Their contributions enhance the efficiency and user experience of voice conversations by implementing modular voice plugins.
 
 ### how-to-reach
-Kaeden can be reached via Discord. 
+Kaeden can be reached on Discord under the handle <@998559186826838107>. They are also active on social media and engage with the community to assist users and developers.
 
 ### connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[dev-help]]
-[[ideas]]
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+[[projects/openhome]]
+[[projects/openclaw]]
+
+<!-- synthesized: 2026-04-22T11:50:10Z -->
 ```

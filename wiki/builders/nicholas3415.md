@@ -1,29 +1,27 @@
 ```markdown
 ---
 title: builders/nicholas3415
-entity_type: builder
-status: live
-last_updated: 2026-04-21
+entity_type: builders
+status: stub
+last_updated: 2026-04-22
 ---
 
-## who-they-are
-Nicholas3415 is a community contributor within the OpenHome platform, focusing on creating reliable systems that connect different tools, such as APIs and databases, to solve real-world problems at scale. They have experience in designing multi-agent setups, information retrieval pipelines, and multimedia tools to improve workflows and automation.
+### who-they-are
+Nicholas3415 is a community builder focused on creating reliable systems that connect different tools, such as APIs and databases, to solve real-world problems at scale. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools to improve workflows and automation.
 
-## what-they-built
-Nicholas3415 has shipped an ability called **Curiosity Queue**. This ability captures moments of curiosity during natural conversation without needing a trigger word. Users can later retrieve these curiosities through prompts and receive organized responses that separate answered from pending inquiries.
+### what-they-built
+Nicholas3415 has developed the **Curiosity Queue** ability, which silently captures moments of curiosity during natural conversation. Users can later ask their voice AI, "what am I curious about?" to retrieve a list of queries they've pondered, along with detailed explanations.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+### how-to-reach
+- Discord: not specified
+- GitHub: not specified
+- X: not specified
 
 ## connects-to
-[[builders/openhome]]  
-[[abilities/Curiosity Queue]]  
-[[abilities]]  
+- [[abilities/Curiosity Queue]]
 
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+<!-- synthesized: 2026-04-22T11:50:10Z -->
 ```

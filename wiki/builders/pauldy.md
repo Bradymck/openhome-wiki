@@ -1,27 +1,28 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builder
-status: stub
-last_updated: 2026-04-21
+entity_type: builders
+status: live
+last_updated: 2026-04-22
 ---
 
-### who-they-are
-Pauldy is a developer focused on creating reliable systems that connect various tools, including APIs and databases. They are active in the OpenHome community, working on projects that leverage voice AI technology for conversational agents.
+## who-they-are
+Pauldy is a developer focusing on creating reliable systems that connect different tools like APIs and databases to solve real-world problems at scale. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools aimed at improving workflows and automation.
 
-### what-they-built
-Pauldy has recently shipped an ability called **Curiosity Queue**, which captures moments of curiosity during conversations without the need for trigger words. This system remembers and organizes questions, providing users with the ability to retrieve information on topics they have previously wondered about, thereby enhancing the conversational experience.
+## what-they-built
+Pauldy has shipped an ability called "Curiosity Queue," which captures spontaneous questions and curiosities during conversation, allowing users to retrieve them later for deeper exploration.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-- [[abilities/Curiosity Queue]]
+## connects-to
+[[builders]]
+[[abilities/curiosity-queue]]
 
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+<!-- synthesized: 2026-04-22T11:50:10Z -->
 ```

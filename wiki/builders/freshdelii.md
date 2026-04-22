@@ -3,28 +3,26 @@
 title: builders/freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-04-21
+last_updated: 2026-04-22
 ---
 
 ### who-they-are
-Freshdelii is a developer involved in the OpenHome community, focusing on building conversational AI agents known as Personalities. They engage in creating innovative solutions that enhance user interactions with technology.
+Freshdelii is part of the OpenHome community, focusing on creating reliable systems that connect different tools like APIs and databases for automation and problem-solving.
 
 ### what-they-built
-Freshdelii has shipped an ability called "Curiosity Queue," which allows users to capture spontaneous questions or curiosities during conversations without needing a specific trigger word. This ability organizes inquiries and provides breakdowns in an understandable manner, maintaining an archive of curiosities across sessions.
+Freshdelii has shipped an ability named **Curiosity Queue**, which silently captures moments of curiosity during natural conversations, allowing users to revisit and explore those thoughts later.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
+- Discord handle: Not specified
 - GitHub: Not specified
-- X: Not specified
+- X: [Carlos Marcial's post](https://x.com/carlosmarcialt/status/2046573434650390575)
 
-### connects-to
-[[builders]]
+## connects-to
 [[abilities]]
-[[OpenHome]]
 [[Curiosity Queue]]
-
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+[[OpenHome]]
+<!-- synthesized: 2026-04-22T11:50:10Z -->
 ```

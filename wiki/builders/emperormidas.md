@@ -3,27 +3,25 @@
 title: emperormidas
 entity_type: builders
 status: live
-last_updated: 2026-04-21
+last_updated: 2026-04-22
 ---
 
 ### who-they-are
-Emperormidas is a developer focused on building reliable systems that connect various tools, including APIs and databases, to solve real-world problems. Their experience encompasses designing multi-agent setups and multimedia tools aimed at improving workflows and automation.
+EmperorMidas is a developer focused on creating reliable systems that connect various tools, such as APIs and databases, to address real-world problems at scale. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools aimed at improving workflows and automation. They actively contribute to the OpenHome community, participating in discussions, feedback sessions, and project development.
 
 ### what-they-built
-Emperormidas has shipped the **Curiosity Queue** ability, which captures spontaneous questions or curiosities that arise during conversations without requiring a trigger word. This ability organizes thoughts by categories (how/why/what questions), remembers them across sessions, and can notify users when new curiosities are added. It efficiently separates answered from pending queries, ensuring users do not revisit old topics unnecessarily.
+EmperorMidas has shipped an ability called **Curiosity Queue**. This innovative feature allows users to capture fleeting thoughts or questions during conversations without needing a trigger word. Users can simply ask "what am I curious about?" to retrieve a list of their curiosities and receive detailed explanations.
 
 ### grant-status
-none
+applied
 
 ### how-to-reach
-- Discord: [emperormidas](https://discord.com/users/emperormidas)
-- GitHub: [emperormidas](https://github.com/emperormidas)
-- X: [@emperormidas](https://x.com/emperormidas)
+- Discord: Not specified
+- GitHub: Not specified
+- X: [Carlos Marcial](https://x.com/carlosmarcialt/status/2046573434650390575)
 
 ### connects-to
-[[builders]]
-[[abilities]]
-[[Curiosity Queue]]
+- [[abilities/Curiosity Queue]]
 
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+<!-- synthesized: 2026-04-22T11:50:10Z -->
 ```

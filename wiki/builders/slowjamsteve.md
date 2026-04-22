@@ -1,30 +1,25 @@
-```markdown
----
+```yaml
 title: builders/slowjamsteve
 entity_type: builder
 status: live
-last_updated: 2026-04-21
----
+last_updated: 2026-04-22
+```
 
-## who-they-are
-Slowjamsteve is a member of the OpenHome community focused on building reliable systems that connect different tools like APIs and databases. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools to improve workflows and automation.
+### who-they-are
+Slowjamsteve is an active member of the OpenHome community, focused on creating reliable systems that connect different tools like APIs and databases. They have experience in designing multi-agent setups and multimedia tools to improve workflows and automation. 
 
-## what-they-built
-Slowjamsteve has shipped the "Curiosity Queue," an ability that captures spontaneous questions during conversations. This ability organizes curiosities by type, avoids duplication, remembers across sessions, and notifies users in real-time when new curiosities are added. It runs silently in the background and enhances the user experience by providing informative breakdowns of captured questions.
+### what-they-built
+Slowjamsteve has shipped an ability called **Curiosity Queue**. This ability captures moments of curiosity during natural conversation without the need for a trigger word. Users can later inquire about their curiosities, and the ability will provide explanations on topics they've wondered about.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: @slowjamsteve
-- GitHub: [slowjamsteve](https://github.com/slowjamsteve)
-- X: [slowjamsteve](https://x.com/slowjamsteve)
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[builders]]
-[[abilities]]
-[[curiosity-queue]]
-[[openhome]]
+### connects-to
+[[abilities/Curiosity Queue]] 
 
-<!-- synthesized: 2026-04-21T11:52:07Z -->
-```
+<!-- synthesized: 2026-04-22T11:50:10Z -->

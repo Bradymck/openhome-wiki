@@ -1,26 +1,28 @@
-```yaml
-title: Illectric Co
-entity_type: builders
-status: stub
-last_updated: 2026-04-21
-```
+```markdown
+---
+title: illectric-co
+entity_type: builders/
+status: live
+last_updated: 2026-04-22
+---
 
 ## who-they-are
-Illectric Co is a community of builders who focus on creating reliable systems that connect various tools, such as APIs and databases, to address real-world problems at scale. They leverage their expertise to design and build solutions that streamline complex processes.
+illectric-co is part of the OpenHome community, focused on building and enhancing voice AI capabilities. They are dedicated to creating engaging and functional integrations for the OpenHome platform, which enables users to develop conversational AI agents known as Personalities.
 
 ## what-they-built
-Illectric Co has shipped an ability called "Curiosity Queue." This ability automatically captures moments of curiosity during natural conversations without needing a trigger word. Users can later ask, "what am I curious about?" to receive a list of collected questions, which are organized by type and retain session continuity. It also includes features like real-time notifications when new curiosities are captured and separates answered questions from those pending.
+illectric-co has developed the "Curiosity Queue" ability, a plugin that captures spontaneous inquiries during conversations without needing a trigger word. It allows users to review their curiosities by asking, "what am I curious about?" and provides detailed breakdowns for each inquiry. This functionality aims to enhance user interaction with voice AI by retaining natural dialogue flow and addressing user questions effectively.
 
 ## grant-status
-none
+None
 
 ## how-to-reach
-Discord: Not provided  
-GitHub: Not provided  
-X: Not provided
+- Discord handle: N/A
+- GitHub: [illectric-co GitHub](https://github.com/openhome-dev/abilities/tree/dev)
+- X: N/A
 
 ## connects-to
-[[Curiosity Queue]]
-
-<!-- synthesized: 2026-04-21T11:52:07Z -->
+[[builders/]]
+[[abilities/curiosity-queue]]
+[[openhome/]]
+<!-- synthesized: 2026-04-22T11:50:10Z -->
 ```
