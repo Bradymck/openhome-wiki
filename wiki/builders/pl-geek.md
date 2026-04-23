@@ -1,31 +1,29 @@
-```markdown
----
+```yaml
 title: builders/pl-geek
-entity_type: builders/
-status: live
-last_updated: 2026-04-22
----
+entity_type: builder
+status: stub
+last_updated: 2026-04-23
+```
 
 ## who-they-are
-Builders/pl-geek is part of the OpenHome community, focusing on creating reliable systems that connect various tools, including APIs and databases, to solve real-world problems at scale. Their expertise includes designing multi-agent setups, information retrieval pipelines, and multimedia tools to improve workflows and automation.
+pl-geek is an active community builder within the OpenHome ecosystem, engaged in development around AI-powered voice applications. They focus on promoting contributions to the OpenHome platform, emphasizing collaborative projects and feedback.
 
 ## what-they-built
-Pl-geek has shipped an integration called **Curiosity Queue**, which captures spontaneous questions during conversation without requiring a trigger word. Users can later ask "what am I curious about?" to receive a list of their questions along with detailed information on selected topics.
+pl-geek has contributed to the development of various abilities for the OpenHome platform, including the creation of innovative agents and enhancements to the existing infrastructure. Their work supports users in building conversational AI agents that leverage modular voice plugins (Abilities).
 
 ## grant-status
-$100
+none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: [@carlosmarcialt](https://x.com/carlosmarcialt/status/2046573434650390575)
+- Discord: pl-geek
+- GitHub: [openhome-dev](https://github.com/openhome-dev)
+- X: Not specified
 
 ## connects-to
-[[builders/openhome]]
-[[abilities/curiosity-queue]]
-[[abilities/openhome]]
-[[abilities/voice-ai]]
-[[abilities/miscellaneous-tools]]
+[[Ability Development]]
+[[OpenHome Community]]
+[[Voice AI Applications]]
+[[AI Agents]]
+[[OpenHome CLI]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
-```
+<!-- synthesized: 2026-04-23T11:51:43Z -->

@@ -1,31 +1,29 @@
 ```markdown
 ---
-title: XtremeGamer007
-entity_type: builders
-status: live
-last_updated: 2026-04-22
+title: builders/xtremegamer007
+entity_type: builder
+status: stub
+last_updated: 2026-04-23
 ---
 
 ### who-they-are
-XtremeGamer007 is a member of the OpenHome community focusing on creating reliable systems that connect different tools, like APIs and databases, to solve real-world problems at scale. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools aimed at improving workflows and automation.
+xtremegamer007 is an active developer and member of the OpenHome community. They are involved in building conversational AI agents referred to as Personalities, utilizing the OpenHome platform.
 
 ### what-they-built
-XtremeGamer007 has recently shipped an ability called "Curiosity Queue." This innovative integration captures spontaneous moments of curiosity during conversations, allowing users to query their past curiosities and receive detailed explanations.
+Details regarding specific abilities or integrations that xtremegamer007 has contributed to or built are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: [XtremeGamer007](https://discordapp.com)
-- GitHub: [XtremeGamer007's GitHub](https://github.com/xtremegamer007)
-- X: [XtremeGamer007 on X](https://x.com/xtremegamer007)
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ### connects-to
-[[abilities/Curiosity Queue]]
-[[builders/OpenHome]]
-[[abilities/Voice AI]]
-[[developers/APIs]]
-[[community/Multi-Agent Systems]]
+[[openhome]]  
+[[Personalities]]  
+[[Abilities]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

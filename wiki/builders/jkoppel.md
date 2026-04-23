@@ -3,25 +3,28 @@
 title: jkoppel
 entity_type: builders
 status: live
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
 ## who-they-are
-jkoppel is an active member of the OpenHome community, focusing on creating reliable systems that integrate various tools such as APIs and databases to solve real-world problems at scale. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools that enhance workflows and automation.
+jkoppel is an active builder within the OpenHome community, focusing on the development of AI-powered voice applications. They are involved in contributing to OpenHome's ecosystem, which aims to create immersive and intuitive voice interactions.
 
 ## what-they-built
-jkoppel has developed the "Curiosity Queue" ability, which captures spontaneous inquisitive moments during conversations. This ability allows users to recall questions or ideas they encountered while speaking, providing detailed breakdowns when prompted later. Additionally, they are involved in building conversational AI agents and enhancing voice applications on the OpenHome platform.
+jkoppel has participated in building various conversational AI agents, referred to as Personalities, and has contributed to the development of Abilities—modular voice plugins that enhance the functionality of these Personalities on the OpenHome platform.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: @jkoppel
-- GitHub: [jkoppel's GitHub](https://github.com/jkoppel)
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
 [[builders]]
-[[abilities/Curiosity Queue]]
-[[openhome]]
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+[[OpenHome]]
+[[Abilities]]
+[[Personalities]]
+[[Voice AI]]
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

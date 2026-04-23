@@ -1,27 +1,25 @@
 ```markdown
 ---
 title: guides/sira
-entity_type: Community Guide
-status: live
-last_updated: 2026-04-22
+entity_type: Community Guides
+status: stub
+last_updated: 2026-04-23
 ---
 
 ## who-they-are
-Sira is a power user involved in the OpenHome community, focusing on creating reliable systems that connect different tools, including APIs and databases. They have extensive experience in designing multi-agent setups, information retrieval pipelines, and multimedia tools aimed at improving workflows and automation.
+Sira is a power user within the OpenHome community, focused on guiding newcomers through the platform and helping them leverage its capabilities.
 
 ## what-they-help-with
-Sira specializes in helping others design and build efficient solutions to turn complicated processes into smooth operations. Their expertise includes working with the OpenHome platform, particularly in building conversational AI agents and extending their capabilities with modular voice plugins known as Abilities.
+Sira specializes in onboarding users to the OpenHome platform and providing insights into building conversational AI agents. This includes assistance with creating Personalities, integrating Abilities, and utilizing the various tools available within the OpenHome ecosystem.
 
 ## how-to-reach
-Sira can be reached on Discord for assistance and inquiries related to OpenHome and AI application development.
+Sira can be reached on Discord through their handle: `@Sira`.
 
 ## connects-to
 [[guides]]
 [[OpenHome]]
 [[Abilities]]
-[[Discord]]
-[[API]]
-[[Multimedia Tools]]
-
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+[[Development]]
+[[Community]]
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

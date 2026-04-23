@@ -3,26 +3,26 @@
 title: OpenHome
 entity_type: platform
 status: live
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
-## what-it-is
+### what-it-is
 OpenHome is an open-source Voice AI platform that enables developers to create conversational AI agents known as Personalities, which can be enhanced with modular voice plugins called Abilities.
 
-## how-it-works
-The OpenHome platform allows users to build their AI agents, named Personalities, which can communicate using voice. Each Personality has a distinct voice and persona, and can be enriched with Abilities. Abilities are plugins that can provide new skills to the Personality, such as calling APIs, playing music, controlling smart devices, and more. These plugins are activated by specific hotwords during voice conversations, facilitating natural interactions. Developers can create and manage Personalities through the OpenHome Dashboard and explore community-driven Abilities on the platform's GitHub repository.
+### how-it-works
+OpenHome allows users to build and customize their own AI agents, referred to as Personalities, by defining their voice, persona, and conversational style. Users can add Abilities to these agents, integrating new skills such as API calls, music playback, quizzes, and device control. Abilities are activated through specific hotwords during voice interactions and execute custom logic using Python. The platform also features a developer dashboard for managing agents and a command-line interface (openhome-cli) for deployment and interaction, facilitating a streamlined development workflow that includes validation, deployment, and real-time communication with agents.
 
-## current-status
+### current-status
 live
 
-## connects-to
-- [[platform/speakers]]
-- [[platform/abilities]]
-- [[platform/dashboard]]
-- [[platform/voice-ai]]
-- [[platform/local-link]]
-- [[platform/marketplace]]
-- [[platform/live-editor]]
+### connects-to
+[[platform/speakers]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/voice-ai]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

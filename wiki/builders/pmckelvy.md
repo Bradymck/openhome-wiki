@@ -1,28 +1,30 @@
 ```markdown
 ---
-title: builders/pmckelvy
-entity_type: builder
+title: pmckelvy
+entity_type: builders
 status: live
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
-### who-they-are
-pmckelvy is an active participant in the OpenHome community, focusing on building reliable systems that connect different tools, such as APIs and databases. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools aimed at enhancing workflows and automation.
+## who-they-are
+pmckelvy is an active contributor within the OpenHome community, participating as both a developer and a user. They are focused on creating and enhancing voice AI agents on the OpenHome platform, which facilitates the development of conversational AIs and their integrations.
 
-### what-they-built
-pmckelvy has developed an ability called **Curiosity Queue**, which captures spontaneous questions as users converse. This ability allows users to ask about their curiosities later, providing structured responses to their inquiries without needing a trigger word.
+## what-they-built
+pmckelvy has shipped several abilities including but not limited to integration with smart home systems, and the development of community abilities that extend the functionalities of Personalities on the OpenHome platform.
 
-### grant-status
-Applied
+## grant-status
+none
 
-### how-to-reach
+## how-to-reach
 - Discord: @pmckelvy
-- GitHub: [pmckelvy](https://github.com/pmckelvy)
-- X: [@pmckelvy](https://x.com/pmckelvy)
+- GitHub: [pmckelvy GitHub](https://github.com/pmckelvy)
+- X: Not provided
 
 ## connects-to
-- [[abilities/Curiosity Queue]]
-- [[builders/openhome]]
-- [[abilities]]
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+- [[builders/]]
+- [[ability-integration]]
+- [[openhome-dev/abilities]]
+- [[openhome-dev/openhome-cli]]
+
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

@@ -1,25 +1,25 @@
-```yaml
-title: Local-First
-entity_type: concepts/local-first
-status: beta
-last_updated: 2026-04-22
-```
+```markdown
+---
+title: Local First
+entity_type: concepts
+status: stub
+last_updated: 2026-04-23
+---
 
-## definition
-Local-First refers to an architectural approach where applications prioritize local processing and storage, allowing users to access features and data without a constant internet connection. This model supports offline functionality, ensuring that users can interact with their applications seamlessly, even in scenarios with limited or no connectivity.
+### definition
+Local First is an approach to building applications that prioritize local data storage and processing. This concept emphasizes using local resources and capabilities, enabling seamless offline functionality and faster interactions.
 
-## why-it-matters
-In the context of OpenHome, Local-First is crucial because it enhances the reliability and responsiveness of voice AI interactions. By enabling devices to function independently of an internet connection, users experience a more robust and efficient system. This approach aligns with OpenHome's mission to provide intuitive and immersive interactions, making technology more accessible and user-friendly.
+### why-it-matters
+Local First is relevant to OpenHome as it enhances user experience by allowing devices to operate efficiently without always relying on internet connectivity. This capability is essential for voice AI applications, where responsiveness and real-time interaction are critical.
 
-## how-it-manifests
-Local-First can be observed in OpenHome's physical devkits, which are designed to operate fully offline while managing various tasks like controlling smart home devices, playing music, and interacting with AI. This design empowers developers and users to build and utilize capabilities that do not solely rely on cloud services, fostering a more decentralized and resilient environment for voice AI activities.
+### how-it-manifests
+In the OpenHome platform, Local First manifests through the use of local processing in smart devices, such as the V0.1 devkits, which operate fully locally to perform tasks like music playback and smart home control without needing constant internet access.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+<!-- synthesized: 2026-04-23T11:51:43Z -->
+```

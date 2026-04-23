@@ -3,23 +3,26 @@
 title: platform/marketplace
 entity_type: platform/marketplace
 status: stub
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
 ### what-it-is
-The OpenHome marketplace is a hub for users to explore, access, and integrate various abilities and skills designed for agents on the OpenHome platform. Users can contribute their own creations, fostering a community-driven environment for enhancing the capabilities of AI agents.
+OpenHome Marketplace is an open-source platform that facilitates the creation and distribution of voice AI applications and abilities. It serves as a hub for developers and users to access and share voice AI content, enhancing the capabilities of their AI agents.
 
 ### how-it-works
-The marketplace allows developers to create and share modular voice plugins known as Abilities. These Abilities can be easily integrated with conversational AI agents called Personalities. Users can browse through existing Abilities, fork examples, or submit their contributions to extend the functionality of OpenHome's voice AI applications. This collaborative space encourages innovation and experimentation among developers.
+The OpenHome Marketplace allows users to browse, download, and contribute various abilities that expand the functionality of their AI agents, referred to as Personalities. Developers can create and publish abilities, which are modular voice plugins capable of performing tasks such as playing music, controlling smart home devices, and interacting with APIs. Community contributions are encouraged, and users can fork existing abilities to modify and customize them for their needs. The marketplace integrates seamlessly with the OpenHome platform, facilitating easy deployment and management of abilities.
 
 ### current-status
 stub
 
 ### connects-to
 [[platform/openhome]]
+[[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
 [[platform/voice-ai]]
+[[platform/local-link]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

@@ -1,27 +1,29 @@
 ```markdown
 ---
-title: emperormidas
-entity_type: builders
-status: live
-last_updated: 2026-04-22
+title: builders/emperormidas
+entity_type: builder
+status: stub
+last_updated: 2026-04-23
 ---
 
 ### who-they-are
-EmperorMidas is a developer focused on creating reliable systems that connect various tools, such as APIs and databases, to address real-world problems at scale. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools aimed at improving workflows and automation. They actively contribute to the OpenHome community, participating in discussions, feedback sessions, and project development.
+Emperor Midas is a community builder involved in the OpenHome project, focusing on creating AI-powered voice applications. They contribute to the development of conversational AI agents known as Personalities, which can be extended with modular voice plugins called Abilities.
 
 ### what-they-built
-EmperorMidas has shipped an ability called **Curiosity Queue**. This innovative feature allows users to capture fleeting thoughts or questions during conversations without needing a trigger word. Users can simply ask "what am I curious about?" to retrieve a list of their curiosities and receive detailed explanations.
+While specific built abilities or integrations by Emperor Midas are not detailed, contributions to OpenHome include engaging with the development community, offering feedback, and possibly participating in the prototype and development of new Abilities for AI agents.
 
 ### grant-status
-applied
+none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: [Carlos Marcial](https://x.com/carlosmarcialt/status/2046573434650390575)
+Discord handle: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
 ### connects-to
-- [[abilities/Curiosity Queue]]
+[[OpenHome]]  
+[[Abilities]]  
+[[Personalities]]  
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

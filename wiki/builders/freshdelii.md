@@ -3,14 +3,14 @@
 title: builders/freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
 ### who-they-are
-Freshdelii is part of the OpenHome community, focusing on creating reliable systems that connect different tools like APIs and databases for automation and problem-solving.
+FreshDelii is a community builder in the OpenHome ecosystem focused on enhancing voice AI interactions and applications. They are involved in efforts to make AI-powered solutions more accessible to everyday users.
 
 ### what-they-built
-Freshdelii has shipped an ability named **Curiosity Queue**, which silently captures moments of curiosity during natural conversations, allowing users to revisit and explore those thoughts later.
+Details on specific abilities or integrations shipped by FreshDelii are currently unavailable. They are actively contributing to the OpenHome project and participating in community discussions to foster development.
 
 ### grant-status
 none
@@ -18,11 +18,17 @@ none
 ### how-to-reach
 - Discord handle: Not specified
 - GitHub: Not specified
-- X: [Carlos Marcial's post](https://x.com/carlosmarcialt/status/2046573434650390575)
+- X: Not specified
 
 ## connects-to
+[[builders]]
+[[openhome]]
+[[AI]]
+[[voice AI]]
+[[development]]
+[[community]]
 [[abilities]]
-[[Curiosity Queue]]
-[[OpenHome]]
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+[[integration]]
+
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

@@ -1,30 +1,29 @@
 ```markdown
 ---
-title: shoompa
-entity_type: builders
-status: live
-last_updated: 2026-04-22
+title: builders/shoompa
+entity_type: builder
+status: stub
+last_updated: 2026-04-23
 ---
 
-## who-they-are
-Shoompa is an active community builder within the OpenHome platform, focusing on creating reliable systems that connect APIs and databases to address real-world challenges. They are involved in innovative projects that enhance the functionality of AI agents.
+### who-they-are
+Shumpo is an active community builder involved in the OpenHome project, which focuses on creating open-source AI-powered voice applications. They are engaged in developing conversational AI agents and enhancing user interaction through modular voice plugins known as Abilities.
 
-## what-they-built
-Shoompa has shipped the "Curiosity Queue" ability, which captures moments of curiosity during conversations without the need for a trigger word. Users can later ask their AI agent to recall these moments and receive comprehensive explanations.
+### what-they-built
+Shumpo has contributed to the OpenHome platform but specific shipped abilities or integrations are not detailed in the available information.
 
-## grant-status
-applied
+### grant-status
+none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+Discord: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
-## connects-to
-[[builders/openhome]]
-[[abilities/curiosity-queue]]
-[[abilities/abilities]]
-[[abilities/developer-docs]]
-[[abilities/openhome-dashboard]]
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+### connects-to
+[[abilities]]  
+[[OpenHome]]  
+[[Voice AI]]  
+
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

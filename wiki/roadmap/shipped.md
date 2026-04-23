@@ -1,26 +1,27 @@
 ```yaml
-title: Roadmap - Shipped Features
+title: roadmap/shipped
 entity_type: roadmap
 status: live
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ```
 
 ## what-it-is
-OpenHome has introduced a new feature called **Curiosity Queue**, which captures spontaneous questions and curiosities that arise during conversations. This feature allows users to ask, "What am I curious about?" and receive a curated list of their inquiries along with detailed explanations.
+OpenHome has launched its **DevKit V0.1**, a cutting-edge smart speaker for developers, offering capabilities for local music playing, smart home integration, AI interaction, and more. Developers can build agents using the OpenClaw system or create their own agents utilizing the platform.
 
 ## status
-shipped
+Shipped
 
 ## why-it-matters
-Curiosity Queue enhances the interactivity and functionality of voice AI applications by allowing users to explore their thoughts more deeply without losing track of them. It supports natural conversation flow and encourages ongoing engagement with the AI.
+The DevKit represents a significant advancement in making AI-powered voice applications accessible to developers and is part of OpenHome's mission to enhance human-technology interaction. The initiative supports community engagement by providing resources and promoting developer projects.
 
 ## eta
-Released on April 22, 2026.
+Currently shipping in small batches.
 
 ## connects-to
-[[OpenHome]]  
-[[Voice AI]]  
-[[Abilities]]  
-[[Personalities]]  
+- [[OpenHome]]
+- [[Developer Docs]]
+- [[OpenHome Dashboard]]
+- [[GitHub]]
+- [[Community Abilities]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+<!-- synthesized: 2026-04-23T11:51:43Z -->

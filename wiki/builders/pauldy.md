@@ -3,26 +3,28 @@
 title: builders/pauldy
 entity_type: builders
 status: live
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
-## who-they-are
-Pauldy is a developer focusing on creating reliable systems that connect different tools like APIs and databases to solve real-world problems at scale. Their experience includes designing multi-agent setups, information retrieval pipelines, and multimedia tools aimed at improving workflows and automation.
+### who-they-are
+Pauldy is an active member of the OpenHome community, focusing on building innovative voice AI agents known as Personalities. He is involved in developing unique abilities and integrations for these agents within the OpenHome platform.
 
-## what-they-built
-Pauldy has shipped an ability called "Curiosity Queue," which captures spontaneous questions and curiosities during conversation, allowing users to retrieve them later for deeper exploration.
+### what-they-built
+Pauldy has contributed to the development of the Openhome CLI, which allows users to streamline their workflow for creating and deploying voice AI capabilities without extensive manual coding. This tool enhances the development experience by automating tasks such as error validation, deployment, and real-time interaction with AI agents. 
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
+### how-to-reach
+- Discord handle: Not specified
+- GitHub: [GitHub Profile](https://github.com/openhome-dev)
 - X: Not specified
 
-## connects-to
-[[builders]]
-[[abilities/curiosity-queue]]
+### connects-to
+- [[OpenHome]]
+- [[Abilities]]
+- [[Openhome CLI]]
+- [[Voice AI Agents]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

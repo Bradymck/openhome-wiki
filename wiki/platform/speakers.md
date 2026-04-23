@@ -1,21 +1,20 @@
-```markdown
----
-title: Speakers
+```yaml
+title: platform/speakers
 entity_type: platform
-status: live
-last_updated: 2026-04-22
----
+status: stub
+last_updated: 2026-04-23
+```
 
-### what-it-is
-OpenHome Speakers are cutting-edge smart speakers designed for a fully local AI experience that integrates music playback, smart home capabilities, and conversational AI.
+## what-it-is
+OpenHome's speakers are cutting-edge smart speakers designed to integrate seamlessly with the OpenHome Voice AI platform. These devices are capable of providing various functionalities, including music playback, smart home integration, and interaction with voice AI agents.
 
-### how-it-works
-OpenHome Speakers function as the hardware interface for the OpenHome platform, enabling users to interact with AI-driven agents known as Personalities. These speakers leverage modular plugins called Abilities to offer enhanced functionalities, such as controlling smart home devices, playing music, and more. Users can create and customize their own AI agents through the OpenHome Dashboard, and these agents use voice interactions to respond to user commands and queries.
+## how-it-works
+The speakers operate by enabling users to create and manage AI agents called Personalities. Each speaker can be extended with modular plugins known as Abilities, which empower the Personalities to perform specific tasks such as API calls, playing music, and controlling smart home devices. Users can interact with the speakers using voice commands, which trigger the respective Abilities during conversation. The entire development and deployment workflow can be managed via OpenHome's development tools, making it easier for developers to expand the capabilities of their speakers.
 
-### current-status
-live
+## current-status
+stub
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -24,5 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
-```
+<!-- synthesized: 2026-04-23T11:51:43Z -->

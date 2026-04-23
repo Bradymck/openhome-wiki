@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: "builders/bradymck"
-entity_type: builders
-status: live
-last_updated: 2026-04-22
+title: builders/bradymck
+entity_type: builder
+status: stub
+last_updated: 2026-04-23
 ---
 
 ### who-they-are
-Brady McK is an active community builder involved with the OpenHome platform, which focuses on creating AI-powered voice applications and conversational agents. With a background in designing reliable systems that connect different tools like APIs and databases, Brady aims to solve real-world problems at scale. Their experience includes developing multi-agent setups and information retrieval pipelines to enhance automation and workflows.
+Brady McK is an active member of the OpenHome community, contributing to the development of AI-powered voice applications. They are involved in initiatives that bridge technology and community engagement.
 
 ### what-they-built
-Brady has shipped the "Curiosity Queue" ability, which captures spontaneous curiosities during natural conversation. Users can ask "what am I curious about?" to retrieve a list of questions they've raised, complete with explanations that are easy to comprehend.
+Brady McK has been participating in the development of abilities within the OpenHome platform, specifically working on voice AI agents known as Personalities and their associated modular plugins called Abilities. They engage in creating innovative projects to extend the functionalities of AI agents.
 
 ### grant-status
-$1K
+none
 
 ### how-to-reach
-- Discord Handle: Not publicly listed
-- GitHub: [bradymck](https://github.com/bradymck)
-- X (formerly Twitter): Not publicly listed
+- Discord handle: [Not specified]
+- GitHub: [Not specified]
+- X: [Not specified]
 
 ### connects-to
-[[openhome]]
-[[abilities]]
-[[curiosity_queue]]
+[[openhome]]  
+[[abilities]]  
+[[voice_ai]]  
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

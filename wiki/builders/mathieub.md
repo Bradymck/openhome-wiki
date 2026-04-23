@@ -1,27 +1,30 @@
 ```markdown
 ---
-title: builders/mathieub
+title: mathieub
 entity_type: builders
 status: live
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
 ### who-they-are
-Mathieu is a community member focused on creating reliable systems that connect various tools like APIs and databases to address real-world problems at scale. Their work includes designing multi-agent setups, information retrieval pipelines, and multimedia tools to enhance workflows and automation.
+Mathieu is an active member of the OpenHome community, contributing to the development of AI-powered voice applications. He is involved in the creation of Personalities—conversational AI agents that extend functionality through modular plugins known as Abilities.
 
 ### what-they-built
-Mathieu has developed the "Curiosity Queue" ability, which allows users to capture interesting thoughts or questions during conversations without needing a trigger word. Users can then retrieve these captured curiosities on demand, receiving detailed breakdowns of their inquiries.
+Mathieu has contributed to the development of integrations and Abilities within the OpenHome platform, helping to enhance the capabilities of voice AI agents, including the utilization of the openhome-cli for seamless development workflows.
 
 ### grant-status
 applied
 
 ### how-to-reach
-- Discord: (Handle not specified)
-- GitHub: [mathieub](https://github.com/mathieub)
-- X: (Handle not specified)
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-- [[abilities/Curiosity Queue]]
+### connects-to
+[[builders]]
+[[OpenHome]]
+[[Abilities]]
+[[openhome-cli]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

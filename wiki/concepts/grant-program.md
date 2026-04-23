@@ -1,19 +1,18 @@
-```markdown
----
+```yaml
 title: Grant Program
-entity_type: concepts
+entity_type: concepts/grant-program
 status: live
-last_updated: 2026-04-22
----
+last_updated: 2026-04-23
+```
 
 ## definition
-The Grant Program within OpenHome is an initiative designed to support developers and contributors by providing financial resources and physical development kits. These grants aim to foster innovation and enhance the platform through community-driven contributions.
+The Grant Program is an initiative by OpenHome that provides support, resources, and funding to developers and creators who contribute valuable projects or feedback to the OpenHome platform. This program aims to incentivize innovation within the community.
 
 ## why-it-matters
-The Grant Program is significant to OpenHome as it encourages participation, rewards creativity, and accelerates the development of new features or capabilities. By incentivizing developers to create or improve upon existing applications and skills, OpenHome strengthens its ecosystem and ensures a vibrant community of contributors.
+The Grant Program is significant to OpenHome as it fosters community engagement and encourages developers to build and share new functionalities. By offering grants, OpenHome promotes a vibrant ecosystem where users can experiment, create, and enhance their conversational AI agents, thereby pushing the boundaries of what the platform can achieve.
 
 ## how-it-manifests
-The Grant Program is manifested through the distribution of physical development kits, like the V0.1 devkits, to those who make valuable contributions and provide feedback. Developers who are active in the community can receive additional grant funding to support their ongoing projects, reinforcing their engagement with the OpenHome platform.
+The Grant Program manifests through several methods, including the distribution of physical development kits (DevKits) to top contributors, opportunities for project promotion, and additional budgetary support for innovative ideas. Participants can gain priority access to resources by contributing to the platform or providing valuable feedback.
 
 ## connects-to
 - [[concepts/abilities-as-apps]]
@@ -23,5 +22,4 @@ The Grant Program is manifested through the distribution of physical development
 - [[concepts/dead-mans-switch]]
 - [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
-```
+<!-- synthesized: 2026-04-23T11:51:43Z -->

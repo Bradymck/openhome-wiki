@@ -1,25 +1,27 @@
-```yaml
-title: Web3 Native
-entity_type: concepts
-status: planned
-last_updated: 2026-04-22
-```
+```markdown
+---
+title: web3-native
+entity_type: concepts/
+status: stub
+last_updated: 2026-04-23
+---
 
 ## definition
-Web3 Native refers to applications, services, and systems that are built specifically to operate within the decentralized web, leveraging blockchain technology and its principles, such as decentralization, transparency, and user ownership. This concept signifies a shift away from traditional, centralized digital interactions towards more user-controlled environments.
+Web3-native refers to applications, platforms, and services built on blockchain technology which leverage decentralized, permissionless, and user-owned infrastructures. This concept encapsulates the principles of Web3, where users have more control over their data and digital assets.
 
 ## why-it-matters
-In the context of OpenHome, being Web3 Native ensures that the platform aligns with contemporary trends towards user empowerment and data sovereignty. By adopting Web3 principles, OpenHome can enhance its appeals, such as user privacy, security, and the ability to create decentralized applications that provide distinct advantages over traditional web applications.
+Web3-native applications align with OpenHome's vision of decentralization and user empowerment. By incorporating Web3 principles, OpenHome can enhance user autonomy and facilitate trust through transparency and community-driven governance.
 
 ## how-it-manifests
-OpenHome may integrate Web3 Native features through decentralized identity systems, smart contracts for transactions and agreements, and blockchain-based storage solutions that allow users to manage their data securely. Features such as token-based economies or community governance could also be utilized to foster user engagement and participation within the OpenHome ecosystem.
+In the OpenHome platform, web3-native features may include decentralized identity verification for users, smart contracts that govern the interactions between agents and users, and handling of digital assets such as tokens for rewards or functionality transactions within the OpenHome ecosystem.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+<!-- synthesized: 2026-04-23T11:51:43Z -->
+```

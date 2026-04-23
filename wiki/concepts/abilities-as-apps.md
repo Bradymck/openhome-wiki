@@ -3,25 +3,25 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-04-22
+last_updated: 2026-04-23
 ---
 
 ### definition
-Abilities as Apps refer to modular voice plugins that extend the functionality of conversational AI agents (referred to as Personalities) on the OpenHome platform. These plugins enable Personalities to perform various tasks, such as calling APIs, playing music, or controlling smart home devices.
+Abilities-as-apps refer to modular voice plugins within the OpenHome platform that extend the functionality of AI agents, known as Personalities. Each Ability is designed to provide specific skills or features, such as playing music, controlling smart home devices, or accessing APIs.
 
 ### why-it-matters
-This concept is crucial for OpenHome as it allows developers to create versatile and customizable AI applications that can adapt to users' specific needs and preferences. By promoting a modular approach, OpenHome encourages innovation and collaboration within its developer community, facilitating the rapid development of new functionalities.
+This concept is foundational to OpenHome's mission of creating highly customizable and interactive voice AI applications. By enabling users to build and share abilities easily, OpenHome fosters innovation and enhances user engagement with technology, making voice-first interactions more versatile and accessible.
 
 ### how-it-manifests
-In the OpenHome platform, Abilities are integrated into Personalities, allowing them to be triggered during voice interactions using specific hotwords. Developers can easily create and share their own Abilities through the OpenHome Dashboard and GitHub repositories, fostering an expanding ecosystem of voice applications.
+Abilities can be triggered during voice conversations through specific hotwords, allowing them to run custom logic written in Python. Developers can create, prototype, and deploy these Abilities through a streamlined process that integrates with the OpenHome ecosystem, enhancing the capabilities of Personalities.
 
 ### connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```

@@ -1,28 +1,30 @@
 ```markdown
 ---
-title: illectric-co
-entity_type: builders/
-status: live
-last_updated: 2026-04-22
+title: builders/illectric-co
+entity_type: builders
+status: stub
+last_updated: 2026-04-23
 ---
 
 ## who-they-are
-illectric-co is part of the OpenHome community, focused on building and enhancing voice AI capabilities. They are dedicated to creating engaging and functional integrations for the OpenHome platform, which enables users to develop conversational AI agents known as Personalities.
+Illectric Co is involved in developing voice AI agents through the OpenHome platform. They focus on enhancing user interaction with technology by creating customized conversational AI agents known as Personalities.
 
 ## what-they-built
-illectric-co has developed the "Curiosity Queue" ability, a plugin that captures spontaneous inquiries during conversations without needing a trigger word. It allows users to review their curiosities by asking, "what am I curious about?" and provides detailed breakdowns for each inquiry. This functionality aims to enhance user interaction with voice AI by retaining natural dialogue flow and addressing user questions effectively.
+While specific shipped abilities or integrations by Illectric Co are not detailed, they are actively engaging with the OpenHome community, which features modular voice plugins (Abilities) designed to enhance AI agents' capabilities. They contribute to the development of this open-source platform by providing feedback and possibly prototyping new features.
 
 ## grant-status
 None
 
 ## how-to-reach
-- Discord handle: N/A
-- GitHub: [illectric-co GitHub](https://github.com/openhome-dev/abilities/tree/dev)
-- X: N/A
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/]]
-[[abilities/curiosity-queue]]
-[[openhome/]]
-<!-- synthesized: 2026-04-22T11:50:10Z -->
+[[builders/openhome]]
+[[abilities/personalities]]
+[[abilities/voice-ai]]
+[[abilities/modular-voice-plugins]]
+
+<!-- synthesized: 2026-04-23T11:51:43Z -->
 ```
