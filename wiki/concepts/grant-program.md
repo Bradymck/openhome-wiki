@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: Grant Program
-entity_type: concepts/grant-program
-status: live
-last_updated: 2026-04-23
-```
+entity_type: concepts/
+status: beta
+last_updated: 2026-04-24
+---
 
 ## definition
-The Grant Program is an initiative by OpenHome that provides support, resources, and funding to developers and creators who contribute valuable projects or feedback to the OpenHome platform. This program aims to incentivize innovation within the community.
+A grant program within OpenHome is a financial support initiative designed to encourage development and innovation among community members and developers. It typically allocates funds, resources, or materials to contributors who demonstrate exceptional project ideas or provide valuable feedback.
 
 ## why-it-matters
-The Grant Program is significant to OpenHome as it fosters community engagement and encourages developers to build and share new functionalities. By offering grants, OpenHome promotes a vibrant ecosystem where users can experiment, create, and enhance their conversational AI agents, thereby pushing the boundaries of what the platform can achieve.
+The grant program is crucial for fostering community engagement and innovation within the OpenHome platform. By supplying developers with resources to advance their projects, it enhances the overall ecosystem, encourages collaboration, and promotes the development of creative solutions that leverage OpenHome's voice AI capabilities.
 
 ## how-it-manifests
-The Grant Program manifests through several methods, including the distribution of physical development kits (DevKits) to top contributors, opportunities for project promotion, and additional budgetary support for innovative ideas. Participants can gain priority access to resources by contributing to the platform or providing valuable feedback.
+In OpenHome, the grant program manifests through initiatives like awarding physical devkits to developers who contribute significantly to the platform. It also involves promoting projects from grant recipients, sharing budget allocations for further development, and providing support to help turn innovative ideas into reality.
 
 ## connects-to
 - [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ The Grant Program manifests through several methods, including the distribution 
 - [[concepts/dead-mans-switch]]
 - [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
+<!-- synthesized: 2026-04-24T11:51:05Z -->
+```

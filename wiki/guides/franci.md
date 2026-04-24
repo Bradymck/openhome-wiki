@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: Franci
-entity_type: guides/
+title: guides/franci
+entity_type: guides
 status: live
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 ---
 
-### who-they-are
-Franci is a community guide involved with OpenHome, an open-source Voice AI platform. They have expertise in the development of conversational AI agents, known as Personalities, and the extension of these agents with modular voice plugins called Abilities.
+## who-they-are
+Franci is an experienced AI developer with hands-on experience in building AI-driven systems, automation workflows, and production-ready software. They are deeply passionate about AI and are motivated to work on meaningful products that require strong engineering and practical execution.
 
-### what-they-help-with
-Franci specializes in assisting users with building and deploying AI agents on the OpenHome platform. This includes creating Personalities, integrating various Abilities, and navigating development tools like the OpenHome CLI. They provide insight into effective practices for contributors who are developing new features and engaging with the community to enhance the overall user experience.
+## what-they-help-with
+Franci specializes in developing and deploying AI conversational agents known as Personalities within the OpenHome platform. They are proficient with the OpenHome CLI, which allows for efficient workflows in creating and testing abilities. They can assist with tasks related to AI development, including creating abilities, troubleshooting API issues, and providing guidance on project collaborations.
 
-### how-to-reach
-Franci can be contacted through their Discord handle. 
+## how-to-reach
+Franci can be reached on Discord under the handle <@482444270687748106>.
 
-### connects-to
+## connects-to
 [[guides/openhome]]
-[[guides/getting-started]]
-[[github/openhome-dev]]
-[[github/openhome-dev/abilities]]
-[[github/openhome-dev/openhome-cli]]
+[[guides/abilities]]
+[[guides/developer-docs]]
+[[guides/community-collaboration]]
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
+<!-- synthesized: 2026-04-24T11:51:05Z -->
 ```

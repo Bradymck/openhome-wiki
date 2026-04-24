@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: web3-native
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-04-23
----
+last_updated: 2026-04-24
+```
 
 ## definition
-Web3-native refers to applications, platforms, and services built on blockchain technology which leverage decentralized, permissionless, and user-owned infrastructures. This concept encapsulates the principles of Web3, where users have more control over their data and digital assets.
+Web3-native refers to applications, services, and platforms built on decentralized and blockchain technologies, which prioritize user empowerment, ownership, and interoperability.
 
 ## why-it-matters
-Web3-native applications align with OpenHome's vision of decentralization and user empowerment. By incorporating Web3 principles, OpenHome can enhance user autonomy and facilitate trust through transparency and community-driven governance.
+In the context of OpenHome, being web3-native signifies a commitment to decentralization, allowing users to maintain control over their data and interactions. This aligns with OpenHome's mission to enhance user agency in technology.
 
 ## how-it-manifests
-In the OpenHome platform, web3-native features may include decentralized identity verification for users, smart contracts that govern the interactions between agents and users, and handling of digital assets such as tokens for rewards or functionality transactions within the OpenHome ecosystem.
+This concept may appear within OpenHome through the integration of decentralized protocols for data storage, identity management, and peer-to-peer interactions among AI agents. This could lead to a more resilient ecosystem that aligns with user privacy and control.
 
 ## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
-```
+<!-- synthesized: 2026-04-24T11:51:05Z -->

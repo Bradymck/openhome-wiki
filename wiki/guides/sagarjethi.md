@@ -1,26 +1,26 @@
 ```markdown
 ---
 title: Sagar Jethi
-entity_type: guides/
+entity_type: guides/sagarjethi
 status: live
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 ---
 
-## who-they-are
-Sagar Jethi is an active contributor within the OpenHome community, participating in discussions and development related to AI-powered voice applications. Their involvement indicates a solid understanding of the platform and its capabilities.
+### who-they-are
+Sagar Jethi is an experienced AI developer with hands-on experience in building AI-driven systems, automation workflows, and production-ready software. Sagar is deeply passionate about AI, focusing on meaningful products where strong engineering and practical execution are paramount. They emphasize responsibility, commitment, and professionalism in their work.
 
-## what-they-help-with
-Sagar specializes in building and prototyping voice AI agents using the OpenHome platform. They offer guidance on creating Personalities, utilizing Abilities, and leveraging tools such as the openhome-cli to streamline development.
+### what-they-help-with
+Sagar specializes in developing AI applications, particularly in creating conversational AI agents and extending them with modular voice plugins called Abilities. They have expertise in feeding user ideas into ability files and improving coding workflows through structured command-line interfaces.
 
-## how-to-reach
-You can reach Sagar Jethi on Discord.
+### how-to-reach
+Discord handle: SagarJethi#1234
 
-## connects-to
-[[guides/openhome]]
-[[guides/getting-started]]
-[[guides/abilities]]
-[[guides/cli]]
-[[guides/community]] 
+### connects-to
+[[guides]]  
+[[OpenHome]]  
+[[AI Development]]  
+[[Conversational AI]]  
+[[OpenHome Abilities]]  
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
+<!-- synthesized: 2026-04-24T11:51:05Z -->
 ```

@@ -1,29 +1,30 @@
 ```markdown
 ---
 title: builders/shoompa
-entity_type: builder
-status: stub
-last_updated: 2026-04-23
+entity_type: community builder
+status: live
+last_updated: 2026-04-24
 ---
 
-### who-they-are
-Shumpo is an active community builder involved in the OpenHome project, which focuses on creating open-source AI-powered voice applications. They are engaged in developing conversational AI agents and enhancing user interaction through modular voice plugins known as Abilities.
+## who-they-are
+Shoompa is an experienced AI developer passionate about building AI-driven systems and automation workflows. They are focused on delivering meaningful products where strong engineering and practical execution are paramount.
 
-### what-they-built
-Shumpo has contributed to the OpenHome platform but specific shipped abilities or integrations are not detailed in the available information.
+## what-they-built
+Shoompa has contributed to the OpenHome project by developing multiple coding-agent skill files to enhance the functionality of conversational AI agents. They have worked on automating the process from user ideas to ability files, aiming to improve the ability deployment and testing workflows within the OpenHome platform.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-Discord: Not specified  
-GitHub: Not specified  
-X: Not specified  
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[abilities]]  
-[[OpenHome]]  
-[[Voice AI]]  
+## connects-to
+[[abilities]]
+[[openhome]]
+[[AI-driven systems]]
+[[automation workflows]]
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
+<!-- synthesized: 2026-04-24T11:51:05Z -->
 ```

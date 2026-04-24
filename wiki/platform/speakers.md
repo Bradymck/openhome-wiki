@@ -1,20 +1,20 @@
 ```yaml
 title: platform/speakers
 entity_type: platform
-status: stub
-last_updated: 2026-04-23
+status: live
+last_updated: 2026-04-24
 ```
 
-## what-it-is
-OpenHome's speakers are cutting-edge smart speakers designed to integrate seamlessly with the OpenHome Voice AI platform. These devices are capable of providing various functionalities, including music playback, smart home integration, and interaction with voice AI agents.
+### what-it-is
+The OpenHome speakers are advanced smart speakers designed to support the OpenHome voice AI platform. They serve as physical interfaces for users to interact with AI agents, called Personalities, that can execute a wide range of tasks through voice commands.
 
-## how-it-works
-The speakers operate by enabling users to create and manage AI agents called Personalities. Each speaker can be extended with modular plugins known as Abilities, which empower the Personalities to perform specific tasks such as API calls, playing music, and controlling smart home devices. Users can interact with the speakers using voice commands, which trigger the respective Abilities during conversation. The entire development and deployment workflow can be managed via OpenHome's development tools, making it easier for developers to expand the capabilities of their speakers.
+### how-it-works
+OpenHome speakers leverage a modular plugin architecture where users can create and extend their AI agents with various Abilities. These speakers communicate with the OpenHome platform to manage voice interactions, enabling users to not only play music and control smart home devices but also run conversational AI applications seamlessly. The speakers trigger Abilities based on voice commands and hotwords, providing an intuitive voice-first experience. Additionally, developers can enhance the functionality of these speakers by creating custom Abilities using scripts and Python code.
 
-## current-status
-stub
+### current-status
+live
 
-## connects-to
+### connects-to
 [[platform/openhome]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -23,4 +23,4 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
+<!-- synthesized: 2026-04-24T11:51:05Z -->

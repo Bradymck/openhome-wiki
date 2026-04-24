@@ -1,25 +1,27 @@
-```yaml
-title: Spatial Intelligence
+```markdown
+---
+title: concepts/spatial-intelligence
 entity_type: concepts
-status: stub
-last_updated: 2026-04-23
-```
+status: live
+last_updated: 2026-04-24
+---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and understand how objects are situated in space. It involves recognizing patterns, distances, directions, and how space can be used effectively.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and understand the spatial orientation of objects in the environment. It enables users to interact with technology in a manner that reflects real-world physical interactions and relationships.
 
 ## why-it-matters
-Spatial intelligence is significant for OpenHome as it enhances the way users interact with their voice AI agents and physical environments. By integrating spatial awareness, OpenHome can create more intuitive and context-aware interactions, allowing agents to perform actions based on their understanding of the physical space around them.
+In the context of OpenHome, spatial intelligence enhances the user experience by allowing voice agents to perceive and respond to spatial cues within a user's environment. This capability makes interactions with technology more intuitive and aligned with how users naturally navigate and engage with their surroundings.
 
 ## how-it-manifests
-While details are sparse, spatial intelligence could appear in OpenHome through features that involve positioning of devices, understanding user location within a space, or the management of multiple devices in a home environment. This could enhance functionalities like device automation based on user location or managing home layouts for more effective control and interaction.
+Spatial intelligence manifests within the OpenHome platform through the design and functionality of voice agents that can interpret spatial commands and actions. This includes the ability to manage smart home devices based on their physical layout and respond to user instructions that involve movement or location within the home.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/grant-program]]
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
+<!-- synthesized: 2026-04-24T11:51:05Z -->
+```

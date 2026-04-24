@@ -1,26 +1,26 @@
 ```markdown
 ---
-title: "Samuel35"
-entity_type: "guides/"
-status: "live"
-last_updated: "2026-04-23"
+title: guides/samuel35
+entity_type: Community Guide
+status: live
+last_updated: 2026-04-24
 ---
 
 ## who-they-are
-Samuel35 is a Community Guide contributing to the OpenHome project, which is focused on developing voice AI applications. His expertise lies in OpenHome's voice AI technology and community engagement.
+Samuel35 is an experienced AI developer with a strong background in creating AI-driven systems and automation workflows. He exhibits a deep passion for artificial intelligence and is committed to producing meaningful products through strong engineering and practical execution.
 
 ## what-they-help-with
-Samuel35 specializes in onboarding new users to the OpenHome platform, providing guidance on building conversational AI agents referred to as Personalities. He aids in understanding how to enhance these agents with Abilities, which are modular plugins that extend their capabilities.
+Samuel35 specializes in building conversational AI agents, extending them with modular voice plugins (Abilities). He is knowledgeable about using OpenHome’s platform to create and manage Voice AI applications. His expertise includes working with development tools like the OpenHome CLI and utilizing APIs for various functionalities.
 
 ## how-to-reach
-You can reach Samuel35 on Discord.
+You can connect with Samuel35 via Discord.
 
 ## connects-to
-[[guides/openhome]]
-[[guides/abilities]]
-[[guides/personality]]
-[[guides/sdk]]
-[[guides/devkit]]
+[[OpenHome]]
+[[Voice AI]]
+[[AI Development]]
+[[Discord]]
+[[Community Guides]]
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
+<!-- synthesized: 2026-04-24T11:51:05Z -->
 ```

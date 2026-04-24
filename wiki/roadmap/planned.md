@@ -1,26 +1,29 @@
-```yaml
+```markdown
+---
 title: Roadmap
 entity_type: roadmap/planned
 status: live
-last_updated: 2026-04-23
-```
+last_updated: 2026-04-24
+---
 
 ## what-it-is
-OpenHome is an open-source Voice AI platform that allows users to build conversational AI agents, known as Personalities, and extend them with Abilities—modular voice plugins that enhance functionality.
+The OpenHome roadmap includes the ongoing development and distribution of a physical V0.1 devkit for building AI-driven voice applications and agents on the OpenHome platform. These devkits function as smart speakers and include a variety of abilities for interacting with voice AI.
 
 ## status
-In-progress and shipped.
+Shipped
 
 ## why-it-matters
-The OpenHome platform aims to revolutionize interactions with technology by making AI-powered, voice-first applications accessible to everyone. By providing tools such as physical devkits and comprehensive documentation, OpenHome encourages community contributions and innovation.
+This initiative aims to enhance the accessibility of voice AI development by providing cutting-edge hardware to developers, thereby encouraging innovation and collaboration within the OpenHome community.
 
 ## eta
-Global shipping of physical V0.1 devkits is ongoing in small batches. The exact timeline for future features and updates is currently unspecified.
+Ongoing shipping globally in small batches.
 
 ## connects-to
 [[OpenHome]]
+[[DevKit]]
+[[Voice AI]]
 [[Abilities]]
-[[Personalities]]
-[[openhome-cli]]
+[[OpenHome Dashboard]]
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
+<!-- synthesized: 2026-04-24T11:51:05Z -->
+```

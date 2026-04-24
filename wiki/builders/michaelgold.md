@@ -3,27 +3,29 @@
 title: builders/michaelgold
 entity_type: builder
 status: live
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 ---
 
 ## who-they-are
-Michael Gold is a community builder actively involved in the OpenHome platform, focusing on developing conversational AI agents and enhancing voice-first applications. Michael is engaged in creating innovative solutions that revolutionize user interactions with technology, making AI-powered tools accessible and effective.
+Michael Gold is an experienced AI developer focused on building AI-driven systems and automation workflows. He is passionate about AI and is committed to working on meaningful projects where engineering and practical execution are vital. Michael is currently seeking full-time opportunities and is eager to collaborate on active projects, new products, or growing teams.
 
 ## what-they-built
-Michael has contributed to the OpenHome ecosystem by building and promoting various abilities and integrations within the platform. Notable among these is the development of tools that enhance the ease of building and deploying AI agents, including the openhome-cli, which automates the workflow for creating voice applications. These tools enable users to seamlessly communicate with and manage their AI agents, showcasing the capabilities of the OpenHome platform.
+Michael has contributed to the development of AI-driven abilities for the OpenHome platform. He created CLI skills that allow users to autonomously build, test, and improve abilities, enhancing the workflow for voice AI agents. His contributions include prototyping abilities and engaging with the community to share ideas and improvements.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: [Michael Gold's GitHub](https://github.com/openhome-dev)
+- Discord Handle: Not specified
+- GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-- [[builders/openhome]]
-- [[abilities/openhome-cli]]
-- [[abilities/community]]
+[[builders/openhome]]
+[[builders/claude]]
+[[technology/voice_ai]]
+[[technology/automation]]
+[[technology/ai_development]]
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
+<!-- synthesized: 2026-04-24T11:51:05Z -->
 ```

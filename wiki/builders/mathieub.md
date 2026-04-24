@@ -1,22 +1,22 @@
 ```markdown
 ---
-title: mathieub
-entity_type: builders
+title: builders/mathieub
+entity_type: builder
 status: live
-last_updated: 2026-04-23
+last_updated: 2026-04-24
 ---
 
 ### who-they-are
-Mathieu is an active member of the OpenHome community, contributing to the development of AI-powered voice applications. He is involved in the creation of Personalities—conversational AI agents that extend functionality through modular plugins known as Abilities.
+Mathieub is an experienced AI developer with hands-on experience in building AI-driven systems, automation workflows, and production-ready software. He is passionate about AI and is motivated to work on meaningful products that require strong engineering and practical execution.
 
 ### what-they-built
-Mathieu has contributed to the development of integrations and Abilities within the OpenHome platform, helping to enhance the capabilities of voice AI agents, including the utilization of the openhome-cli for seamless development workflows.
+Mathieub has contributed by creating coding-agent skill files that enhance the interaction capabilities of AI agents on the OpenHome platform. He is actively involved in building abilities and integrating workflows with OpenHome’s CLI tools, enabling developers to prototype and deploy abilities more efficiently.
 
 ### grant-status
-applied
+none
 
 ### how-to-reach
-- Discord handle: Not specified
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
@@ -24,7 +24,8 @@ applied
 [[builders]]
 [[OpenHome]]
 [[Abilities]]
+[[Personalities]]
 [[openhome-cli]]
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
+<!-- synthesized: 2026-04-24T11:51:05Z -->
 ```

@@ -1,27 +1,29 @@
 ```markdown
 ---
-title: builders/jagatfx
+title: Builders Jagatfx
 entity_type: builders
-status: stub
-last_updated: 2026-04-23
+status: live
+last_updated: 2026-04-24
 ---
 
 ### who-they-are
-Jagatfx is an active community builder involved in the OpenHome project. OpenHome is an open-source voice AI platform focused on enabling developers to create conversational AI agents, known as Personalities.
+Jagatfx is an experienced AI developer passionate about building AI-driven systems, automation workflows, and production-ready software. They are committed to delivering meaningful products and are known for their strength in responsibility, communication, and collaboration within development teams.
 
 ### what-they-built
-Jagatfx has contributed to the OpenHome ecosystem but specific abilities or integrations they have shipped are not documented in the available data.
+Jagatfx has worked on creating coding-agent skill files using the openhome-cli platform. Their contributions have involved developing a structured approach for agents to autonomously create, test, and improve abilities, emphasizing streamlined deployment and debugging processes.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: @Jagatfx
+- GitHub: [Jagatfx GitHub](https://github.com/jagatfx)
+- X: [Jagatfx X](https://x.com/jagatfx)
 
 ### connects-to
-[[OpenHome]], [[Personalities]], [[Abilities]], [[OpenHome Dashboard]], [[openhome-cli]]
+[[openhome]]
+[[openhome-cli]]
+[[abilities]]
 
-<!-- synthesized: 2026-04-23T11:51:43Z -->
+<!-- synthesized: 2026-04-24T11:51:05Z -->
 ```
