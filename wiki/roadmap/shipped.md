@@ -3,28 +3,28 @@
 title: roadmap/shipped
 entity_type: roadmap
 status: live
-last_updated: 2026-04-24
+last_updated: 2026-04-25
 ---
 
 ## what-it-is
-OpenHome is an open-source Voice AI platform that allows developers to build conversational AI agents called Personalities, enhanced with modular voice plugins known as Abilities. A significant feature recently shipped is the availability of physical V0.1 development kits (DevKits) that facilitate building and testing of these agents.
+As of April 2026, OpenHome has officially launched the physical V0.1 development kits for building AI agents using the OpenClaw platform. These kits are advanced smart speakers designed for local use, enabling functionalities such as music playback, smart home control, and conversational AI interactions.
 
 ## status
 shipped
 
 ## why-it-matters
-OpenHome aims to revolutionize technology interaction through accessible voice-first applications. The introduction of DevKits supported by the open-source platform encourages developer engagement and innovation, allowing them to create and prototype their AI-driven projects with valuable real-world applications.
+The launch of physical development kits allows developers and users to create and prototype their own AI-driven voice applications. By providing fully equipped hardware, OpenHome aims to encourage innovation and simplify the development process for conversational AI agents.
 
 ## eta
-The shipping of DevKits is ongoing in small batches as of now, with no specific end date defined.
+Shipped in April 2026
 
 ## connects-to
 [[OpenHome]]
-[[Voice AI]]
+[[OpenClaw]]
 [[Abilities]]
-[[Personalities]]
 [[Developer Docs]]
-[[openhome-cli]]
+[[DevKit Companion]]
+[[GitHub]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

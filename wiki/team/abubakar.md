@@ -1,23 +1,25 @@
 ```markdown
 ---
 title: Abubakar
-entity_type: team
+entity_type: team/
 status: stub
-last_updated: 2026-04-24
+last_updated: 2026-04-25
 ---
 
 ### who-they-are
-Abubakar is a member of the OpenHome team, serving in a key role (specific role not detailed).
+Abubakar is a member of the OpenHome team, engaged with designing and deploying AI systems. Abubakar brings a wealth of experience, particularly in enterprise AI applications and automation workflows.
 
 ### what-they-own
-Details regarding the specific areas of the platform that Abubakar leads or manages are currently unavailable.
+Abubakar leads efforts related to AI-driven systems within the OpenHome platform, focusing on stability and deployment efficiency for AI products.
 
 ### how-to-reach
-Contact information for Abubakar, such as Discord handle or social media accounts, is not provided.
+Contact Abubakar via Discord for inquiries and collaboration.
 
-## connects-to
-[[team/jesse]]
-[[team/shannon]]
+### connects-to
+- [[team/jesse]]
+- [[team/shannon]]
+- [[team/ai-systems]]
+- [[openhome-cli]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

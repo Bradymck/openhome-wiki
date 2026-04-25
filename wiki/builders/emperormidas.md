@@ -1,27 +1,27 @@
-```markdown
----
-title: builders/emperormidas
-entity_type: builder
-status: stub
-last_updated: 2026-04-24
----
+```yaml
+title: Emperormidas
+entity_type: builders
+status: live
+last_updated: 2026-04-25
+```
 
-### who-they-are
-Emperormidas is an experienced AI developer with a strong background in AI-driven systems, automation workflows, and production-ready software. They are passionate about creating meaningful AI products and are known for their commitment to responsibility, collaboration, and professional execution. They are currently open to full-time opportunities and collaboration on active projects.
+## who-they-are
+Emperormidas is an experienced AI developer with expertise in building AI-driven systems and automation workflows. They have a strong background in deploying enterprise AI systems and have significant experience with large-scale data pipelines and scalable infrastructure.
 
-### what-they-built
-Details about specific abilities or integrations built by Emperormidas are not available at this time.
+## what-they-built
+Emperormidas has contributed to the development of the OpenHome platform, focusing on building tools and abilities that enhance interactive voice applications. Their work includes developing an open-source tool that simplifies the connection to devkit devices.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not available
-- GitHub: Not available
-- X: Not available
+## how-to-reach
+- Discord: [@emperormidas](https://discord.com)
+- GitHub: [emperormidas](https://github.com/emperormidas)
+- X: [@emperormidas](https://x.com/emperormidas)
 
-### connects-to
+## connects-to
 [[builders]]
+[[OpenHome]]
+[[abilities]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
-```
+<!-- synthesized: 2026-04-25T11:30:04Z -->

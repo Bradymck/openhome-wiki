@@ -3,29 +3,31 @@
 title: builders/michaelgold
 entity_type: builder
 status: live
-last_updated: 2026-04-24
+last_updated: 2026-04-25
 ---
 
 ## who-they-are
-Michael Gold is an experienced AI developer focused on building AI-driven systems and automation workflows. He is passionate about AI and is committed to working on meaningful projects where engineering and practical execution are vital. Michael is currently seeking full-time opportunities and is eager to collaborate on active projects, new products, or growing teams.
+Michael Gold is an experienced AI developer with a decade of background in designing and deploying enterprise AI systems. He has hands-on expertise in building AI-driven systems and automation workflows. His focus is on creating AI products that are reliable, cost-effective, and ready for end-users. He has developed an MLOps framework that significantly reduced model deployment cycles and is committed to producing meaningful products through responsible engineering and effective communication.
 
 ## what-they-built
-Michael has contributed to the development of AI-driven abilities for the OpenHome platform. He created CLI skills that allow users to autonomously build, test, and improve abilities, enhancing the workflow for voice AI agents. His contributions include prototyping abilities and engaging with the community to share ideas and improvements.
+Michael has contributed to the development of various tools and systems within the OpenHome community. He is involved in building AI agents with abilities that allow for voice interactions, and he utilizes the openhome-cli tool, which automates the ability-building process using a conversational interface. He is also known for prototyping coding-agent skill files that leverage command-line interface (CLI) commands for creating and testing abilities.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord Handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: @michaelgold
+- GitHub: [michaelgold](https://github.com/michaelgold)
+- X: [@michaelgold](https://x.com/michaelgold)
 
 ## connects-to
-[[builders/openhome]]
-[[builders/claude]]
-[[technology/voice_ai]]
-[[technology/automation]]
-[[technology/ai_development]]
+[[builders]]
+[[openhome]]
+[[abilities]]
+[[devkit]]
+[[AI-driven systems]]
+[[MLOps]]
+[[openhome-cli]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

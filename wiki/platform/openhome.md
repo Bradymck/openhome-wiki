@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: OpenHome Platform
+title: OpenHome
 entity_type: platform
 status: live
-last_updated: 2026-04-24
+last_updated: 2026-04-25
 ---
 
-## what-it-is
-OpenHome is an open-source Voice AI platform designed to enable developers to create conversational AI agents known as Personalities, which can be enhanced with modular plugins called Abilities.
+### what-it-is
+OpenHome is an open-source Voice AI platform designed to empower users to build conversational AI agents, known as Personalities, and extend them with modular capabilities called Abilities.
 
-## how-it-works
-OpenHome allows users to build and customize AI agents that interact through voice. Developers create Personalities by setting up an AI agent with a specific name, voice, and persona, then add Abilities to enrich the agent's capabilities. Abilities are modular voice plugins that enable functionalities such as calling APIs, playing music, or controlling smart home devices. These Abilities are activated by specific hotwords during voice interactions and can execute custom logic in Python. The platform also supports a workflow through a command-line interface (CLI) for validating, deploying, and managing these agents.
+### how-it-works
+OpenHome allows users to create Personalities, which are AI agents that possess a distinct voice and persona for interactive experiences. Abilities are modular voice plugins that enhance these Personalities with additional skills, such as playing music, controlling smart home devices, and executing API calls. Users can trigger Abilities through voice commands, utilizing custom Python logic within the framework. The platform fosters collaboration and innovation through community contributions, allowing developers to browse, fork, and submit Abilities. Tools like the openhome-cli facilitate development, enabling users to describe Abilities for automated coding and deployment.
 
-## current-status
+### current-status
 live
 
-## connects-to
+### connects-to
 [[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -24,5 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

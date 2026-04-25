@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: "guides/adamdew"
-entity_type: "Community Guide"
-status: "live"
-last_updated: 2026-04-24
+title: guides/adamdew
+entity_type: Community Guide
+status: live
+last_updated: 2026-04-25
 ---
 
-### who-they-are
-Adam Dew is an experienced AI developer with a strong background in building AI-driven systems and automation workflows. He has a passion for creating meaningful products where engineering excellence and practical execution are paramount. Adam values commitment and responsibility, ensuring that tasks he undertakes are completed professionally.
+## who-they-are
+Adam Dew is an experienced AI developer with a strong focus on building AI-driven systems and automation workflows. He has a decade's worth of experience leading the design and deployment of enterprise AI systems, including fine-tuned GPT and LLaMA models. Adam has developed an MLOps framework that significantly reduced model deployment cycles, enhancing operational reliability and release velocity.
 
-### what-they-help-with
-Adam specializes in developing conversational AI agents and has hands-on experience with the OpenHome platform, which includes building and deploying Personalities and Abilities. He assists users in navigating the platform, troubleshooting API issues, and enhancing their AI agent's capabilities.
+## what-they-help-with
+Adam specializes in creating production-ready software, managing large-scale data pipelines, and building scalable inference infrastructure. His expertise includes developing voice AI agents, modular voice plugins (Abilities), and implementing effective workflows for connecting and deploying smart devices. He is committed to delivering high-quality AI products that are stable and cost-efficient.
 
-### how-to-reach
-Discord Handle: `@adamdew`
+## how-to-reach
+Discord handle: @adamdew
 
-### connects-to
+## connects-to
 [[guides]]
-[[OpenHome]]
+[[openhome]]
+[[MLOps]]
 [[AI Development]]
 [[Voice AI]]
-[[Community Support]]
-
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

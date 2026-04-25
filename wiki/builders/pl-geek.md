@@ -1,30 +1,27 @@
-```markdown
----
+```yaml
 title: builders/pl-geek
-entity_type: builder
-status: stub
-last_updated: 2026-04-24
----
+entity_type: builders
+status: live
+last_updated: 2026-04-25
+```
 
 ## who-they-are
-pl-geek is an experienced AI developer with a strong background in building AI-driven systems, automation workflows, and production-ready software. They are passionate about AI technologies and committed to delivering high-quality products through collaboration and effective communication.
+pl-geek is an experienced AI developer who has led the design and deployment of enterprise AI systems. With skills in MLOps, they specialize in building AI-driven systems, automation workflows, and production-ready software. They have notable expertise in model deployment and are actively engaged in building with OpenHome, a platform that allows for creating conversational AI agents called Personalities with modular voice plugins known as Abilities.
 
 ## what-they-built
-pl-geek is currently involved in developing various skills and integrations for the OpenHome platform. They have created coding-agent skill files aimed at improving the usability of the OpenHome CLI (command-line interface). Their work includes automating the process of generating ability files from user ideas and establishing deployment and testing loops for OpenHome abilities.
+pl-geek has initiated the development of two coding-agent skill files that aim to enhance the functionality of AI agents utilizing command-line interface (CLI) commands. They are actively creating tools to improve the usability of devkit devices and have built an open-source HTML static page to facilitate easy connections to new devkit devices.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+Discord: @pl-geek  
+GitHub: [github.com/pl-geek](https://github.com/pl-geek)  
+X: [@pl_geek](https://twitter.com/pl_geek)
 
 ## connects-to
-[[OpenHome]]
-[[Abilities]]
-[[AI Development]]
-[[OpenHome CLI]]
+[[builders/openhome]]  
+[[abilities/cli-integration]]  
+[[abilities/automation-workflows]]  
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
-```
+<!-- synthesized: 2026-04-25T11:30:04Z -->

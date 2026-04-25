@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: Dead Man's Switch
-entity_type: concepts
+entity_type: concepts/dead-mans-switch
 status: stub
-last_updated: 2026-04-24
----
-
-### definition
-A dead man's switch is a safety mechanism that automatically triggers a specific action in the event that a designated operator becomes incapacitated or unable to perform their duties. It ensures that a process or system can safely halt or switch to a predefined state if the operator cannot continue.
-
-### why-it-matters
-In the context of OpenHome, the dead man's switch concept is significant for enhancing user safety and control over AI interactions. By implementing this feature, users can have peace of mind knowing that their smart home systems will be safeguarded against unintended actions or failures, particularly in emergency situations.
-
-### how-it-manifests
-The dead man's switch can manifest in OpenHome's platform through features that monitor user engagement and automatically deactivate or alter the behavior of an AI agent if the user does not interact within a specified timeframe. This ensures that certain functions, such as home automation routines or voice interactions, are paused or adjusted if a user is not present or responsive.
-
-### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
-
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+last_updated: 2026-04-25
 ```
+
+## definition
+A dead man's switch is a safety feature that automatically triggers a predetermined action if a user becomes incapacitated or fails to respond to a prompt. This concept ensures important tasks or monitoring processes continue even in the absence of active human oversight.
+
+## why-it-matters
+In the context of OpenHome, the dead man's switch is essential for maintaining system reliability and user safety. It ensures that critical functions remain operational and can protect users in situations where they might become unresponsive, enhancing trust in the technology.
+
+## how-it-manifests
+While detailed implementations within the OpenHome platform are not specified, the concept could be integrated into various applications, such as ensuring that home automation routines persist or alerting designated contacts if a user does not interact with their smart home devices for an extended period.
+
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+
+<!-- synthesized: 2026-04-25T11:30:04Z -->

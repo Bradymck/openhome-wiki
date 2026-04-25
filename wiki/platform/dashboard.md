@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: OpenHome Dashboard
-entity_type: platform/dashboard
-status: live
-last_updated: 2026-04-24
+title: Dashboard
+entity_type: platform
+status: beta
+last_updated: 2026-04-25
 ---
 
 ## what-it-is
-The OpenHome Dashboard is a user interface designed for managing and creating AI agents within the OpenHome platform. It allows developers to set up their voice AI agents, known as Personalities, and extend their capabilities through modular voice plugins called Abilities.
+The Dashboard is an integral part of the OpenHome platform that allows users to create and manage their AI agents, referred to as Personalities. It offers a user-friendly interface for building and customizing these agents by providing tools for configuring their voices, personas, and abilities.
 
 ## how-it-works
-The Dashboard serves as a central hub for users to create and configure Personalities by defining their names, voices, and other characteristics. Users can easily add Abilities to these agents, granting them new skills such as calling APIs, playing music, or controlling smart home devices. The Dashboard provides tools to handle the setup, management, and customization of these AI agents, streamlining the development process for creators.
+The OpenHome Dashboard provides a graphical user interface where developers can set up their AI agents, known as Personalities, by defining attributes like name, voice, and conversational style. It enables users to add modular voice plugins, called Abilities, which enhance the functionality of the agents, allowing them to perform tasks such as playing music, controlling smart home devices, and more. The Dashboard streamlines the process of developing and managing these voice AI systems, making it accessible for both beginners and experienced developers.
 
 ## current-status
-live
+beta
 
 ## connects-to
 [[platform/openhome]]
@@ -24,5 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

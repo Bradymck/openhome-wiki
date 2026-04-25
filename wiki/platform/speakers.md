@@ -1,20 +1,20 @@
 ```yaml
-title: platform/speakers
-entity_type: platform
+title: Platform Speakers
+entity_type: platform/speakers
 status: live
-last_updated: 2026-04-24
+last_updated: 2026-04-25
 ```
 
-### what-it-is
-The OpenHome speakers are advanced smart speakers designed to support the OpenHome voice AI platform. They serve as physical interfaces for users to interact with AI agents, called Personalities, that can execute a wide range of tasks through voice commands.
+## what-it-is
+The OpenHome platform includes advanced speakers that support the development and deployment of voice AI applications. These devices enable users to build and enhance AI-driven conversational agents, known as Personalities, with various skills through modular plugins called Abilities.
 
-### how-it-works
-OpenHome speakers leverage a modular plugin architecture where users can create and extend their AI agents with various Abilities. These speakers communicate with the OpenHome platform to manage voice interactions, enabling users to not only play music and control smart home devices but also run conversational AI applications seamlessly. The speakers trigger Abilities based on voice commands and hotwords, providing an intuitive voice-first experience. Additionally, developers can enhance the functionality of these speakers by creating custom Abilities using scripts and Python code.
+## how-it-works
+OpenHome speakers function by providing a local environment for deploying voice AI applications, which can include playing music, controlling smart home devices, and engaging in conversations with users. Developers can create custom Personalities, define their interaction styles, and extend their functionality via Abilities that trigger on specific hotwords. The speakers facilitate a range of interactions and can be controlled via voice commands or integrated with various applications.
 
-### current-status
+## current-status
 live
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -23,4 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->

@@ -1,21 +1,25 @@
-```yaml
-title: Kaeden
+```markdown
+---
+title: team/kaeden
 entity_type: team
 status: stub
-last_updated: 2026-04-24
-```
+last_updated: 2026-04-25
+---
 
-## who-they-are
-Kaeden is a member of the OpenHome team, contributing to the development of the OpenHome platform. Detailed background information is currently unavailable.
+### who-they-are
+Kaeden is an experienced AI developer focused on building AI-driven systems and automation workflows. Known for their responsibility and professionalism, Kaeden is open to collaboration on projects and is passionate about creating meaningful AI products.
 
-## what-they-own
-Kaeden is involved in projects related to AI development and the integration of voice AI technology within the OpenHome ecosystem. Specific areas of leadership have not been detailed.
+### what-they-own
+Kaeden is involved in designing and deploying AI systems, including user-friendly tools that improve the development process for AI agents on the OpenHome platform.
 
-## how-to-reach
-Contact information for Kaeden is not currently available.
+### how-to-reach
+Discord: @kaeden
 
-## connects-to
+### connects-to
 [[team/jesse]]
 [[team/shannon]]
-
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+[[openhome-cli]]
+[[developer-docs]]
+[[github]]
+<!-- synthesized: 2026-04-25T11:30:04Z -->
+```

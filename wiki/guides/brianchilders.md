@@ -3,23 +3,23 @@
 title: guides/brianchilders
 entity_type: Community Guide
 status: live
-last_updated: 2026-04-24
+last_updated: 2026-04-25
 ---
 
-## who-they-are
-Brianchilders is an experienced AI developer with hands-on expertise in building AI-driven systems, automation workflows, and production-ready software. They are passionate about creating meaningful products and are recognized for their commitment to professionalism in task completion.
+### who-they-are
+Brian Childers is an experienced AI developer with a strong background in designing and deploying enterprise AI systems. He has led initiatives involving fine-tuned GPT and LLaMA models and is skilled in building MLOps frameworks, enabling a reduction in model deployment cycles significantly.
 
-## what-they-help-with
-Brianchilders specializes in developing AI applications, particularly those involving voice AI platforms like OpenHome. They can assist users with building conversational AI agents termed Personalities, extending these agents with various Abilities, and implementing automation workflows. Their work also touches on improving workflows through command-line interface (CLI) commands related to the OpenHome system.
+### what-they-help-with
+Brian specializes in creating AI-driven systems, automation workflows, and scalable inference infrastructure. He focuses on stability and cost-efficiency in AI products and is well-versed in ETL processes and production-ready software. Brian provides assistance in moving projects from concept to launch and offers support in building and defining AI agent capabilities using the OpenHome platform.
 
-## how-to-reach
+### how-to-reach
 Discord handle: @brianchilders
 
 ## connects-to
+[[guides]]
+[[AI Development]]
 [[OpenHome]]
+[[MLOps]]
 [[Voice AI]]
-[[Conversational AI]]
-[[Automation Workflows]]
-
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

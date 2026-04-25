@@ -1,30 +1,30 @@
 ```markdown
 ---
 title: builders/shoompa
-entity_type: community builder
-status: live
-last_updated: 2026-04-24
+entity_type: builders
+status: stub
+last_updated: 2026-04-25
 ---
 
-## who-they-are
-Shoompa is an experienced AI developer passionate about building AI-driven systems and automation workflows. They are focused on delivering meaningful products where strong engineering and practical execution are paramount.
+### who-they-are
+Shoompa is an experienced AI developer with a background in building AI-driven systems and automation workflows. They have worked with enterprise AI systems, including fine-tuned models and MLOps frameworks, and are focused on creating stable, cost-efficient AI products for real users.
 
-## what-they-built
-Shoompa has contributed to the OpenHome project by developing multiple coding-agent skill files to enhance the functionality of conversational AI agents. They have worked on automating the process from user ideas to ability files, aiming to improve the ability deployment and testing workflows within the OpenHome platform.
+### what-they-built
+Details on specific abilities or integrations that Shoompa has shipped are currently unavailable. However, their work includes contributions to the OpenHome platform and the exploration of capabilities for conversational AI agents.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+Discord: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
 ## connects-to
-[[abilities]]
-[[openhome]]
-[[AI-driven systems]]
-[[automation workflows]]
+[[builders/openhome]]
+[[abilities/abilities]]
+[[developers/guide]]
+[[tools/openhome-cli]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

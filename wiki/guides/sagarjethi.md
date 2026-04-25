@@ -1,26 +1,27 @@
 ```markdown
 ---
-title: Sagar Jethi
-entity_type: guides/sagarjethi
+title: guides/sagarjethi
+entity_type: Community Guide
 status: live
-last_updated: 2026-04-24
+last_updated: 2026-04-25
 ---
 
-### who-they-are
-Sagar Jethi is an experienced AI developer with hands-on experience in building AI-driven systems, automation workflows, and production-ready software. Sagar is deeply passionate about AI, focusing on meaningful products where strong engineering and practical execution are paramount. They emphasize responsibility, commitment, and professionalism in their work.
+## who-they-are
+Sagar Jethi is an experienced AI developer with a decade of experience in designing and deploying enterprise AI systems. They possess expertise in large-scale data pipelines, product-ready AI systems, and automation workflows, including the deployment of fine-tuned GPT and LLaMA models. Sagar is focused on building stable, cost-efficient AI products that meet real user needs.
 
-### what-they-help-with
-Sagar specializes in developing AI applications, particularly in creating conversational AI agents and extending them with modular voice plugins called Abilities. They have expertise in feeding user ideas into ability files and improving coding workflows through structured command-line interfaces.
+## what-they-help-with
+Sagar specializes in the development of AI-driven systems, particularly related to building conversational AI agents using OpenHome. They can assist users in creating Personalities and extending functionalities with Abilities, which are modular plugins that enhance AI capabilities. Their experience also includes building MLOps frameworks and scalable inference infrastructure.
 
-### how-to-reach
-Discord handle: SagarJethi#1234
+## how-to-reach
+Discord handle: @sagarjethi
 
-### connects-to
-[[guides]]  
-[[OpenHome]]  
-[[AI Development]]  
-[[Conversational AI]]  
-[[OpenHome Abilities]]  
+## connects-to
+[[guides]]
+[[openhome]]
+[[ai-development]]
+[[mlops-framework]]
+[[abilities]]
+[[personalities]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

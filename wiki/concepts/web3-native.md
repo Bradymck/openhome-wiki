@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: web3-native
-entity_type: concepts
+entity_type: concepts/
 status: stub
-last_updated: 2026-04-24
+last_updated: 2026-04-25
+---
+
+### definition
+Web3-native refers to applications, systems, and technologies that are inherently designed to operate within the decentralized framework of Web3, leveraging blockchain technology, decentralized networks, and token economies.
+
+### why-it-matters
+Web3-native concepts are crucial for OpenHome as they align with the platform's goal of empowering users with decentralized, secure, and user-centric applications. This fosters greater privacy, ownership, and autonomy for users operating their voice AI agents.
+
+### how-it-manifests
+In the context of OpenHome, web3-native elements may manifest through the integration of decentralized identity verification, token-based incentives for user contributions, or the use of blockchain technology for managing interactions and transactions related to Personalities and Abilities within the platform.
+
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
+
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```
-
-## definition
-Web3-native refers to applications, services, and platforms built on decentralized and blockchain technologies, which prioritize user empowerment, ownership, and interoperability.
-
-## why-it-matters
-In the context of OpenHome, being web3-native signifies a commitment to decentralization, allowing users to maintain control over their data and interactions. This aligns with OpenHome's mission to enhance user agency in technology.
-
-## how-it-manifests
-This concept may appear within OpenHome through the integration of decentralized protocols for data storage, identity management, and peer-to-peer interactions among AI agents. This could lead to a more resilient ecosystem that aligns with user privacy and control.
-
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
-
-<!-- synthesized: 2026-04-24T11:51:05Z -->

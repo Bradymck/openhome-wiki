@@ -3,25 +3,25 @@
 title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-04-24
+last_updated: 2026-04-25
 ---
 
 ## definition
-Voice-first refers to an interaction paradigm where voice commands and spoken dialogue become the primary means of interfacing with technology, rather than traditional inputs like touch or keyboard.
+Voice-first refers to an interaction paradigm that prioritizes voice as the primary mode of communication between users and devices. In a voice-first system, users engage with technology through spoken commands and natural language processing rather than traditional graphical interfaces.
 
 ## why-it-matters
-Voice-first technology is crucial for OpenHome as it aligns with the mission to revolutionize user interactions with devices. By prioritizing voice communication, OpenHome seeks to create more accessible, intuitive, and immersive experiences that enhance daily life.
+Voice-first is crucial for OpenHome as it aligns with the platform's mission to create immersive and intuitive AI-powered interactions. By enabling users to interact with their devices using voice, OpenHome enhances accessibility and convenience, allowing for seamless, hands-free operation in daily life.
 
 ## how-it-manifests
-In the OpenHome platform, voice-first capabilities are embodied in the design of conversational AI agents, known as Personalities. These agents utilize voice as the primary input method, enabling users to engage with various Abilities through spoken commands. Features such as hotword triggers during conversations illustrate how voice-first mechanics are integrated, allowing seamless interaction without the need for screens.
+On the OpenHome platform, voice-first technologies manifest in the form of Personalities, which are AI agents designed to carry out conversations with users. These agents utilize Abilities, modular voice plugins that expand their functionality and allow them to respond to voice commands, play music, control smart home devices, and perform various tasks.
 
 ## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

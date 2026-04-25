@@ -1,21 +1,20 @@
-```markdown
----
+```yaml
 title: "Voice AI"
-entity_type: platform
-status: live
-last_updated: 2026-04-24
----
+entity_type: "platform/voice-ai"
+status: "live"
+last_updated: "2026-04-25"
+```
 
-### what-it-is
-Voice AI is a core functionality of the OpenHome platform that enables the creation of conversational AI agents, known as Personalities. These agents can engage users in voice-driven interactions and are extensible through modular plugins called Abilities, which provide additional skills.
+## what-it-is
+Voice AI is an open-source platform within OpenHome dedicated to building conversational AI agents, referred to as Personalities. These agents can be extended with modular voice plugins known as Abilities, which enhance their skills and capabilities.
 
-### how-it-works
-OpenHome's Voice AI operates by allowing developers to build Personalities, which consist of a voice, a persona, and a conversation style. Each Personality can be enhanced with various Abilities that are triggered by specific hotwords during voice interactions. These Abilities can perform a variety of tasks such as calling APIs, playing music, or controlling smart home devices. Developers interact with the system using tools provided in the OpenHome Dashboard, alongside a CLI that streamlines the process of developing and deploying voice-driven functionalities.
+## how-it-works
+Voice AI operates by allowing users to create and customize their AI agents, called Personalities, which have a defined voice, persona, and conversational style. Users can integrate Abilities—plugins that equip these agents with additional skills such as controlling smart home devices, playing music, or accessing external APIs. Abilities are triggered during voice interactions through specific hotwords and can utilize custom Python logic for added functionality. The platform promotes an ecosystem of community-built Abilities, encouraging collaboration and enhancement of the AI agent's capabilities.
 
-### current-status
+## current-status
 live
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -24,5 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
-```
+<!-- synthesized: 2026-04-25T11:30:04Z -->

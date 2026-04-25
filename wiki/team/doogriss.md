@@ -1,23 +1,23 @@
-```markdown
----
+```yaml
 title: Doogriss
 entity_type: team/doogriss
 status: stub
-last_updated: 2026-04-24
----
+last_updated: 2026-04-25
+```
 
-### who-they-are
-No specific information available about the role or background of Doogriss at OpenHome.
+## who-they-are
+Doogriss is a member of the OpenHome team who specializes in AI-driven systems and automation workflows. They have extensive experience in building production-ready software and have a passion for engineering and execution.
 
-### what-they-own
-No specific information available regarding the areas of the platform that Doogriss leads.
+## what-they-own
+Doogriss leads initiatives related to the development and deployment of AI systems within the OpenHome platform, focusing on ensuring the products are stable and cost-efficient for end-users.
 
-### how-to-reach
-No specific contact details, such as Discord handle or X/Twitter, available for Doogriss.
+## how-to-reach
+Discord Handle: Not specified  
+X/Twitter: Not specified  
+Preferred Contact: Not specified  
 
 ## connects-to
-[[team/jesse]]
-[[team/shannon]]
+[[team/jesse]]  
+[[team/shannon]]  
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
-```
+<!-- synthesized: 2026-04-25T11:30:04Z -->

@@ -3,19 +3,19 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-04-24
+last_updated: 2026-04-25
 ---
 
-## definition
-Abilities-as-apps refers to modular voice plugins within the OpenHome platform that add new skills to conversational AI agents called Personalities. These abilities can include tasks such as calling APIs, playing music, or controlling smart home devices. 
+### definition
+Abilities-as-apps refers to modular voice plugins in OpenHome that add new skills to conversational AI agents, known as Personalities. Each Ability functions independently, allowing for a wide range of functionalities, such as calling APIs, playing music, or controlling smart devices.
 
-## why-it-matters
-This concept is crucial to OpenHome as it allows users to enhance their Personalities dynamically, making the platform versatile and adaptable to various needs. By enabling developers to create and integrate new abilities easily, OpenHome promotes innovation and expands the potential use cases for voice AI technology.
+### why-it-matters
+This concept is crucial for OpenHome as it enhances the flexibility and extensibility of the platform. By allowing developers to create and integrate their own Abilities, OpenHome fosters innovation, enabling a diverse ecosystem of voice-driven applications that can cater to various user needs and preferences.
 
-## how-it-manifests
-In practice, abilities are triggered during voice interactions with the Personalities, allowing for real-time responses and actions based on user commands. Developers can create their own abilities and contribute to a growing repository of community-built plugins, thereby fostering collaboration and creativity within the OpenHome ecosystem.
+### how-it-manifests
+The Abilities-as-apps concept is directly implemented in the OpenHome platform through the development and integration of these modular plugins. Users can easily add, prototype, and deploy Abilities, which are triggered by specific hotwords or phrases during voice interactions.
 
-## connects-to
+### connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ In practice, abilities are triggered during voice interactions with the Personal
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

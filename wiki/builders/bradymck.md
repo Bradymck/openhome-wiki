@@ -1,30 +1,28 @@
 ```markdown
 ---
-title: builders/bradymck
-entity_type: builders
-status: stub
-last_updated: 2026-04-24
+title: "builders/bradymck"
+entity_type: "builder"
+status: "live"
+last_updated: 2026-04-25
 ---
 
-### who-they-are
-bradymck is an experienced AI developer with hands-on experience building AI-driven systems, automation workflows, and production-ready software. They are deeply passionate about AI and are committed to working on meaningful products where strong engineering and practical execution matter. 
+## who-they-are
+Brady McK is an experienced AI developer with a background in designing and deploying enterprise AI systems, including the development of fine-tuned GPT and LLaMA models for internal knowledge platforms and automation workflows. He has built an MLOps framework that significantly reduced model deployment cycles, improving operational reliability and release velocity. Brady is passionate about creating stable, cost-efficient AI products that are ready for real users.
 
-### what-they-built
-bradymck has been actively involved in building skills and abilities for the OpenHome platform. They have developed CLI-based workflows for creating and testing abilities, which include prototype scripts for generating ability files from user ideas and facilitating deployment and debugging workflows.
+## what-they-built
+Brady has contributed to various AI-driven systems and has been involved in building conversational AI agents and their associated abilities. He has created tools to enhance the integration of AI with real-world applications, emphasizing collaboration with other community members to improve functionality.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord: [bradymck](https://discord.com)
+- GitHub: [bradymck](https://github.com/bradymck)
+- X: [bradymck](https://x.com/bradymck)
 
-### connects-to
+## connects-to
 [[builders]]
-[[OpenHome]]
-[[Abilities]]
-[[AI Development]]
-
-<!-- synthesized: 2026-04-24T11:51:05Z -->
+[[ai-integration]]
+[[openhome]]
+<!-- synthesized: 2026-04-25T11:30:04Z -->
 ```

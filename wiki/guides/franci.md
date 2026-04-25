@@ -1,25 +1,26 @@
-```markdown
----
+```yaml
 title: guides/franci
 entity_type: guides
 status: live
-last_updated: 2026-04-24
----
+last_updated: 2026-04-25
+```
 
 ## who-they-are
-Franci is an experienced AI developer with hands-on experience in building AI-driven systems, automation workflows, and production-ready software. They are deeply passionate about AI and are motivated to work on meaningful products that require strong engineering and practical execution.
+Franci is an experienced AI developer with a background in building AI-driven systems, automation workflows, and production-ready software. They have a deep passion for AI and actively seek meaningful projects that require strong engineering and practical execution. Franci has led the design and deployment of enterprise AI systems, optimizing model deployment cycles significantly and focusing on scalable inference infrastructure.
 
 ## what-they-help-with
-Franci specializes in developing and deploying AI conversational agents known as Personalities within the OpenHome platform. They are proficient with the OpenHome CLI, which allows for efficient workflows in creating and testing abilities. They can assist with tasks related to AI development, including creating abilities, troubleshooting API issues, and providing guidance on project collaborations.
+Franci specializes in building and deploying AI applications, specifically tailored for the OpenHome platform. Their expertise includes developing modular voice plugins (Abilities) for conversational AI agents (Personalities). They are well-versed in implementing large-scale data pipelines, production-relevant AI systems, and the MLOps framework to streamline AI project workflows. Franci is also capable of providing senior-level execution for projects from concept to launch.
 
 ## how-to-reach
-Franci can be reached on Discord under the handle <@482444270687748106>.
+Discord handle: @franci
 
 ## connects-to
-[[guides/openhome]]
-[[guides/abilities]]
-[[guides/developer-docs]]
-[[guides/community-collaboration]]
+[[OpenHome]]
+[[AI Development]]
+[[Voice AI]]
+[[MLOps]]
+[[Abilities]]
+[[Personalities]]
+[[DevKit]]
 
-<!-- synthesized: 2026-04-24T11:51:05Z -->
-```
+<!-- synthesized: 2026-04-25T11:30:04Z -->
