@@ -1,28 +1,24 @@
-```markdown
----
-title: Dashboard
-entity_type: platform
-status: beta
-last_updated: 2026-04-25
----
+```yaml
+title: platform/dashboard
+entity_type: page
+status: live
+last_updated: 2026-04-26
+```
 
 ## what-it-is
-The Dashboard is an integral part of the OpenHome platform that allows users to create and manage their AI agents, referred to as Personalities. It offers a user-friendly interface for building and customizing these agents by providing tools for configuring their voices, personas, and abilities.
+The OpenHome Dashboard is a comprehensive web interface designed for managing and controlling the OpenHome Devkit, which allows users to build, prototype, and deploy AI-driven voice applications.
 
 ## how-it-works
-The OpenHome Dashboard provides a graphical user interface where developers can set up their AI agents, known as Personalities, by defining attributes like name, voice, and conversational style. It enables users to add modular voice plugins, called Abilities, which enhance the functionality of the agents, allowing them to perform tasks such as playing music, controlling smart home devices, and more. The Dashboard streamlines the process of developing and managing these voice AI systems, making it accessible for both beginners and experienced developers.
+The dashboard provides users with an accessible platform to manage their OpenHome Devkit. Users can access it via a web URL, enabling them to oversee various functionalities of their AI agents, including deploying abilities, managing settings, and monitoring performance. Users can onboard the Devkit either through the dashboard or via terminal commands, making development more streamlined and efficient. The dashboard integrates tools for controlling devices, adding and customizing abilities, and provides feedback on user interactions.
 
 ## current-status
-beta
+live
 
 ## connects-to
 [[platform/openhome]]
-[[platform/speakers]]
 [[platform/abilities]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
 [[platform/live-editor]]
+[[platform/marketplace]]
+[[platform/devkit]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
-```
+<!-- synthesized: 2026-04-26T11:13:27Z -->

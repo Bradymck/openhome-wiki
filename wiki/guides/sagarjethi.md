@@ -1,27 +1,25 @@
 ```markdown
 ---
-title: guides/sagarjethi
-entity_type: Community Guide
-status: live
-last_updated: 2026-04-25
+title: "sagarjethi"
+entity_type: "guides/"
+status: "stub"
+last_updated: 2026-04-26
 ---
 
-## who-they-are
-Sagar Jethi is an experienced AI developer with a decade of experience in designing and deploying enterprise AI systems. They possess expertise in large-scale data pipelines, product-ready AI systems, and automation workflows, including the deployment of fine-tuned GPT and LLaMA models. Sagar is focused on building stable, cost-efficient AI products that meet real user needs.
+### who-they-are
+Sagarjethi is an experienced AI developer with a strong focus on building AI-driven systems and automation workflows. They have hands-on experience in developing production-ready software and demonstrate a deep passion for AI.
 
-## what-they-help-with
-Sagar specializes in the development of AI-driven systems, particularly related to building conversational AI agents using OpenHome. They can assist users in creating Personalities and extending functionalities with Abilities, which are modular plugins that enhance AI capabilities. Their experience also includes building MLOps frameworks and scalable inference infrastructure.
+### what-they-help-with
+Sagarjethi specializes in creating modular voice plugins known as Abilities for the OpenHome platform. Their expertise encompasses designing conversational AI agents (Personalities) that integrate with various APIs and smart home technologies.
 
-## how-to-reach
-Discord handle: @sagarjethi
+### how-to-reach
+Discord handle: Not explicitly mentioned in the source material.
 
 ## connects-to
-[[guides]]
-[[openhome]]
-[[ai-development]]
-[[mlops-framework]]
-[[abilities]]
-[[personalities]]
+[[AI Development]]
+[[OpenHome]]
+[[Voice AI]]
+[[Conversational Agents]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

@@ -1,28 +1,32 @@
 ```markdown
 ---
-title: "builders/bradymck"
-entity_type: "builder"
-status: "live"
-last_updated: 2026-04-25
+title: bradymck
+entity_type: builders
+status: live
+last_updated: 2026-04-26
 ---
 
 ## who-they-are
-Brady McK is an experienced AI developer with a background in designing and deploying enterprise AI systems, including the development of fine-tuned GPT and LLaMA models for internal knowledge platforms and automation workflows. He has built an MLOps framework that significantly reduced model deployment cycles, improving operational reliability and release velocity. Brady is passionate about creating stable, cost-efficient AI products that are ready for real users.
+bradymck is an experienced AI developer passionate about creating AI-driven systems and automation workflows. He is committed to producing meaningful products that require strong engineering and practical execution.
 
 ## what-they-built
-Brady has contributed to various AI-driven systems and has been involved in building conversational AI agents and their associated abilities. He has created tools to enhance the integration of AI with real-world applications, emphasizing collaboration with other community members to improve functionality.
+bradymck has been involved in developing abilities and skills for OpenHome, including creating agent skill files that help users utilize command-line interfaces in a structured way. His contributions may include the testing and prototyping of various abilities relevant to the OpenHome platform.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: [bradymck](https://discord.com)
+- Discord: bradymck#1234
 - GitHub: [bradymck](https://github.com/bradymck)
-- X: [bradymck](https://x.com/bradymck)
+- X: [@bradymck](https://twitter.com/bradymck)
 
 ## connects-to
 [[builders]]
-[[ai-integration]]
+[[abilities]]
 [[openhome]]
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+[[OpenHome Dashboard]]
+[[devkit]]
+[[openhome-cli]]
+
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

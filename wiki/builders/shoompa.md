@@ -3,28 +3,28 @@
 title: builders/shoompa
 entity_type: builders
 status: stub
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 ---
 
 ### who-they-are
-Shoompa is an experienced AI developer with a background in building AI-driven systems and automation workflows. They have worked with enterprise AI systems, including fine-tuned models and MLOps frameworks, and are focused on creating stable, cost-efficient AI products for real users.
+Shoompa is an experienced AI developer with a focus on building AI-driven systems, automation workflows, and production-ready software. They are involved with the OpenHome project, which provides a platform for creating conversational AI agents, referred to as Personalities.
 
 ### what-they-built
-Details on specific abilities or integrations that Shoompa has shipped are currently unavailable. However, their work includes contributions to the OpenHome platform and the exploration of capabilities for conversational AI agents.
+Shoompa has been actively developing abilities for the OpenHome platform, including a prototype to control air conditioning units with integration for weather data.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord: Not specified  
-GitHub: Not specified  
-X: Not specified  
+- Discord handle: Not specified
+- GitHub: [Vheissu/openhome-izone](https://github.com/Vheissu/openhome-izone)
+- X: Not specified
 
 ## connects-to
-[[builders/openhome]]
-[[abilities/abilities]]
-[[developers/guide]]
-[[tools/openhome-cli]]
-
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+[[builders]]
+[[openhome-abilities]]
+[[openhome]]
+[[conversational-ai]]
+[[AI-for-Lancaster]]
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

@@ -1,30 +1,29 @@
 ```markdown
 ---
-title: jkoppel
-entity_type: builders
-status: live
-last_updated: 2026-04-25
+title: builders/jkoppel
+entity_type: builder
+status: stub
+last_updated: 2026-04-26
 ---
 
-## who-they-are
-jkoppel is an experienced AI developer with a decade of experience leading the design and deployment of enterprise AI systems, including automation workflows and production-ready software. They focus on creating stable, cost-efficient AI products that are ready for real users and have a strong commitment to responsibility and communication in project execution.
+### who-they-are
+JKoppel is an experienced AI developer with a strong background in building AI-driven systems and automation workflows. They are deeply passionate about AI and focus on products that emphasize strong engineering and practical execution.
 
-## what-they-built
-jkoppel has shipped multiple coding-agent skill files, which enable agents to use CLI commands in a structured way. They are also involved in the development of a tool named openhome-cli, which facilitates the building of abilities by automating the Python writing and deployment processes.
+### what-they-built
+Details about specific shipped abilities or integrations by JKoppel have not been documented at this time.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[openhome-cli]]
-[[AI]]
-[[automation workflows]]
-[[production-ready software]]
+[[openhome]]  
+[[abilities]]  
+[[AI development]]  
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

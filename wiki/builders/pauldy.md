@@ -1,29 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/pauldy
-entity_type: builders
+entity_type: builder
 status: live
-last_updated: 2026-04-25
-```
+last_updated: 2026-04-26
+---
 
 ### who-they-are
-Pauldy is an experienced AI developer with a strong background in building AI-driven systems, automation workflows, and production-ready software. With over a decade of experience, he has focused on designing and deploying enterprise AI systems, including fine-tuned GPT and LLaMA models. He has expertise in large-scale data pipelines, production RAG systems, and scalable inference infrastructure. Pauldy is passionate about creating stable, cost-efficient AI products ready for real users.
+Pauldy is an experienced AI developer with a strong background in building AI-driven systems, automation workflows, and production-ready software. Passionate about AI and committed to meaningful products, Pauldy emphasizes responsible task execution and effective communication throughout collaborative efforts.
 
 ### what-they-built
-Pauldy has contributed to the development of abilities for the OpenHome platform, specifically focused on creating structured workflows for AI agents to autonomously create, test, and improve their abilities using a command-line interface (CLI). He has built initial skill files that allow for a more thoughtful and structured approach to agent development, enhancing user interaction with AI. His contributions include the openhome-cli tool, which streamlines the ability development process.
+Pauldy has developed an ability for OpenHome that allows control of an air conditioning unit, which integrates weather data. This capability enhances the functionality and usability of OpenHome's AI-driven voice applications.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: @pauldy
-- GitHub: [github.com/pauldy](https://github.com/pauldy)
+- Discord: Not specified
+- GitHub: [Vheissu/openhome-izone](https://github.com/Vheissu/openhome-izone)
 - X: Not specified
 
 ### connects-to
-- [[openhome]]
-- [[AI]]
-- [[DevKit]]
-- [[Voice AI]]
-- [[Abilities]]
+- [[builders/openhome]]
+- [[abilities/weather-integration]]
+- [[abilities/air-conditioning-control]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
+```

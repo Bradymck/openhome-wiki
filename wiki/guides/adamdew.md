@@ -3,23 +3,25 @@
 title: guides/adamdew
 entity_type: Community Guide
 status: live
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 ---
 
-## who-they-are
-Adam Dew is an experienced AI developer with a strong focus on building AI-driven systems and automation workflows. He has a decade's worth of experience leading the design and deployment of enterprise AI systems, including fine-tuned GPT and LLaMA models. Adam has developed an MLOps framework that significantly reduced model deployment cycles, enhancing operational reliability and release velocity.
+### who-they-are
+Adam Dew is an experienced AI developer with hands-on experience in building AI-driven systems, automation workflows, and production-ready software. He is passionate about creating meaningful products where strong engineering and practical execution are paramount.
 
-## what-they-help-with
-Adam specializes in creating production-ready software, managing large-scale data pipelines, and building scalable inference infrastructure. His expertise includes developing voice AI agents, modular voice plugins (Abilities), and implementing effective workflows for connecting and deploying smart devices. He is committed to delivering high-quality AI products that are stable and cost-efficient.
+### what-they-help-with
+Adam specializes in guiding users on how to build conversational AI agents using OpenHome, including developing skills and integrating various abilities. His expertise also extends to working with APIs, smart home technologies, and automation frameworks.
 
-## how-to-reach
-Discord handle: @adamdew
+### how-to-reach
+Discord Handle: @adamdew
 
-## connects-to
+### connects-to
 [[guides]]
-[[openhome]]
-[[MLOps]]
+[[OpenHome]]
 [[AI Development]]
-[[Voice AI]]
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+[[Smart Home Technologies]]
+[[APIs]]
+[[Automation Workflows]]
+
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

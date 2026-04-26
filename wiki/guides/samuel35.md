@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: guides/samuel35
-entity_type: Community Guide
+title: "Samuel35"
+entity_type: "guides/"
 status: live
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 ---
 
 ### who-they-are
-Samuel35 is an experienced AI developer with a strong background in designing and deploying enterprise AI systems. They have hands-on experience building fine-tuned GPT and LLaMA models for internal knowledge platforms and automation workflows. Samuel35 has also developed an MLOps framework that greatly improved model deployment efficiency, reducing cycles from two weeks to three days.
+Samuel35 is an experienced AI developer with hands-on expertise in building AI-driven systems, automation workflows, and production-ready software. They have a deep passion for AI and focus on creating meaningful products that emphasize strong engineering and practical execution.
 
 ### what-they-help-with
-Samuel35 specializes in building AI-driven systems, automation workflows, and production-ready software. They offer expertise in large-scale data pipelines, production RAG systems, and scalable inference infrastructure. Their focus is on creating stable and cost-efficient AI products that are practical for end-users. They can assist with moving projects from concept to launch.
+Samuel35 specializes in the development of conversational AI agents, leveraging the OpenHome platform. They assist other developers in creating Personalities and integrating Abilities, as well as enhancing user experiences through innovative AI solutions. Their strengths include task commitment, effective communication, and collaboration with clients and teams.
 
 ### how-to-reach
-Discord handle: @samuel35
+Samuel35 can be reached on Discord.
 
 ### connects-to
-[[guides]]
-[[openhome]]
-[[AI]]
-[[MLOps]]
-[[GPT]]
-[[LLaMA]]
+[[OpenHome]]
+[[Personalities]]
+[[Abilities]]
+[[AI Development]]
+[[Automation Workflows]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

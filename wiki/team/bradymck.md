@@ -1,21 +1,24 @@
-```yaml
-title: Brady McK
-entity_type: team
-status: stub
-last_updated: 2026-04-25
-```
+```markdown
+---
+title: "Brady McK"
+entity_type: "team/bradymck"
+status: "stub"
+last_updated: 2026-04-26
+---
 
-## who-they-are
-Brady McK is an experienced AI developer with a strong background in building AI-driven systems and automation workflows. Over the past decade, he has led the design and deployment of enterprise AI systems, including fine-tuned models for internal knowledge platforms and automation workflows. His expertise extends to creating stable, cost-efficient AI products ready for real users.
+### who-they-are
+Brady McK is a key member of the OpenHome team, specifically involved in the development of AI-driven systems and automation workflows. He has a strong passion for AI technologies and a commitment to producing high-quality, innovative products.
 
-## what-they-own
-Brady is involved in developing OpenHome's AI products and focuses on building foundational systems that enhance user interaction through voice AI technology.
+### what-they-own
+Brady leads initiatives around the development and management of open-source tools and integration frameworks within the OpenHome ecosystem. His focus includes building conversational AI agents and enhancing the user experience through automation capabilities.
 
-## how-to-reach
-Discord: @bradymck
+### how-to-reach
+Currently, Brady's contact information is not disclosed. For inquiries or collaborations, it is recommended to connect via the OpenHome Discord server where he is actively involved.
 
-## connects-to
+### connects-to
 [[team/jesse]]
 [[team/shannon]]
-
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+[[openhome-dev/abilities]]
+[[dev.openhome.com]]
+<!-- synthesized: 2026-04-26T11:13:27Z -->
+```

@@ -1,27 +1,30 @@
-```yaml
-title: Emperormidas
-entity_type: builders
+```markdown
+---
+title: builders/emperormidas
+entity_type: builder
 status: live
-last_updated: 2026-04-25
-```
+last_updated: 2026-04-26
+---
 
-## who-they-are
-Emperormidas is an experienced AI developer with expertise in building AI-driven systems and automation workflows. They have a strong background in deploying enterprise AI systems and have significant experience with large-scale data pipelines and scalable infrastructure.
+### who-they-are
+Emperor Midas is an experienced AI developer who specializes in creating AI-driven systems and automation workflows. They are known for their strong commitment to projects and effective communication, allowing them to collaborate effectively on various software development endeavors. They are passionate about building meaningful products that leverage AI technology.
 
-## what-they-built
-Emperormidas has contributed to the development of the OpenHome platform, focusing on building tools and abilities that enhance interactive voice applications. Their work includes developing an open-source tool that simplifies the connection to devkit devices.
+### what-they-built
+Emperor Midas has been involved in developing various projects, including the OpenHome platform, which focuses on creating conversational AI agents called Personalities. They are actively contributing to the development of Abilities, which are modular plugins that enhance the functionality of these AI agents. Notable contributions include a command line interface (CLI) for OpenHome that streamlines the development and deployment of abilities.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: [@emperormidas](https://discord.com)
-- GitHub: [emperormidas](https://github.com/emperormidas)
-- X: [@emperormidas](https://x.com/emperormidas)
+### how-to-reach
+- Discord: Not specified
+- GitHub: [Emperor Midas GitHub Profile](https://github.com/Vheissu/openhome-izone)
+- X: Not specified
 
 ## connects-to
 [[builders]]
 [[OpenHome]]
-[[abilities]]
-
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+[[Abilities]]
+[[Personalities]]
+[[AI Development]]
+<!-- synthesized: 2026-04-26T11:13:27Z -->
+```

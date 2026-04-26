@@ -1,28 +1,29 @@
 ```markdown
 ---
 title: builders/freshdelii
-entity_type: builders
+entity_type: community_builder
 status: stub
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 ---
 
 ### who-they-are
-FreshDelii is a developer and contributor within the OpenHome community, focusing on building AI-driven systems and tools that enhance user interaction with smart environments. They are actively involved in creating conversational AI agents and their associated functionalities.
+FreshDelii is a community builder focused on the development of AI-driven applications, particularly involving conversational AI technologies. Their goal is to enhance user interactions with intelligent systems by creating immersive and intuitive voice-first applications.
 
 ### what-they-built
-FreshDelii has developed tools that allow users to better connect and interact with their devkit devices. They created a static HTML page, now available on GitHub, which aids in the initial setup and configuration of new devices without tracking any user data. This initiative demonstrates a commitment to open-source principles and community collaboration.
+Currently, specific details about the abilities or integrations shipped by FreshDelii are not available. There is an emphasis on building agents and abilities within the OpenHome environment, and they are likely contributing to this open-source platform.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: <@1273261229586255892>
-- GitHub: [FreshDelii GitHub](https://github.com/freshdelii)
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/openhome]]
-[[builders/abilities]]
-[[builders/devkits]]
-[[builders/conversational_ai]]
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+[[builders/openhome]]  
+[[abilities/conversational_ai]]  
+[[platforms/voice_assistant]]
+
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

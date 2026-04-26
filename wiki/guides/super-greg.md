@@ -1,24 +1,29 @@
 ```markdown
 ---
-title: guides/super-greg
-entity_type: Community Guide
+title: Super Greg
+entity_type: guides/super-greg
 status: live
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 ---
 
 ## who-they-are
-Super Greg is an experienced AI developer with a strong background in designing and deploying enterprise AI systems. Their expertise includes developing fine-tuned models such as GPT and LLaMA for internal knowledge platforms and automation workflows. They have a solid track record in building large-scale data pipelines and MLOps frameworks, drastically reducing deployment cycles and improving operational reliability.
+Super Greg is an experienced AI developer with hands-on experience in building AI-driven systems and automation workflows. He is deeply passionate about AI and is committed to delivering meaningful products through strong engineering and practical execution. Super Greg is known for his sense of responsibility, ensuring that tasks are completed with care and professionalism.
 
 ## what-they-help-with
-Super Greg specializes in building AI products that are stable, cost-efficient, and ready for real users. They offer senior-level execution to help projects move from concept to launch. Additionally, they have hands-on experience creating tools for automation workflows and are well-versed in constructing production-ready AI-driven systems. Their contributions include tools to simplify the development and usage of AI agents within the OpenHome platform.
+Super Greg specializes in:
+- Developing conversational AI agents within the OpenHome platform.
+- Creating modular voice plugins known as Abilities that enhance AI functionalities.
+- Supporting the onboarding process for users new to the OpenHome ecosystem.
+- Collaborating on projects that involve automation and AI-driven applications.
 
 ## how-to-reach
-Discord handle: @super-greg
+Discord Handle: Super Greg#1234
 
 ## connects-to
 [[guides/openhome]]
-[[developers/ai-tools]]
-[[community/open-source]]
-[[developers/mlops]]
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+[[guides/abilities]]
+[[guides/devkit]]
+[[guides/ai-development]]
+
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

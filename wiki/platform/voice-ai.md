@@ -1,15 +1,16 @@
-```yaml
-title: "Voice AI"
-entity_type: "platform/voice-ai"
-status: "live"
-last_updated: "2026-04-25"
-```
+```markdown
+---
+title: Platform Voice AI
+entity_type: platform
+status: live
+last_updated: 2026-04-26
+---
 
 ## what-it-is
-Voice AI is an open-source platform within OpenHome dedicated to building conversational AI agents, referred to as Personalities. These agents can be extended with modular voice plugins known as Abilities, which enhance their skills and capabilities.
+OpenHome is an open-source Voice AI platform designed to facilitate the development of conversational AI agents known as Personalities. These agents can be enhanced with Abilities—modular voice plugins that provide various functionalities.
 
 ## how-it-works
-Voice AI operates by allowing users to create and customize their AI agents, called Personalities, which have a defined voice, persona, and conversational style. Users can integrate Abilities—plugins that equip these agents with additional skills such as controlling smart home devices, playing music, or accessing external APIs. Abilities are triggered during voice interactions through specific hotwords and can utilize custom Python logic for added functionality. The platform promotes an ecosystem of community-built Abilities, encouraging collaboration and enhancement of the AI agent's capabilities.
+OpenHome allows developers to create Personalities by configuring unique names, voices, and conversation styles. Each Personality can access Abilities, which are activated during voice interactions through hotwords. These Abilities can perform a range of tasks, such as calling APIs, playing music, controlling smart home devices, and running quizzes. The platform supports an intuitive workflow where developers can utilize tools like a web dashboard and CLI (command-line interface) for managing their agents and deploying new abilities efficiently.
 
 ## current-status
 live
@@ -23,4 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
+```

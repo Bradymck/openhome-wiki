@@ -1,30 +1,25 @@
-```markdown
----
+```yaml
 title: roadmap/shipped
 entity_type: roadmap
 status: live
-last_updated: 2026-04-25
----
+last_updated: 2026-04-26
+```
 
 ## what-it-is
-As of April 2026, OpenHome has officially launched the physical V0.1 development kits for building AI agents using the OpenClaw platform. These kits are advanced smart speakers designed for local use, enabling functionalities such as music playback, smart home control, and conversational AI interactions.
+OpenHome has launched physical V0.1 development kits for building AI-powered voice agents, equipped with smart speaker capabilities and support for modular voice plugins called Abilities.
 
 ## status
 shipped
 
 ## why-it-matters
-The launch of physical development kits allows developers and users to create and prototype their own AI-driven voice applications. By providing fully equipped hardware, OpenHome aims to encourage innovation and simplify the development process for conversational AI agents.
+This initiative aims to empower developers to create personalized AI agents by providing them with tools and resources to enhance user interaction with technology through voice applications. The availability of development kits facilitates innovation and experimentation within the community.
 
 ## eta
-Shipped in April 2026
+Currently shipping globally in small batches.
 
 ## connects-to
 [[OpenHome]]
-[[OpenClaw]]
+[[Voice AI]]
+[[Development Kits]]
 [[Abilities]]
-[[Developer Docs]]
-[[DevKit Companion]]
-[[GitHub]]
-
-<!-- synthesized: 2026-04-25T11:30:04Z -->
-```
+<!-- synthesized: 2026-04-26T11:13:27Z -->

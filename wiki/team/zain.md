@@ -1,25 +1,26 @@
 ```markdown
 ---
-title: Zain
+title: Team Zain
 entity_type: team
 status: stub
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 ---
 
 ### who-they-are
-Zain is an experienced AI developer with a strong background in building AI-driven systems and automation workflows. They have a passion for creating meaningful products where engineering excellence and practical execution are paramount.
+Zain is a core team member at OpenHome, contributing as a developer dedicated to building and enhancing AI-driven systems and automation workflows. 
 
 ### what-they-own
-Zain focuses on developing AI products that are stable, cost-efficient, and user-friendly. They have been involved in creating tools that enhance the deployment and usability of AI systems within the OpenHome platform.
+Zain leads the development of various AI applications and the integration of new features within the OpenHome platform.
 
 ### how-to-reach
-Discord: Not provided  
-X/Twitter: Not provided  
-Preferred contact: Not provided
+Zain can be reached on Discord (handle not specified). 
 
 ### connects-to
-[[team/jesse]]  
-[[team/shannon]]  
+- [[team/jesse]]
+- [[team/shannon]]
+- [[openhome-cli]]
+- [[dev.openhome.com]]
+- [[GitHub]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

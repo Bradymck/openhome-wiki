@@ -1,31 +1,30 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 ---
 
 ### who-they-are
-SlowJamSteve is an experienced AI developer who has led the design and deployment of enterprise AI systems, including fine-tuned GPT and LLaMA models. With a focus on automation workflows and production-ready software, SlowJamSteve is passionate about building AI products that are stable and cost-efficient for real users.
+Slowjamsteve is an experienced AI developer with a background in building AI-driven systems, automation workflows, and production-ready software. He is passionate about AI and is motivated to work on meaningful products requiring strong engineering and practical execution.
 
 ### what-they-built
-SlowJamSteve has created an open-source tool aimed at simplifying the connection process for devkit devices. The tool is a static HTML page designed for ease of use, enabling users to connect to their devices without tracking any personal information. Currently, there is mention of CLI-based skills for coding agents to optimize their autonomous functionalities.
+As of now, detailed information on specific abilities or integrations built by Slowjamsteve is not available. 
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: @slowjamsteve
-- GitHub: [slowjamsteve](https://github.com/slowjamsteve)
-- X: @slowjamsteve
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ### connects-to
 [[openhome]]
 [[abilities]]
-[[devkit]]
-[[AI development]]
-[[automation workflows]]
+[[Devkit]]
+[[Voice AI]] 
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

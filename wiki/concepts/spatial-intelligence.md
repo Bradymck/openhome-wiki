@@ -2,26 +2,26 @@
 ---
 title: Spatial Intelligence
 entity_type: concepts
-status: stub
-last_updated: 2026-04-25
+status: live
+last_updated: 2026-04-26
 ---
 
-### definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in space, understanding the relationships between them. In the context of technology, it involves the capacity to engage with, interpret, and navigate physical environments through digital interfaces.
+## definition
+Spatial intelligence is the capacity to understand and interact with the spatial relationships between objects in the environment. It involves visualizing and manipulating physical space and recognizing patterns and relationships in that space.
 
-### why-it-matters
-Spatial intelligence is crucial for OpenHome as it enhances how users interact with their environments through voice AI. This capability allows for more intuitive controls of smart homes and devices, leading to a seamless integration of technology in everyday life.
+## why-it-matters
+In the context of OpenHome, spatial intelligence enhances the ability of AI agents to interact with the physical environment and understand user commands related to location and space. This capability is crucial for creating immersive and intuitive voice interactions, allowing users to control smart home devices and navigate their environments more effectively.
 
-### how-it-manifests
-While specific implementations of spatial intelligence within the OpenHome platform are not detailed, it is likely to appear in functionalities that allow voice agents to navigate and control smart home environments based on spatial awareness, potentially enhancing user experience and operational effectiveness.
+## how-it-manifests
+Spatial intelligence in OpenHome appears through features that allow Personalities to understand commands related to spatial relationships. For instance, users can interact with devices based on their location within a smart home setup, allowing for contextual responses that are dependent on the agent's awareness of surrounding space and user positioning.
 
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/grant-program]]
+## connects-to
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/grant-program]]
+- [[concepts/dead-mans-switch]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

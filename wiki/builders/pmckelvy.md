@@ -2,30 +2,30 @@
 ---
 title: builders/pmckelvy
 entity_type: builders
-status: live
-last_updated: 2026-04-25
+status: stub
+last_updated: 2026-04-26
 ---
 
-## who-they-are
-Pmckelvy is an experienced AI developer with a strong background in building AI-driven systems, automation workflows, and production-ready software. With over a decade of experience, they have led designs and deployments of enterprise AI systems, including fine-tuned models for internal applications. Pmckelvy focuses on developing stable, cost-efficient AI products ready for real users, emphasizing strong engineering and practical execution.
+### who-they-are
+Pmckelvy is an experienced AI developer with a focus on building AI-driven systems and automation workflows. They are passionate about creating meaningful products and have a strong commitment to their tasks. Their skills include effective communication and collaboration.
 
-## what-they-built
-Pmckelvy contributed to the development of the openhome-cli tool, which significantly changes how developers build abilities for AI agents. This tool allows users to describe an ability, and it automates the writing and deploying of Python code for the agent, enhancing the development workflow.
+### what-they-built
+While specific details on what Pmckelvy has built were not provided, the context suggests they are involved in creating abilities for the OpenHome platform, potentially including abilities that integrate with various APIs and smart home devices.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: @pmckelvy
-- GitHub: [pmckelvy](https://github.com/pmckelvy)
-- X: [@pmckelvy_x](https://twitter.com/pmckelvy_x)
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-- [[openhome-cli]]
-- [[developers]]
-- [[AI-driven systems]]
-- [[Voice AI]]
-- [[automation workflows]]
+[[builders]]
+[[OpenHome]]
+[[Abilities]]
+[[Voice AI]]
+[[AI-driven systems]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: builders/illectric-co
+title: illectric-co
 entity_type: builders
-status: stub
-last_updated: 2026-04-25
+status: live
+last_updated: 2026-04-26
 ---
 
-### who-they-are
-Illectric Co is part of the OpenHome community, an open-source Voice AI platform focused on creating AI-powered voice applications and enabling developers to build conversational AI agents called Personalities. The platform promotes the extension of these agents through modular voice plugins known as Abilities.
+## who-they-are
+Illectric is a community of builders focused on creating innovative AI-driven solutions and enhancing user interaction through voice-enabled technology. They are involved in the development of intelligent voice assistants and are passionate about fostering collaboration among developers to build efficient and meaningful products.
 
-### what-they-built
-Illectric Co has contributed to the development of tools and integrations that enhance the capabilities of AI agents within the OpenHome ecosystem. They have been involved in creating coding-agent skill files to improve agent functionality and have also provided an open-source tool to facilitate easier connections to devkit devices.
+## what-they-built
+Illectric has contributed to the development of the OpenHome platform, specifically building abilities for voice agents that can interact with smart devices and assist users in their daily tasks. They have engaged in projects that include enabling users to control home appliances via voice commands and creating integrations that enhance the functionality of voice AI agents.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
+## how-to-reach
+- Discord handle: Available upon request
+- GitHub: [Illectric on GitHub](https://github.com/Vheissu/openhome-izone)
 - X: Not specified
 
-### connects-to
-[[builders/openhome]]
-[[developers/abilities]]
-[[tools/openhome-cli]]
+## connects-to
+- [[voice AI]]
+- [[OpenHome]]
+- [[smart home integration]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

@@ -1,26 +1,25 @@
-```yaml
+```markdown
+---
 title: guides/franci
-entity_type: guides
+entity_type: Community Guide
 status: live
-last_updated: 2026-04-25
-```
+last_updated: 2026-04-26
+---
 
-## who-they-are
-Franci is an experienced AI developer with a background in building AI-driven systems, automation workflows, and production-ready software. They have a deep passion for AI and actively seek meaningful projects that require strong engineering and practical execution. Franci has led the design and deployment of enterprise AI systems, optimizing model deployment cycles significantly and focusing on scalable inference infrastructure.
+### who-they-are
+Franci is an experienced AI developer with hands-on experience in building AI-driven systems and automation workflows. They have a strong background in engineering and practical execution, emphasizing commitment and professionalism in their work.
 
-## what-they-help-with
-Franci specializes in building and deploying AI applications, specifically tailored for the OpenHome platform. Their expertise includes developing modular voice plugins (Abilities) for conversational AI agents (Personalities). They are well-versed in implementing large-scale data pipelines, production-relevant AI systems, and the MLOps framework to streamline AI project workflows. Franci is also capable of providing senior-level execution for projects from concept to launch.
+### what-they-help-with
+Franci specializes in developing AI agents within the OpenHome platform. They are knowledgeable about creating conversational AI agents, known as Personalities, and extending their functionality through modular voice plugins called Abilities. Franci provides insights and support for building workflows in OpenHome, particularly in relation to voice interactions, stability, and project contributions.
 
-## how-to-reach
-Discord handle: @franci
+### how-to-reach
+Franci can be reached on Discord as `<@1000033198224457768>`.
 
-## connects-to
+### connects-to
 [[OpenHome]]
 [[AI Development]]
-[[Voice AI]]
-[[MLOps]]
+[[Voice AI Agents]]
 [[Abilities]]
-[[Personalities]]
-[[DevKit]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
+```

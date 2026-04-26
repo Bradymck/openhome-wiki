@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: platform/live-editor
-entity_type: page
+entity_type: platform
 status: stub
-last_updated: 2026-04-25
-```
+last_updated: 2026-04-26
+---
 
-## what-it-is
-The Live Editor is a component of the OpenHome platform that allows developers to create and edit voice AI agents in real-time.
+### what-it-is
+The Live Editor for OpenHome is a tool designed for real-time application development and testing of AI-driven voice agents, enabling users to create and modify abilities for their personalities interactively.
 
-## how-it-works
-While specific technical details about the Live Editor are minimal in the provided content, it serves as an interface for developers to design and implement conversational AI agents, presumably through an interactive web interface. This would allow users to manage the configuration of their Personalities, adjust settings, and integrate Abilities seamlessly.
+### how-it-works
+While detailed mechanics of the Live Editor are not explicitly described, it typically allows developers to write, edit, and test code for voice AI personalities in a collaborative, dynamic environment. This may involve a user interface that integrates with other platform features, facilitating rapid iteration and deployment of abilities to voice agents.
 
-## current-status
+### current-status
 stub
 
-## connects-to
+### connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -23,4 +24,5 @@ stub
 [[platform/local-link]]
 [[platform/marketplace]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
+```

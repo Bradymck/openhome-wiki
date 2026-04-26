@@ -1,25 +1,27 @@
-```yaml
-title: Dead Man's Switch
-entity_type: concepts/dead-mans-switch
+```markdown
+---
+title: concepts/dead-mans-switch
+entity_type: concepts
 status: stub
-last_updated: 2026-04-25
-```
+last_updated: 2026-04-26
+---
 
-## definition
-A dead man's switch is a safety feature that automatically triggers a predetermined action if a user becomes incapacitated or fails to respond to a prompt. This concept ensures important tasks or monitoring processes continue even in the absence of active human oversight.
+### definition
+A dead man’s switch is a safety mechanism that automatically takes action if a user becomes incapacitated or fails to respond. In the context of technology, it often refers to systems that require periodic input from a user to remain active; if the input is not received, the system assumes the user is unable to continue and takes predefined actions.
 
-## why-it-matters
-In the context of OpenHome, the dead man's switch is essential for maintaining system reliability and user safety. It ensures that critical functions remain operational and can protect users in situations where they might become unresponsive, enhancing trust in the technology.
+### why-it-matters
+In OpenHome, the dead man’s switch concept is relevant for enhancing user security and ensuring uninterrupted operation of AI agents. It serves to create a failsafe that can protect users and their smart environments by responding appropriately when a user is no longer able to engage.
 
-## how-it-manifests
-While detailed implementations within the OpenHome platform are not specified, the concept could be integrated into various applications, such as ensuring that home automation routines persist or alerting designated contacts if a user does not interact with their smart home devices for an extended period.
+### how-it-manifests
+Although specific implementations are not detailed in the available content, the concept may manifest in the OpenHome platform as a feature within the design of AI agents or abilities, which could include measures that ensure functionality only while a user is actively engaged.
 
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
+```

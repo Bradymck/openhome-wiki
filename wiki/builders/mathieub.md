@@ -3,26 +3,28 @@
 title: builders/mathieub
 entity_type: builder
 status: live
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 ---
 
 ### who-they-are
-Mathieu is an experienced AI developer with a background in building AI-driven systems, automation workflows, and production-ready software. He has led the design and deployment of enterprise AI systems, including fine-tuned GPT and LLaMA models. His work includes developing MLOps frameworks and scalable inference infrastructure. Mathieu is passionate about creating meaningful AI products that are stable and ready for real users.
+Mathieu B. is an experienced AI developer with a strong background in building AI-driven systems, automation workflows, and production-ready software. He is passionate about creating meaningful products where strong engineering and practical execution matter.
 
 ### what-they-built
-Mathieu has contributed to the development of an open-source tool called `openhome-cli`. This tool allows users to describe abilities, which it then converts into Python code, deploying it to AI agents and verifying functionality without requiring manual commands. He is also engaged in building abilities leveraging the OpenHome voice AI platform.
+Mathieu has contributed to the development of abilities for the OpenHome platform, particularly focused on enhancing voice AI interactions. He has created abilities that integrate with smart home devices, such as controlling air conditioning with weather integration. His work includes utilizing the openhome-cli for streamlined ability development and deployment.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord: @mathieub
+- GitHub: [mathieub](https://github.com/mathieub)
+- X: [@mathieub](https://twitter.com/mathieub)
 
 ### connects-to
-[[openhome-cli]]
-[[abilities]]
-[[openhome]]
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+[[builders/openhome]]
+[[integrations/air-conditioning]]
+[[abilities/weather-integration]]
+[[abilities/smart-home-control]]
+
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

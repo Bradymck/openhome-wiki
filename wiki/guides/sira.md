@@ -3,24 +3,24 @@
 title: guides/sira
 entity_type: Community Guide
 status: live
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 ---
 
 ## who-they-are
-Sira is an experienced AI developer with a strong background in building AI-driven systems, enterprise AI systems, and automation workflows. Sira has successfully led the design and deployment of various projects, focusing on creating stable and operational AI products that enhance user experience. Sira is known for their commitment to quality and professionalism in project execution.
+Sira is an experienced AI developer with expertise in building AI-driven systems, automation workflows, and production-ready software. They are passionate about creating impactful products that emphasize engineering and practical execution. Sira is known for their strong sense of responsibility and effective communication skills.
 
 ## what-they-help-with
-Sira specializes in MLOps, large-scale data pipelines, production-ready software, and the use of AI models such as GPT and LLaMA. They provide assistance in moving projects from concept to launch, streamline model deployment processes, and improve operational reliability. Sira is also involved in developing necessary plugins and modules for the OpenHome Voice AI platform.
+Sira specializes in helping users build and onboard AI agents within the OpenHome platform. They provide guidance on utilizing development kits, creating abilities, and troubleshooting during the development process. Their experience includes using the openhome-cli for deployment and management of abilities, as well as collaborating on various projects and improvements.
 
 ## how-to-reach
-Discord Handle: Sira#1234
+Discord Handle: @sira_dev
 
 ## connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[MLOps]]
-[[GPT]]
-[[LLaMA]]
+[[guides]]
+[[openhome-dev]]
+[[devkit]]
+[[abilities]]
+[[developer-docs]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```

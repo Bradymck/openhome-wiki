@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: web3-native
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-04-25
+last_updated: 2026-04-26
 ---
 
 ### definition
-Web3-native refers to applications, systems, and technologies that are inherently designed to operate within the decentralized framework of Web3, leveraging blockchain technology, decentralized networks, and token economies.
+Web3-native refers to applications, services, or platforms that are built using decentralized technologies and principles intrinsic to the Web3 ecosystem. This encompasses the use of blockchain technology, smart contracts, and decentralized networks to enhance user autonomy, privacy, and control over their digital interactions.
 
 ### why-it-matters
-Web3-native concepts are crucial for OpenHome as they align with the platform's goal of empowering users with decentralized, secure, and user-centric applications. This fosters greater privacy, ownership, and autonomy for users operating their voice AI agents.
+In the context of OpenHome, embracing web3-native concepts supports the mission of providing users with greater control over their AI agents and interactions. By integrating decentralized principles, OpenHome can enhance security and privacy, ensuring that user data remains in the hands of its owners while fostering a community-driven development ecosystem.
 
 ### how-it-manifests
-In the context of OpenHome, web3-native elements may manifest through the integration of decentralized identity verification, token-based incentives for user contributions, or the use of blockchain technology for managing interactions and transactions related to Personalities and Abilities within the platform.
+OpenHome may manifest web3-native characteristics through features like decentralized identity management, where users can retain control of their identities and data across different interactions. Additionally, the ability for users to create, share, and monetize their own abilities can reflect a web3-native approach to content creation and distribution.
 
 ### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-25T11:30:04Z -->
+<!-- synthesized: 2026-04-26T11:13:27Z -->
 ```
