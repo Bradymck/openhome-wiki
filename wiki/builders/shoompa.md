@@ -1,30 +1,24 @@
-```markdown
----
+```yaml
 title: builders/shoompa
-entity_type: builders
-status: stub
-last_updated: 2026-04-26
----
+entity_type: community builder
+status: live
+last_updated: 2026-04-27
+```
 
-### who-they-are
-Shoompa is an experienced AI developer with a focus on building AI-driven systems, automation workflows, and production-ready software. They are involved with the OpenHome project, which provides a platform for creating conversational AI agents, referred to as Personalities.
+## who-they-are
+Shoompa is a community builder within the OpenHome platform, focusing on developing and integrating unique abilities into voice AI agents. They leverage the OpenHome voice AI ecosystem to create conversational agents that enhance user experiences through various custom skills.
 
-### what-they-built
-Shoompa has been actively developing abilities for the OpenHome platform, including a prototype to control air conditioning units with integration for weather data.
+## what-they-built
+Shoompa has shipped the "Decision Journal" ability, which allows users to naturally discuss and capture their decisions. This ability features passive capture of decisions, review capabilities, and analysis of decision patterns across multiple areas of life, such as career and personal choices. 
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not specified
-- GitHub: [Vheissu/openhome-izone](https://github.com/Vheissu/openhome-izone)
-- X: Not specified
+## how-to-reach
+Discord: @shoompa  
+GitHub: [shoompa's GitHub](https://github.com/openhome-dev/abilities/pull/259)
 
 ## connects-to
-[[builders]]
-[[openhome-abilities]]
-[[openhome]]
-[[conversational-ai]]
-[[AI-for-Lancaster]]
-<!-- synthesized: 2026-04-26T11:13:27Z -->
-```
+[[abilities/decision-journal]]
+
+<!-- synthesized: 2026-04-27T11:31:28Z -->

@@ -1,28 +1,26 @@
-```markdown
----
-title: "platform/speakers"
-entity_type: "platform"
-status: "stub"
-last_updated: 2026-04-26
----
-
-### what-it-is
-The OpenHome speakers are cutting-edge smart speakers designed to function as local, voice-powered devices capable of interacting with AI and enhancing smart home experiences.
-
-### how-it-works
-OpenHome speakers operate on an open-source platform that allows developers to create and customize voice AI agents, known as Personalities. These speakers can integrate various abilities, enabling functionalities such as playing music, controlling smart home devices, and engaging in conversation. Developers can prototype abilities using a command-line interface, and the speakers respond to voice commands triggered by specific hotwords.
-
-### current-status
-stub
-
-### connects-to
-[[platform/openhome]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
-
-<!-- synthesized: 2026-04-26T11:13:27Z -->
+```yaml
+title: Speakers
+entity_type: platform/speakers
+status: beta
+last_updated: 2026-04-27
 ```
+
+## what-it-is
+Speakers in the OpenHome platform refer to the cutting-edge smart speaker devices that form a fundamental part of the OpenHome ecosystem, enabling users to interact with voice AI agents.
+
+## how-it-works
+The speakers operate by integrating with the OpenHome Voice AI platform, allowing users to build and customize conversational AI agents, known as Personalities. These devices function by utilizing modular voice plugins called Abilities, which enhance the speaker's functionality, enabling it to engage in various tasks such as playing music, controlling smart home devices, and conducting interactive conversations. Users can create their Personalities through a web dashboard and extend their capabilities by adding Abilities that respond to specific voice commands or hotwords.
+
+## current-status
+beta
+
+## connects-to
+- [[platform/openhome]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/voice-ai]]
+- [[platform/local-link]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
+
+<!-- synthesized: 2026-04-27T11:31:28Z -->

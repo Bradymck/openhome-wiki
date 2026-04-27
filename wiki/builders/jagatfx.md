@@ -1,29 +1,28 @@
 ```markdown
 ---
 title: builders/jagatfx
-entity_type: builder
-status: live
-last_updated: 2026-04-26
+entity_type: builders
+status: beta
+last_updated: 2026-04-27
 ---
 
 ## who-they-are
-Jagatfx is an experienced AI developer with a strong background in building AI-driven systems and automation workflows. They aim to create meaningful and high-quality products, demonstrating a commitment to responsible project execution and effective communication across development teams.
+Jagatfx is an active member of the OpenHome community, focused on building innovative voice AI applications. They are working on utilizing the OpenHome platform to create expressive conversational AI agents, enhancing user experience in daily technology interactions.
 
 ## what-they-built
-Jagatfx is involved in developing conversational AI agents called "Personalities" using the OpenHome platform. They have contributed to the creation and testing of abilities that enhance the functionality of AI agents. Notably, they are testing an ability for Openhome that allows for air conditioning control with weather integration.
+Jagatfx has contributed to the OpenHome community by shipping the Decision Journal ability. This ability allows users to naturally discuss their decisions, which are passively captured for later review. It helps users reflect on past decisions and identify patterns over time. The feature focuses on user experience and seamless integration, providing insights into various decision-making contexts.
 
 ## grant-status
-none
+applied
 
 ## how-to-reach
-- Discord: Not provided
-- GitHub: [Vheissu/openhome-izone](https://github.com/Vheissu/openhome-izone)
-- X: Not provided
+- Discord: Jagatfx#1000
+- GitHub: [Jagatfx's GitHub](https://github.com/jagatfx)
+- X: [@jagatfx](https://x.com/jagatfx)
 
 ## connects-to
-[[abilities]]
-[[openhome]]
-[[ai-driven-systems]]
-
-<!-- synthesized: 2026-04-26T11:13:27Z -->
+[[builders/openhome]]  
+[[abilities/decision-journal]]  
+[[developers/community]]
+<!-- synthesized: 2026-04-27T11:31:28Z -->
 ```

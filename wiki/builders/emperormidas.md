@@ -1,30 +1,28 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: builder
-status: live
-last_updated: 2026-04-26
+entity_type: community_builder
+status: stub
+last_updated: 2026-04-27
 ---
 
 ### who-they-are
-Emperor Midas is an experienced AI developer who specializes in creating AI-driven systems and automation workflows. They are known for their strong commitment to projects and effective communication, allowing them to collaborate effectively on various software development endeavors. They are passionate about building meaningful products that leverage AI technology.
+EmperorMidas is an active community builder within the OpenHome platform, focusing on enhancing voice AI interactions and developing useful assistant abilities.
 
 ### what-they-built
-Emperor Midas has been involved in developing various projects, including the OpenHome platform, which focuses on creating conversational AI agents called Personalities. They are actively contributing to the development of Abilities, which are modular plugins that enhance the functionality of these AI agents. Notable contributions include a command line interface (CLI) for OpenHome that streamlines the development and deployment of abilities.
+EmperorMidas has contributed to the community by shipping the "Decision Journal" ability, which passively captures user decisions during conversations for later reflection. This ability facilitates tracking decision outcomes and identifying patterns across various decision domains such as career, finance, and relationships.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: [Emperor Midas GitHub Profile](https://github.com/Vheissu/openhome-izone)
-- X: Not specified
+- Discord: Unknown
+- GitHub: Unknown
+- X: Unknown
 
-## connects-to
-[[builders]]
-[[OpenHome]]
-[[Abilities]]
-[[Personalities]]
-[[AI Development]]
-<!-- synthesized: 2026-04-26T11:13:27Z -->
+### connects-to
+[[builders/openhome]]  
+[[abilities/decision-journal]]  
+
+<!-- synthesized: 2026-04-27T11:31:28Z -->
 ```

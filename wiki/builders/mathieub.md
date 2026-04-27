@@ -1,30 +1,27 @@
 ```markdown
 ---
-title: builders/mathieub
-entity_type: builder
-status: live
-last_updated: 2026-04-26
+title: Mathieub
+entity_type: builders
+status: stub
+last_updated: 2026-04-27
 ---
 
 ### who-they-are
-Mathieu B. is an experienced AI developer with a strong background in building AI-driven systems, automation workflows, and production-ready software. He is passionate about creating meaningful products where strong engineering and practical execution matter.
+Mathieub is a community builder within the OpenHome ecosystem, focusing on developing AI-powered voice applications and integrating various abilities to enhance user interactions with technology.
 
 ### what-they-built
-Mathieu has contributed to the development of abilities for the OpenHome platform, particularly focused on enhancing voice AI interactions. He has created abilities that integrate with smart home devices, such as controlling air conditioning with weather integration. His work includes utilizing the openhome-cli for streamlined ability development and deployment.
+Mathieub has contributed to the OpenHome community by shipping the "Decision Journal" ability. This ability allows users to passively document decisions they make during conversations, reflecting on past choices and identifying patterns over time. 
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: @mathieub
-- GitHub: [mathieub](https://github.com/mathieub)
-- X: [@mathieub](https://twitter.com/mathieub)
+- Discord handle: Not specified
+- GitHub: Not specified
+- X (formerly Twitter): Not specified
 
 ### connects-to
-[[builders/openhome]]
-[[integrations/air-conditioning]]
-[[abilities/weather-integration]]
-[[abilities/smart-home-control]]
+- [[Decision Journal]]
 
-<!-- synthesized: 2026-04-26T11:13:27Z -->
+<!-- synthesized: 2026-04-27T11:31:28Z -->
 ```

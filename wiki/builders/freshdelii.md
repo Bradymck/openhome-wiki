@@ -1,29 +1,28 @@
-```markdown
----
-title: builders/freshdelii
-entity_type: community_builder
+```yaml
+title: freshdelii
+entity_type: builders
 status: stub
-last_updated: 2026-04-26
----
+last_updated: 2026-04-27
+```
 
-### who-they-are
-FreshDelii is a community builder focused on the development of AI-driven applications, particularly involving conversational AI technologies. Their goal is to enhance user interactions with intelligent systems by creating immersive and intuitive voice-first applications.
+## who-they-are
+Freshdelii is an active community builder within the OpenHome ecosystem, focusing on developing and enhancing capabilities for conversational AI agents known as Personalities. They are engaged in building experiences that utilize the OpenHome platform's unique voice AI features.
 
-### what-they-built
-Currently, specific details about the abilities or integrations shipped by FreshDelii are not available. There is an emphasis on building agents and abilities within the OpenHome environment, and they are likely contributing to this open-source platform.
+## what-they-built
+As part of their contributions, Freshdelii is actively involved in creating and testing new abilities for the OpenHome platform. Their key project includes the development of a 'Decision Journal' ability, which captures users' decision-making conversations and allows for the review and reflection of past decisions.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[builders/openhome]]  
-[[abilities/conversational_ai]]  
-[[platforms/voice_assistant]]
+[[abilities]]
+[[OpenHome]]
+[[conversational AI]]
+[[Decision Journal]]
 
-<!-- synthesized: 2026-04-26T11:13:27Z -->
-```
+<!-- synthesized: 2026-04-27T11:31:28Z -->

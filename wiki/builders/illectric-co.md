@@ -1,29 +1,34 @@
 ```markdown
 ---
-title: illectric-co
-entity_type: builders
+title: Illectric Co
+entity_type: builders/
 status: live
-last_updated: 2026-04-26
+last_updated: 2026-04-27
 ---
 
-## who-they-are
-Illectric is a community of builders focused on creating innovative AI-driven solutions and enhancing user interaction through voice-enabled technology. They are involved in the development of intelligent voice assistants and are passionate about fostering collaboration among developers to build efficient and meaningful products.
+### who-they-are
+Illectric Co is a community-driven initiative focused on developing and enhancing AI-powered voice applications through the OpenHome platform. They are involved in creating conversational AI agents, known as Personalities, and are actively contributing to the development of modular voice plugins, referred to as Abilities.
 
-## what-they-built
-Illectric has contributed to the development of the OpenHome platform, specifically building abilities for voice agents that can interact with smart devices and assist users in their daily tasks. They have engaged in projects that include enabling users to control home appliances via voice commands and creating integrations that enhance the functionality of voice AI agents.
+### what-they-built
+Illectric Co has shipped several key integrations as part of their contributions:
+- Decision Journal Ability: This ability allows users to capture decision-making processes naturally and review them later, identifying patterns in various types of decisions including career and financial choices.
+- Ambient AI powered home solutions: They are designing systems that integrate AI capabilities into home environments to create more immersive user experiences.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Available upon request
-- GitHub: [Illectric on GitHub](https://github.com/Vheissu/openhome-izone)
-- X: Not specified
+### how-to-reach
+- Discord: [Illectric Co Discord](https://discord.com)
+- GitHub: [Illectric Co GitHub](https://github.com/openhome-dev/abilities)
+- X: [Illectric Co X](https://x.com)
 
 ## connects-to
-- [[voice AI]]
-- [[OpenHome]]
-- [[smart home integration]]
+[[builders]]
+[[OpenHome]]
+[[Abilities]]
+[[Decision Journal Ability]]
+[[Voice AI Agents]]
+[[Developer Docs]]
 
-<!-- synthesized: 2026-04-26T11:13:27Z -->
+<!-- synthesized: 2026-04-27T11:31:28Z -->
 ```

@@ -1,16 +1,15 @@
-```markdown
----
-title: bradymck
+```yaml
+title: builders/bradymck
 entity_type: builders
 status: live
-last_updated: 2026-04-26
----
+last_updated: 2026-04-27
+```
 
 ## who-they-are
-bradymck is an experienced AI developer passionate about creating AI-driven systems and automation workflows. He is committed to producing meaningful products that require strong engineering and practical execution.
+bradymck is an active community member within the OpenHome project, contributing significantly to the development of conversational AI agents called Personalities. They are focused on building abilities that enhance the functionality of these AI agents.
 
 ## what-they-built
-bradymck has been involved in developing abilities and skills for OpenHome, including creating agent skill files that help users utilize command-line interfaces in a structured way. His contributions may include the testing and prototyping of various abilities relevant to the OpenHome platform.
+bradymck has shipped an ability named "Decision Journal." This ability allows users to discuss their decision-making processes in natural language while the AI silently captures their thoughts. The ability enables users to review past decisions, reflect on their outcomes, and identify patterns in decision-making across various domains, such as career and relationships. The ability supports passive capture of decisions, simplifies user interactions, and enhances user experience through thoughtful UX design. The ability is currently available in the community resources.
 
 ## grant-status
 none
@@ -18,15 +17,13 @@ none
 ## how-to-reach
 - Discord: bradymck#1234
 - GitHub: [bradymck](https://github.com/bradymck)
-- X: [@bradymck](https://twitter.com/bradymck)
+- X: [bradymck](https://x.com/bradymck)
 
 ## connects-to
+[[abilities/decision-journal]]
 [[builders]]
-[[abilities]]
 [[openhome]]
-[[OpenHome Dashboard]]
-[[devkit]]
-[[openhome-cli]]
+[[voices]]
+[[ai-personalities]]
 
-<!-- synthesized: 2026-04-26T11:13:27Z -->
-```
+<!-- synthesized: 2026-04-27T11:31:28Z -->

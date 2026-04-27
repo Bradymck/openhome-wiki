@@ -1,27 +1,31 @@
-```yaml
+```markdown
+---
 title: builders/michaelgold
-entity_type: builder
-status: stub
-last_updated: 2026-04-26
-```
+entity_type: community_builder
+status: live
+last_updated: 2026-04-27
+---
 
 ## who-they-are
-Michael Gold is an experienced AI developer with hands-on experience in building AI-driven systems, automation workflows, and production-ready software. He is deeply passionate about AI and is motivated to work on meaningful products where strong engineering and practical execution matter. Gold is recognized for his commitment to tasks, ensuring they are completed with care and professionalism.
+Michael Gold is an active contributor in the OpenHome community, focusing on building AI-powered voice applications. He is involved in creating innovative features and abilities for the OpenHome platform.
 
 ## what-they-built
-Michael Gold has contributed to the OpenHome platform, specifically working with abilities for conversational AI agents. He has developed small coding-agent skill files to enhance the functionality of AI agents through structured command-line interactions. His work explores new ways for agents to autonomously create, test, and improve their abilities.
+Michael has shipped the "Decision Journal" ability to the community abilities on OpenHome. This feature allows users to capture and review their decisions passively through natural conversation, helping them reflect on the outcomes and patterns of their choices. The ability emphasizes user experience with features such as:
+- Passive capture of decisions through voice.
+- Reflective review of past decisions.
+- User-friendly interaction without clunky form-filling.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: @michaelgold
+- GitHub: [michaelgold](https://github.com/michaelgold)
+- X: N/A
 
 ## connects-to
+[[abilities/decision_journal]]
+[[developers/openhome]]
 [[builders]]
-[[OpenHome]]
-[[abilities]]
-
-<!-- synthesized: 2026-04-26T11:13:27Z -->
+<!-- synthesized: 2026-04-27T11:31:28Z -->
+```

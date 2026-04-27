@@ -3,23 +3,21 @@
 title: Doogriss
 entity_type: team
 status: stub
-last_updated: 2026-04-26
+last_updated: 2026-04-27
 ---
 
 ### who-they-are
-Doogriss is a member of the OpenHome team, contributing to the development of AI-driven systems and automation workflows.
+Role at OpenHome: Not specified. Background: Not specified.
 
 ### what-they-own
-Doogriss leads initiatives related to building and improving conversational AI agents and their capabilities within the OpenHome platform.
+Areas of the platform they lead: Not specified.
 
 ### how-to-reach
-Preferred contact is via Discord (handle not specified). 
+Contact details: Not specified.
 
-### connects-to
-- [[team/jesse]]
-- [[team/shannon]]
-- [[opensource/openhome]]
-- [[projects/ai-agents]]
+## connects-to
+[[team/jesse]]
+[[team/shannon]]
 
-<!-- synthesized: 2026-04-26T11:13:27Z -->
+<!-- synthesized: 2026-04-27T11:31:28Z -->
 ```

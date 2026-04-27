@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: Spatial Intelligence
 entity_type: concepts
-status: live
-last_updated: 2026-04-26
----
+status: stub
+last_updated: 2026-04-27
+```
 
 ## definition
-Spatial intelligence is the capacity to understand and interact with the spatial relationships between objects in the environment. It involves visualizing and manipulating physical space and recognizing patterns and relationships in that space.
+Spatial intelligence refers to the ability to visualize and manipulate objects and understand spatial relationships. It encompasses skills such as recognizing patterns, understanding the layout of environments, and navigating physical spaces effectively.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence enhances the ability of AI agents to interact with the physical environment and understand user commands related to location and space. This capability is crucial for creating immersive and intuitive voice interactions, allowing users to control smart home devices and navigate their environments more effectively.
+In the context of OpenHome, spatial intelligence enhances the interaction between AI agents and the physical environment, enabling users to engage with their devices in a more intuitive and meaningful way. It supports features like navigation and contextual awareness, which are essential for creating immersive voice-first applications.
 
 ## how-it-manifests
-Spatial intelligence in OpenHome appears through features that allow Personalities to understand commands related to spatial relationships. For instance, users can interact with devices based on their location within a smart home setup, allowing for contextual responses that are dependent on the agent's awareness of surrounding space and user positioning.
+Spatial intelligence can manifest in OpenHome through the optimization of AI agents that can interpret user commands related to their physical surroundings. For example, AI could integrate with smart home devices, allowing users to manage household tasks oriented around their immediate environment.
 
 ## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/grant-program]]
-- [[concepts/dead-mans-switch]]
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-26T11:13:27Z -->
-```
+<!-- synthesized: 2026-04-27T11:31:28Z -->

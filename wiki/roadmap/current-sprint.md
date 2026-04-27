@@ -1,29 +1,27 @@
-```markdown
----
-title: Roadmap Current Sprint
+```yaml
+title: Roadmap - Current Sprint
 entity_type: roadmap
 status: live
-last_updated: 2026-04-26
----
+last_updated: 2026-04-27
+```
 
 ## what-it-is
-The current sprint includes the distribution of physical V0.1 devkits for top contributions and feedback from developers using the OpenHome platform. These devkits are advanced smart speakers that facilitate building conversational AI agents with the OpenClaw framework.
+The current sprint involves the distribution of OpenHome physical V0.1 devkits to contributors who provide feedback and build Abilities for the OpenHome platform. The devkits are intelligent smart speakers designed for voice AI applications, enabling users to create and interact with AI agents called Personalities.
 
 ## status
-In-progress
+in-progress
 
 ## why-it-matters
-The initiative aims to engage the developer community in creating and enhancing AI-powered voice applications, thereby expanding the capabilities of the OpenHome platform. By providing physical devkits, OpenHome encourages developers to prototype and share their projects, fostering innovation within the community.
+This initiative aims to foster community engagement and enhance the development of voice-first applications by providing developers with the tools (devkits) they need to experiment and innovate within the OpenHome ecosystem. The program supports collaboration and encourages the building of personalized AI experiences.
 
 ## eta
-Devkits are being shipped globally in small batches, with priority given to active contributors and those who prototype new abilities.
+Devkits are being shipped globally in small batches. A precise timeline for all devkit shipments has not been disclosed but is ongoing.
 
 ## connects-to
-- [[OpenHome]]
-- [[OpenClaw]]
-- [[Abilities]]
-- [[Developer Docs]]
-- [[OpenHome Dashboard]]
+[[OpenHome]]
+[[Personalities]]
+[[Abilities]]
+[[Developer Docs]]
+[[OpenHome Dashboard]]
 
-<!-- synthesized: 2026-04-26T11:13:27Z -->
-```
+<!-- synthesized: 2026-04-27T11:31:28Z -->

@@ -1,25 +1,25 @@
 ```yaml
-title: roadmap/shipped
-entity_type: roadmap
+title: Roadmap and Shipped Features
+entity_type: roadmap/shipped
 status: live
-last_updated: 2026-04-26
+last_updated: 2026-04-27
 ```
 
 ## what-it-is
-OpenHome has launched physical V0.1 development kits for building AI-powered voice agents, equipped with smart speaker capabilities and support for modular voice plugins called Abilities.
+OpenHome has introduced a Decision Journal ability, allowing users to capture personal decision-making moments through natural conversation. The ability passively records decisions made and provides a means for users to reflect on past choices and patterns.
 
 ## status
-shipped
+Shipped
 
 ## why-it-matters
-This initiative aims to empower developers to create personalized AI agents by providing them with tools and resources to enhance user interaction with technology through voice applications. The availability of development kits facilitates innovation and experimentation within the community.
+The Decision Journal enhances user experience by enabling passive capture of conversations, removing the friction of manual data entry. It allows users to reflect on past decisions and track outcomes, making it easier to recognize patterns in various aspects of their lives, including career, financial, health, and relationship decisions.
 
 ## eta
-Currently shipping globally in small batches.
+Released as of April 27, 2026.
 
 ## connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[Development Kits]]
-[[Abilities]]
-<!-- synthesized: 2026-04-26T11:13:27Z -->
+[[OpenHome]]  
+[[Abilities]]  
+[[Developer Docs]]  
+
+<!-- synthesized: 2026-04-27T11:31:28Z -->

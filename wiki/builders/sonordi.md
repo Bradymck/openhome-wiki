@@ -1,27 +1,27 @@
-```yaml
+```markdown
+---
 title: builders/sonordi
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-04-26
-```
+last_updated: 2026-04-27
+---
 
 ### who-they-are
-Sonordi is an active community builder in the OpenHome ecosystem. They are passionate about developing AI-driven systems, specifically focusing on creating conversational AI agents and their integrations.
+Sonordi is a community builder engaged with the OpenHome project, focusing on developing innovative voice AI applications and integrating various capabilities into the OpenHome platform.
 
 ### what-they-built
-Sonordi has worked on building various abilities and integrations for the OpenHome platform, contributing to the enhancement of Personalities with modular voice plugins that add new skills.
+Sonordi has contributed to the development of voice AI abilities, specifically shipping an ability called "Decision Journal." This ability allows users to capture and reflect on their decision-making process by recording key choices and outcomes through natural voice interactions.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ### connects-to
-[[OpenHome]]  
-[[Abilities]]  
-[[Personality]]  
+- [[abilities/Decision Journal]]
 
-<!-- synthesized: 2026-04-26T11:13:27Z -->
+<!-- synthesized: 2026-04-27T11:31:28Z -->
+```

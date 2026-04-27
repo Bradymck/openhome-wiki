@@ -3,24 +3,25 @@
 title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-04-26
+last_updated: 2026-04-27
 ---
 
 ## definition
-Voice-first refers to a paradigm in technology where voice interactions are prioritized over other input methods, such as text or touch. In this context, users interact primarily through voice commands and conversations, enabling a more natural and intuitive user experience.
+Voice-first refers to a design and interaction paradigm where voice commands and spoken language are the primary methods of interaction with devices and applications. This approach emphasizes natural language processing and voice recognition technology to facilitate seamless communication between users and their devices.
 
 ## why-it-matters
-Voice-first technology is crucial to OpenHome's mission of revolutionizing human-device interaction. By enabling voice-first applications, OpenHome empowers users to connect with their devices in a seamless and engaging way, enhancing accessibility and user satisfaction.
+The voice-first approach is fundamental to OpenHome as it aligns with the mission to make AI-powered applications more accessible and intuitive. By prioritizing voice interactions, OpenHome fosters immersive user experiences that enhance daily interactions with technology, allowing users to connect with their smart devices in meaningful ways.
 
 ## how-it-manifests
-In the OpenHome platform, voice-first interactions are embedded in the creation and functionality of Personalities and Abilities. Users can develop conversational AI agents that respond to voice commands, making it easy to control smart home devices, access information, and perform tasks using natural language.
+In the OpenHome platform, voice-first concepts are embodied in the development of Personalities (AI agents) that utilize voice commands as their primary mode of interaction. Users can create and customize Personalities to respond to spoken requests, enabling functionalities such as controlling smart home devices, playing music, or providing information. The platform also supports the integration of Abilities, which are modular voice plugins that extend the capabilities of these Personalities, responding to hotwords triggered during conversations.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-26T11:13:27Z -->
+<!-- synthesized: 2026-04-27T11:31:28Z -->
 ```
