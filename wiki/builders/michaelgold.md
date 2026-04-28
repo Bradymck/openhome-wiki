@@ -1,19 +1,15 @@
-```markdown
----
-title: builders/michaelgold
-entity_type: community_builder
+```yaml
+title: Michael Gold
+entity_type: builders/michaelgold
 status: live
-last_updated: 2026-04-27
----
+last_updated: 2026-04-28
+```
 
 ## who-they-are
-Michael Gold is an active contributor in the OpenHome community, focusing on building AI-powered voice applications. He is involved in creating innovative features and abilities for the OpenHome platform.
+Michael Gold is a developer and active community builder within the OpenHome platform. He focuses on creating innovative voice AI applications and is involved in the development of various voice-powered abilities.
 
 ## what-they-built
-Michael has shipped the "Decision Journal" ability to the community abilities on OpenHome. This feature allows users to capture and review their decisions passively through natural conversation, helping them reflect on the outcomes and patterns of their choices. The ability emphasizes user experience with features such as:
-- Passive capture of decisions through voice.
-- Reflective review of past decisions.
-- User-friendly interaction without clunky form-filling.
+Michael has shipped an ability called "Decision Journal," which passively captures users' decisions made in everyday conversations. This ability allows users to reflect on past decisions, understand decision-making patterns over time, and evaluate outcomes without requiring formal inputs. 
 
 ## grant-status
 none
@@ -21,11 +17,11 @@ none
 ## how-to-reach
 - Discord: @michaelgold
 - GitHub: [michaelgold](https://github.com/michaelgold)
-- X: N/A
 
 ## connects-to
-[[abilities/decision_journal]]
-[[developers/openhome]]
+[[abilities/Decision Journal]]
+[[openhome]]
 [[builders]]
-<!-- synthesized: 2026-04-27T11:31:28Z -->
-```
+[[voice-ai]]
+
+<!-- synthesized: 2026-04-28T11:31:09Z -->

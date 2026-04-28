@@ -1,26 +1,28 @@
-```yaml
-title: Voice AI Platform
+```markdown
+---
+title: Voice AI
 entity_type: platform/voice-ai
 status: live
-last_updated: 2026-04-27
-```
+last_updated: 2026-04-28
+---
 
 ## what-it-is
-OpenHome is an open-source Voice AI platform that enables users to build conversational AI agents called Personalities, which can be enhanced with modular plugins known as Abilities.
+Voice AI is an integral part of the OpenHome platform, enabling the development of conversational AI agents, referred to as Personalities, which can interact with users using natural language.
 
 ## how-it-works
-The platform allows developers to create a Personality by configuring its voice, persona, and conversation style. Abilities are added to give these Personalities new skills, such as making API calls, playing music, running quizzes, or controlling smart home devices. These Abilities can be triggered by specific hotwords during voice interactions and execute custom Python logic to respond to user commands naturally. Users can manage and control their Voice AI agents through a comprehensive web dashboard.
+Voice AI functions by allowing developers to create Personalities that embody specific voices, personas, and conversation styles. These Personalities can be extended with Abilities, which are modular plugins that add new functionalities such as playing music, controlling devices, or executing custom logic through Python. Abilities can be triggered by hotwords during conversations, allowing for interactive and responsive voice interactions.
 
 ## current-status
 live
 
 ## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+- [[platform/openhome]]
+- [[platform/speakers]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/local-link]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+<!-- synthesized: 2026-04-28T11:31:09Z -->
+```

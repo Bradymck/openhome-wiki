@@ -1,34 +1,29 @@
 ```markdown
 ---
-title: Illectric Co
+title: "Illectric Co"
 entity_type: builders/
 status: live
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ---
 
-### who-they-are
-Illectric Co is a community-driven initiative focused on developing and enhancing AI-powered voice applications through the OpenHome platform. They are involved in creating conversational AI agents, known as Personalities, and are actively contributing to the development of modular voice plugins, referred to as Abilities.
+## who-they-are
+Illectric Co is a community builder focused on enhancing the OpenHome platform. Their goal is to develop conversational AI agents known as Personalities that can utilize a range of modular voice plugins, referred to as Abilities.
 
-### what-they-built
-Illectric Co has shipped several key integrations as part of their contributions:
-- Decision Journal Ability: This ability allows users to capture decision-making processes naturally and review them later, identifying patterns in various types of decisions including career and financial choices.
-- Ambient AI powered home solutions: They are designing systems that integrate AI capabilities into home environments to create more immersive user experiences.
+## what-they-built
+Illectric Co has shipped several abilities for the OpenHome platform, including the Decision Journal ability that captures and organizes users' decision-making processes. This ability allows users to talk about choices they are making and to review them later, reflecting on outcomes and patterns effectively.
 
-### grant-status
-none
+## grant-status
+applied
 
-### how-to-reach
-- Discord: [Illectric Co Discord](https://discord.com)
-- GitHub: [Illectric Co GitHub](https://github.com/openhome-dev/abilities)
-- X: [Illectric Co X](https://x.com)
+## how-to-reach
+- Discord: @illectric
+- GitHub: [https://github.com/Vheissu/openhome-izone](https://github.com/Vheissu/openhome-izone)
+- X: Not provided
 
 ## connects-to
 [[builders]]
 [[OpenHome]]
-[[Abilities]]
-[[Decision Journal Ability]]
-[[Voice AI Agents]]
-[[Developer Docs]]
-
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+[[abilities/Decision_Journal]]
+[[Personalities]]
+<!-- synthesized: 2026-04-28T11:31:09Z -->
 ```

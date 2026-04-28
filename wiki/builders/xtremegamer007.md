@@ -2,26 +2,26 @@
 ---
 title: builders/xtremegamer007
 entity_type: builders
-status: stub
-last_updated: 2026-04-27
+status: live
+last_updated: 2026-04-28
 ---
 
 ### who-they-are
-xtremegamer007 is a contributor in the OpenHome community, participating actively in discussions and projects related to the development of AI-powered voice applications and integrations for smart home devices. They are focused on building interactive and useful abilities for the OpenHome platform. 
+xtremegamer007 is a contributor within the OpenHome community, focusing on the development of voice AI agents and their associated abilities. They are involved in building solutions that enhance user interactions with technology through voice commands.
 
 ### what-they-built
-xtremegamer007 has developed and tested several abilities for the OpenHome platform, including a recently shipped ability called the "Decision Journal." This ability allows users to capture and review decisions they make through natural conversation, providing insight into their past choices and patterns in decision-making.
+xtremegamer007 has shipped an ability called **Decision Journal**. This ability passively captures user decisions during natural conversations, allowing users to later review past decisions, reflect on their outcomes, and identify patterns in their decision-making. The aim is to facilitate easy tracking and closure on personal and professional choices without interrupting the flow of conversation.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: <@647889512747499532>
+- GitHub: [OpenHome Abilities](https://github.com/openhome-dev/abilities)
+- X: Not provided
 
 ### connects-to
-[[abilities/Decision Journal]]
+[[abilities/decision-journal]]
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+<!-- synthesized: 2026-04-28T11:31:09Z -->
 ```

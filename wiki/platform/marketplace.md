@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: OpenHome Marketplace
+title: platform/marketplace
 entity_type: platform/marketplace
-status: live
-last_updated: 2026-04-27
+status: stub
+last_updated: 2026-04-28
 ---
 
 ### what-it-is
-The OpenHome Marketplace is a digital platform that enables users to explore, share, and integrate various Abilities for their voice AI agents, referred to as Personalities. It serves as a hub for developers and users to access plugins that enhance the functionality of their AI systems.
+The OpenHome Marketplace is a platform where developers can share, browse, and contribute Abilities for OpenHome's voice AI ecosystem. It serves as a hub for collaboration and innovation within the OpenHome community, allowing users to enhance their AI agents with modular plugins.
 
 ### how-it-works
-Users can browse through a collection of community-built Abilities within the OpenHome Marketplace. These Abilities are modular voice plugins designed to extend the capabilities of Personalities by adding new skills, such as controlling devices, accessing APIs, or playing music. Developers can submit their own Abilities, fostering a collaborative environment where contributions can be shared and improved upon by others. Users can fork existing Abilities and modify them to fit their needs, promoting innovation and customization.
+Users can explore a variety of Abilities created by the community, fork them for personal use, or submit their own contributions. The Marketplace facilitates a user-friendly interface for finding and integrating these Abilities into personal AI agents, known as Personalities. Ability development is encouraged through an open-source model, enabling developers to collaborate and iterate on voice AI capabilities.
 
 ### current-status
-live
+stub
 
 ### connects-to
 [[platform/openhome]]
-[[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
 [[platform/voice-ai]]
+[[platform/speakers]]
 [[platform/local-link]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+<!-- synthesized: 2026-04-28T11:31:09Z -->
 ```

@@ -1,30 +1,29 @@
 ```markdown
 ---
-title: Roadmap for OpenHome
+title: Roadmap and Planned Developments
 entity_type: roadmap/planned
-status: beta
-last_updated: 2026-04-27
+status: live
+last_updated: 2026-04-28
 ---
 
 ### what-it-is
-OpenHome is an open-source Voice AI platform that enables users to build conversational AI agents called Personalities, which can be enhanced with Abilities—modular voice plugins that provide additional skills.
+OpenHome is currently in the process of shipping physical V0.1 devkits, which are advanced smart speakers designed for building conversational AI agents. These devkits allow users to create and prototype their AI agents, referred to as Personalities, and extend them with modular voice plugins called Abilities.
 
 ### status
 In-progress
 
 ### why-it-matters
-OpenHome aims to revolutionize interactions with technology by making AI-powered, voice-first applications accessible and intuitive. This initiative empowers users to connect with their devices in meaningful ways, fostering innovative applications in everyday life.
+The introduction of the physical devkits is a significant step in making AI-powered voice applications accessible to developers and users alike. This initiative allows for hands-on experimentation, fostering innovation and engagement within the community, and aligns with OpenHome's mission to enhance human-device interaction through intuitive voice capabilities.
 
 ### eta
-The ability to run local Abilities on the DevKit is currently in beta testing and expected to be released soon. DevKit physical units are being shipped globally in small batches, and further timelines are not specified.
+Shipping is currently happening globally in small batches. No specific timeline for widespread release has been provided.
 
 ### connects-to
-[[DevKit]]
-[[Abilities]]
-[[Personality]]
-[[OpenHome Dashboard]]
-[[Voice AI]]
-[[Developer Docs]]
+- [[OpenHome]]
+- [[Voice AI]]
+- [[Personalities]]
+- [[Abilities]]
+- [[DevKit Companion App]]
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+<!-- synthesized: 2026-04-28T11:31:09Z -->
 ```

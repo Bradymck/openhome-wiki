@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: Pauldy
-entity_type: builders/
+title: builders/pauldy
+entity_type: builder
 status: live
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ---
 
 ## who-they-are
-Pauldy is an active community builder contributing to the OpenHome project, a platform for developing AI-powered voice applications.
+Pauldy is an active contributor within the OpenHome community, focusing on creating AI-powered voice applications and enhancing user interactions with technology. They are involved in building conversational AI agents, known as Personalities, that incorporate various modular voice plugins called Abilities.
 
 ## what-they-built
-Pauldy has released the "Decision Journal" ability, which allows users to capture and reflect on their decision-making processes through natural conversation. This ability provides passive capture of decisions and helps users observe patterns across various life domains such as career, finance, health, and relationships. The ability is currently undergoing beta testing and is available for community use. Pauldy is also involved in the development of other abilities such as controlling smart home devices through voice.
+Pauldy has shipped an Ability called Decision Journal, which allows users to record and reflect on their decision-making processes through natural conversation. This Ability passively captures decisions as users talk, allowing them to review past choices and identify patterns over time. The Decision Journal also emphasizes user experience with features that accommodate mid-flow commands without interrupting the conversation.
 
 ## grant-status
-applied
+$1K
 
 ## how-to-reach
-- Discord: <@647889512747499532>
-- GitHub: [Vheissu on GitHub](https://github.com/Vheissu)
-- X: Not specified
+- Discord: not provided
+- GitHub: [Pauldy's Contributions](https://github.com/openhome-dev/abilities/pull/259)
+- X: not provided
 
 ## connects-to
-[[abilities/Decision Journal]]
-[[developers/OpenHome]]
-[[builders/]]
+[[ability/decision-journal]]
+[[builders/openhome]]
+[[platform/openhome]]
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+<!-- synthesized: 2026-04-28T11:31:09Z -->
 ```

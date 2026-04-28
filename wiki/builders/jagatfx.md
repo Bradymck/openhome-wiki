@@ -2,27 +2,27 @@
 ---
 title: builders/jagatfx
 entity_type: builders
-status: beta
-last_updated: 2026-04-27
+status: live
+last_updated: 2026-04-28
 ---
 
 ## who-they-are
-Jagatfx is an active member of the OpenHome community, focused on building innovative voice AI applications. They are working on utilizing the OpenHome platform to create expressive conversational AI agents, enhancing user experience in daily technology interactions.
+Jagatfx is a community builder engaged with OpenHome, an open-source Voice AI platform that facilitates the creation of conversational AI agents known as Personalities. They leverage cutting-edge technology and are involved in developing capabilities that enrich users' interactions with smart devices.
 
 ## what-they-built
-Jagatfx has contributed to the OpenHome community by shipping the Decision Journal ability. This ability allows users to naturally discuss their decisions, which are passively captured for later review. It helps users reflect on past decisions and identify patterns over time. The feature focuses on user experience and seamless integration, providing insights into various decision-making contexts.
+Jagatfx has contributed to the community by developing the "Decision Journal" ability. This ability allows users to speak naturally about their decisions, capturing discussions about choices in a passive manner. It helps users track and reflect on their decisions over time, identifying patterns in various aspects of life, such as career, financial, health, and relationship choices.
 
 ## grant-status
-applied
+$1K
 
 ## how-to-reach
-- Discord: Jagatfx#1000
-- GitHub: [Jagatfx's GitHub](https://github.com/jagatfx)
-- X: [@jagatfx](https://x.com/jagatfx)
+- Discord: Not specified
+- GitHub: [GitHub Profile](https://github.com/openhome-dev/abilities/pull/259)
+- X: Not specified
 
 ## connects-to
-[[builders/openhome]]  
-[[abilities/decision-journal]]  
-[[developers/community]]
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+[[abilities/decision-journal]]
+[[builders/openhome-dev]]
+[[platforms/openhome]]
+<!-- synthesized: 2026-04-28T11:31:09Z -->
 ```

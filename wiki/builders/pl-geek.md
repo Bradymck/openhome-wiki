@@ -1,30 +1,29 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: builders
-status: beta
-last_updated: 2026-04-27
+entity_type: builder
+status: live
+last_updated: 2026-04-28
 ---
 
 ### who-they-are
-pl-geek is a community builder associated with OpenHome, focusing on enhancing the accessibility of AI-powered voice applications. They contribute to developing conversational AI agents called Personalities and integrating various Abilities within the OpenHome ecosystem.
+Builders/pl-geek is an active member of the OpenHome community who is engaged in developing and enhancing capabilities for the OpenHome voice AI platform. They are focused on creating personalized AI agents and contributing to the enhancement of the developer ecosystem.
 
 ### what-they-built
-pl-geek has shipped the "Decision Journal" ability, which passively captures decisions made through conversational input. This tool allows users to review past decisions, reflect on outcomes, and identify patterns in decision-making without form-filling or breaking conversation flow. The ability emphasizes user experience and seamless integration into voice interactions.
+Recently, builders/pl-geek shipped the "Decision Journal" ability, which allows users to naturally discuss decisions they are making and quietly captures these discussions. This ability enables users to reflect on their past decisions, analyze outcomes, and identify patterns in their decision-making over time.
 
 ### grant-status
-applied
+None
 
 ### how-to-reach
-- Discord: @pl-geek
-- GitHub: [pl-geek's GitHub](https://github.com/pl-geek)
-- X: @pl_geek
+- **Discord Handle**: Not specified
+- **GitHub**: [builders/pl-geek GitHub Profile](https://github.com/openhome-dev/abilities)
+- **X**: Not specified
 
 ### connects-to
-[[OpenHome]]
-[[Abilities]]
-[[Decision Journal]]
-[[Personalities]]
+- [[abilities]]
+- [[OpenHome]]
+- [[Decision Journal]]
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+<!-- synthesized: 2026-04-28T11:31:09Z -->
 ```

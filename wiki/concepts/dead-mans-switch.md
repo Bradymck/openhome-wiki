@@ -1,20 +1,21 @@
-```yaml
-title: concepts/dead-mans-switch
+```markdown
+---
+title: Dead Man's Switch
 entity_type: concepts
 status: stub
-last_updated: 2026-04-27
-```
+last_updated: 2026-04-28
+---
 
-## definition
-A dead man's switch is a safety mechanism that triggers actions when a certain condition is met, typically when a user fails to perform a specific task or fails to respond within a given timeframe.
+### definition
+A dead man's switch is a safety mechanism designed to automatically trigger an action if the user becomes incapacitated or is unable to perform a required task. In the context of technology and automation, this switch ensures that systems continue to operate safely or shut down appropriately in the absence of user input.
 
-## why-it-matters
-In the OpenHome platform, dead man's switches can enhance user safety and security by ensuring that certain actions are taken if a user becomes unresponsive. This is particularly relevant for applications that involve critical home automation or personal management.
+### why-it-matters
+In OpenHome, a dead man's switch is significant as it enhances the safety and reliability of AI-powered voice applications. It allows for systems to maintain user safety and operational integrity without continuous direct oversight, crucial for maintaining effective user interaction with autonomous agents.
 
-## how-it-manifests
-While specific implementations of dead man's switches within the context of OpenHome are not detailed, they may appear in scenarios such as monitoring user activity, automating safety checks for smart home devices, or ensuring continuity of critical functions if a user fails to interact with the system.
+### how-it-manifests
+Within the OpenHome platform, concepts akin to a dead man's switch may be implemented as a feature in AI agents capable of monitoring user engagement and triggering safety protocols if interactions cease for an extended period. This could appear as functionalities that ensure the system pauses or alerts users when it detects inactivity, especially in scenarios where human oversight is critical.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -22,4 +23,5 @@ While specific implementations of dead man's switches within the context of Open
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+<!-- synthesized: 2026-04-28T11:31:09Z -->
+```

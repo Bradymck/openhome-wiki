@@ -1,27 +1,30 @@
 ```markdown
 ---
-title: Mathieub
-entity_type: builders
-status: stub
-last_updated: 2026-04-27
+title: "Mathieu B."
+entity_type: "builders/"
+status: "live"
+last_updated: 2026-04-28
 ---
 
-### who-they-are
-Mathieub is a community builder within the OpenHome ecosystem, focusing on developing AI-powered voice applications and integrating various abilities to enhance user interactions with technology.
+## who-they-are
+Mathieu B. is an active contributor within the OpenHome community, focused on developing AI-powered voice applications. He is particularly interested in creating innovative abilities for conversational AI agents.
 
-### what-they-built
-Mathieub has contributed to the OpenHome community by shipping the "Decision Journal" ability. This ability allows users to passively document decisions they make during conversations, reflecting on past choices and identifying patterns over time. 
+## what-they-built
+Mathieu has developed and shipped an ability called "Decision Journal," which allows users to discuss their decision-making processes naturally. This ability captures both firm choices and deliberation moments without interrupting the conversation flow. It is designed to help users reflect on past decisions, record their outcomes, and recognize patterns in their choices. The ability has garnered positive feedback for its user-friendly experience and useful functionality.
 
-### grant-status
-none
+## grant-status
+$1K
 
-### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X (formerly Twitter): Not specified
+## how-to-reach
+- Discord: @mathieub
+- GitHub: [Mathieu B.'s GitHub](https://github.com/) (specific profile link not provided)
+- X: Not provided
 
-### connects-to
-- [[Decision Journal]]
+## connects-to
+- [[builders]]
+- [[openhome]]
+- [[abilities]]
+- [[decision-journal]]
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+<!-- synthesized: 2026-04-28T11:31:09Z -->
 ```

@@ -1,26 +1,26 @@
 ```yaml
 title: platform/live-editor
-entity_type: platform
+entity_type: page
 status: beta
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ```
 
 ## what-it-is
-The Live Editor is a component of the OpenHome platform that allows developers to create and test voice applications in real-time. It provides a user-friendly interface for building conversational AI agents, known as Personalities, and enhances their capabilities using Abilities.
+The Live Editor is a feature of the OpenHome platform that allows developers to create and manage conversational AI agents, known as Personalities, with the ability to dynamically add or modify Abilities during runtime.
 
 ## how-it-works
-The Live Editor functions as an integrated development environment (IDE) for users to craft and customize their voice AI applications. Developers can set up personal AI agents, assign them unique voices and personas, and add various Abilities that define their skills. Features include live testing of the applications, enabling immediate feedback and adjustments during the development process. It supports the use of hotwords for triggering Abilities during conversations and allows for the execution of custom Python logic.
+The Live Editor provides an interactive interface where developers can build and update their AI agents without needing to redeploy or restart the system. This real-time editing capability makes it easier to iterate on personalized voice interactions and integrate new functionalities as they are developed. By leveraging this tool, developers can quickly test and deploy Abilities that enhance their Personalities, thereby improving user experience through more responsive and engaging AI interactions.
 
 ## current-status
 beta
 
 ## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
+[[platform/openhome]]  
+[[platform/speakers]]  
+[[platform/abilities]]  
+[[platform/dashboard]]  
+[[platform/voice-ai]]  
+[[platform/local-link]]  
+[[platform/marketplace]]  
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+<!-- synthesized: 2026-04-28T11:31:09Z -->

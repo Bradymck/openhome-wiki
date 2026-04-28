@@ -1,28 +1,28 @@
-```markdown
----
-title: "builders/shookdt"
-entity_type: "builders"
-status: "stub"
-last_updated: 2026-04-27
----
+```yaml
+title: ShookDT
+entity_type: builders
+status: live
+last_updated: 2026-04-28
+```
 
-### who-they-are
-Shookdt is a community builder contributing to the OpenHome platform, an open-source Voice AI environment that enables the creation of conversational AI agents.
+## who-they-are
+ShookDT is a community builder involved with the OpenHome platform, focusing on enhancing the interactions between users and artificial intelligence through voice-powered applications. They are engaged in the development of smart home technologies and voice AI agents, specifically utilizing the OpenHome devkit.
 
-### what-they-built
-Shookdt has created the "Decision Journal" ability, which captures users' decisions in a passive manner, allowing them to later reflect on outcomes and patterns. This ability is designed to facilitate conversations about decision-making without cumbersome input requirements.
+## what-they-built
+ShookDT has developed and shipped the "Decision Journal" ability for the OpenHome community. This ability enables users to capture and reflect on their decision-making processes by allowing them to naturally discuss their decisions, which are then documented for future review. The ability focuses on passive capture, providing insights into decision patterns across various aspects of life, including career, finance, health, and relationships.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not provided
-- GitHub: Not provided
+- GitHub: [ShookDT's GitHub Profile](https://github.com/openhome-dev/abilities/pull/259)
 - X: Not provided
 
-### connects-to
-[[builders]]
-[[abilities/Decision_Journal]]
+## connects-to
+- [[developers]]
+- [[personalities]]
+- [[abilities]]
+- [[voice_ai_intro]]
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
-```
+<!-- synthesized: 2026-04-28T11:31:09Z -->

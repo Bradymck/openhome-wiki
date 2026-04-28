@@ -1,26 +1,27 @@
-```yaml
-title: joyboyo42
+```markdown
+---
+title: builders/joyboyo42
 entity_type: builders
-status: live
-last_updated: 2026-04-27
-```
+status: stub
+last_updated: 2026-04-28
+---
 
-## who-they-are
-joyboyo42 is an active developer within the OpenHome community, contributing to the development of voice AI applications. They are focused on building abilities for the OpenHome platform, which allows users to create and enhance conversational AI agents known as Personalities.
+### who-they-are
+Joyboyo42 is an active member of the OpenHome community, contributing to the development of voice AI applications and personal assistants.
 
-## what-they-built
-joyboyo42 has shipped several abilities to the OpenHome community, including a feature called "Decision Journal." This ability allows users to discuss their decisions in natural language, capturing them passively for later reflection. It can track firm choices as well as deliberative moments, enabling users to review outcomes and recognize patterns across different areas such as career, financial, health, and relationship decisions.
+### what-they-built
+Joyboyo42 has shipped an ability called "Decision Journal" to the community abilities. This ability allows users to naturally talk about their decisions and captures them for later review, enhancing the decision-making process.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: [joyboyo42's GitHub](https://github.com/openhome-dev/abilities/pull/259)
-- X: Not specified
+### how-to-reach
+- Discord: @joyboyo42
+- GitHub: [joyboyo42's GitHub](https://github.com/joyboyo42)
+- X: Not available
 
-## connects-to
-[[abilities/Decision Journal]]  
-[[builders/openhome]]
+### connects-to
+[[abilities/Decision Journal]]
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+<!-- synthesized: 2026-04-28T11:31:09Z -->
+```

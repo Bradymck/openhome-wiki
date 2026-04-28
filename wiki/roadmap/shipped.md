@@ -1,25 +1,25 @@
 ```yaml
-title: Roadmap and Shipped Features
-entity_type: roadmap/shipped
+title: roadmap/shipped
+entity_type: roadmap
 status: live
-last_updated: 2026-04-27
+last_updated: 2026-04-28
 ```
 
-## what-it-is
-OpenHome has introduced a Decision Journal ability, allowing users to capture personal decision-making moments through natural conversation. The ability passively records decisions made and provides a means for users to reflect on past choices and patterns.
+# what-it-is
+OpenHome has released the Decision Journal ability. This feature allows users to capture their decisions conversationally, enabling them to reflect on past choices, outcomes, and patterns in decision-making.
 
-## status
-Shipped
+# status
+shipped
 
-## why-it-matters
-The Decision Journal enhances user experience by enabling passive capture of conversations, removing the friction of manual data entry. It allows users to reflect on past decisions and track outcomes, making it easier to recognize patterns in various aspects of their lives, including career, financial, health, and relationship decisions.
+# why-it-matters
+The Decision Journal capability addresses the need for users to process and learn from their decisions without cumbersome data entry. By passively capturing conversations about decisions, it aids in self-reflection and helps identify decision-making patterns across various aspects of life such as career, finance, health, and relationships.
 
-## eta
-Released as of April 27, 2026.
+# eta
+Released this week (as of the last update).
 
-## connects-to
-[[OpenHome]]  
-[[Abilities]]  
-[[Developer Docs]]  
+# connects-to
+[[OpenHome]]
+[[Abilities]]
+[[Personalities]]
 
-<!-- synthesized: 2026-04-27T11:31:28Z -->
+<!-- synthesized: 2026-04-28T11:31:09Z -->
