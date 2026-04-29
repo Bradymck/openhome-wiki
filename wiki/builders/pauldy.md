@@ -1,29 +1,27 @@
-```markdown
----
+```yaml
 title: builders/pauldy
-entity_type: builder
+entity_type: builders
 status: live
-last_updated: 2026-04-28
----
+last_updated: 2026-04-29
+```
 
 ## who-they-are
-Pauldy is an active contributor within the OpenHome community, focusing on creating AI-powered voice applications and enhancing user interactions with technology. They are involved in building conversational AI agents, known as Personalities, that incorporate various modular voice plugins called Abilities.
+Pauldy is an experienced AI developer with a passion for creating AI-driven systems and automation workflows. He has a strong focus on producing meaningful products that emphasize engineering excellence and practical execution.
 
 ## what-they-built
-Pauldy has shipped an Ability called Decision Journal, which allows users to record and reflect on their decision-making processes through natural conversation. This Ability passively captures decisions as users talk, allowing them to review past choices and identify patterns over time. The Decision Journal also emphasizes user experience with features that accommodate mid-flow commands without interrupting the conversation.
+Pauldy has shipped an ability called Decision Journal, which allows users to capture and review past decisions naturally through conversation. This ability passively captures decision-making moments without requiring manual input, enabling users to reflect on the outcomes of their choices and spot patterns over time.
 
 ## grant-status
-$1K
+none
 
 ## how-to-reach
-- Discord: not provided
-- GitHub: [Pauldy's Contributions](https://github.com/openhome-dev/abilities/pull/259)
-- X: not provided
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[ability/decision-journal]]
-[[builders/openhome]]
-[[platform/openhome]]
+[[abilities]]
+[[OpenHome]]
+[[Decision Journal]]
 
-<!-- synthesized: 2026-04-28T11:31:09Z -->
-```
+<!-- synthesized: 2026-04-29T11:29:46Z -->

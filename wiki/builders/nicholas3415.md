@@ -1,33 +1,26 @@
 ```markdown
 ---
 title: builders/nicholas3415
-entity_type: builder
+entity_type: builders/
 status: live
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 ---
 
-### who-they-are
-Nicholas3415 is an active builder within the OpenHome community, contributing to the development of conversational AI agents. They are focused on creating innovative personal assistants that leverage voice technology to improve user interactions with devices.
+## who-they-are
+Nicholas3415 is an experienced AI developer with hands-on expertise in building AI-driven systems and automation workflows. They are committed to delivering meaningful products with a focus on strong engineering and practical execution.
 
-### what-they-built
-Nicholas3415 has shipped an ability called "Decision Journal," which allows users to vocally capture decisions they are making, reflect on past choices, and analyze decision-making patterns. This ability enables passive capture of decisions, offering insights into personal experiences without the need for cumbersome data entry. The following features highlight its capabilities:
-- Natural voice interaction to log decisions.
-- Reviews of past decisions and their outcomes.
-- Recognition of both firm choices and periods of deliberation.
-- User-friendly experience designed to minimize disruption during interaction.
+## what-they-built
+Nicholas3415 has shipped the "Decision Journal" ability, which allows users to have natural conversations about their decision-making processes. This ability passively captures user decisions, enabling reflection on past choices and providing insights into patterns in various aspects of life.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- **Discord:** <@nicholas3415>
-- **GitHub:** [Nicholas3415 GitHub](https://github.com/nicholas3415)
-- **X:** [Nicholas3415 on X](https://x.com/nicholas3415)
+## how-to-reach
+- Discord handle: `Nicholas3415`
+- GitHub: [GitHub Profile](https://github.com/nicholas3415)
+- X: [Twitter Profile](https://twitter.com/nicholas3415)
 
 ## connects-to
-[[Decision Journal]]
-[[OpenHome]]
-[[Abilities]]
-[[Voice AI]]
-<!-- synthesized: 2026-04-28T11:31:09Z -->
+[[abilities/decision-journal]]
+<!-- synthesized: 2026-04-29T11:29:46Z -->
 ```

@@ -1,29 +1,28 @@
-```markdown
----
-title: builders/emperormidas
-entity_type: builder
+```yaml
+title: Emperormidas
+entity_type: builders
 status: stub
-last_updated: 2026-04-28
----
+last_updated: 2026-04-29
+```
 
-### who-they-are
-EmperorMidas is an active contributor within the OpenHome community, dedicated to the development of voice AI applications. They are focusing on creating innovative solutions that enhance user interactions with AI-powered technology.
+## who-they-are
+Emperormidas is an experienced AI developer passionate about building AI-driven systems and automation workflows. They possess strengths in responsibility, communication, and collaboration, making them effective in working on meaningful AI products.
 
-### what-they-built
-EmperorMidas has developed and shipped the "Decision Journal" ability. This ability allows users to talk about their decision-making process naturally, capturing their thoughts passively without requiring form-filling. It helps users review past decisions and observe patterns in their decision-making across various aspects of life.
+## what-they-built
+Emperormidas has contributed to the OpenHome community by shipping the "Decision Journal" ability. This ability allows users to talk about decisions they are making, which are then passively captured for future reflection. It supports decision tracking across various categories, including career, financial, health, and relationships.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Unknown
-- GitHub: Unknown
-- X: Unknown
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[abilities/decision-journal]]
-[[builders/openhome]]
-[[platforms/openhome]]
+## connects-to
+[[Abilities]]
+[[OpenHome]]
+[[Voice AI]]
+[[Community Contributions]]
 
-<!-- synthesized: 2026-04-28T11:31:09Z -->
-```
+<!-- synthesized: 2026-04-29T11:29:46Z -->

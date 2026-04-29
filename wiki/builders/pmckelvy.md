@@ -1,27 +1,27 @@
 ```yaml
 title: pmckelvy
-entity_type: builders/
+entity_type: builders
 status: live
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 ```
 
 ## who-they-are
-Pmckelvy is a community builder participating in the OpenHome project. They are engaging with the OpenHome platform to create innovative voice AI applications and integrating various abilities into the system. Their focus includes developing a seamless user experience for AI interactions in smart home environments.
+Pmckelvy is an experienced AI developer passionate about building AI-driven systems and automation workflows. With strong engineering skills and a commitment to project completion, Pmckelvy collaborates effectively with clients, founders, and development teams.
 
 ## what-they-built
-Pmckelvy has shipped the "Decision Journal" ability, which allows users to naturally discuss their decision-making processes, silently capturing their decisions for future reflection. This ability enables users to track their choices over time, identify patterns in their decision-making, and improves the user experience by eliminating cumbersome input methods.
+Pmckelvy has developed an ability named **Decision Journal**. This ability allows users to casually discuss their decisions, which the system captures for future reflection. Key features include passive capture of decisions, the ability to review past choices, and insights into decision-making patterns. This integration enhances user experience by providing a seamless way to track and analyze personal decisions.
 
 ## grant-status
-$1K
+applied
 
 ## how-to-reach
-- Discord: @pmckelvy
-- GitHub: [pmckelvy](https://github.com/pmckelvy)
-- X: Not specified
+- Discord: pmckelvy
+- GitHub: not provided
+- X: not provided
 
 ## connects-to
-- [[builders/decision-journal]]
-- [[builders/openhome]]
-- [[builders/abilities]]
+[[Ability: Decision Journal]]
+[[OpenHome]]
+[[AI Development]]
 
-<!-- synthesized: 2026-04-28T11:31:09Z -->
+<!-- synthesized: 2026-04-29T11:29:46Z -->

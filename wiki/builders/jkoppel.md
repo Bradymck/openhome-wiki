@@ -1,16 +1,15 @@
-```markdown
----
-title: builders/jkoppel
-entity_type: builders
+```yaml
+title: "builders/jkoppel"
+entity_type: "builders"
 status: live
-last_updated: 2026-04-28
----
+last_updated: 2026-04-29
+```
 
 ## who-they-are
-jkoppel is an active contributor in the OpenHome community, focusing on building abilities for voice AI agents. Their work emphasizes enhancing user interaction and creating modular voice plugins.
+jkoppel is an experienced AI developer with a strong background in building AI-driven systems and automation workflows. They are passionate about creating meaningful products that emphasize strong engineering and practical execution.
 
 ## what-they-built
-jkoppel has shipped the "Decision Journal" ability, which passively captures decisions made by users during natural conversations. This feature allows users to reflect on past decisions and identify patterns across various aspects of life, such as career and health. 
+jkoppel has shipped the "Decision Journal" ability to the OpenHome community. This ability enables users to capture decisions conversationally, allowing them to reflect on past choices and recognize patterns across various aspects of life.
 
 ## grant-status
 none
@@ -21,9 +20,8 @@ none
 - X: Not specified
 
 ## connects-to
-[[abilities/Decision Journal]]
+[[openhome]]
 [[abilities]]
-[[OpenHome]]
+[[decision-journal]]
 
-<!-- synthesized: 2026-04-28T11:31:09Z -->
-```
+<!-- synthesized: 2026-04-29T11:29:46Z -->

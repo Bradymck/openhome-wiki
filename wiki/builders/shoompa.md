@@ -1,31 +1,28 @@
 ```markdown
 ---
-title: builders/shoompa
-entity_type: builders
+title: Shoompa
+entity_type: builders/shoompa
 status: live
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 ---
 
-## who-they-are
-Shoompa is an active community builder within the OpenHome ecosystem, focusing on developing conversational AI agents and enhancing their skills through modular plugins known as Abilities. They participate in community feedback and contribute to the ongoing development and testing of the platform.
+### who-they-are
+Shoompa is a community builder involved with OpenHome, an open-source Voice AI platform focused on creating conversational AI agents known as Personalities. With expertise in building AI-driven systems, automation workflows, and production-ready software, Shoompa combines responsibility with collaboration, working effectively with clients, founders, and development teams.
 
-## what-they-built
-Shoompa has shipped multiple abilities for OpenHome, including a feature called "Decision Journal." This ability allows users to discuss their decision-making processes naturally, passively capturing their choices and enabling them to reflect on past decisions. The feature stands out by its UX design, ensuring a seamless user experience during interactions.
+### what-they-built
+Shoompa has contributed to the OpenHome community by developing the "Decision Journal" ability, which captures and analyzes decision-making moments in a user-friendly manner. This ability allows users to reflect on past decisions, track outcomes, and identify patterns across various life areas.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: @shoompa
-- GitHub: [Shoompa's GitHub](https://github.com/openhome-dev) *(specific link not provided)*
-- X: *(not available)*
+### how-to-reach
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[builders]]
-[[OpenHome]]
-[[Abilities]]
-[[Decision Journal]]
-[[community-building]]
+### connects-to
+- [[builders/openhome]]
+- [[abilities/decision-journal]]
 
-<!-- synthesized: 2026-04-28T11:31:09Z -->
+<!-- synthesized: 2026-04-29T11:29:46Z -->
 ```

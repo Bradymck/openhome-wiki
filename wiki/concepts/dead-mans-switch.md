@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Dead Man's Switch
-entity_type: concepts
-status: stub
-last_updated: 2026-04-28
+title: "Dead Man's Switch"
+entity_type: "concepts"
+status: "stub"
+last_updated: "2026-04-29"
 ---
 
 ### definition
-A dead man's switch is a safety mechanism designed to automatically trigger an action if the user becomes incapacitated or is unable to perform a required task. In the context of technology and automation, this switch ensures that systems continue to operate safely or shut down appropriately in the absence of user input.
+A dead man's switch is a safety mechanism that ensures the activation of a process or task based on the condition of a monitored input, typically requiring constant confirmation or attention. If the input ceases, typically due to a person becoming incapacitated or failing to respond, a predefined action is triggered, often to prevent harm or to alert others.
 
 ### why-it-matters
-In OpenHome, a dead man's switch is significant as it enhances the safety and reliability of AI-powered voice applications. It allows for systems to maintain user safety and operational integrity without continuous direct oversight, crucial for maintaining effective user interaction with autonomous agents.
+In the context of OpenHome, a dead man's switch can enhance user safety and device reliability, especially in scenarios where smart home devices are concerned. It ensures that critical actions or alerts occur if the user is unable to respond or manage their devices, creating a more resilient and user-centered experience.
 
 ### how-it-manifests
-Within the OpenHome platform, concepts akin to a dead man's switch may be implemented as a feature in AI agents capable of monitoring user engagement and triggering safety protocols if interactions cease for an extended period. This could appear as functionalities that ensure the system pauses or alerts users when it detects inactivity, especially in scenarios where human oversight is critical.
+While specific implementations within the OpenHome platform may vary, the concept can manifest in abilities that monitor user interactions or behaviors. For example, applications might track user engagement with a device or service and ensure actions are taken if no activity is detected over a certain period, thereby supporting user safety and operational continuity.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ Within the OpenHome platform, concepts akin to a dead man's switch may be implem
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-28T11:31:09Z -->
+<!-- synthesized: 2026-04-29T11:29:46Z -->
 ```

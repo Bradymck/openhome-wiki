@@ -1,25 +1,25 @@
-```markdown
----
-title: Local First
+```yaml
+title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-04-28
----
+last_updated: 2026-04-29
+```
 
-### definition
-Local First refers to the design principle that prioritizes data and processing occurring on local devices rather than relying heavily on remote servers. This approach emphasizes running applications directly on users’ devices to increase speed, accessibility, and control.
+## definition
+Local-first refers to a design philosophy prioritizing local processing and interaction within user devices, reducing reliance on cloud servers for processing and storage.
 
-### why-it-matters
-The Local First concept is significant to OpenHome as it enhances the performance and reliability of the platform by allowing users to operate their agents and applications offline. This reduces dependency on internet connectivity, promotes user privacy, and enables faster response times, aligning with OpenHome's mission of creating intuitive and immersive technology interactions.
+## why-it-matters
+This concept is relevant to OpenHome as it enhances user privacy and control over data. By allowing devices to process information locally, users can maintain greater ownership of their data and minimize vulnerabilities associated with cloud storage.
 
-### how-it-manifests
-In OpenHome, Local First manifests through the use of Devkits that allow developers to run applications locally. These devices are designed to support various functionalities, including music playback, smart home device control, and interactive AI conversations, all executed on the local hardware. This architecture enables more efficient processing of user commands and real-time interactions.
+## how-it-manifests
+In the OpenHome platform, local-first features can be seen in the development of capabilities that run directly on user devices, such as abilities processed by the smart speakers without needing to communicate constantly with external servers. This setup allows for quicker response times and more robust performance in various applications.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-28T11:31:09Z -->
-```
+<!-- synthesized: 2026-04-29T11:29:46Z -->

@@ -1,29 +1,26 @@
-```markdown
----
-title: builders/freshdelii
+```yaml
+title: freshdelii
 entity_type: builders
-status: stub
-last_updated: 2026-04-28
----
+status: live
+last_updated: 2026-04-29
+```
 
-### who-they-are
-FreshDelii is part of the OpenHome community, focusing on building AI-powered voice applications that enhance everyday interactions with technology.
+## who-they-are
+freshdelii is an active participant in the OpenHome community, focused on building AI-driven systems and modular voice applications. They are committed to the development of intuitive and engaging voice-first interactions, allowing users to connect seamlessly with technology.
 
-### what-they-built
-There is currently no specific information available about any abilities or integrations that FreshDelii has shipped. They are actively engaging with the OpenHome community and exploring various ideas in AI and voice technology.
+## what-they-built
+freshdelii has shipped an ability called Decision Journal, which allows users to capture and reflect on their decision-making processes. This ability is designed to facilitate natural conversations about decisions, record outcomes, and highlight patterns in various aspects of life, including career, finance, health, and relationships.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord handle: freshdelii
+- GitHub: [GitHub Profile](https://github.com/freshdelii)
+- X: [X Profile](https://x.com/freshdelii)
 
 ## connects-to
-[[builders]]
-[[OpenHome]]
-[[AI-powered voice applications]]
-[[Abilities]]
-<!-- synthesized: 2026-04-28T11:31:09Z -->
-```
+- [[abilities/decision-journal]]
+- [[builders/openhome]]
+
+<!-- synthesized: 2026-04-29T11:29:46Z -->

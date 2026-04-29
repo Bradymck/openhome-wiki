@@ -1,29 +1,31 @@
 ```markdown
 ---
-title: "Illectric Co"
+title: Illectric Co
 entity_type: builders/
 status: live
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 ---
 
 ## who-they-are
-Illectric Co is a community builder focused on enhancing the OpenHome platform. Their goal is to develop conversational AI agents known as Personalities that can utilize a range of modular voice plugins, referred to as Abilities.
+Illectric Co is a community of developers focused on creating innovative voice AI solutions. They are engaged with the OpenHome platform, building conversational AI agents known as Personalities and extending their capabilities with modular voice plugins called Abilities.
 
 ## what-they-built
-Illectric Co has shipped several abilities for the OpenHome platform, including the Decision Journal ability that captures and organizes users' decision-making processes. This ability allows users to talk about choices they are making and to review them later, reflecting on outcomes and patterns effectively.
+Illectric Co has launched several Abilities, including a Decision Journal that captures and enables users to reflect on their decisions passively through natural conversation. Users can talk about their choices, and the Ability records these for later review, helping to identify patterns in decision-making across various domains like career, finance, health, and relationships.
 
 ## grant-status
-applied
+$1K
 
 ## how-to-reach
 - Discord: @illectric
-- GitHub: [https://github.com/Vheissu/openhome-izone](https://github.com/Vheissu/openhome-izone)
-- X: Not provided
+- GitHub: [Illectric Co GitHub](https://github.com/openhome-dev/abilities/tree/dev)
+- X: [Illectric Co X](https://x.com/illectric)
 
 ## connects-to
-[[builders]]
+[[builders/]]
 [[OpenHome]]
-[[abilities/Decision_Journal]]
-[[Personalities]]
-<!-- synthesized: 2026-04-28T11:31:09Z -->
+[[Abilities]]
+[[voice AI]]
+[[conversational agents]]
+
+<!-- synthesized: 2026-04-29T11:29:46Z -->
 ```

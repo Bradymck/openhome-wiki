@@ -1,28 +1,27 @@
 ```markdown
 ---
-title: platform/marketplace
+title: Platform Marketplace
 entity_type: platform/marketplace
-status: stub
-last_updated: 2026-04-28
+status: beta
+last_updated: 2026-04-29
 ---
 
-### what-it-is
-The OpenHome Marketplace is a platform where developers can share, browse, and contribute Abilities for OpenHome's voice AI ecosystem. It serves as a hub for collaboration and innovation within the OpenHome community, allowing users to enhance their AI agents with modular plugins.
+## what-it-is
+The Platform Marketplace is a component of the OpenHome ecosystem where developers can browse, share, and integrate various abilities for voice AI agents, enhancing the functionality and versatility of their applications.
 
-### how-it-works
-Users can explore a variety of Abilities created by the community, fork them for personal use, or submit their own contributions. The Marketplace facilitates a user-friendly interface for finding and integrating these Abilities into personal AI agents, known as Personalities. Ability development is encouraged through an open-source model, enabling developers to collaborate and iterate on voice AI capabilities.
+## how-it-works
+The Marketplace allows users to explore a variety of user-generated and official abilities that can be added to personal voice AI agents, known as Personalities. Developers can submit their unique Abilities—modular plugins that provide specific skills—enabling other users to enhance their AI agents, based on functionalities like music streaming, device control, and access to APIs. Users can also fork existing Abilities and contribute improvements, promoting a collaborative development environment.
 
-### current-status
-stub
+## current-status
+beta
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/abilities]]
 [[platform/dashboard]]
 [[platform/voice-ai]]
-[[platform/speakers]]
 [[platform/local-link]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-28T11:31:09Z -->
+<!-- synthesized: 2026-04-29T11:29:46Z -->
 ```

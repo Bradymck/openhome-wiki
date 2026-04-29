@@ -1,27 +1,22 @@
-```markdown
----
-title: team/jesse
+```yaml
+title: Jesse
 entity_type: team
 status: live
-last_updated: 2026-04-28
----
+last_updated: 2026-04-29
+```
 
 ## who-they-are
-Jesse is the Chief Technology Officer (CTO) at OpenHome. He is responsible for overseeing the technical direction of the platform and has a background in developing AI technologies and voice applications.
+Jesse serves as the Chief Technology Officer (CTO) at OpenHome. With a strong background in AI development, he is experienced in building AI-driven systems and automation workflows. His passion for meaningful product development and commitment to high-quality execution makes him a valuable asset to the OpenHome team.
 
 ## what-they-own
-Jesse leads the development of the OpenHome platform, including the architecture of voice AI agents and the integration of modular voice plugins known as Abilities. His work involves ensuring the platform's capabilities are user-friendly and scalable.
+As CTO, Jesse leads various technological initiatives at OpenHome, focusing on the development and enhancement of the OpenHome platform. This includes overseeing the architecture of AI agents and their corresponding abilities.
 
 ## how-to-reach
-- Discord: @jesserank
-- X/Twitter: Not specified
-- Preferred contact: Discord is preferred for communication.
+You can reach Jesse on Discord at `@jesserank`.
 
 ## connects-to
-- [[team/shannon]]
-- [[openhome-docs]]
-- [[github-openhome-dev]]
-- [[dev.openhome.com]]
-
-<!-- synthesized: 2026-04-28T11:31:09Z -->
-```
+[[team/shannon]]
+[[developer_docs]]
+[[openhome_dashboard]]
+[[github]]
+<!-- synthesized: 2026-04-29T11:29:46Z -->

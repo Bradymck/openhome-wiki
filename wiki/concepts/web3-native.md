@@ -1,25 +1,27 @@
-```yaml
-title: Web3 Native
-entity_type: concepts/
+```markdown
+---
+title: web3-native
+entity_type: concepts
 status: stub
-last_updated: 2026-04-28
-```
+last_updated: 2026-04-29
+---
 
-## definition
-Web3 native refers to concepts and applications built on the principles of decentralization, blockchain technology, and user empowerment that are inherent to the Web3 ecosystem.
+### definition
+Web3-native refers to applications, platforms, and technologies that are built specifically for the decentralized web (Web3), utilizing blockchain technology, decentralized protocols, and user-controlled data management.
 
-## why-it-matters
-In the context of OpenHome, being Web3 native is significant because it aligns with the mission to revolutionize how users interact with technology, enhancing privacy, security, and user agency through decentralization. This empowers users to have greater control over their data and interactions within the OpenHome ecosystem.
+### why-it-matters
+In the context of OpenHome, adopting a web3-native approach enhances user autonomy and security by enabling greater control over personal data and interactions. This aligns with OpenHome's mission to empower users through innovative, interactive experiences that prioritize privacy.
 
-## how-it-manifests
-While specific implementations in OpenHome were not detailed in the content, Web3 native principles can be expected to manifest through decentralized identity management, secure data storage, and possibly user governance mechanisms in the development and use of talking agents or Personalities. 
+### how-it-manifests
+While specific implementations of web3-native concepts within OpenHome are not detailed, the integration of decentralized technologies could influence the development of features that allow users to interact with their environments and devices in a trustless manner. This could include features such as decentralized identity management and peer-to-peer interactions among users and their devices.
 
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
+### connects-to
 [[concepts/local-first]]
+[[concepts/abilities-as-apps]]
+[[concepts/grant-program]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+[[concepts/voice-first]]
 
-<!-- synthesized: 2026-04-28T11:31:09Z -->
+<!-- synthesized: 2026-04-29T11:29:46Z -->
+```

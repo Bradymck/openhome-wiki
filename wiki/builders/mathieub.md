@@ -1,30 +1,30 @@
 ```markdown
 ---
-title: "Mathieu B."
-entity_type: "builders/"
-status: "live"
-last_updated: 2026-04-28
+title: builders/mathieub
+entity_type: builders
+status: live
+last_updated: 2026-04-29
 ---
 
-## who-they-are
-Mathieu B. is an active contributor within the OpenHome community, focused on developing AI-powered voice applications. He is particularly interested in creating innovative abilities for conversational AI agents.
+### who-they-are
+Mathieu is an experienced AI developer with a deep passion for building AI-driven systems and automation workflows. He is committed to producing meaningful products with a strong focus on engineering and practical execution.
 
-## what-they-built
-Mathieu has developed and shipped an ability called "Decision Journal," which allows users to discuss their decision-making processes naturally. This ability captures both firm choices and deliberation moments without interrupting the conversation flow. It is designed to help users reflect on past decisions, record their outcomes, and recognize patterns in their choices. The ability has garnered positive feedback for its user-friendly experience and useful functionality.
+### what-they-built
+Mathieu has shipped a unique ability called **Decision Journal**. This ability allows users to naturally discuss their decisions, capturing them in a passive manner. It helps users review past choices and patterns in their decision-making across various aspects like career, finance, health, and relationships. The ability emphasizes user experience, allowing seamless interaction without clunky form-filling.
 
-## grant-status
-$1K
+### grant-status
+none
 
-## how-to-reach
-- Discord: @mathieub
-- GitHub: [Mathieu B.'s GitHub](https://github.com/) (specific profile link not provided)
-- X: Not provided
+### how-to-reach
+- Discord: mathieub
+- GitHub: [github.com/mathieub](https://github.com/mathieub)
+- X: Not specified
 
-## connects-to
-- [[builders]]
-- [[openhome]]
-- [[abilities]]
-- [[decision-journal]]
+### connects-to
+[[abilities/Decision Journal]]
+[[builders]]
+[[openhome]]
+[[devkits]]
 
-<!-- synthesized: 2026-04-28T11:31:09Z -->
+<!-- synthesized: 2026-04-29T11:29:46Z -->
 ```
