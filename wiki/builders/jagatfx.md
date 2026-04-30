@@ -1,29 +1,28 @@
 ```markdown
 ---
-title: "JagatFX"
-entity_type: "builders"
-status: "stub"
-last_updated: 2026-04-29
+title: builders/jagatfx
+entity_type: builder
+status: stub
+last_updated: 2026-04-30
 ---
 
 ### who-they-are
-JagatFX is an experienced AI developer passionate about building AI-driven systems, automation workflows, and production-ready software. They are committed to delivering high-quality products and possess strong communication and collaboration skills, allowing them to effectively work with clients, founders, and development teams.
+JagatFX is a developer engaged in building on the OpenHome platform, which emphasizes creating conversational AI agents. They are involved in enhancing user interactions with technology through voice-first applications.
 
 ### what-they-built
-JagatFX has contributed to the OpenHome community by shipping an ability called Decision Journal, designed to passively capture a user's decision-making process during natural conversations. This ability helps users reflect on their decisions, track outcomes, and identify patterns over time.
+JagatFX has contributed to the development of abilities or integrations on the OpenHome platform, although specific shipped abilities are not detailed in the available information.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Discord: [jagatfx](https://discord.com/)
+GitHub: Not specified
+X: Not specified
 
 ### connects-to
-[[ability/Decision Journal]]
-[[builders/openhome ]]
-[[platforms/OpenHome]]
-
-<!-- synthesized: 2026-04-29T11:29:46Z -->
+[[builders]]
+[[OpenHome]]
+[[Abilities]]
+<!-- synthesized: 2026-04-30T11:29:22Z -->
 ```

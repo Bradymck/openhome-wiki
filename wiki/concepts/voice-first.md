@@ -1,19 +1,18 @@
-```markdown
----
+```yaml
 title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-04-29
----
+last_updated: 2026-04-30
+```
 
 ## definition
-Voice-first is a paradigm of technology interaction that prioritizes voice communication as the primary interface for user engagement. It emphasizes natural language processing to create intuitive and seamless conversational experiences.
+Voice-first refers to an interactive design paradigm where voice acts as the primary mode of input and output for technology, enabling users to engage with devices through spoken commands and responses rather than traditional screen-based interfaces.
 
 ## why-it-matters
-In the context of OpenHome, a voice-first approach is crucial as it revolutionizes how users interact with their devices and applications, making technology more accessible and user-friendly. By allowing users to engage with AI through natural conversation, OpenHome aims to create a more immersive and intuitive interaction that enhances day-to-day life.
+Voice-first is integral to OpenHome's mission to democratize access to technology. By prioritizing voice interactions, OpenHome facilitates more natural and intuitive user experiences, making it easier for individuals to communicate with their devices and access information hands-free.
 
 ## how-it-manifests
-Voice-first technology is embedded in the OpenHome platform through its conversational AI agents, referred to as Personalities. Users can create and customize these agents to recognize voice commands, respond naturally, and perform tasks based on verbal interactions. Abilities, or modular voice plugins, can be integrated into these agents, further expanding their capabilities while maintaining a voice-focused interface.
+In the OpenHome platform, voice-first interactions are realized through the development of "Personalities," which are AI agents capable of understanding and responding to voice commands. Users can enhance these agents with "Abilities," modular plugins that enable various functionalities. Voice commands trigger these Abilities, allowing seamless integration of voice-based learning and interactions.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +22,4 @@ Voice-first technology is embedded in the OpenHome platform through its conversa
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-29T11:29:46Z -->
-```
+<!-- synthesized: 2026-04-30T11:29:22Z -->

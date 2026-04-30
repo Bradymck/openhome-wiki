@@ -1,29 +1,31 @@
 ```markdown
 ---
-title: bradymck
+title: "bradymck"
 entity_type: builders
-status: live
-last_updated: 2026-04-29
+status: stub
+last_updated: 2026-04-30
 ---
 
-## who-they-are
-bradymck is an experienced AI developer with a strong background in building AI-driven systems, automation workflows, and production-ready software. They are passionate about working on meaningful products where strong engineering and practical execution matter. bradymck values responsibility and is dedicated to seeing tasks through to completion. They have excellent communication and collaboration skills, which enhances their ability to work with clients, founders, and development teams.
+### who-they-are
+Brady McK is an active community builder engaged with the OpenHome platform. They are focused on developing innovative AI-powered voice applications, contributing to a community dedicated to enhancing AI interactions in everyday life.
 
-## what-they-built
-bradymck has shipped the "Decision Journal" ability to the community abilities. This feature allows users to naturally discuss their decisions with the AI, which captures and tracks them passively. Users can later review their past decisions, reflect on outcomes, and identify patterns across various decision domains, including career, financial, health, and relationship choices.
+### what-they-built
+Information on specific abilities or integrations that Brady McK has shipped is currently unavailable. However, they are involved in conversational AI agent development and the creation of modular voice plugins for the OpenHome ecosystem.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
+### how-to-reach
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-## connects-to
-[[abilities/decision-journal]]
-[[builders/openhome]]
-[[builders/community-abilities]]
+### connects-to
+[[builders]]
+[[OpenHome]]
+[[AI agents]]
+[[voice plugins]]
+[[modular abilities]]
 
-<!-- synthesized: 2026-04-29T11:29:46Z -->
+<!-- synthesized: 2026-04-30T11:29:22Z -->
 ```

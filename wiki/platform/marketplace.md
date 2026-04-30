@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: Platform Marketplace
-entity_type: platform/marketplace
-status: beta
-last_updated: 2026-04-29
+title: platform/marketplace
+entity_type: platform
+status: stub
+last_updated: 2026-04-30
 ---
 
-## what-it-is
-The Platform Marketplace is a component of the OpenHome ecosystem where developers can browse, share, and integrate various abilities for voice AI agents, enhancing the functionality and versatility of their applications.
+### what-it-is
+OpenHome Marketplace is an open-source platform that facilitates the development and distribution of conversational AI agents, known as Personalities, and their modular plugins called Abilities.
 
-## how-it-works
-The Marketplace allows users to explore a variety of user-generated and official abilities that can be added to personal voice AI agents, known as Personalities. Developers can submit their unique Abilities—modular plugins that provide specific skills—enabling other users to enhance their AI agents, based on functionalities like music streaming, device control, and access to APIs. Users can also fork existing Abilities and contribute improvements, promoting a collaborative development environment.
+### how-it-works
+The OpenHome Marketplace allows developers to create and share Abilities, enhancing AI Personalities with new skills. Users can explore various pre-built Abilities or contribute their own creations, thereby fostering a community-driven ecosystem. Developers can prototype and test their projects using physical devkits provided by OpenHome, which are equipped with AI functionalities. The marketplace provides tools and resources for setting up agents and extending their capabilities through user-generated content.
 
-## current-status
-beta
+### current-status
+stub
 
-## connects-to
+### connects-to
 [[platform/openhome]]
+[[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
 [[platform/voice-ai]]
 [[platform/local-link]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-04-29T11:29:46Z -->
+<!-- synthesized: 2026-04-30T11:29:22Z -->
 ```

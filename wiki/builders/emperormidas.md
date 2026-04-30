@@ -1,18 +1,18 @@
 ```yaml
-title: Emperormidas
+title: builders/emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 ```
 
 ## who-they-are
-Emperormidas is an experienced AI developer passionate about building AI-driven systems and automation workflows. They possess strengths in responsibility, communication, and collaboration, making them effective in working on meaningful AI products.
+Emperormidas is an active community builder within the OpenHome ecosystem. They are involved in developing AI-powered voice applications and integrating various abilities for conversational AI agents.
 
 ## what-they-built
-Emperormidas has contributed to the OpenHome community by shipping the "Decision Journal" ability. This ability allows users to talk about decisions they are making, which are then passively captured for future reflection. It supports decision tracking across various categories, including career, financial, health, and relationships.
+Details about specific abilities or integrations that Emperormidas has shipped are currently unavailable.
 
 ## grant-status
-none
+Applied
 
 ## how-to-reach
 - Discord: Not specified
@@ -20,9 +20,8 @@ none
 - X: Not specified
 
 ## connects-to
-[[Abilities]]
 [[OpenHome]]
 [[Voice AI]]
-[[Community Contributions]]
+[[Abilities]]
 
-<!-- synthesized: 2026-04-29T11:29:46Z -->
+<!-- synthesized: 2026-04-30T11:29:22Z -->

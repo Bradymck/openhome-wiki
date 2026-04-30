@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: "Dead Man's Switch"
-entity_type: "concepts"
-status: "stub"
-last_updated: "2026-04-29"
+title: concepts/dead-mans-switch
+entity_type: concepts
+status: stub
+last_updated: 2026-04-30
 ---
 
-### definition
-A dead man's switch is a safety mechanism that ensures the activation of a process or task based on the condition of a monitored input, typically requiring constant confirmation or attention. If the input ceases, typically due to a person becoming incapacitated or failing to respond, a predefined action is triggered, often to prevent harm or to alert others.
+## definition
+A dead man's switch is a safety mechanism that automatically performs a specific action if the user becomes incapacitated or fails to respond in a timely manner. It's designed to ensure that critical functions continue or that certain protocols are activated when expected user behavior stops.
 
-### why-it-matters
-In the context of OpenHome, a dead man's switch can enhance user safety and device reliability, especially in scenarios where smart home devices are concerned. It ensures that critical actions or alerts occur if the user is unable to respond or manage their devices, creating a more resilient and user-centered experience.
+## why-it-matters
+In the context of OpenHome, a dead man's switch is significant as it can enhance user safety and reliability within AI-powered systems. It ensures that if a user is no longer able to interact with their devices or applications, the system can take pre-determined actions to safeguard their environment or notify others.
 
-### how-it-manifests
-While specific implementations within the OpenHome platform may vary, the concept can manifest in abilities that monitor user interactions or behaviors. For example, applications might track user engagement with a device or service and ensure actions are taken if no activity is detected over a certain period, thereby supporting user safety and operational continuity.
+## how-it-manifests
+This concept may be integrated within OpenHome's voice AI platform to trigger alerts, activate safety protocols, or ensure that essential tasks are completed when a user's input is absent. For example, if a user has set up a dead man's switch for a home automation system, it could automatically lock doors or alert emergency services if there’s no interaction after a certain period.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
-[[concepts/web3-native]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+[[concepts/web3-native]]
 
-<!-- synthesized: 2026-04-29T11:29:46Z -->
+<!-- synthesized: 2026-04-30T11:29:22Z -->
 ```

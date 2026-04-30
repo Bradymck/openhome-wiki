@@ -1,25 +1,25 @@
 ```markdown
 ---
 title: Sagarjethi
-entity_type: guides
-status: live
-last_updated: 2026-04-29
+entity_type: guides/sagarjethi
+status: stub
+last_updated: 2026-04-30
 ---
 
 ### who-they-are
-Sagarjethi is an experienced AI developer with a strong background in building AI-driven systems, automation workflows, and production-ready software. They are deeply passionate about artificial intelligence and are committed to working on meaningful projects that prioritize strong engineering and practical execution. Sagarjethi values responsibility and communication, ensuring that tasks are completed with care and professionalism.
+Sagarjethi is recognized in the OpenHome community, although specific details about their background and expertise are currently not available.
 
 ### what-they-help-with
-Sagarjethi specializes in the development of conversational AI agents, leveraging the OpenHome platform. They have hands-on experience with building Personalities—AI agents equipped with specific voices and personas—and extending their functionalities with modular plugins called Abilities. Sagarjethi assists users by guiding them through the process of creating AI-driven conversational experiences, helping troubleshoot issues with various functionalities, and providing insights into best practices for development within the OpenHome ecosystem.
+Sagarjethi appears to assist users within the OpenHome platform, providing guidance related to building conversational AI agents and utilizing the development kit, as well as sharing insights on creating abilities for these agents. However, specifics on their specializations or technical skills remain undefined.
 
 ### how-to-reach
-Discord Handle: @sagarjethi
+Sagarjethi can be reached on Discord, although the specific handle is not provided in the available information.
 
-### connects-to
-[[guides]]
+## connects-to
+[[Community Guides]]
 [[OpenHome]]
-[[Abilities]]
+[[Conversational AI]]
 [[Personalities]]
-[[AI Development]]
-<!-- synthesized: 2026-04-29T11:29:46Z -->
+[[Abilities]]
+<!-- synthesized: 2026-04-30T11:29:22Z -->
 ```

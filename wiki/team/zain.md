@@ -1,23 +1,25 @@
 ```markdown
 ---
-title: Zain
+title: team/zain
 entity_type: team
 status: stub
-last_updated: 2026-04-29
+last_updated: 2026-04-30
 ---
 
 ### who-they-are
-Zain is a core member of the OpenHome team. Currently, specific details regarding Zain's role, background, or professional history at OpenHome are not available.
+Zain is a key member of the OpenHome team, involved in various aspects of the platform's development and community engagement.
 
 ### what-they-own
-Zain's areas of ownership within the OpenHome platform or specific projects are currently unspecified.
+Zain leads initiatives related to community interactions and feedback mechanisms for the OpenHome platform, contributing to the development of modular voice AI agents and their associated abilities.
 
 ### how-to-reach
-Zain's preferred contact methods, including Discord handle or social media accounts, are not provided.
+Zain can be reached on Discord under the handle @yungalgorithm.
 
-## connects-to
+### connects-to
 [[team/jesse]]
 [[team/shannon]]
+[[team/abilities]]
+[[dev.openhome.com]]
 
-<!-- synthesized: 2026-04-29T11:29:46Z -->
+<!-- synthesized: 2026-04-30T11:29:22Z -->
 ```

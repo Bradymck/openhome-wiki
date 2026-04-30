@@ -1,22 +1,24 @@
-```yaml
-title: Discomelon Community Guide
-entity_type: guides/
-status: live
-last_updated: 2026-04-29
+```markdown
+---
+title: guides/discomelon
+entity_type: Community Guide
+status: stub
+last_updated: 2026-04-30
+---
+
+### who-they-are
+Discomelon is a guide within the OpenHome community, contributing knowledge and expertise in building conversational AI agents. They are familiar with the OpenHome platform and its functionality.
+
+### what-they-help-with
+Discomelon specializes in assisting users with creating Personalities—AI agents that utilize voice and conversation styles—on the OpenHome platform. They provide guidance on how to build and extend these agents using modular voice plugins called Abilities.
+
+### how-to-reach
+Discord handle: Discomelon (exact handle may vary)
+
+### connects-to
+[[OpenHome]]
+[[Personalities]]
+[[Abilities]]
+
+<!-- synthesized: 2026-04-30T11:29:22Z -->
 ```
-
-## who-they-are
-Discomelon is an experienced AI developer with a strong background in building AI-driven systems and automation workflows. They are committed to creating meaningful products and have proven expertise in engineering and practical execution.
-
-## what-they-help-with
-Discomelon specializes in assisting members of the OpenHome community with developing AI agents using the OpenHome platform. Their expertise encompasses building Personalities—conversational AI agents—and adding Abilities, which are modular voice plugins that enhance functionality. They are knowledgeable about troubleshooting and optimizing the use of devkits and firmware associated with OpenHome projects.
-
-## how-to-reach
-Discord handle: @Discomelon
-
-## connects-to
-[[guides/openhome]]
-[[guides/abilities]]
-[[guides/devkit]]
-
-<!-- synthesized: 2026-04-29T11:29:46Z -->

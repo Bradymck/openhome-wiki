@@ -1,33 +1,27 @@
-```markdown
----
-title: SlowJamSteve
-entity_type: builders
-status: live
-last_updated: 2026-04-29
----
+```yaml
+title: builders/slowjamsteve
+entity_type: builder
+status: stub
+last_updated: 2026-04-30
+```
 
 ## who-they-are
-SlowJamSteve is an experienced AI developer with a passion for building AI-driven systems and automation workflows. They are committed to creating impactful products that rely on solid engineering and execution.
+SlowJamSteve is an active community member within the OpenHome platform. He is involved in building AI-powered voice applications, specifically focusing on creating conversational agents known as Personalities, and enhancing their functionality with modular plugins referred to as Abilities.
 
 ## what-they-built
-SlowJamSteve has contributed an ability called "Decision Journal" to the OpenHome community. This ability allows users to naturally discuss their decisions, capturing them for later reflection. Key features include:
-- Passive capture of decisions without the need for form-filling.
-- Ability to review past decisions and reflect on outcomes.
-- Tracking both firm choices and deliberation moments.
-- Spotting patterns in various decision areas such as career, finance, health, and relationships.
+Details on specific abilities or integrations developed by SlowJamSteve are currently not available.
 
 ## grant-status
 none
 
 ## how-to-reach
-- **Discord Handle**: Not provided
-- **GitHub**: Not provided
-- **X**: Not provided
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/]]
-[[abilities/decision-journal]]
-[[platforms/openhome]]
-[[community/openhome]]
-<!-- synthesized: 2026-04-29T11:29:46Z -->
-```
+[[openhome]]  
+[[personalities]]  
+[[abilities]]
+
+<!-- synthesized: 2026-04-30T11:29:22Z -->

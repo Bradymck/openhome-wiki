@@ -1,30 +1,29 @@
 ```markdown
 ---
 title: builders/shookdt
-entity_type: builder
-status: live
-last_updated: 2026-04-29
+entity_type: community builder
+status: stub
+last_updated: 2026-04-30
 ---
 
-## who-they-are
-Shookdt is an experienced AI developer with hands-on expertise in building AI-driven systems, automation workflows, and production-ready software. They are passionate about AI and focus on creating meaningful products that emphasize strong engineering and practical execution.
+### who-they-are
+ShookDT is an active member of the OpenHome community, focusing on building voice AI applications and integrating various abilities within the OpenHome ecosystem.
 
-## what-they-built
-Shookdt has shipped an ability called "Decision Journal," which allows users to naturally talk about their decisions. This ability captures decisions passively, enabling users to review and reflect on them later, identify patterns, and enhance their decision-making process.
+### what-they-built
+As of the latest updates, ShookDT has contributed to the development of conversational AI agents known as Personalities and has actively participated in shipping modular voice plugins termed Abilities. The community promotes the development of Abilities by distributing physical V0.1 devkits to top contributors, suggesting that ShookDT may be involved in leveraging these devkits for creating innovative applications.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not available
-- GitHub: Not available
-- X (formerly Twitter): Not available
+### how-to-reach
+- Discord: [ShookDT Discord](https://discord.gg/Ja8C8XrK)
+- GitHub: [OpenHome Abilities](https://github.com/openhome-dev/abilities/tree/dev)
+- Twitter: [X](https://x.com/yungalgorithm)
 
-## connects-to
-- [[Ability: Decision Journal]]
+### connects-to
+- [[builders]]
 - [[OpenHome]]
 - [[Abilities]]
-- [[Voice AI]]
-
-<!-- synthesized: 2026-04-29T11:29:46Z -->
+- [[Conversational AI]]
+<!-- synthesized: 2026-04-30T11:29:22Z -->
 ```

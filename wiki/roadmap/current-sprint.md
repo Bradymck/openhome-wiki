@@ -1,28 +1,27 @@
-```markdown
----
+```yaml
 title: Roadmap Current Sprint
-entity_type: roadmap/current-sprint
+entity_type: roadmap
 status: live
-last_updated: 2026-04-29
----
+last_updated: 2026-04-30
+```
 
 ## what-it-is
-The current sprint focuses on the development and distribution of physical V0.1 devkits for OpenHome, an open-source Voice AI platform. These devkits are advanced smart speakers designed for users to build and create AI-driven systems known as Personalities.
+The current sprint involves the introduction of physical V0.1 devkits for developers engaging with the OpenHome platform. These devkits are advanced smart speakers that provide local capabilities, including music playback, smart home integration, and interaction with AI.
 
 ## status
 In-progress
 
 ## why-it-matters
-This initiative empowers developers to engage with the OpenHome platform, driving innovation in voice AI applications. By distributing devkits, OpenHome encourages contributions and feedback, aiming to enhance the overall user experience and expand the capabilities of the platform.
+The initiative aims to enhance developer engagement by providing tools to build conversational AI agents called Personalities, alongside the modular plugins known as Abilities. This approach will facilitate a broader ecosystem of voice-first applications and improve user interaction with technology.
 
 ## eta
-Shipping in small global batches, with specifics on availability based on user engagement and prototype contributions.
+Shipping globally in small batches, specific timeline for devkit distribution is not disclosed.
 
 ## connects-to
-- [DevKit Onboarding](https://docs.openhome.com/devkit-onboarding-app)
-- [OpenHome Dashboard](https://app.openhome.com)
-- [Developer Docs](https://docs.openhome.com/)
-- [Abilities GitHub Repository](https://github.com/openhome-dev/abilities)
+[[OpenHome]]
+[[dev.openhome.com]]
+[[Developer Docs]]
+[[OpenHome Dashboard]]
+[[GitHub]]
 
-<!-- synthesized: 2026-04-29T11:29:46Z -->
-```
+<!-- synthesized: 2026-04-30T11:29:22Z -->

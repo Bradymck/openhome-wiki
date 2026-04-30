@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-04-29
----
+last_updated: 2026-04-30
+```
 
-### definition
-Web3-native refers to applications, platforms, and technologies that are built specifically for the decentralized web (Web3), utilizing blockchain technology, decentralized protocols, and user-controlled data management.
+## definition
+Web3-native refers to applications, platforms, and services built on decentralized technologies, particularly those associated with blockchain systems. It emphasizes user ownership, interoperability, and the decentralized governance of digital assets and identities.
 
-### why-it-matters
-In the context of OpenHome, adopting a web3-native approach enhances user autonomy and security by enabling greater control over personal data and interactions. This aligns with OpenHome's mission to empower users through innovative, interactive experiences that prioritize privacy.
+## why-it-matters
+Web3-native concepts are significant for OpenHome as they underpin the emerging paradigm of trustless computing and user empowerment. By integrating these principles, OpenHome can enhance data privacy, promote user autonomy over digital identities, and foster a more community-driven development environment.
 
-### how-it-manifests
-While specific implementations of web3-native concepts within OpenHome are not detailed, the integration of decentralized technologies could influence the development of features that allow users to interact with their environments and devices in a trustless manner. This could include features such as decentralized identity management and peer-to-peer interactions among users and their devices.
+## how-it-manifests
+While specific implementations of web3-native technologies on OpenHome are still in development, the platform's framework aims to incorporate decentralized identities, allowing users to maintain control over their data and interactions within the ecosystem. This could lead to innovative applications where users interact with their agents in a fully decentralized manner.
 
-### connects-to
-[[concepts/local-first]]
+## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/grant-program]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
-[[concepts/voice-first]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-29T11:29:46Z -->
-```
+<!-- synthesized: 2026-04-30T11:29:22Z -->
