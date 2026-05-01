@@ -1,29 +1,30 @@
 ```markdown
 ---
-title: builders/shookdt
-entity_type: community builder
-status: stub
-last_updated: 2026-04-30
+title: "builders/shookdt"
+entity_type: "community builder"
+status: live
+last_updated: 2026-05-01
 ---
 
 ### who-they-are
-ShookDT is an active member of the OpenHome community, focusing on building voice AI applications and integrating various abilities within the OpenHome ecosystem.
+Shookdt is an active contributor in the OpenHome community, a platform focused on building and enhancing voice AI technologies. They engage in the development of conversational AI agents called Personalities and extend their functionalities with modular voice plugins known as Abilities.
 
 ### what-they-built
-As of the latest updates, ShookDT has contributed to the development of conversational AI agents known as Personalities and has actively participated in shipping modular voice plugins termed Abilities. The community promotes the development of Abilities by distributing physical V0.1 devkits to top contributors, suggesting that ShookDT may be involved in leveraging these devkits for creating innovative applications.
+Shookdt has contributed significantly by prototyping new Abilities for OpenHome. These contributions assist in enhancing the capabilities of Personalities, allowing for richer interactions through voice AI. They are recognized in the community for their efforts, which may include submitting various abilities for review and integration into the OpenHome ecosystem.
 
 ### grant-status
-none
+applied
 
 ### how-to-reach
-- Discord: [ShookDT Discord](https://discord.gg/Ja8C8XrK)
-- GitHub: [OpenHome Abilities](https://github.com/openhome-dev/abilities/tree/dev)
-- Twitter: [X](https://x.com/yungalgorithm)
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ### connects-to
-- [[builders]]
-- [[OpenHome]]
-- [[Abilities]]
-- [[Conversational AI]]
-<!-- synthesized: 2026-04-30T11:29:22Z -->
+[[builders]]
+[[OpenHome]]
+[[Abilities]]
+[[Personalities]]
+
+<!-- synthesized: 2026-05-01T11:22:53Z -->
 ```

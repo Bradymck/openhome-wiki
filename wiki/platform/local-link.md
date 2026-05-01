@@ -1,28 +1,28 @@
 ```markdown
 ---
 title: platform/local-link
-entity_type: page
+entity_type: platform
 status: stub
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 ---
 
 ### what-it-is
-The local link is a feature of the OpenHome platform that enables users to connect and interact with their local devices and services seamlessly through voice AI agents.
+The Local Link platform serves as a module in the OpenHome ecosystem, aiming to enhance the interaction between local devices and voice AI agents. It offers a way for smart home devices to connect seamlessly to Personalities and Abilities created within the OpenHome framework.
 
 ### how-it-works
-Local Link functions by allowing Personalities—OpenHome’s voice AI agents—to access and communicate with nearby smart devices and home automation systems. This connection enhances the capability of Personalities by facilitating tasks such as controlling lights, managing music playback, and coordinating home automation tasks using voice commands. The integration with local devices expands the versatility of the OpenHome environment, ensuring that users can enjoy a more immersive and responsive interaction with their technology.
+Local Link facilitates the communication between OpenHome's AI agents and various smart home devices, enabling users to control these devices using voice commands. This integration allows for the creation of immersive voice experiences where agents can respond to requests related to local device functions, such as playing music or adjusting smart home settings. By allowing the AI to interact directly with local hardware, it helps in building a cohesive smart home experience tailored to user preferences.
 
 ### current-status
 stub
 
 ### connects-to
-- [[platform/openhome]]
-- [[platform/speakers]]
-- [[platform/abilities]]
-- [[platform/dashboard]]
-- [[platform/voice-ai]]
-- [[platform/marketplace]]
-- [[platform/live-editor]]
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/voice-ai]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-04-30T11:29:22Z -->
+<!-- synthesized: 2026-05-01T11:22:53Z -->
 ```

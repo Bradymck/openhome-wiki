@@ -1,25 +1,25 @@
-```yaml
+```markdown
+---
 title: web3-native
 entity_type: concepts
-status: stub
-last_updated: 2026-04-30
-```
+status: live
+last_updated: 2026-05-01
+---
 
 ## definition
-Web3-native refers to applications, platforms, and services built on decentralized technologies, particularly those associated with blockchain systems. It emphasizes user ownership, interoperability, and the decentralized governance of digital assets and identities.
+Web3-native refers to applications and platforms that are built using decentralized technologies and principles, emphasizing user ownership of data and assets. These applications often leverage blockchain technology to create trustless environments and enhance user control.
 
 ## why-it-matters
-Web3-native concepts are significant for OpenHome as they underpin the emerging paradigm of trustless computing and user empowerment. By integrating these principles, OpenHome can enhance data privacy, promote user autonomy over digital identities, and foster a more community-driven development environment.
+In the context of OpenHome, being web3-native is significant as it aligns with the mission to create a decentralized ecosystem where users have greater control over their AI agents and the interactions they have with technology. By integrating web3 principles, OpenHome empowers users to own and manage their data, fostering a more equitable technology landscape.
 
 ## how-it-manifests
-While specific implementations of web3-native technologies on OpenHome are still in development, the platform's framework aims to incorporate decentralized identities, allowing users to maintain control over their data and interactions within the ecosystem. This could lead to innovative applications where users interact with their agents in a fully decentralized manner.
+Web3-native concepts manifest in OpenHome through features that allow users to engage in decentralized transactions, manage their own data privacy, and create personal AI agents that operate independently of centralized servers. These aspects encourage the development of an ecosystem where users can participate without reliance on traditional platforms.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-04-30T11:29:22Z -->
+<!-- synthesized: 2026-05-01T11:22:53Z -->
+```

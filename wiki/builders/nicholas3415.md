@@ -1,27 +1,28 @@
-```markdown
----
+```yaml
 title: builders/nicholas3415
-entity_type: community builder
+entity_type: builder
 status: stub
-last_updated: 2026-04-30
----
+last_updated: 2026-05-01
+```
 
-### who-they-are
-Nicholas3415 is an active member of the OpenHome community, engaged in building conversational AI agents called Personalities and their modular voice plugins known as Abilities. The community is focused on revolutionizing human-technology interactions through accessible, AI-powered voice applications.
+## who-they-are
+Nicholas3415 is an active member of the OpenHome community, contributing to the development of AI-powered voice applications. They are focused on creating immersive and human-like voice interactions through the OpenHome platform.
 
-### what-they-built
-Nicholas3415 has been involved in developing and contributing to the OpenHome platform, particularly focusing on creating Abilities that enhance the functionality of Personalities. Specific abilities or integrations that have been shipped by Nicholas3415 are not detailed in the available information.
+## what-they-built
+As of now, specific abilities or integrations created by Nicholas3415 have not been detailed.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord Handle: Not specified
+## how-to-reach
+- Discord handle: Nicholas3415
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
-[[builders/nicholas3415]]
+## connects-to
+[[builders]]
+[[OpenHome]]
+[[AI-powered voice applications]]
+[[Abilities]]
 
-<!-- synthesized: 2026-04-30T11:29:22Z -->
-```
+<!-- synthesized: 2026-05-01T11:22:53Z -->

@@ -1,23 +1,26 @@
-```yaml
+```markdown
+---
 title: Local First
 entity_type: concepts
-status: stub
-last_updated: 2026-04-30
-```
+status: live
+last_updated: 2026-05-01
+---
 
-## definition
-Local First is a concept that emphasizes the importance of data and functionality being processed and managed directly on a user's device rather than relying solely on remote servers. This ensures faster response times, improved privacy, and greater control over personal data.
+### Definition
+Local First is a philosophy that prioritizes local data storage and processing over relying heavily on cloud services. This concept focuses on ensuring that applications can provide functionality even when offline, enhancing user privacy and data ownership.
 
-## why-it-matters
-In the context of OpenHome, Local First is crucial as it aligns with the platform's mission to provide users with seamless and efficient interactions with their voice AI agents. By allowing for local processing, OpenHome can enhance user experience through reduced latency and increased reliability, especially in areas with poor internet connectivity.
+### Why It Matters
+Local First is crucial to the OpenHome platform as it empowers users to maintain control over their data while ensuring continuous service availability. This approach aligns with the broader mission of creating immersive and intuitive voice interactions that respect user autonomy and enhance their daily lives.
 
-## how-it-manifests
-This concept appears in the platform through features that allow voice AI agents to operate independently of the cloud for many functionalities. For instance, smart speakers utilizing OpenHome's technology can perform tasks such as playing music or controlling smart home devices without needing constant internet access, thus delivering a more resilient and responsive user experience.
+### How It Manifests
+In the OpenHome ecosystem, Local First appears in the form of capabilities within smart devices that perform tasks without a constant internet connection. For example, personal AI agents can manage household automation or play music locally, ensuring responsiveness regardless of external connectivity. This leads to improved user experience by reducing latency and dependence on internet reliability.
 
-## connects-to
+### Connects To
 [[concepts/abilities-as-apps]]  
 [[concepts/voice-first]]  
 [[concepts/web3-native]]  
-[[concepts/grant-program]]
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
 
-<!-- synthesized: 2026-04-30T11:29:22Z -->
+<!-- synthesized: 2026-05-01T11:22:53Z -->
+```

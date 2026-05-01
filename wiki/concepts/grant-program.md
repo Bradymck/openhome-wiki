@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Grant Program
-entity_type: concepts/grant-program
+title: concepts/grant-program
+entity_type: concepts
 status: live
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 ---
 
 ## definition
-The Grant Program is an initiative within the OpenHome ecosystem that provides financial support and resources to developers and contributors who create valuable content or innovations for the platform. Recipients of grants may receive budget support to further their projects.
+A grant program within the OpenHome ecosystem is designed to support developers and contributors by providing financial backing, resources, and development kits to enhance their projects and contributions. These grants aim to encourage innovation and the expansion of abilities on the OpenHome platform.
 
 ## why-it-matters
-The Grant Program is significant for OpenHome as it encourages community participation and innovation. By providing direct incentives, it fosters an environment where developers can experiment and develop new functionalities and applications that enhance the platform’s capabilities. This collaborative approach strengthens the OpenHome community and its offerings.
+The grant program is integral to OpenHome's mission as it fosters community engagement and incentivizes developers to create unique voice applications and features. By supporting contributions, OpenHome enhances its ecosystem, leading to a richer and more versatile user experience.
 
 ## how-it-manifests
-The Grant Program is showcased through invitations to developers and contributors to apply for grants tied to their projects. Successful applicants may receive physical development kits, funding, and promotional support for their innovations. This support system helps to cultivate a diverse range of skills and applications in the OpenHome platform.
+The grant program is manifested through the distribution of physical devkits (e.g., cutting-edge smart speakers) to top contributors, the provision of financial support for project development, and promotion of successful projects within the community. Developers can gain access to these resources by actively participating in the OpenHome community, sharing their ideas, and prototyping new abilities.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ The Grant Program is showcased through invitations to developers and contributor
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-04-30T11:29:22Z -->
+<!-- synthesized: 2026-05-01T11:22:53Z -->
 ```

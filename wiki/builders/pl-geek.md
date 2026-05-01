@@ -1,30 +1,27 @@
-```markdown
----
+```yaml
 title: builders/pl-geek
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-04-30
----
+last_updated: 2026-05-01
+```
 
-### who-they-are
-pl-geek is an active member of the OpenHome community, focused on developing conversational AI agents and enhancing voice-interactive experiences. They are engaged in leveraging the OpenHome platform to build innovative integrations and abilities as part of their contributions.
+## who-they-are
+pl-geek is an active member of the OpenHome community, focused on building capabilities within the OpenHome platform. They are engaged in contributing ideas and abilities to enhance the functionality of voice AI agents.
 
-### what-they-built
-pl-geek has participated in the creation of various abilities for OpenHome, utilizing the platform to develop new skills and functionalities. Specific titles or details about the abilities they have shipped are not provided in the available data.
+## what-they-built
+pl-geek has contributed by creating abilities on the OpenHome platform that can be used by various AI agents. Specific details about their contributions are not provided.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not specified
+## how-to-reach
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
+## connects-to
 [[OpenHome]]
 [[Abilities]]
-[[Voice AI]]
-[[Conversation Agents]]
+[[Voice AI Agents]]
 
-<!-- synthesized: 2026-04-30T11:29:22Z -->
-```
+<!-- synthesized: 2026-05-01T11:22:53Z -->

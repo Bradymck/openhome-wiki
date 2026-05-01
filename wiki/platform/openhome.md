@@ -1,15 +1,16 @@
-```yaml
-title: OpenHome
+```markdown
+---
+title: OpenHome Platform
 entity_type: platform
 status: live
-last_updated: 2026-04-30
-```
+last_updated: 2026-05-01
+---
 
 ## what-it-is
-OpenHome is an open-source Voice AI platform designed for creating conversational AI agents, referred to as Personalities. It allows developers to extend these agents with Abilities—modular voice plugins that provide new skills and functionalities.
+OpenHome is an open-source Voice AI platform that allows users to build conversational AI agents, known as Personalities, and extend them with modular voice plugins called Abilities.
 
 ## how-it-works
-OpenHome operates by allowing users to create AI agents known as Personalities, which can be customized with unique names, voices, and personas. Developers can enhance these Personalities by integrating Abilities, which act as plugins that enable various functionalities such as playing music, calling APIs, running quizzes, and controlling smart devices. These Abilities are activated through designated hotwords during voice interactions and are built using custom Python logic. Users can begin developing by leveraging the OpenHome dashboard and community resources, fostering an ecosystem of shared ideas and contributions.
+OpenHome enables users to create Personalities which are customized AI agents equipped with a unique voice, persona, and conversational style. Abilities, which are plugins that introduce new skills to these agents, can include functionalities such as calling APIs, playing music, running quizzes, and controlling smart home devices. These Abilities are triggered by specific hotwords during voice interactions and can execute custom Python logic. Users start by reading the documentation, setting up their Personality on the OpenHome Dashboard, and exploring community-driven Abilities to fork or submit their own.
 
 ## current-status
 live
@@ -22,5 +23,5 @@ live
 [[platform/local-link]]
 [[platform/marketplace]]
 [[platform/live-editor]]
-
-<!-- synthesized: 2026-04-30T11:29:22Z -->
+<!-- synthesized: 2026-05-01T11:22:53Z -->
+```

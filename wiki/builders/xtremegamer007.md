@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: builders/xtremegamer007
-entity_type: builders/
+entity_type: builder
 status: stub
-last_updated: 2026-04-30
+last_updated: 2026-05-01
 ---
 
 ### who-they-are
-xtremegamer007 is an active member of the OpenHome development community who has shown interest in building and enhancing AI-powered voice applications. They participate in discussions, share ideas, and contribute to the collective knowledge within the community.
+xtremegamer007 is a community member and developer involved in building applications using the OpenHome platform, which focuses on creating voice AI agents known as Personalities. They are actively contributing to the development of abilities that enhance user interaction with these AI agents.
 
 ### what-they-built
-Currently, specific projects or abilities built by xtremegamer007 are not detailed in the available information.
+As of now, there is no specific information available about the particular abilities or integrations developed by xtremegamer007. Further contributions or projects may be announced in the future.
 
 ### grant-status
 none
@@ -22,8 +22,8 @@ none
 
 ### connects-to
 [[OpenHome]]
+[[Personalities]]
 [[Abilities]]
-[[DevKit]]
 
-<!-- synthesized: 2026-04-30T11:29:22Z -->
+<!-- synthesized: 2026-05-01T11:22:53Z -->
 ```
