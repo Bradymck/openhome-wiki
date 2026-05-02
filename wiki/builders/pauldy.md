@@ -1,27 +1,30 @@
-```yaml
+```markdown
+---
 title: builders/pauldy
 entity_type: builders
 status: stub
-last_updated: 2026-05-01
-```
+last_updated: 2026-05-02
+---
 
-## who-they-are
-Pauldy is an active member of the OpenHome community, participating as a builder and developer of conversational AI agents. They are involved in creating innovative voice applications and contribute to the development of Abilities for the OpenHome platform.
+### who-they-are
+Pauldy is an active member of the OpenHome community, contributing to the development of AI-powered voice applications. He is keenly interested in building functionalities and enhancing the capabilities of the OpenHome platform.
 
-## what-they-built
-Details about specific Abilities or integrations that Pauldy has shipped are currently unknown. Further contributions and developments are anticipated as part of the OpenHome community.
+### what-they-built
+Pauldy is in the process of developing a "stenographer" skill, which will enable the recording of all audio the OpenHome device hears into a local database, allowing users to query past conversations. This ability aims to enhance the utility of the OpenHome device by providing users with seamless access to recorded interactions.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord: Unknown
+- GitHub: Unknown
+- X: Unknown
 
-## connects-to
+### connects-to
 [[builders]]
 [[OpenHome]]
 [[Abilities]]
+[[Voice AI]]
 
-<!-- synthesized: 2026-05-01T11:22:53Z -->
+<!-- synthesized: 2026-05-02T11:14:05Z -->
+```

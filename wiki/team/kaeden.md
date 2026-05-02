@@ -1,26 +1,23 @@
 ```markdown
 ---
-title: Team Kaeden
+title: Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-05-01
+last_updated: 2026-05-02
 ---
 
 ### who-they-are
-Kaeden is a member of the OpenHome core team, serving in an administrative capacity. Their background includes expertise in software development and project management within the voice AI space, contributing to the overall mission of OpenHome.
+Kaeden is a core team member at OpenHome, though specific details regarding their role and background are currently unavailable.
 
 ### what-they-own
-Kaeden leads initiatives focusing on the development and integration of new Abilities within the OpenHome platform. They play a crucial role in enhancing the functionality of Personalities, which are intelligent agents within the OpenHome ecosystem.
+Information on the specific areas of the platform that Kaeden leads is not provided in the available data.
 
 ### how-to-reach
-You can reach Kaeden on Discord with their handle: @kaeden.
+Contact details for Kaeden, such as a Discord handle or X/Twitter account, are not included in the available information.
 
-### connects-to
-[[team/jesse]]
+## connects-to
+[[team/jesse]]  
 [[team/shannon]]
-[[github/openhome-dev/abilities]]
-[[docs.openhome.com]]
-[[developer.openhome.com]]
 
-<!-- synthesized: 2026-05-01T11:22:53Z -->
+<!-- synthesized: 2026-05-02T11:14:05Z -->
 ```

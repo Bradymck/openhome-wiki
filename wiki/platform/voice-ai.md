@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: platform/voice-ai
-entity_type: platform
+title: Voice AI Platform
+entity_type: platform/voice-ai
 status: live
-last_updated: 2026-05-01
+last_updated: 2026-05-02
 ---
 
 ### what-it-is
-OpenHome is an open-source Voice AI platform designed to allow users to build conversational AI agents, referred to as Personalities, which can be enhanced with modular plugins known as Abilities.
+The Voice AI platform within OpenHome is an open-source environment that enables the creation of conversational AI agents, referred to as Personalities, which can be customized with modular voice plugins known as Abilities.
 
 ### how-it-works
-OpenHome enables developers to create and customize their AI agents (Personalities) by assigning them names, voices, and creating tailored conversation styles. These agents can be extended with Abilities, which are voice plugins that introduce new functionalities, ranging from calling APIs to controlling smart devices. Users can interact with their agents using voice commands, and Abilities are activated through hotwords during conversations. The platform supports community contributions, allowing users to explore, fork, and build upon existing Abilities.
+Users interact with the Voice AI platform by setting up Personalities that define unique voices, personas, and conversation styles for their AI agents. These agents can be enhanced with Abilities, which are plugins that allow the agents to perform various tasks such as calling APIs, playing music, and controlling smart home devices. Abilities are triggered through hotwords during voice conversations and execute custom logic written in Python, making the interactions dynamic and versatile.
 
 ### current-status
 live
 
 ### connects-to
-- [[platform/openhome]]
-- [[platform/speakers]]
-- [[platform/abilities]]
-- [[platform/dashboard]]
-- [[platform/local-link]]
-- [[platform/marketplace]]
-- [[platform/live-editor]]
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-05-01T11:22:53Z -->
+<!-- synthesized: 2026-05-02T11:14:05Z -->
 ```

@@ -1,26 +1,26 @@
 ```markdown
 ---
 title: Local First
-entity_type: concepts
-status: live
-last_updated: 2026-05-01
+entity_type: concepts/local-first
+status: stub
+last_updated: 2026-05-02
 ---
 
-### Definition
-Local First is a philosophy that prioritizes local data storage and processing over relying heavily on cloud services. This concept focuses on ensuring that applications can provide functionality even when offline, enhancing user privacy and data ownership.
+### definition
+Local First is a design approach that prioritizes local data storage and processing on devices rather than relying solely on cloud services. This concept emphasizes accessibility, privacy, and speed, allowing applications to function effectively without constant internet connectivity.
 
-### Why It Matters
-Local First is crucial to the OpenHome platform as it empowers users to maintain control over their data while ensuring continuous service availability. This approach aligns with the broader mission of creating immersive and intuitive voice interactions that respect user autonomy and enhance their daily lives.
+### why-it-matters
+In the context of OpenHome, the Local First approach is significant as it enhances user privacy and performance. By handling data locally, users have greater control over their information, reducing reliance on external servers and minimizing latency during interactions with AI-driven voice applications.
 
-### How It Manifests
-In the OpenHome ecosystem, Local First appears in the form of capabilities within smart devices that perform tasks without a constant internet connection. For example, personal AI agents can manage household automation or play music locally, ensuring responsiveness regardless of external connectivity. This leads to improved user experience by reducing latency and dependence on internet reliability.
+### how-it-manifests
+This concept appears in OpenHome through its physical devices, like the V0.1 devkits, which are designed to operate primarily on local data. These devices enable users to run applications and store data without needing continuous internet access, thus providing a seamless user experience.
 
-### Connects To
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-
-<!-- synthesized: 2026-05-01T11:22:53Z -->
+### connects-to
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/voice-first]]
+[[concepts/grant-program]]
+[[concepts/abilities-as-apps]]
+[[concepts/spatial-intelligence]]
+<!-- synthesized: 2026-05-02T11:14:05Z -->
 ```

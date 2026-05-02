@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: OpenHome Platform
+title: OpenHome
 entity_type: platform
 status: live
-last_updated: 2026-05-01
+last_updated: 2026-05-02
 ---
 
-## what-it-is
-OpenHome is an open-source Voice AI platform that allows users to build conversational AI agents, known as Personalities, and extend them with modular voice plugins called Abilities.
+### what-it-is
+OpenHome is an open-source Voice AI platform designed for creating conversational AI agents, known as Personalities. It allows users to build and extend these agents with modular voice plugins called Abilities, thereby enhancing interactivity and personalization.
 
-## how-it-works
-OpenHome enables users to create Personalities which are customized AI agents equipped with a unique voice, persona, and conversational style. Abilities, which are plugins that introduce new skills to these agents, can include functionalities such as calling APIs, playing music, running quizzes, and controlling smart home devices. These Abilities are triggered by specific hotwords during voice interactions and can execute custom Python logic. Users start by reading the documentation, setting up their Personality on the OpenHome Dashboard, and exploring community-driven Abilities to fork or submit their own.
+### how-it-works
+Developers can start building by creating a Personality, which defines the agent's name, voice, and persona. Abilities are added to the Personality to provide additional skills like playing music, controlling smart home devices, or accessing external APIs. These Abilities are triggered by specific hotwords during voice interactions and can execute custom Python logic, making the interactions highly dynamic and tailored. The platform also supports the integration of hardware, including smart speakers, enabling a hands-free AI experience.
 
-## current-status
+### current-status
 live
 
-## connects-to
+### connects-to
 [[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -23,5 +23,6 @@ live
 [[platform/local-link]]
 [[platform/marketplace]]
 [[platform/live-editor]]
-<!-- synthesized: 2026-05-01T11:22:53Z -->
+
+<!-- synthesized: 2026-05-02T11:14:05Z -->
 ```

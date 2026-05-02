@@ -1,26 +1,27 @@
 ```markdown
 ---
 title: guides/sira
-entity_type: Community Guide
+entity_type: Community Guides
 status: stub
-last_updated: 2026-05-01
+last_updated: 2026-05-02
 ---
 
 ## who-they-are
-Sira is a power user within the OpenHome community, recognized for their contributions and expertise in building conversational AI agents.
+Sira is a community guide within the OpenHome ecosystem, leveraging their expertise in voice AI technologies.
 
 ## what-they-help-with
-Sira specializes in assisting users with the development of Personalities and Abilities on the OpenHome platform. They provide guidance on creating and prototyping interactive AI agents using the OpenHome ecosystem, including best practices for utilizing APIs and hardware to enhance user experiences.
+Sira specializes in onboarding users to the OpenHome platform by providing insights into building conversational AI agents known as Personalities. They support users in understanding the functionalities of Abilities, which are modular voice plugins that add new skills to Personalities.
 
 ## how-to-reach
-Sira can be reached through their Discord handle.
+Discord Handle: Sira#1234 (example handle)
 
 ## connects-to
 [[OpenHome]]
+[[Voice AI]]
 [[Personalities]]
 [[Abilities]]
 [[Developer Docs]]
 [[OpenHome Dashboard]]
 [[GitHub]]
-<!-- synthesized: 2026-05-01T11:22:53Z -->
+<!-- synthesized: 2026-05-02T11:14:05Z -->
 ```
