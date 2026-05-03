@@ -1,22 +1,25 @@
-```yaml
-title: Sagar Jethi
+```markdown
+---
+title: Sagarjethi
 entity_type: guides/sagarjethi
-status: beta
-last_updated: 2026-05-02
+status: live
+last_updated: 2026-05-03
+---
+
+### who-they-are
+Sagarjethi is a seasoned developer with over 10 years of experience in building AI-powered applications, particularly in production environments. They possess expertise in full-stack development, large language models (LLMs), retrieval-augmented generation (RAG), and autonomous agents.
+
+### what-they-help-with
+Sagarjethi specializes in creating conversational AI agents and developing abilities for the OpenHome platform. They have built a notable passive ability called "Social Memory," designed to track and provide context about conversations. Sagarjethi is also knowledgeable in integrating OpenHome functionality with other systems, such as Home Assistant, and is seeking to develop skills that enhance user interaction with devices.
+
+### how-to-reach
+Sagarjethi can be reached on Discord at their handle.
+
+### connects-to
+[[OpenHome]]
+[[Community Guides]]
+[[AI Development]]
+[[Conversational Agents]]
+[[Voice AI]]
+<!-- synthesized: 2026-05-03T11:13:16Z -->
 ```
-
-## who-they-are
-Sagar Jethi is a power user within the OpenHome community. While specific details about their professional background and expertise have not been disclosed, they are known to actively engage in discussions about developing agents and abilities on the OpenHome platform.
-
-## what-they-help-with
-Sagar specializes in the development of conversational AI agents through the OpenHome framework. They assist users who are interested in building custom agents and integrating various abilities that enhance the functionality of voice AI systems. Sagar has expressed interest in developing specific skills, such as a "stenographer" skill, indicating a hands-on approach to building innovative features on the platform.
-
-## how-to-reach
-Discord handle: Not explicitly provided in the source material.
-
-## connects-to
-[[guides/openhome]]
-[[guides/voice-ai]]
-[[guides/developer-docs]]
-
-<!-- synthesized: 2026-05-02T11:14:05Z -->

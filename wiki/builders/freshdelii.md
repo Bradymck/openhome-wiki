@@ -1,27 +1,27 @@
-```markdown
----
+```yaml
 title: builders/freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-05-02
----
+last_updated: 2026-05-03
+```
 
-### who-they-are
-FreshDelii is a community-focused builder within the OpenHome ecosystem, dedicated to developing voice AI agents through the use of abilities and integrations that enhance user interaction with technology.
+## who-they-are
+FreshDelii is a developer associated with the OpenHome platform, focusing on building innovative AI-based solutions. They are experienced in full-stack development and have a strong background in working with large language models and autonomous agents.
 
-### what-they-built
-FreshDelii is currently involved in prototyping and contributing to abilities for the OpenHome platform. They are exploring various voice skills, including a "stenographer" skill designed to record audio interactions for later retrieval.
+## what-they-built
+FreshDelii shipped an ability called "Social Memory," which passively tracks mentions of individuals in conversations. This ability uses a two-phase detection approach to filter relevant keywords and extracts information only when necessary. Users can access follow-up information easily by querying specific names or topics.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord handle: Not specified
-- GitHub: Not specified
+- GitHub: [FreshDelii's GitHub](https://github.com/openhome-dev/abilities/pull/264)
 - X: Not specified
 
-### connects-to
-[[wikilinks to abilities]]  
-[[wikilinks to community projects]]
-<!-- synthesized: 2026-05-02T11:14:05Z -->
-```
+## connects-to
+[[abilities/social-memory]]
+[[platforms/openhome]]
+[[development/openai]]
+
+<!-- synthesized: 2026-05-03T11:13:16Z -->

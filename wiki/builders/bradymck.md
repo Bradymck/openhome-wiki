@@ -1,31 +1,27 @@
-```markdown
----
-title: builders/bradymck
-entity_type: builder
-status: stub
-last_updated: 2026-05-02
----
+```yaml
+title: bradymck
+entity_type: builders/
+status: live
+last_updated: 2026-05-03
+```
 
 ## who-they-are
-Brady McK is an active community builder in the OpenHome ecosystem, contributing to the development of conversational AI agents. He is involved with creating features and abilities for the OpenHome platform, focusing on enhancing user interactions with voice applications.
+bradymck is a developer active in the OpenHome community, focusing on building conversational AI agents called Personalities. With a background in full-stack development and expertise in LLMs, RAG, and autonomous agents, bradymck is dedicated to enhancing voice interaction technologies.
 
 ## what-they-built
-Details about specific abilities or integrations that Brady McK has shipped are not available in the source material. He actively engages in ideas and discussions regarding new features and skills for the platform.
+bradymck has shipped a unique ability known as **Social Memory**, which passively tracks and remembers conversations about individuals mentioned during interactions. This ability captures information seamlessly without requiring user commands and nudges users for follow-ups when appropriate. The implementation is designed to be efficient by using a two-phase detection approach: an initial fast keyword filter followed by LLM extraction only when relevant mentions occur.
 
 ## grant-status
-none
+Applied
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: @bradymck
+- GitHub: [bradymck](https://github.com/openhome-dev/abilities/pull/264)
+- X: Not available
 
 ## connects-to
-[[openhome]]
-[[voice AI]]
-[[abilities]]
-[[Personality]]
-[[modular voice plugins]]
+- [[abilities/social-memory]]
+- [[builders/openhome]]
+- [[developers/voice-ai]]
 
-<!-- synthesized: 2026-05-02T11:14:05Z -->
-```
+<!-- synthesized: 2026-05-03T11:13:16Z -->

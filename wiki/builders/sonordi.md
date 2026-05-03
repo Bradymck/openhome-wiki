@@ -1,29 +1,28 @@
-```markdown
----
+```yaml
 title: builders/sonordi
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-05-02
----
+last_updated: 2026-05-03
+```
 
-### who-they-are
-Information about Sonordi's background and what they are building is currently unavailable.
+## who-they-are
+Sonordi is a developer who has extensive experience in AI, particularly in building applications at a production scale. With over ten years of experience, they possess a full-stack background and skills in large language models (LLMs), retrieval-augmented generation (RAG), and autonomous agents. They are currently seeking remote engagements with founders in the US or Europe.
 
-### what-they-built
-Details about any shipped abilities or integrations by Sonordi have not been provided.
+## what-they-built
+Sonordi has developed a feature called Social Memory, which is a passive ability that tracks individuals mentioned in conversations without requiring explicit commands. This ability allows users to recall context-specific follow-ups easily and subtly captures relevant information through a two-phase detection system. Sonordi has contributed to the OpenHome project with this feature and has shared the implementation on GitHub.
 
-### grant-status
-The grant status for Sonordi is currently unknown.
+## grant-status
+none
 
-### how-to-reach
-Contact information for Sonordi is not available.
+## how-to-reach
+- Discord handle: Not specified
+- GitHub: [Sonordi's GitHub](https://github.com/openhome-dev/abilities/pull/264)
+- X: Not specified
 
 ## connects-to
+[[Social Memory]]
 [[OpenHome]]
-[[Abilities]]
 [[Personalities]]
-[[Voice AI]]
-[[Smart Home Solutions]]
+[[Abilities]]
 
-<!-- synthesized: 2026-05-02T11:14:05Z -->
-```
+<!-- synthesized: 2026-05-03T11:13:16Z -->

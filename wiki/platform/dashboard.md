@@ -1,28 +1,27 @@
 ```markdown
 ---
-title: OpenHome Dashboard
+title: Platform Dashboard
 entity_type: platform/dashboard
 status: live
-last_updated: 2026-05-02
+last_updated: 2026-05-03
 ---
 
 ### what-it-is
-The OpenHome Dashboard is a user interface that enables developers and users to create, manage, and customize AI agents within the OpenHome platform. It serves as a central hub for managing Personalities and their associated Skills, known as Abilities.
+The OpenHome Dashboard is a web-based interface that allows users to create and manage AI agents, known as Personalities, and their corresponding abilities on the OpenHome platform.
 
 ### how-it-works
-The OpenHome Dashboard provides tools for developers to build conversational AI agents called Personalities, which can be tailored with different voices and personas. Users can add Abilities, modular plugins that enhance the functionality of their Personalities, allowing them to perform tasks like API calls, music playback, and device control. The dashboard is intuitive, guiding users through the process of agent creation and management with easy navigation and access to resources such as documentation and community contributions.
+Users can access the OpenHome Dashboard at [app.openhome.com](https://app.openhome.com) to set up their AI agents by configuring their attributes such as name and voice. The Dashboard provides tools for adding Abilities, which are modular voice plugins that enhance the capabilities of each Personality. These abilities can perform actions like calling APIs, playing music, or controlling smart home devices. Developers can also explore community-created Abilities, fork examples, and submit their own enhancements through the Dashboard.
 
 ### current-status
 live
 
 ### connects-to
 [[platform/openhome]]
-[[platform/speakers]]
 [[platform/abilities]]
 [[platform/voice-ai]]
 [[platform/local-link]]
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-02T11:14:05Z -->
+<!-- synthesized: 2026-05-03T11:13:16Z -->
 ```

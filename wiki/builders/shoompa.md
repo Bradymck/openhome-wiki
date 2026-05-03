@@ -1,30 +1,31 @@
 ```markdown
 ---
-title: builders/shoompa
-entity_type: builder
-status: stub
-last_updated: 2026-05-02
+title: Builders/Shoompa
+entity_type: builders
+status: live
+last_updated: 2026-05-03
 ---
 
-### who-they-are
-Shoompa is an active member of the OpenHome community, engaged in the development of voice AI agents and their corresponding Abilities. They are exploring the integration of various functionalities into the OpenHome platform.
+## who-they-are
+Shoompa is a developer with extensive experience in AI and full-stack development, particularly focused on building interactive voice AI applications. They have demonstrated proficiency in LLMs (large language models), RAG (retrieval-augmented generation), and autonomous agents. Shoompa has been engaged in the OpenHome community, looking to enhance the capabilities of voice agents.
 
-### what-they-built
-Currently, specific projects or abilities that Shoompa has fully shipped remain unlisted. However, they are involved in discussions about creating abilities that enhance the OpenHome experience, including a potential "stenographer" skill to record audio interactions for later retrieval.
+## what-they-built
+Shoompa has built the "Social Memory" ability for OpenHome, which functions as a passive ability that tracks mentions of people in conversations without user prompts. This ability employs a two-phase detection approach involving a keyword filter and LLM extraction to efficiently capture relevant information. Shoompa is also interested in developing additional skills, such as a "stenographer" skill, which would allow for voice recordings to be logged and retrieved later.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
-- GitHub: Not specified
+- GitHub: [Shoompa's GitHub](https://github.com/openhome-dev/abilities/pull/264)
 - X: Not specified
 
-### connects-to
-[[abilities]]
+## connects-to
+[[Abilities]]
 [[OpenHome]]
 [[Voice AI]]
 [[Personalities]]
+[[Chatbots]]
 
-<!-- synthesized: 2026-05-02T11:14:05Z -->
+<!-- synthesized: 2026-05-03T11:13:16Z -->
 ```

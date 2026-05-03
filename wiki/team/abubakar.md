@@ -3,21 +3,24 @@
 title: Abubakar
 entity_type: team
 status: stub
-last_updated: 2026-05-02
+last_updated: 2026-05-03
 ---
 
 ### who-they-are
-Abubakar serves as a core team member at OpenHome, contributing significantly to the development of the platform's capabilities and direction.
+Abubakar is a core member of the OpenHome team, contributing significantly with a robust background in AI and software development. 
 
 ### what-they-own
-Abubakar leads several strategic areas within the OpenHome platform, focusing on enhancing user interaction and features related to AI-powered voice applications.
+Abubakar leads initiatives around the development of new AI abilities and enhancements to the OpenHome platform, focusing on improving user interaction and personal assistant functionalities.
 
 ### how-to-reach
-Abubakar can be reached on Discord through their handle. Further contact information is currently not available.
+Discord: @abubakar31   
+X/Twitter: Not provided  
+Preferred contact: Reach out via Discord for any inquiries or collaborations.
 
 ### connects-to
-[[team/jesse]]
-[[team/shannon]]
+[[team/jesse]]  
+[[team/shannon]]  
+[[gitHub/openhome-dev]]  
 
-<!-- synthesized: 2026-05-02T11:14:05Z -->
+<!-- synthesized: 2026-05-03T11:13:16Z -->
 ```

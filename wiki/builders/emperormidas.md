@@ -1,26 +1,28 @@
-```yaml
+```markdown
+---
 title: builders/emperormidas
-entity_type: builder
-status: stub
-last_updated: 2026-05-02
-```
+entity_type: builders
+status: live
+last_updated: 2026-05-03
+---
 
 ## who-they-are
-EmperorMidas is a builder within the OpenHome community, known for contributing to the development of the OpenHome platform, which focuses on AI-powered voice applications and conversational agents.
+EmperorMidas is an active community builder in the OpenHome ecosystem with extensive experience in full-stack development, LLMs, RAG, and autonomous agents. They have over ten years of experience in the field and have engaged with founders in debugging production agents. Currently, they are looking for serious remote engagement opportunities with U.S. or European founders to tackle real problems in AI development.
 
 ## what-they-built
-EmperorMidas has worked on building skills and abilities for OpenHome, although specific abilities or integrations he has shipped are not detailed in the available data.
+EmperorMidas has developed an ability called "Social Memory," which passively tracks mentions of people during conversations, allowing users to retrieve contextual information later. This ability utilizes a two-phase detection approach to efficiently identify and log these mentions without user commands. The implementation of Social Memory is detailed in a pull request on GitHub.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: N/A
+- GitHub: [GitHub Profile](https://github.com/openhome-dev/abilities/pull/264)
 
 ## connects-to
-[[builders/emperormidas]] <!-- Note: No specific abilities are documented for linking -->
-
-<!-- synthesized: 2026-05-02T11:14:05Z -->
+[[builders]]
+[[abilities/social-memory]]
+[[openhome]]
+[[devkit]]
+<!-- synthesized: 2026-05-03T11:13:16Z -->
 ```

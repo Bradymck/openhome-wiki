@@ -3,24 +3,24 @@
 title: "guides/adamdew"
 entity_type: "Community Guide"
 status: "live"
-last_updated: "2026-05-02"
+last_updated: "2026-05-03"
 ---
 
 ### who-they-are
-Adam Dew is a power user within the OpenHome community, recognized for his contributions to the platform and enthusiasm for developing voice AI agents. He actively participates in discussions related to the OpenHome ecosystem and has considerable experience in leveraging home automation technologies.
+Adam Dew has over 10 years of experience in full-stack development, focusing on large-scale deployment of AI technologies. He has deep expertise in working with large language models (LLMs), retrieval-augmented generation (RAG), and autonomous agents. Adam has been involved in real-time debugging of production AI systems, providing him with unique insights into operational challenges and solutions.
 
 ### what-they-help-with
-Adam specializes in building and enhancing voice AI agents called Personalities using the OpenHome platform. He has a particular interest in integrating smart home functionalities and developing innovative skills for voice assistants. His expertise includes working with the OpenHome Devkit and creating unique Abilities that enhance the interaction capabilities of AI agents.
+Adam specializes in the development and integration of voice AI agents using the OpenHome platform. He has a strong understanding of creating conversational AI agents (Personalities) and extending their capabilities through modular voice plugins (Abilities). His experience includes building efficient skills such as memory tracking and audio recording functionalities, which enhance user interactions with AI agents.
 
 ### how-to-reach
-Discord Handle: `@adamdew`
+Discord Handle: @adamdew
 
-## connects-to
+### connects-to
+[[guides]]
 [[OpenHome]]
+[[AI Development]]
 [[Voice AI]]
-[[Personalities]]
-[[Abilities]]
-[[Developer Documentation]]
+[[Community Contributions]]
 
-<!-- synthesized: 2026-05-02T11:14:05Z -->
+<!-- synthesized: 2026-05-03T11:13:16Z -->
 ```

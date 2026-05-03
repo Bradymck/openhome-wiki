@@ -1,30 +1,25 @@
-```markdown
----
-title: builders/slowjamsteve
-entity_type: community builder
-status: stub
-last_updated: 2026-05-02
----
+```yaml
+title: SlowJamSteve
+entity_type: builders
+status: live
+last_updated: 2026-05-03
+```
 
-### who-they-are
-SlowJamSteve is an emerging contributor within the OpenHome community known for engaging actively in discussions surrounding AI-powered voice applications. They are focused on enhancing the functionalities available within the OpenHome platform, particularly in developing interactive AI agents.
+## who-they-are
+SlowJamSteve is an active contributor within the OpenHome community. With a background in full-stack development and expertise in LLMs, RAG, and autonomous agents, they have extensive experience in building and debugging production-level AI systems. SlowJamSteve is currently seeking a remote engagement with a founder to tackle real-world problems using their skills.
 
-### what-they-built
-As of now, specific abilities or integrations attributed to SlowJamSteve have not been documented within the community contributions. They have expressed interest in building skills for effective audio recording and conversational interactions but have yet to ship any widely recognized abilities.
+## what-they-built
+SlowJamSteve has developed an ability called "Social Memory," which is a passive tracking mechanism that records conversational mentions of people. This ability can surface collected information during conversations, enhancing the contextual awareness of AI interactions. The implementation of this feature is available for review on GitHub at [this pull request](https://github.com/openhome-dev/abilities/pull/264).
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord: @SlowJamSteve
+- GitHub: [SlowJamSteve](https://github.com/SlowJamSteve)
+- X: Not available
 
-### connects-to
-[[builders]]
-[[OpenHome]]
-[[Abilities]]
-[[Personalities]]
+## connects-to
+[[abilities/social-memory]]
 
-<!-- synthesized: 2026-05-02T11:14:05Z -->
-```
+<!-- synthesized: 2026-05-03T11:13:16Z -->

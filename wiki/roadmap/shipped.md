@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: roadmap/shipped
-entity_type: roadmap
+title: Roadmap - Shipped Features
+entity_type: roadmap/shipped
 status: live
-last_updated: 2026-05-02
+last_updated: 2026-05-03
 ---
 
 ## what-it-is
-OpenHome allows developers to create AI agents named Personalities and extend them with modular plugins called Abilities. As of May 2, 2026, physical V0.1 devkits are being shipped globally to support development on the OpenHome platform.
+OpenHome has shipped a new feature called Social Memory, which acts as a passive ability that tracks mentions of people in conversations. It automatically collects snippets of dialogue that reference individuals and prompts reminders for follow-up conversations.
 
 ## status
-shipped
+Shipped
 
 ## why-it-matters
-The introduction of the OpenHome DevKit enhances the developer experience, enabling more efficient creation and prototyping of voice AI applications, thus fostering innovation in voice-first technology. The platform aims to make AI interactions more accessible and intuitive for users.
+Social Memory enhances user interaction with AI agents by allowing them to recall past conversations about people, facilitating more natural dialogues and reminders. This feature aims to improve user experience and engagement with AI, making it feel more intuitive and responsive.
 
 ## eta
-Ongoing shipment of devkits in small batches to contributors and developers.
+Launched on May 3, 2026
 
 ## connects-to
 [[OpenHome]]
+[[Voice AI]]
 [[Abilities]]
 [[Personalities]]
-[[Developer Docs]]
-[[OpenHome Dashboard]]
-<!-- synthesized: 2026-05-02T11:14:05Z -->
+
+<!-- synthesized: 2026-05-03T11:13:16Z -->
 ```

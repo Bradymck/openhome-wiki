@@ -1,23 +1,25 @@
 ```markdown
 ---
 title: guides/voidsshadows
-entity_type: Community Guides
-status: stub
-last_updated: 2026-05-02
+entity_type: Community Guide
+status: live
+last_updated: 2026-05-03
 ---
 
 ### who-they-are
-Voidsshadow is a community member engaged in developing applications and skills for the OpenHome platform. They are proficient in programming and exploring integrations with various voice AI applications.
+Voidshadows is a seasoned community member with over 10 years of experience in full-stack development, specializing in large language models (LLMs), retrieval-augmented generation (RAG), and building autonomous agents. They have significant hands-on experience with debugging production AI agents under real-world conditions.
 
 ### what-they-help-with
-Voidsshadow specializes in creating and debugging skills for OpenHome, focusing on enhancing the functionality of AI agents and their ability to interact in meaningful ways with users. They also assist newcomers with initial setups, development questions, and troubleshooting.
+Voidshadows primarily assists with the development and implementation of conversational AI agents and their associated abilities using the OpenHome platform. Their expertise includes building skills that enhance voice AI interactions, specifically passive abilities that capture conversational context seamlessly in the background.
 
 ### how-to-reach
-Contact Voidsshadow on Discord at their handle: `Voidsshadow`.
+Discord handle: <@314598786448097280>
 
-## connects-to
+### connects-to
 [[OpenHome]]
-[[AI Agents]]
 [[Abilities]]
-<!-- synthesized: 2026-05-02T11:14:05Z -->
+[[AI Agents]]
+[[Community Guides]]
+
+<!-- synthesized: 2026-05-03T11:13:16Z -->
 ```

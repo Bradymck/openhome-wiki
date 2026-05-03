@@ -1,21 +1,21 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/
+entity_type: concepts/grant-program
 status: live
-last_updated: 2026-05-02
+last_updated: 2026-05-03
 ---
 
-## definition
-A grant program in the context of OpenHome involves providing financial or material support to developers and contributors who create innovative projects using the OpenHome platform. This program aims to incentivize participation and enhance the ecosystem.
+### definition
+The Grant Program is an initiative by OpenHome that supports developers by providing resources, funding, and physical development kits for creating and enhancing AI agents and their abilities on the OpenHome platform.
 
-## why-it-matters
-The grant program is crucial for fostering creativity and innovation within the OpenHome community. By financially supporting developers and encouraging contributions, it helps to rapidly evolve the platform and encourages a collaborative environment. It also ensures that promising projects receive recognition and resources, which can further drive development and user engagement.
+### why-it-matters
+This program is crucial for fostering innovation within the OpenHome community. By incentivizing developers to contribute meaningful projects, the Grant Program helps expand the capabilities of the platform, leading to a richer user experience and more versatile applications of voice AI technology.
 
-## how-it-manifests
-The grant program is manifested through initiatives such as distributing physical development kits to top contributors. Recipients of these kits can further build and prototype their ideas, enhancing their projects' visibility and potential impact within the community. Additionally, OpenHome promotes these projects and allocates additional grant budgets for ongoing support.
+### how-it-manifests
+Developers participating in the Grant Program have access to physical V0.1 devkits, which are advanced smart speakers equipped with local functionality for music, smart home control, and AI interactions. The program also encourages developers to prototype new abilities and provides additional funding for successful projects, promoting active contributions.
 
-## connects-to
+### connects-to
 - [[concepts/abilities-as-apps]]
 - [[concepts/voice-first]]
 - [[concepts/local-first]]
@@ -23,5 +23,5 @@ The grant program is manifested through initiatives such as distributing physica
 - [[concepts/dead-mans-switch]]
 - [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-05-02T11:14:05Z -->
+<!-- synthesized: 2026-05-03T11:13:16Z -->
 ```

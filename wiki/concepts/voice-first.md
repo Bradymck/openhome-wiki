@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-05-02
----
+last_updated: 2026-05-03
+```
 
 ## definition
-Voice-first refers to a technology interaction paradigm where voice commands are the primary way users communicate with devices and services. This approach focuses on enabling natural, conversational exchanges rather than relying on traditional graphical user interfaces.
+Voice-first is a design paradigm that prioritizes voice interactions between users and technology. In this approach, voice becomes the primary interface for communication and control, enabling users to interact hands-free and seamlessly with devices.
 
 ## why-it-matters
-Voice-first technology is integral to OpenHome's mission to revolutionize human-technology interaction. By prioritizing voice communication, OpenHome makes AI-powered applications more accessible and enhances user experience, allowing for intuitive interactions that align with everyday behaviors.
+Voice-first interactions transform how users engage with technology, making it more natural and intuitive. This is particularly relevant to OpenHome as it aims to make AI-driven voice applications accessible and effective, enhancing user experience and interactions with their devices.
 
 ## how-it-manifests
-In the OpenHome platform, voice-first capabilities are exhibited through the development of AI agents called Personalities. Users can interact with these Personalities using voice commands to perform various tasks, such as controlling smart home devices, playing music, or accessing information. The integration of Abilities, modular voice plugins, enhances these interactions by providing additional skills triggered during voice conversations.
+In OpenHome, voice-first functionality is embedded within its platform, allowing developers to build conversational AI agents called Personalities. These agents respond to voice commands and utilize Abilities—modular voice plugins that extend their functionality. This capability facilitates a broad range of applications, from smart home control to engaging conversational experiences.
 
 ## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/abilities-as-apps]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-02T11:14:05Z -->
-```
+<!-- synthesized: 2026-05-03T11:13:16Z -->

@@ -1,28 +1,29 @@
-```yaml
-title: builders/michaelgold
-entity_type: builder
-status: stub
-last_updated: 2026-05-02
-```
+```markdown
+---
+title: "builders/michaelgold"
+entity_type: "builder"
+status: "stub"
+last_updated: "2026-05-03"
+---
 
-## who-they-are
-Michael Gold is a community builder involved with OpenHome, working on developing features and improvements within the OpenHome platform. His primary focus is on enhancing the capabilities of conversational AI agents.
+### who-they-are
+Michael Gold is a developer with over 10 years of experience in full-stack development, specializing in large language models (LLMs), retrieval-augmented generation (RAG), and autonomous agents. He has a background in building AI applications at a production scale and is currently seeking remote engagement opportunities with US or European founders.
 
-## what-they-built
-Currently, specific details of Michael Gold's contributions and built abilities or integrations have not been outlined in the available information.
+### what-they-built
+Michael has contributed to the OpenHome platform by developing a passive ability called "Social Memory." This ability tracks mentions of individuals in conversations without requiring explicit commands and can surface follow-up reminders during interactions. His implementation allows for efficient keyword detection combined with LLM extraction to identify person mentions.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord: not specified
+- GitHub: [michaelgold](https://github.com/openhome-dev/abilities/pull/264)
+- X: not specified
 
-## connects-to
-[[builders/]]
-[[OpenHome]]
-[[Voice AI]]
-[[Abilitites]]
+### connects-to
+[[abilities/social-memory]]
+[[openhome]]
+[[developers]]
 
-<!-- synthesized: 2026-05-02T11:14:05Z -->
+<!-- synthesized: 2026-05-03T11:13:16Z -->
+```

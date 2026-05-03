@@ -1,20 +1,21 @@
-```yaml
-title: web3-native
+```markdown
+---
+title: concepts/web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-05-02
-```
+last_updated: 2026-05-03
+---
 
-## definition
-Web3-native refers to applications and platforms that are built using decentralized technologies, primarily leveraging blockchain systems. These solutions prioritize user ownership, transparency, and interoperability.
+### definition
+Web3-native refers to applications, services, and platforms that are built on decentralized technologies, primarily utilizing blockchain. These solutions are characterized by their user-centric design and often incorporate concepts such as ownership, privacy, and interoperability.
 
-## why-it-matters
-For OpenHome, being web3-native means integrating blockchain technology to enhance user control over their data and interactions. It aligns with OpenHome's mission of empowering users through decentralized solutions, making it possible for users to maintain ownership and security of their information.
+### why-it-matters
+The relevance of web3-native concepts to OpenHome lies in the platform's commitment to decentralization and user empowerment. By integrating web3 principles, OpenHome can enhance user privacy, data ownership, and create a more resilient ecosystem for its voice interactions and AI capabilities.
 
-## how-it-manifests
-Within OpenHome, the web3-native concept is likely to manifest through features that allow users to manage their personal data on decentralized networks. This could include securing user interactions and ensuring that users have total ownership of the voice agents and the abilities they develop.
+### how-it-manifests
+On the OpenHome platform, web3-native concepts may appear through functionalities that allow users to maintain control over their data, participate in governance processes, or utilize decentralized identities. While the specifics of these implementations are still developing, the foundation is being laid for future enhancements.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -22,4 +23,5 @@ Within OpenHome, the web3-native concept is likely to manifest through features 
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-02T11:14:05Z -->
+<!-- synthesized: 2026-05-03T11:13:16Z -->
+```
