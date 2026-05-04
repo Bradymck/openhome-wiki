@@ -1,29 +1,27 @@
-```markdown
----
+```yaml
 title: illectric-co
 entity_type: builders
-status: stub
-last_updated: 2026-05-03
----
+status: live
+last_updated: 2026-05-04
+```
 
-### who-they-are
-Illectric-co is a team of developers in the OpenHome community, recognized for their contributions to building conversational AI agents and extending functionalities through modular voice plugins known as Abilities.
+## who-they-are
+Illectric Co is part of the OpenHome community, focusing on developing innovative voice AI agents and abilities within the OpenHome platform. They have actively contributed to enhancing interactions with technology through their creative implementations.
 
-### what-they-built
-Illectric-co has developed various abilities for the OpenHome platform, including a passive ability called "Social Memory." This ability monitors conversations to track mentions of people and provides reminders or follow-ups based on those references. The implementation uses a two-phase detection approach to efficiently identify personal mentions without overloading the model's processing capabilities.
+## what-they-built
+Illectric Co has shipped an ability called **Social Memory**, which passively tracks mentions of people during conversations. This ability utilizes a two-phase detection approach, filtering keywords for mentions of individuals and efficiently managing memory of interactions without user input. The implementation is designed to provide follow-up nudges based on previously mentioned individuals.
 
-### grant-status
-none
+## grant-status
+Applied
 
-### how-to-reach
-- Discord: Available on the OpenHome Discord server
-- GitHub: [GitHub Repository](https://github.com/openhome-dev/abilities/pull/264)
-- X: Not specified
+## how-to-reach
+- Discord: [@illectric](https://discord.com/)
+- GitHub: [illectric-co](https://github.com/illectric-co)
+- Twitter: [@illectric](https://twitter.com/illectric)
 
-### connects-to
+## connects-to
 [[builders/openhome]]
 [[abilities/social-memory]]
-[[abilities/conversational-ai]]
+[[builders/home-assistant]]
 
-<!-- synthesized: 2026-05-03T11:13:16Z -->
-```
+<!-- synthesized: 2026-05-04T11:31:37Z -->

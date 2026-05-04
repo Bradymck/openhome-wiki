@@ -1,28 +1,27 @@
-```markdown
----
-title: Roadmap - Shipped Features
+```yaml
+title: Roadmap / Shipped
 entity_type: roadmap/shipped
 status: live
-last_updated: 2026-05-03
----
+last_updated: 2026-05-04
+```
 
 ## what-it-is
-OpenHome has shipped a new feature called Social Memory, which acts as a passive ability that tracks mentions of people in conversations. It automatically collects snippets of dialogue that reference individuals and prompts reminders for follow-up conversations.
+OpenHome has introduced several new features, including the launch of physical V0.1 DevKits. Additionally, a passive ability called Social Memory has been shipped, which allows the AI to quietly track mentions of individuals in conversations.
 
 ## status
 Shipped
 
 ## why-it-matters
-Social Memory enhances user interaction with AI agents by allowing them to recall past conversations about people, facilitating more natural dialogues and reminders. This feature aims to improve user experience and engagement with AI, making it feel more intuitive and responsive.
+The release of the DevKits enables developers to build with OpenClaw or create their own agents, fostering innovation within the OpenHome community. The Social Memory ability enhances user interaction by providing contextual reminders and information, thereby revolutionizing conversational AI experiences.
 
 ## eta
-Launched on May 3, 2026
+Physical DevKits are shipping globally in small batches as they become available. No specific timeline provided for the Social Memory feature.
 
 ## connects-to
 [[OpenHome]]
-[[Voice AI]]
 [[Abilities]]
-[[Personalities]]
+[[DevKits]]
+[[Social Memory]]
+[[Developer Docs]]
 
-<!-- synthesized: 2026-05-03T11:13:16Z -->
-```
+<!-- synthesized: 2026-05-04T11:31:37Z -->

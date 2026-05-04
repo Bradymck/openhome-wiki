@@ -1,30 +1,26 @@
-```markdown
----
-title: "News Brief"
-entity_type: "abilities/"
+```yaml
+title: Abilities/News-Brief
+entity_type: abilities
 status: live
-last_updated: 2026-05-03
----
+last_updated: 2026-05-04
+```
 
 ## what-it-does
-The News Brief ability provides users with concise summaries of current events and news updates by accessing various news sources. It is designed to deliver quick, digestible information to keep users informed.
+News-Brief is an ability designed to passively track and manage conversational follow-ups. It listens for mentions of individuals in conversations and captures relevant information without requiring user commands. This ability nudges users mid-conversation when follow-ups are overdue and allows users to retrieve information about tracked individuals by querying the recorded data.
 
 ## how-to-build
-To create the News Brief ability, developers can utilize news APIs to fetch updates and parse the data to deliver concise summaries. Key features include keyword filtering and the ability to allow for user-driven commands to request specific news topics or updates.
+The implementation uses a two-phase detection approach. Initially, it applies a fast keyword filter to recognize when a person's name is mentioned. If a potential mention is detected, it triggers a more intensive language model (LLM) extraction to confirm and log the context. For developers looking to contribute or refine this ability, the implementation details can be found in the related pull request.
 
 ## category
 utility
 
 ## built-by
-[[abilities/news-brief]]
+[[abilities/social-memory]]
 
 ## status
 live
 
 ## connects-to
-[[abilities/aquaprime]]
-[[abilities/deadman-fm]]
-[[abilities/trivia]]
+[[abilities/aquaprime]], [[abilities/deadman-fm]], [[abilities/trivia]]
 
-<!-- synthesized: 2026-05-03T11:13:16Z -->
-```
+<!-- synthesized: 2026-05-04T11:31:37Z -->

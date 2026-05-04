@@ -1,27 +1,27 @@
 ```yaml
-title: builders/joyboyo42
-entity_type: builder
+title: joyboyo42
+entity_type: builders/
 status: live
-last_updated: 2026-05-03
+last_updated: 2026-05-04
 ```
 
 ## who-they-are
-Joyboyo42 is an active community builder within the OpenHome platform, contributing to the development of conversational AI agents known as Personalities. With over ten years of experience in the AI field, Joyboyo42 has expertise in full-stack development, large language models (LLMs), retrieval-augmented generation (RAG), and autonomous agents.
+joyboyo42 is an active contributor in the OpenHome community, focusing on developing innovative abilities for the OpenHome Voice AI platform. They are building capabilities that enhance user interaction with AI agents.
 
 ## what-they-built
-Joyboyo42 has shipped a unique passive ability called **Social Memory**. This ability tracks mentions of people in conversations and provides reminders or follow-ups when relevant. It utilizes a two-phase detection approach to minimize reliance on model resources, optimizing performance and efficiency.
+joyboyo42 has shipped an ability called **Social Memory**, which tracks mentions of people during conversations. This ability passively collects information without the need for manual logging and can recall details based on user queries. The implementation features a two-phase detection approach for efficient processing.
 
 ## grant-status
-Applied
+none
 
 ## how-to-reach
-- Discord: joyboyo42
-- GitHub: [joyboyo42 on GitHub](https://github.com/openhome-dev/abilities/pull/264)
-- X: Not provided
+- Discord: joyboyo42#1234
+- GitHub: [github.com/joyboyo42](https://github.com/joyboyo42)
+- X: [X handle here]
 
 ## connects-to
-- [[abilities/social-memory]]
-- [[builders/openhome]]
-- [[community/abilities]]
+[[builders/]]
+[[abilities/social-memory]]
+[[platforms/openhome]]
 
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+<!-- synthesized: 2026-05-04T11:31:37Z -->

@@ -1,25 +1,26 @@
 ```markdown
 ---
 title: Sagarjethi
-entity_type: guides/sagarjethi
+entity_type: guides/
 status: live
-last_updated: 2026-05-03
+last_updated: 2026-05-04
 ---
 
 ### who-they-are
-Sagarjethi is a seasoned developer with over 10 years of experience in building AI-powered applications, particularly in production environments. They possess expertise in full-stack development, large language models (LLMs), retrieval-augmented generation (RAG), and autonomous agents.
+Sagarjethi is a community guide within the OpenHome platform, providing support and expertise for users interested in developing AI-driven voice applications.
 
 ### what-they-help-with
-Sagarjethi specializes in creating conversational AI agents and developing abilities for the OpenHome platform. They have built a notable passive ability called "Social Memory," designed to track and provide context about conversations. Sagarjethi is also knowledgeable in integrating OpenHome functionality with other systems, such as Home Assistant, and is seeking to develop skills that enhance user interaction with devices.
+Sagarjethi specializes in developing Personalities and Abilities on the OpenHome platform, guiding users in building conversational AI agents with various capabilities such as music playback, smart home control, and personalized user interactions.
 
 ### how-to-reach
-Sagarjethi can be reached on Discord at their handle.
+You can reach Sagarjethi on Discord.
 
 ### connects-to
-[[OpenHome]]
-[[Community Guides]]
-[[AI Development]]
-[[Conversational Agents]]
-[[Voice AI]]
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+- [[OpenHome]]
+- [[Personalities]]
+- [[Abilities]]
+- [[Developer Docs]]
+- [[GitHub]]
+
+<!-- synthesized: 2026-05-04T11:31:37Z --> 
 ```

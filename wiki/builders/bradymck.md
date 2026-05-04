@@ -1,27 +1,27 @@
 ```yaml
 title: bradymck
-entity_type: builders/
+entity_type: builders
 status: live
-last_updated: 2026-05-03
+last_updated: 2026-05-04
 ```
 
 ## who-they-are
-bradymck is a developer active in the OpenHome community, focusing on building conversational AI agents called Personalities. With a background in full-stack development and expertise in LLMs, RAG, and autonomous agents, bradymck is dedicated to enhancing voice interaction technologies.
+bradymck is an active developer within the OpenHome community, focusing on building conversational AI agents and extending their functionalities through various abilities. They contribute to the development of OpenHome, an open-source Voice AI platform that allows users to create and customize AI applications.
 
 ## what-they-built
-bradymck has shipped a unique ability known as **Social Memory**, which passively tracks and remembers conversations about individuals mentioned during interactions. This ability captures information seamlessly without requiring user commands and nudges users for follow-ups when appropriate. The implementation is designed to be efficient by using a two-phase detection approach: an initial fast keyword filter followed by LLM extraction only when relevant mentions occur.
+bradymck has shipped an ability called **Social Memory**, which passively tracks mentions of people in conversations. This ability prompts users with reminders about follow-ups based on the captured information, making it easier to remember interactions and relationships. The implementation utilizes a two-phase detection approach to accurately identify mentions without overloading the model.
 
 ## grant-status
-Applied
+none
 
 ## how-to-reach
-- Discord: @bradymck
-- GitHub: [bradymck](https://github.com/openhome-dev/abilities/pull/264)
-- X: Not available
+- Discord: Not provided
+- GitHub: [bradymck GitHub Profile](https://github.com/openhome-dev/abilities/pull/264)  
+- X: Not provided
 
 ## connects-to
-- [[abilities/social-memory]]
-- [[builders/openhome]]
-- [[developers/voice-ai]]
+[[openhome]]  
+[[abilities]]  
+[[social-memory]]
 
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+<!-- synthesized: 2026-05-04T11:31:37Z -->

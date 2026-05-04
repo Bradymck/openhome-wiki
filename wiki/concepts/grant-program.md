@@ -2,26 +2,26 @@
 ---
 title: Grant Program
 entity_type: concepts/grant-program
-status: live
-last_updated: 2026-05-03
+status: beta
+last_updated: 2026-05-04
 ---
 
-### definition
-The Grant Program is an initiative by OpenHome that supports developers by providing resources, funding, and physical development kits for creating and enhancing AI agents and their abilities on the OpenHome platform.
+## definition
+The Grant Program is an initiative designed to support developers within the OpenHome ecosystem by providing funding and resources for innovative projects and contributions.
 
-### why-it-matters
-This program is crucial for fostering innovation within the OpenHome community. By incentivizing developers to contribute meaningful projects, the Grant Program helps expand the capabilities of the platform, leading to a richer user experience and more versatile applications of voice AI technology.
+## why-it-matters
+This program is crucial as it incentivizes active participation and fosters a collaborative environment. By rewarding top contributions, it encourages developers to create high-quality applications and functionalities that enhance the OpenHome platform.
 
-### how-it-manifests
-Developers participating in the Grant Program have access to physical V0.1 devkits, which are advanced smart speakers equipped with local functionality for music, smart home control, and AI interactions. The program also encourages developers to prototype new abilities and provides additional funding for successful projects, promoting active contributions.
+## how-it-manifests
+The Grant Program manifests through the distribution of physical development kits (devkits) to developers who contribute significantly to the platform. Recipients of these devkits gain access to additional grant budgets for their projects, supporting their development efforts and idea realization.
 
-### connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+<!-- synthesized: 2026-05-04T11:31:37Z -->
 ```

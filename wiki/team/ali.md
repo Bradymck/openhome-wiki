@@ -1,26 +1,23 @@
 ```markdown
 ---
-title: team/ali
-entity_type: team
-status: stub
-last_updated: 2026-05-03
+title: "Ali"
+entity_type: "team/"
+status: "stub"
+last_updated: 2026-05-04
 ---
 
 ### who-they-are
-Ali is a core member of the OpenHome team with expertise in AI development and voice technology.
+Ali is a core member of the OpenHome team. Details about their specific role and background have not been provided yet.
 
 ### what-they-own
-Ali leads the development of core functionality related to voice interactions and AI agent integrations on the OpenHome platform.
+Currently, there is no information available regarding the areas of the OpenHome platform that Ali leads.
 
 ### how-to-reach
-Discord handle: @ali
-X/Twitter: Not listed
+Ali's preferred contact information, including their Discord handle or social media, is not specified at this time.
 
 ### connects-to
-[[team/jesse]]
-[[team/shannon]]
-[[projects/openhome]]
-[[projects/agents]]
+- [[team/jesse]]
+- [[team/shannon]]
 
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+<!-- synthesized: 2026-05-04T11:31:37Z -->
 ```

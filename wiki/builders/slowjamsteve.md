@@ -1,25 +1,31 @@
-```yaml
-title: SlowJamSteve
-entity_type: builders
+```markdown
+---
+title: builders/slowjamsteve
+entity_type: builder
 status: live
-last_updated: 2026-05-03
-```
+last_updated: 2026-05-04
+---
 
-## who-they-are
-SlowJamSteve is an active contributor within the OpenHome community. With a background in full-stack development and expertise in LLMs, RAG, and autonomous agents, they have extensive experience in building and debugging production-level AI systems. SlowJamSteve is currently seeking a remote engagement with a founder to tackle real-world problems using their skills.
+### who-they-are
+Slowjamsteve is a contributor to the OpenHome community, actively engaged in building abilities for the Voice AI platform. They focus on creating conversational AI agents called Personalities and are interested in developing features that enhance user interaction with these agents.
 
-## what-they-built
-SlowJamSteve has developed an ability called "Social Memory," which is a passive tracking mechanism that records conversational mentions of people. This ability can surface collected information during conversations, enhancing the contextual awareness of AI interactions. The implementation of this feature is available for review on GitHub at [this pull request](https://github.com/openhome-dev/abilities/pull/264).
+### what-they-built
+Slowjamsteve has developed an ability known as "Social Memory," which functions as a passive tracking system for conversations. This ability captures mentions of people during discussions without requiring explicit commands, and reminds users of any follow-ups after significant mentions. The implementation involves a two-phase detection approach, using a keyword filter followed by an extraction process to identify mentions of individuals.
 
-## grant-status
-none
+### grant-status
+$1K
 
-## how-to-reach
-- Discord: @SlowJamSteve
-- GitHub: [SlowJamSteve](https://github.com/SlowJamSteve)
-- X: Not available
+### how-to-reach
+- Discord handle: @slowjamsteve
+- GitHub: [slowjamsteve](https://github.com/slowjamsteve)
+- X: Not provided
 
-## connects-to
+### connects-to
+[[builders]]
 [[abilities/social-memory]]
+[[openhome-dev]]
+[[personalities]]
+[[abilities]]
 
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+<!-- synthesized: 2026-05-04T11:31:37Z -->
+```

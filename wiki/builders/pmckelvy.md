@@ -1,27 +1,29 @@
-```yaml
-title: builders/pmckelvy
-entity_type: builders
+```markdown
+---
+title: pmckelvy
+entity_type: builders/
 status: live
-last_updated: 2026-05-03
-```
+last_updated: 2026-05-04
+---
 
-## who-they-are
-pmckelvy is a community builder active in the OpenHome ecosystem. They have a decade of experience in full-stack development, including expertise in large language models (LLMs), retrieval-augmented generation (RAG), and autonomous agents. pmckelvy aims to leverage their skills to enhance the OpenHome platform and engage with founders in the AI space.
+### who-they-are
+pmckelvy is an active community builder within the OpenHome project, dedicated to creating innovative conversational AI experiences. They focus on extending the capabilities of the OpenHome platform by integrating new abilities that enhance user interaction.
 
-## what-they-built
-pmckelvy has developed an ability called "Social Memory," which is a passive functionality for tracking mentions of individuals in conversations. This ability collects data without user commands and can provide follow-up prompts based on past interactions. The implementation is designed to efficiently identify person mentions using a two-phase detection approach, integrating fast keyword filtering and LLM extraction.
+### what-they-built
+pmckelvy has contributed a significant ability called **Social Memory**, which operates passively in the background, tracking mentions of individuals during conversations. This ability allows users to retrieve information about past interactions seamlessly. The implementation involves a two-phase detection approach to ensure efficiency and accuracy in capturing relevant data. The code for this ability is available for review on GitHub: [Social Memory PR](https://github.com/openhome-dev/abilities/pull/264).
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: [pmckelvy's GitHub](https://github.com/openhome-dev/abilities/pull/264)
-- X: Not specified
+### how-to-reach
+- **Discord handle:** @pmckelvy
+- **GitHub:** [pmckelvy on GitHub](https://github.com/pmckelvy)
+- **X (Twitter):** Not specified
 
 ## connects-to
-[[abilities/social-memory]]
-[[builders/openhome]]
-[[builders/community]]
-[[developers/openai]]
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+- [[builders/abilities/social-memory]]
+- [[builders/abilities/]]
+- [[builders/pmckelvy]] <!-- this would connect back to the current page, keeping related information structured -->
+
+<!-- synthesized: 2026-05-04T11:31:37Z -->
+```

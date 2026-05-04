@@ -1,31 +1,28 @@
 ```markdown
 ---
-title: Builders/Shoompa
+title: builders/shoompa
 entity_type: builders
 status: live
-last_updated: 2026-05-03
+last_updated: 2026-05-04
 ---
 
-## who-they-are
-Shoompa is a developer with extensive experience in AI and full-stack development, particularly focused on building interactive voice AI applications. They have demonstrated proficiency in LLMs (large language models), RAG (retrieval-augmented generation), and autonomous agents. Shoompa has been engaged in the OpenHome community, looking to enhance the capabilities of voice agents.
+### who-they-are
+Shoompa is a community builder within the OpenHome project, focusing on creating innovative voice AI applications. They are actively contributing by developing abilities that extend the functionality of voice AI agents on the OpenHome platform.
 
-## what-they-built
-Shoompa has built the "Social Memory" ability for OpenHome, which functions as a passive ability that tracks mentions of people in conversations without user prompts. This ability employs a two-phase detection approach involving a keyword filter and LLM extraction to efficiently capture relevant information. Shoompa is also interested in developing additional skills, such as a "stenographer" skill, which would allow for voice recordings to be logged and retrieved later.
+### what-they-built
+Shoompa has developed an ability called **Social Memory**. This passive ability tracks mentions of people in conversations, automatically collecting and surfacing relevant information. It uses a two-phase detection method to recognize person mentions and reduce unnecessary processing. They have shared a pull request for the implementation of this ability [here](https://github.com/openhome-dev/abilities/pull/264).
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
-- GitHub: [Shoompa's GitHub](https://github.com/openhome-dev/abilities/pull/264)
+- GitHub: [shoompa's GitHub](https://github.com/openhome-dev/abilities)
 - X: Not specified
 
 ## connects-to
-[[Abilities]]
-[[OpenHome]]
-[[Voice AI]]
-[[Personalities]]
-[[Chatbots]]
-
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+[[abilities/social-memory]]
+[[builders/openhome]]
+[[developers/voice-ai]]
+<!-- synthesized: 2026-05-04T11:31:37Z -->
 ```

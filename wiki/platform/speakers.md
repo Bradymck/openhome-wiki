@@ -1,19 +1,18 @@
-```markdown
----
-title: platform/speakers
-entity_type: platform
-status: live
-last_updated: 2026-05-03
----
+```yaml
+title: Speakers
+entity_type: platform/speakers
+status: beta
+last_updated: 2026-05-04
+```
 
 ### what-it-is
-OpenHome speakers are advanced smart devices designed to integrate with the OpenHome platform, functioning as physical embodiments of conversational AI agents known as Personalities. These speakers are equipped with capabilities for voice interactions, music playback, and smart home control.
+Speakers in the OpenHome platform refer to the hardware devices that facilitate voice interactions through AI-powered agents known as Personalities. These speakers are designed to work seamlessly with the OpenHome ecosystem.
 
 ### how-it-works
-OpenHome speakers operate by utilizing a modular architecture that allows for enhancements through Abilities—voice plugins that add new functionalities to Personalities. Users can create and configure Personalities via the OpenHome Dashboard, customizing them with unique voices and conversation styles, as well as integrating various Abilities. The devices respond to voice commands and can execute tasks such as playing music, carrying out smart home commands, or accessing information based on user inputs.
+OpenHome speakers operate by running conversational AI agents that utilize a modular plugin architecture. These speakers allow users to set up Personalities—unique AI entities with customizable voices and skills. The functionality of these speakers is enhanced through Abilities, which are voice plugins that grant the Personalities various capabilities such as playing music, controlling smart home devices, and more. The speakers are equipped with hotword detection, enabling them to listen and respond to voice commands dynamically.
 
 ### current-status
-live
+beta
 
 ### connects-to
 [[platform/openhome]]
@@ -24,5 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-03T11:13:16Z -->
-```
+<!-- synthesized: 2026-05-04T11:31:37Z -->

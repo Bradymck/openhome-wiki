@@ -1,30 +1,28 @@
-```markdown
----
+```yaml
 title: builders/shookdt
-entity_type: builders
+entity_type: builder
 status: live
-last_updated: 2026-05-03
----
+last_updated: 2026-05-04
+```
 
-### who-they-are
-Shookdt is a developer with over 10 years of experience in full-stack development, particularly in building and deploying AI applications using language models and autonomous agents. They have a background in real-world, production-scale AI, having worked directly with founders to solve complex problems.
+## who-they-are
+Shookdt is a developer involved in the OpenHome community, focusing on building conversational AI agents and their associated skills. They are actively contributing to the OpenHome platform, which aims to revolutionize interactions with technology through voice AI applications.
 
-### what-they-built
-Shookdt has developed a passive ability called "Social Memory" for the OpenHome platform. This ability quietly tracks individuals mentioned during conversations and provides reminders about follow-ups. The implementation uses a two-phase detection approach to ensure efficiency by initially filtering keywords and then extracting information only when a person is identified. The pull request for this feature is available [here](https://github.com/openhome-dev/abilities/pull/264).
+## what-they-built
+Shookdt has developed a passive ability called "Social Memory," which tracks mentions of people during conversations without requiring explicit commands. This ability automatically collects information and offers prompts on follow-ups based on the context. Their implementation utilizes a two-phase detection approach, featuring a fast keyword filter followed by LLM extraction for relevant mentions.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord Handle: Not provided
-- GitHub: [Shookdt's Profile](https://github.com/shookdt)
-- X: Not provided
+## how-to-reach
+- Discord: Not publicly available
+- GitHub: [shookdt's GitHub](https://github.com/openhome-dev/abilities/pull/264)
+- X: Not publicly available
 
-### connects-to
+## connects-to
 [[builders]]
-[[abilities/social-memory]]
-[[openhome]]
-[[ai]]
-[[developers]]
-<!-- synthesized: 2026-05-03T11:13:16Z -->
-```
+[[OpenHome]]
+[[Abilities]]
+[[Social Memory]]
+
+<!-- synthesized: 2026-05-04T11:31:37Z -->

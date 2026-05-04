@@ -1,29 +1,28 @@
-```markdown
----
-title: Roadmap - Current Sprint
-entity_type: roadmap/current-sprint
+```yaml
+title: Roadmap Current Sprint
+entity_type: roadmap
 status: live
-last_updated: 2026-05-03
----
+last_updated: 2026-05-04
+```
 
 ## what-it-is
-The current sprint involves shipping the OpenHome V0.1 devkits, which are advanced smart speakers designed for developers to create AI-powered voice applications. Additionally, a new ability called "Social Memory" has been developed, allowing agents to passively track and remind users about people mentioned in conversations.
+The current sprint is focused on the development and distribution of OpenClaw physical development kits, designed for building AI agents on the OpenHome platform. Additionally, the sprint emphasizes the release of the Social Memory ability, which helps users track and recall conversation mentions and follow-ups effortlessly.
 
 ## status
-In-progress / Shipped
+In-progress
 
 ## why-it-matters
-This initiative aims to enhance user interaction with technology through voice AI applications by providing developers the tools and platforms they need to create innovative solutions. The devkits facilitate rapid development, while the Social Memory ability enhances conversations by improving contextual awareness.
+These advancements aim to empower developers to create innovative voice AI applications easily and effectively. The distribution of dev kits incentivizes community participation and feedback, enhancing OpenHome's capabilities with real use cases. The Social Memory ability enhances user interactions by providing convenient memory tracking.
 
 ## eta
-The devkits are being shipped globally in small batches, with priority given to contributors who engage with the platform. No specific timeline for the completion of the current sprint is provided.
+The dev kits are being shipped globally in small batches, with no specific timeline for full availability stated. The Social Memory ability has been shipped as part of ongoing development.
 
 ## connects-to
-- [[OpenHome]]
-- [[Abilities]]
-- [[Developer Docs]]
-- [[GitHub]]
-- [[DevKit Onboarding]]
-
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+[[OpenHome]]
+[[OpenClaw]]
+[[Social Memory]]
+[[Developer Docs]]
+[[GitHub]]
+[[DevKit Onboarding]]
+<!-- synthesized: 2026-05-04T11:31:37Z -->
 ```

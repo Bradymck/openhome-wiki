@@ -2,26 +2,30 @@
 ---
 title: builders/pauldy
 entity_type: builders
-status: live
-last_updated: 2026-05-03
+status: beta
+last_updated: 2026-05-04
 ---
 
-### who-they-are
-Pauldy is an active community builder focused on the OpenHome platform, which enables developers to create AI-powered voice applications. With over 10 years of experience in AI and full-stack development, Pauldy has actively engaged in building conversational AI agents, referred to as Personalities, and has expertise in large language models (LLMs) and autonomous agents.
+## who-they-are
+Pauldy is a developer actively contributing to the OpenHome project, which is an open-source voice AI platform aimed at creating easy-to-use conversational AI agents. Pauldy is focused on building and extending abilities for AI agents based on user interactions.
 
-### what-they-built
-Pauldy has shipped an ability called **Social Memory**, which passively tracks mentions of individuals during conversations, providing follow-up prompts and information retrieval when asked. The implementation focuses on a two-phase detection approach to ensure efficiency and relevance in data collection. Additional features are being suggested, such as a "stenographer" skill for recording and retrieving audio mentions within conversations.
+## what-they-built
+Pauldy has developed a feature called "Social Memory," a passive ability that tracks mentions of people in conversations without requiring explicit commands to log information. This ability uses a two-phase detection approach, first filtering for keywords and then extracting relevant information using large language models (LLM) only when necessary. 
 
-### grant-status
-applied
+Additionally, Pauldy expresses interest in developing a "stenographer" skill, which would allow the OpenHome device to record audio for future reference.
 
-### how-to-reach
-- Discord: <@314598786448097280>
-- GitHub: [github.com/openhome-dev/abilities/pull/264](https://github.com/openhome-dev/abilities/pull/264)
+## grant-status
+none
+
+## how-to-reach
+- Discord Handle: Not provided
+- GitHub: [pauldy's contributions](https://github.com/openhome-dev/abilities/pull/264)
 
 ## connects-to
-- [[abilities/social-memory]]
-- [[abilities/stenographer]]
-
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+[[builders]]
+[[abilities/social-memory]]
+[[abilities/stenographer]]
+[[openhome]]
+[[openhome-dev]]
+<!-- synthesized: 2026-05-04T11:31:37Z -->
 ```

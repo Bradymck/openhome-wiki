@@ -1,28 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/sonordi
 entity_type: builders
 status: stub
-last_updated: 2026-05-03
-```
+last_updated: 2026-05-04
+---
 
-## who-they-are
-Sonordi is a developer who has extensive experience in AI, particularly in building applications at a production scale. With over ten years of experience, they possess a full-stack background and skills in large language models (LLMs), retrieval-augmented generation (RAG), and autonomous agents. They are currently seeking remote engagements with founders in the US or Europe.
+### who-they-are
+Sonordi is a community builder engaged in the development of conversational AI agents on the OpenHome platform. They focus on creating abilities that enhance user interaction through voice.
 
-## what-they-built
-Sonordi has developed a feature called Social Memory, which is a passive ability that tracks individuals mentioned in conversations without requiring explicit commands. This ability allows users to recall context-specific follow-ups easily and subtly captures relevant information through a two-phase detection system. Sonordi has contributed to the OpenHome project with this feature and has shared the implementation on GitHub.
+### what-they-built
+Sonordi has developed a passive ability called Social Memory. This ability runs in the background and tracks mentions of people in conversation, allowing users to retrieve information about past discussions through voice commands. Notably, it captures conversations without requiring explicit commands from the user, making it a seamless addition to the OpenHome ecosystem.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: [Sonordi's GitHub](https://github.com/openhome-dev/abilities/pull/264)
-- X: Not specified
+### how-to-reach
+- Discord: Unknown
+- GitHub: [Sonordi's GitHub Profile](https://github.com/openhome-dev/abilities/pull/264)
+- X: Unknown
 
-## connects-to
-[[Social Memory]]
-[[OpenHome]]
-[[Personalities]]
-[[Abilities]]
-
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+### connects-to
+- [[OpenHome]]
+- [[Abilities]]
+- [[Voice AI]]
+  
+<!-- synthesized: 2026-05-04T11:31:37Z -->
+```

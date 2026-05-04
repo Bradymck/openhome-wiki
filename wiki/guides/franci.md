@@ -1,22 +1,24 @@
-```yaml
+```markdown
+---
 title: guides/franci
 entity_type: Community Guide
 status: live
-last_updated: 2026-05-03
-```
+last_updated: 2026-05-04
+---
 
 ## who-they-are
-Franci is an experienced developer with over 10 years of expertise in full-stack development, focusing on building AI applications at production scale. They have significant knowledge of large language models (LLMs), retrieval-augmented generation (RAG), and autonomous agents.
+Franci is a power user within the OpenHome community, actively contributing to discussions and developments related to AI-powered voice applications and SDK development. With expertise in creating conversational AI agents and using modular voice plugins, they play a key role in enhancing the OpenHome platform.
 
 ## what-they-help-with
-Franci specializes in creating and debugging AI-powered voice applications using the OpenHome platform. They have experience with modular voice plugins, conversational AI agents, and the integration of various skills for these agents.
+Franci specializes in building and prototyping Abilities for OpenHome's AI agents. They are knowledgeable about the development of various skills, particularly focused on functionality that integrates with smart home devices and enhances voice interactions. Franci has also developed innovative features like Social Memory, showcasing their ability to create sophisticated conversational tools.
 
 ## how-to-reach
-Discord Handle: Not specified
+You can connect with Franci on Discord.
 
 ## connects-to
 [[OpenHome]]
-[[Voice AI]]
-[[Abilities]]
-[[Development]]
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+[[Ability Development]]
+[[Smart Home Integration]]
+[[Conversational AI]]
+<!-- synthesized: 2026-05-04T11:31:37Z -->
+```

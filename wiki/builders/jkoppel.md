@@ -1,28 +1,27 @@
 ```yaml
-title: builders/jkoppel
-entity_type: builders
-status: live
-last_updated: 2026-05-03
+title: "jkoppel"
+entity_type: "builders/"
+status: "live"
+last_updated: "2026-05-04"
 ```
 
 ## who-they-are
-jkoppel is an active community builder and developer involved in the OpenHome platform. With over 10 years of experience in full-stack development, LLMs, RAG, and autonomous agents, jkoppel has significant expertise in building AI applications. They are currently open for remote engagements with founders in the US or Europe, focusing on real-world problem-solving in AI.
+jkoppel is a developer building on the OpenHome platform, focusing on creating innovative voice AI agents and abilities. They are actively engaged in the community, contributing to the development of integrations that enhance user interaction with AI-powered applications.
 
 ## what-they-built
-jkoppel has developed "Social Memory," a passive ability for OpenHome that tracks mentions of individuals during conversations. This ability captures contextual information without requiring user prompts, providing follow-up reminders and quick access to previously mentioned individuals. The implementation includes a two-phase detection approach for efficient keyword filtering and LLM extraction. Further details can be found in the [pull request](https://github.com/openhome-dev/abilities/pull/264).
+jkoppel has shipped an ability called **Social Memory**, which passively tracks mentions of individuals during conversations. This ability allows users to reference past interactions effortlessly and generates reminders when follow-ups are due. The implementation uses a two-phase detection approach, filtering for keywords before performing a language model extraction for context-relevant mentions. The pull request for this ability can be found [here](https://github.com/openhome-dev/abilities/pull/264). Additionally, jkoppel has expressed a desire to develop a "stenographer" skill for recording audio interactions for later retrieval.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: @jkoppel
+- Discord: [jkoppel](https://discord.com)
 - GitHub: [jkoppel](https://github.com/jkoppel)
-- X: [Not provided]
+- X: [@jkoppel](https://twitter.com/jkoppel)
 
 ## connects-to
 [[builders]]
 [[abilities/social-memory]]
-[[platforms/openhome]]
-[[developers]]
+[[abilities/stenographer]]
 
-<!-- synthesized: 2026-05-03T11:13:16Z -->
+<!-- synthesized: 2026-05-04T11:31:37Z -->
