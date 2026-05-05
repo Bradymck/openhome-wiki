@@ -1,29 +1,27 @@
-```markdown
----
-title: builders/sonordi
+```yaml
+title: Builders/Sonordi
 entity_type: builders
 status: stub
-last_updated: 2026-05-04
----
+last_updated: 2026-05-05
+```
 
-### who-they-are
-Sonordi is a community builder engaged in the development of conversational AI agents on the OpenHome platform. They focus on creating abilities that enhance user interaction through voice.
+## who-they-are
+Sonordi is a community builder involved in the OpenHome project, focused on creating innovative voice AI agents and extending their capabilities through modular voice plugins known as Abilities.
 
-### what-they-built
-Sonordi has developed a passive ability called Social Memory. This ability runs in the background and tracks mentions of people in conversation, allowing users to retrieve information about past discussions through voice commands. Notably, it captures conversations without requiring explicit commands from the user, making it a seamless addition to the OpenHome ecosystem.
+## what-they-built
+Sonordi has contributed to the development of Local Abilities that run directly on DevKit hardware, allowing for direct hardware access, long-running tasks, and device-level data management.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Unknown
-- GitHub: [Sonordi's GitHub Profile](https://github.com/openhome-dev/abilities/pull/264)
-- X: Unknown
+## how-to-reach
+- Discord Handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-- [[OpenHome]]
-- [[Abilities]]
-- [[Voice AI]]
-  
-<!-- synthesized: 2026-05-04T11:31:37Z -->
-```
+## connects-to
+[[Local Abilities]]
+[[DevKit]]
+[[OpenHome]]
+
+<!-- synthesized: 2026-05-05T11:25:48Z -->

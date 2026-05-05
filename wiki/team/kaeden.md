@@ -1,26 +1,21 @@
-```markdown
----
+```yaml
 title: Team Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-05-04
----
+last_updated: 2026-05-05
+```
 
-### who-they-are
-Kaeden is a member of the OpenHome team, contributing to the development of the platform and its applications.
+## who-they-are
+Role and background information for Kaeden are currently unavailable.
 
-### what-they-own
-Kaeden leads initiatives related to the development of new features and enhancements for OpenHome's AI technology, focusing on optimizing user interactions and expanding capabilities for voice-powered applications.
+## what-they-own
+Areas of the OpenHome platform that Kaeden leads are currently unspecified.
 
-### how-to-reach
-You can reach Kaeden on Discord.
+## how-to-reach
+Contact information, including Discord handle or social media, is currently not provided.
 
-### connects-to
+## connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[dev.openhome.com]]
-[[docs.openhome.com]]
-[[github.com/openhome-dev/abilities]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
-```
+<!-- synthesized: 2026-05-05T11:25:48Z -->

@@ -1,20 +1,27 @@
-```yaml
-title: web3-native
-entity_type: concepts
+```markdown
+---
+title: Web3 Native
+entity_type: concepts/web3-native
 status: stub
-last_updated: 2026-05-04
+last_updated: 2026-05-05
+---
+
+### definition
+Web3 Native refers to applications, platforms, and services built using decentralized technologies and protocols, leveraging blockchain and peer-to-peer networks to enhance user autonomy and data control.
+
+### why-it-matters
+In the context of OpenHome, being web3 native allows for enhanced user privacy, security, and ownership of data. This model supports a more open and user-centered ecosystem, aligning with OpenHome's mission to empower developers and users through AI-powered technology.
+
+### how-it-manifests
+Within OpenHome, web3 native concepts may manifest through integration with decentralized applications (dApps) or smart contracts that allow users to interact with their personal agents while ensuring data is not controlled by a single entity. Features such as decentralized identity verification and the utilization of blockchain for transaction and interaction logs could also be anticipated.
+
+### connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+
+<!-- synthesized: 2026-05-05T11:25:48Z -->
 ```
-
-## definition
-Web3-native refers to applications, platforms, and technologies that are built upon decentralized protocols, primarily leveraging blockchain technology and decentralized networks. This paradigm shift aims to give users more control over their data and digital interactions.
-
-## why-it-matters
-Web3-native solutions are integral to OpenHome as they embody the principles of decentralization and user empowerment. By creating a platform that integrates with web3 technologies, OpenHome supports an ecosystem where users can own their data, interact with decentralized applications, and experience enhanced privacy and security.
-
-## how-it-manifests
-In OpenHome, the web3-native concept may manifest through features that allow users to utilize decentralized storage, interact with smart contracts, and manage personal data without reliance on central authorities. While specific implementation details are yet to be fully disclosed, the framework is designed to incorporate elements typical of web3 applications.
-
-## connects-to
-[[concepts/abilities-as-apps]], [[concepts/voice-first]], [[concepts/local-first]], [[concepts/dead-mans-switch]], [[concepts/spatial-intelligence]], [[concepts/grant-program]]
-
-<!-- synthesized: 2026-05-04T11:31:37Z -->

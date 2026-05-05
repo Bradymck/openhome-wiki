@@ -1,28 +1,30 @@
-```yaml
+```markdown
+---
 title: builders/shookdt
 entity_type: builder
-status: live
-last_updated: 2026-05-04
-```
+status: stub
+last_updated: 2026-05-05
+---
 
-## who-they-are
-Shookdt is a developer involved in the OpenHome community, focusing on building conversational AI agents and their associated skills. They are actively contributing to the OpenHome platform, which aims to revolutionize interactions with technology through voice AI applications.
+### who-they-are
+Shookdt is an active member of the OpenHome community, contributing to the development of AI-powered voice applications. They are involved in building conversational AI agents known as Personalities.
 
-## what-they-built
-Shookdt has developed a passive ability called "Social Memory," which tracks mentions of people during conversations without requiring explicit commands. This ability automatically collects information and offers prompts on follow-ups based on the context. Their implementation utilizes a two-phase detection approach, featuring a fast keyword filter followed by LLM extraction for relevant mentions.
+### what-they-built
+Details of specific abilities or integrations built by Shookdt are currently not available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not publicly available
-- GitHub: [shookdt's GitHub](https://github.com/openhome-dev/abilities/pull/264)
-- X: Not publicly available
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X (formerly Twitter): Not specified
 
-## connects-to
+### connects-to
 [[builders]]
 [[OpenHome]]
-[[Abilities]]
-[[Social Memory]]
+[[abilities]]
+[[Local Abilities]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->
+```

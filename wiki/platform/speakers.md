@@ -1,26 +1,27 @@
 ```yaml
-title: Speakers
-entity_type: platform/speakers
+title: platform/speakers
+entity_type: platform
 status: beta
-last_updated: 2026-05-04
+last_updated: 2026-05-05
 ```
 
 ### what-it-is
-Speakers in the OpenHome platform refer to the hardware devices that facilitate voice interactions through AI-powered agents known as Personalities. These speakers are designed to work seamlessly with the OpenHome ecosystem.
+OpenHome speakers are cutting-edge smart devices integrated with the OpenHome voice AI platform, enabling users to create and interact with personalized conversational AI agents known as Personalities.
 
 ### how-it-works
-OpenHome speakers operate by running conversational AI agents that utilize a modular plugin architecture. These speakers allow users to set up Personalities—unique AI entities with customizable voices and skills. The functionality of these speakers is enhanced through Abilities, which are voice plugins that grant the Personalities various capabilities such as playing music, controlling smart home devices, and more. The speakers are equipped with hotword detection, enabling them to listen and respond to voice commands dynamically.
+OpenHome speakers function as the hardware interface that supports a variety of voice interactions through the OpenHome platform. Users can customize their speakers by creating Personalities that define the voice, persona, and conversational styles of the AI agents. These speakers support Abilities, which are modular voice plugins that enhance the capabilities of Personalities, allowing them to perform tasks such as playing music, controlling smart home devices, and answering queries.
 
 ### current-status
 beta
 
 ### connects-to
-[[platform/openhome]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+[[platform/openhome]]  
+[[platform/abilities]]  
+[[platform/dashboard]]  
+[[platform/voice-ai]]  
+[[platform/local-link]]  
+[[platform/marketplace]]  
+[[platform/live-editor]]  
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->  
+```

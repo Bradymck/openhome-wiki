@@ -1,25 +1,29 @@
-```yaml
-title: FreshDelii
-entity_type: builders
+```markdown
+---
+title: builders/freshdelii
+entity_type: builder
 status: stub
-last_updated: 2026-05-04
-```
+last_updated: 2026-05-05
+---
 
-## who-they-are
-FreshDelii is a community builder involved in the development of conversational AI applications using the OpenHome platform.
+### who-they-are
+FreshDelii is an active contributor within the OpenHome community, focused on building innovative conversational AI agents and integrating various abilities to enhance user interactions with smart devices.
 
-## what-they-built
-FreshDelii has developed a passive ability called Social Memory, which tracks mentions of individuals during conversations. This ability allows the AI to nudge users about follow-ups and surface conversation history when requested. The implementation is designed to detect person mentions using a two-phase approach, filtering for keywords before extracting information using a language model.
+### what-they-built
+FreshDelii has contributed to the development of Local Abilities, which allow direct hardware access and device-level data management on the DevKit. These capabilities include features like controlling sensors, accessing CPU and RAM statistics, and executing shell commands directly from the Ability.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X: Not specified
+- X (formerly Twitter): Not specified
 
-## connects-to
-[[abilities/social-memory]]
+### connects-to
+- [[Local Abilities]]
+- [[OpenHome]]
+- [[DevKit]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->
+```

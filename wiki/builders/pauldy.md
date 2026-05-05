@@ -1,31 +1,30 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builders
-status: beta
-last_updated: 2026-05-04
+entity_type: builder
+status: stub
+last_updated: 2026-05-05
 ---
 
-## who-they-are
-Pauldy is a developer actively contributing to the OpenHome project, which is an open-source voice AI platform aimed at creating easy-to-use conversational AI agents. Pauldy is focused on building and extending abilities for AI agents based on user interactions.
+### who-they-are
+Pauldy is a community builder associated with the OpenHome project, which focuses on developing accessible, AI-powered voice applications. They are involved in advancing the capabilities of conversational AI agents known as Personalities.
 
-## what-they-built
-Pauldy has developed a feature called "Social Memory," a passive ability that tracks mentions of people in conversations without requiring explicit commands to log information. This ability uses a two-phase detection approach, first filtering for keywords and then extracting relevant information using large language models (LLM) only when necessary. 
+### what-they-built
+Details regarding specific abilities or integrations that Pauldy has shipped are not currently available.
 
-Additionally, Pauldy expresses interest in developing a "stenographer" skill, which would allow the OpenHome device to record audio for future reference.
-
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord Handle: Not provided
-- GitHub: [pauldy's contributions](https://github.com/openhome-dev/abilities/pull/264)
+### how-to-reach
+- Discord: [Not available]
+- GitHub: [Not available]
+- X: [Not available]
 
-## connects-to
+### connects-to
 [[builders]]
-[[abilities/social-memory]]
-[[abilities/stenographer]]
-[[openhome]]
-[[openhome-dev]]
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+[[OpenHome]]
+[[Abilities]]
+[[Conversational AI]]
+
+<!-- synthesized: 2026-05-05T11:25:48Z -->
 ```

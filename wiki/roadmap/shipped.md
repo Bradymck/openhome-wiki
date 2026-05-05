@@ -1,27 +1,30 @@
-```yaml
-title: Roadmap / Shipped
+```markdown
+---
+title: Roadmap - Shipped Features
 entity_type: roadmap/shipped
 status: live
-last_updated: 2026-05-04
-```
+last_updated: 2026-05-05
+---
 
-## what-it-is
-OpenHome has introduced several new features, including the launch of physical V0.1 DevKits. Additionally, a passive ability called Social Memory has been shipped, which allows the AI to quietly track mentions of individuals in conversations.
+### what-it-is
+OpenHome has launched its physical V0.1 DevKit, a smart speaker designed for developers to build AI agents and extend functionalities with modular voice plugins called Abilities. Additionally, Local Abilities, which run directly on DevKit hardware, have been introduced, providing enhanced control and features.
 
-## status
+### status
 Shipped
 
-## why-it-matters
-The release of the DevKits enables developers to build with OpenClaw or create their own agents, fostering innovation within the OpenHome community. The Social Memory ability enhances user interaction by providing contextual reminders and information, thereby revolutionizing conversational AI experiences.
+### why-it-matters
+The release of the DevKit opens up possibilities for developers to create voice AI agents that can interact with real-world devices, offering a hands-on development experience. Local Abilities enable advanced functionalities that were previously not possible within the sandbox environment, allowing for direct hardware interactions and long-running tasks.
 
-## eta
-Physical DevKits are shipping globally in small batches as they become available. No specific timeline provided for the Social Memory feature.
+### eta
+The shipping of the DevKit is occurring globally in small batches as of May 2026.
 
-## connects-to
-[[OpenHome]]
-[[Abilities]]
-[[DevKits]]
-[[Social Memory]]
-[[Developer Docs]]
+### connects-to
+[[OpenHome]]  
+[[Voice AI]]  
+[[Abilities]]  
+[[Personalities]]  
+[[DevKit]]  
+[[Local Abilities]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->
+```

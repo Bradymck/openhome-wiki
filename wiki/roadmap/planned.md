@@ -1,29 +1,27 @@
-```markdown
----
-title: Roadmap for OpenHome
+```yaml
+title: Roadmap
 entity_type: roadmap/planned
-status: live
-last_updated: 2026-05-04
----
-
-### what-it-is
-The OpenHome platform is currently enhancing its capabilities by promoting an open-source Voice AI platform called OpenHome. The initiative includes the availability of physical devkits for developers to start building AI agents.
-
-### status
-In progress
-
-### why-it-matters
-OpenHome aims to make AI-powered, voice-first applications accessible to everyone, allowing users to create conversational AI agents and extend their functionalities with customizable abilities. This revolutionizes interactions with technology, making them more intuitive and human-like.
-
-### eta
-Ongoing development with no specific end date mentioned; updates are expected as features get further developed.
-
-### connects-to
-- [[OpenHome]]
-- [[Voice AI]]
-- [[Abilities]]
-- [[Developer Docs]]
-- [[DevKit Onboarding]]
-
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+status: beta
+last_updated: 2026-05-05
 ```
+
+## what-it-is
+The roadmap outlines upcoming features and enhancements for the OpenHome platform, particularly focusing on the development of abilities for voice AI agents. A significant recent addition is the introduction of Local Abilities, which allow developers to utilize the hardware capabilities of the DevKit directly.
+
+## status
+In-progress
+
+## why-it-matters
+This roadmap is crucial as it aims to enhance user interaction with AI agents and expands the functionality of the OpenHome platform. Local Abilities enable more robust applications by allowing direct interaction with hardware components, leading to innovative voice-enabled solutions.
+
+## eta
+The introduction of Local Abilities is currently underway, with active feedback being gathered during the development of related features. Shipping dates for broader enhancements are not explicitly mentioned.
+
+## connects-to
+[[OpenHome]]  
+[[Voice AI]]  
+[[Abilities]]  
+[[DevKit]]  
+[[Local Abilities]]  
+
+<!-- synthesized: 2026-05-05T11:25:48Z -->

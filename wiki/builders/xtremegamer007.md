@@ -1,30 +1,30 @@
-```yaml
+```markdown
+---
 title: builders/xtremegamer007
 entity_type: builder
-status: live
-last_updated: 2026-05-04
-```
+status: stub
+last_updated: 2026-05-05
+---
 
-## who-they-are
-xtremegamer007 is an active contributor within the OpenHome community, focusing on enhancing the platform's capabilities through innovative abilities and integrations.
+### who-they-are
+XtremeGamer007 is a developer involved in the OpenHome project, focusing on creating conversational AI agents and extending their functionality through modular voice plugins called Abilities.
 
-## what-they-built
-xtremegamer007 has developed a notable ability called "Social Memory." This ability passively tracks mentions of individuals in conversations, allowing users to retrieve information about those conversations later without requiring explicit commands. The implementation uses a two-phase detection approach, first filtering for keywords and then utilizing LLM extraction for person mentions. 
+### what-they-built
+Details about specific abilities or integrations built by XtremeGamer007 are currently unavailable.
 
-A pull request for Social Memory is available for those interested in its implementation at [GitHub PR #264](https://github.com/openhome-dev/abilities/pull/264). 
-
-Additionally, xtremegamer007 is interested in contributing further by developing a "stenographer" skill to record and retrieve audio conversations.
-
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not provided
-- GitHub: [xtremegamer007's GitHub](https://github.com/openhome-dev/abilities)
-- X: Not provided
+### how-to-reach
+- Discord: Not explicitly listed
+- GitHub: Not explicitly listed
+- X: Not explicitly listed
 
-## connects-to
-[[abilities/social-memory]]
-[[abilities/stenographer]]
+### connects-to
+[[builders]]
+[[OpenHome]]
+[[Abilities]]
+[[Personalities]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->
+```

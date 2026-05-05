@@ -1,15 +1,20 @@
 ```yaml
 title: platform/abilities
-entity_type: platform
+entity_type: documentation
 status: live
-last_updated: 2026-05-04
+last_updated: 2026-05-05
 ```
 
 ## what-it-is
-Abilities are modular voice plugins within the OpenHome platform that extend the functionalities of conversational AI agents known as Personalities. Each Ability provides a new skill or feature to enhance the user experience.
+Abilities are modular voice plugins within the OpenHome platform that add new skills to conversational AI agents, known as Personalities. They enable Personalities to perform tasks, access external APIs, and interact with connected devices.
 
 ## how-it-works
-Abilities are designed to be triggered during voice interactions with Personalities, allowing for dynamic and contextually relevant responses. They can perform various tasks, such as calling APIs, playing music, running quizzes, or controlling smart home devices. Abilities utilize custom Python logic and can be easily developed and integrated by users. This allows developers to create and share new functionalities, contributing to a growing library of community-generated Abilities for OpenHome.
+Abilities in the OpenHome platform can be triggered by specific hotwords during voice interactions. The primary structure of an Ability consists of several key components: 
+- **main.py** handles the voice flow within a sandboxed environment, similar to other Abilities.
+- **devkit_functions.py** operates on the DevKit hardware, managing hardware-level tasks.
+- **requirements.txt** specifies the necessary Python packages for devkit_functions.py.
+
+Abilities support various functionalities such as calling APIs, playing music, running quizzes, and controlling smart devices. They allow for direct hardware access, restricted Python libraries, and long-running tasks, facilitating more complex interactions and enhanced performance.
 
 ## current-status
 live
@@ -23,4 +28,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->

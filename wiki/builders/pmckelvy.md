@@ -3,27 +3,26 @@
 title: pmckelvy
 entity_type: builders/
 status: live
-last_updated: 2026-05-04
+last_updated: 2026-05-05
 ---
 
 ### who-they-are
-pmckelvy is an active community builder within the OpenHome project, dedicated to creating innovative conversational AI experiences. They focus on extending the capabilities of the OpenHome platform by integrating new abilities that enhance user interaction.
+pmckelvy is an active contributor in the OpenHome community, focusing on the development of voice AI applications and capabilities. They are engaged in building various abilities for the OpenHome platform, which enables users to create conversational AI agents called Personalities.
 
 ### what-they-built
-pmckelvy has contributed a significant ability called **Social Memory**, which operates passively in the background, tracking mentions of individuals during conversations. This ability allows users to retrieve information about past interactions seamlessly. The implementation involves a two-phase detection approach to ensure efficiency and accuracy in capturing relevant data. The code for this ability is available for review on GitHub: [Social Memory PR](https://github.com/openhome-dev/abilities/pull/264).
+pmckelvy has contributed to the development of Local Abilities. This feature allows Skills to be executed directly on DevKit hardware, facilitating direct hardware access, long-running tasks, and the use of restricted Python libraries. They have also participated in the creation of the DevKit Stats example, demonstrating how to extract and communicate system metrics vocally.
 
 ### grant-status
 none
 
 ### how-to-reach
-- **Discord handle:** @pmckelvy
-- **GitHub:** [pmckelvy on GitHub](https://github.com/pmckelvy)
-- **X (Twitter):** Not specified
+- Discord handle: pmckelvy
+- GitHub: [GitHub Profile](https://github.com/openhome-dev/abilities)
 
-## connects-to
-- [[builders/abilities/social-memory]]
-- [[builders/abilities/]]
-- [[builders/pmckelvy]] <!-- this would connect back to the current page, keeping related information structured -->
+### connects-to
+- [[Local Abilities]]
+- [[DevKit Stats Example]]
+- [[OpenHome]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->
 ```

@@ -1,24 +1,26 @@
 ```markdown
 ---
-title: guides/franci
-entity_type: Community Guide
+title: Franci
+entity_type: guides/franci
 status: live
-last_updated: 2026-05-04
+last_updated: 2026-05-05
 ---
 
 ## who-they-are
-Franci is a power user within the OpenHome community, actively contributing to discussions and developments related to AI-powered voice applications and SDK development. With expertise in creating conversational AI agents and using modular voice plugins, they play a key role in enhancing the OpenHome platform.
+Franci is a community guide with expertise in OpenHome's Voice AI platform, particularly in building conversational AI agents known as Personalities. They have a strong understanding of the platform's capabilities and how to use various modular plugins called Abilities to enhance agent functionalities.
 
 ## what-they-help-with
-Franci specializes in building and prototyping Abilities for OpenHome's AI agents. They are knowledgeable about the development of various skills, particularly focused on functionality that integrates with smart home devices and enhances voice interactions. Franci has also developed innovative features like Social Memory, showcasing their ability to create sophisticated conversational tools.
+Franci specializes in assisting users with the development and implementation of Abilities within the OpenHome environment. They provide guidance on setting up AI agents, utilizing Local Abilities for direct hardware access, and integrating complex features within projects. Franci is also knowledgeable about the development process and can help troubleshoot common issues related to creating and deploying voice AI applications.
 
 ## how-to-reach
-You can connect with Franci on Discord.
+Franci can be reached on Discord at their handle: <@1180359017843933225>.
 
 ## connects-to
 [[OpenHome]]
-[[Ability Development]]
-[[Smart Home Integration]]
-[[Conversational AI]]
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+[[Voice AI]]
+[[Abilities]]
+[[Local Abilities]]
+[[Developer Docs]]
+
+<!-- synthesized: 2026-05-05T11:25:48Z -->
 ```

@@ -1,28 +1,28 @@
-```yaml
-title: Roadmap Current Sprint
-entity_type: roadmap
-status: live
-last_updated: 2026-05-04
-```
+```markdown
+---
+title: OpenHome Current Sprint
+entity_type: roadmap/current-sprint
+status: in-progress
+last_updated: 2026-05-05
+---
 
-## what-it-is
-The current sprint is focused on the development and distribution of OpenClaw physical development kits, designed for building AI agents on the OpenHome platform. Additionally, the sprint emphasizes the release of the Social Memory ability, which helps users track and recall conversation mentions and follow-ups effortlessly.
+### what-it-is
+The current sprint focuses on the rollout of Local Abilities for the OpenHome platform, which allows developers to create voice AI agents that can directly interact with hardware components on the DevKit. This feature enables new functionalities like direct access to device hardware, long-running tasks, and shell command execution.
 
-## status
-In-progress
+### status
+in-progress
 
-## why-it-matters
-These advancements aim to empower developers to create innovative voice AI applications easily and effectively. The distribution of dev kits incentivizes community participation and feedback, enhancing OpenHome's capabilities with real use cases. The Social Memory ability enhances user interactions by providing convenient memory tracking.
+### why-it-matters
+Local Abilities significantly expand the capabilities of the OpenHome platform, allowing for more complex interactions and integrations with physical devices. This functionality aims to enhance user interaction with voice-controlled AI, making it more versatile and responsive to environmental inputs.
 
-## eta
-The dev kits are being shipped globally in small batches, with no specific timeline for full availability stated. The Social Memory ability has been shipped as part of ongoing development.
+### eta
+The feature is currently being developed and tested, with no specific timeline for completion announced.
 
-## connects-to
+### connects-to
 [[OpenHome]]
-[[OpenClaw]]
-[[Social Memory]]
-[[Developer Docs]]
-[[GitHub]]
-[[DevKit Onboarding]]
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+[[Abilities]]
+[[Voice AI]]
+[[DevKit]]
+
+<!-- synthesized: 2026-05-05T11:25:48Z -->
 ```

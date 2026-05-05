@@ -1,27 +1,28 @@
 ```yaml
-title: illectric-co
+title: Illectric Co
 entity_type: builders
-status: live
-last_updated: 2026-05-04
+status: stub
+last_updated: 2026-05-05
 ```
 
 ## who-they-are
-Illectric Co is part of the OpenHome community, focusing on developing innovative voice AI agents and abilities within the OpenHome platform. They have actively contributed to enhancing interactions with technology through their creative implementations.
+Illectric Co is an active community builder involved with the OpenHome platform, which is focused on developing open-source voice AI technology. They aim to enhance user interaction with devices by creating voice-powered applications.
 
 ## what-they-built
-Illectric Co has shipped an ability called **Social Memory**, which passively tracks mentions of people during conversations. This ability utilizes a two-phase detection approach, filtering keywords for mentions of individuals and efficiently managing memory of interactions without user input. The implementation is designed to provide follow-up nudges based on previously mentioned individuals.
+As part of their contributions, Illectric Co has been involved in the development of Local Abilities for the OpenHome platform. Local Abilities allow direct hardware access, enabling users to manage hardware components like LEDs, GPIO pins, sensors, and other connected devices more effectively.
 
 ## grant-status
-Applied
+none
 
 ## how-to-reach
-- Discord: [@illectric](https://discord.com/)
-- GitHub: [illectric-co](https://github.com/illectric-co)
-- Twitter: [@illectric](https://twitter.com/illectric)
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/openhome]]
-[[abilities/social-memory]]
-[[builders/home-assistant]]
+- [[builders]]
+- [[OpenHome]]
+- [[Voice AI]]
+- [[Local Abilities]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->

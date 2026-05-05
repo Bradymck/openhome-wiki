@@ -1,32 +1,28 @@
 ```markdown
 ---
-title: builders/jagatfx
-entity_type: builder
-status: live
-last_updated: 2026-05-04
+title: "builders/jagatfx"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-05-05
 ---
 
-## who-they-are
-Jagatfx is an active community builder involved in the OpenHome platform, focusing on developing voice AI agents known as Personalities and extending their capabilities through modular voice plugins called Abilities. They are heavily engaged in building functionalities that enhance user interaction with technology through voice commands.
+### who-they-are
+Jagatfx is a builder associated with the OpenHome community, focusing on developing voice AI agents known as Personalities. They are involved in the creation and extension of voice applications by leveraging the OpenHome platform.
 
-## what-they-built
-Jagatfx has developed an ability called Social Memory, which is a passive feature that tracks people mentioned during conversations. This allows the AI to surface relevant information contextually when needed. The implementation utilizes a two-phase detection approach for identifying person mentions efficiently. A pull request for this implementation is available for feedback at [GitHub](https://github.com/openhome-dev/abilities/pull/264).
+### what-they-built
+Jagatfx has contributed to the development of Local Abilities, a feature that allows voice applications to access hardware resources and run directly on the DevKit. These abilities enable functionalities such as direct hardware access, usage of restricted Python libraries, and execution of shell commands, facilitating more advanced use cases for voice interactions.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: N/A
-- GitHub: [jagatfx on GitHub](https://github.com/jagatfx)
-- X: N/A
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/openhome]]
-[[abilities/social-memory]]
-[[developers/openhome-platform]]
-[[documentation/developer-docs]]
-[[documentation/openhome-cli]]
-[[documentation/devkit-onboarding]]
-
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+[[builders/openhome]]  
+[[abilities/local]]  
+[[abilities/conversational-ai]]
+<!-- synthesized: 2026-05-05T11:25:48Z -->
 ```

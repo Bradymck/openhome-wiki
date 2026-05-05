@@ -1,27 +1,28 @@
 ```yaml
-title: bradymck
+title: Brady McK
 entity_type: builders
 status: live
-last_updated: 2026-05-04
+last_updated: 2026-05-05
 ```
 
 ## who-they-are
-bradymck is an active developer within the OpenHome community, focusing on building conversational AI agents and extending their functionalities through various abilities. They contribute to the development of OpenHome, an open-source Voice AI platform that allows users to create and customize AI applications.
+Brady McK is an active contributor within the OpenHome community, focused on developing innovative voice AI applications. They are leveraging the OpenHome platform to enhance AI interaction and create engaging user experiences.
 
 ## what-they-built
-bradymck has shipped an ability called **Social Memory**, which passively tracks mentions of people in conversations. This ability prompts users with reminders about follow-ups based on the captured information, making it easier to remember interactions and relationships. The implementation utilizes a two-phase detection approach to accurately identify mentions without overloading the model.
+Brady McK has been involved in building Local Abilities for the OpenHome DevKit. This includes contributions that allow developers to run features directly on hardware, such as access to device-level data, using restricted Python libraries, and executing shell commands. The successful deployment of these Local Abilities makes it easier for users to interact with their AI agents in a physical environment.
 
 ## grant-status
-none
+$1K
 
 ## how-to-reach
-- Discord: Not provided
-- GitHub: [bradymck GitHub Profile](https://github.com/openhome-dev/abilities/pull/264)  
-- X: Not provided
+- Discord: @bradymck
+- GitHub: [bradymck](https://github.com/bradymck)
+- X: [@bradymck](https://x.com/bradymck)
 
 ## connects-to
-[[openhome]]  
-[[abilities]]  
-[[social-memory]]
+- [[builders]]
+- [[OpenHome]]
+- [[Local Abilities]]
+- [[DevKit]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->

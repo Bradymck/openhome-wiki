@@ -1,24 +1,27 @@
-```yaml
-title: Dead Man's Switch
+```markdown
+---
+title: concepts/dead-mans-switch
 entity_type: concepts
 status: stub
-last_updated: 2026-05-04
-```
+last_updated: 2026-05-05
+---
 
-## definition
-A dead man's switch is a safety mechanism that triggers an action if the user becomes incapacitated or fails to perform a particular action within a specified timeframe. Generally, it ensures that vital operations or notifications continue seamlessly in the event of unexpected circumstances.
+### definition
+A dead man's switch is a safety mechanism that automatically triggers a function if a user becomes incapacitated or unable to operate a system. It often requires continuous input or confirmation from the user; if this input stops, the switch activates a preset action, such as shutting down equipment or alerting someone.
 
-## why-it-matters
-The concept of a dead man's switch is relevant to OpenHome as it enhances safety and reliability in automated AI interactions. It ensures that critical tasks, such as monitoring or responding to user inputs, are executed even if the user is unable to engage with the system, thus promoting continuous and effective AI behavior.
+### why-it-matters
+In the context of OpenHome, a dead man's switch can be crucial to ensuring user safety and system integrity. It can prevent unauthorized access to smart home devices and ensure that personal assistants remain responsive in emergencies. This feature is particularly relevant as households become increasingly reliant on voice-activated technology.
 
-## how-it-manifests
-In the OpenHome platform, the dead man's switch can manifest through various abilities or integrations that monitor user activity and can trigger alerts or actions if they detect inactivity. For instance, a smart home assistant could automatically send updates or perform essential functions if it does not receive user commands for a set period.
+### how-it-manifests
+Within the OpenHome platform, the dead man's switch concept could manifest as a feature integrated into personal assistants or smart home applications, allowing them to respond appropriately if a user does not provide input for an extended period. This may involve functionalities that stop running tasks, revert to a safety mode, or notify designated contacts.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
 [[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->
+```

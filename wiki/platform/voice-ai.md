@@ -1,15 +1,15 @@
 ```yaml
-title: Voice AI Platform
+title: Voice AI
 entity_type: platform/voice-ai
 status: live
-last_updated: 2026-05-04
+last_updated: 2026-05-05
 ```
 
 ## what-it-is
-OpenHome's Voice AI platform is an open-source ecosystem that enables the creation of conversational AI agents known as Personalities, which can be enhanced with modular plugins called Abilities. This framework supports the development of intuitive and human-like voice interactions.
+OpenHome's Voice AI platform is an open-source framework designed for building conversational AI agents known as Personalities. It enables developers to extend these agents with modular plugins called Abilities, which add various functionalities.
 
 ## how-it-works
-The platform operates by allowing developers to design Personalities with distinct voices, personas, and conversational styles. These Personalities can be further enhanced through Abilities that provide new functionalities, such as integrating with APIs, playing music, or managing smart home devices. Abilities are activated via hotwords during voice interactions and can run custom logic using Python. Developers can utilize the OpenHome dashboard to create and manage their agents and abilities easily.
+The Voice AI platform allows users to create a Personality by defining its voice, persona, and conversational style. Developers can enhance these Personalities by integrating Abilities, which can perform tasks such as calling APIs, playing music, and controlling smart devices. Abilities are activated through hotwords during voice interactions and can execute custom Python code to deliver rich, interactive experiences. The platform supports both cloud-based and local execution of Abilities, with the latter allowing direct access to hardware features and device-level data for more advanced functionalities.
 
 ## current-status
 live
@@ -23,4 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->

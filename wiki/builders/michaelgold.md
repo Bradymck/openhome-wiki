@@ -2,24 +2,28 @@
 ---
 title: builders/michaelgold
 entity_type: builder
-status: live
-last_updated: 2026-05-04
+status: stub
+last_updated: 2026-05-05
 ---
 
 ## who-they-are
-Michael Gold is a developer engaged in building conversational AI agents on the OpenHome platform. He is focused on creating innovative abilities that enhance the interaction between users and smart devices.
+Michael Gold is an active community builder involved with the OpenHome project, which focuses on creating an open-source Voice AI platform. This platform allows users to build conversational AI agents, enhancing technology interactions through voice capabilities.
 
 ## what-they-built
-Michael has shipped an ability called **Social Memory**, which is designed to passively track mentions of people during conversations. This ability captures information without requiring users to log it actively and surfaces follow-up reminders and conversations about mentioned individuals. The implementation uses a two-phase detection approach involving keyword filtering and large language model (LLM) extraction.
+Details regarding specific abilities or integrations that Michael Gold has shipped within the OpenHome ecosystem are not available at this time.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: [Michael Gold's GitHub](https://github.com/openhome-dev/abilities/pull/264)
+- Discord Handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/michaelgold]] [[abilities/social-memory]] [[platforms/openhome]]
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+[[OpenHome]]
+[[Voice AI]]
+[[Abilities]]
+[[DevKit]]
+<!-- synthesized: 2026-05-05T11:25:48Z -->
 ```

@@ -2,26 +2,26 @@
 ---
 title: Spatial Intelligence
 entity_type: concepts
-status: stub
-last_updated: 2026-05-04
+status: beta
+last_updated: 2026-05-05
 ---
 
-### definition
-Spatial intelligence is the capability to visualize and manipulate spatial relationships and understand the physical world. It encompasses the ability to perceive relationships between objects, navigate environments, and relate to one’s surroundings.
+## definition
+Spatial intelligence refers to the capability to visualize and manipulate spatial relationships, which is essential for effective interaction within physical environments. It involves understanding how objects relate to one another in space and can include skills like navigation and geometric reasoning.
 
-### why-it-matters
-In the context of OpenHome, spatial intelligence is crucial as it enhances the interaction between users and their home environments. By leveraging spatial awareness, OpenHome can provide more intuitive voice interfaces and smart home functionalities, allowing users to interact with devices and services in a more natural and context-aware manner.
+## why-it-matters
+Spatial intelligence is crucial to OpenHome as it influences how users interact with their environments and devices. By harnessing this concept, OpenHome aims to create more intuitive and immersive experiences for users, allowing for greater personalization and efficiency in AI interactions.
 
-### how-it-manifests
-While specific implementations of spatial intelligence within the OpenHome platform are not detailed, it likely appears in the way Personalities can be designed to comprehend and react based on the physical context of users, such as recognizing the spatial layout of a home and responding appropriately to voice commands based on proximity to devices or areas.
+## how-it-manifests
+In the OpenHome platform, spatial intelligence may manifest through features such as enhanced positioning capabilities for devices, the ability for voice AIs to understand and navigate different physical contexts, and user interfaces that leverage spatial awareness for better user interactions.
 
-### connects-to
-[[concepts/abilities-as-apps]]
+## connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
-[[concepts/web3-native]]
+[[concepts/abilities-as-apps]]
 [[concepts/dead-mans-switch]]
+[[concepts/web3-native]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->
 ```

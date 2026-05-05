@@ -1,29 +1,31 @@
-```yaml
+```markdown
+---
 title: builders/pl-geek
-entity_type: builders
-status: live
-last_updated: 2026-05-04
-```
+entity_type: builders/
+status: stub
+last_updated: 2026-05-05
+---
 
-## who-they-are
-pl-geek is an active member of the OpenHome community, contributing to the development of AI-powered voice applications. They are focused on creating innovative conversational AI agents, referred to as Personalities, and enhancing them with various Abilities.
+### who-they-are
+pl-geek is a member of the OpenHome community involved in building conversational AI agents. They are engaged in prototyping and developing new functionalities for voice AI applications.
 
-## what-they-built
-pl-geek has shipped an Ability called "Social Memory," which passively tracks mentions of people during conversations. This Ability collects contextual information without user intervention, allowing users to retrieve that information simply by using voice commands. The development utilizes a two-phase detection approach to minimize unnecessary processing.
+### what-they-built
+Details of specific abilities or integrations that pl-geek has shipped are not available. However, they are active in developing and contributing to the OpenHome platform.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
-- GitHub: [GitHub Repository](https://github.com/openhome-dev/abilities/pull/264)
+- GitHub: Not specified
 - X: Not specified
 
-## connects-to
-[[abilities/social-memory]]
-[[builders]]
-[[openhome]]
-[[developer-docs]]
-[[openhome-dashboard]]
+### connects-to
+[[builders/]]
+[[OpenHome]]
+[[AI Agents]]
+[[Voice AI]]
+[[Abilities]]
 
-<!-- synthesized: 2026-05-04T11:31:37Z -->
+<!-- synthesized: 2026-05-05T11:25:48Z -->
+```
