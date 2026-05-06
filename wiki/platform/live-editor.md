@@ -1,28 +1,26 @@
-```markdown
----
+```yaml
 title: platform/live-editor
-entity_type: page
-status: stub
-last_updated: 2026-05-05
----
+entity_type: platform
+status: live
+last_updated: 2026-05-06
+```
 
-### what-it-is
-The Live Editor is a component of the OpenHome platform that allows developers to create and manage voice AI abilities and personalities in real-time.
+## what-it-is
+The Live Editor is a key feature of the OpenHome platform that allows developers to create and test local voice AI abilities in real-time, providing a sandbox environment for immediate feedback and iteration.
 
-### how-it-works
-The Live Editor provides an integrated development environment for building and testing voice applications within the OpenHome ecosystem. It supports the creation of Local Abilities, which can directly access device hardware and run custom Python scripts. This environment allows developers to write, edit, and push code to their DevKit devices swiftly, facilitating rapid prototyping and iterative development.
+## how-it-works
+The Live Editor enables users to code and modify their voice AI abilities within a contained interface, facilitating faster development cycles. It supports various elements that are crucial for building conversational AI: developers can write Python code for abilities, utilize hotwords to trigger those abilities, and connect to hardware interfaces for real-time operations. The features include running commands and managing device-level interactions, paving the way for capabilities that extend beyond the typical API call, allowing for direct hardware manipulation and access.
 
-### current-status
-stub
+## current-status
+live
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
 [[platform/voice-ai]]
 [[platform/local-link]]
-[[platform/marketplace]]
+[[platform/marketplace]] 
 
-<!-- synthesized: 2026-05-05T11:25:48Z -->
-```
+<!-- synthesized: 2026-05-06T11:32:14Z -->

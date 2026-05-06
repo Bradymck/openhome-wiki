@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: Voice AI
-entity_type: platform/voice-ai
+entity_type: platform
 status: live
-last_updated: 2026-05-05
-```
+last_updated: 2026-05-06
+---
 
-## what-it-is
-OpenHome's Voice AI platform is an open-source framework designed for building conversational AI agents known as Personalities. It enables developers to extend these agents with modular plugins called Abilities, which add various functionalities.
+### what-it-is
+OpenHome Voice AI is an open-source platform that enables developers to create conversational AI agents known as Personalities, which can be customized and extended with modular voice plugins called Abilities.
 
-## how-it-works
-The Voice AI platform allows users to create a Personality by defining its voice, persona, and conversational style. Developers can enhance these Personalities by integrating Abilities, which can perform tasks such as calling APIs, playing music, and controlling smart devices. Abilities are activated through hotwords during voice interactions and can execute custom Python code to deliver rich, interactive experiences. The platform supports both cloud-based and local execution of Abilities, with the latter allowing direct access to hardware features and device-level data for more advanced functionalities.
+### how-it-works
+The Voice AI platform allows users to design Personalities, which are characterized by their unique voice, persona, and conversational style. Developers can enhance these Personalities by integrating Abilities—modular plugins that can execute various tasks such as API calls, music playback, and smart device control. Abilities can be triggered by specific hotwords during voice interactions and can run custom Python logic to provide a more engaging user experience.
 
-## current-status
+### current-status
 live
 
-## connects-to
+### connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -23,4 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-05T11:25:48Z -->
+<!-- synthesized: 2026-05-06T11:32:14Z -->
+```

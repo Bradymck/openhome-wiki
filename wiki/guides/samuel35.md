@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: "Samuel35"
-entity_type: "guides/"
-status: "live"
-last_updated: 2026-05-05
+title: guides/samuel35
+entity_type: Community Guide
+status: live
+last_updated: 2026-05-06
 ---
 
-### who-they-are
-Samuel35 is a community guide recognized for their contributions to the OpenHome project, particularly within the OpenHome Discord community. They have a background in developing agents and skills for voice AI applications.
+## who-they-are
+Samuel35 is a power user in the OpenHome community known for assisting new users in understanding and utilizing the OpenHome AI platform. With a background in voice AI development and experience with various APIs and hardware integrations, Samuel35 provides valuable insights for those looking to build conversational AI agents.
 
-### what-they-help-with
-Samuel35 specializes in building and enhancing conversational AI agents using the OpenHome platform. This includes knowledge of creating Personalities and Abilities, and they offer support in utilizing Local Abilities that allow for direct hardware access and command execution on DevKit devices.
+## what-they-help-with
+Samuel35 specializes in helping users build and improve their AI agents on the OpenHome platform. This includes guidance on developing Personalities, integrating Abilities, and leveraging Local Abilities for direct hardware access. Samuel35 is well-versed in debugging issues related to voice response generation and onboarding processes for the devkit.
 
-### how-to-reach
-You can reach Samuel35 on Discord at their handle: `@samuel35`.
+## how-to-reach
+Samuel35 can be contacted on Discord under the handle: `@samuel35`.
 
-### connects-to
-- [[guides]]
-- [[OpenHome]]
-- [[dev.openhome.com]]
-- [[github.com/openhome-dev/abilities]]
-- [[docs.openhome.com]]
-
-<!-- synthesized: 2026-05-05T11:25:48Z -->
+## connects-to
+[[openhome]]
+[[devkit]]
+[[abilities]]
+[[community guide]]
+[[voice AI]]
+<!-- synthesized: 2026-05-06T11:32:14Z -->
 ```

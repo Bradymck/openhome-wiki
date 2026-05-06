@@ -1,28 +1,31 @@
 ```markdown
 ---
-title: pmckelvy
+title: builders/pmckelvy
 entity_type: builders/
-status: live
-last_updated: 2026-05-05
+status: stub
+last_updated: 2026-05-06
 ---
 
 ### who-they-are
-pmckelvy is an active contributor in the OpenHome community, focusing on the development of voice AI applications and capabilities. They are engaged in building various abilities for the OpenHome platform, which enables users to create conversational AI agents called Personalities.
+pmckelvy is an active community member in the OpenHome ecosystem. They are involved in building and contributing to OpenHome, an open-source Voice AI platform that allows users to create conversational AI agents, known as Personalities, and extend their functionalities with modular voice plugins called Abilities.
 
 ### what-they-built
-pmckelvy has contributed to the development of Local Abilities. This feature allows Skills to be executed directly on DevKit hardware, facilitating direct hardware access, long-running tasks, and the use of restricted Python libraries. They have also participated in the creation of the DevKit Stats example, demonstrating how to extract and communicate system metrics vocally.
+Currently, there is no specific information available about the exact abilities or integrations that pmckelvy has shipped within the OpenHome platform. 
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: pmckelvy
-- GitHub: [GitHub Profile](https://github.com/openhome-dev/abilities)
+- Discord: pmckelvy
+- GitHub: [GitHub Profile](https://github.com/openhome-dev)
+- Twitter (X): [X Profile](https://x.com/openhome)
 
 ### connects-to
-- [[Local Abilities]]
-- [[DevKit Stats Example]]
-- [[OpenHome]]
+[[builders/]]
+[[abilities/]]
+[[OpenHome]]
+[[Personalities]]
+[[Abilities]]
 
-<!-- synthesized: 2026-05-05T11:25:48Z -->
+<!-- synthesized: 2026-05-06T11:32:14Z -->
 ```

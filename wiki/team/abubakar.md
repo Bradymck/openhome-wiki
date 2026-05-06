@@ -3,21 +3,23 @@
 title: Abubakar
 entity_type: team
 status: stub
-last_updated: 2026-05-05
+last_updated: 2026-05-06
 ---
 
 ### who-they-are
-Abubakar is a key member of the OpenHome team, holding a position integral to the platform's development and growth. Background details are currently not available.
+Abubakar is a member of the OpenHome team, recognized for contributing to the development of voice AI applications and fostering community engagement.
 
 ### what-they-own
-Abubakar is involved in leading various aspects within the OpenHome platform, though specific areas of ownership have not been detailed.
+Abubakar leads initiatives related to the integration and development of Local Abilities on OpenHome's DevKit, enhancing the capabilities of developers to create voice applications with direct hardware access.
 
 ### how-to-reach
-Abubakar's preferred contact methods are not specified. Currently, no Discord handle or social media links are available for reaching out.
+Discord handle: TBD  
+X/Twitter: TBD  
+Preferred contact: TBD
 
 ### connects-to
-[[team/jesse]]
+[[team/jesse]]  
 [[team/shannon]]
 
-<!-- synthesized: 2026-05-05T11:25:48Z -->
+<!-- synthesized: 2026-05-06T11:32:14Z -->
 ```

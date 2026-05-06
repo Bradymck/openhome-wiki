@@ -1,26 +1,21 @@
-```markdown
----
-title: "guides/adamdew"
-entity_type: "Community Guide"
-status: "stub"
-last_updated: 2026-05-05
----
+```yaml
+title: guides/adamdew
+entity_type: Community Guide
+status: beta
+last_updated: 2026-05-06
+```
 
-### who-they-are
-Adam Dew is a community guide dedicated to helping users get started with OpenHome. They are well-versed in the platform’s capabilities and the development of voice AI agents.
+## who-they-are
+Adam Dew is a Community Guide involved with OpenHome, an open-source Voice AI platform. With experience in building conversational AI agents and integrating various abilities, Adam contributes to the onboarding of new users.
 
-### what-they-help-with
-Adam specializes in onboarding new users to the OpenHome platform, providing insights into building conversational AI agents known as Personalities. They help newcomers navigate the development of Abilities, which are modular voice plugins that enhance the functionality of Personalities.
+## what-they-help-with
+Adam specializes in helping users get started with the OpenHome platform, particularly in creating and managing Personalities and Abilities. He provides assistance on the development of Agents, the use of Local Abilities, and integrates hardware functionalities.
 
-### how-to-reach
-Discord handle: @adamdew
+## how-to-reach
+Discord handle: adamdew
 
-### connects-to
+## connects-to
 [[guides]]
 [[OpenHome]]
-[[voice AI]]
 [[Abilities]]
-[[community contributions]]
-
-<!-- synthesized: 2026-05-05T11:25:48Z -->
-```
+<!-- synthesized: 2026-05-06T11:32:14Z -->

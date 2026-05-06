@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-05-05
+last_updated: 2026-05-06
 ---
 
 ### who-they-are
-pl-geek is a member of the OpenHome community involved in building conversational AI agents. They are engaged in prototyping and developing new functionalities for voice AI applications.
+Pl-Geek is a community builder involved with OpenHome, an open-source Voice AI platform. They are focused on developing conversational AI agents known as Personalities and enhancing them with various Abilities.
 
 ### what-they-built
-Details of specific abilities or integrations that pl-geek has shipped are not available. However, they are active in developing and contributing to the OpenHome platform.
+As a community builder, Pl-Geek has contributed to the development of Local Abilities that run directly on DevKit hardware, allowing for direct hardware access, usage of restricted Python libraries, and execution of shell commands. They participate actively in the community to prototype new Abilities and share ideas.
 
 ### grant-status
 none
@@ -21,11 +21,10 @@ none
 - X: Not specified
 
 ### connects-to
-[[builders/]]
 [[OpenHome]]
-[[AI Agents]]
-[[Voice AI]]
 [[Abilities]]
+[[DevKit]]
+[[Local Abilities]]
 
-<!-- synthesized: 2026-05-05T11:25:48Z -->
+<!-- synthesized: 2026-05-06T11:32:14Z -->
 ```

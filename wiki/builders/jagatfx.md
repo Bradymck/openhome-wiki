@@ -1,28 +1,27 @@
-```markdown
----
-title: "builders/jagatfx"
-entity_type: "builder"
-status: "stub"
-last_updated: 2026-05-05
----
+```yaml
+title: jagatfx
+entity_type: builders
+status: stub
+last_updated: 2026-05-06
+```
 
-### who-they-are
-Jagatfx is a builder associated with the OpenHome community, focusing on developing voice AI agents known as Personalities. They are involved in the creation and extension of voice applications by leveraging the OpenHome platform.
+# who-they-are
+Jagatfx is a member of the OpenHome community focused on building conversational AI agents and extending their functionality through modular voice plugins. They are engaging in developing unique abilities to enhance user interactions with AI-powered voice applications.
 
-### what-they-built
-Jagatfx has contributed to the development of Local Abilities, a feature that allows voice applications to access hardware resources and run directly on the DevKit. These abilities enable functionalities such as direct hardware access, usage of restricted Python libraries, and execution of shell commands, facilitating more advanced use cases for voice interactions.
+# what-they-built
+Details regarding specific abilities or integrations that Jagatfx has shipped are currently not available.
 
-### grant-status
+# grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
+# how-to-reach
+- Discord handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[builders/openhome]]  
-[[abilities/local]]  
-[[abilities/conversational-ai]]
-<!-- synthesized: 2026-05-05T11:25:48Z -->
-```
+[[abilities]]
+[[AI agents]]
+[[modular plugins]]
+
+<!-- synthesized: 2026-05-06T11:32:14Z -->

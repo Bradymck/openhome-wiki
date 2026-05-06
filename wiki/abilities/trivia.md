@@ -1,22 +1,24 @@
-```markdown
----
-title: Abilities - Trivia
+```yaml
+title: abilities/trivia
 entity_type: abilities
 status: live
-last_updated: 2026-05-05
----
+last_updated: 2026-05-06
+```
 
 ### what-it-does
-Trivia is an ability that allows users to engage in quizzes and answer various trivia questions, enhancing interaction through conversational AI. It can be a fun way to test knowledge on numerous subjects while interacting with the AI agent.
+The Trivia ability allows users to engage in quizzes and answer trivia questions, enhancing the interactive experience with the Persona. It is designed for entertainment and educational purposes.
 
 ### how-to-build
-To build a Trivia ability, you will need to create a main Python file that conducts voice interactions, handles user input, and manages question flow. Utilize a JSON or a database to store quiz questions and answers. The ability should trigger on specific hotwords during a conversation and can incorporate various APIs for dynamic trivia content.
+To create a Trivia Ability, developers implement a Python script that handles user input and serves trivia questions. The ability should utilize APIs that provide trivia data and format the responses for voice interaction, ensuring a smooth conversational flow. The main component will be a structure resembling the following:
+- `main.py` — manages the voice interaction.
+- Appropriate trivia data source API integration.
+- Logic for tracking user scores and providing feedback on answers.
 
 ### category
 entertainment
 
 ### built-by
-[[abilities/trivia]]
+[[abilities/trivia-builder]] 
 
 ### status
 live
@@ -26,5 +28,5 @@ live
 [[abilities/deadman-fm]]
 [[abilities/news-brief]]
 
-<!-- synthesized: 2026-05-05T11:25:48Z -->
+<!-- synthesized: 2026-05-06T11:32:14Z -->
 ```

@@ -1,28 +1,31 @@
-```yaml
-title: Illectric Co
+```markdown
+---
+title: illectric-co
 entity_type: builders
-status: stub
-last_updated: 2026-05-05
-```
+status: live
+last_updated: 2026-05-06
+---
 
 ## who-they-are
-Illectric Co is an active community builder involved with the OpenHome platform, which is focused on developing open-source voice AI technology. They aim to enhance user interaction with devices by creating voice-powered applications.
+Illectric Co is an active community builder involved in developing the OpenHome platform, which focuses on creating open-source voice AI applications. They participate in building conversational AI agents and enhancing user interaction with technology through voice-first applications.
 
 ## what-they-built
-As part of their contributions, Illectric Co has been involved in the development of Local Abilities for the OpenHome platform. Local Abilities allow direct hardware access, enabling users to manage hardware components like LEDs, GPIO pins, sensors, and other connected devices more effectively.
+Illectric Co has worked on various integrations and abilities for the OpenHome platform, particularly focusing on Local Abilities that run directly on DevKit hardware. These abilities allow for direct hardware access, use of restricted Python libraries, and the execution of shell commands, enabling more complex and capable interactions with devices. They are also contributing to the enhancement of the platform’s developer resources and community engagement.
 
 ## grant-status
-none
+$1K
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: Not provided
+- GitHub: [GitHub Repository](https://github.com/openhome-dev/abilities)
+- X: Not provided
 
 ## connects-to
-- [[builders]]
-- [[OpenHome]]
-- [[Voice AI]]
-- [[Local Abilities]]
+[[builders]]
+[[OpenHome]]
+[[Voice AI]]
+[[Abilities]]
+[[Local Abilities]]
 
-<!-- synthesized: 2026-05-05T11:25:48Z -->
+<!-- synthesized: 2026-05-06T11:32:14Z -->
+```

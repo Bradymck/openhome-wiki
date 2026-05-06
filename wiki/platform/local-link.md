@@ -2,32 +2,27 @@
 ---
 title: platform/local-link
 entity_type: platform
-status: beta
-last_updated: 2026-05-05
+status: live
+last_updated: 2026-05-06
 ---
 
-## what-it-is
-Local Link is a feature of the OpenHome platform that enables the execution of local abilities directly on hardware devices, such as the OpenHome DevKit. This allows for more integration with hardware features and devices.
+### what-it-is
+The Local Link is a feature of the OpenHome platform that enables the use of Local Abilities on DevKit hardware, allowing direct interaction with connected devices and hardware-level functions.
 
-## how-it-works
-Local Abilities operate outside the sandbox environment of traditional abilities, providing direct access to hardware components like LEDs, GPIO pins, sensors, and cameras. This capability also allows the use of restricted Python libraries and the execution of shell commands directly from the ability. A Local Ability is structured into three main files: 
-- `main.py` manages the voice interaction and operates within a sandboxed environment.
-- `devkit_functions.py` interfaces with hardware-level functions on the DevKit.
-- `requirements.txt` specifies any external Python packages needed for `devkit_functions.py`. 
+### how-it-works
+Local Abilities run directly on the DevKit, outside the sandbox environment of regular Abilities. This allows for direct hardware access to components such as LEDs, GPIO pins, sensors, cameras, and other connected devices. A Local Ability is structured across three main files: `main.py`, which manages the voice flow; `devkit_functions.py`, which handles device-level operations; and `requirements.txt`, which includes any necessary Python packages. The communication between these components is facilitated through a function call, allowing the `main.py` script to send commands to `devkit_functions.py`, which executes the commands on the hardware.
 
-When a voice command is executed, `main.py` utilizes the `send_devkit_capability_action()` function to call hardware-related functions defined in `devkit_functions.py`, enabling real-time interaction with the DevKit's hardware.
-
-## current-status
-beta
+### current-status
+live
 
 ## connects-to
-- [[platform/openhome]]
-- [[platform/speakers]]
-- [[platform/abilities]]
-- [[platform/dashboard]]
-- [[platform/voice-ai]]
-- [[platform/marketplace]]
-- [[platform/live-editor]]
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/voice-ai]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-05-05T11:25:48Z -->
+<!-- synthesized: 2026-05-06T11:32:14Z -->
 ```

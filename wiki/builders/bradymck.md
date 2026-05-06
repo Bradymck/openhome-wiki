@@ -1,28 +1,28 @@
 ```yaml
-title: Brady McK
+title: bradymck
 entity_type: builders
-status: live
-last_updated: 2026-05-05
+status: stub
+last_updated: 2026-05-06
 ```
 
 ## who-they-are
-Brady McK is an active contributor within the OpenHome community, focused on developing innovative voice AI applications. They are leveraging the OpenHome platform to enhance AI interaction and create engaging user experiences.
+Bradymck is an active member of the OpenHome community, contributing to the development of AI-powered voice applications. They are involved in building conversational AI agents, known as Personalities, and enhancing them with modular voice plugins called Abilities.
 
 ## what-they-built
-Brady McK has been involved in building Local Abilities for the OpenHome DevKit. This includes contributions that allow developers to run features directly on hardware, such as access to device-level data, using restricted Python libraries, and executing shell commands. The successful deployment of these Local Abilities makes it easier for users to interact with their AI agents in a physical environment.
+Details about specific abilities or integrations that Bradymck has shipped are currently not documented. However, they are engaged with the OpenHome platform, which focuses on creating immersive voice interactions.
 
 ## grant-status
-$1K
+none
 
 ## how-to-reach
-- Discord: @bradymck
-- GitHub: [bradymck](https://github.com/bradymck)
-- X: [@bradymck](https://x.com/bradymck)
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-- [[builders]]
-- [[OpenHome]]
-- [[Local Abilities]]
-- [[DevKit]]
+[[builders]]  
+[[OpenHome]]  
+[[Personalities]]  
+[[Abilities]]  
 
-<!-- synthesized: 2026-05-05T11:25:48Z -->
+<!-- synthesized: 2026-05-06T11:32:14Z -->
