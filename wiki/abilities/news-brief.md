@@ -1,30 +1,28 @@
-```markdown
----
-title: Abilities - News Brief
-entity_type: abilities/news-brief
+```yaml
+title: abilities/news-brief
+entity_type: abilities
 status: live
-last_updated: 2026-05-06
----
+last_updated: 2026-05-07
+```
 
-### what-it-does
-The News Brief ability provides users with concise summaries of current news articles and updates from various sources, allowing for quick consumption of important information.
+## what-it-does
+The News Brief Ability runs quietly in the background during conversations. It monitors discussions and identifies potential conflicts in the user's plans, alerting them when a scheduling clash occurs. This Ability operates without the need for API keys or calendar synchronization, allowing users to simply talk naturally.
 
-### how-to-build
-To create the News Brief ability, developers can utilize the OpenHome platform's API for fetching news from specified sources. The ability may require a designated function to process and summarize text efficiently, likely involving Natural Language Processing (NLP) techniques to distill articles into brief formats. The voice interaction will trigger fetching the latest news based on user queries or scheduled prompts.
+## how-to-build
+To develop the News Brief Ability, you'll utilize voice recognition and custom Python logic to analyze speech for scheduling conflicts. The ability does not require additional integrations, enabling seamless operation in conversations.
 
-### category
-utility
+## category
+productivity
 
-### built-by
-[[abilities/news-brief]]
+## built-by
+[[abilities/deadman-fm]]
 
-### status
+## status
 live
 
-### connects-to
+## connects-to
+[[abilities/trivia]]
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
-[[abilities/trivia]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
-```
+<!-- synthesized: 2026-05-07T11:31:21Z -->

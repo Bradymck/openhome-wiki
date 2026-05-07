@@ -1,25 +1,24 @@
-```markdown
----
-title: Local First
-entity_type: concepts
+```yaml
+title: Local-First
+entity_type: concepts/local-first
 status: live
-last_updated: 2026-05-06
----
+last_updated: 2026-05-07
+```
 
 ## definition
-Local First refers to the approach within the OpenHome platform where certain functionalities and applications are designed to operate directly on local hardware without requiring a constant internet connection. This enables capabilities that were previously restricted by relying solely on cloud infrastructure.
+Local-first refers to an approach in software design where applications operate primarily on local data rather than relying on cloud-based storage or processing. In the context of OpenHome, this means that functionalities can be executed directly on the user’s device, providing immediate responsiveness and removing dependencies on internet connectivity.
 
 ## why-it-matters
-The Local First concept is significant for OpenHome as it enhances the reliability and responsiveness of voice AI interactions. By processing data locally, OpenHome can provide more immediate feedback and control, particularly in scenarios where network connectivity may be intermittent or unavailable. This empowers users with greater autonomy and ensures that critical functionalities are always accessible.
+The local-first concept is crucial for OpenHome as it enhances user experience by providing faster interactions, increased privacy, and reduced reliance on external servers. It aligns with the platform's commitment to user empowerment and gives users more control over their data and interactions with technology.
 
 ## how-it-manifests
-Local First is implemented through the use of Local Abilities in OpenHome's development kits, which allow for direct hardware access to features such as LEDs, sensors, cameras, and other connected devices. Local Abilities run outside the live editor's sandbox environment, granting developers the ability to execute long-running tasks and use restricted Python libraries not available in the sandbox. For instance, a Local Ability can access device-level data, perform shell commands, and manage multiple device interactions seamlessly.
+In OpenHome, local-first capabilities are exemplified through Local Abilities, which can access device hardware directly, manage resources like CPU and memory, and execute tasks without needing constant internet access. This allows for functionalities such as direct hardware manipulation and long-running tasks that contribute to a seamless user experience.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
 [[concepts/dead-mans-switch]]
+[[concepts/voice-first]]
+[[concepts/spatial-intelligence]]
+[[concepts/web3-native]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
-```
+<!-- synthesized: 2026-05-07T11:31:21Z -->

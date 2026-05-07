@@ -1,26 +1,25 @@
-```yaml
+```markdown
+---
 title: roadmap/shipped
 entity_type: roadmap
 status: live
-last_updated: 2026-05-06
-```
+last_updated: 2026-05-07
+---
 
 ## what-it-is
-OpenHome has launched the first shipment of physical V0.1 devkits, allowing developers to build with OpenClaw or create their own agents. Additionally, Local Abilities are now live, enabling developers to leverage direct hardware access and run tasks on the DevKit hardware.
+The newly introduced Conflict Detector Ability runs in the background during conversations, automatically identifying conflicting plans without needing API keys or calendar synchronization. Additionally, Local Abilities, capable of direct hardware access and executing long-running device tasks, are now live on the OpenHome DevKit.
 
 ## status
-shipped
+Shipped
 
 ## why-it-matters
-The introduction of physical devkits facilitates real-world application development and testing for users, promoting community engagement and innovation in AI-powered voice applications. The new Local Abilities expand the functionality of the platform, allowing deeper integration with the hardware and enabling advanced features that are crucial for developers looking to create immersive voice experiences.
+The Conflict Detector Ability enhances user experience by efficiently managing scheduling conflicts through natural conversation, thus improving the overall functionality of AI agents. Local Abilities significantly expand the range of actions AI can perform by integrating more closely with hardware, promoting greater interactivity and practical applications.
 
 ## eta
-Shipping is ongoing in small batches as developers apply for devkits.
+Available now as part of the OpenHome platform.
 
 ## connects-to
-[[OpenHome]]  
-[[OpenClaw]]  
-[[DevKit]]  
-[[Abilities]]  
+[[OpenHome]], [[Abilities]], [[DevKit]], [[Personality]], [[Voice AI]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+<!-- synthesized: 2026-05-07T11:31:21Z -->
+```

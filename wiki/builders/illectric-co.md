@@ -3,29 +3,29 @@
 title: illectric-co
 entity_type: builders
 status: live
-last_updated: 2026-05-06
+last_updated: 2026-05-07
 ---
 
-## who-they-are
-Illectric Co is an active community builder involved in developing the OpenHome platform, which focuses on creating open-source voice AI applications. They participate in building conversational AI agents and enhancing user interaction with technology through voice-first applications.
+### who-they-are
+Illectric is a community-focused developer group working on innovative projects within the OpenHome platform. They are dedicated to enabling users to build and interact with voice AI agents, as well as contributing to the development of new abilities that enhance the functionality of these agents.
 
-## what-they-built
-Illectric Co has worked on various integrations and abilities for the OpenHome platform, particularly focusing on Local Abilities that run directly on DevKit hardware. These abilities allow for direct hardware access, use of restricted Python libraries, and the execution of shell commands, enabling more complex and capable interactions with devices. They are also contributing to the enhancement of the platform’s developer resources and community engagement.
+### what-they-built
+Illectric has shipped several abilities, including:
+- **Conflict Detector**: An ability that detects potential scheduling conflicts based on natural conversation, automatically alerting users of conflicts without requiring API keys or calendar sync.
+- **Local Abilities**: A category that allows direct access to hardware and device-level data, enabling developers to enhance their devices with more complex functionalities using Python and custom commands.
 
-## grant-status
-$1K
+### grant-status
+none
 
-## how-to-reach
-- Discord handle: Not provided
-- GitHub: [GitHub Repository](https://github.com/openhome-dev/abilities)
-- X: Not provided
+### how-to-reach
+- Discord Handle: Not specified
+- GitHub: [Illectric GitHub](https://github.com/openhome-dev/abilities)
+- X: Not specified
 
-## connects-to
-[[builders]]
-[[OpenHome]]
-[[Voice AI]]
-[[Abilities]]
-[[Local Abilities]]
+### connects-to
+[[abilities/conflict-detector]]
+[[abilities/local-abilities]]
+[[builders/openhome]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+<!-- synthesized: 2026-05-07T11:31:21Z -->
 ```

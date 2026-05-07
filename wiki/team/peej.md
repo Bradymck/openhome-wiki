@@ -3,24 +3,21 @@
 title: Peej
 entity_type: team
 status: stub
-last_updated: 2026-05-06
+last_updated: 2026-05-07
 ---
 
-### who-they-are
-Peej is a core team member at OpenHome, holding an Admin role. Their background includes experience in voice AI development and community engagement.
+## who-they-are
+Role at OpenHome and background information about Peej are currently unspecified.
 
-### what-they-own
-Peej leads initiatives related to community development and user engagement within the OpenHome platform. They focus on fostering innovation through contributions from developers and users.
+## what-they-own
+Peej's areas of the platform they lead are not clearly defined in the available information.
 
-### how-to-reach
-- Discord: @peej
-- X/Twitter: [@peej_handle](https://twitter.com/peej_handle) *(placeholder, actual handle unspecified)*
+## how-to-reach
+Peej's contact information, including Discord handle or presence on X/Twitter, is not provided in the sources.
 
-### connects-to
+## connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[projects/openhome]]
-[[projects/devkit]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+<!-- synthesized: 2026-05-07T11:31:21Z -->
 ```

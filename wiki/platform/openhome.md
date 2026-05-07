@@ -1,20 +1,21 @@
-```yaml
-title: platform/openhome
-entity_type: platform
+```markdown
+---
+title: "OpenHome Platform"
+entity_type: "platform"
 status: live
-last_updated: 2026-05-06
-```
+last_updated: 2026-05-07
+---
 
-## what-it-is
-OpenHome is an open-source Voice AI platform that allows users to build conversational AI agents known as Personalities. These agents can be enhanced with modular voice plugins called Abilities, which add new skills and functionalities.
+### what-it-is
+OpenHome is an open-source Voice AI platform designed for building conversational AI agents called Personalities. These agents can be extended with modular voice plugins known as Abilities, allowing users to enhance their functionality with various new skills.
 
-## how-it-works
-OpenHome operates by enabling developers to create AI agents (Personalities) that can interact with users through voice. Developers can set up a Personality by defining its voice, persona, and conversation style, and then augment it with various Abilities. These Abilities are triggered via hotwords during voice conversations and can perform tasks like calling APIs, playing music, controlling smart home devices, and much more. Additionally, recent updates have introduced Local Abilities, which run directly on the DevKit hardware, allowing for tasks that require hardware access, such as managing GPIO, sensors, and executing long-running tasks. Local Abilities utilize a three-file structure to interface between voice flow and hardware functions, providing a seamless experience for users.
+### how-it-works
+OpenHome operates by enabling developers to create Personalities that can interact with users through voice. Abilities, which are modular plugins, add specific capabilities to these Personalities, such as playing music, executing API calls, or controlling smart home devices. Users can trigger these Abilities using hotwords during conversation. The platform supports the development of both local and cloud-based operations, enhancing the user experience with direct access to device hardware and privileged Python libraries.
 
-## current-status
+### current-status
 live
 
-## connects-to
+### connects-to
 [[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -23,4 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+<!-- synthesized: 2026-05-07T11:31:21Z -->
+```

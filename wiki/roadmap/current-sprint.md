@@ -1,27 +1,29 @@
-```yaml
-title: Roadmap Current Sprint
+```markdown
+---
+title: Roadmap / Current Sprint
 entity_type: roadmap
 status: live
-last_updated: 2026-05-06
-```
+last_updated: 2026-05-07
+---
 
 ## what-it-is
-The current sprint focuses on the launch of Local Abilities within the OpenHome platform. Local Abilities enable developers to run tasks directly on DevKit hardware, allowing for enhanced functionalities and direct hardware access.
+The current sprint focuses on the launch of new features and enhancements for the OpenHome platform, specifically the introduction of Local Abilities, which allow for direct interaction with hardware and local resources.
 
 ## status
-in-progress
+In-progress
 
 ## why-it-matters
-This feature expands the capabilities of voice AI applications by permitting access to hardware-level functions and direct control of connected devices. It enhances the user experience by allowing for more complex and interactive features that were previously unattainable within the sandbox environment.
+The incorporation of Local Abilities expands the capabilities of the OpenHome platform, enabling developers to create more sophisticated voice AI applications that can perform tasks requiring direct hardware interactions, which were not possible in the previous sandboxed environment.
 
 ## eta
-In ongoing development; specific timeline not provided.
+The Local Abilities feature is currently live with ongoing enhancements and feedback collection.
 
 ## connects-to
 - [[OpenHome]]
 - [[DevKit]]
 - [[Abilities]]
 - [[Voice AI]]
-- [[Community Projects]]
+- [[Developer Docs]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+<!-- synthesized: 2026-05-07T11:31:21Z -->
+```

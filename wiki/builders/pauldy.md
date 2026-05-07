@@ -1,15 +1,16 @@
-```yaml
+```markdown
+---
 title: builders/pauldy
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-05-06
-```
+last_updated: 2026-05-07
+---
 
 ## who-they-are
-Pauldy is an active member of the OpenHome community, contributing to the development of the OpenHome platform, which focuses on building conversational AI agents called Personalities.
+Pauldy is an active member of the OpenHome community engaged in building conversational AI agents. They are involved in the development of abilities and integrations for the OpenHome platform.
 
 ## what-they-built
-Pauldy has participated in the creation and enhancement of Local Abilities for the OpenHome DevKit, allowing for direct hardware access and integration capabilities for voice AI applications.
+Pauldy has contributed to various projects within the OpenHome ecosystem. Notably, they recently shipped the "Conflict Detector" ability, which detects scheduling conflicts during conversations without requiring any API keys or calendar syncing. Additionally, they are engaged in creating Local Abilities that run on the DevKit hardware.
 
 ## grant-status
 none
@@ -20,8 +21,8 @@ none
 - X: Not specified
 
 ## connects-to
-[[Local Abilities]]
-[[OpenHome]]
-[[Personality]]
-
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+- [[OpenHome]]
+- [[Conflict Detector]]
+- [[Local Abilities]]
+<!-- synthesized: 2026-05-07T11:31:21Z -->
+```

@@ -1,32 +1,30 @@
-```yaml
-title: abilities/trivia
+```markdown
+---
+title: Abilities - Trivia
 entity_type: abilities
 status: live
-last_updated: 2026-05-06
-```
+last_updated: 2026-05-07
+---
 
 ### what-it-does
-The Trivia ability allows users to engage in quizzes and answer trivia questions, enhancing the interactive experience with the Persona. It is designed for entertainment and educational purposes.
+The Trivia Ability allows users to engage in fun and interactive trivia games with their voice AI. This ability can ask questions across various categories such as general knowledge, history, science, and entertainment, providing an entertaining way to learn new facts or test existing knowledge.
 
 ### how-to-build
-To create a Trivia Ability, developers implement a Python script that handles user input and serves trivia questions. The ability should utilize APIs that provide trivia data and format the responses for voice interaction, ensuring a smooth conversational flow. The main component will be a structure resembling the following:
-- `main.py` — manages the voice interaction.
-- Appropriate trivia data source API integration.
-- Logic for tracking user scores and providing feedback on answers.
+To create the Trivia Ability, developers can utilize the OpenHome API to set up a series of trivia questions and answers. The main logic is handled in Python, enabling the ability to parse user responses, check for accuracy, and provide feedback. The interaction flow involves capturing user input through voice commands and generating dynamic responses based on the questions asked.
 
 ### category
 entertainment
 
 ### built-by
-[[abilities/trivia-builder]] 
+[[User:TriviaDev]]
 
 ### status
 live
 
 ### connects-to
+[[abilities/news-brief]]
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
-[[abilities/news-brief]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+<!-- synthesized: 2026-05-07T11:31:21Z -->
 ```

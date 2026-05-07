@@ -2,27 +2,27 @@
 ---
 title: platform/speakers
 entity_type: platform
-status: live
-last_updated: 2026-05-06
+status: beta
+last_updated: 2026-05-07
 ---
 
 ### what-it-is
-OpenHome speakers are cutting-edge smart speakers that integrate with the OpenHome platform, providing local AI capabilities and enhanced control over smart home devices through voice interactions.
+The OpenHome speakers are cutting-edge smart devices designed to function as local hosts for AI agents, enhancing user interaction through voice-controlled capabilities.
 
 ### how-it-works
-OpenHome speakers allow users to build and manage conversational AI agents, known as Personalities, which can be equipped with various Abilities — modular voice plugins that provide additional functionality such as playing music, interacting with smart home devices, and executing custom commands. The speakers operate on a local-level architecture that facilitates direct hardware access and runs custom logic for specific tasks. Local Abilities can interact with the hardware of the speaker, enabling features such as accessing system information and controlling connected devices directly through voice commands.
+OpenHome speakers leverage the OpenHome platform to allow users to create and manage conversational AI agents called Personalities. These speakers serve as standalone devices equipped with integrated functionality for local operations, enabling direct control of smart home features and interaction with various Abilities. Users can trigger Abilities through wake words during conversations, utilizing the speakers to run custom Python logic and interact with additional connected devices or services.
 
 ### current-status
-live
+beta
 
 ### connects-to
-[[platform/openhome]]  
-[[platform/abilities]]  
-[[platform/dashboard]]  
-[[platform/voice-ai]]  
-[[platform/local-link]]  
-[[platform/marketplace]]  
-[[platform/live-editor]]  
+[[platform/openhome]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/voice-ai]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+<!-- synthesized: 2026-05-07T11:31:21Z --> 
 ```

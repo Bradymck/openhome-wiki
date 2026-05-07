@@ -1,28 +1,27 @@
-```markdown
----
-title: Roadmap and Planned Features
+```yaml
+title: Roadmap for OpenHome
 entity_type: roadmap/planned
-status: live
-last_updated: 2026-05-06
----
+status: in-progress
+last_updated: 2026-05-07
+```
 
-### what-it-is
-OpenHome is planning to implement several new features and enhancements, primarily focusing on Local Abilities, which will allow personal AI agents (Personalities) to access device hardware directly and run custom Python logic outside the sandbox environment.
+## what-it-is
+OpenHome is an open-source Voice AI platform where users can build conversational AI agents known as Personalities, enhanced with modular plugins called Abilities.
 
-### status
-In-progress
+## status
+in-progress
 
-### why-it-matters
-The introduction of Local Abilities significantly enhances the capabilities of OpenHome's AI agents by enabling direct hardware access. This development will allow Personalities to perform tasks that were previously not possible, such as controlling physical devices and accessing system metrics, thereby enriching user interactions and broadening the range of applications for the platform.
+## why-it-matters
+The OpenHome platform aims to revolutionize the interaction between users and technology by making voice-first applications accessible and enhancing the user experience through AI-powered functions.
 
-### eta
-Ongoing updates as features are rolled out.
+## eta
+The first physical devkits have started shipping since May 2026, with ongoing development of new features and abilities announced on Discord.
 
 ## connects-to
-[[OpenHome]]  
-[[Abilities]]  
-[[Personality]]  
-[[Voice AI]]  
-
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+- [[OpenHome]]
+- [[Abilities]]
+- [[DevKit]]
+- [[Voice AI]]
+- [[Community Contributions]]
+<!-- synthesized: 2026-05-07T11:31:21Z -->
 ```

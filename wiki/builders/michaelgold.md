@@ -1,16 +1,15 @@
-```markdown
----
-title: builders/michaelgold
-entity_type: builder
-status: stub
-last_updated: 2026-05-06
----
+```yaml
+title: Build by Michael Gold
+entity_type: builders
+status: live
+last_updated: 2026-05-07
+```
 
 ## who-they-are
-Michael Gold is an active builder in the OpenHome community, focusing on the development of AI-powered voice applications and integrations. His contributions enhance user interactions with technology by leveraging conversational AI.
+Michael Gold is an active developer in the OpenHome community. He is focused on building voice AI applications and engaging with the community to enhance their capabilities.
 
 ## what-they-built
-Details about specific shipped abilities or integrations by Michael Gold are currently not available.
+Michael Gold has shipped a new ability called **Conflict Detector**, which runs in the background during conversations and can identify conflicting plans mentioned by users. This capability does not require API keys or calendar synchronization and aims to enhance user interaction by providing seamless feedback on schedule conflicts.
 
 ## grant-status
 none
@@ -21,10 +20,7 @@ none
 - X: Not specified
 
 ## connects-to
-[[Local Abilities]]
-[[OpenHome]]
-[[DevKit]]
-[[Voice AI]]
-[[Abilities]]
-<!-- synthesized: 2026-05-06T11:32:14Z -->
-```
+[[abilities/Conflict Detector]]
+[[builders/michaelgold]] 
+
+<!-- synthesized: 2026-05-07T11:31:21Z -->

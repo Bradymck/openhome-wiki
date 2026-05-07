@@ -1,26 +1,28 @@
-```yaml
+```markdown
+---
 title: platform/live-editor
 entity_type: platform
-status: live
-last_updated: 2026-05-06
-```
+status: beta
+last_updated: 2026-05-07
+---
 
-## what-it-is
-The Live Editor is a key feature of the OpenHome platform that allows developers to create and test local voice AI abilities in real-time, providing a sandbox environment for immediate feedback and iteration.
+### what-it-is
+The Live Editor is a development environment within the OpenHome platform that allows users to create and modify voice AI agents and their abilities in real-time.
 
-## how-it-works
-The Live Editor enables users to code and modify their voice AI abilities within a contained interface, facilitating faster development cycles. It supports various elements that are crucial for building conversational AI: developers can write Python code for abilities, utilize hotwords to trigger those abilities, and connect to hardware interfaces for real-time operations. The features include running commands and managing device-level interactions, paving the way for capabilities that extend beyond the typical API call, allowing for direct hardware manipulation and access.
+### how-it-works
+The Live Editor provides a user-friendly interface where developers can build and tweak their conversational AI agents termed as Personalities. Users can integrate various Abilities, which are modular plugins that enhance the functionality of these agents. The Live Editor supports a sandbox environment to ensure that code changes can be tested instantly without impacting the operational capabilities of deployed agents. It allows developers to experiment with new features and functionalities in a controlled setting, ensuring smooth transitions from development to real-world applications.
 
-## current-status
-live
+### current-status
+beta
 
-## connects-to
+### connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
 [[platform/voice-ai]]
 [[platform/local-link]]
-[[platform/marketplace]] 
+[[platform/marketplace]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+<!-- synthesized: 2026-05-07T11:31:21Z -->
+```

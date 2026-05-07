@@ -3,17 +3,17 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-05-06
+last_updated: 2026-05-07
 ---
 
 ## definition
-Abilities-as-apps are modular voice plugins that extend the functionality of conversational AI agents, known as Personalities, on the OpenHome platform. They enable agents to perform various tasks, such as calling APIs, playing music, and controlling smart devices, by being triggered during voice interactions.
+Abilities-as-apps refer to modular voice-driven plugins that enhance conversational AI agents, known as Personalities, by providing them with additional skills and functionalities. Each Ability can perform specific tasks, such as controlling smart home devices, playing music, or calling APIs.
 
 ## why-it-matters
-This concept is pivotal to OpenHome as it allows users to customize and enhance their AI experiences. By enabling developers to create and share Abilities, OpenHome fosters a collaborative ecosystem where users can build upon each other's work, enriching the platform with diverse functionalities.
+This concept is significant for OpenHome as it allows developers to create flexible, scalable enhancements to AI personalities, thereby enriching user interactions and customizing experiences in a voice-first environment. Abilities-as-apps embody the platform's mission to make advanced technology more accessible and interactive.
 
 ## how-it-manifests
-Abilities appear in the OpenHome platform through integration with Personalities. They can be added by users to personalize their AI agents, allowing for voice-first interactions that are tailored to individual needs and preferences. Abilities are triggered by specific hotwords during voice conversations and run custom Python logic to perform their designated tasks.
+In the OpenHome platform, Abilities are triggered by specific hotwords during voice interactions. They operate as individual apps that can be integrated into each Personality to introduce new features without modifying the core AI. Recent updates include the launch of Local Abilities, which allow direct hardware access and enable functionalities that were previously unavailable.
 
 ## connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ Abilities appear in the OpenHome platform through integration with Personalities
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+<!-- synthesized: 2026-05-07T11:31:21Z -->
 ```

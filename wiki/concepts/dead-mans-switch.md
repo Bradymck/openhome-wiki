@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: Dead Man's Switch
-entity_type: concepts/dead-mans-switch
+entity_type: concepts
 status: stub
-last_updated: 2026-05-06
-```
+last_updated: 2026-05-07
+---
 
 ### definition
-A dead man's switch is a safety mechanism that automatically triggers an action or notification if the operator becomes incapacitated or fails to perform a specific task within a set timeframe. It serves as a precautionary measure to ensure that certain processes or notifications continue in the absence of the user.
+A dead man's switch is a safety mechanism that triggers a specific action if the operator becomes incapacitated or is no longer able to perform their duties. In the context of voice AI agents, this concept can serve as a safeguard ensuring that a user's preferences or commands are followed even in the event that they can no longer interact with the system.
 
 ### why-it-matters
-In the context of OpenHome, a dead man's switch is relevant as it can provide security and reliability in voice AI applications. For instance, it could function as a fail-safe for critical tasks, ensuring that if a user becomes inactive or unresponsive, the system still operates to maintain safety or communicate important alerts.
+The dead man's switch is critical within the OpenHome ecosystem as it enhances user safety and security. By integrating this concept, OpenHome can ensure that vital commands and settings remain active or can automatically shift to a default state if a user is unable to continue interacting with their device.
 
 ### how-it-manifests
-This concept may manifest in OpenHome through features that monitor user interactions or device states. If certain parameters are not met (e.g., user engagement drops below a threshold), the system could initiate a pre-programmed response, such as alerting a secondary service or disabling a device's functionality to prevent misuse.
+While specific implementations of the dead man's switch within the OpenHome platform are not detailed, potential use cases could involve ensuring ongoing system functionality or alerting caretakers in absence of user interaction. It could manifest in features that monitor user activity and trigger predefined responses if inactivity is detected.
 
 ### connects-to
 [[concepts/abilities-as-apps]]  
@@ -22,4 +23,5 @@ This concept may manifest in OpenHome through features that monitor user interac
 [[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]  
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+<!-- synthesized: 2026-05-07T11:31:21Z -->
+```

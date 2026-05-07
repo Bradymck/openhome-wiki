@@ -3,23 +3,24 @@
 title: guides/samuel35
 entity_type: Community Guide
 status: live
-last_updated: 2026-05-06
+last_updated: 2026-05-07
 ---
 
-## who-they-are
-Samuel35 is a power user in the OpenHome community known for assisting new users in understanding and utilizing the OpenHome AI platform. With a background in voice AI development and experience with various APIs and hardware integrations, Samuel35 provides valuable insights for those looking to build conversational AI agents.
+### who-they-are
+Samuel35 is a power user within the OpenHome community, recognized for his contributions and expertise in voice AI technologies. His background includes working extensively with OpenHome’s platform, focusing on developing conversational AI agents and their associated abilities.
 
-## what-they-help-with
-Samuel35 specializes in helping users build and improve their AI agents on the OpenHome platform. This includes guidance on developing Personalities, integrating Abilities, and leveraging Local Abilities for direct hardware access. Samuel35 is well-versed in debugging issues related to voice response generation and onboarding processes for the devkit.
+### what-they-help-with
+Samuel35 specializes in guiding users through the process of building and enhancing voice AI agents on the OpenHome platform. He assists with creating and integrating Abilities—modular voice plugins that offer additional skills to Personalities. His expertise includes using the OpenHome development tools and leveraging APIs to optimize user interactions with voice applications.
 
-## how-to-reach
-Samuel35 can be contacted on Discord under the handle: `@samuel35`.
+### how-to-reach
+You can connect with Samuel35 on Discord at his handle: @samuel35.
 
-## connects-to
-[[openhome]]
-[[devkit]]
-[[abilities]]
-[[community guide]]
-[[voice AI]]
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+### connects-to
+- [[OpenHome]]
+- [[Abilities]]
+- [[Voice AI]]
+- [[Community Guides]]
+- [[Getting Started with OpenHome]]
+
+<!-- synthesized: 2026-05-07T11:31:21Z -->
 ```

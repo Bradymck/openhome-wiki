@@ -1,28 +1,28 @@
 ```markdown
 ---
 title: platform/local-link
-entity_type: platform
-status: live
-last_updated: 2026-05-06
+entity_type: page
+status: beta
+last_updated: 2026-05-07
 ---
 
 ### what-it-is
-The Local Link is a feature of the OpenHome platform that enables the use of Local Abilities on DevKit hardware, allowing direct interaction with connected devices and hardware-level functions.
+Local Link is a feature within the OpenHome platform that enables developers to create Local Abilities that can interact directly with the hardware of OpenHome devices, such as smart speakers.
 
 ### how-it-works
-Local Abilities run directly on the DevKit, outside the sandbox environment of regular Abilities. This allows for direct hardware access to components such as LEDs, GPIO pins, sensors, cameras, and other connected devices. A Local Ability is structured across three main files: `main.py`, which manages the voice flow; `devkit_functions.py`, which handles device-level operations; and `requirements.txt`, which includes any necessary Python packages. The communication between these components is facilitated through a function call, allowing the `main.py` script to send commands to `devkit_functions.py`, which executes the commands on the hardware.
+Local Link allows abilities to run directly on the hardware of a DevKit, bypassing the limitations of the live editor's sandbox environment. This functionality offers direct access to the device's components, such as LEDs, GPIO pins, sensors, and other connected devices. It also supports the execution of restricted Python libraries, shell commands, and long-running tasks, enabling more complex and capable abilities. Developers can manage voice interactions and other device-level data through a structured setup, enhancing the overall capabilities of applications built on the OpenHome platform.
 
 ### current-status
-live
+beta
 
-## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/marketplace]]
+### connects-to
+[[platform/openhome]]  
+[[platform/speakers]]  
+[[platform/abilities]]  
+[[platform/dashboard]]  
+[[platform/voice-ai]]  
+[[platform/marketplace]]  
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-06T11:32:14Z -->
+<!-- synthesized: 2026-05-07T11:31:21Z -->
 ```
