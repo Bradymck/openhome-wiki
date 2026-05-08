@@ -1,30 +1,28 @@
-```markdown
----
+```yaml
 title: builders/sonordi
-entity_type: community builders
+entity_type: builders
 status: stub
-last_updated: 2026-05-07
----
+last_updated: 2026-05-08
+```
 
-### who-they-are
-Sonordi is part of the OpenHome community, focusing on building innovative voice AI agents and capabilities. They aim to enhance user interaction with technology through modular voice plugins called Abilities, contributing to the overall mission of OpenHome.
+# who-they-are
+Sonordi is a developer involved in creating voice AI applications through the OpenHome platform. They are part of an innovative community focusing on enhancing AI interactions in everyday use cases.
 
-### what-they-built
-Sonordi has shipped a new ability named "Conflict Detector," which operates in the background during conversations to automatically identify conflicting plans of the user. Additionally, they have contributed to the development of Local Abilities, which enable direct hardware access and long-running tasks on DevKit hardware.
+# what-they-built
+Sonordi has shipped a new ability called Conflict Detector. This ability runs in the background during conversations, automatically identifying conflicting commitments mentioned by users. It operates without needing API keys or calendar sync, providing an intuitive user experience.
 
-### grant-status
+# grant-status
 none
 
-### how-to-reach
-Discord handle: Not provided  
-GitHub: Not provided  
-X: Not provided  
+# how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[builders/openhome]]  
-[[developers/abilities]]  
-[[abilities/conflict-detector]]  
-[[abilities/local-abilities]]  
+## connects-to
+[[Conflict Detector]]
+[[OpenHome]]
+[[Voice AI]]
+[[Abilities]]
 
-<!-- synthesized: 2026-05-07T11:31:21Z -->
-```
+<!-- synthesized: 2026-05-08T11:27:37Z -->

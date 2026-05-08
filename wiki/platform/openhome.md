@@ -1,21 +1,20 @@
-```markdown
----
-title: "OpenHome Platform"
-entity_type: "platform"
-status: live
-last_updated: 2026-05-07
----
+```yaml
+title: "OpenHome"
+entity_type: "platform/openhome"
+status: "beta"
+last_updated: "2026-05-08"
+```
 
-### what-it-is
-OpenHome is an open-source Voice AI platform designed for building conversational AI agents called Personalities. These agents can be extended with modular voice plugins known as Abilities, allowing users to enhance their functionality with various new skills.
+## what-it-is
+OpenHome is an open-source Voice AI platform that enables developers to create conversational AI agents known as Personalities. These Personalities can be enhanced with modular plugins called Abilities, which add new skills and functionalities.
 
-### how-it-works
-OpenHome operates by enabling developers to create Personalities that can interact with users through voice. Abilities, which are modular plugins, add specific capabilities to these Personalities, such as playing music, executing API calls, or controlling smart home devices. Users can trigger these Abilities using hotwords during conversation. The platform supports the development of both local and cloud-based operations, enhancing the user experience with direct access to device hardware and privileged Python libraries.
+## how-it-works
+OpenHome allows users to build their voice AI agents by configuring Personalities that have distinct voices, personas, and conversation styles. Abilities are modular components that add specific functions, such as calling APIs, playing music, or controlling smart home devices. These Abilities are activated through hotwords during voice interactions, utilizing custom Python logic to perform tasks. The platform supports a community-driven environment where users can explore existing Abilities or develop and share their own through a user-friendly dashboard and GitHub repository.
 
-### current-status
-live
+## current-status
+beta
 
-### connects-to
+## connects-to
 [[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -24,5 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-07T11:31:21Z -->
-```
+<!-- synthesized: 2026-05-08T11:27:37Z -->

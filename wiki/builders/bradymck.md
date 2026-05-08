@@ -1,26 +1,29 @@
-```yaml
+```markdown
+---
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-05-07
-```
+last_updated: 2026-05-08
+---
 
-## who-they-are
-Brady McK is a member of the OpenHome community, focused on the development of voice AI agents and related integrations within the platform.
+### who-they-are
+Brady McK, known by the handle bradymck, is a community builder associated with the OpenHome platform, which focuses on developing AI-powered voice applications.
 
-## what-they-built
-Brady has contributed to the OpenHome platform by shipping the "Conflict Detector" ability, which identifies scheduling conflicts through natural conversation without needing API keys or calendar integration.
+### what-they-built
+Brady McK has contributed to developing Abilities for OpenHome, particularly notable for shipping abilities like the Conflict Detector, which identifies scheduling conflicts during conversations.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: [bradymck](https://discord.com)
-- GitHub: [bradymck's GitHub](https://github.com/bradymck)
+### how-to-reach
+- Discord handle: bradymck
+- GitHub: [bradymck on GitHub](https://github.com/bradymck)
 - X: [bradymck on X](https://x.com/bradymck)
 
-## connects-to
-[[builders]]
-[[abilities/conflict-detector]]
+### connects-to
+- [[builders]]
+- [[OpenHome]]
+- [[Abilities]]
 
-<!-- synthesized: 2026-05-07T11:31:21Z -->
+<!-- synthesized: 2026-05-08T11:27:37Z -->
+```

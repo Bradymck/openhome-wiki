@@ -1,30 +1,25 @@
-```markdown
----
+```yaml
 title: builders/slowjamsteve
 entity_type: builder
 status: stub
-last_updated: 2026-05-07
----
+last_updated: 2026-05-08
+```
 
-### who-they-are
-Slowjamsteve is an active community builder in the OpenHome ecosystem, involved in developing for the OpenHome Voice AI platform.
+## who-they-are
+SlowJamSteve is a developer engaged in building innovative solutions within the OpenHome community. He is known for his contributions in creating abilities that enhance the functionalities of AI agents on the OpenHome platform.
 
-### what-they-built
-Slowjamsteve has contributed to the community by shipping an ability called "Conflict Detector," which runs in the background to detect scheduling conflicts by listening to conversations without needing external API keys or calendar syncing.
+## what-they-built
+SlowJamSteve has developed the "Conflict Detector" ability, which runs in the background during conversations. It automatically detects schedule conflicts when users mention plans, providing timely alerts without the need for API keys or calendar synchronization.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: @slowjamsteve
-- GitHub: [slowjamsteve](https://github.com/slowjamsteve)
-- X: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-- [[builders]]
-- [[abilities/conflict-detector]]
-- [[devkits]]
-- [[openhome]]
+## connects-to
+[[abilities/Conflict Detector]]
 
-<!-- synthesized: 2026-05-07T11:31:21Z -->
-```
+<!-- synthesized: 2026-05-08T11:27:37Z -->

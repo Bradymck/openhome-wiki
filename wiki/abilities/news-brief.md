@@ -1,18 +1,18 @@
 ```yaml
-title: abilities/news-brief
-entity_type: abilities
+title: Abilities - News Brief
+entity_type: abilities/news-brief
 status: live
-last_updated: 2026-05-07
+last_updated: 2026-05-08
 ```
 
 ## what-it-does
-The News Brief Ability runs quietly in the background during conversations. It monitors discussions and identifies potential conflicts in the user's plans, alerting them when a scheduling clash occurs. This Ability operates without the need for API keys or calendar synchronization, allowing users to simply talk naturally.
+The News Brief ability runs in the background while users converse. It automatically detects mentions of plans and identifies any scheduling conflicts, alerting users to potential issues.
 
 ## how-to-build
-To develop the News Brief Ability, you'll utilize voice recognition and custom Python logic to analyze speech for scheduling conflicts. The ability does not require additional integrations, enabling seamless operation in conversations.
+The ability functions without the need for API keys or calendar synchronization. It operates based on natural language input during conversations, utilizing custom Python logic to discern conflicting events.
 
 ## category
-productivity
+utility
 
 ## built-by
 [[abilities/deadman-fm]]
@@ -21,8 +21,8 @@ productivity
 live
 
 ## connects-to
-[[abilities/trivia]]
 [[abilities/aquaprime]]
+[[abilities/trivia]]
 [[abilities/deadman-fm]]
 
-<!-- synthesized: 2026-05-07T11:31:21Z -->
+<!-- synthesized: 2026-05-08T11:27:37Z -->

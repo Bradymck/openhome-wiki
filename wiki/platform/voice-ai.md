@@ -1,21 +1,20 @@
-```markdown
----
-title: Voice AI
-entity_type: platform/voice-ai
+```yaml
+title: platform/voice-ai
+entity_type: platform
 status: live
-last_updated: 2026-05-07
----
+last_updated: 2026-05-08
+```
 
-### what-it-is
-Voice AI is an essential component of the OpenHome platform that enables the creation and interaction with voice-based conversational agents known as Personalities. This open-source technology allows users to build and extend these agents with various skills and functionalities.
+# What it is
+OpenHome is an open-source Voice AI platform designed to facilitate the development of conversational AI agents, referred to as Personalities. It allows for the extension of these agents with modular voice plugins called Abilities, which add various skills and functionalities.
 
-### how-it-works
-Voice AI operates by allowing developers to create Personalities—custom voice agents that embody specific personas, including their unique voices and conversational styles. These Personalities can be augmented with Abilities, which are modular voice plugins designed to perform specific tasks such as accessing APIs, controlling smart home devices, playing music, and more. The voice interactions are triggered by hotwords, and the Agents can handle these requests through custom Python logic. This modular design makes it adaptable and customizable, empowering users to enhance their interactive experience.
+# How it works
+The platform enables users to create Personalities by setting up AI agents with distinct voices and conversation styles. Users can enrich these agents by integrating Abilities that enable tasks such as calling APIs, playing music, running quizzes, and controlling smart home devices. These Abilities are activated through specific hotwords during voice interactions, leveraging a custom Python logic to execute commands seamlessly. Developers can get started by consulting the provided documentation, creating a Personality via the OpenHome Dashboard, and exploring community-generated Abilities on GitHub.
 
-### current-status
+# Current status
 live
 
-### connects-to
+## Connects to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -24,5 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-07T11:31:21Z -->
-```
+<!-- synthesized: 2026-05-08T11:27:37Z -->

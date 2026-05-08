@@ -1,28 +1,28 @@
-```yaml
+```markdown
+---
 title: joyboyo42
-entity_type: builders
+entity_type: builders/
 status: live
-last_updated: 2026-05-07
-```
+last_updated: 2026-05-08
+---
 
 ## who-they-are
-joyboyo42 is a community builder actively contributing to the OpenHome project. They are focused on developing abilities for conversational AI agents within the OpenHome ecosystem.
+joyboyo42 is an active developer and contributor in the OpenHome community, focusing on building conversational AI agents and related abilities. They have experience with developing voice-first applications and are involved in enhancing user interactions with technology through voice AI.
 
 ## what-they-built
-joyboyo42 has shipped several abilities, including:
-- **Conflict Detector:** An ability that runs in the background, identifying scheduling conflicts during conversations without the need for API keys or calendar synchronization. 
-- **Local Abilities:** This feature allows direct hardware access on the DevKit, enabling capabilities like manipulating GPIO pins, sensors, and performing long-running tasks on-device.
+joyboyo42 has shipped the Conflict Detector ability, which runs in the background during conversations and detects potential scheduling conflicts by analyzing user input without the need for external calendar integrations or API keys. 
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: joyboyo42
-- GitHub: [joyboyo42's GitHub](https://github.com/joyboyo42)
-- X: [joyboyo42 on X](https://x.com/joyboyo42)
+- Discord: joyboyo42
+- GitHub: [joyboyo42 GitHub](https://github.com/joyboyo42)
+- Twitter: [X](https://x.com/joyboyo42)
 
 ## connects-to
-- [[abilities/Conflict Detector]]
-- [[abilities/Local Abilities]]
+[[builders/openhome]]
+[[builders/abilities/conflict-detector]]
 
-<!-- synthesized: 2026-05-07T11:31:21Z -->
+<!-- synthesized: 2026-05-08T11:27:37Z -->
+```

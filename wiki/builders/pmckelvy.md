@@ -1,26 +1,26 @@
 ```yaml
-title: builders/pmckelvy
-entity_type: builders
-status: stub
-last_updated: 2026-05-07
+title: pmckelvy
+entity_type: builders/
+status: live
+last_updated: 2026-05-08
 ```
 
-### who-they-are
-Pmckelvy is an active community builder associated with the OpenHome project, which focuses on open-source voice AI applications. They contribute to the development of conversational AI agents, known as Personalities, and enhance them with modular plugins called Abilities.
+## who-they-are
+pmckelvy is a developer involved with OpenHome, an open-source Voice AI platform. They focus on building conversational AI agents, enhancing interactions with technology through voice-driven applications.
 
-### what-they-built
-Pmckelvy has shipped an Ability called "Conflict Detector." This Ability operates seamlessly in the background, allowing users to discuss their plans naturally. When it detects a scheduling conflict, it intervenes by informing the user about the conflict and its details without needing API keys or calendar synchronizations.
+## what-they-built
+pmckelvy has contributed to the development of the OpenHome platform by creating and integrating various Abilities that expand the functionality of AI agents, including unique voice plugins that perform numerous tasks such as controlling devices and running interactive quizzes.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord: pmckelvy
+- GitHub: [pmckelvy GitHub](https://github.com/pmckelvy)
+- X (formerly Twitter): Not available
 
-### connects-to
-[[abilities/Conflict Detector]]
+## connects-to
 [[builders/openhome]]
+[[abilities]]
 
-<!-- synthesized: 2026-05-07T11:31:21Z -->
+<!-- synthesized: 2026-05-08T11:27:37Z -->

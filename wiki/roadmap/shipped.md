@@ -1,25 +1,28 @@
 ```markdown
 ---
-title: roadmap/shipped
-entity_type: roadmap
+title: Roadmap - Shipped Features
+entity_type: roadmap/shipped
 status: live
-last_updated: 2026-05-07
+last_updated: 2026-05-08
 ---
 
-## what-it-is
-The newly introduced Conflict Detector Ability runs in the background during conversations, automatically identifying conflicting plans without needing API keys or calendar synchronization. Additionally, Local Abilities, capable of direct hardware access and executing long-running device tasks, are now live on the OpenHome DevKit.
+### what-it-is
+OpenHome has introduced a new feature called the **Conflict Detector**. This ability operates in the background during conversations, automatically identifying scheduling conflicts mentioned by the user and alerting them without the need for manual input or calendar syncing.
 
-## status
-Shipped
+### status
+shipped
 
-## why-it-matters
-The Conflict Detector Ability enhances user experience by efficiently managing scheduling conflicts through natural conversation, thus improving the overall functionality of AI agents. Local Abilities significantly expand the range of actions AI can perform by integrating more closely with hardware, promoting greater interactivity and practical applications.
+### why-it-matters
+The Conflict Detector is designed to enhance productivity and prevent scheduling issues by providing real-time feedback on conflicts, allowing users to manage their time more effectively without relying on additional input tools such as calendar applications or API integrations.
 
-## eta
-Available now as part of the OpenHome platform.
+### eta
+Shipped as of May 8, 2026.
 
-## connects-to
-[[OpenHome]], [[Abilities]], [[DevKit]], [[Personality]], [[Voice AI]]
+### connects-to
+[[OpenHome]]  
+[[Abilities]]  
+[[Developer Docs]]  
+[[OpenHome Dashboard]]
 
-<!-- synthesized: 2026-05-07T11:31:21Z -->
+<!-- synthesized: 2026-05-08T11:27:37Z -->
 ```
