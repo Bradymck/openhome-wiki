@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: mathieub
+title: builders/mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-05-08
+last_updated: 2026-05-09
 ---
 
-## who-they-are
-mathieub is a community builder associated with the OpenHome project, focusing on developing capabilities for AI-powered voice applications. They participate in creating and promoting the use of conversational AI agents.
+### who-they-are
+Mathieub is a community builder involved with the OpenHome project, which aims to create an open-source Voice AI platform. They are engaged in developing conversational AI agents, known as Personalities, and extending these agents with various Abilities, which are modular voice plugins.
 
-## what-they-built
-mathieub has shipped the "Conflict Detector" ability, which runs in the background during conversations and detects scheduling conflicts by listening for natural mentions of plans. 
+### what-they-built
+Mathieub has contributed by shipping an Ability called "Conflict Detector," which runs quietly in the background and helps in identifying scheduling conflicts. This Ability enhances user interaction by monitoring verbal plans and detecting clashes automatically.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord handle: Unknown
+- GitHub: Unknown
+- X: Unknown
 
 ## connects-to
-[[builders]]
 [[OpenHome]]
-[[abilities]]
+[[Abilities]]
+[[Conflict Detector]]
 
-<!-- synthesized: 2026-05-08T11:27:37Z -->
+<!-- synthesized: 2026-05-09T11:16:10Z -->
 ```

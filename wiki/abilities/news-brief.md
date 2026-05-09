@@ -1,28 +1,26 @@
 ```yaml
-title: Abilities - News Brief
-entity_type: abilities/news-brief
+title: abilities/news-brief
+entity_type: abilities
 status: live
-last_updated: 2026-05-08
+last_updated: 2026-05-09
 ```
 
 ## what-it-does
-The News Brief ability runs in the background while users converse. It automatically detects mentions of plans and identifies any scheduling conflicts, alerting users to potential issues.
+The News Brief Ability allows users to receive updates and information on current events. This ability can pull in news articles and summaries to keep users informed about relevant happenings.
 
 ## how-to-build
-The ability functions without the need for API keys or calendar synchronization. It operates based on natural language input during conversations, utilizing custom Python logic to discern conflicting events.
+Builders can create this ability using OpenHome's API to fetch news data from various sources. The implementation would involve writing custom Python logic to handle the verbs and queries for fetching and delivering news updates through conversational AI agents.
 
 ## category
 utility
 
 ## built-by
-[[abilities/deadman-fm]]
+[[abilities/news-brief]] 
 
 ## status
 live
 
 ## connects-to
-[[abilities/aquaprime]]
-[[abilities/trivia]]
-[[abilities/deadman-fm]]
+[[abilities/aquaprime]], [[abilities/deadman-fm]], [[abilities/trivia]]
 
-<!-- synthesized: 2026-05-08T11:27:37Z -->
+<!-- synthesized: 2026-05-09T11:16:10Z -->

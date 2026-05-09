@@ -1,28 +1,27 @@
-```markdown
----
+```yaml
 title: builders/michaelgold
 entity_type: builder
 status: stub
-last_updated: 2026-05-08
----
+last_updated: 2026-05-09
+```
 
-### who-they-are
-Michael Gold is an active community builder contributing to the OpenHome project, which focuses on creating an open-source voice AI platform for building conversational AI agents. 
+## who-they-are
+Michael Gold is an active community builder involved with the OpenHome project, a platform that enables users to create and customize AI voice agents.
 
-### what-they-built
-Michael has been involved in building the OpenHome platform, specifically working on creating and enhancing abilities that can be integrated into AI Personalities. 
+## what-they-built
+Details on specific abilities or integrations built by Michael are not available in the current sources. He is part of a community focused on developing voice AI applications but has not yet shipped specific contributions mentioned.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
+## connects-to
 [[builders]]
 [[OpenHome]]
-[[ability integrations]]
-<!-- synthesized: 2026-05-08T11:27:37Z -->
-```
+[[Voice AI]]
+
+<!-- synthesized: 2026-05-09T11:16:10Z -->

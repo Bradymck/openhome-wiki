@@ -1,21 +1,21 @@
 ```markdown
 ---
 title: Dead Man's Switch
-entity_type: concepts/dead-mans-switch
-status: stub
-last_updated: 2026-05-08
+entity_type: concepts/
+status: planned
+last_updated: 2026-05-09
 ---
 
-### definition
-A dead man's switch is a safety mechanism that automatically activates a predefined action if the operator becomes incapacitated or fails to respond within a specified timeframe.
+## definition
+A dead man's switch is a safety mechanism that allows for automated controls or alerts to be triggered when a designated user is incapacitated or fails to respond after a certain period. It ensures that processes can continue safely or alert relevant parties if something goes wrong.
 
-### why-it-matters
-In the context of OpenHome, the dead man's switch is crucial for ensuring user safety and reliability in voice AI interactions. It can act as a fail-safe to prevent uncontrolled access or interactions with AI agents when a user is unresponsive or unable to intervene.
+## why-it-matters
+In the context of OpenHome, a dead man's switch is crucial for ensuring user safety and control over home environments. It can prevent accidents or mismanagement of connected smart devices, providing peace of mind for users who rely on automated systems for daily tasks. This is particularly valuable for individuals using AI-powered assistants in potentially sensitive or hazardous situations.
 
-### how-it-manifests
-While specifics on implementation within OpenHome are limited, the concept of a dead man's switch could appear in various features that require user confirmation or engagement. For instance, it could be utilized in scenarios where continuous user attention is necessary, such as in ongoing conversations with AI, ensuring that if the user does not respond for a significant duration, the system triggers a secure state or halts interaction.
+## how-it-manifests
+This concept can be integrated into OpenHome through various Abilities that monitor user interaction with AI agents. For example, a dead man's switch may trigger alerts to emergency contacts or activate safety protocols if the user does not interact with the AI for a specified duration. This can be a part of the overall smart home safety framework, enhancing user experience and ensuring reliability.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ While specifics on implementation within OpenHome are limited, the concept of a 
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-08T11:27:37Z -->
+<!-- synthesized: 2026-05-09T11:16:10Z -->
 ```

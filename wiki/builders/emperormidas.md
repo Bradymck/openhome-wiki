@@ -2,27 +2,28 @@
 title: builders/emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-05-08
+last_updated: 2026-05-09
 ```
 
 ## who-they-are
-EmperorMidas is an active member of the OpenHome community, contributing to the development of voice AI technology. They are focused on creating engaging and user-friendly personal AI agents that utilize voice interaction to enhance daily experiences.
+EmperorMidas is a community builder associated with OpenHome, a platform dedicated to developing AI-powered voice applications. They focus on creating and sharing innovative abilities to enhance the functionality of voice agents built within the OpenHome ecosystem.
 
 ## what-they-built
-Details on specific abilities or integrations built by EmperorMidas are currently not available. More contributions may be expected as they engage with the OpenHome community and develop their projects further.
+Information on specific abilities or integrations shipped by EmperorMidas is currently unavailable.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Discord handle: Not specified  
+GitHub: Not specified  
+X (Twitter): Not specified  
 
 ## connects-to
-[[builders]]  
-[[OpenHome]]  
-[[Personalities]]  
-[[Abilities]]  
+[[builders]]
+[[OpenHome]]
+[[Voice AI]]
+[[Personalities]]
+[[Abilities]]
 
-<!-- synthesized: 2026-05-08T11:27:37Z -->
+<!-- synthesized: 2026-05-09T11:16:10Z -->

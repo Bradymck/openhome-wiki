@@ -1,29 +1,25 @@
-```markdown
----
-title: Illectric Co
+```yaml
+title: illectric-co
 entity_type: builders
 status: stub
-last_updated: 2026-05-08
----
+last_updated: 2026-05-09
+```
 
-### who-they-are
-Illectric Co is a developer engaged in building innovative abilities for voice AI applications, particularly utilizing the OpenHome platform.
+## who-they-are
+Illectric-co is believed to be involved in developing AI voice technology, specifically focusing on enhancing communication through innovative applications.
 
-### what-they-built
-Details about specific abilities or integrations shipped by Illectric Co are currently not available. 
+## what-they-built
+They are currently shipping a new ability named "Conflict Detector," which monitors conversational interactions to identify potential scheduling conflicts.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
-[[builders/openhome]]
-[[abilities/voice_ai]]
-[[abilities/AI_agents]]
+## connects-to
+[[abilities]]
 
-<!-- synthesized: 2026-05-08T11:27:37Z -->
-```
+<!-- synthesized: 2026-05-09T11:16:10Z -->

@@ -1,28 +1,25 @@
-```markdown
----
-title: OpenHome Dashboard
-entity_type: platform/dashboard
+```yaml
+title: platform/dashboard
+entity_type: platform
 status: live
-last_updated: 2026-05-08
----
+last_updated: 2026-05-09
+```
 
-### what-it-is
-The OpenHome Dashboard is a user interface designed for developers and users to manage and create voice AI agents called Personalities, utilizing the OpenHome framework.
+## what-it-is
+The OpenHome Dashboard is an online interface that allows users to create, manage, and configure their AI agents, known as Personalities. It serves as the central hub for building and extending these agents with various modular voice plugins called Abilities.
 
-### how-it-works
-The dashboard provides tools for users to set up their AI agents by configuring various settings such as the agent's name, voice, and abilities. Users can create or modify Personalities, which are the core voice AI agents, and extend their functionality by integrating Abilities. This allows for the customization of interactions, enabling the agents to perform tasks through voice commands. The dashboard also enables access to community-built Abilities, facilitating the exploration and adoption of new skills.
+## how-it-works
+Users can access the OpenHome Dashboard to set up their AI agents by defining a name, voice, and conversational style. Through the dashboard, users can add and manage Abilities that enhance the functionality of their Personalities, allowing for tasks such as playing music, controlling smart devices, and engaging in interactive quizzes. The dashboard is integrated with developer documentation and tools, facilitating a user-friendly experience for building and customizing voice AI applications.
 
-### current-status
+## current-status
 live
 
-### connects-to
+## connects-to
 [[platform/openhome]]
-[[platform/speakers]]
 [[platform/abilities]]
 [[platform/voice-ai]]
 [[platform/local-link]]
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-08T11:27:37Z -->
-```
+<!-- synthesized: 2026-05-09T11:16:10Z -->

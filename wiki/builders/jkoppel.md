@@ -1,25 +1,30 @@
-```yaml
-title: builders/jkoppel
-entity_type: builder
-status: live
-last_updated: 2026-05-08
-```
+```markdown
+---
+title: Builders/JKoppel
+entity_type: builders
+status: stub
+last_updated: 2026-05-09
+---
 
-## who-they-are
-JKoppel is a member of the OpenHome community, actively engaged in building conversational AI agents known as Personalities. They are involved in the development of abilities and integrations within the OpenHome platform, which is aimed at enhancing user interaction with technology through voice AI.
+### who-they-are
+JKoppel is a member of the OpenHome community, engaged in developing skills for voice AI applications. Their work revolves around integrating and extending capabilities within the OpenHome platform.
 
-## what-they-built
-JKoppel has shipped the ability Conflict Detector, which runs in the background and detects potential scheduling conflicts based on user conversations. This ability does not require API keys or calendar synchronization and is designed to seamlessly integrate into everyday discussions.
+### what-they-built
+Details about specific abilities or integrations shipped by JKoppel have not been disclosed in the available information.
 
-## grant-status
-none
+### grant-status
+None
 
-## how-to-reach
-- Discord: Not specified
+### how-to-reach
+- Discord handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-## connects-to
-[[abilities/conflict-detector]]
+### connects-to
+[[builders]]
+[[OpenHome]]
+[[Voice AI]]
+[[Abilities]]
 
-<!-- synthesized: 2026-05-08T11:27:37Z -->
+<!-- synthesized: 2026-05-09T11:16:10Z -->
+```

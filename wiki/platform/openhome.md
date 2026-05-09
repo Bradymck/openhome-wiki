@@ -1,18 +1,19 @@
-```yaml
-title: "OpenHome"
-entity_type: "platform/openhome"
-status: "beta"
-last_updated: "2026-05-08"
-```
+```markdown
+---
+title: OpenHome
+entity_type: platform
+status: live
+last_updated: 2026-05-09
+---
 
 ## what-it-is
-OpenHome is an open-source Voice AI platform that enables developers to create conversational AI agents known as Personalities. These Personalities can be enhanced with modular plugins called Abilities, which add new skills and functionalities.
+OpenHome is an open-source Voice AI platform designed for creating conversational AI agents known as Personalities, which can be augmented with modular voice plugins called Abilities.
 
 ## how-it-works
-OpenHome allows users to build their voice AI agents by configuring Personalities that have distinct voices, personas, and conversation styles. Abilities are modular components that add specific functions, such as calling APIs, playing music, or controlling smart home devices. These Abilities are activated through hotwords during voice interactions, utilizing custom Python logic to perform tasks. The platform supports a community-driven environment where users can explore existing Abilities or develop and share their own through a user-friendly dashboard and GitHub repository.
+OpenHome enables developers to build and customize AI agents by defining their attributes—such as name, voice, and conversation style—through the OpenHome Dashboard. Users can enhance these agents with Abilities that can perform various tasks, from controlling smart home devices to playing music. These Abilities operate by recognizing specific trigger words during voice interactions and executing custom Python logic as needed. The platform also promotes community collaboration through the sharing and forking of Abilities on GitHub.
 
 ## current-status
-beta
+live
 
 ## connects-to
 [[platform/speakers]]
@@ -23,4 +24,5 @@ beta
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-08T11:27:37Z -->
+<!-- synthesized: 2026-05-09T11:16:10Z -->
+```

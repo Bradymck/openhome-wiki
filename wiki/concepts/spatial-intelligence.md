@@ -1,27 +1,23 @@
-```markdown
----
+```yaml
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-05-08
----
+last_updated: 2026-05-09
+```
 
 ## definition
-Spatial intelligence refers to the capability to visualize, manipulate, and understand spatial relationships between objects in the environment. It involves the ability to think in three dimensions and is crucial for understanding how agents operate within physical space.
+Spatial intelligence refers to the ability to visualize, manipulate, and interpret spatial relationships within an environment. It encompasses skills such as navigating physical spaces, recognizing patterns, and understanding the relationships between objects and their dimensions.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is vital for enhancing interactions between users and their AI agents. It allows these agents to comprehend and navigate their physical environments, thus improving user experience through more intuitive and effective responses.
+In the context of OpenHome, spatial intelligence enhances interaction with AI agents, making them more effective when interpreting user commands related to physical environments. This can lead to improved user experiences through intuitive navigation and interaction with smart home devices.
 
 ## how-it-manifests
-While specific manifestations of spatial intelligence within the OpenHome platform are not detailed in the current documentation, it can be inferred that features enabling agents to recognize and respond to user spatial contexts might be developed as part of abilities that enhance voice interaction with the surrounding environment.
+Currently, specific implementations of spatial intelligence within the OpenHome platform are not detailed. However, it could manifest in the design and functionality of AI agents capable of understanding and engaging with their physical surroundings, potentially through features like spatial awareness in smart home management and personalized user interactions.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/grant-program]]
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/abilities-as-apps]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-05-08T11:27:37Z -->
-```
+<!-- synthesized: 2026-05-09T11:16:10Z -->

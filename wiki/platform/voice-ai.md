@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: platform/voice-ai
 entity_type: platform
 status: live
-last_updated: 2026-05-08
-```
+last_updated: 2026-05-09
+---
 
-# What it is
-OpenHome is an open-source Voice AI platform designed to facilitate the development of conversational AI agents, referred to as Personalities. It allows for the extension of these agents with modular voice plugins called Abilities, which add various skills and functionalities.
+## what-it-is
+OpenHome is an open-source Voice AI platform designed for building conversational AI agents called Personalities. It allows users to extend these agents with modular plugins known as Abilities, which enhance the agents' skills and functionalities.
 
-# How it works
-The platform enables users to create Personalities by setting up AI agents with distinct voices and conversation styles. Users can enrich these agents by integrating Abilities that enable tasks such as calling APIs, playing music, running quizzes, and controlling smart home devices. These Abilities are activated through specific hotwords during voice interactions, leveraging a custom Python logic to execute commands seamlessly. Developers can get started by consulting the provided documentation, creating a Personality via the OpenHome Dashboard, and exploring community-generated Abilities on GitHub.
+## how-it-works
+OpenHome operates by enabling developers to create Personalities that embody specific voices and personas, and can engage in interactive conversations. Each Personality can be supplemented with various Abilities that are triggered during voice interactions. These Abilities can execute custom actions, such as calling APIs, playing music, or controlling smart devices, and are activated by specific hotwords or phrases. The platform consists of a development framework, a dashboard for managing agents, and community resources for sharing and exploring Abilities.
 
-# Current status
+## current-status
 live
 
-## Connects to
+## connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -23,4 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-08T11:27:37Z -->
+<!-- synthesized: 2026-05-09T11:16:10Z -->
+```

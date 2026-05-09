@@ -1,28 +1,29 @@
 ```markdown
 ---
-title: builders/jagatfx
-entity_type: builder
-status: stub
-last_updated: 2026-05-08
+title: jagatfx
+entity_type: builders
+status: live
+last_updated: 2026-05-09
 ---
 
-## who-they-are
-Jagatfx is part of an active community focused on building capabilities in the OpenHome platform, which is an open-source Voice AI initiative designed to create conversational AI agents and extensible voice applications.
+### who-they-are
+Jagatfx is part of the OpenHome community, which focuses on building innovative voice AI applications. They are contributing to the development of smart speaker technology and engaging with the community to enhance the OpenHome platform.
 
-## what-they-built
-Details regarding specific abilities or integrations shipped by Jagatfx are not currently available.
+### what-they-built
+Jagatfx has developed a new ability called **Conflict Detector**, which runs silently in the background while interacting with users. This ability automatically detects and flags any scheduling clashes mentioned in conversations.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
-- GitHub: Not specified
+- GitHub: [GitHub Repository](https://github.com/openhome-dev/abilities)
 - X (formerly Twitter): Not specified
 
-## connects-to
-[[builders/openhome]]
-[[builders/voice-ai]]
-[[builders/abilities]]
-<!-- synthesized: 2026-05-08T11:27:37Z -->
+### connects-to
+[[builders]]
+[[OpenHome]]
+[[abilities/Conflict Detector]]
+
+<!-- synthesized: 2026-05-09T11:16:10Z -->
 ```

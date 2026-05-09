@@ -1,24 +1,23 @@
 ```yaml
 title: guides/samuel35
 entity_type: Community Guide
-status: beta
-last_updated: 2026-05-08
+status: stub
+last_updated: 2026-05-09
 ```
 
 ## who-they-are
-Samuel35 is a Community Guide specializing in the OpenHome platform. They have a strong background in developing voice AI agents and integrating various abilities into these systems.
+Samuel35 is identified as a community guide within the OpenHome platform. Details about their background and expertise are currently not available.
 
 ## what-they-help-with
-Samuel35 can assist users with building conversational AI agents known as Personalities on the OpenHome platform. Their expertise includes creating and implementing Abilities, which are modular voice plugins that enhance the functionality of AI agents by adding new skills, such as playing music or controlling smart home devices.
+Samuel35 assists users in navigating the OpenHome platform, leveraging their expertise in building conversational AI agents known as Personalities and extending them with modular voice plugins called Abilities. However, specific details regarding their specialty in terms of hardware, APIs, or particular abilities are not provided.
 
 ## how-to-reach
-You can reach Samuel35 on Discord for assistance or inquiries related to OpenHome and voice AI development.
+Samuel35 can be reached through their Discord handle, although the specific handle is not mentioned.
 
 ## connects-to
-[[OpenHome]]
-[[Personalities]]
-[[Abilities]]
-[[Voice AI]]
-[[Developer Docs]]
+- [[Community Guides]]
+- [[OpenHome]]
+- [[Abilities]]
+- [[Personalities]]
 
-<!-- synthesized: 2026-05-08T11:27:37Z -->
+<!-- synthesized: 2026-05-09T11:16:10Z -->
