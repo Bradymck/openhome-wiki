@@ -1,25 +1,28 @@
-```yaml
-title: platform/dashboard
-entity_type: platform
+```markdown
+---
+title: Platform Dashboard
+entity_type: platform/dashboard
 status: live
-last_updated: 2026-05-09
-```
+last_updated: 2026-05-10
+---
 
-## what-it-is
-The OpenHome Dashboard is an online interface that allows users to create, manage, and configure their AI agents, known as Personalities. It serves as the central hub for building and extending these agents with various modular voice plugins called Abilities.
+### what-it-is
+The OpenHome Dashboard is a user interface that facilitates the creation and management of AI agents, known as Personalities, within the OpenHome platform. It serves as a central hub for developers to configure their voice AI agents and enhance them with various plugins called Abilities.
 
-## how-it-works
-Users can access the OpenHome Dashboard to set up their AI agents by defining a name, voice, and conversational style. Through the dashboard, users can add and manage Abilities that enhance the functionality of their Personalities, allowing for tasks such as playing music, controlling smart devices, and engaging in interactive quizzes. The dashboard is integrated with developer documentation and tools, facilitating a user-friendly experience for building and customizing voice AI applications.
+### how-it-works
+Users can access the OpenHome Dashboard to set up and customize their AI agents by specifying their names, voices, and conversation styles. The dashboard also allows for the integration of Abilities, which are modular voice plugins that extend the functionality of Personalities by adding new skills, such as controlling smart devices, playing music, or executing APIs. This environment supports collaborative development, enabling users to browse community-contributed Abilities and fork existing projects.
 
-## current-status
+### current-status
 live
 
-## connects-to
-[[platform/openhome]]
-[[platform/abilities]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+### connects-to
+- [[platform/openhome]]
+- [[platform/speakers]]
+- [[platform/abilities]]
+- [[platform/voice-ai]]
+- [[platform/local-link]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-09T11:16:10Z -->
+<!-- synthesized: 2026-05-10T11:17:47Z -->
+```

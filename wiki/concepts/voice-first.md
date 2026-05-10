@@ -3,17 +3,17 @@
 title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-05-09
+last_updated: 2026-05-10
 ---
 
 ## definition
-Voice-first refers to the design philosophy and approach of prioritizing voice interactions as the primary means of engaging with technology. In the context of OpenHome, it emphasizes creating interfaces that allow users to control devices and access information using natural language through voice commands.
+Voice-first refers to a design approach in technology where voice interaction is prioritized as the primary mode of communication with devices and applications. In this paradigm, users engage with technology primarily through spoken commands and questions rather than traditional interfaces such as keyboards or touch screens.
 
 ## why-it-matters
-Voice-first technology is integral to OpenHome's mission of making AI-powered applications accessible to everyone. By focusing on voice interactions, OpenHome aims to streamline communication between users and their devices, offering an immersive and intuitive experience that enhances everyday life.
+Voice-first technology is central to OpenHome’s mission to revolutionize how users interact with their devices. By emphasizing voice interactions, OpenHome aims to make technology more accessible, intuitive, and user-friendly, particularly for tasks that benefit from hands-free operation or that involve multitasking.
 
 ## how-it-manifests
-This concept is manifested in OpenHome through the creation of Personalities, which are AI agents designed to engage in conversational interactions. Users can interact with these Personalities using voice commands, enabling them to perform various tasks such as playing music, controlling smart home devices, and retrieving information. Additionally, the modular Abilities can be added to Personalities to extend their functionality, all initiated through voice.
+In the OpenHome platform, voice-first principles are integrated through the development of Personalities, which are AI agents that facilitate conversation with users. These agents utilize various Abilities that respond to vocal commands, allowing users to control smart devices, access information, or perform tasks through natural language dialogue. The platform supports hotwords that trigger these interactions, enhancing the fluidity and usability of voice interactions.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ This concept is manifested in OpenHome through the creation of Personalities, wh
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-09T11:16:10Z -->
+<!-- synthesized: 2026-05-10T11:17:47Z -->
 ```

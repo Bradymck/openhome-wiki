@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: Roadmap
+title: Roadmap and Planned Features
 entity_type: roadmap/planned
-status: beta
-last_updated: 2026-05-09
+status: live
+last_updated: 2026-05-10
 ---
 
 ### what-it-is
-OpenHome is planning to roll out physical V0.1 development kits for building AI voice agents. These devkits are smart speakers supporting voice AI capabilities and integrating with the OpenHome platform for creating conversational agents known as Personalities.
+OpenHome is a voice AI platform that allows users to build AI-powered conversational agents called Personalities. As part of the ongoing development, OpenHome has introduced physical V0.1 devkits that users can acquire to build and prototype their own agents and abilities.
 
 ### status
 In-progress
 
 ### why-it-matters
-This initiative is significant as it supports developers in creating and customizing AI agents. It aims to empower users to build conversational AI applications, enhancing the accessibility and functionality of voice-interactive technology in everyday life.
+This initiative aims to make conversational AI accessible, promoting user innovation by allowing developers and contributors to create their unique voice applications. The distribution of devkits is designed to enhance community engagement and gather feedback for future improvements to the OpenHome platform.
 
 ### eta
-The shipping of devkits is happening globally in small batches, with no specific completion date provided yet.
+Global shipping is being done in small batches, with specific dates to be announced as participation increases.
 
 ### connects-to
 [[OpenHome]]
-[[Voice_AI]]
+[[Voice AI]]
 [[Abilities]]
 [[Personalities]]
 
-<!-- synthesized: 2026-05-09T11:16:10Z -->
+<!-- synthesized: 2026-05-10T11:17:47Z -->
 ```

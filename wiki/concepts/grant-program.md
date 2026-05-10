@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/
+entity_type: concepts/grant-program
 status: live
-last_updated: 2026-05-09
+last_updated: 2026-05-10
 ---
 
 ## definition
-The Grant Program is an initiative by OpenHome that provides resources, funding, and support to developers and contributors who build innovative projects using the OpenHome platform. This program encourages community engagement and creativity among developers.
+The Grant Program is an initiative within the OpenHome community aimed at supporting developers and creators in building innovative projects using the OpenHome platform. It provides resources, funding, and promotional support for outstanding contributions.
 
 ## why-it-matters
-The Grant Program fosters innovation by incentivizing developers to create and enhance applications within the OpenHome ecosystem. By supporting top contributions and project feedback, it enhances the quality and variety of available abilities and functionalities on the platform.
+This program is crucial for fostering creativity and collaboration within the OpenHome ecosystem. By incentivizing and supporting developers, it enhances the range of applications and functionalities available on the platform, thus accelerating innovation and user engagement.
 
 ## how-it-manifests
-The program is implemented through granting physical development kits (DevKits) to selected contributors who actively participate in prototyping abilities or providing valuable feedback. Recipients of these grants receive additional budget support and promotion for their projects, further encouraging development and experimentation.
+The Grant Program is manifested through the awarding of physical development kits (devkits) to developers for their contributions and feedback. Recipients of these grants have the opportunity to showcase their projects, receive additional funding, and gain support for their development efforts. This support not only aids in project development but also builds a stronger community around the OpenHome platform.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ The program is implemented through granting physical development kits (DevKits) 
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-05-09T11:16:10Z -->
+<!-- synthesized: 2026-05-10T11:17:47Z -->
 ```

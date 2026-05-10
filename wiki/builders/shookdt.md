@@ -1,26 +1,27 @@
-```yaml
+```markdown
+---
 title: builders/shookdt
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-05-09
-```
+last_updated: 2026-05-10
+---
 
-## who-they-are
-Shookdt is a member of the OpenHome community, an open-source Voice AI platform. They are involved in building various conversational AI agents known as Personalities and extending them with Abilities, which are modular voice plugins that add new skills to the agents.
+### who-they-are
+Shookdt is an active participant in the OpenHome community, focused on contributing to the development of voice AI agents and associated abilities within the OpenHome framework.
 
-## what-they-built
-Shookdt has shipped new abilities, including a Conflict Detector that runs in the background during conversations to automatically pick up and alert users about potential scheduling conflicts.
+### what-they-built
+Currently, Shookdt has demonstrated engagement in the community by contributing to the discussion on abilities but specific shipped abilities or integrations have not been detailed in the available information.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-## connects-to
-[[Abilites]]
-[[OpenHome]]
-
-<!-- synthesized: 2026-05-09T11:16:10Z -->
+### connects-to
+[[builders/openhome]]
+[[abilities]]
+<!-- synthesized: 2026-05-10T11:17:47Z -->
+```

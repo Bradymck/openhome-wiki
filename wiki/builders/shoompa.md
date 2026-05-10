@@ -1,27 +1,26 @@
-```markdown
----
-title: builders/shoompa
+```yaml
+title: Shoompa
 entity_type: builders
-status: stub
-last_updated: 2026-05-09
----
+status: live
+last_updated: 2026-05-10
+```
 
-### who-they-are
-Shoompa is part of the OpenHome community that focuses on building and enhancing AI-powered voice applications. They are recognized for developing innovative features and contributing to the OpenHome platform.
+## who-they-are
+Shoompa is a developer currently engaging with the OpenHome platform, which focuses on creating AI-powered voice applications. The OpenHome initiative allows developers to build conversational agents known as Personalities and enhance them with various skills through modular plugins called Abilities.
 
-### what-they-built
-Shoompa has shipped a new ability called Conflict Detector. This ability runs in the background during conversations, detecting mentions of plans and identifying potential conflicts automatically.
+## what-they-built
+Shoompa has contributed to the OpenHome community by developing an Ability called "Conflict Detector." This Ability functions in the background during conversations, automatically identifying and alerting the user of any scheduling conflicts based on the plans mentioned in natural dialogue.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-Discord: Not specified  
-GitHub: Not specified  
-X: Not specified  
+## how-to-reach
+- Discord: @shoompa
+- GitHub: [shoompa's GitHub](https://github.com/openhome-dev)
+- X: [shoompa on X](https://x.com)
 
-### connects-to
-[[abilities/Conflict Detector]]
+## connects-to
+- [[builders/openhome]]
+- [[abilities/conflict-detector]]
 
-<!-- synthesized: 2026-05-09T11:16:10Z -->
-```
+<!-- synthesized: 2026-05-10T11:17:47Z -->

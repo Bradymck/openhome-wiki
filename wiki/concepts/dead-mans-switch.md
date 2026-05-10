@@ -1,27 +1,23 @@
-```markdown
----
+```yaml
 title: Dead Man's Switch
-entity_type: concepts/
-status: planned
-last_updated: 2026-05-09
----
+entity_type: concepts
+status: stub
+last_updated: 2026-05-10
+```
 
 ## definition
-A dead man's switch is a safety mechanism that allows for automated controls or alerts to be triggered when a designated user is incapacitated or fails to respond after a certain period. It ensures that processes can continue safely or alert relevant parties if something goes wrong.
+A dead man's switch is a safety mechanism that automatically triggers a specific action if the user becomes incapacitated or fails to perform a required task within a defined timeframe. This concept ensures that certain processes or systems remain functional or safe even when the operator is unavailable.
 
 ## why-it-matters
-In the context of OpenHome, a dead man's switch is crucial for ensuring user safety and control over home environments. It can prevent accidents or mismanagement of connected smart devices, providing peace of mind for users who rely on automated systems for daily tasks. This is particularly valuable for individuals using AI-powered assistants in potentially sensitive or hazardous situations.
+In the context of OpenHome, dead man's switches enhance user safety and system reliability. They can ensure that agents and devices continue to operate safely and efficiently, providing users with peace of mind, particularly in autonomous or semi-autonomous applications.
 
 ## how-it-manifests
-This concept can be integrated into OpenHome through various Abilities that monitor user interaction with AI agents. For example, a dead man's switch may trigger alerts to emergency contacts or activate safety protocols if the user does not interact with the AI for a specified duration. This can be a part of the overall smart home safety framework, enhancing user experience and ensuring reliability.
+The dead man's switch can be integrated into OpenHome's AI agents and smart home systems, allowing functionalities such as automatic shut-off or alerts to designated contacts if the primary user is unresponsive for a certain period. This feature can be particularly useful for applications involving home automation, security, and elder care.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
-[[concepts/web3-native]]
+[[concepts/abilities-as-apps]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-09T11:16:10Z -->
-```
+<!-- synthesized: 2026-05-10T11:17:47Z -->

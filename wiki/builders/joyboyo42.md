@@ -1,26 +1,25 @@
 ```yaml
-title: joyboyo42
-entity_type: builders
-status: stub
-last_updated: 2026-05-09
+title: builders/joyboyo42
+entity_type: builder
+status: live
+last_updated: 2026-05-10
 ```
 
 ## who-they-are
-Joyboyo42 is an emerging developer within the OpenHome community. They are focused on creating innovative solutions using OpenHome's voice AI platform, contributing by shipping new abilities for conversational AI agents.
+Joyboyo42 is an active community builder associated with OpenHome. They are involved in developing innovative AI-powered voice applications and plugins, with a particular focus on creating modular voice AI agents called Personalities, which can be enhanced with various Abilities.
 
 ## what-they-built
-Joyboyo42 has shipped a notable ability called **Conflict Detector**, which runs in the background during conversations and detects potential scheduling conflicts by picking up on keywords mentioned by the user.
+Joyboyo42 has contributed to the OpenHome ecosystem by shipping a new ability called "Conflict Detector." This ability functions in the background during conversations to automatically detect any scheduling conflicts mentioned in user discussions.
 
 ## grant-status
 none
 
 ## how-to-reach
-- **Discord:** Not specified
-- **GitHub:** Not specified
-- **X:** Not specified
+- Discord handle: joyboyo42
+- GitHub: [Joyboyo42's GitHub](https://github.com/joyboyo42)
+- X: [@joyboyo42](https://x.com/joyboyo42)
 
 ## connects-to
-[[builders]]
-[[abilities]]
+[[abilities/conflict-detector]]
 
-<!-- synthesized: 2026-05-09T11:16:10Z -->
+<!-- synthesized: 2026-05-10T11:17:47Z -->
