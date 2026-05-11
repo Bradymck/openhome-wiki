@@ -1,30 +1,27 @@
-```markdown
----
+```yaml
 title: builders/pl-geek
-entity_type: builder
-status: live
-last_updated: 2026-05-10
----
+entity_type: builders
+status: stub
+last_updated: 2026-05-11
+```
 
 ## who-they-are
-Pl-geek is an active community builder associated with the OpenHome project. They are focused on developing conversational AI agents, known as Personalities, and extending their capabilities with modular voice plugins recognized as Abilities. Their commitment is to enhance user interaction with technology through voice-first applications.
+pl-geek is an individual involved in the OpenHome community, contributing to the development of conversational AI agents and voice applications. They are part of an active group of developers creating innovative solutions within the OpenHome platform.
 
 ## what-they-built
-Pl-geek has contributed to the OpenHome ecosystem by developing an Ability called the **Conflict Detector**, which listens for user conversations and identifies when plans clash. This capability improves user experience by enabling seamless dialogue management and conflict awareness.
+pl-geek has participated in the development and enhancement of various Abilities on the OpenHome platform, contributing ideas and prototypes to extend the functionalities of the voice AI applications.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-- [[builders]]
-- [[OpenHome]]
-- [[Abilities]]
-- [[Personalities]]
+[[OpenHome]]
+[[Personalities]]
+[[Abilities]]
 
-<!-- synthesized: 2026-05-10T11:17:47Z -->
-```
+<!-- synthesized: 2026-05-11T12:01:10Z -->

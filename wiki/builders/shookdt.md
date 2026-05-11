@@ -1,27 +1,28 @@
-```markdown
----
+```yaml
 title: builders/shookdt
 entity_type: builder
 status: stub
-last_updated: 2026-05-10
----
+last_updated: 2026-05-11
+```
 
 ### who-they-are
-Shookdt is an active participant in the OpenHome community, focused on contributing to the development of voice AI agents and associated abilities within the OpenHome framework.
+shookdt is a member of the OpenHome community building applications for voice AI. They are involved in creating and enhancing AI-powered voice applications that enable conversational interactions.
 
 ### what-they-built
-Currently, Shookdt has demonstrated engagement in the community by contributing to the discussion on abilities but specific shipped abilities or integrations have not been detailed in the available information.
+Details about specific abilities or integrations shipped by shookdt are currently unavailable as no concrete contributions have been documented in the provided sources.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Discord: Not available  
+GitHub: Not available  
+X: Not available  
 
 ### connects-to
-[[builders/openhome]]
-[[abilities]]
-<!-- synthesized: 2026-05-10T11:17:47Z -->
-```
+[[builders]]  
+[[OpenHome]]  
+[[Abilities]]  
+[[Voice AI]]  
+
+<!-- synthesized: 2026-05-11T12:01:10Z -->

@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: concepts/local-first
+title: Concepts: Local-First
 entity_type: concepts
 status: stub
-last_updated: 2026-05-10
+last_updated: 2026-05-11
 ---
 
 ### definition
-Local-first refers to a design philosophy that emphasizes the importance of local data processing and storage, ensuring that applications function effectively even without a constant internet connection.
+Local-first is a software design philosophy that prioritizes local operations on devices over reliance on cloud services, ensuring that applications remain functional even in offline conditions or with intermittent connectivity.
 
 ### why-it-matters
-In the context of OpenHome, local-first is crucial for providing users with reliable and responsive voice AI experiences. By prioritizing local capabilities, OpenHome ensures that voice interactions can occur seamlessly, without delays caused by network latency or connectivity issues.
+In the context of OpenHome, local-first principles allow users to interact with their AI agents seamlessly, without being dependent on constant internet access. This enhances user experience, particularly in smart home environments where connectivity can be unreliable.
 
 ### how-it-manifests
-This concept is integrated into the OpenHome platform through its voice AI agents and the development of Abilities. Local computing allows these agents to execute commands and respond to user input instantly, providing a smooth and efficient user experience.
+Local-first capabilities are integrated into OpenHome's architecture, enabling its smart speakers to function autonomously. Users can interact with their Personalities, manage devices, and execute commands directly through the local device interface, thus maintaining responsiveness and reducing latency.
 
 ### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/web3-native]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-10T11:17:47Z -->
+<!-- synthesized: 2026-05-11T12:01:10Z -->
 ```

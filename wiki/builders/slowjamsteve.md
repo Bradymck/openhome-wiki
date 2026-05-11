@@ -1,28 +1,30 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builder
+entity_type: community builder
 status: stub
-last_updated: 2026-05-10
+last_updated: 2026-05-11
 ---
 
-### who-they-are
-Slowjamsteve is a community builder who is actively contributing to the OpenHome platform, which focuses on developing AI-powered voice applications. The community's mission is to create immersive and intuitive voice interactions that enhance everyday life. 
+## who-they-are
+Slowjamsteve is an active participant in the OpenHome community, focused on building and contributing to the OpenHome open-source Voice AI platform. Their work involves the creation of conversational AI agents and the development of modular voice plugins known as Abilities.
 
-### what-they-built
-Details on specific abilities or integrations built by Slowjamsteve are currently unavailable. 
+## what-they-built
+Details regarding specific abilities or integrations built by Slowjamsteve have not been provided in the available data.
 
-### grant-status
-stub
+## grant-status
+none
 
-### how-to-reach
-Currently, there are no specific contact details available for Slowjamsteve.
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
+[[builders]]
 [[OpenHome]]
-[[Voice AI]]
-[[Personalities]]
+[[voices AI]]
 [[Abilities]]
 
-<!-- synthesized: 2026-05-10T11:17:47Z -->
+<!-- synthesized: 2026-05-11T12:01:10Z -->
 ```

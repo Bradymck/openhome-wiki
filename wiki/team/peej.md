@@ -1,25 +1,21 @@
-```markdown
----
+```yaml
 title: Peej
 entity_type: team
-status: beta
-last_updated: 2026-05-10
----
-
-### who-they-are
-Peej is a core team member at OpenHome, serving as a Server Admin. They come with a strong technical background in open-source software development and voice AI technologies.
-
-### what-they-own
-Peej leads the server infrastructure and operations of the OpenHome platform, ensuring that AI agents run smoothly and efficiently.
-
-### how-to-reach
-- Discord handle: @peej_openhome
-- X/Twitter: [@peej_openhome](https://twitter.com/peej_openhome) (if applicable)
-
-### connects-to
-- [[team/jesse]]
-- [[team/shannon]]
-- [[platform/openhome]]
-
-<!-- synthesized: 2026-05-10T11:17:47Z -->
+status: stub
+last_updated: 2026-05-11
 ```
+
+## who-they-are
+Peej is a member of the OpenHome team who holds either an Admin or Server Admin role. Details about their specific background are not available.
+
+## what-they-own
+Peej is responsible for overseeing certain areas of the OpenHome platform. However, specific details regarding their ownership and areas of leadership have not been provided in the available resources.
+
+## how-to-reach
+Contact information for Peej is currently unspecified; Discord handle or other preferred contact methods have not been mentioned.
+
+## connects-to
+[[team/jesse]]
+[[team/shannon]]
+
+<!-- synthesized: 2026-05-11T12:01:10Z -->

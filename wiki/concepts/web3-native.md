@@ -1,25 +1,23 @@
 ```yaml
-title: Web3 Native
-entity_type: concepts/web3-native
+title: Web3-Native
+entity_type: concepts/
 status: stub
-last_updated: 2026-05-10
+last_updated: 2026-05-11
 ```
 
-## definition
-Web3 Native refers to technologies, applications, and platforms built on decentralized protocols, primarily focused on enabling peer-to-peer interactions without intermediaries. This paradigm aims to give users greater ownership and control over their data and digital assets.
+### definition
+Web3-native refers to applications and systems built to operate within the decentralized web, leveraging blockchain technology and distributed networks to enhance user autonomy, security, and privacy.
 
-## why-it-matters
-In the context of OpenHome, adopting a Web3 Native approach aligns with the platform's mission to empower users by enhancing privacy, ownership, and accessibility. It ensures that users can interact with AI applications and services in a decentralized manner, maintaining autonomy over their personal data and preferences.
+### why-it-matters
+In the context of OpenHome, embracing a web3-native approach empowers users by providing them with more control over their data and interactions. It aligns with OpenHome's mission to create accessible, intuitive voice-first interfaces while embracing the principles of decentralization.
 
-## how-it-manifests
-The Web3 Native concept appears in OpenHome through its focus on open-source development and community-driven contributions. Utilizing decentralized networks and protocols, OpenHome allows users to build and share AI agents (Personalities) and modular plugins (Abilities) that enhance personalization and functionality while ensuring user data is kept secure and private.
+### how-it-manifests
+Web3-native concepts may manifest in OpenHome through mechanisms such as decentralized identity solutions, enabling users to authenticate without relying on traditional centralized servers. Additionally, integration of blockchain technology could provide transparent and secure transactions for capabilities within the OpenHome ecosystem.
 
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-05-10T11:17:47Z -->
+<!-- synthesized: 2026-05-11T12:01:10Z -->

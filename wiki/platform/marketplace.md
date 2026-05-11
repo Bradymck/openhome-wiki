@@ -1,27 +1,23 @@
-```markdown
----
+```yaml
 title: platform/marketplace
 entity_type: platform/marketplace
-status: planned
-last_updated: 2026-05-10
----
+status: stub
+last_updated: 2026-05-11
+```
 
 ## what-it-is
-The OpenHome marketplace is a future component of the OpenHome ecosystem that will serve as a hub for users to discover, share, and deploy conversational AI agents and their associated Abilities.
+OpenHome Marketplace is a digital platform that allows users to discover, share, and purchase various capabilities and interactions for OpenHome's voice AI agents. It serves as a central hub where developers can showcase their plugins, referred to as Abilities, and where users can access and integrate these extensions to enhance their AI agents.
 
 ## how-it-works
-While specific technical details about the marketplace are still under development, it is expected to facilitate the exchange of user-generated Abilities, enabling developers to create and distribute voice-driven applications. Users will be able to browse a collection of available Abilities, provide feedback, and access resources to enhance their own implementations of OpenHome agents.
+The Marketplace operates by facilitating the submission and retrieval of Abilities developed by users of the OpenHome platform. Developers can upload their Abilities, which are modular plugins that add specific functionalities to a user's AI agent, called Personalities. Users can browse through the listed Abilities, read descriptions, and select the ones they want to integrate into their own Personalities. This model not only encourages collaboration and innovation among developers but also enriches the end-user experience by providing a variety of tools to customize and extend their voice AI agents.
 
 ## current-status
-planned
+stub
 
 ## connects-to
 [[platform/openhome]]
 [[platform/abilities]]
 [[platform/dashboard]]
 [[platform/voice-ai]]
-[[platform/local-link]]
 [[platform/live-editor]]
-
-<!-- synthesized: 2026-05-10T11:17:47Z -->
-```
+<!-- synthesized: 2026-05-11T12:01:10Z -->

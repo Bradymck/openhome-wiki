@@ -1,28 +1,26 @@
-```markdown
----
-title: platform/speakers
+```yaml
+title: Speakers
 entity_type: platform
 status: beta
-last_updated: 2026-05-10
----
+last_updated: 2026-05-11
+```
 
 ## what-it-is
-OpenHome speakers are cutting-edge smart devices designed for seamless integration with the OpenHome platform, enabling voice-based interactions and a range of functionalities through AI agents known as Personalities.
+OpenHome speakers are cutting-edge smart speakers designed to integrate with the OpenHome platform, providing a local, voice-responsive interface for users to interact with AI agents and smart home systems.
 
 ## how-it-works
-OpenHome speakers operate as fully local smart devices that support a variety of capabilities, including music playback, smart home control, and interaction with conversational AI. Users can create and customize their own AI agents, referred to as Personalities, which can be extended with modular voice plugins called Abilities. These Abilities enhance speaker functionality by allowing them to perform tasks such as calling APIs, managing music, or controlling smart home devices, all triggered by specific hotwords during voice conversations.
+OpenHome speakers utilize modular voice plugins known as "Abilities" to enhance the capabilities of Personalities, which are the conversational AI agents built on this platform. Users can control the speaker via voice commands, utilizing triggers like "wake up" or "OpenHome" to activate functionalities. The speakers connect to the OpenHome system through a dashboard interface, where volume control and other settings can be managed. Developers have the opportunity to prototype and innovate with these speakers, as they are distributed in small batches for feedback and enhancement of user experiences.
 
 ## current-status
 beta
 
 ## connects-to
-[[platform/openhome]]  
-[[platform/abilities]]  
-[[platform/dashboard]]  
-[[platform/voice-ai]]  
-[[platform/local-link]]  
-[[platform/marketplace]]  
-[[platform/live-editor]]  
+[[platform/openhome]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/voice-ai]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-05-10T11:17:47Z -->
-```
+<!-- synthesized: 2026-05-11T12:01:10Z -->

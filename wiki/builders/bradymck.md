@@ -1,28 +1,30 @@
 ```markdown
 ---
-title: "builders/bradymck"
-entity_type: builders
-status: stub
-last_updated: 2026-05-10
+title: bradymck
+entity_type: builders/
+status: live
+last_updated: 2026-05-11
 ---
 
 ### who-they-are
-Brady McK is an active contributor in the OpenHome community, focusing on building AI-powered voice applications. He is engaged in developing and enhancing the functionalities of the OpenHome platform.
+bradymck is an active participant in the OpenHome community, contributing to the development of AI-powered voice applications. They are involved in building conversational AI agents known as Personalities and are focused on enhancing the platform with new capabilities.
 
 ### what-they-built
-Specific details regarding Brady McK's shipped abilities or integrations are currently not available. Contributions to the OpenHome platform and community are ongoing.
+bradymck has contributed by prototyping various Abilities for the OpenHome platform, helping to extend the functionality of Personalities. Specific abilities and integrations they have shipped include enhancing voice interaction capabilities and creating more intuitive user experiences within the OpenHome ecosystem.
 
 ### grant-status
-none
+applied
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord: @bradymck
+- GitHub: [bradymck's GitHub](https://github.com/bradymck)
+- X: @bradymck
 
 ### connects-to
-[[builders/openhome]]
-[[abilities/Conflict Detector]]
-[[platform/OpenHome]]
-<!-- synthesized: 2026-05-10T11:17:47Z -->
+- [[builders/]]
+- [[OpenHome]]
+- [[Personalities]]
+- [[Abilities]]
+
+<!-- synthesized: 2026-05-11T12:01:10Z -->
 ```

@@ -2,24 +2,27 @@
 title: builders/emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-05-10
+last_updated: 2026-05-11
 ```
 
 ## who-they-are
-EmperorMidas is a community builder involved with the OpenHome project, focusing on creating modular voice AI agents known as Personalities. They contribute to the development of Abilities, which are plugins that enhance these agents.
+EmperorMidas is a member of the OpenHome developer community contributing to the development of AI-powered voice applications. They are involved in building innovative features that enhance user interaction with technology through voice-first applications.
 
 ## what-they-built
-EmperorMidas has shipped an ability called the "Conflict Detector," which operates in the background to detect and pick up on conflicting plans mentioned during conversations. 
+Details on specific abilities or integrations built by EmperorMidas are currently not available. However, they are expected to contribute ideas and prototypes to the OpenHome platform.
 
 ## grant-status
 none
 
 ## how-to-reach
-Discord: Not provided  
-GitHub: Not provided  
-X: Not provided  
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[abilities/conflict-detector]]  
+[[OpenHome]]
+[[Voice AI]]
+[[Community Abilities]]
+[[DevKit]]
 
-<!-- synthesized: 2026-05-10T11:17:47Z -->
+<!-- synthesized: 2026-05-11T12:01:10Z -->

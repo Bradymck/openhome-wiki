@@ -2,25 +2,26 @@
 title: Illectric Co
 entity_type: builders
 status: stub
-last_updated: 2026-05-10
+last_updated: 2026-05-11
 ```
 
 ## who-they-are
-Illectric Co is a community-oriented builder engaged in developing innovative voice AI applications. They focus on creating tools and platforms that enhance user interaction with technology through voice-driven interfaces.
+Illectric Co is an emerging startup focused on developing innovative technology solutions. They aim to democratize communication through equitable, accessible, and free-to-use language translation technology.
 
 ## what-they-built
-Illectric Co is actively contributing to the OpenHome ecosystem, specifically by shipping abilities that enhance conversational AI agents. They recently shipped a new ability called "Conflict Detector," which operates in the background, identifying and alerting users about potential scheduling conflicts based on conversations. 
+Illectric Co is working on a project that provides real-time AI voice translation through web chat, allowing seamless multilingual communication between smartphones.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: [@illectric](https://discord.com)
-- GitHub: [illectric-co](https://github.com/illectric-co)
-- X: [illectric_co](https://x.com/illectric_co)
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[OpenHome]]
-[[Abilities]]
+[[voice AI]]  
+[[language translation]]  
+[[OpenHome]]  
 
-<!-- synthesized: 2026-05-10T11:17:47Z -->
+<!-- synthesized: 2026-05-11T12:01:10Z -->

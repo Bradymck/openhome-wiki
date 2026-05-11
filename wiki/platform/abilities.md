@@ -2,25 +2,25 @@
 title: Platform Abilities
 entity_type: platform/abilities
 status: live
-last_updated: 2026-05-10
+last_updated: 2026-05-11
 ```
 
 ## what-it-is
-Abilities are modular voice plugins within the OpenHome platform that extend the functionality of conversational AI agents, known as Personalities. Each Ability provides a new skill or feature that can be utilized during interactions with the agent.
+OpenHome Abilities are modular voice plugins that enhance the functionality of conversational AI agents, referred to as Personalities. They allow the agents to perform specific tasks and interact with external systems.
 
 ## how-it-works
-In OpenHome, Abilities are triggered by specific hotwords during voice conversations, allowing users to interact with their devices in a more dynamic and engaging manner. Each Ability runs custom Python logic, enabling a wide range of functionalities—such as calling APIs, playing music, running quizzes, and controlling smart home devices. Developers can build their own Abilities for Personalities, and existing Abilities can be explored, forked, or customized via the OpenHome community GitHub repository.
+Abilities are designed to be triggered by specific hotwords during voice interactions. They enable Personalities to execute a variety of skills, such as calling APIs, playing music, controlling smart home devices, and conducting quizzes. Each Ability can run custom Python logic, allowing for a flexible and extensible environment for developers to create and implement their own voice features. Users can explore and contribute to a community repository of Abilities, facilitating collaboration and innovation.
 
 ## current-status
 live
 
 ## connects-to
-- [[platform/openhome]]
-- [[platform/speakers]]
-- [[platform/dashboard]]
-- [[platform/voice-ai]]
-- [[platform/local-link]]
-- [[platform/marketplace]]
-- [[platform/live-editor]]
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/dashboard]]
+[[platform/voice-ai]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-05-10T11:17:47Z -->
+<!-- synthesized: 2026-05-11T12:01:10Z -->
