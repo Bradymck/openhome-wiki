@@ -1,23 +1,26 @@
-```yaml
+```markdown
+---
 title: guides/sagarjethi
 entity_type: Community Guide
-status: stub
-last_updated: 2026-05-11
-```
+status: live
+last_updated: 2026-05-12
+---
 
-## who-they-are
-Sagarjethi is a power user in the OpenHome community, demonstrating expertise in building and managing AI agents using the OpenHome platform.
+### who-they-are
+Sagar Jethi is a Software Engineer focused on full-stack AI development. They possess extensive experience in building systems using a diverse range of languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
 
-## what-they-help-with
-Sagarjethi specializes in onboarding new users to OpenHome by providing guidance on setting up AI agents, navigating the OpenHome dashboard, and utilizing community-built Abilities. They assist users in troubleshooting issues related to device firmware and API integration.
+### what-they-help-with
+Sagar specializes in various areas including Web/Mobile app development, Large Language Model (LLM) integration systems, Retrieval-Augmented Generation (RAG) pipelines, AI agents, chatbots, multi-modal systems, N8N, workflow automations, MCP integration, precision-tuned models, vector search systems, NLP pipelines, DevOps and MLOps infrastructure, and API integration systems. They can take full responsibility for and lead entire projects, particularly in the context of OpenHome's voice AI applications.
 
-## how-to-reach
-You can reach Sagarjethi on Discord for any inquiries and support.
+### how-to-reach
+You can reach Sagar on Discord at their handle: `sagarjethi`.
 
 ## connects-to
+[[guides]]
 [[OpenHome]]
-[[Community Guides]]
 [[Voice AI]]
-[[Abilities]]
-<!-- synthesized: 2026-05-11T12:01:10Z -->
+[[AI Development]]
+[[DevOps]]
+[[NLP]]
+<!-- synthesized: 2026-05-12T11:36:34Z -->
 ```

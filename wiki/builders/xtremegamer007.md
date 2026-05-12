@@ -1,29 +1,28 @@
-```markdown
----
-title: builders/xtremegamer007
-entity_type: builders/
-status: stub
-last_updated: 2026-05-11
----
+```yaml
+title: xtremegamer007
+entity_type: builders
+status: live
+last_updated: 2026-05-12
+```
 
 ## who-they-are
-xtremegamer007 is a member of the OpenHome community, engaged in building conversational AI agents called Personalities and extending them with modular voice plugins known as Abilities.
+xtremegamer007 is a Software Engineer focusing on full stack AI development. They have extensive experience with a diverse range of programming languages and frameworks, including React.js, Python, TypeScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. They specialize in developing web and mobile applications, LLM integration systems, RAG pipelines, AI agents, chatbots, multi-modal systems, and workflow automation.
 
 ## what-they-built
-Currently, there is no detailed information available regarding specific abilities or integrations that xtremegamer007 has built or shipped within the OpenHome platform.
+xtremegamer007 has been actively contributing to the OpenHome platform, where they can create Abilities using the OpenHome devkit or locally through hardware like Raspberry Pi. They are involved in building conversational AI agents known as Personalities, which can be enhanced with various modular plugins called Abilities.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: [Not provided]
+- GitHub: [Not provided]
+- X: [Not provided]
 
 ## connects-to
+[[developers]]
 [[OpenHome]]
-[[Abilities]]
-[[Personalities]]
+[[AI development]]
+[[DevKit]]
 
-<!-- synthesized: 2026-05-11T12:01:10Z -->
-```
+<!-- synthesized: 2026-05-12T11:36:34Z -->

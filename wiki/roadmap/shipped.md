@@ -1,27 +1,27 @@
 ```yaml
-title: roadmap/shipped
+title: Roadmap Shipped
 entity_type: roadmap
 status: live
-last_updated: 2026-05-11
+last_updated: 2026-05-12
 ```
 
 ## what-it-is
-OpenHome has launched physical V0.1 DevKit smart speakers for developers and top contributors, allowing the creation of AI agents known as Personalities, which can be enhanced with modular voice plugins called Abilities.
+OpenHome has released physical V0.1 development kits for its Voice AI platform, allowing developers to build conversational AI agents called Personalities and extend them with Abilities.
 
 ## status
-shipped
+Shipped
 
 ## why-it-matters
-The launch of the DevKit is a significant step towards making voice AI technology accessible to developers and non-developers alike, fostering innovation and community contribution in building voice-first applications.
+The introduction of the devkit enables developers to create and prototype new AI functionalities more easily, encouraging innovation in voice-first applications and making AI more accessible.
 
 ## eta
-Currently shipping in small global batches.
+Global shipping is ongoing in small batches; specific timelines for each shipment are not provided.
 
 ## connects-to
 [[OpenHome]]
 [[Abilities]]
+[[Personalities]]
 [[Developer Docs]]
 [[OpenHome Dashboard]]
 [[GitHub]]
-<!-- synthesized: 2026-05-11T12:01:10Z -->
-```
+<!-- synthesized: 2026-05-12T11:36:34Z -->

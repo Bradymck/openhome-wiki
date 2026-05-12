@@ -1,28 +1,27 @@
 ```yaml
-title: builders/emperormidas
+title: Emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-05-11
+last_updated: 2026-05-12
 ```
 
 ## who-they-are
-EmperorMidas is a member of the OpenHome developer community contributing to the development of AI-powered voice applications. They are involved in building innovative features that enhance user interaction with technology through voice-first applications.
+Emperormidas is a software engineer with extensive experience in AI development, specializing in full stack solutions. They are focused on creating systems across various programming languages and frameworks, including React.js/Next.js, Python, Go, and more. Their expertise encompasses a range of technologies, including AI agents and chatbots, multi-modal systems, and sophisticated API integration.
 
 ## what-they-built
-Details on specific abilities or integrations built by EmperorMidas are currently not available. However, they are expected to contribute ideas and prototypes to the OpenHome platform.
+Details regarding specific abilities or integrations built by Emperormidas within the OpenHome platform are not available based on the current data.
 
 ## grant-status
-none
+None
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Discord: Not specified  
+GitHub: Not specified  
+X: Not specified
 
 ## connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[Community Abilities]]
-[[DevKit]]
+[[builders]]  
+[[abilities]]  
+[[openhome]]
 
-<!-- synthesized: 2026-05-11T12:01:10Z -->
+<!-- synthesized: 2026-05-12T11:36:34Z -->

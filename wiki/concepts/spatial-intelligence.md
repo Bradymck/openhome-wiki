@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: concepts/spatial-intelligence
+title: Spatial Intelligence
 entity_type: concepts
-status: stub
-last_updated: 2026-05-11
+status: live
+last_updated: 2026-05-12
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships, understanding the positions and dimensions of objects in a given environment. In the context of AI and voice technology, it can involve recognizing and responding to spatial cues, such as the physical location of devices and the layout of a user's surroundings.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships, which can enhance interactions within a physical environment. In the context of OpenHome, it encompasses how users perceive and engage with AI agents and their capabilities relative to their surroundings.
 
 ## why-it-matters
-Spatial intelligence is important for OpenHome as it enhances the way users interact with their AI agents and smart devices. By integrating spatial awareness into the platform, OpenHome can enable more intuitive responses and interactions that consider the physical context of users, leading to a more seamless and immersive experience.
+Spatial intelligence is crucial for OpenHome as it allows users to create more immersive and intuitive interactions with their AI agents, enhancing human-device relations. As the platform promotes the development of voice-first applications, understanding spatial dynamics can lead to better designs and experiences that align with users' real-world contexts.
 
 ## how-it-manifests
-Within OpenHome, spatial intelligence might manifest through features that allow devices to understand their physical placement and respond appropriately to voice commands based on spatial context. This can include controlling devices located in specific rooms, recognizing the proximity of users, or providing services based on environmental factors.
+In OpenHome, spatial intelligence is manifested through the integration of voice agents with physical spaces. This includes how agents respond to voice commands that relate to the user's location, the arrangement of smart home devices, and the conversation context influenced by spatial cues. The platform leverages this by allowing users to create Abilities that can control devices based on their spatial awareness.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
+[[concepts/abilities-as-apps]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-11T12:01:10Z -->
+<!-- synthesized: 2026-05-12T11:36:34Z -->
 ```

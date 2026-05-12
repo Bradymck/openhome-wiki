@@ -1,26 +1,26 @@
 ```yaml
-title: Voice AI
-entity_type: platform/voice-ai
+title: platform/voice-ai
+entity_type: platform
 status: live
-last_updated: 2026-05-11
+last_updated: 2026-05-12
 ```
 
-# what-it-is
-OpenHome is an open-source Voice AI platform designed to create conversational AI agents known as Personalities. These agents can be extended with modular voice plugins called Abilities, which add a range of new skills and functionalities.
+## what-it-is
+OpenHome is an open-source Voice AI platform that allows users to build conversational AI agents, referred to as Personalities, which can be enhanced with modular voice plugins known as Abilities.
 
-# how-it-works
-Users can build and customize their voice AI agents by defining their Personality, which includes attributes such as name, voice, and conversational style. Abilities are integrated to enhance these agents, enabling them to perform various tasks like accessing APIs, playing music, controlling smart devices, and conducting quizzes. The agents utilize hotword triggers during voice interactions to initiate these Abilities, which can include unique Python logic depending on the user's requirements. The platform provides tools for users to explore community-created Abilities, fork existing projects, and contribute by building their own.
+## how-it-works
+The platform enables the creation of AI agents that can interact with users in a human-like manner. Developers can design a Personality by defining its voice, persona, and conversational style. Abilities are added to Personalities to grant them a range of skills, including calling APIs, playing music, controlling smart devices, and more. These Abilities can be triggered by specific hotwords during a voice interaction, allowing for seamless, voice-first applications. Users can develop these capabilities using the OpenHome dashboard or through local environments like Raspberry Pi.
 
-# current-status
+## current-status
 live
 
 ## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+- [[platform/openhome]]
+- [[platform/speakers]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/local-link]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-11T12:01:10Z -->
+<!-- synthesized: 2026-05-12T11:36:34Z -->
