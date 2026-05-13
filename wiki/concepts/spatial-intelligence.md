@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: Spatial Intelligence
 entity_type: concepts
-status: live
-last_updated: 2026-05-12
----
+status: stub
+last_updated: 2026-05-13
+```
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships, which can enhance interactions within a physical environment. In the context of OpenHome, it encompasses how users perceive and engage with AI agents and their capabilities relative to their surroundings.
+Spatial intelligence refers to the ability to perceive, analyze, and make use of spatial relationships in the environment. This includes understanding how different objects relate to one another in physical space and the ability to visualize and manipulate these relationships mentally.
 
 ## why-it-matters
-Spatial intelligence is crucial for OpenHome as it allows users to create more immersive and intuitive interactions with their AI agents, enhancing human-device relations. As the platform promotes the development of voice-first applications, understanding spatial dynamics can lead to better designs and experiences that align with users' real-world contexts.
+In the context of OpenHome, spatial intelligence enhances the platform's capability to interact with users in a more intuitive and responsive manner. It allows for greater integration of voice interactions with physical spaces, improving how users interact with their AI agents and smart devices.
 
 ## how-it-manifests
-In OpenHome, spatial intelligence is manifested through the integration of voice agents with physical spaces. This includes how agents respond to voice commands that relate to the user's location, the arrangement of smart home devices, and the conversation context influenced by spatial cues. The platform leverages this by allowing users to create Abilities that can control devices based on their spatial awareness.
+While specific details about how spatial intelligence is implemented in OpenHome are scarce, it can be inferred that this concept will likely influence how devices communicate with users in their physical environment, potentially affecting location-based services, device control, and context-aware interactions.
 
 ## connects-to
-[[concepts/voice-first]]
 [[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-12T11:36:34Z -->
-```
+<!-- synthesized: 2026-05-13T11:41:09Z -->

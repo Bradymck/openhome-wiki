@@ -1,25 +1,25 @@
-```yaml
-title: local-first
-entity_type: concepts
-status: stub
-last_updated: 2026-05-12
-```
+```markdown
+---
+title: Local First
+entity_type: concepts/local-first
+status: live
+last_updated: 2026-05-13
+---
 
-## definition
-Local-first is an approach in software design where applications prioritize local data storage and computation over reliance on cloud services. This architecture enhances functionality by enabling applications to operate without constant internet connectivity and facilitates quicker interactions.
+### definition
+Local First is a fundamental design principle that emphasizes the importance of local data storage and processing in applications. This approach ensures that users can interact with their applications seamlessly and effectively, regardless of internet connectivity.
 
-## why-it-matters
-In the context of OpenHome, the local-first concept is crucial as it allows devices such as smart speakers to function autonomously in various environments, ensuring consistency and reliability in user experiences regardless of network conditions. This can be especially significant in smart home applications where immediate responsiveness is valued.
+### why-it-matters
+In the context of OpenHome, Local First enhances user experience by allowing voice AI agents to operate smoothly even when offline. This capability is crucial for maintaining responsiveness and ensuring privacy, as data can be handled directly on local devices without requiring constant communication with cloud services.
 
-## how-it-manifests
-This concept manifests in OpenHome through its hardware, such as the physical v0.1 devkits, which are designed to process voice commands and run applications locally. By enabling local processing capabilities, OpenHome can enhance performance, reduce latency, and provide users with a seamless experience without depending on continuous cloud connectivity.
+### how-it-manifests
+Local First principles are evident in the OpenHome platform through the use of local processing on devices like the V0.1 DevKit. The architecture enables smart speakers and AI agents to function independently by storing data and executing abilities locally, thus reducing reliance on external servers while providing a quicker and more reliable interaction layer.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+<!-- synthesized: 2026-05-13T11:41:09Z -->
+```

@@ -1,24 +1,26 @@
 ```markdown
 ---
-title: "Franci"
-entity_type: guides/franci
+title: guides/franci
+entity_type: Community Guide
 status: live
-last_updated: 2026-05-12
+last_updated: 2026-05-13
 ---
 
-### who-they-are
-Franci is a Software Engineer with a strong focus on full-stack AI development. They have extensive experience in building systems using a variety of programming languages and frameworks, including React.js, Next.js, Python, Go, Rust, C++, and many others.
+## who-they-are
+Franci is a Software Engineer with a focus on full-stack AI development. They possess extensive experience across various programming languages and frameworks such as React.js, Python, Go, Rust, and others, indicating a strong background in software development.
 
-### what-they-help-with
-Franci specializes in developing web and mobile applications, integrating large language models (LLM), creating retrieval-augmented generation (RAG) pipelines, building AI agents and chatbots, and developing multi-modal systems. Additionally, they have expertise in workflow automation, integration of various systems, precision-tuning models, vector search systems, natural language processing (NLP) pipelines, and establishing DevOps and MLOps infrastructures.
+## what-they-help-with
+Franci specializes in building systems and applications related to AI. Their expertise includes developing Web and Mobile applications, LLM integration systems, RAG pipelines, AI agents, chatbots, multi-modal systems, and various AI-related infrastructures. They also work with NLP pipelines and API integrations, making them a valuable resource for projects involving AI and voice interaction technologies.
 
-### how-to-reach
-You can reach Franci on Discord at their handle: **[insert handle here]**.
+## how-to-reach
+Franci can be reached on Discord via their username.
 
-### connects-to
+## connects-to
 [[OpenHome]]
 [[AI Development]]
 [[Voice AI]]
-[[Machine Learning]]
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+[[Web Development]]
+[[Mobile Development]]
+
+<!-- synthesized: 2026-05-13T11:41:09Z -->
 ```

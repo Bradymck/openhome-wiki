@@ -1,30 +1,26 @@
 ```markdown
 ---
-title: "guides/discomelon"
-entity_type: "Community Guides"
-status: "stub"
-last_updated: 2026-05-12
+title: guides/discomelon
+entity_type: guides
+status: stub
+last_updated: 2026-05-13
 ---
 
 ### who-they-are
-Discomelon is recognized as a power user within the OpenHome community, noted for their contributions and expertise in voice AI technology. Their background includes extensive experience in AI development and engineering, particularly related to building conversational AI agents and integrating various abilities.
+Discomelon is a software engineer specializing in full-stack AI development with extensive experience across various programming languages and frameworks. They are skilled in AI agent development and have a background in building API integration systems and machine learning infrastructure.
 
 ### what-they-help-with
-Discomelon specializes in assisting new users with the OpenHome platform, particularly in areas like:
-- Building conversational AI agents known as Personalities
-- Developing modular voice plugins called Abilities
-- Implementing custom integrations and workflows for voice applications
-- Technical support regarding the OpenHome DevKit and its functionalities
+Discomelon provides expertise in building conversational AI agents and extending their functionality through modular plugins called Abilities. They can assist with projects involving voice AI applications, multi-modal systems, and integration of AI technologies. Their experience includes the use of frameworks such as React.js, Python, and TensorFlow, as well as familiarity with DevOps and MLOps practices.
 
 ### how-to-reach
-You can reach Discomelon on Discord through their handle: [Not provided in the source material].
+Discord handle: Discomelon (exact username may vary).
 
 ### connects-to
 [[OpenHome]]
 [[AI Development]]
-[[Voice AI Agents]]
+[[Voice AI]]
 [[Abilities]]
-[[DevKit]]
+[[Personalities]]
 
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+<!-- synthesized: 2026-05-13T11:41:09Z -->
 ```

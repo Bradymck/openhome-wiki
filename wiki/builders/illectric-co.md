@@ -1,28 +1,28 @@
-```yaml
-title: Illectric Co
+```markdown
+---
+title: illectric-co
 entity_type: builders
-status: live
-last_updated: 2026-05-12
-```
+status: stub
+last_updated: 2026-05-13
+---
 
-## who-they-are
-Illectric Co is an active community builder focused on developing voice AI solutions through the OpenHome platform. They are engaged in creating conversational AI agents known as Personalities and enhancing them with modular voice plugins called Abilities. Their mission aligns with making AI technology accessible and user-friendly.
+### who-they-are
+Illectric Co is a group that focuses on building AI-driven applications and devices. While specific details about their founding members and their overall mission are not provided, they engage in the development of technologies that incorporate voice interactions and AI capabilities.
 
-## what-they-built
-Illectric Co has created various Abilities for the OpenHome platform, allowing users to build their own conversational AI agents. Their contributions include integrating systems for music control, smart home interactions, and providing API calling functionalities, increasing the versatility of AI agents.
+### what-they-built
+As of now, the details regarding specific abilities or integrations that Illectric Co has shipped have not been disclosed. They may be involved in projects linked to the handling and generation of AI-driven voice applications, but specific products or contributions have not been detailed.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: [Illectric Co on GitHub](https://github.com/openhome-dev/abilities/tree/dev)
-- X: Not specified
+### how-to-reach
+Currently, there are no specific Discord handles, GitHub links, or social media platforms connected to Illectric Co that can be provided.
 
 ## connects-to
-[[Abilities]]
-[[OpenHome]]
-[[Conversational AI]]
-[[Voice AI Development]]
+[[openhome]]
+[[voice ai]]
+[[abilities]]
+[[personalities]]
 
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+<!-- synthesized: 2026-05-13T11:41:09Z -->
+```

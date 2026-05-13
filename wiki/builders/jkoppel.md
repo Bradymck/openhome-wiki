@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: builders/jkoppel
-entity_type: builder
-status: live
-last_updated: 2026-05-12
+title: "jkoppel"
+entity_type: "builders"
+status: "live"
+last_updated: 2026-05-13
 ---
 
-## who-they-are
-jkoppel is a Software Engineer focused on full-stack AI development. They possess extensive experience in building systems using a diverse range of languages and frameworks, including React.js, Next.js, Python, Typescript, Javascript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Their work involves developing web and mobile applications, LLM integration systems, AI agents, chatbots, multi-modal systems, and workflow automations among other areas.
+### who-they-are
+jkoppel is a Software Engineer focused on full-stack AI development, possessing extensive experience in building systems using a variety of programming languages and frameworks, including React.js, Python, Go, and others. They have contributed to the OpenHome platform, which aims to make voice AI applications accessible and enhance how users interact with technology.
 
-## what-they-built
-jkoppel is actively contributing to the OpenHome platform, focusing on building conversational AI agents called Personalities and extending them with Abilities. They are involved in shipping various abilities or integrations that enhance the functionality of the OpenHome devkit.
+### what-they-built
+jkoppel has developed multiple skills and integrations for the OpenHome platform, including building conversational AI agents known as Personalities and extending them with modular plugins termed Abilities. Specific projects or integrations have not been detailed but are likely related to improving voice interactions and AI capabilities within OpenHome's ecosystem.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
+### how-to-reach
+- Discord: Available on OpenHome's Discord
+- GitHub: [jkoppel's GitHub](https://github.com/openhome-dev/abilities/tree/dev)
 - X: Not specified
 
 ## connects-to
-[[OpenHome]]
-[[Abilities]]
-[[Voice AI]]
+- [[OpenHome]]
+- [[Abilities]]
+- [[Personalities]]
 
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+<!-- synthesized: 2026-05-13T11:41:09Z -->
 ```

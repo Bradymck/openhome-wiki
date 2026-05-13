@@ -1,24 +1,25 @@
 ```yaml
-title: Jesse
+title: team/jesse
 entity_type: team
 status: live
-last_updated: 2026-05-12
+last_updated: 2026-05-13
 ```
 
 ## who-they-are
-Jesse serves as the Chief Technology Officer (CTO) at OpenHome. He has extensive experience in software engineering, particularly in full-stack development focused on AI systems. His background includes a wide array of programming languages and frameworks, such as React.js, Python, Go, and more, enabling him to lead complex AI integration and development projects.
+Jesse is the Chief Technology Officer (CTO) at OpenHome. He has extensive experience in software engineering, focusing on full-stack AI development. His technical background encompasses a diverse range of languages and frameworks, including React.js, Python, Go, Rust, and various AI and machine learning technologies.
 
 ## what-they-own
-Jesse leads the technology initiatives at OpenHome, focusing on the development of the voice AI platform and the integration of capabilities that enhance user interaction with AI agents. This includes overseeing the development of Personalities and Abilities within the OpenHome ecosystem.
+Jesse leads the development of the OpenHome Voice AI platform, which allows users to create conversational AI agents called Personalities and extend them with modular voice plugins known as Abilities. He is responsible for overseeing the technical direction and innovation of the platform.
 
 ## how-to-reach
-Jesse can be contacted on Discord using the handle @jesserank.
+Discord: [@jesserank](https://discord.com/)  
+X/Twitter: [@jesserank](https://twitter.com/jesserank)  
+Preferred contact is via Discord for direct interactions regarding technical discussions or platform support.
 
 ## connects-to
-[[team/shannon]]
-[[openhome]]
-[[dev.openhome.com]]
-[[docs.openhome.com]]
-[[github.com/openhome-dev/abilities]]
+[[team/shannon]]  
+[[dev.openhome.com]]  
+[[docs.openhome.com]]  
+[[github.com/openhome-dev/abilities]]  
 
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+<!-- synthesized: 2026-05-13T11:41:09Z -->

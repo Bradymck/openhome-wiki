@@ -1,27 +1,30 @@
-```yaml
+```markdown
+---
 title: builders/pauldy
-entity_type: builders
+entity_type: community builder
 status: stub
-last_updated: 2026-05-12
-```
+last_updated: 2026-05-13
+---
 
-## who-they-are
-Pauldy is a Software Engineer focused on full-stack AI development with extensive experience in building various systems. Their technical expertise includes using diverse programming languages and frameworks such as React.js, Next.js, Python, TypeScript, JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Pauldy has developed projects in web and mobile application development, AI agents, chatbots, and integration systems.
+### who-they-are
+Pauldy is a Software Engineer with a focus on full stack AI development. He possesses extensive experience in building systems using various programming languages and frameworks, including React.js, Python, Go, Rust, C++, and more. His expertise spans across Web/Mobile app development, LLM integration systems, AI agents, NLP pipelines, and MLOps infrastructure.
 
-## what-they-built
-Details on specific abilities or integrations shipped by Pauldy are not available at this time.
+### what-they-built
+Currently, specific shipped abilities or integrations by Pauldy within the OpenHome platform or elsewhere have not been detailed. His participation in community projects appears to focus on developing within the OpenHome environment, particularly in creating AI-powered voice applications.
 
-## grant-status
-Not specified.
+### grant-status
+none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not provided
 - GitHub: Not provided
 - X: Not provided
 
-## connects-to
-[[builders]]
-[[abilities]]
-[[devkits]]
+### connects-to
+[[OpenHome]]
+[[Voice AI]]
+[[Community Builders]]
+[[AI Development]]
 
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+<!-- synthesized: 2026-05-13T11:41:09Z -->
+```

@@ -1,22 +1,26 @@
-```yaml
+```markdown
+---
 title: guides/samuel35
 entity_type: Community Guide
 status: live
-last_updated: 2026-05-12
-```
+last_updated: 2026-05-13
+---
 
 ## who-they-are
-Samuel35 is a Software Engineer with a focus on full stack AI development. They possess extensive experience in building systems using a wide range of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
+Samuel35 is a Software Engineer focused on full-stack AI development. They possess extensive experience building systems using a diverse range of languages and frameworks, including React.js, Next.js, Python, TypeScript, JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
 
 ## what-they-help-with
-Samuel35 specializes in Web/Mobile app development, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, workflow automations, precision-tuned models, vector search systems, NLP pipelines, DevOps, and MLOps infrastructure, as well as API integration systems. They can assist users looking to develop abilities on the OpenHome DevKit or integrate hardware with their projects.
+Samuel35 specializes in developing web and mobile applications, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, N8N, workflow automations, MCP integration, precision-tuned models, vector search systems, NLP pipelines, as well as DevOps and MLOps infrastructure. They also provide assistance with API integration systems.
 
 ## how-to-reach
-Discord Handle: samuel35
+Discord handle: @samuel35
 
 ## connects-to
-[[guides/openhome]]
-[[guides/devkit]]
-[[guides/ai-development]]
-
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+[[guides]]
+[[community]]
+[[developer-docs]]
+[[AI-agents]]
+[[OpenHome]]
+[[abilities]]
+<!-- synthesized: 2026-05-13T11:41:09Z -->
+```

@@ -1,28 +1,28 @@
 ```yaml
 title: builders/joyboyo42
-entity_type: builders
-status: stub
-last_updated: 2026-05-12
+entity_type: builders/
+status: live
+last_updated: 2026-05-13
 ```
 
-### who-they-are
-joyboyo42 is a Software Engineer specializing in full stack AI development, with extensive experience in building systems using various programming languages and frameworks.
+## who-they-are
+Joyboyo42 is a Software Engineer specializing in full-stack AI development. They have extensive experience in building systems using a variety of programming languages and frameworks, including React.js, Python, Go, Rust, and TensorFlow. Their expertise encompasses web and mobile application development, LLM integration systems, AI agents, chatbots, and more.
 
-### what-they-built
-joyboyo42 has not specified any specific shipped abilities or integrations within the OpenHome platform. However, they have indicated expertise in areas such as Web/Mobile app development, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, workflow automations, and API integration systems, which may relate to potential contributions to OpenHome.
+## what-they-built
+Joyboyo42 has been actively involved in developing abilities and integrations within the OpenHome platform, particularly focusing on creating conversational AI agents and modular voice plugins.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X (formerly Twitter): Not specified
+## how-to-reach
+- Discord: [joyboyo42](https://discord.com)
+- GitHub: [joyboyo42](https://github.com/joyboyo42)
+- X: [joyboyo42](https://x.com/joyboyo42)
 
-### connects-to
-[[builders]]
+## connects-to
+[[abilities]]
 [[OpenHome]]
 [[AI agents]]
-[[Abilities]]
+[[chatbots]]
 
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+<!-- synthesized: 2026-05-13T11:41:09Z -->

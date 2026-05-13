@@ -1,26 +1,29 @@
-```yaml
-title: SlowjamSteve
-entity_type: builders/
-status: live
-last_updated: 2026-05-12
-```
+```markdown
+---
+title: builders/slowjamsteve
+entity_type: community_builder
+status: stub
+last_updated: 2026-05-13
+---
 
-## who-they-are
-SlowjamSteve is a Software Engineer specializing in full-stack AI development. With extensive experience in building systems using a diverse range of languages and frameworks, including React.js/Next.js, Python, Go, Rust, and more, he contributes to the development of voice AI applications on the OpenHome platform. 
+### who-they-are
+SlowJamSteve is a Software Engineer focusing on full-stack AI development. He possesses extensive experience in building systems using various programming languages and frameworks, including React.js, Python, Go, Rust, and more. His work encompasses web and mobile app development, integration of large language models (LLMs), chatbot systems, and advancements in AI technologies.
 
-## what-they-built
-SlowjamSteve has developed various systems, particularly in the realm of AI agents, LLM integration, and workflow automation, leveraging the OpenHome development environment to create and prototype abilities for smart speakers and other devices.
+### what-they-built
+Details on specific abilities or integrations built by SlowJamSteve are currently not available. However, he has been actively contributing to discussions around the OpenHome platform and its capabilities.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: SlowjamSteve#1234
-- GitHub: [SlowjamSteve](https://github.com/SlowjamSteve)
-- X: [@SlowjamSteve](https://x.com/SlowjamSteve)
+### how-to-reach
+- Discord handle: Not mentioned
+- GitHub: Not mentioned
+- X (formerly Twitter): Not mentioned
 
-## connects-to
-[[builders/]]
-[[abilities/]]
+### connects-to
+[[builders]]
+[[OpenHome]]
+[[AI Development]]
 
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+<!-- synthesized: 2026-05-13T11:41:09Z -->
+```

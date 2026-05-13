@@ -1,26 +1,27 @@
 ```markdown
 ---
-title: Grant Program
-entity_type: concepts/grant-program
+title: concepts/grant-program
+entity_type: concepts/
 status: live
-last_updated: 2026-05-12
+last_updated: 2026-05-13
 ---
 
 ## definition
-The grant program is an initiative designed to encourage community contributions to the OpenHome platform by offering financial support and resources to developers and creators. It recognizes and rewards innovative projects and ideas that enhance the capabilities of the OpenHome ecosystem.
+The grant program is an initiative by OpenHome that provides funding and resources to developers who contribute valuable projects and feedback to the platform. Successful applicants receive physical development kits (DevKits) and additional support to enhance their projects.
 
 ## why-it-matters
-The grant program plays a crucial role in fostering creativity and innovation within the OpenHome community. By providing funding and support, it helps individuals realize their projects, ultimately leading to a richer, more diverse set of applications and functionalities that align with OpenHome's mission. This encourages a collaborative environment where users can share their creations, enhancing the platform's overall value.
+The grant program is crucial for fostering innovation within the OpenHome ecosystem. By encouraging developers to create and share their contributions, it helps to build a vibrant community that drives continuous improvement and diversification of capabilities within the platform.
 
 ## how-it-manifests
-The grant program is visible through the distribution of physical V0.1 devkits to top contributors, as well as additional funding offered based on the quality and impact of submitted projects. Recipients of grants are promoted within the community, further facilitating networking and collaboration opportunities. Contributions can include developing new Abilities or enhancing existing functionalities on the platform.
+The grant program manifests through the provision of physical V0.1 devkits to top contributors. These cutting-edge smart speakers are fully local and come equipped with features such as music playback and smart home integration. Additionally, recipients can receive extra budget and promotional support for their projects, enabling them to prototype and realize their ideas more effectively.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+<!-- synthesized: 2026-05-13T11:41:09Z -->
 ```

@@ -1,28 +1,30 @@
-```yaml
+```markdown
+---
 title: builders/pl-geek
-entity_type: builders
-status: live
-last_updated: 2026-05-12
-```
+entity_type: builder
+status: stub
+last_updated: 2026-05-13
+---
 
 ## who-they-are
-Builders/pl-geek is an active member of the OpenHome community, focusing on full-stack AI development. They possess extensive experience in developing various systems and applications, utilizing a range of programming languages and frameworks including Python, React.js, and Go.
+Builders in the OpenHome community who are focused on full-stack AI development, specializing in creating abilities and integrations within the OpenHome Voice AI platform.
 
 ## what-they-built
-They have contributed to the development of Personalities and Abilities for the OpenHome platform, particularly in areas such as AI agent development, LLM integration systems, and multi-modal systems. Their work includes providing modular voice plugins that enhance the functionality of voice AI agents.
+Currently, there is no specific information on abilities or integrations created by pl-geek. However, they are engaged in creating modular voice plugins and enhancing AI interactions through development on the OpenHome platform.
 
 ## grant-status
-applied
+none
 
 ## how-to-reach
-- Discord handle: Not specified
+- Discord Handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[voice AI performance]]
-[[modular plugins]]
-[[community contributions]]
-[[open-source development]]
+- [[OpenHome]]
+- [[Voice AI]]
+- [[Abilities]]
+- [[DevKit]]
 
-<!-- synthesized: 2026-05-12T11:36:34Z -->
+<!-- synthesized: 2026-05-13T11:41:09Z -->
+```
