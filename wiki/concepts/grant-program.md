@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: concepts/grant-program
-entity_type: concepts/
+title: Grant Program
+entity_type: concepts/grant-program
 status: live
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ---
 
 ## definition
-The grant program is an initiative by OpenHome that provides funding and resources to developers who contribute valuable projects and feedback to the platform. Successful applicants receive physical development kits (DevKits) and additional support to enhance their projects.
+The Grant Program in OpenHome is an initiative that supports developers and contributors by providing resources, including financial backing and development kits, for innovative projects built on the OpenHome platform.
 
 ## why-it-matters
-The grant program is crucial for fostering innovation within the OpenHome ecosystem. By encouraging developers to create and share their contributions, it helps to build a vibrant community that drives continuous improvement and diversification of capabilities within the platform.
+This program is crucial for fostering community engagement and encouraging the development of new capabilities within the OpenHome ecosystem. By incentivizing contributions, it helps ensure a diverse set of applications and functionalities that leverage the platform's voice AI technology.
 
 ## how-it-manifests
-The grant program manifests through the provision of physical V0.1 devkits to top contributors. These cutting-edge smart speakers are fully local and come equipped with features such as music playback and smart home integration. Additionally, recipients can receive extra budget and promotional support for their projects, enabling them to prototype and realize their ideas more effectively.
+The Grant Program manifests through the distribution of physical development kits, such as the V0.1 devkits, to top contributors. Developers who engage actively by submitting prototypes or providing feedback can receive additional support and funding, enhancing their ability to build and innovate within the platform.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
 ```

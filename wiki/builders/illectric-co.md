@@ -1,28 +1,28 @@
-```markdown
----
-title: illectric-co
+```yaml
+title: Illectric Co
 entity_type: builders
-status: stub
-last_updated: 2026-05-13
----
+status: live
+last_updated: 2026-05-14
+```
 
-### who-they-are
-Illectric Co is a group that focuses on building AI-driven applications and devices. While specific details about their founding members and their overall mission are not provided, they engage in the development of technologies that incorporate voice interactions and AI capabilities.
+## who-they-are
+Illectric Co is a community of developers focused on building applications and integrations for the OpenHome platform, which is an open-source Voice AI platform. They specialize in creating conversational AI agents known as "Personalities" and enhance them with modular plugins called "Abilities."
 
-### what-they-built
-As of now, the details regarding specific abilities or integrations that Illectric Co has shipped have not been disclosed. They may be involved in projects linked to the handling and generation of AI-driven voice applications, but specific products or contributions have not been detailed.
+## what-they-built
+Illectric Co has shipped various Abilities that allow users to create and extend their AI Personalities. Their contributions include web and mobile app development, LLM integration systems, and multi-modal systems. They facilitate the creation of AI agents that can perform tasks such as calling APIs, playing music, running quizzes, and controlling smart home devices.
 
-### grant-status
-none
+## grant-status
+$1K
 
-### how-to-reach
-Currently, there are no specific Discord handles, GitHub links, or social media platforms connected to Illectric Co that can be provided.
+## how-to-reach
+- Discord: Not explicitly provided in the sources
+- GitHub: [OpenHome Abilities](https://github.com/openhome-dev/abilities)
+- X: Not explicitly provided in the sources
 
 ## connects-to
-[[openhome]]
-[[voice ai]]
-[[abilities]]
-[[personalities]]
+[[builders]]
+[[OpenHome]]
+[[Personalities]]
+[[Abilities]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
-```
+<!-- synthesized: 2026-05-14T11:31:40Z -->

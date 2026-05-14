@@ -1,27 +1,28 @@
 ```yaml
-title: jagatfx
-entity_type: builders
-status: live
-last_updated: 2026-05-13
+title: "Builders: Jagatfx"
+entity_type: "builders"
+status: "stub"
+last_updated: 2026-05-14
 ```
 
 ## who-they-are
-Jagatfx is a Software Engineer focusing on full-stack AI development. They have extensive experience across various programming languages and frameworks, including React.js, Python, Go, and Rust. Jagatfx specializes in developing Web and Mobile applications, LLM integration systems, AI agents, and multi-modal systems.
+Jagatfx is a software engineer focused on full stack AI development. They possess extensive experience in building systems with a diverse range of programming languages and frameworks, including but not limited to React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Jagatfx has experience developing web and mobile apps, LLM integration systems, RAG pipelines, AI agents, and chatbots, among other related technologies.
 
 ## what-they-built
-Jagatfx has contributed to the OpenHome platform by building and shipping abilities that extend its voice AI functionalities. Their work involves creating modular voice plugins, also known as Abilities, which allow for improved interactions within the OpenHome ecosystem.
+Currently, there is no specific information available about what Jagatfx has built within the OpenHome community. However, their skillset suggests a potential for developing various AI and voice-driven applications, possibly leveraging the OpenHome platform for creating conversational agents and abilities.
 
 ## grant-status
-none
+None
 
 ## how-to-reach
-- Discord handle: not specified
-- GitHub: not specified
-- X: not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X (formerly Twitter): Not provided
 
 ## connects-to
-[[builders/openhome]]  
-[[abilities/voice-plugins]]  
-[[abilities/AI-agents]]  
+[[OpenHome]]  
+[[Abilities]]  
+[[Voice AI]]  
+[[Conversational Agents]]  
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->

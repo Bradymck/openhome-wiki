@@ -1,21 +1,22 @@
-```yaml
+```markdown
+---
 title: Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-05-13
-```
+last_updated: 2026-05-14
+---
 
-## who-they-are
-Kaeden is a team member at OpenHome, specifically involved as an Admin or Server Admin. Further details about their background and specific role are not provided in the available information.
+### who-they-are
+Kaeden is a team member at OpenHome, holding an unspecified role linked to AI development.
 
-## what-they-own
-Details regarding the specific areas of the OpenHome platform that Kaeden leads are currently unavailable.
+### what-they-own
+Kaeden appears to be involved in developing conversational AI agents and integrating various abilities within OpenHome's platform.
 
-## how-to-reach
-Contact information for Kaeden, including Discord handle or social media profiles, is not listed in the available content.
+### how-to-reach
+Contact details for Kaeden are currently unavailable.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
-
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
+```

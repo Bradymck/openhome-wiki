@@ -1,25 +1,25 @@
 ```markdown
 ---
-title: Local First
+title: Local-First
 entity_type: concepts/local-first
 status: live
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ---
 
-### definition
-Local First is a fundamental design principle that emphasizes the importance of local data storage and processing in applications. This approach ensures that users can interact with their applications seamlessly and effectively, regardless of internet connectivity.
+## definition
+Local-first refers to a software design principle that prioritizes running applications and storing data locally on user devices before syncing with the cloud. This approach aims to enhance performance, reliability, and user experience.
 
-### why-it-matters
-In the context of OpenHome, Local First enhances user experience by allowing voice AI agents to operate smoothly even when offline. This capability is crucial for maintaining responsiveness and ensuring privacy, as data can be handled directly on local devices without requiring constant communication with cloud services.
+## why-it-matters
+In the context of OpenHome, local-first is crucial as it ensures that users can interact with their voice AI agents and smart devices seamlessly, without constant dependence on internet connectivity. This enhances privacy and responsiveness, making the platform more robust in varied network conditions.
 
-### how-it-manifests
-Local First principles are evident in the OpenHome platform through the use of local processing on devices like the V0.1 DevKit. The architecture enables smart speakers and AI agents to function independently by storing data and executing abilities locally, thus reducing reliance on external servers while providing a quicker and more reliable interaction layer.
+## how-it-manifests
+Local-first manifests in OpenHome through the use of its DevKit, which includes smart speakers capable of running abilities locally. This allows developers and users to build and prototype applications that can function independently of cloud services, thus fostering innovative interactions directly on the device.
 
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
+## connects-to
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/web3-native]]
+- [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
 ```

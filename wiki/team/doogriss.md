@@ -3,21 +3,25 @@
 title: Team Doogriss
 entity_type: team
 status: stub
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ---
 
 ### who-they-are
-Role information is currently unavailable for team member Doogriss.
+Doogriss is a member of the OpenHome team, occupying a key role in the development of the platform. They have a background in AI and software development, particularly focusing on creating user-friendly interfaces and enhancing the core capabilities of voice AI agents.
 
 ### what-they-own
-Areas of the platform led by Doogriss are not specified at this time.
+Doogriss leads initiatives related to the development of the OpenHome devkit and the integration of community-built Abilities, ensuring a smooth user experience for developers and end users alike.
 
 ### how-to-reach
-Preferred contact details for Doogriss have not been provided.
+- **Discord Handle:** Not provided
+- **X/Twitter:** Not provided
+- **Preferred contact:** Not specified
 
-## connects-to
-[[team/jesse]]
-[[team/shannon]]
+### connects-to
+- [[team/jesse]]
+- [[team/shannon]]
+- [[dev.openhome.com]]
+- [[github.com/openhome-dev/abilities]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
 ```

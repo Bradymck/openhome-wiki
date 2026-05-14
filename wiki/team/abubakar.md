@@ -2,19 +2,23 @@
 title: Abubakar
 entity_type: team
 status: stub
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ```
 
 ## who-they-are
-Abubakar is a team member at OpenHome, serving in an unspecified role. His background includes experience as a Software Engineer focused on full stack AI development. He possesses extensive expertise in various programming languages and frameworks, such as Python, React.js, Go, and more.
+Abubakar is a Software Engineer focusing on full stack AI development. He possesses extensive experience in building systems using a diverse range of programming languages and frameworks.
 
 ## what-they-own
-Details on the specific areas of the OpenHome platform that Abubakar leads are not provided in the available information.
+Abubakar leads efforts in developing Web/Mobile applications, AI agents, and API integration systems within the OpenHome platform.
 
 ## how-to-reach
-Contact details for Abubakar are not available in the provided material.
+Discord: Not Specified  
+X/Twitter: Not Specified  
+Preferred Contact: Not Specified
 
 ## connects-to
-No connections to specific projects or areas are documented.
+[[team/jesse]]
+[[team/shannon]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
+```

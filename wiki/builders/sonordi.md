@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: builders/sonordi
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ---
 
 ### who-they-are
-Sonordi is a community builder working within the OpenHome ecosystem, focusing on developing and enhancing AI-powered voice applications. They are engaged in creating personal assistants and voice-integrated systems utilizing the OpenHome platform.
+Sonordi is a community builder engaged with the OpenHome platform, which is focused on AI-powered voice applications and modular voice plugins known as Abilities. They have experience in full-stack AI development and are passionate about enhancing voice interactions for users.
 
 ### what-they-built
-As of now, specific shipped abilities or integrations by Sonordi have not been detailed within the available information.
+Information on specific abilities or integrations shipped by Sonordi is currently not available.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
 - Discord: Not specified
@@ -21,9 +21,11 @@ None
 - X: Not specified
 
 ### connects-to
-[[openhome]]
-[[devkits]]
-[[abilities]]
+[[builders]]
+[[OpenHome]]
+[[Abilities]]
+[[AI Development]]
+[[Voice AI Platform]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
 ```

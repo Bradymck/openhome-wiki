@@ -1,24 +1,23 @@
 ```markdown
 ---
 title: Brady McK
-entity_type: team/bradymck
+entity_type: team
 status: stub
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ---
 
 ### who-they-are
-Role at OpenHome: Team member (specific role not defined)  
-Background: Brady McK has expertise in full-stack AI development, focusing on building systems using various programming languages and frameworks. 
+Brady McK is a team member at OpenHome. Details about their specific role and background are currently unavailable.
 
 ### what-they-own
-Areas of the platform they lead: Specific areas of ownership or leadership at OpenHome are not provided.
+Information regarding the areas of the platform they lead is not specified at this time.
 
 ### how-to-reach
-Contact Information: Not specified.
+Contact information, including Discord handle and X/Twitter, is not provided.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
 ```

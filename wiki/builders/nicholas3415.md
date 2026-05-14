@@ -1,31 +1,29 @@
 ```markdown
 ---
 title: builders/nicholas3415
-entity_type: builder
+entity_type: builders
 status: live
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ---
 
 ## who-they-are
-Nicholas3415 is a Software Engineer with a focus on full stack AI development. He possesses extensive experience in building systems using various programming languages and frameworks including React.js, Python, Go, Rust, C++, Kotlin, LangChain, and more. His areas of expertise include web and mobile app development, LLM integration systems, AI agents and chatbots, multi-modal systems, and DevOps/MLOps infrastructure.
+Nicholas3415 is a Software Engineer focused on full stack AI development. They have extensive experience working with a variety of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Nicholas3415 specializes in developing web and mobile applications, LLM integration systems, NLP pipelines, and various AI agent systems.
 
 ## what-they-built
-Nicholas3415 is contributing to the OpenHome platform, specifically by developing AI agents and integrating various abilities for interaction with voice applications. His work aligns with creating immersive, AI-powered, voice-first applications.
+Nicholas3415 has contributed to building abilities and integrations within the OpenHome platform. They are involved with the development of conversational AI agents, enhancing them with modular voice plugins that expand their skills and capabilities. Nicholas3415 is active in the OpenHome community, sharing ideas and working on prototype abilities.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[abilities]]
+[[AI_agents]]
+[[Abilities]]
 [[OpenHome]]
-[[AI agents]]
-[[Full stack development]]
-[[Voice technology]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
 ```

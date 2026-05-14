@@ -1,29 +1,29 @@
-```markdown
----
+```yaml
 title: builders/mathieub
 entity_type: builder
-status: live
-last_updated: 2026-05-13
----
+status: stub
+last_updated: 2026-05-14
+```
 
-### who-they-are
-Mathieu is a Software Engineer specializing in full stack AI development, with extensive experience in building systems utilizing a wide range of programming languages and frameworks, including React.js, Python, Go, Rust, C++, and others. Mathieu focuses on developing Web/Mobile applications, LLM integration systems, AI agents, and workflows around voice AI technology.
+## who-they-are
+Mathieu is a Software Engineer specializing in full stack AI development. He has extensive experience in building systems using a diverse range of languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Mathieu is focused on developing web and mobile applications, LLM integration systems, AI agents, and various automated workflows.
 
-### what-they-built
-Mathieu has contributed to building on the OpenHome platform, a voice AI ecosystem where users can create conversational AI agents called Personalities. These agents can be augmented with Abilities, which are modular plugins that add functionality such as controlling smart home devices, playing music, and integrating APIs.
+## what-they-built
+Details regarding specific abilities or integrations that Mathieu has shipped are currently unavailable.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: N/A
-- GitHub: N/A 
-- X: N/A
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
+## connects-to
+[[builders]]
 [[OpenHome]]
-[[Abilities]]
-[[Conversational AI Agents]]
+[[AI development]]
+[[Voice AI]]
+[[App development]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
-```
+<!-- synthesized: 2026-05-14T11:31:40Z -->

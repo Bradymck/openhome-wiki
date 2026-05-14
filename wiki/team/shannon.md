@@ -1,22 +1,26 @@
-```yaml
+```markdown
+---
 title: Shannon
 entity_type: team
 status: live
-last_updated: 2026-05-13
-```
+last_updated: 2026-05-14
+---
 
 ## who-they-are
-Shannon is the CEO of OpenHome. She has a background in leading initiatives that enhance user interaction with technology, particularly through the development of AI-powered voice applications.
+Shannon is the CEO of OpenHome. They have a background in technology leadership and entrepreneurship, focusing on innovations in voice AI applications.
 
 ## what-they-own
-Shannon oversees the strategic direction of OpenHome, focusing on product development and community engagement. Her leadership involves managing the overall vision and execution of the OpenHome platform and its related projects.
+Shannon leads the overall direction of the OpenHome platform, ensuring that the mission to make AI-powered, voice-first applications accessible to everyone is realized. They oversee strategic initiatives and platform development.
 
 ## how-to-reach
-- Discord: @openhome
-- X/Twitter: [@openhome](https://x.com/openhome)
+You can reach Shannon on Discord at @openhome.
 
 ## connects-to
-- [[team/jesse]]
-- [[openhome]]
+[[team/jesse]]
+[[dev.openhome.com]]
+[[docs.openhome.com]]
+[[app.openhome.com]]
+[[github.com/openhome-dev/abilities]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
+```

@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-05-13
-```
+last_updated: 2026-05-14
+---
 
 ## definition
-Abilities as apps refer to modular voice plugins within the OpenHome platform that extend the functionalities of conversational AI agents, known as Personalities. Each Ability enables a Personality to perform specific tasks or skills, such as calling APIs, playing music, or controlling smart devices.
+Abilities-as-apps refers to modular voice plugins within the OpenHome platform that extend the functionalities of AI agents, also known as Personalities. These plugins allow users to add new skills, such as API calls, music playback, quizzes, and smart device control.
 
 ## why-it-matters
-This concept is crucial for the versatility and scalability of the OpenHome ecosystem. By allowing developers to create and integrate Abilities easily, OpenHome fosters a rich and customizable user experience, making AI interactions more engaging and practical for everyday use.
+This concept is essential for enhancing the user experience on the OpenHome platform, as it enables the personalization and customization of AI agents. By allowing developers and users to create and deploy Abilities easily, OpenHome fosters innovation and adaptability in voice interactions, making technology more accessible to everyone.
 
 ## how-it-manifests
-Abilities are designed to be triggered during voice conversations through specific hotwords. They run custom logic written in Python, allowing for a wide range of functionalities to be added to Personalities, enhancing their usability across various applications.
+Abilities appear in the OpenHome ecosystem as plugins that can be triggered by specific hotwords during voice conversations. Users can browse community-driven Abilities, fork examples, or create their own through the OpenHome Dashboard and GitHub repository.
 
 ## connects-to
 [[concepts/voice-first]]
@@ -22,4 +23,5 @@ Abilities are designed to be triggered during voice conversations through specif
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
+```

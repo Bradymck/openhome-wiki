@@ -2,28 +2,26 @@
 title: builders/shookdt
 entity_type: builders
 status: stub
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ```
 
-### who-they-are
-Shookdt is a software engineer focused on full-stack AI development. They have extensive experience in building systems using a diverse range of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, and Kotlin. Their work spans multiple domains, including web and mobile app development, LLM integration systems, RAG pipelines, AI agents, chatbots, multi-modal systems, and more.
+## who-they-are
+Shookdt is a software engineer focused on full-stack AI development, possessing extensive experience with a variety of programming languages and frameworks including React.js/Next.js, Python, Go, Rust, and TensorFlow. Shookdt is involved in developing voice AI applications on the OpenHome platform.
 
-### what-they-built
-As part of their contributions, Shookdt has been involved in the development of abilities or integrations related to OpenHome, an open-source Voice AI platform. They focus on creating conversational AI agents referred to as Personalities, enhancing them with modular voice plugins called Abilities.
+## what-they-built
+Details on specific shipped abilities or integrations have not been provided at this time, but Shookdt has experience in creating AI agents and integrating various technologies and systems.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
+## how-to-reach
+- Discord handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
-[[builders]]
-[[openhome]]
-[[abilities]]
-[[ai_agents]]
-[[devkit]]
+## connects-to
+[[OpenHome]]
+[[Voice AI]]
+[[AI Agents]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->

@@ -1,28 +1,30 @@
-```yaml
-title: builders/emperormidas
-entity_type: community builder
-status: stub
-last_updated: 2026-05-13
-```
+```markdown
+---
+title: Emperormidas
+entity_type: builders
+status: live
+last_updated: 2026-05-14
+---
 
-## who-they-are
-Emperormidas is a software engineer focusing on full-stack AI development. They possess extensive experience in building systems using a variety of programming languages and frameworks, including React.js/Next.js, Python, Ts/Js, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Emperormidas is involved in developing web/mobile applications, LLM integration systems, and AI agents, as well as handling various infrastructure tasks related to DevOps and MLOps.
+### who-they-are
+Emperormidas is a software engineer specializing in full stack AI development. They possess extensive experience in building systems with various programming languages and frameworks, including React.js, Python, Go, and Rust. Emperormidas focuses on developing web and mobile applications, LLM integration systems, AI agents, chatbots, and more.
 
-## what-they-built
-Emperormidas has contributed to the development of conversational AI agents and modular voice plugins known as Abilities on the OpenHome platform. They engage in building new skills for AI agents and have a particular focus on innovative approaches to user interaction through voice technology.
+### what-they-built
+Emperormidas has been involved in creating various abilities and integrations for the OpenHome platform, enhancing the capabilities of conversational AI agents. Specific contributions include developing modular voice plugins that add new skills such as calling APIs, playing music, and controlling smart home devices.
 
-## grant-status
-none
+### grant-status
+applied
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X (Twitter): Not specified
+### how-to-reach
+- **Discord handle:** Emperormidas
+- **GitHub:** [link](https://github.com/)
+- **X:** [link](https://x.com/)
 
-## connects-to
+### connects-to
 [[builders]]
+[[abilities]]
 [[OpenHome]]
+[[Voice AI]]
 [[AI agents]]
-[[Abilities]]
-
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
+```

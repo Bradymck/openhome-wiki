@@ -1,26 +1,25 @@
 ```markdown
 ---
 title: guides/sagarjethi
-entity_type: Community Guide
+entity_type: Community Guides
 status: live
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ---
 
 ### who-they-are
-Sagarjethi is a Software Engineer specializing in full stack AI development. They have extensive experience with a diverse range of programming languages and frameworks, including React.js/Next.js, Python, Go, Rust, C++, C#, Kotlin, and others. Their expertise encompasses building systems for Web/Mobile applications, integration of LLMs, RAG pipelines, multi-modal systems, and API integrations.
+Sagar Jethi is a Software Engineer specializing in full-stack AI development. They have extensive experience working with various programming languages, frameworks, and technologies including Python, JavaScript (React.js/Next.js), Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, and FastAPI. Sagar is knowledgeable in developing web and mobile applications, LLM integration systems, RAG pipelines, and has a strong background in machine learning operations and API integration.
 
 ### what-they-help-with
-Sagarjethi specializes in developing AI systems, specifically focusing on voice AI applications through platforms like OpenHome. They are well-versed in creating and managing Abilities—modular voice plugins that enhance AI agents with new skills, including controlling devices, playing music, and running quizzes. Their technical proficiency extends to DevOps and MLOps infrastructure.
+Sagar Jethi assists the community by providing expertise in building AI agents, chatbots, workflow automation, and integrating multi-modal systems. They can provide guidance on using the OpenHome platform to create abilities for smart devices, control hardware with custom Python logic, and troubleshoot issues related to the development kits and applications. Their skills encompass the entire project lifecycle, from design to deployment.
 
 ### how-to-reach
-You can reach Sagarjethi on Discord.
+You can reach Sagar Jethi on Discord. 
 
 ### connects-to
-[[OpenHome]]  
-[[AI Development]]  
-[[Voice AI]]  
-[[Abilities]]  
-[[APIs]]  
+- [[guides/openhome]]
+- [[guides/python]]
+- [[guides/machine-learning]]
+- [[guides/web-development]]
 
-<!-- synthesized: 2026-05-13T11:41:09Z -->
+<!-- synthesized: 2026-05-14T11:31:40Z -->
 ```
