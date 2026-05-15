@@ -1,25 +1,28 @@
-```markdown
----
+```yaml
 title: guides/sagarjethi
-entity_type: Community Guides
+entity_type: Community Guide
 status: live
-last_updated: 2026-05-14
----
-
-### who-they-are
-Sagar Jethi is a Software Engineer specializing in full-stack AI development. They have extensive experience working with various programming languages, frameworks, and technologies including Python, JavaScript (React.js/Next.js), Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, and FastAPI. Sagar is knowledgeable in developing web and mobile applications, LLM integration systems, RAG pipelines, and has a strong background in machine learning operations and API integration.
-
-### what-they-help-with
-Sagar Jethi assists the community by providing expertise in building AI agents, chatbots, workflow automation, and integrating multi-modal systems. They can provide guidance on using the OpenHome platform to create abilities for smart devices, control hardware with custom Python logic, and troubleshoot issues related to the development kits and applications. Their skills encompass the entire project lifecycle, from design to deployment.
-
-### how-to-reach
-You can reach Sagar Jethi on Discord. 
-
-### connects-to
-- [[guides/openhome]]
-- [[guides/python]]
-- [[guides/machine-learning]]
-- [[guides/web-development]]
-
-<!-- synthesized: 2026-05-14T11:31:40Z -->
+last_updated: 2026-05-15
 ```
+
+## who-they-are
+Sagarjethi is a Software Engineer specializing in full-stack AI development with extensive experience in various programming languages and frameworks including React.js, Python, Go, Rust, C++, Kotlin, and others. They possess skills in developing web and mobile applications, integrating Large Language Models (LLMs), and implementing AI agents and chatbots.
+
+## what-they-help-with
+Sagarjethi offers guidance on a wide range of topics related to AI development, including:
+- Development of web and mobile applications
+- Integration of AI technologies and systems
+- Creation and management of conversational AI agents
+- Building modular voice plugins (Abilities) for the OpenHome platform
+- Implementation of API integration systems and DevOps practices
+
+## how-to-reach
+Discord Handle: Sagarjethi
+
+## connects-to
+[[guides]]
+[[OpenHome]]
+[[AI Development]]
+[[Voice AI]]
+[[DevOps]]
+<!-- synthesized: 2026-05-15T11:36:14Z -->

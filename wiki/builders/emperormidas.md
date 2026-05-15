@@ -1,30 +1,28 @@
-```markdown
----
-title: Emperormidas
-entity_type: builders
-status: live
-last_updated: 2026-05-14
----
+```yaml
+title: builders/emperormidas
+entity_type: builders/
+status: stub
+last_updated: 2026-05-15
+```
 
-### who-they-are
-Emperormidas is a software engineer specializing in full stack AI development. They possess extensive experience in building systems with various programming languages and frameworks, including React.js, Python, Go, and Rust. Emperormidas focuses on developing web and mobile applications, LLM integration systems, AI agents, chatbots, and more.
+## who-they-are
+EmperorMidas is a software engineer with a focus on full-stack AI development. They possess extensive experience in building complex systems using various programming languages and frameworks, including React.js, Python, Go, Rust, C++, and TensorFlow.
 
-### what-they-built
-Emperormidas has been involved in creating various abilities and integrations for the OpenHome platform, enhancing the capabilities of conversational AI agents. Specific contributions include developing modular voice plugins that add new skills such as calling APIs, playing music, and controlling smart home devices.
+## what-they-built
+Information about specific abilities or integrations that EmperorMidas has shipped is currently not available.
 
-### grant-status
-applied
+## grant-status
+none
 
-### how-to-reach
-- **Discord handle:** Emperormidas
-- **GitHub:** [link](https://github.com/)
-- **X:** [link](https://x.com/)
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[builders]]
-[[abilities]]
+## connects-to
 [[OpenHome]]
 [[Voice AI]]
-[[AI agents]]
-<!-- synthesized: 2026-05-14T11:31:40Z -->
-```
+[[AI Agents]]
+[[Abilities]]
+
+<!-- synthesized: 2026-05-15T11:36:14Z -->

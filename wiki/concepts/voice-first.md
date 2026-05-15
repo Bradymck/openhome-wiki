@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-05-14
----
+last_updated: 2026-05-15
+```
 
 ## definition
-Voice-first is a design paradigm where voice interactions become the primary mode of communication between users and technology. In this approach, voice serves as the main interface for accessing features, functionalities, and information.
+Voice-first refers to a paradigm where voice interactions are prioritized in human-computer communication. In a voice-first platform, user engagements primarily occur through spoken commands instead of visual interfaces, allowing for a more natural and intuitive interaction with technology.
 
 ## why-it-matters
-Voice-first is crucial to OpenHome's mission of revolutionizing how users interact with technology. By prioritizing voice interactions, OpenHome aims to create more accessible and intuitive AI-powered applications that enhance everyday experiences and empower users through meaningful engagement with their devices.
+Voice-first technology is central to OpenHome's mission of revolutionizing user interaction with technology. By prioritizing voice, OpenHome aims to create immersive and human-like experiences that enhance everyday activities and empower users to connect meaningfully with their devices.
 
 ## how-it-manifests
-In OpenHome, the voice-first concept manifests through the creation of conversational AI agents known as Personalities. These agents utilize voice as the main form of interaction, allowing users to engage with the system's capabilities via voice commands. The platform supports modular voice plugins called Abilities, which can be integrated into these agents for enhanced functionality, all driven by voice input.
+In OpenHome, the voice-first approach is evident through the design and functionalities of its AI-powered conversational agents, called Personalities. These Personalities leverage voice recognition to respond to user commands, which enables integration with various abilities such as playing music, controlling smart home devices, and executing applications. Users can trigger these abilities using specific hotwords during voice conversations, highlighting the core focus on voice interaction.
 
 ## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
+[[concepts/abilities-as-apps]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-14T11:31:40Z -->
-```
+<!-- synthesized: 2026-05-15T11:36:14Z -->

@@ -1,27 +1,29 @@
-```yaml
-title: slowjamsteve
-entity_type: builders
+```markdown
+---
+title: builders/slowjamsteve
+entity_type: builders/
 status: stub
-last_updated: 2026-05-14
-```
+last_updated: 2026-05-15
+---
 
-## who-they-are
-Slowjamsteve is a software engineer with a focus on full-stack AI development. He possesses extensive experience in building systems across a wide range of programming languages and frameworks.
+### who-they-are
+SlowJamSteve is a software engineer focused on full-stack AI development. He has extensive experience in building systems with various programming languages and frameworks, including React.js, Python, Go, Rust, and others. He is particularly skilled in developing applications involving AI agents, LLM integration, and workflow automation.
 
-## what-they-built
-Slowjamsteve has worked on various projects related to building conversational AI agents on the OpenHome platform. He has experience in developing abilities for AI agents, which are modular voice plugins that enhance skills such as calling APIs, playing music, and controlling devices.
+### what-they-built
+Currently, there is no specific project or ability attributed to SlowJamSteve in the available information.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: @slowjamsteve
-- GitHub: [Slowjamsteve GitHub Profile](https://github.com/slowjamsteve)
-- X: Not provided
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-- [[builders]]
-- [[abilities]]
-- [[OpenHome]]
+### connects-to
+[[builders/]]
+[[openhome/]]
+[[AI_agents/]]
 
-<!-- synthesized: 2026-05-14T11:31:40Z -->
+<!-- synthesized: 2026-05-15T11:36:14Z -->
+```

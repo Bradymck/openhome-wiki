@@ -1,31 +1,30 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-05-14
+last_updated: 2026-05-15
 ---
 
-### who-they-are
-Pauldy is a builder engaged with OpenHome, contributing to the development of AI-powered voice applications. With extensive experience in full stack AI development, Pauldy focuses on building conversational AI agents and extending their capabilities.
+## who-they-are
+Pauldy is a Software Engineer with extensive experience in full-stack AI development. They specialize in building systems using various programming languages and frameworks, including React.js/Next.js, Python, Go, Rust, C++, and more. Pauldy has worked on a range of projects, including web and mobile app development, AI integration systems, and conversational AI agents.
 
-### what-they-built
-Details regarding specific abilities or integrations that Pauldy has shipped are currently unavailable. However, they actively participate in community discussions and contribute to the development of the platform.
+## what-they-built
+Currently, there is no specific shipped ability or integration attributed to Pauldy in the OpenHome community. More information may be needed to detail their contributions.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord: Not provided
+- GitHub: Not mentioned
+- X: Not mentioned
 
 ## connects-to
 [[builders]]
 [[OpenHome]]
-[[Abilities]]
 [[AI agents]]
-[[Voice applications]]
-
-<!-- synthesized: 2026-05-14T11:31:40Z -->
+[[Abilities]]
+[[Conversational AI]]
+<!-- synthesized: 2026-05-15T11:36:14Z -->
 ```

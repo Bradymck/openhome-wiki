@@ -3,31 +3,29 @@
 title: guides/franci
 entity_type: Community Guide
 status: live
-last_updated: 2026-05-14
+last_updated: 2026-05-15
 ---
 
 ### who-they-are
-Franci is a Software Engineer with a focus on full-stack AI development. They possess extensive experience in building systems using a wide range of programming languages and frameworks, including React.js, Python, Golang, and various AI-related technologies.
+Franci is a Software Engineer with extensive experience in full-stack AI development. They possess skills in various programming languages and frameworks, including React.js/Next.js, Python, TypeScript, JavaScript, Go, Rust, C++, C#, Kotlin, and more. Franci has developed systems for Web/Mobile applications, integrated large language models, built AI agents and chatbots, and worked on various AI-related projects.
 
 ### what-they-help-with
-Franci specializes in developing conversational AI agents and modular voice plugins for the OpenHome platform. Their expertise includes:
-- Web and mobile application development
-- LLM integration and RAG pipelines
-- API integration systems
-- NLP pipelines and vector search systems
-- DevOps and MLOps infrastructure
-
-Franci can assist users in creating Personalities and Abilities for their AI agents, helping them to effectively utilize the OpenHome platform.
+Franci specializes in building systems using diverse technologies, including:
+- Web and mobile app development
+- LLM integration systems
+- Retrieval-Augmented Generation (RAG) pipelines
+- AI agents and chatbots
+- Multi-modal systems
+- Workflow automation
+- Machine Learning Operations (MLOps) infrastructure
 
 ### how-to-reach
-Discord Handle: @FranciAI
+Discord Handle: Not provided in the source material.
 
 ### connects-to
 [[OpenHome]]
 [[AI Development]]
+[[Community Guides]]
 [[Voice AI]]
-[[Personalities]]
-[[Abilities]]
-
-<!-- synthesized: 2026-05-14T11:31:40Z -->
+<!-- synthesized: 2026-05-15T11:36:14Z -->
 ```

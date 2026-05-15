@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: concepts/dead-mans-switch
+title: Dead Man's Switch
 entity_type: concepts
-status: stub
-last_updated: 2026-05-14
+status: live
+last_updated: 2026-05-15
 ---
 
 ### definition
-A dead man's switch is a safety mechanism that automatically triggers an action if the user becomes incapacitated or fails to respond. It is often used in contexts like computer systems and machinery to ensure safety and prevent unintended consequences.
+A dead man's switch is a safety mechanism that requires a user to perform a specified action within a certain timeframe, or else a predetermined action is automatically triggered. This ensures that if the user is incapacitated or unable to respond, the system can still operate safely or as intended.
 
 ### why-it-matters
-In the context of OpenHome, the dead man's switch concept is relevant for enhancing the safety and reliability of AI-powered voice applications. It ensures that the systems can operate autonomously without constant human oversight, thus providing a level of trust and security for users.
+In the context of OpenHome, the dead man's switch concept enhances user safety and ensures continuity in functionality. It can be crucial in home automation scenarios, where an inability to control devices or access services could lead to unsafe situations or loss of utility.
 
 ### how-it-manifests
-While specific implementations of a dead man's switch within OpenHome's platform have not been detailed, it is an important consideration for developing autonomous agents and ensuring user safety in various applications.
+The dead man's switch may manifest in various applications within the OpenHome platform, such as requiring periodic check-ins from an AI personality or user confirmation to maintain specific automated actions. It could be implemented in smart home setups to ensure systems remain secure and operable only while the user is present and actively engaging with them.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific implementations of a dead man's switch within OpenHome's platform
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-14T11:31:40Z -->
+<!-- synthesized: 2026-05-15T11:36:14Z -->
 ```

@@ -1,30 +1,26 @@
-```markdown
----
-title: "builders/joyboyo42"
-entity_type: "builders"
-status: "stub"
-last_updated: "2026-05-14"
----
-
-### who-they-are
-Joyboyo42 is a software engineer focused on full-stack AI development, possessing extensive experience in building systems using a diverse range of programming languages and frameworks including React.js, Python, and TensorFlow. They are active in the OpenHome community and are involved in building voice AI agents and associated technologies.
-
-### what-they-built
-Information on specific abilities or integrations shipped by joyboyo42 is not currently available.
-
-### grant-status
-None
-
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
-
-### connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[Personalities]]
-[[Abilities]]
-
-<!-- synthesized: 2026-05-14T11:31:40Z -->
+```yaml
+title: joyboyo42
+entity_type: builders
+status: stub
+last_updated: 2026-05-15
 ```
+
+## who-they-are
+Joyboyo42 is a Software Engineer focused on full-stack AI development. They have extensive experience in building systems using a variety of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
+
+## what-they-built
+Joyboyo42 has experience in developing web and mobile applications, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, workflow automations, and API integration systems. Specific shipped abilities or integrations have not been detailed.
+
+## grant-status
+none
+
+## how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
+
+## connects-to
+[[builders]]
+[[abilities]]
+
+<!-- synthesized: 2026-05-15T11:36:14Z -->

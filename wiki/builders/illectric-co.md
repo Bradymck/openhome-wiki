@@ -2,27 +2,28 @@
 title: Illectric Co
 entity_type: builders
 status: live
-last_updated: 2026-05-14
+last_updated: 2026-05-15
 ```
 
 ## who-they-are
-Illectric Co is a community of developers focused on building applications and integrations for the OpenHome platform, which is an open-source Voice AI platform. They specialize in creating conversational AI agents known as "Personalities" and enhance them with modular plugins called "Abilities."
+Illectric Co is a community builder focusing on the development of voice AI applications through the OpenHome platform. They are engaged in creating conversational AI agents known as Personalities that enhance user interaction with technology.
 
 ## what-they-built
-Illectric Co has shipped various Abilities that allow users to create and extend their AI Personalities. Their contributions include web and mobile app development, LLM integration systems, and multi-modal systems. They facilitate the creation of AI agents that can perform tasks such as calling APIs, playing music, running quizzes, and controlling smart home devices.
+Illectric Co has contributed to the OpenHome platform by developing various modular voice plugins (Abilities) that enable Personalities to exhibit new skills, such as running quizzes, controlling smart devices, and integrating with APIs. They have actively participated in discussions to improve existing features and prototype new ideas.
 
 ## grant-status
-$1K
+none
 
 ## how-to-reach
-- Discord: Not explicitly provided in the sources
-- GitHub: [OpenHome Abilities](https://github.com/openhome-dev/abilities)
-- X: Not explicitly provided in the sources
+- Discord handle: Not specified
+- GitHub: [github.com/openhome-dev/abilities](https://github.com/openhome-dev/abilities)
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[OpenHome]]
-[[Personalities]]
-[[Abilities]]
+[[openhome]]
+[[voice AI]]
+[[modular voice plugins]]
+[[smart home integration]]
+[[conversational AI agents]]
 
-<!-- synthesized: 2026-05-14T11:31:40Z -->
+<!-- synthesized: 2026-05-15T11:36:14Z -->

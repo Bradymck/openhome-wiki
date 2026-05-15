@@ -1,29 +1,29 @@
 ```markdown
 ---
 title: builders/nicholas3415
-entity_type: builders
-status: live
-last_updated: 2026-05-14
+entity_type: builder
+status: stub
+last_updated: 2026-05-15
 ---
 
-## who-they-are
-Nicholas3415 is a Software Engineer focused on full stack AI development. They have extensive experience working with a variety of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Nicholas3415 specializes in developing web and mobile applications, LLM integration systems, NLP pipelines, and various AI agent systems.
+### who-they-are
+Nicholas3415 is a Software Engineer focusing on full stack AI development. He possesses extensive experience in building systems using a diverse range of languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. His areas of expertise include Web/Mobile app development, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, N8N, workflow automations, precision-tuned models, vector search systems, NLP pipelines, DevOps and MLOps infrastructure, and API integration systems.
 
-## what-they-built
-Nicholas3415 has contributed to building abilities and integrations within the OpenHome platform. They are involved with the development of conversational AI agents, enhancing them with modular voice plugins that expand their skills and capabilities. Nicholas3415 is active in the OpenHome community, sharing ideas and working on prototype abilities.
+### what-they-built
+Nicholas3415 is actively contributing to the OpenHome platform by developing conversational AI agents (Personalities) and extending them with modular voice plugins (Abilities). His work involves creating abilities for the cutting-edge smart speakers provided by OpenHome, which are designed to facilitate human-like voice interactions with technology.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
+### how-to-reach
+- Discord: Nicholas3415
 - GitHub: Not specified
-- X: Not specified
+- X (formerly Twitter): Not specified
 
 ## connects-to
-[[AI_agents]]
-[[Abilities]]
-[[OpenHome]]
+[[Special Abilities]]
+[[OpenHome Developers]]
+[[AI Agents]]
 
-<!-- synthesized: 2026-05-14T11:31:40Z -->
+<!-- synthesized: 2026-05-15T11:36:14Z -->
 ```

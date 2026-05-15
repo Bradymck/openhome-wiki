@@ -1,28 +1,22 @@
 ```markdown
 ---
-title: team/ali
+title: Ali
 entity_type: team
 status: stub
-last_updated: 2026-05-14
+last_updated: 2026-05-15
 ---
 
 ### who-they-are
-Ali is a Software Engineer focused on full-stack AI development with extensive experience in building systems using a diverse range of programming languages and frameworks.
+Ali is a core team member at OpenHome. 
 
 ### what-they-own
-Ali leads projects related to AI-powered voice applications, conversational AI agents, and the integration of modular voice plugins called Abilities within the OpenHome platform.
+Ali leads initiatives focused on developing modular voice plugins known as Abilities, enhancing the capabilities of conversational AI agents.
 
 ### how-to-reach
-Discord: N/A  
-X/Twitter: N/A  
-Preferred contact: N/A  
+No specific contact information for Ali has been provided at this time.
 
-### connects-to
-- [[team/jesse]]
-- [[team/shannon]]
-- [[developer_docs]]
-- [[gitHub]]
-- [[openhome_dashboard]]
-
-<!-- synthesized: 2026-05-14T11:31:40Z -->
+## connects-to
+[[team/jesse]]
+[[team/shannon]]
+<!-- synthesized: 2026-05-15T11:36:14Z -->
 ```
