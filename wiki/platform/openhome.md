@@ -1,15 +1,15 @@
 ```yaml
-title: OpenHome
+title: platform/openhome
 entity_type: platform
 status: live
-last_updated: 2026-05-15
+last_updated: 2026-05-16
 ```
 
 ## what-it-is
-OpenHome is an open-source Voice AI platform designed to facilitate the creation of conversational AI agents, referred to as Personalities, which can be enhanced with modular voice plugins called Abilities.
+OpenHome is an open-source Voice AI platform that allows users to build conversational AI agents called Personalities. These agents can be enhanced with Abilities, which are modular voice plugins that add diverse skills and functionalities.
 
 ## how-it-works
-OpenHome allows developers to build conversational AI agents by creating a Personality, which includes defining a voice, persona, and conversational style. Developers can extend these Personalities with Abilities—modular components that introduce new skills such as playing music, controlling devices, or interacting with APIs. Abilities are activated through hotwords during voice conversations and can execute custom Python logic. The platform provides development kits for building and testing these interactions, and supports a community-driven marketplace for sharing and forking Abilities.
+The platform operates by enabling developers to create AI agents that embody unique voices, personas, and conversational styles. Users can add various Abilities to these Personalities, allowing them to perform tasks such as executing API calls, playing music, controlling smart home devices, and administering quizzes. Abilities are activated by specific hotwords during voice interactions and are customizable using Python logic, providing a flexible development environment. OpenHome offers a dashboard for managing these functionalities and includes a community hub wherein users can explore, fork, and submit Abilities.
 
 ## current-status
 live
@@ -23,4 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+<!-- synthesized: 2026-05-16T11:19:42Z -->

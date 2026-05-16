@@ -1,25 +1,24 @@
-```markdown
----
-title: "platform/marketplace"
-entity_type: "platform"
-status: "stub"
-last_updated: 2026-05-15
----
+```yaml
+title: Platform Marketplace
+entity_type: platform/marketplace
+status: planned
+last_updated: 2026-05-16
+```
 
-### what-it-is
-The OpenHome marketplace is an ecosystem that supports the development, sharing, and monetization of voice AI applications and modular plugins referred to as Abilities. It serves as a platform where developers can collaborate, showcase their work, and interact with the community.
+## what-it-is
+The OpenHome Marketplace is a planned platform component designed to facilitate the discovery, sharing, and distribution of various abilities and applications developed within the OpenHome ecosystem.
 
-### how-it-works
-Developers can create and list their Abilities on the OpenHome marketplace, allowing users to discover and integrate these enhancements into their voice AI agents, known as Personalities. The marketplace functions as a repository where users can browse community-contributed Abilities, contributing to a rich library of tools that enhance user experiences with voice interactions. Additionally, the marketplace supports open-source contributions, enabling developers to refine existing Abilities or create new ones collaboratively.
+## how-it-works
+The Marketplace will allow developers to publish their custom abilities, enabling users to access a wide range of functionalities for their AI agents, referred to as Personalities. Users will be able to browse available abilities, read descriptions, and install them to extend the capabilities of their voice AI applications. Integration with the OpenHome dashboard is expected, making it easy for developers to manage their contributions and for users to discover new skills.
 
-### current-status
-stub
+## current-status
+planned
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/abilities]]
 [[platform/dashboard]]
+[[platform/live-editor]]
 [[platform/voice-ai]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
-```
+<!-- synthesized: 2026-05-16T11:19:42Z -->

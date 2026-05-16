@@ -1,29 +1,28 @@
-```markdown
----
+```yaml
 title: builders/xtremegamer007
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-05-15
----
+last_updated: 2026-05-16
+```
 
-### who-they-are
-xtremegamer007 is a Software Engineer with a focus on full stack AI development. They possess extensive experience in building systems across a diverse range of programming languages and frameworks, including React.js, Python, Go, C++, and various AI-related technologies.
+## who-they-are
+Xtremegamer007 is a software engineer focused on full stack AI development. They possess extensive experience with a diverse range of programming languages and frameworks, including React.js, Python, TypeScript, JavaScript, Go, Rust, C++, C#, Kotlin, and others. Their background encompasses the development of Web/Mobile applications, integration systems for large language models (LLM), and various AI projects.
 
-### what-they-built
-Details on specific shipped abilities or integrations for xtremegamer007 have not been provided in the available content. Their engagement suggests they are involved with OpenHome’s platform, but their contributions in terms of specific abilities remain unclear.
+## what-they-built
+Currently, there are no specific shipped abilities or integrations attributed to Xtremegamer007. Their work revolves around building systems for voice AI platforms, particularly enhancing conversational AI agents through modular abilities.
 
-### grant-status
-No applicable grant status is documented for xtremegamer007.
+## grant-status
+none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
+## connects-to
+[[builders]]
 [[OpenHome]]
-[[Abilities]]
-[[Voice AI Development]]
+[[Voice AI]]
+[[AI Development]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
-```
+<!-- synthesized: 2026-05-16T11:19:42Z -->

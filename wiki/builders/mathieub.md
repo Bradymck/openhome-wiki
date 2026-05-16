@@ -1,27 +1,29 @@
 ```yaml
 title: builders/mathieub
-entity_type: builder
+entity_type: builders
 status: live
-last_updated: 2026-05-15
+last_updated: 2026-05-16
 ```
 
 ### who-they-are
-Mathieu is a Software Engineer focused on full stack AI development. He possesses extensive experience in building systems using a variety of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
+Mathieu B. is a Software Engineer focused on full stack AI development, with extensive experience in various programming languages and frameworks including Python, JavaScript, TypeScript, and more. He specializes in building systems for voice AI, conversational agents, and multi-modal systems.
 
 ### what-they-built
-Mathieu has been involved in the development of Web/Mobile applications, LLM integration systems, RAG pipelines, AI agents, chatbots, multi-modal systems, N8N, workflow automations, MCP integration, precision-tuned models, vector search systems, NLP pipelines, as well as both DevOps and MLOps infrastructure, and API integration systems. He is actively contributing to building abilities on the OpenHome platform.
+Mathieu has been actively involved in the development of abilities for the OpenHome platform, contributing to the creation of AI agents and plugins that enhance the user experience on the platform.
 
 ### grant-status
-none
+$1K
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: `@mathieub`
+- GitHub: [mathieub](https://github.com/mathieub)
+- X: [mathieub_x](https://twitter.com/mathieub_x)
 
-### connects-to
-[[builders]]
+## connects-to
+[[abilities]]
 [[OpenHome]]
-[[Abilities]]
-
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+[[voice AI]]
+[[conversational agents]]
+[[DevKit]]
+<!-- synthesized: 2026-05-16T11:19:42Z -->
+```

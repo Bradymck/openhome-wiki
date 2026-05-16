@@ -2,27 +2,26 @@
 ---
 title: Roadmap - Current Sprint
 entity_type: roadmap
-status: live
-last_updated: 2026-05-15
+status: in-progress
+last_updated: 2026-05-16
 ---
 
-### what-it-is
-OpenHome is currently in the process of shipping the V0.1 DevKit, which is a cutting-edge smart speaker designed for developers to build and prototype voice AI agents and abilities.
+## what-it-is
+The current sprint involves the distribution of physical V0.1 development kits for OpenHome, enabling developers to build conversational AI agents, known as Personalities, and extend them with modular voice plugins called Abilities.
 
-### status
+## status
 in-progress
 
-### why-it-matters
-The V0.1 DevKit allows developers and contributors to create modular voice applications and interactive AI agents, enhancing how users engage with technology through voice interactions. By providing physical development kits, OpenHome encourages experimentation and development within its open-source platform.
+## why-it-matters
+This initiative aims to empower developers and enhance the accessibility of voice AI technology. By providing devkits, OpenHome encourages innovation and community contributions which are essential for expanding its platform capabilities and fostering a supportive developer environment.
 
-### eta
-Shipping globally in small batches. Specific timelines unclear for all recipients.
+## eta
+Shipping globally in small batches, with ongoing releases for top contributions and feedback.
 
-### connects-to
+## connects-to
 [[OpenHome]]
-[[DevKit]]
-[[Abilities]]
-[[Voice AI]]
-
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+[[Developer Docs]]
+[[OpenHome Dashboard]]
+[[GitHub Abilities]]
+<!-- synthesized: 2026-05-16T11:19:42Z -->
 ```

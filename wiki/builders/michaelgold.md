@@ -1,27 +1,27 @@
 ```yaml
-title: Michael Gold
-entity_type: builders/michaelgold
-status: live
-last_updated: 2026-05-15
+title: "builders/michaelgold"
+entity_type: builders
+status: stub
+last_updated: 2026-05-16
 ```
 
 ## who-they-are
-Michael Gold is a software engineer focusing on full-stack AI development. He possesses extensive experience in various programming languages and frameworks, including but not limited to React.js, Python, Go, Rust, and TensorFlow. His expertise lies in developing Web/Mobile applications, AI agents, and systems for integration with machine learning models and automation workflows.
+Michael Gold is a Software Engineer focused on full stack AI development. He possesses extensive experience building systems using a diverse range of languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. His expertise includes developing web and mobile applications, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, N8N, workflow automations, MCP integration, precision-tuned models, vector search systems, NLP pipelines, as well as DevOps and MLOps infrastructure, and API integration systems.
 
 ## what-they-built
-Michael has been involved in building abilities and integrations on the OpenHome platform, which focuses on creating conversational AI agents capable of interacting with users through voice. He has contributed to modules that extend the functionalities of these agents, enhancing their capabilities to perform various tasks through voice commands.
+Michael is actively involved in building on the OpenHome platform, specifically focusing on creating conversational AI agents known as Personalities and extending their capabilities with Abilities (modular voice plugins). The projects he has contributed to are centered on building innovative voice AI solutions, using various technologies and frameworks.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: Unknown
+- GitHub: Unknown
+- X: Unknown
 
 ## connects-to
-[[builders/michaelgold]]  
-[[openhome]]  
-[[abilities]]  
+[[OpenHome]]
+[[Abilities]]
+[[Personalities]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+<!-- synthesized: 2026-05-16T11:19:42Z -->

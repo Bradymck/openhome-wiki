@@ -1,28 +1,28 @@
 ```yaml
-title: trivia
+title: Abilities: Trivia
 entity_type: abilities
 status: live
-last_updated: 2026-05-15
+last_updated: 2026-05-16
 ```
 
 ## what-it-does
-The Trivia ability allows users to engage in quizzes and trivia games by asking questions to the AI. It enhances the conversational experience by providing fun and interactive knowledge challenges.
+Trivia is an interactive voice ability that allows users to engage in quizzes and tests of general knowledge. It enhances the conversational capabilities of AI personalities by generating questions and providing feedback based on user responses.
 
 ## how-to-build
-To create a Trivia ability, developers can utilize the OpenHome SDK, which supports Python logic to formulate questions and answers. Integrate external trivia APIs for a broad database of questions or manually curate a set of trivia questions within the application. Triggering this ability can be implemented using specific hotwords related to trivia queries.
+To create the Trivia ability, developers will utilize the OpenHome platform's API. The ability requires custom Python logic to manage the flow of questions and answers. Developers should follow the guidelines in the OpenHome Developer Docs to set up the necessary components, including triggering hotwords for interaction.
 
 ## category
-entertainment
+utility
 
 ## built-by
-[developers/trivia-builder](#)
+[[Builder Name]]  <!-- Replace with actual builder page link -->
 
 ## status
 live
 
 ## connects-to
-[[abilities/aquaprime]]
-[[abilities/deadman-fm]]
-[[abilities/news-brief]]
+[[abilities/aquaprime]]  
+[[abilities/deadman-fm]]  
+[[abilities/news-brief]]  
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+<!-- synthesized: 2026-05-16T11:19:42Z -->

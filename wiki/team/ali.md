@@ -1,22 +1,25 @@
 ```markdown
 ---
-title: Ali
+title: team/ali
 entity_type: team
 status: stub
-last_updated: 2026-05-15
+last_updated: 2026-05-16
 ---
 
 ### who-they-are
-Ali is a core team member at OpenHome. 
+Ali is a key member of the OpenHome team, currently holding the role of Server Admin. Ali has extensive experience in full-stack AI development and has contributed significantly to the OpenHome platform.
 
 ### what-they-own
-Ali leads initiatives focused on developing modular voice plugins known as Abilities, enhancing the capabilities of conversational AI agents.
+Ali leads the server management and infrastructure for the OpenHome platform, ensuring its stability and performance. They are involved in the development and deployment of the backend services that support OpenHome's AI-powered voice applications.
 
 ### how-to-reach
-No specific contact information for Ali has been provided at this time.
+Ali can be reached via Discord, where their handle is not specified in the available information.
 
-## connects-to
+### connects-to
 [[team/jesse]]
 [[team/shannon]]
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+[[openhome/abilities]]
+[[openhome/devkit]]
+
+<!-- synthesized: 2026-05-16T11:19:42Z -->
 ```

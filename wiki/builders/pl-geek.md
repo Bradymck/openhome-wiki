@@ -1,31 +1,30 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: active
+entity_type: builders/
 status: stub
-last_updated: 2026-05-15
+last_updated: 2026-05-16
 ---
 
 ### who-they-are
-Pl-geek is a Software Engineer focused on full stack AI development, possessing extensive experience in building systems using a diverse range of languages and frameworks, such as React.js, Python, Go, Rust, and many more.
+Pl-geek is a Software Engineer with a focus on full stack AI development. They possess extensive experience in building systems using various programming languages and frameworks, including React.js/Next.js, Python, Ts/Js, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
 
 ### what-they-built
-Pl-geek has contributed to developing Web/Mobile applications, LLM integration systems, AI agents, chatbots, and multi-modal systems. They are also involved with N8N workflow automations, precision-tuned models, and NLP pipelines.
+Pl-geek has contributed to the development of web/mobile app projects, LLM integration systems, RAG pipelines, AI agents, chatbots, multi-modal systems, workflow automations, precision-tuned models, vector search systems, NLP pipelines, and API integration systems.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
+- Discord handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[abilities]]
 [[OpenHome]]
-[[AI Agents]]
+[[AI Development]]
 [[Voice AI]]
-[[Web/Mobile Development]]
+[[Chatbots]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+<!-- synthesized: 2026-05-16T11:19:42Z -->
 ```

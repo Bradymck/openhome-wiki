@@ -3,23 +3,21 @@
 title: Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-05-15
+last_updated: 2026-05-16
 ---
 
 ### who-they-are
-Kaeden is a core team member at OpenHome, contributing to the development and enhancement of the platform's voice AI capabilities.
+Kaeden is a core member of the OpenHome team, specifically holding roles in administration and server administration. Further specifics about their professional background are not available.
 
 ### what-they-own
-Kaeden leads initiatives related to the integration and optimization of AI-driven functionalities within OpenHome's ecosystem, focusing on improving user interaction through voice AI technologies.
+Kaeden leads initiatives and projects related to the development and enhancement of the OpenHome platform.
 
 ### how-to-reach
-Reach Kaeden on Discord for inquiries or discussions regarding OpenHome's development: @kaeden.
+Currently, no contact information such as a Discord handle or social media links for Kaeden has been provided.
 
-### connects-to
+## connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[dev.openhome.com]]
-[[docs.openhome.com]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+<!-- synthesized: 2026-05-16T11:19:42Z -->
 ```

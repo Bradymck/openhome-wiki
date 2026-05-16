@@ -1,19 +1,18 @@
-```markdown
----
-title: Spatial Intelligence
+```yaml
+title: concepts/spatial-intelligence
 entity_type: concepts
 status: planned
-last_updated: 2026-05-15
----
+last_updated: 2026-05-16
+```
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial information, which is critical for understanding environments and spatial relationships. In the context of digital platforms like OpenHome, it involves how users and AI agents interact with three-dimensional spaces and objects.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and dimensions in the environment. It encompasses skills such as understanding the layout of physical spaces, navigating through them, and conceptualizing spatial arrangements.
 
 ## why-it-matters
-Spatial intelligence is relevant to OpenHome as it enhances user interaction with voice AI agents and smart home devices. It facilitates more intuitive control and navigation of physical spaces, allowing users to issue commands based on their spatial understanding and context.
+Spatial intelligence is crucial in the context of OpenHome as it enhances user interaction with physical environments through voice-controlled AI agents. By integrating spatial intelligence, OpenHome aims to enable agents to understand and respond to users' needs based on their physical surroundings, making interactions more intuitive and effective.
 
 ## how-it-manifests
-This concept can manifest in OpenHome through functionalities that allow voice AI agents to respond to commands that pertain to the physical arrangement of the home, enabling tasks like manipulating devices based on their locations or providing contextual responses that take into account user positioning and environmental factors.
+In the OpenHome platform, spatial intelligence may manifest through the development of abilities that allow AI agents to control smart home devices based on their spatial context. This includes tasks such as managing lighting, adjusting temperature, or organizing media playback according to the location of users in a home environment. The ability to understand spatial cues will improve the way users interact with their voice assistants, creating a more cohesive and responsive smart home experience.
 
 ## connects-to
 - [[concepts/abilities-as-apps]]
@@ -23,5 +22,4 @@ This concept can manifest in OpenHome through functionalities that allow voice A
 - [[concepts/dead-mans-switch]]
 - [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
-```
+<!-- synthesized: 2026-05-16T11:19:42Z -->

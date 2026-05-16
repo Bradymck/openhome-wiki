@@ -1,29 +1,27 @@
-```markdown
----
+```yaml
 title: builders/nicholas3415
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-05-15
----
+last_updated: 2026-05-16
+```
 
 ### who-they-are
-Nicholas3415 is a Software Engineer focusing on full stack AI development. He possesses extensive experience in building systems using a diverse range of languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. His areas of expertise include Web/Mobile app development, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, N8N, workflow automations, precision-tuned models, vector search systems, NLP pipelines, DevOps and MLOps infrastructure, and API integration systems.
+Nicholas3415 is a software engineer specializing in full stack AI development. They possess extensive experience in various programming languages and frameworks, including React.js, Python, Go, Rust, and others. Nicholas3415 is particularly focused on developing web and mobile applications, integrating large language models (LLMs), and creating AI agents.
 
 ### what-they-built
-Nicholas3415 is actively contributing to the OpenHome platform by developing conversational AI agents (Personalities) and extending them with modular voice plugins (Abilities). His work involves creating abilities for the cutting-edge smart speakers provided by OpenHome, which are designed to facilitate human-like voice interactions with technology.
+Currently, there is no specific information available regarding projects, abilities, or integrations that Nicholas3415 has shipped within the OpenHome platform.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Nicholas3415
-- GitHub: Not specified
-- X (formerly Twitter): Not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X (formerly Twitter): Not provided
 
-## connects-to
-[[Special Abilities]]
-[[OpenHome Developers]]
-[[AI Agents]]
+### connects-to
+[[OpenHome]]
+[[Voice AI]]
+[[AI Development]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
-```
+<!-- synthesized: 2026-05-16T11:19:42Z -->

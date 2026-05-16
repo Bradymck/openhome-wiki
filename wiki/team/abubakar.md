@@ -1,22 +1,21 @@
-```markdown
----
-title: "Abubakar"
-entity_type: "team"
-status: "stub"
-last_updated: 2026-05-15
----
+```yaml
+title: Abubakar
+entity_type: team
+status: stub
+last_updated: 2026-05-16
+```
 
-### who-they-are
-Abubakar is a core member of the OpenHome team, contributing in areas related to AI development and voice technology.
+## who-they-are
+Abubakar holds a role within the OpenHome team, focusing on voice AI development. They possess a diverse skill set that includes experience in full-stack development, particularly with AI systems and conversational agents.
 
-### what-they-own
-Abubakar leads various initiatives focused on the development and implementation of AI agents and the integration of modular abilities within the OpenHome platform.
+## what-they-own
+Abubakar leads initiatives related to the development and enhancement of OpenHome's voice AI platform, contributing to the creation and integration of various skills and abilities for AI agents.
 
-### how-to-reach
-Preferred contact methods for Abubakar are currently unspecified.
+## how-to-reach
+Contact Abubakar via Discord for discussions pertaining to projects and collaborations.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
-<!-- synthesized: 2026-05-15T11:36:14Z -->
-```
+
+<!-- synthesized: 2026-05-16T11:19:42Z -->

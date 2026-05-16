@@ -1,30 +1,27 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-05-15
+last_updated: 2026-05-16
 ---
 
-## who-they-are
-Pauldy is a Software Engineer with extensive experience in full-stack AI development. They specialize in building systems using various programming languages and frameworks, including React.js/Next.js, Python, Go, Rust, C++, and more. Pauldy has worked on a range of projects, including web and mobile app development, AI integration systems, and conversational AI agents.
+### who-they-are
+Pauldy is a Software Engineer with a focus on full stack AI development. They possess extensive experience in building systems using a diverse range of programming languages and frameworks.
 
-## what-they-built
-Currently, there is no specific shipped ability or integration attributed to Pauldy in the OpenHome community. More information may be needed to detail their contributions.
+### what-they-built
+Details about specific abilities or integrations built by Pauldy are not currently available.
 
-## grant-status
-none
+### grant-status
+stub
 
-## how-to-reach
-- Discord: Not provided
-- GitHub: Not mentioned
-- X: Not mentioned
+### how-to-reach
+- **Discord Handle:** Not provided
+- **GitHub:** Not provided
+- **X:** Not provided
 
 ## connects-to
-[[builders]]
+[[abilities]]
 [[OpenHome]]
-[[AI agents]]
-[[Abilities]]
-[[Conversational AI]]
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+<!-- synthesized: 2026-05-16T11:19:42Z -->
 ```

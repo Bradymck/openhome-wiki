@@ -1,25 +1,23 @@
-```markdown
----
-title: "Sira"
-entity_type: "guides/"
-status: live
-last_updated: 2026-05-15
----
+```yaml
+title: "guides/sira"
+entity_type: "Community Guide"
+status: "stub"
+last_updated: "2026-05-16"
+```
 
 ## who-they-are
-Sira is an experienced software engineer specializing in full-stack AI development. They possess extensive expertise in multiple programming languages and frameworks, including React.js, Python, Go, Rust, and TensorFlow.
+No specific background information about Sira is available at this time.
 
 ## what-they-help-with
-Sira focuses on building systems for AI applications, including web and mobile development, API integrations, and the creation of conversational AI agents. They can assist with abilities related to AI agent development, workflow automation, and integrating technologies like LLMs.
+No specific details about the specialties or abilities of Sira are currently available.
 
 ## how-to-reach
-Sira can be reached on Discord.
+Contact information for Sira, including their Discord handle, is not provided.
 
 ## connects-to
-[[guides]]
+[[Community Guides]]
 [[OpenHome]]
-[[DevKit]]
-[[abilities]]
-[[API integration]]
-<!-- synthesized: 2026-05-15T11:36:14Z -->
-```
+[[Voice AI]]
+[[Abilities]]
+
+<!-- synthesized: 2026-05-16T11:19:42Z -->

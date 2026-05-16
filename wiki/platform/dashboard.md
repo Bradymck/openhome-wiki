@@ -1,21 +1,20 @@
-```markdown
----
+```yaml
 title: Platform Dashboard
 entity_type: platform/dashboard
 status: live
-last_updated: 2026-05-15
----
+last_updated: 2026-05-16
+```
 
-### what-it-is
-The OpenHome Dashboard is a web application that serves as the central interface for managing AI agents within the OpenHome platform. It allows users to configure settings, control devices, and monitor the performance of their voice AI agents.
+## what-it-is
+The OpenHome Dashboard is a web-based interface that allows users to manage and interact with their AI agents, referred to as Personalities, and their associated Abilities on the OpenHome platform.
 
-### how-it-works
-The Dashboard provides a user-friendly interface where developers can create and manage their AI agents, referred to as Personalities. Users can customize various aspects of their agents, including voice, persona, and abilities, which are modular voice plugins that enhance the functionality of the agents. The Dashboard also allows for the control of connected devices, volume settings, and monitoring of abilities triggered during voice interactions.
+## how-it-works
+Users can access the Dashboard to create and configure Personalities by setting their voice, persona, and interaction style. The Dashboard also facilitates the addition of Abilities, which are modular plugins that enhance the functionality of Personalities by enabling skills such as API interaction, device control, and media playback. From the Dashboard, users can manage settings, view device status, and perform actions like adjusting volume, which can also be controlled via voice commands. It acts as a central hub for developers and users to engage with the OpenHome ecosystem.
 
-### current-status
+## current-status
 live
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -24,5 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
-```
+<!-- synthesized: 2026-05-16T11:19:42Z -->

@@ -1,28 +1,30 @@
-```yaml
+```markdown
+---
 title: builders/emperormidas
-entity_type: builders/
+entity_type: community builder
 status: stub
-last_updated: 2026-05-15
-```
+last_updated: 2026-05-16
+---
 
-## who-they-are
-EmperorMidas is a software engineer with a focus on full-stack AI development. They possess extensive experience in building complex systems using various programming languages and frameworks, including React.js, Python, Go, Rust, C++, and TensorFlow.
+### who-they-are
+Emperormidas is a community builder and software engineer focused on full stack AI development. They possess extensive experience building systems using a diverse range of languages and frameworks, including React.js, Python, Go, and various AI and machine learning technologies.
 
-## what-they-built
-Information about specific abilities or integrations that EmperorMidas has shipped is currently not available.
+### what-they-built
+Details about specific abilities or integrations built by Emperormidas are not available at this time.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
 
-## connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[AI Agents]]
-[[Abilities]]
+### connects-to
+- [[OpenHome]]
+- [[DevKit]]
+- [[Personalities]]
+- [[Abilities]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+<!-- synthesized: 2026-05-16T11:19:42Z -->
+```

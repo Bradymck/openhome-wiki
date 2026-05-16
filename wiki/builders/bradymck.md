@@ -2,17 +2,17 @@
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-05-15
+last_updated: 2026-05-16
 ```
 
 ## who-they-are
-bradymck is a software engineer focused on full stack AI development. They have extensive experience in building systems using a diverse range of languages and frameworks, including but not limited to React.js/Next.js, Python, Go, and Rust. Their areas of expertise include web and mobile app development, LLM integration systems, AI agents and chatbots, and API integration systems.
+bradymck is a Software Engineer focusing on full-stack AI development with extensive experience in various programming languages and frameworks, including React.js, Python, Go, and TensorFlow. They specialize in developing AI agents, LLM integration systems, and workflow automation.
 
 ## what-they-built
-Details about specific abilities or integrations built by bradymck are not provided in the current sources.
+While specific abilities or integrations built by bradymck are not detailed in the provided sources, their involvement in AI development indicates potential contributions to OpenHome's voice AI platform, including the creation of systems that interact with OpenHome's APIs.
 
 ## grant-status
-unknown
+none
 
 ## how-to-reach
 - Discord: Not specified
@@ -20,8 +20,7 @@ unknown
 - X: Not specified
 
 ## connects-to
-[[OpenHome]]
-[[AI Agents]]
-[[Voice AI]]
+[[builders]]
+[[abilities]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+<!-- synthesized: 2026-05-16T11:19:42Z -->

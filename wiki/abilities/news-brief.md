@@ -1,30 +1,28 @@
-```markdown
----
+```yaml
 title: Abilities News Brief
-entity_type: abilities/news-brief
+entity_type: abilities/
 status: live
-last_updated: 2026-05-15
----
+last_updated: 2026-05-16
+```
 
-### what-it-does
-The "Abilities News Brief" serves as a communication channel for the community regarding new capabilities, updates, and engaging content about various abilities developed for the OpenHome platform. It facilitates discussions on building, sharing, and enhancing voice AI plugins.
+## what-it-does
+The Abilities News Brief provides updates and information regarding the OpenHome platform, focusing on new features, development kits, and community engagement opportunities. It aims to keep developers and users informed about the development and expansion of voice AI agents and their associated capabilities. 
 
-### how-to-build
-While specific building instructions are not provided, developers are encouraged to visit the [OpenHome Developer Docs](https://docs.openhome.com/) for comprehensive guidance on creating voice AI agents and modular voice plugins known as Abilities. Developers can also refer to the [GitHub repository](https://github.com/openhome-dev/abilities) for examples and contribution guidance.
+## how-to-build
+To create an Ability for the OpenHome platform, developers can begin by accessing the [Developer Docs](https://docs.openhome.com/) to understand the framework and available APIs. Developers can explore existing community Abilities and utilize GitHub for collaboration and example code. Adding or prototyping an Ability can enhance chances of receiving a physical V0.1 devkit which can be used to build and test projects.
 
-### category
+## category
 utility
 
-### built-by
-[[OpenHome Community]]
+## built-by
+[[openhome-dev]]
 
-### status
+## status
 live
 
-### connects-to
-- [[abilities/aquaprime]]
-- [[abilities/deadman-fm]]
-- [[abilities/trivia]]
+## connects-to
+[[abilities/aquaprime]]
+[[abilities/deadman-fm]]
+[[abilities/trivia]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
-```
+<!-- synthesized: 2026-05-16T11:19:42Z -->

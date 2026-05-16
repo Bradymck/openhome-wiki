@@ -1,29 +1,28 @@
-```markdown
----
-title: Roadmap and Planned Features for OpenHome
+```yaml
+title: Roadmap for OpenHome
 entity_type: roadmap/planned
 status: live
-last_updated: 2026-05-15
----
-
-## what-it-is
-OpenHome is an open-source Voice AI platform that allows developers to build and customize AI agents called Personalities. These agents can be extended with Abilities, which are modular voice plugins that enrich their skill sets. The platform is currently promoting physical V0.1 development kits capable of supporting these developments.
-
-## status
-In-Progress
-
-## why-it-matters
-The OpenHome initiative aims to make AI-powered voice applications universally accessible, enabling users to interact with technology in more intuitive and human-like manners. The physical devkits being distributed foster innovation and development within the community, encouraging contributions that advance the platform’s capabilities.
-
-## eta
-Ongoing distribution of devkits and updates, with no specific end date mentioned for the current development phase.
-
-## connects-to
-[[OpenHome]]  
-[[OpenClaw]]  
-[[Abilities]]  
-[[Personalities]]  
-[[Developer Docs]]  
-
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+last_updated: 2026-05-16
 ```
+
+# What It Is
+OpenHome is a voice AI platform that enables the creation of conversational AI agents, known as Personalities, which can be enhanced with modular voice plugins called Abilities. The platform offers physical development kits (DevKit) for developers to prototype and build new features.
+
+# Status
+- **DevKit V0.1**: Shipped
+- **DevKit V0.2**: In-progress
+- **Community Abilities**: Ongoing development with contributions encouraged
+
+# Why It Matters
+The OpenHome platform aims to democratize voice AI technology by allowing developers to create intuitive, voice-first applications. By providing tools and resources such as physical DevKits and an active community, OpenHome empowers users to build innovative solutions and enhance user interaction with technology.
+
+# ETA
+- DevKit V0.1: Already shipped; ongoing shipments globally in small batches
+- DevKit V0.2: Expected to be in-use with updates from developer feedback
+
+## Connects To
+- [[OpenHome]]
+- [[OpenHome Abilities]]
+- [[Discord Community]]
+
+<!-- synthesized: 2026-05-16T11:19:42Z -->

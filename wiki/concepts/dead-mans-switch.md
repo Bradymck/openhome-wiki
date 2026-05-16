@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: Dead Man's Switch
 entity_type: concepts
-status: live
-last_updated: 2026-05-15
----
-
-### definition
-A dead man's switch is a safety mechanism that requires a user to perform a specified action within a certain timeframe, or else a predetermined action is automatically triggered. This ensures that if the user is incapacitated or unable to respond, the system can still operate safely or as intended.
-
-### why-it-matters
-In the context of OpenHome, the dead man's switch concept enhances user safety and ensures continuity in functionality. It can be crucial in home automation scenarios, where an inability to control devices or access services could lead to unsafe situations or loss of utility.
-
-### how-it-manifests
-The dead man's switch may manifest in various applications within the OpenHome platform, such as requiring periodic check-ins from an AI personality or user confirmation to maintain specific automated actions. It could be implemented in smart home setups to ensure systems remain secure and operable only while the user is present and actively engaging with them.
-
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
-
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+status: stub
+last_updated: 2026-05-16
 ```
+
+## definition
+A dead man's switch is a safety mechanism that automatically performs a specified action in the event of a failure, typically signifying that the operator is incapacitated or unresponsive.
+
+## why-it-matters
+In the context of OpenHome, a dead man's switch can enhance user safety and reliability, especially in smart home environments where autonomous interactions may occur. It ensures that if a user stops engagement—whether due to an emergency or other reasons—the system can take predefined actions to maintain safety and security.
+
+## how-it-manifests
+While specific implementations within the OpenHome platform have not been detailed, the concept may manifest in ability designs, where an agent must ensure user presence or response to continue executing critical tasks or actions.
+
+## connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
+
+<!-- synthesized: 2026-05-16T11:19:42Z -->

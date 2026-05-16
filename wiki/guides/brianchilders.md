@@ -1,25 +1,25 @@
 ```markdown
 ---
-title: guides/brianchilders
-entity_type: guides
-status: stub
-last_updated: 2026-05-15
+title: "guides/brianchilders"
+entity_type: "Community Guide"
+status: "stub"
+last_updated: 2026-05-16
 ---
 
 ### who-they-are
-Brian Childers is a Software Engineer with a focus on full-stack AI development. He has extensive experience in developing systems using a variety of languages and frameworks including React.js, Python, Go, and many others.
+Brian Childers is a Software Engineer specializing in full stack AI development with extensive experience across a range of programming languages and frameworks.
 
 ### what-they-help-with
-Brian specializes in building web and mobile applications, LLM integration systems, AI agents, chatbots, multi-modal systems, and workflow automation. He has experience with DevOps and MLOps infrastructure, as well as API integration.
+Brian provides assistance in developing systems utilizing technologies such as React.js/Next.js, Python, Go, Rust, and various AI frameworks including PyTorch and TensorFlow. His expertise includes creating Web and Mobile applications, integrating language models, developing AI agents and chatbots, automating workflows, and building API integration systems.
 
 ### how-to-reach
-Brian can be reached on Discord, though his specific Discord handle was not provided in the extracted content.
+Brian can be reached on Discord; his handle is not specified in the provided information.
 
 ### connects-to
 [[guides]]
 [[OpenHome]]
-[[OpenClaw]]
 [[AI Development]]
+[[Community Guides]]
 
-<!-- synthesized: 2026-05-15T11:36:14Z -->
+<!-- synthesized: 2026-05-16T11:19:42Z -->
 ```
