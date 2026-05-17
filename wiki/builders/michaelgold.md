@@ -1,27 +1,30 @@
-```yaml
-title: "builders/michaelgold"
-entity_type: builders
+```markdown
+---
+title: builders/michaelgold
+entity_type: community builder
 status: stub
-last_updated: 2026-05-16
-```
+last_updated: 2026-05-17
+---
 
-## who-they-are
-Michael Gold is a Software Engineer focused on full stack AI development. He possesses extensive experience building systems using a diverse range of languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. His expertise includes developing web and mobile applications, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, N8N, workflow automations, MCP integration, precision-tuned models, vector search systems, NLP pipelines, as well as DevOps and MLOps infrastructure, and API integration systems.
+### who-they-are
+Michael Gold is a Software Engineer focused on full stack AI development. He possesses extensive experience building systems using a diverse range of programming languages and frameworks, including React.js/Next.js, Python, Go, and Rust. His specialties include the development of web and mobile applications, LLM integration systems, AI agents, and automation workflows.
 
-## what-they-built
-Michael is actively involved in building on the OpenHome platform, specifically focusing on creating conversational AI agents known as Personalities and extending their capabilities with Abilities (modular voice plugins). The projects he has contributed to are centered on building innovative voice AI solutions, using various technologies and frameworks.
+### what-they-built
+Michael has contributed to various projects within the OpenHome platform, particularly relating to the development of Abilities for voice AI agents. His work includes LLM integration systems, multi-modal AI systems, and workflow automations. Specific abilities that he has developed are not detailed in the provided material.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Unknown
-- GitHub: Unknown
-- X: Unknown
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified (potentially directly associated with OpenHome projects)
+- X: Not specified
 
-## connects-to
-[[OpenHome]]
-[[Abilities]]
-[[Personalities]]
+### connects-to
+- [[OpenHome]]
+- [[Abilities]]
+- [[Voice AI]]
+- [[AI Development]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->
+```

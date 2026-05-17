@@ -1,25 +1,27 @@
-```yaml
-title: Voice-First
+```markdown
+---
+title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-05-16
-```
+last_updated: 2026-05-17
+---
 
 ## definition
-Voice-first refers to applications and interfaces designed to prioritize voice interaction as the primary means of communication between users and technology. In the context of OpenHome, this involves using voice commands to control AI agents and execute tasks.
+Voice-first is a design and interaction paradigm that prioritizes voice interactions as the primary means of engaging with technology, enabling users to communicate naturally through speech rather than traditional input methods.
 
 ## why-it-matters
-Voice-first technology is significant for OpenHome as it revolutionizes user interaction with smart devices, making technology more accessible and intuitive. By focusing on voice, OpenHome enhances user engagement and allows for more natural interactions with AI agents.
+Voice-first technology is central to OpenHome's mission of revolutionizing user interaction with voice AI applications. By fostering a voice-centric approach, OpenHome aims to create more intuitive and accessible interactions, empowering users to connect with their devices effortlessly.
 
 ## how-it-manifests
-In OpenHome, the voice-first concept is integrated into the platform through various components such as Personalities (AI agents) that respond to voice commands and trigger Abilities (plugins) to perform tasks. Users can interact with these agents via hotwords and conversational cues, enabling capabilities like controlling smart home devices, playing music, and accessing information solely through voice input.
+In the OpenHome platform, voice-first interactions are facilitated through the creation of Personalities—AI agents designed to engage users through conversational dialogue. Users can enhance these Personalities with Abilities, which are voice-activated plugins that expand the agents' capabilities, enabling them to perform a variety of tasks such as controlling smart home devices, playing music, and accessing information on demand.
 
 ## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
+[[concepts/abilities-as-apps]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->
+```

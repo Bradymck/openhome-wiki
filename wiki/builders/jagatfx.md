@@ -1,30 +1,29 @@
 ```markdown
 ---
 title: builders/jagatfx
-entity_type: community_builder
-status: live
-last_updated: 2026-05-16
+entity_type: builder
+status: stub
+last_updated: 2026-05-17
 ---
 
 ### who-they-are
-Jagatfx is a Software Engineer specializing in full-stack AI development with extensive experience in building complex systems using a variety of programming languages and frameworks, including React.js, Python, and Rust. They are actively involved in the OpenHome community, contributing to the development of voice AI applications.
+Jagatfx is a Software Engineer focused on full-stack AI development. They possess extensive experience in building systems using a diverse range of programming languages and frameworks.
 
 ### what-they-built
-Jagatfx has contributed to the development of modular voice plugins known as Abilities within the OpenHome platform. These plugins enhance the functionality of AI agents, enabling them to perform tasks such as calling APIs, playing music, and controlling smart home devices. Specific abilities developed by Jagatfx include optimizations and enhancements in AI agent functionalities.
+Jagatfx has been involved in the development of various AI agents and projects including, but not limited to, Web/Mobile app development, LLM integration systems, RAG pipelines, chatbots, multi-modal systems, and workflow automations. They are also experienced in building API integration systems on the OpenHome platform.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: jagatfx
-- GitHub: [jagatfx on GitHub](https://github.com/jagatfx) 
-- X: [@jagatfx on X](https://x.com/jagatfx)
+- Discord: [Not specified]
+- GitHub: [Not specified]
+- X: [Not specified]
 
-## connects-to
+### connects-to
 [[OpenHome]]
-[[Voice AI]]
+[[Personalities]]
 [[Abilities]]
-[[Smart Home Integration]]
-[[AI Development]]
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+
+<!-- synthesized: 2026-05-17T11:23:50Z -->
 ```

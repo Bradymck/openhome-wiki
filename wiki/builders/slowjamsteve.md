@@ -1,28 +1,30 @@
-```yaml
-title: SlowjamSteve
-entity_type: builders
-status: live
-last_updated: 2026-05-16
-```
+```markdown
+---
+title: builders/slowjamsteve
+entity_type: builder
+status: stub
+last_updated: 2026-05-17
+---
 
-## who-they-are
-SlowjamSteve is a Software Engineer focused on full-stack AI development. They possess extensive experience in building systems using a diverse array of programming languages and frameworks, including React.js, Python, TypeScript, JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Their expertise includes Web/Mobile app development, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, workflow automations, and API integration systems.
+### who-they-are
+SlowJamSteve is a Software Engineer focusing on full stack AI development. They possess extensive experience in building systems using a range of programming languages and frameworks, including React.js, Python, Go, Rust, and TensorFlow, among others. SlowJamSteve specializes in developing web and mobile applications, AI agents, and integrations for various AI-driven technologies.
 
-## what-they-built
-SlowjamSteve has engaged with the OpenHome platform and contributes to building conversational AI agents called Personalities. They develop modular voice plugins, known as Abilities, that enhance the functionality of these AI agents. Their work involves creating personalized experiences for users by integrating various skills and capabilities into the OpenHome environment.
+### what-they-built
+SlowJamSteve has been involved in creating various AI abilities and applications within the OpenHome ecosystem. Notably, they have experience in developing modular voice plugins that enhance conversational AI agents, although specific shipped abilities or integrations are not detailed in the available information.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: `SlowjamSteve`
-- GitHub: [SlowjamSteve's GitHub](https://github.com/SlowjamSteve)
-- X (formerly Twitter): Not provided
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-- [[abilities]]
-- [[OpenHome]]
-- [[AI agents]]
-- [[Voice AI]]
+### connects-to
+[[Abilites]]
+[[OpenHome]]
+[[AI Agents]]
+[[Voice AI]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->
+```

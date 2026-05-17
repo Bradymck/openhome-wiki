@@ -1,25 +1,26 @@
 ```markdown
 ---
-title: "Super Greg"
-entity_type: "guides/"
-status: "stub"
-last_updated: 2026-05-16
+title: Super Greg
+entity_type: guides/super-greg
+status: stub
+last_updated: 2026-05-17
 ---
 
 ### who-they-are
-Super Greg is a Software Engineer with a focus on full stack AI development. He possesses extensive experience building systems using a diverse range of programming languages and frameworks, including React.js, Python, Go, C++, and various AI and machine learning libraries.
+Super Greg is a Software Engineer focused on full stack AI development, with extensive experience in building systems using a diverse range of languages and frameworks.
 
 ### what-they-help-with
-Super Greg specializes in developing Web and Mobile applications, integrating Large Language Models (LLMs), creating rapid automation workflows, and building AI agents and chatbots. He has also worked on developing multi-modal systems, NLP pipelines, and DevOps infrastructures.
+Super Greg specializes in developing Web/Mobile applications and has expertise in LLM integration systems, RAG pipelines, AI agents and Chatbots, multi-modal systems, N8N workflow automations, MCP integration, precision-tuned models, vector search systems, NLP pipelines, as well as DevOps and MLOps infrastructure.
 
 ### how-to-reach
-You can connect with Super Greg on Discord.
+Discord handle: Not provided in the available information.
 
 ### connects-to
-[[openhome]]
-[[AI development]]
-[[Voice AI]]
-[[Community Guides]]
+- [[guides/]]
+- [[OpenHome]]
+- [[AI Development]]
+- [[Voice AI]]
+- [[Chatbots]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->
 ```

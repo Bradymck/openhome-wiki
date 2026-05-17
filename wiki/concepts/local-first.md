@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: Local First
 entity_type: concepts/local-first
 status: live
-last_updated: 2026-05-16
----
+last_updated: 2026-05-17
+```
 
 ## definition
-Local-first is an approach to building applications that prioritize local resources and processing capabilities over reliance on cloud services. This means that data is primarily stored and processed on local devices, enabling quicker interactions and greater user control.
+Local First is an architectural principle that emphasizes storing and processing data locally on user devices as a primary option, rather than relying solely on cloud computing. This approach enhances performance, data security, and user control over their data.
 
 ## why-it-matters
-Local-first is relevant to OpenHome as it aligns with the platform's goal of enhancing privacy and reducing latency in voice interactions. By emphasizing local processing, users can experience faster response times and have more control over their data, ensuring a more secure environment for their conversational AI agents.
+In the context of OpenHome, Local First is crucial as it supports the platform’s vision of creating responsive, secure, and user-centric voice AI applications. By prioritizing local capabilities, OpenHome allows users to interact more seamlessly with their devices while maintaining control over their data.
 
 ## how-it-manifests
-In the OpenHome platform, local-first principles are evident in the design and functionality of the DevKit, which allows developers to build and deploy Abilities that operate primarily on the device. This includes capabilities such as voice recognition and audio processing, which can occur without constant communication with the cloud, thus promoting a more seamless user experience.
+The Local First concept is manifested in OpenHome through the deployment of AI agents, referred to as Personalities, running locally on devices such as smart speakers. This local execution enables faster response times and improved usability, as well as offline functionality. Users can also create and utilize Abilities — plugins that provide additional skills to their Personalities — which are developed and executed in local environments.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
-```
+<!-- synthesized: 2026-05-17T11:23:50Z -->

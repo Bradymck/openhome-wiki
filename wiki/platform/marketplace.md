@@ -1,24 +1,28 @@
-```yaml
+```markdown
+---
 title: Platform Marketplace
 entity_type: platform/marketplace
-status: planned
-last_updated: 2026-05-16
-```
+status: beta
+last_updated: 2026-05-17
+---
 
-## what-it-is
-The OpenHome Marketplace is a planned platform component designed to facilitate the discovery, sharing, and distribution of various abilities and applications developed within the OpenHome ecosystem.
+### what-it-is
+The OpenHome marketplace is a platform feature that allows users to explore, share, and access various abilities developed for conversational AI agents, known as Personalities. It serves as a hub for community contributions, providing tools for creators to apply and showcase their skills.
 
-## how-it-works
-The Marketplace will allow developers to publish their custom abilities, enabling users to access a wide range of functionalities for their AI agents, referred to as Personalities. Users will be able to browse available abilities, read descriptions, and install them to extend the capabilities of their voice AI applications. Integration with the OpenHome dashboard is expected, making it easy for developers to manage their contributions and for users to discover new skills.
+### how-it-works
+Users can browse the marketplace to discover an array of Abilities—modular voice plugins that enhance the capabilities of Personalities on the OpenHome platform. Developers can prototype and submit their Abilities to the marketplace, encouraging collaboration and innovation within the community. The marketplace facilitates the sharing and integration of these plugins, making it easier for users to build and extend the functionality of their AI agents. 
 
-## current-status
-planned
+### current-status
+beta
 
 ## connects-to
 [[platform/openhome]]
 [[platform/abilities]]
+[[platform/speakers]]
 [[platform/dashboard]]
-[[platform/live-editor]]
 [[platform/voice-ai]]
+[[platform/local-link]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->
+```

@@ -2,14 +2,14 @@
 title: Platform Dashboard
 entity_type: platform/dashboard
 status: live
-last_updated: 2026-05-16
+last_updated: 2026-05-17
 ```
 
 ## what-it-is
-The OpenHome Dashboard is a web-based interface that allows users to manage and interact with their AI agents, referred to as Personalities, and their associated Abilities on the OpenHome platform.
+The OpenHome Dashboard is a user-friendly interface designed for managing and developing conversational AI agents, known as Personalities, within the OpenHome platform. It allows users to create, configure, and customize their AI agents by adding various abilities, facilitating a seamless voice interaction experience.
 
 ## how-it-works
-Users can access the Dashboard to create and configure Personalities by setting their voice, persona, and interaction style. The Dashboard also facilitates the addition of Abilities, which are modular plugins that enhance the functionality of Personalities by enabling skills such as API interaction, device control, and media playback. From the Dashboard, users can manage settings, view device status, and perform actions like adjusting volume, which can also be controlled via voice commands. It acts as a central hub for developers and users to engage with the OpenHome ecosystem.
+The dashboard provides tools for developers to set up their AI agents, allowing them to specify characteristics such as name and voice. Users can browse, add, and configure Abilities—modular plugins that enhance the functionality of their agents—by utilizing a straightforward graphical interface. This enables users to effectively manage their projects, monitor performance, and implement new skills, thereby creating personalized voice experiences. The dashboard also connects with the OpenHome ecosystem, streamlining the integration of APIs and hardware control.
 
 ## current-status
 live
@@ -23,4 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->

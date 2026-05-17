@@ -2,29 +2,28 @@
 ---
 title: "builders/jkoppel"
 entity_type: "builders"
-status: "live"
-last_updated: 2026-05-16
+status: "stub"
+last_updated: 2026-05-17
 ---
 
-## who-they-are
-jkoppel is a Software Engineer focused on full-stack AI development. They possess extensive experience with a variety of programming languages and frameworks including React.js, Python, Go, and more. jkoppel specializes in the development of AI agents, chatbots, and web/mobile applications.
+### who-they-are
+jkoppel is a Software Engineer specializing in full stack AI development. They possess extensive experience across a diverse range of languages and frameworks, including React.js/Next.js, Python, TypeScript, JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Their work includes developing web and mobile applications, LLM integration systems, AI agents, chatbots, multi-modal systems, and workflow automations.
 
-## what-they-built
-jkoppel has engaged with OpenHome, contributing by creating abilities that enhance the capabilities of voice AI agents. They are actively involved in the development of modular voice plugins (Abilities) to extend the functionality of Personalities within the OpenHome platform.
+### what-they-built
+No specific projects or shipped abilities are detailed in the provided material.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X (formerly Twitter): Not specified
+- X: Not specified
 
-## connects-to
-[[abilities]]
-[[OpenHome]]
-[[AI agents]]
-[[chatbots]]
+### connects-to
+[[developers]]
+[[AI_agents]]
+[[multi_modal_systems]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->
 ```

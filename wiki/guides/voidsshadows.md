@@ -1,38 +1,25 @@
 ```markdown
 ---
 title: guides/voidsshadows
-entity_type: guides
-status: live
-last_updated: 2026-05-16
+entity_type: Community Guide
+status: stub
+last_updated: 2026-05-17
 ---
 
 ### who-they-are
-Voidsshadows is a software engineer focused on full-stack AI development with extensive experience in building systems that utilize a diverse array of programming languages and frameworks.
+Voids shadows is a community guide with a background in software engineering, focusing on full stack AI development. They possess extensive experience in building systems with various languages and frameworks.
 
 ### what-they-help-with
-Voidsshadows specializes in various aspects of AI development, including:
-- Web and Mobile app development
-- LLM (Large Language Model) integration systems
-- RAG (Retrieval-Augmented Generation) pipelines
-- AI agents and chatbots
-- Multi-modal systems
-- N8N and workflow automations
-- MCP (Multicore Processing) integration
-- Precision-tuned models and vector search systems
-- Natural Language Processing (NLP) pipelines
-- DevOps and MLOps infrastructure
-- API integration systems
+They specialize in developing AI agents, abilities for voice interactions, and integration systems. Their expertise includes LLM integration, multi-modal systems, API integration, and developing both web and mobile applications.
 
 ### how-to-reach
-Discord handle: Not specified.
+Discord Handle: Not specified
 
-## connects-to
+### connects-to
 [[guides]]
 [[OpenHome]]
-[[developer_docs]]
-[[abilities]]
+[[dev-help]]
 [[AI_agents]]
-[[chatbots]]
-
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+[[Abilities]]
+<!-- synthesized: 2026-05-17T11:23:50Z -->
 ```

@@ -1,37 +1,32 @@
 ```markdown
 ---
-title: guides/sagarjethi
-entity_type: Community Guide
-status: live
-last_updated: 2026-05-16
+title: "Sagarjethi"
+entity_type: "guides/"
+status: "stub"
+last_updated: 2026-05-17
 ---
 
 ### who-they-are
-Sagar Jethi is a Software Engineer specializing in full stack AI development. He possesses extensive experience in building systems using a wide range of programming languages and frameworks including React.js/Next.js, Python, Typescript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
+Sagarjethi is a Software Engineer with a strong focus on full stack AI development. They have extensive experience with various programming languages and frameworks.
 
 ### what-they-help-with
-Sagar Jethi helps with various aspects of AI development and voice applications. His specialties include:
-- Web and mobile app development
-- LLM (large language model) integration systems
+Sagarjethi specializes in building systems that utilize a diverse range of technologies, including:
+- Web and Mobile application development
+- AI agent and chatbot development
+- LLM (Large Language Model) integration
 - RAG (Retrieval-Augmented Generation) pipelines
-- AI agents and chatbots
-- Multi-modal systems
-- N8N workflow automations
-- MCPI integration
-- Precision-tuned models
-- Vector search systems
-- NLP (Natural Language Processing) pipelines
+- Multi-modal systems and N8N for workflow automation
+- Precision-tuned models, vector search systems, and NLP (Natural Language Processing) pipelines
 - DevOps and MLOps infrastructure
-- API integration systems 
+- API integration systems
 
 ### how-to-reach
-You can reach Sagar Jethi on Discord for assistance or collaboration.
+Sagarjethi can be reached on Discord.
 
 ### connects-to
-- [[guides/openhome]]
-- [[guides/devkit]]
-- [[guides/abilities]]
-- [[guides/ai-development]]
+[[guides/]]
+[[OpenHome]]
+[[Community Guides]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->
 ```

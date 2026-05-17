@@ -1,29 +1,29 @@
 ```markdown
 ---
 title: builders/freshdelii
-entity_type: builders/
+entity_type: builder
 status: stub
-last_updated: 2026-05-16
+last_updated: 2026-05-17
 ---
 
-### who-they-are
-Freshdelii is an active member of the OpenHome community, focused on developing AI-powered voice applications using the OpenHome platform.
+## who-they-are
+Freshdelii is part of the OpenHome community, engaging in the development of open-source Voice AI platforms. They focus on building conversational AI agents, referred to as Personalities, and extending them with modular voice plugins known as Abilities.
 
-### what-they-built
-Details about specific abilities or integrations built by Freshdelii are not currently available.
+## what-they-built
+Details about specific abilities or integrations shipped by Freshdelii are not currently available.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not listed
-- GitHub: Not listed
-- X: Not listed
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X (formerly Twitter): Not specified
 
 ## connects-to
-[[OpenHome]]
-[[Abilities]]
-[[DevKit]]
+[[openhome]]
+[[personalities]]
+[[abilities]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->
 ```

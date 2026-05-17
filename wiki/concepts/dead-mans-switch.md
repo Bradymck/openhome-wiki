@@ -1,25 +1,22 @@
 ```yaml
 title: Dead Man's Switch
-entity_type: concepts
+entity_type: concepts/dead-mans-switch
 status: stub
-last_updated: 2026-05-16
+last_updated: 2026-05-17
 ```
 
 ## definition
-A dead man's switch is a safety mechanism that automatically performs a specified action in the event of a failure, typically signifying that the operator is incapacitated or unresponsive.
+A dead man's switch is a safety mechanism that automatically triggers an action when the operator becomes incapacitated or is unable to perform a specific task. It is often used in systems to ensure that critical operations can safely halt in case of an emergency.
 
 ## why-it-matters
-In the context of OpenHome, a dead man's switch can enhance user safety and reliability, especially in smart home environments where autonomous interactions may occur. It ensures that if a user stops engagement—whether due to an emergency or other reasons—the system can take predefined actions to maintain safety and security.
+In the context of OpenHome, implementing a dead man's switch can enhance the safety and reliability of voice AI interactions, particularly in scenarios where continuous user input or presence is necessary. This concept helps ensure that systems operate only when appropriate, reducing unintended actions or failures.
 
 ## how-it-manifests
-While specific implementations within the OpenHome platform have not been detailed, the concept may manifest in ability designs, where an agent must ensure user presence or response to continue executing critical tasks or actions.
+While specific implementations of a dead man's switch within the OpenHome platform are not detailed in the source material, it can manifest through voice-interactive applications where user engagement is critical. For instance, the AI could deactivate certain functions if there is a prolonged absence of user interaction.
 
 ## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/voice-first]]
+[[concepts/abilities-as-apps]]
+[[concepts/local-first]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->

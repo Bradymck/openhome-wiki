@@ -1,30 +1,30 @@
 ```markdown
 ---
-title: builders/pmckelvy
-entity_type: builders/
+title: pmckelvy
+entity_type: builders
 status: live
-last_updated: 2026-05-16
+last_updated: 2026-05-17
 ---
 
-## who-they-are
-Pmckelvy is a Software Engineer specializing in full-stack AI development. They possess extensive experience with a variety of programming languages and frameworks, including React.js, Python, Go, Rust, C++, Kotlin, and more. Their expertise spans multiple domains, such as web and mobile app development, AI agent development, and API integrations.
+### who-they-are
+pmckelvy is a software engineer focusing on full-stack AI development, with extensive experience in building systems using various languages and frameworks including React.js, Python, Go, Rust, and several AI-focused technologies. They are involved with OpenHome, an open-source Voice AI platform that allows developers to create conversational AI agents.
 
-## what-they-built
-Pmckelvy has contributed to the development of various systems and capabilities using the OpenHome platform, particularly focusing on building AI conversational agents that extend functionality through modular voice plugins known as Abilities.
+### what-they-built
+pmckelvy has been active in the OpenHome community, contributing to the development and prototyping of abilities for AI agents built on the OpenHome platform. They possess knowledge in various fields including web and mobile app development, LLM integration systems, and multi-modal systems.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: pmckelvy
-- GitHub: [pmckelvy](https://github.com/pmckelvy)
-- X (formerly Twitter): [pmckelvy](https://x.com/pmckelvy)
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-- [[OpenHome]]
-- [[Abilities]]
-- [[Personality]]
-- [[DevKit]]
+### connects-to
+[[openhome]]
+[[ai-development]]
+[[abilities]]
+[[devkits]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->
 ```

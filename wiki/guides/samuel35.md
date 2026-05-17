@@ -1,27 +1,24 @@
-```markdown
----
+```yaml
 title: guides/samuel35
 entity_type: Community Guide
 status: live
-last_updated: 2026-05-16
----
+last_updated: 2026-05-17
+```
 
 ### who-they-are
-Samuel35 is a software engineer with a strong focus on full-stack AI development. They possess extensive experience in building systems with a diverse range of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
+Samuel35 is a Software Engineer specializing in full-stack AI development. They possess extensive experience in building systems using a variety of programming languages and frameworks, including React.js/Next.js, Python, Go, Rust, and C++.
 
 ### what-they-help-with
-Samuel35 specializes in various domains such as Web/Mobile app development, LLM (Large Language Models) integration systems, RAG (Retrieval-Augmented Generation) pipelines, AI agents, chatbots, multi-modal systems, N8N (workflow automation), MCP (Model Compression Pipeline) integration, precision-tuned models, vector search systems, NLP (Natural Language Processing) pipelines, as well as DevOps and MLOps infrastructure, and API integration systems.
+Samuel35 focuses on developing web and mobile applications, integrating large language models (LLMs), building AI agents and chatbots, and implementing multi-modal systems. They also work with workflows, including N8N and automation, precision-tuned models, vector search systems, and natural language processing (NLP) pipelines. They are knowledgeable in DevOps and MLOps infrastructure, as well as API integration systems.
 
 ### how-to-reach
-Samuel35 can be reached on Discord for inquiries related to AI development projects.
+Their Discord handle is not provided in the source material.
 
 ### connects-to
-[[Community Guides]]
+[[guides]]
 [[OpenHome]]
 [[AI Development]]
-[[Web and Mobile Development]]
-[[Voice AI]]
-[[Discord]]
+[[Web Development]]
+[[Mobile Development]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
-```
+<!-- synthesized: 2026-05-17T11:23:50Z -->

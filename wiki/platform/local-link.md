@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: platform/local-link
 entity_type: platform
-status: live
-last_updated: 2026-05-16
-```
+status: stub
+last_updated: 2026-05-17
+---
 
-## what-it-is
-The local-link platform is a feature within the OpenHome ecosystem that enables users to connect their voice AI agents, known as Personalities, to local hardware devices and services, facilitating enhanced interactions and control over smart home environments.
+### what-it-is
+Local Link is a feature of the OpenHome platform that allows developers to connect AI agents, known as Personalities, directly to local hardware, such as smart home devices, using custom abilities.
 
-## how-it-works
-Local-link operates by allowing Personalities to communicate directly with connected devices through local network protocols. Users can implement Local Abilities, which enable the execution of commands like controlling smart home devices, adjusting settings, and accessing local resources without relying solely on cloud services. This enhances response times and privacy while allowing developers to create engaging, interactive applications that operate seamlessly within the user's home environment.
+### how-it-works
+Local Link enables users to develop and implement abilities that can interface with hardware components locally. This allows AI agents to control smart home devices, respond to commands, and execute functions without relying solely on cloud services. Developers can integrate this functionality using the OpenHome SDK, which provides the necessary tools and documentation to create and manage these local connections effectively. Users can prototype their abilities on devices like Raspberry Pi or utilize OpenHome's hardware offerings.
 
-## current-status
-live
+### current-status
+stub
 
-## connects-to
+### connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -23,4 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-16T11:19:42Z -->
+<!-- synthesized: 2026-05-17T11:23:50Z -->
+```
