@@ -1,25 +1,26 @@
-```yaml
-title: Local First
-entity_type: concepts/local-first
-status: live
-last_updated: 2026-05-17
+```markdown
+---
+title: concepts/local-first
+entity_type: concepts
+status: stub
+last_updated: 2026-05-18
+---
+
+### definition
+Local-first refers to the principle of enabling applications to operate primarily on local devices rather than relying on cloud infrastructure. This approach emphasizes data processing and storage on the user’s device, leading to improved performance and privacy.
+
+### why-it-matters
+The local-first concept is relevant to OpenHome as it underpins the platform's commitment to creating smart home devices that enhance user control and maintain privacy. By focusing on local processing, OpenHome enables users to interact with their AI agents in real time without relying heavily on external servers.
+
+### how-it-manifests
+In OpenHome, the local-first concept manifests through the use of physical V0.1 devkits which are designed to operate with local capabilities such as music playback, smart home control, and interaction with AI while minimizing dependency on cloud services. Abilities can be developed and run locally, allowing for seamless user experiences in smart environments.
+
+### connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+<!-- synthesized: 2026-05-18T12:07:33Z -->
 ```
-
-## definition
-Local First is an architectural principle that emphasizes storing and processing data locally on user devices as a primary option, rather than relying solely on cloud computing. This approach enhances performance, data security, and user control over their data.
-
-## why-it-matters
-In the context of OpenHome, Local First is crucial as it supports the platform’s vision of creating responsive, secure, and user-centric voice AI applications. By prioritizing local capabilities, OpenHome allows users to interact more seamlessly with their devices while maintaining control over their data.
-
-## how-it-manifests
-The Local First concept is manifested in OpenHome through the deployment of AI agents, referred to as Personalities, running locally on devices such as smart speakers. This local execution enables faster response times and improved usability, as well as offline functionality. Users can also create and utilize Abilities — plugins that provide additional skills to their Personalities — which are developed and executed in local environments.
-
-## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
-
-<!-- synthesized: 2026-05-17T11:23:50Z -->

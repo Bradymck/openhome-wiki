@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: team/ali
+title: Ali
 entity_type: team
 status: stub
-last_updated: 2026-05-17
+last_updated: 2026-05-18
 ---
 
 ### who-they-are
-Ali is a team member at OpenHome. Their specific role at OpenHome and background details are currently unavailable.
+Ali serves as an Admin at OpenHome. They are a Software Engineer with a focus on full-stack AI development, possessing extensive experience across a variety of programming languages and frameworks.
 
 ### what-they-own
-Information regarding the specific areas of the platform Ali leads is not provided.
+Ali leads areas related to the development of AI agents, including the integration of large language models (LLM), multi-modal systems, and APIs. They focus on creating and managing voice AI applications, contributing to the platform's core functionality.
 
 ### how-to-reach
-Contact information for Ali, including Discord handle and X/Twitter, is not available.
+You can contact Ali via Discord.
 
 ### connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-05-17T11:23:50Z -->
+<!-- synthesized: 2026-05-18T12:07:33Z -->
 ```

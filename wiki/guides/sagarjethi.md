@@ -1,32 +1,37 @@
 ```markdown
 ---
-title: "Sagarjethi"
+title: "Sagar Jethi"
 entity_type: "guides/"
-status: "stub"
-last_updated: 2026-05-17
+status: "live"
+last_updated: 2026-05-18
 ---
 
 ### who-they-are
-Sagarjethi is a Software Engineer with a strong focus on full stack AI development. They have extensive experience with various programming languages and frameworks.
+Sagar Jethi is a Software Engineer focused on full-stack AI development. He possesses extensive experience building systems across a diverse range of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
 
 ### what-they-help-with
-Sagarjethi specializes in building systems that utilize a diverse range of technologies, including:
-- Web and Mobile application development
-- AI agent and chatbot development
-- LLM (Large Language Model) integration
+Sagar specializes in several domains including:
+- Web and mobile app development
+- LLM (Large Language Model) integration systems
 - RAG (Retrieval-Augmented Generation) pipelines
-- Multi-modal systems and N8N for workflow automation
-- Precision-tuned models, vector search systems, and NLP (Natural Language Processing) pipelines
+- AI agents and chatbots
+- Multi-modal systems
+- N8N workflow automations
+- MCP (Multi-Channel Platform) integration
+- Development of precision-tuned models and vector search systems
+- NLP (Natural Language Processing) pipelines
 - DevOps and MLOps infrastructure
 - API integration systems
 
 ### how-to-reach
-Sagarjethi can be reached on Discord.
+Sagar can be reached via Discord at [@sagarjethi](https://discord.com/users/sagarjethi).
 
 ### connects-to
-[[guides/]]
-[[OpenHome]]
-[[Community Guides]]
+- [[guides]]
+- [[OpenHome]]
+- [[AI Development]]
+- [[Voice AI Platforms]]
+- [[Community Guides]]
 
-<!-- synthesized: 2026-05-17T11:23:50Z -->
+<!-- synthesized: 2026-05-18T12:07:33Z -->
 ```

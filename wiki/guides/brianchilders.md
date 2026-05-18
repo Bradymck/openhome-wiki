@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: guides/brianchilders
-entity_type: Community Guide
+entity_type: guides
 status: live
-last_updated: 2026-05-17
+last_updated: 2026-05-18
 ---
 
-## who-they-are
-Brian Childers is a software engineer with a specialization in full stack AI development. He possesses extensive experience working with various programming languages and frameworks, including but not limited to React.js, Python, Go, Rust, and TensorFlow. His expertise extends to the development of web and mobile applications, AI agents, and integrations of large language models (LLMs).
+### who-they-are
+Brian Childers is a Software Engineer with a focus on full stack AI development. He possesses extensive experience in building systems using a variety of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
 
-## what-they-help-with
-Brian helps with building conversational AI agents on the OpenHome platform. He is knowledgeable in the development and integration of abilities for smart speakers and can assist with creating custom plugins that enhance AI agents' functionalities. His skill set includes building API integration systems, workflow automations, and managing MLOps infrastructure which can be crucial for developing robust AI solutions.
+### what-they-help-with
+Brian specializes in developing Web and Mobile applications, LLM (Large Language Model) integration systems, RAG (Retrieval-Augmented Generation) pipelines, AI agents, chatbots, multi-modal systems, N8N, workflow automations, MCP (Memory Control Protocol) integration, precision-tuned models, vector search systems, NLP (Natural Language Processing) pipelines, as well as DevOps and MLOps infrastructure, and API integration systems.
 
-## how-to-reach
-You can reach Brian on Discord through his handle: @brianchilders.
+### how-to-reach
+You can reach Brian on Discord.
 
-## connects-to
-[[OpenHome]]
-[[Abilities]]
-[[AI Development]]
-[[Voice AI]]
-[[DevOps]]
-[[MLOps]]
+### connects-to
+[[guides]]  
+[[OpenHome]]  
+[[AI Development]]  
+[[API Integration]]  
+[[DevOps]]  
+[[Community Guides]]  
 
-<!-- synthesized: 2026-05-17T11:23:50Z -->
+<!-- synthesized: 2026-05-18T12:07:33Z -->
 ```

@@ -1,30 +1,26 @@
-```markdown
----
-title: pmckelvy
+```yaml
+title: Builders/pmckelvy
 entity_type: builders
 status: live
-last_updated: 2026-05-17
----
+last_updated: 2026-05-18
+```
 
-### who-they-are
-pmckelvy is a software engineer focusing on full-stack AI development, with extensive experience in building systems using various languages and frameworks including React.js, Python, Go, Rust, and several AI-focused technologies. They are involved with OpenHome, an open-source Voice AI platform that allows developers to create conversational AI agents.
+## who-they-are
+pmckelvy is a Software Engineer focused on full-stack AI development with extensive experience in building systems using a diverse range of programming languages and frameworks, including React.js, Python, Go, and TensorFlow. Their work encompasses web and mobile app development, NLP pipelines, AI agents, and automation systems.
 
-### what-they-built
-pmckelvy has been active in the OpenHome community, contributing to the development and prototyping of abilities for AI agents built on the OpenHome platform. They possess knowledge in various fields including web and mobile app development, LLM integration systems, and multi-modal systems.
+## what-they-built
+While specific abilities or integrations created by pmckelvy are not detailed in the provided information, they are engaged with the OpenHome platform, which facilitates the development of conversational AI agents called Personalities, enriched with modular voice plugins, known as Abilities.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
+## how-to-reach
+- Discord handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
-[[openhome]]
-[[ai-development]]
-[[abilities]]
-[[devkits]]
+## connects-to
+- [[openhome]]
+- [[abilities]]
 
-<!-- synthesized: 2026-05-17T11:23:50Z -->
-```
+<!-- synthesized: 2026-05-18T12:07:33Z -->

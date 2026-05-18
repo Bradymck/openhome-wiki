@@ -3,25 +3,25 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-05-17
+last_updated: 2026-05-18
 ---
 
-## definition
-Abilities-as-apps refers to modular voice plugins within the OpenHome platform that extend the functionality of conversational AI agents, known as Personalities. Each Ability adds specific skills, such as playing music, controlling smart home devices, or engaging in quizzes.
+### definition
+Abilities-as-apps refers to the concept where modular voice plugins, known as Abilities, are utilized to enhance conversational AI agents with specific skills, allowing them to perform a variety of tasks such as calling APIs, playing music, or controlling smart home devices.
 
-## why-it-matters
-This concept is crucial to OpenHome as it allows for the customization and enhancement of voice interactions. By enabling users to easily add new functionalities to their AI agents, it fosters innovation and engagement within the community, making technology more accessible and personable.
+### why-it-matters
+This concept is crucial for OpenHome as it enables the creation of versatile and dynamic AI agents. By allowing developers to add and customize Abilities, OpenHome fosters innovation and flexibility, providing a platform where users can interact with technology in a meaningful and intuitive way.
 
-## how-it-manifests
-In the OpenHome platform, Abilities are integrated into Personalities, enhancing their capabilities through voice-triggered actions. Developers can create and contribute Abilities, which are available for others to explore, fork, or adapt, promoting a collaborative ecosystem. Abilities can be triggered during conversations, allowing for dynamic interactions and responsiveness.
+### how-it-manifests
+In the OpenHome platform, Abilities can be triggered by specific hotwords during voice interactions. Each Ability runs custom Python logic, and developers can create their own or leverage existing community-driven Abilities, thereby expanding the capabilities of their AI agents. This modular approach simplifies the development process and enhances the functionality of the conversational agents.
 
-## connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+### connects-to
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-17T11:23:50Z -->
+<!-- synthesized: 2026-05-18T12:07:33Z -->
 ```

@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: Platform Dashboard
 entity_type: platform/dashboard
 status: live
-last_updated: 2026-05-17
-```
+last_updated: 2026-05-18
+---
 
-## what-it-is
-The OpenHome Dashboard is a user-friendly interface designed for managing and developing conversational AI agents, known as Personalities, within the OpenHome platform. It allows users to create, configure, and customize their AI agents by adding various abilities, facilitating a seamless voice interaction experience.
+### what-it-is
+The OpenHome Dashboard is an interface designed for users to manage and build their conversational AI agents, referred to as Personalities, within the OpenHome ecosystem. It provides tools for integrating modular voice plugins called Abilities to enhance the capabilities of these agents.
 
-## how-it-works
-The dashboard provides tools for developers to set up their AI agents, allowing them to specify characteristics such as name and voice. Users can browse, add, and configure Abilities—modular plugins that enhance the functionality of their agents—by utilizing a straightforward graphical interface. This enables users to effectively manage their projects, monitor performance, and implement new skills, thereby creating personalized voice experiences. The dashboard also connects with the OpenHome ecosystem, streamlining the integration of APIs and hardware control.
+### how-it-works
+Users can create and customize their AI agents by setting a name, selecting a voice, and uploading additional Abilities. The Dashboard serves as the central hub for managing these components, allowing seamless interaction and modification of agent characteristics. Through the Dashboard, users can explore community-developed Abilities, fork existing examples, or submit their creations to enhance the platform. It is designed to facilitate both novice and advanced users in developing their own AI applications.
 
-## current-status
+### current-status
 live
 
-## connects-to
+### connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -23,4 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-17T11:23:50Z -->
+<!-- synthesized: 2026-05-18T12:07:33Z -->
+```

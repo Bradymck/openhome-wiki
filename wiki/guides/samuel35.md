@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: guides/samuel35
 entity_type: Community Guide
-status: live
-last_updated: 2026-05-17
-```
+status: stub
+last_updated: 2026-05-18
+---
 
 ### who-they-are
-Samuel35 is a Software Engineer specializing in full-stack AI development. They possess extensive experience in building systems using a variety of programming languages and frameworks, including React.js/Next.js, Python, Go, Rust, and C++.
+Samuel35 is a Software Engineer with a strong focus on full-stack AI development. They possess extensive experience building systems using a diverse range of programming languages and frameworks.
 
 ### what-they-help-with
-Samuel35 focuses on developing web and mobile applications, integrating large language models (LLMs), building AI agents and chatbots, and implementing multi-modal systems. They also work with workflows, including N8N and automation, precision-tuned models, vector search systems, and natural language processing (NLP) pipelines. They are knowledgeable in DevOps and MLOps infrastructure, as well as API integration systems.
+Samuel35 specializes in developing Web and Mobile applications, LLM integration systems, RAG pipelines, AI agents, chatbots, multi-modal systems, workflow automations (N8N), MCP integration, precision-tuned models, vector search systems, NLP pipelines, and API integration systems.
 
 ### how-to-reach
-Their Discord handle is not provided in the source material.
+Discord handle: Samuel35
 
 ### connects-to
 [[guides]]
@@ -20,5 +21,8 @@ Their Discord handle is not provided in the source material.
 [[AI Development]]
 [[Web Development]]
 [[Mobile Development]]
+[[APIs]]
+[[Community Guides]]
 
-<!-- synthesized: 2026-05-17T11:23:50Z -->
+<!-- synthesized: 2026-05-18T12:07:33Z -->
+```

@@ -2,33 +2,24 @@
 ---
 title: "guides/adamdew"
 entity_type: "Community Guide"
-status: "stub"
-last_updated: "2026-05-17"
+status: "live"
+last_updated: 2026-05-18
 ---
 
 ### who-they-are
-Adam Dew is a Software Engineer with a focus on full stack AI development. He possesses extensive experience with a diverse range of programming languages and frameworks.
+Adam Dew is a Software Engineer with a focus on full stack AI development. They possess extensive experience in building systems using various programming languages and frameworks. 
 
 ### what-they-help-with
-Adam specializes in building systems that include:
-- Web and mobile application development
-- AI agent and chatbot development
-- LLM (Large Language Model) integration systems
-- RAG (Retrieval-Augmented Generation) pipelines
-- Multi-modal systems
-- Workflow automations and integrations
-- DevOps and MLOps infrastructure
-- API integration systems
+Adam specializes in developing Web and Mobile applications, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, N8N, workflow automation, and precision-tuned models. They are proficient in integrating APIs and have worked extensively with technologies such as Python, React.js/Next.js, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
 
 ### how-to-reach
-Discord Handle: `adamdew`
+You can reach Adam Dew on Discord.
 
 ### connects-to
 [[guides]]
 [[OpenHome]]
-[[AI Agents]]
+[[AI Development]]
 [[Web Development]]
 [[Mobile Development]]
-
-<!-- synthesized: 2026-05-17T11:23:50Z -->
+<!-- synthesized: 2026-05-18T12:07:33Z -->
 ```

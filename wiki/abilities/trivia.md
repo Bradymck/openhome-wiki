@@ -1,30 +1,30 @@
 ```markdown
 ---
-title: "abilities/trivia"
-entity_type: "abilities"
-status: "stub"
-last_updated: 2026-05-17
+title: abilities/trivia
+entity_type: abilities
+status: stub
+last_updated: 2026-05-18
 ---
 
 ### what-it-does
-Trivia abilities are designed to provide users with quiz-like interactions, testing their knowledge on various topics by asking questions and evaluating answers in an engaging and interactive manner.
+The Trivia Ability provides users with the capability to engage in trivia games or quizzes, enabling them to test their knowledge across various topics. 
 
 ### how-to-build
-Building a trivia ability involves creating a set of questions and answers, programming the logic to handle user inputs, and integrating it into the OpenHome platform. Developer documentation and examples can be found in the OpenHome GitHub repository.
+Details on building the Trivia Ability are currently unavailable. 
 
 ### category
-entertainment
+utility
 
 ### built-by
-未知
+[builder name needed]
 
 ### status
-stub
+in-review
 
 ### connects-to
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
 [[abilities/news-brief]]
 
-<!-- synthesized: 2026-05-17T11:23:50Z -->
+<!-- synthesized: 2026-05-18T12:07:33Z -->
 ```

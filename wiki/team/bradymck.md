@@ -1,28 +1,23 @@
 ```markdown
 ---
 title: Brady McK
-entity_type: team/bradymck
+entity_type: team
 status: stub
-last_updated: 2026-05-17
+last_updated: 2026-05-18
 ---
 
 ### who-they-are
-Brady McK is an active Software Engineer at OpenHome, specializing in full-stack AI development. They possess extensive experience in various programming languages and frameworks, including React.js, Python, and Go, among others.
+Brady McK is a key team member at OpenHome, serving as an Admin. Background details are currently limited.
 
 ### what-they-own
-Brady leads projects related to AI agent development and integrations within the OpenHome platform.
+Brady is responsible for leading several aspects of the OpenHome platform, although specific areas of ownership have not been detailed.
 
 ### how-to-reach
-- Discord: Not specified
-- X/Twitter: Not specified
-- Preferred contact: Not specified
+Contact Brady via Discord, though specific handle details are not provided.
 
-### connects-to
-- [[team/jesse]]
-- [[team/shannon]]
-- [[dev.openhome.com]]
-- [[App.OpenHome]]
-- [[GitHub]]
+## connects-to
+[[team/jesse]]
+[[team/shannon]]
 
-<!-- synthesized: 2026-05-17T11:23:50Z -->
+<!-- synthesized: 2026-05-18T12:07:33Z -->
 ```

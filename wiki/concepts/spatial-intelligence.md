@@ -2,26 +2,26 @@
 ---
 title: Spatial Intelligence
 entity_type: concepts
-status: planned
-last_updated: 2026-05-17
+status: stub
+last_updated: 2026-05-18
 ---
 
-## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and environments. It enables individuals to understand how objects relate to one another in space, which is essential for tasks involving navigation, design, and various forms of reasoning about physical spaces.
+### definition
+Spatial intelligence refers to the capacity to understand and navigate the physical world by visualizing spatial relationships and manipulating environments. It is often associated with skills in areas such as navigation, architecture, and design.
 
-## why-it-matters
-In the context of OpenHome, spatial intelligence is crucial for enhancing user interactions with voice AI systems. It allows AI agents to effectively interpret and react to spatial contexts, leading to more intuitive and effective responses in environments like smart homes.
+### why-it-matters
+In the context of OpenHome, spatial intelligence enhances the interaction between users and their environments, allowing for more intuitive control of smart home devices and AI systems. It enables users to engage with their technologies in meaningful ways that feel natural and efficient.
 
-## how-it-manifests
-Spatial intelligence manifests within the OpenHome platform through functionalities that relate to physical space management. This includes abilities for controlling smart home devices based on their locations, navigating within virtual environments, and managing the deployment of AI agents in physical spaces. For example, voice commands might involve spatial queries, like "turn off the lights in the living room" or "play music in the kitchen," which rely on understanding the spatial context of the user's environment.
+### how-it-manifests
+Although specific implementations of spatial intelligence within OpenHome are not detailed in the current material, it is likely to manifest through user interfaces that allow for spatial awareness and control of devices, as well as in the capabilities of AI agents that manage physical tasks or respond to physical environments.
 
-## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/grant-program]]
+### connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-17T11:23:50Z -->
+<!-- synthesized: 2026-05-18T12:07:33Z -->
 ```

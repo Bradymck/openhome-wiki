@@ -1,25 +1,31 @@
-```yaml
+```markdown
+---
 title: builders/sonordi
-entity_type: builders
+entity_type: builders/
 status: stub
-last_updated: 2026-05-17
-```
+last_updated: 2026-05-18
+---
 
-## who-they-are
-Sonordi is a software engineer with a focus on full-stack AI development. They possess extensive experience in building systems using a variety of programming languages and frameworks, including Python, React.js/Next.js, Go, Rust, and more. Their expertise includes developing applications that integrate AI technologies such as conversational agents, natural language processing (NLP), and machine learning systems. 
+### who-they-are
+Sonordi is a software engineer focused on full-stack AI development. They possess extensive experience in building systems using a variety of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Sonordi specializes in Web/Mobile app development, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, workflow automations, and API integration systems.
 
-## what-they-built
-As of the last update, specific abilities or integrations that Sonordi has shipped using the OpenHome platform are not detailed in the source material. However, their skills suggest a strong capability to create complex systems involving AI and voice interaction.
+### what-they-built
+Sonordi has not publicly documented specific abilities or integrations built within the OpenHome platform as of the last update.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-Sonordi can be reached through their Discord handle. Specific contact details over GitHub or other platforms are not provided in the source material.
+### how-to-reach
+- Discord Handle: Unlisted
+- GitHub: Unlisted
+- X: Unlisted
 
 ## connects-to
 [[OpenHome]]
-[[Abilities]]
-[[AI Agents]]
 [[Voice AI]]
-<!-- synthesized: 2026-05-17T11:23:50Z -->
+[[AI Agents]]
+[[Abilities]]
+[[DevKit]]
+
+<!-- synthesized: 2026-05-18T12:07:33Z -->
+```

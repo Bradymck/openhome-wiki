@@ -1,29 +1,28 @@
-```markdown
----
-title: illectric-co
+```yaml
+title: Illectric Co
 entity_type: builders
 status: stub
-last_updated: 2026-05-17
----
+last_updated: 2026-05-18
+```
 
-### who-they-are
-illectric-co is part of the OpenHome community, focused on developing AI-driven voice applications and conversational agents called Personalities. They leverage the OpenHome platform to extend functionalities with modular voice plugins known as Abilities.
+## who-they-are
+Illectric Co is a community-focused builder affiliated with the OpenHome platform. They engage in the development of AI-powered voice applications and their related features.
 
-### what-they-built
-Details about specific shipped abilities or integrations by illectric-co are not provided in the source material. However, they participate actively in the OpenHome developer community, contributing to the development of voice AI applications.
+## what-they-built
+Details on specific abilities or integrations built by Illectric Co are currently unspecified.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord handle: Unknown
+- GitHub: Unknown
+- X: Unknown
 
-### connects-to
+## connects-to
 [[OpenHome]]
-[[Personalities]]
+[[Voice AI]]
 [[Abilities]]
+[[Personalities]]
 
-<!-- synthesized: 2026-05-17T11:23:50Z -->
-```
+<!-- synthesized: 2026-05-18T12:07:33Z -->
