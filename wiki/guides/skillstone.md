@@ -1,24 +1,26 @@
-```yaml
-title: guides/skillstone
-entity_type: guides
-status: stub
-last_updated: 2026-05-18
+```markdown
+---
+title: Skillstone Community Guides
+entity_type: guides/
+status: live
+last_updated: 2026-05-19
+---
+
+### who-they-are
+Skillstone community guides are power users with extensive experience in AI and software development. They possess a wide range of expertise, including full stack AI development, LLM integration, automation workflows, and hardware integration.
+
+### what-they-help-with
+They specialize in helping users build and develop AI agents with OpenHome, including creating modular voice plugins known as Abilities. They assist with setting up and troubleshooting the OpenHome platform, contributing to its open-source projects, and guiding new developers in utilizing various features and APIs.
+
+### how-to-reach
+Discord Handle: Not specified in the extracted content.
+
+### connects-to
+[[OpenHome]]
+[[Abilities]]
+[[AI Development]]
+[[Discord]]
+[[Community Guides]]
+
+<!-- synthesized: 2026-05-19T12:00:19Z -->
 ```
-
-## who-they-are
-The Skillstone guides are composed of power users who possess expertise in building and extending AI-driven applications using the OpenHome platform. Their background includes experience in developing conversational AI agents and creating unique abilities for these agents.
-
-## what-they-help-with
-They specialize in helping users understand and navigate the OpenHome platform, particularly in the areas of creating and utilizing Personalities and Abilities. This includes providing insights on voice AI applications, integrating various skills, and leveraging APIs within the OpenHome ecosystem.
-
-## how-to-reach
-Discord Handle: Not specified in the provided material.
-
-## connects-to
-- [[OpenHome]]
-- [[Abilities]]
-- [[Personality]]
-- [[Voice AI]]
-- [[AI Applications]]
-
-<!-- synthesized: 2026-05-18T12:07:33Z -->

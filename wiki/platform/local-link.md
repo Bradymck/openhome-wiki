@@ -1,27 +1,26 @@
-```markdown
----
+```yaml
 title: platform/local-link
-entity_type: platform
-status: stub
-last_updated: 2026-05-18
----
+entity_type: wiki
+status: beta
+last_updated: 2026-05-19
+```
 
-### what-it-is
-The Local Link platform feature within OpenHome allows developers to connect various hardware devices locally, enabling integration with applications and AI agents built on the OpenHome platform.
+## what-it-is
+Platform/local-link is a feature within the OpenHome ecosystem that allows users to connect their AI agents, referred to as Personalities, to local hardware devices. This capability enhances the functionality of the Personalities by enabling them to interact with and control physical devices within the user's environment.
 
-### how-it-works
-Local Link enhances the OpenHome ecosystem by enabling developers to connect physical hardware to their applications or AI agents. It allows for interactions with devices directly without the need for cloud connectivity, facilitating a faster response time and increased reliability. Developers can create abilities that leverage Local Link to control devices, access local data, and perform actions that enhance the functionality of their voice AI agents.
+## how-it-works
+Local-link operates by allowing Personalities to communicate directly with various hardware components such as smart home devices or other peripherals over a local network. Users can create custom Abilities that leverage this connection for tasks such as controlling lights, playing music, or gathering device statuses. This integration is crucial for enhancing the real-world interaction capabilities of AI agents built on the OpenHome platform.
 
-### current-status
-stub
+## current-status
+beta
 
-### connects-to
+## connects-to
 [[platform/openhome]]
+[[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
-[[platform/speakers]]
 [[platform/voice-ai]]
 [[platform/marketplace]]
 [[platform/live-editor]]
-<!-- synthesized: 2026-05-18T12:07:33Z -->
-```
+
+<!-- synthesized: 2026-05-19T12:00:19Z -->

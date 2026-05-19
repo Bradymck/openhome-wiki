@@ -1,16 +1,15 @@
-```markdown
----
+```yaml
 title: builders/michaelgold
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-05-18
----
+last_updated: 2026-05-19
+```
 
 ## who-they-are
-Michael Gold is a Software Engineer focused on full stack AI development. He possesses extensive experience building systems using a diverse range of languages and frameworks, including React.js, Python, Go, Rust, C++, Kotlin, TensorFlow, and more. His expertise covers web/mobile app development, LLM integration, AI agents, and chatbot development.
+Michael Gold is a Software Engineer focused on full-stack AI development. He has extensive experience in building systems using various programming languages and frameworks, including React.js, Python, Go, Rust, C++, and Kotlin. His expertise encompasses web and mobile app development, as well as the creation of AI agents and chatbots, LLM integration systems, and multi-modal systems.
 
 ## what-they-built
-Currently, specific abilities or integrations that Michael Gold has shipped are not documented. He is known to work with the OpenHome platform and contributes to the development of AI solutions.
+Michael Gold has engaged in developing modular voice plugins known as Abilities for the OpenHome platform, enabling conversational AI agents called Personalities. He has experience with API integrations, automation workflows, and various AI-related frameworks such as PyTorch and TensorFlow.
 
 ## grant-status
 none
@@ -21,10 +20,10 @@ none
 - X: Not specified
 
 ## connects-to
-[[builders/openhome]]
-[[builders/devkit]]
-[[developers/ai_agents]]
-[[developers/chatbots]]
+[[OpenHome]]  
+[[Abilities]]  
+[[Personality]]  
+[[Voice AI]]  
+[[Software Engineering]]  
 
-<!-- synthesized: 2026-05-18T12:07:33Z -->
-```
+<!-- synthesized: 2026-05-19T12:00:19Z -->

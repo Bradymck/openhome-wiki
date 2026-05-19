@@ -1,27 +1,23 @@
 ```markdown
 ---
-title: Kaeden
+title: Team Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-05-18
+last_updated: 2026-05-19
 ---
 
 ### who-they-are
-Kaeden is a Software Engineer focused on full stack AI development. They possess extensive experience building systems using a diverse range of languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
+Kaeden is a member of the OpenHome team, involved in the development of voice AI technology. Details regarding their specific role and background are not provided.
 
 ### what-they-own
-Kaeden is involved in developing various AI agents and chatbots, multi-modal systems, workflow automations, and API integration systems. They take full responsibility for leading entire projects within the OpenHome development ecosystem.
+Information regarding the specific areas of the OpenHome platform that Kaeden leads or manages is currently unavailable.
 
 ### how-to-reach
-To contact Kaeden, you can reach out through Discord (handle not specified in the available data).
+Contact information for Kaeden, including Discord handle and other social media profiles, has not been disclosed.
 
 ### connects-to
-[[team/jesse]]
-[[team/shannon]]
-[[dev.openhome.com]]
-[[github.com/openhome-dev/abilities]]
-[[docs.openhome.com]]
-[[app.openhome.com]]
+- [[team/jesse]]
+- [[team/shannon]]
 
-<!-- synthesized: 2026-05-18T12:07:33Z -->
+<!-- synthesized: 2026-05-19T12:00:19Z -->
 ```

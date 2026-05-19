@@ -3,19 +3,19 @@
 title: Platform Dashboard
 entity_type: platform/dashboard
 status: live
-last_updated: 2026-05-18
+last_updated: 2026-05-19
 ---
 
-### what-it-is
-The OpenHome Dashboard is an interface designed for users to manage and build their conversational AI agents, referred to as Personalities, within the OpenHome ecosystem. It provides tools for integrating modular voice plugins called Abilities to enhance the capabilities of these agents.
+## what-it-is
+The OpenHome Dashboard is an interactive web application that allows users to create and manage their AI agents, known as Personalities, within the OpenHome platform. It provides a user-friendly interface for configuring agent settings, managing Abilities, and exploring community contributions.
 
-### how-it-works
-Users can create and customize their AI agents by setting a name, selecting a voice, and uploading additional Abilities. The Dashboard serves as the central hub for managing these components, allowing seamless interaction and modification of agent characteristics. Through the Dashboard, users can explore community-developed Abilities, fork existing examples, or submit their creations to enhance the platform. It is designed to facilitate both novice and advanced users in developing their own AI applications.
+## how-it-works
+The Dashboard serves as the central hub where users can set up their Personalities by defining their names, voices, and conversation styles. Users can add Abilities, which are modular plugins that grant the Personalities new skills, such as playing music, controlling smart devices, or calling APIs. Through the Dashboard, users can browse existing Abilities developed by the community, submit their own, and collaborate on enhancing the functionality of their AI agents.
 
-### current-status
+## current-status
 live
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -24,5 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-18T12:07:33Z -->
+<!-- synthesized: 2026-05-19T12:00:19Z -->
 ```

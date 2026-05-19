@@ -2,26 +2,26 @@
 title: builders/pl-geek
 entity_type: builders
 status: stub
-last_updated: 2026-05-18
+last_updated: 2026-05-19
 ```
 
 ## who-they-are
-"pl-geek" is a software engineer specializing in full stack AI development. They possess extensive experience in various programming languages and frameworks, including React.js, Python, Go, Rust, and more. Their expertise includes building systems for web and mobile applications, AI agents, and workflow automation, among other technologies.
+pl-geek is a Software Engineer focused on full-stack AI development. They possess extensive experience in building systems using a diverse range of languages and frameworks, including React.js/Next.js, Python, Go, Rust, C++, C#, Kotlin, LangChain, and various machine learning libraries and tools.
 
 ## what-they-built
-Details about specific shipped abilities or integrations have not been provided. However, their involvement in developing skills for OpenHome's platform suggests contributions to voice AI applications.
+pl-geek has contributed to the development of abilities and integrations within the OpenHome platform, particularly in creating conversational AI agents that enhance interaction with technology. They have also worked on developing web and mobile applications, large language model integration systems, and multi-modal systems.
 
 ## grant-status
-None
+none
 
 ## how-to-reach
-Discord: Not specified  
-GitHub: Not specified  
-X: Not specified  
+- Discord: Not specified
+- GitHub: No specific GitHub link provided
+- X: Not specified
 
 ## connects-to
-[[voice AI]]  
-[[OpenHome]]  
-[[Abilities]]  
-
-<!-- synthesized: 2026-05-18T12:07:33Z -->
+[[OpenHome]]
+[[Abilities]]
+[[AI Agents]]
+[[DevOps and MLOps]]
+<!-- synthesized: 2026-05-19T12:00:19Z -->

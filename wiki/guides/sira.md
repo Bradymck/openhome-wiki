@@ -1,31 +1,35 @@
-```yaml
+```markdown
+---
 title: guides/sira
-entity_type: Community Guides
+entity_type: Community Guide
 status: stub
-last_updated: 2026-05-18
-```
+last_updated: 2026-05-19
+---
 
 ## who-they-are
-Sira is a community member with expertise in full-stack AI development. They possess extensive experience in building systems using various programming languages and frameworks.
+Sira is a Software Engineer with extensive experience in full-stack AI development, specializing in a broad array of programming languages and frameworks.
 
 ## what-they-help-with
-Sira specializes in:
-- Web/Mobile app development
-- LLM integration systems
-- RAG pipelines
-- AI agents and chatbots
+Sira's specialties include:
+- Web and Mobile app development
+- LLM (Large Language Model) integration systems
+- RAG (Retrieval-Augmented Generation) pipelines
+- Development of AI agents and chatbots
 - Multi-modal systems
-- Workflow automations
-- Integration with various APIs
-- MLOps and DevOps infrastructure
+- Workflow automations using N8N
+- Precision-tuned model implementation and NLP pipelines
+- DevOps and MLOps infrastructure
+- API integration systems
 
 ## how-to-reach
-Sira can be reached on Discord, although their specific handle was not provided in the source material.
+Sira can be reached on Discord.
 
 ## connects-to
-[[guides]]  
-[[OpenHome]]  
-[[AI Development]]  
-[[Community Guides]]  
+[[guides]]
+[[OpenHome]]
+[[AI Development]]
+[[API Integration]]
+[[Full-Stack Development]]
 
-<!-- synthesized: 2026-05-18T12:07:33Z -->
+<!-- synthesized: 2026-05-19T12:00:19Z -->
+```

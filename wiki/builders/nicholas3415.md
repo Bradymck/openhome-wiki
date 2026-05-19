@@ -1,30 +1,31 @@
 ```markdown
 ---
 title: builders/nicholas3415
-entity_type: builder
-status: live
-last_updated: 2026-05-18
+entity_type: community builder
+status: stub
+last_updated: 2026-05-19
 ---
 
 ### who-they-are
-Nicholas3415 is a software engineer specializing in full-stack AI development. He has extensive experience with a variety of programming languages and frameworks, including React.js, Python, Go, Rust, and more. His work focuses on developing web and mobile applications, AI agents, and automation systems.
+Nicholas3415 is a software engineer focused on full-stack AI development. They have extensive experience in various programming languages and frameworks, including React.js, Python, Go, Rust, and more. Nicholas3415 specializes in developing web and mobile applications, LLM integration systems, and AI agents.
 
 ### what-they-built
-Nicholas3415 has contributed to several integrations and abilities within the OpenHome ecosystem, particularly around building conversational AI agents called Personalities and extending them with Abilities—modular voice plugins that enhance functionality.
+Nicholas3415 has worked on AI applications, conversational AI agents, and systems integrating multiple technologies, though specific shipped abilities or integrations are not detailed in the available information.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: `@nicholas3415`
-- GitHub: [github.com/nicholas3415](https://github.com/nicholas3415)
-- X (formerly Twitter): [x.com/nicholas3415](https://x.com/nicholas3415)
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[Ability]]
+## connects-to
+[[builders]]
 [[OpenHome]]
-[[AI Agents]]
-[[Full Stack Development]]
+[[AI Development]]
+[[Conversational AI]]
+[[Web and Mobile Development]]
 
-<!-- synthesized: 2026-05-18T12:07:33Z -->
+<!-- synthesized: 2026-05-19T12:00:19Z -->
 ```

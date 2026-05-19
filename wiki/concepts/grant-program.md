@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: Grant Program
 entity_type: concepts/grant-program
-status: beta
-last_updated: 2026-05-18
-```
+status: live
+last_updated: 2026-05-19
+---
 
 ## definition
-The Grant Program is an initiative designed to support developers and contributors in building projects on the OpenHome platform by providing financial resources and physical development kits.
+The Grant Program is an initiative by OpenHome to support developers by providing financial resources and materials to foster innovation and contributions within the OpenHome platform.
 
 ## why-it-matters
-This program is vital for fostering innovation within the OpenHome community, encouraging participation by rewarding contributors for their efforts in developing new Abilities and enhancing the platform's capabilities.
+This program is essential as it incentivizes top contributors to enhance the platform by developing new abilities, features, and projects. By offering support and resources, the Grant Program encourages community engagement and accelerates the growth of the OpenHome ecosystem.
 
 ## how-it-manifests
-The Grant Program manifests through the distribution of physical development kits (DevKits) to top contributors and a budget allocated for the promotion of selected projects. Recipients of these grants have the opportunity to receive additional funding and support, facilitating the creation of new applications and tools on the OpenHome platform.
+The Grant Program is manifested through the provision of physical development kits, known as DevKits, for top contributors who engage with the OpenHome community productively. Developers can receive additional grant budgets to support their ideas, thus promoting active participation in building the platform.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ The Grant Program manifests through the distribution of physical development kit
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-05-18T12:07:33Z -->
+<!-- synthesized: 2026-05-19T12:00:19Z -->
+```

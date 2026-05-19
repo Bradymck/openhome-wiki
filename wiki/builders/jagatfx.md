@@ -1,29 +1,28 @@
-```markdown
----
+```yaml
 title: builders/jagatfx
-entity_type: community_builder
+entity_type: builder
 status: stub
-last_updated: 2026-05-18
----
+last_updated: 2026-05-19
+```
 
-### who-they-are
-Jagatfx is a software engineer focused on full stack AI development. They have extensive experience in building systems using various programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, among others. Their skill set includes Web/Mobile app development, LLM integration systems, and AI agents.
+## who-they-are
+jagatfx is a software engineer focused on full-stack AI development. They possess expertise in a diverse range of programming languages and frameworks, including React.js, Python, Go, and TensorFlow. Their background includes extensive experience in developing web and mobile applications, LLM integration systems, and various AI-related projects.
 
-### what-they-built
-Jagatfx has contributed to the development of conversational AI agents called "Personalities" and has worked with modular plugins, referred to as "Abilities," which add new skills to these agents. They have experience developing various integrations and capabilities within AI-powered applications.
+## what-they-built
+jagatfx has contributed to the development of AI agents and chatbots, modular systems, and API integration systems. They are familiar with creating abilities on platforms such as OpenHome and using hardware like Raspberry Pi for local integrations.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
-- GitHub: Not provided
-- X: Not provided
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-- [[OpenHome]]
-- [[Abilities]]
-- [[Conversational AI]]
+## connects-to
+[[openhome]]  
+[[abilities]]  
+[[AI agents]]  
+[[chatbots]]  
 
-<!-- synthesized: 2026-05-18T12:07:33Z -->
-```
+<!-- synthesized: 2026-05-19T12:00:19Z -->

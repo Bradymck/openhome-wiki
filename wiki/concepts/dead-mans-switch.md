@@ -1,23 +1,22 @@
 ```yaml
 title: Dead Man's Switch
-entity_type: concepts
+entity_type: concepts/
 status: stub
-last_updated: 2026-05-18
+last_updated: 2026-05-19
 ```
 
-## definition
-A dead man's switch is a safety mechanism that automatically activates or triggers an action if a certain condition is not met, typically when the operator is incapacitated or does not respond. It ensures that a process or system automatically shifts to a safe state to prevent accidents or failures.
+### definition
+A dead man's switch is a safety mechanism that automatically activates a specific function or alerts when the user becomes incapacitated or unresponsive.
 
-## why-it-matters
-The concept of a dead man's switch is crucial for ensuring reliability and safety within the OpenHome platform. By implementing such mechanisms, users can enhance the resilience of AI agents and prevent unintended consequences if an operator becomes unresponsive or unable to manage the system.
+### why-it-matters
+In the context of OpenHome, implementing a dead man's switch can enhance user safety and control over their smart home environment. It ensures that critical functionalities are maintained or alerted in case of an emergency, allowing users to feel more secure.
 
-## how-it-manifests
-In the OpenHome platform, a dead man's switch could be implemented within the configuration of Personalities or Abilities. For example, if a user stops interacting with their AI agent for a designated period, the system might automatically enter a standby mode or notify emergency contacts. This concept can also be reflected in the design of voice commands that monitor user interaction.
+### how-it-manifests
+While specific applications within the OpenHome platform for dead man's switch functionalities are currently not detailed, the concept can be integrated into personal AI personalities and their associated abilities to ensure the user's commands and settings are managed consistently, even in the event of a failure to respond.
 
-## connects-to
-[[concepts/voice-first]]
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/local-first]]
-[[concepts/spatial-intelligence]]
+[[concepts/voice-first]]
 
-<!-- synthesized: 2026-05-18T12:07:33Z -->
+<!-- synthesized: 2026-05-19T12:00:19Z -->

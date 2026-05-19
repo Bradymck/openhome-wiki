@@ -2,25 +2,28 @@
 title: builders/pauldy
 entity_type: builder
 status: stub
-last_updated: 2026-05-18
+last_updated: 2026-05-19
 ```
 
 ## who-they-are
-Pauldy is a Software Engineer focused on full-stack AI development. They possess extensive experience in building systems using a diverse range of programming languages and frameworks, including React.js, Python, and Go.
+Pauldy is a software engineer focusing on full stack AI development. They possess extensive experience in building systems with a diverse range of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Pauldy's expertise includes developing web and mobile applications, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, N8N, workflow automations, and API integration systems.
 
 ## what-they-built
-Currently, there are no specific details on what Pauldy has shipped in terms of abilities or integrations within the OpenHome platform.
+Pauldy has worked on various projects, including creating abilities on the OpenHome devkit and integrating systems with hardware like Raspberry Pi. Their works involve precise-tuning models, vector search systems, NLP pipelines, and DevOps and MLOps infrastructure.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
 [[OpenHome]]
-[[Abilities]]
+[[Abilites Integration]]
+[[AI Development]]
+[[Voice AI]]
+[[DevOps]]
 
-<!-- synthesized: 2026-05-18T12:07:33Z -->
+<!-- synthesized: 2026-05-19T12:00:19Z -->

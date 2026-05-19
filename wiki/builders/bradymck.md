@@ -1,30 +1,28 @@
 ```markdown
 ---
-title: "builders/bradymck"
-entity_type: "builder"
-status: "stub"
-last_updated: 2026-05-18
+title: bradymck
+entity_type: builders
+status: stub
+last_updated: 2026-05-19
 ---
 
 ### who-they-are
-Brady McK is a software engineer specializing in full-stack AI development. He has extensive experience in various programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. His expertise encompasses web and mobile app development, LLM integration systems, AI agents and chatbots, and several other advanced technology areas.
+Bradymck is a Software Engineer focused on full stack AI development with extensive experience in various programming languages and frameworks, including React.js, Python, and Rust. They specialize in developing Web and Mobile applications, integrating large language models (LLMs), and creating conversational AI systems.
 
 ### what-they-built
-Details on specific abilities or integrations that Brady McK has shipped are currently not available.
+Information regarding specific abilities or integrations shipped by bradymck is currently unavailable.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-- Discord Handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: [Not specified]
+- GitHub: [Not specified]
+- X: [Not specified]
 
-### connects-to
-[[builders]]
+## connects-to
 [[OpenHome]]
-[[AI Development]]
-[[Voice AI]]
-
-<!-- synthesized: 2026-05-18T12:07:33Z -->
+[[Abilities]]
+[[AI Agents]]
+<!-- synthesized: 2026-05-19T12:00:19Z -->
 ```

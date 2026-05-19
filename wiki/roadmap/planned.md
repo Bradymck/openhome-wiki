@@ -1,29 +1,26 @@
-```markdown
----
+```yaml
 title: Roadmap
 entity_type: roadmap/planned
 status: live
-last_updated: 2026-05-18
----
+last_updated: 2026-05-19
+```
 
 ## what-it-is
-OpenHome is introducing physical V0.1 development kits for users to build voice AI agents and extend them with modular plugins called Abilities. This initiative aims to foster community-driven development and innovation.
+The OpenHome platform is rolling out physical V0.1 devkits for developers and contributors. These devkits consist of smart speakers designed for local use, capable of handling music, smart home functionalities, AI interactions, and more.
 
 ## status
 Shipped
 
 ## why-it-matters
-This initiative provides developers with tools to create sophisticated voice-first applications easily, ultimately enhancing user interactions with technology. By distributing physical devkits, OpenHome encourages experimentation and engagement in the rapidly growing domain of voice AI.
+The devkits are a significant step in enhancing developer engagement with the OpenHome platform. They provide the necessary tools for building and experimenting with conversational AI agents, thereby fostering innovation and collaboration within the developer community.
 
 ## eta
-Devices are being shipped globally in small batches, but specific timelines for future releases or iterations are not detailed.
+Global shipping is ongoing in small batches, with priority access available through developer contributions.
 
 ## connects-to
-[[OpenHome]]
-[[DevKit]]
-[[Abilities]]
-[[Voice AI]]
-[[Developer Docs]]
-[[GitHub]]
-<!-- synthesized: 2026-05-18T12:07:33Z -->
-```
+[[OpenHome]]  
+[[Abilities]]  
+[[Personality]]  
+[[Voice AI]]  
+
+<!-- synthesized: 2026-05-19T12:00:19Z -->
