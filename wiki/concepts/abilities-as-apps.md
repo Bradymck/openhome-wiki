@@ -3,19 +3,19 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-05-19
+last_updated: 2026-05-20
 ---
 
-### definition
-Abilities-as-apps refer to modular voice plugins within the OpenHome platform that enhance the functionality of AI agents, known as Personalities. Each Ability grants the agent new skills, such as calling APIs, playing music, or controlling smart home devices.
+## definition
+Abilities-as-apps refers to the modular voice plugins within the OpenHome platform that enhance conversational AI agents, allowing them to perform specific tasks or skills on demand.
 
-### why-it-matters
-This concept is crucial for OpenHome as it allows developers to extend the capabilities of their voice AI agents easily. By building Abilities, users can tailor their AI interactions to meet specific needs, fostering an ecosystem of rich, customizable voice applications. This modularity aligns with OpenHome's mission to make AI-powered voice applications accessible and versatile.
+## why-it-matters
+This concept is essential to OpenHome as it enables the creation of customizable and extendable voice AI agents, promoting user engagement and diverse functionality. By allowing developers to build 'Abilities' as standalone applications, OpenHome enhances flexibility and innovation in voice interactions, thus significantly improving the user experience.
 
-### how-it-manifests
-Abilities appear in the OpenHome platform as plugins that can be added to Personalities. They are triggered by specified hotwords during voice conversations, enabling custom Python logic to execute. Users can create their own Abilities or explore community-built ones, facilitating innovation and collaboration among developers.
+## how-it-manifests
+Abilities are implemented as plugins that can be attached to Personalities (the voice AI agents). These Abilities can perform various functions such as controlling smart home devices, playing music, calling APIs, and hosting quizzes. They are triggered by specific hotwords during voice conversations, executing custom Python logic as needed.
 
-### connects-to
+## connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ Abilities appear in the OpenHome platform as plugins that can be added to Person
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-19T12:00:19Z -->
+<!-- synthesized: 2026-05-20T11:56:14Z -->
 ```

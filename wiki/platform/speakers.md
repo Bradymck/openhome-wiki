@@ -1,21 +1,20 @@
-```markdown
----
-title: platform/speakers
-entity_type: platform
-status: stub
-last_updated: 2026-05-19
----
+```yaml
+title: Speakers
+entity_type: platform/speakers
+status: beta
+last_updated: 2026-05-20
+```
 
-### what-it-is
-OpenHome speakers are cutting-edge devices designed for interaction within the OpenHome platform. They enable users to engage with AI agents, extending their capabilities through voice interactions and modular plugins known as Abilities.
+## what-it-is
+OpenHome Speakers are cutting-edge smart devices designed to function within the OpenHome ecosystem. They enable users to interact with various applications through voice commands, creating a seamless interface between users and technology.
 
-### how-it-works
-OpenHome speakers function as smart devices that allow users to build and interact with conversational AI agents called Personalities. These speakers can manage various tasks such as playing music, controlling smart home devices, and connecting with other hardware. Users can develop custom Abilities — voice plugins that provide additional functionalities — which can be activated through voice commands. The platform's voice recognition is triggered by hotwords, initiating specific Abilities during conversations.
+## how-it-works
+OpenHome Speakers operate as part of the OpenHome platform, supporting the development of conversational AI agents known as Personalities. These speakers leverage modular voice plugins, termed Abilities, to enhance their functionality. Users can engage with the speakers using voice interactions, which trigger Abilities that perform tasks such as playing music, controlling smart home devices, or accessing other APIs. The system is designed with a local-first approach, ensuring privacy and efficiency.
 
-### current-status
-stub
+## current-status
+beta
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -24,5 +23,4 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-19T12:00:19Z -->
-```
+<!-- synthesized: 2026-05-20T11:56:14Z -->

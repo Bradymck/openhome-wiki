@@ -1,22 +1,24 @@
-```yaml
+```markdown
+---
 title: Dead Man's Switch
 entity_type: concepts/
 status: stub
-last_updated: 2026-05-19
-```
+last_updated: 2026-05-20
+---
 
 ### definition
-A dead man's switch is a safety mechanism that automatically activates a specific function or alerts when the user becomes incapacitated or unresponsive.
+A Dead Man's Switch is a safety mechanism that automatically activates when the user is incapacitated. It ensures that specific actions are taken (or not taken) if the user is unable to manually control a device or application.
 
 ### why-it-matters
-In the context of OpenHome, implementing a dead man's switch can enhance user safety and control over their smart home environment. It ensures that critical functionalities are maintained or alerted in case of an emergency, allowing users to feel more secure.
+In the context of OpenHome, a Dead Man's Switch is crucial for enhancing user safety by preventing unauthorized actions during periods of user inactivity or incapacitation. It reinforces trust and reliability in interactions with AI agents, especially in smart home environments.
 
 ### how-it-manifests
-While specific applications within the OpenHome platform for dead man's switch functionalities are currently not detailed, the concept can be integrated into personal AI personalities and their associated abilities to ensure the user's commands and settings are managed consistently, even in the event of a failure to respond.
+While specific implementations are not detailed, the concept of a Dead Man's Switch can be integrated into AI personalities and abilities within the OpenHome platform, providing measures such as automatic shutdowns, alerts, or notifications if the user does not respond to prompts over a given period.
 
 ### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/voice-first]]
-
-<!-- synthesized: 2026-05-19T12:00:19Z -->
+- [[concepts/abilities-as-apps]]
+- [[concepts/local-first]]
+- [[concepts/voice-first]]
+  
+<!-- synthesized: 2026-05-20T11:56:14Z -->
+```

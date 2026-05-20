@@ -1,38 +1,28 @@
 ```markdown
 ---
-title: guides/sagarjethi
-entity_type: Community Guide
-status: live
-last_updated: 2026-05-19
+title: "Sagarjethi"
+entity_type: "guides/"
+status: "live"
+last_updated: 2026-05-20
 ---
 
 ### who-they-are
-Sagar Jethi is a Software Engineer with extensive experience in full stack AI development. They possess expertise in a diverse range of programming languages and frameworks, including React.js, Next.js, Python, Typescript, JavaScript, Go, Rust, C++, C#, Kotlin, and various AI-related technologies.
+Sagarjethi is a Software Engineer focused on full stack AI development. They possess extensive experience in building systems using a variety of programming languages and frameworks, including React.js, Python, TypeScript, JavaScript, Go, Rust, C++, C#, Kotlin, and several AI libraries such as PyTorch and TensorFlow.
 
 ### what-they-help-with
-Sagar specializes in developing systems across multiple domains, including:
-- Web and mobile app development
-- LLM (Large Language Model) integration systems
-- RAG (Retrieval-Augmented Generation) pipelines
-- AI agents and chatbots
-- Multi-modal systems
-- N8N and workflow automations
-- MCP (Memory Control Protocol) integration
-- Precision-tuned models
-- Vector search systems
-- Natural Language Processing (NLP) pipelines
-- DevOps and MLOps infrastructure
-- API integration systems
+Sagarjethi specializes in Web and Mobile app development, LLM (Large Language Model) integration systems, RAG (Retrieval-Augmented Generation) pipelines, AI agents and chatbots, multi-modal systems, automation workflows using N8N, and integrating custom abilities within the OpenHome platform. Their expertise includes precision-tuned models, vector search systems, NLP pipelines, and both DevOps and MLOps infrastructures.
 
 ### how-to-reach
-Sagar can be reached on Discord under the handle `sagarjethi`.
+Discord handle: Not specified in the source material.
 
-### connects-to
-[[guides]]
-[[OpenHome]]
-[[AI Development]]
-[[Voice AI]]
-[[Community Guides]]
+## connects-to
+[[guides/openhome]]
+[[guides/ai-development]]
+[[guides/web-development]]
+[[guides/mobile-development]]
+[[guides/llm-integration]]
+[[guides/automation]]
+[[guides/nlp-pipelines]]
 
-<!-- synthesized: 2026-05-19T12:00:19Z -->
+<!-- synthesized: 2026-05-20T11:56:14Z -->
 ```

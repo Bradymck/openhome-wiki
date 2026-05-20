@@ -1,31 +1,29 @@
 ```markdown
 ---
 title: builders/mathieub
-entity_type: builders
-status: stub
-last_updated: 2026-05-19
+entity_type: builder
+status: live
+last_updated: 2026-05-20
 ---
 
-### who-they-are
-Mathieu is a Software Engineer focused on full stack AI development. He possesses extensive experience building systems using a diverse array of languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Mathieu has experience in various domains, including Web/Mobile app development, LLM integration systems, and API integrations.
+## who-they-are
+Mathieu B. is a Software Engineer focused on full-stack AI development. They possess extensive experience in building systems using a diverse range of programming languages and frameworks, including React.js, Python, Go, and Rust. Mathieu has worked on various projects, including AI agents, chatbot systems, and multi-modal systems.
 
-### what-they-built
-Mathieu has been actively involved in building abilities and integrations for the OpenHome platform, specifically utilizing their devkit. He engages with the community by sharing ideas and prototyping various AI-driven solutions.
+## what-they-built
+Mathieu has developed multiple abilities and integrations on the OpenHome platform, contributing to the enhancement of conversational AI agents. Their work includes features for AI interaction and the development of custom functionalities that extend the capabilities of AI personalities.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
+## how-to-reach
+- Discord handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
-[[builders]]
+## connects-to
 [[OpenHome]]
+[[AI agents]]
 [[Abilities]]
-[[AI Development]]
-[[DevKit Integrations]]
 
-<!-- synthesized: 2026-05-19T12:00:19Z -->
+<!-- synthesized: 2026-05-20T11:56:14Z -->
 ```

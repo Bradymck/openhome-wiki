@@ -1,28 +1,29 @@
 ```markdown
 ---
-title: bradymck
-entity_type: builders
-status: stub
-last_updated: 2026-05-19
+title: "bradymck"
+entity_type: builders/
+status: live
+last_updated: 2026-05-20
 ---
 
 ### who-they-are
-Bradymck is a Software Engineer focused on full stack AI development with extensive experience in various programming languages and frameworks, including React.js, Python, and Rust. They specialize in developing Web and Mobile applications, integrating large language models (LLMs), and creating conversational AI systems.
+Brady McK is a Software Engineer focusing on full stack AI development. He has extensive experience building systems across various languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, and Flutter. His work encompasses Web/Mobile app development, LLM integration systems, RAG pipelines, AI agents, chatbots, multi-modal systems, workflow automations, and API integrations.
 
 ### what-they-built
-Information regarding specific abilities or integrations shipped by bradymck is currently unavailable.
+Brady is involved with OpenHome, an open-source Voice AI platform that allows users to build conversational AI agents called Personalities and extend them with modular voice plugins known as Abilities. His contributions likely include development with the OpenHome devkit and expansion of the platform's capabilities.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: [Not specified]
-- GitHub: [Not specified]
-- X: [Not specified]
+- Discord: bradymck
+- GitHub: [bradymck](https://github.com/bradymck)
+- X: [bradymck](https://x.com/bradymck)
 
-## connects-to
+### connects-to
 [[OpenHome]]
+[[Personalities]]
 [[Abilities]]
-[[AI Agents]]
-<!-- synthesized: 2026-05-19T12:00:19Z -->
+[[Voice AI]]
+<!-- synthesized: 2026-05-20T11:56:14Z -->
 ```

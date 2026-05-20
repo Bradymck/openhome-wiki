@@ -1,29 +1,31 @@
-```yaml
+```markdown
+---
 title: builders/pauldy
-entity_type: builder
+entity_type: community builder
 status: stub
-last_updated: 2026-05-19
-```
+last_updated: 2026-05-20
+---
 
-## who-they-are
-Pauldy is a software engineer focusing on full stack AI development. They possess extensive experience in building systems with a diverse range of programming languages and frameworks, including React.js/Next.js, Python, TypeScript/JavaScript, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter. Pauldy's expertise includes developing web and mobile applications, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, N8N, workflow automations, and API integration systems.
+### who-they-are
+Pauldy is a Software Engineer focused on full-stack AI development. They possess extensive experience in building systems using various programming languages and frameworks, including React.js, Python, Go, Rust, TensorFlow, and more. Pauldy specializes in developing web and mobile applications, as well as AI agent systems and various integration methodologies.
 
-## what-they-built
-Pauldy has worked on various projects, including creating abilities on the OpenHome devkit and integrating systems with hardware like Raspberry Pi. Their works involve precise-tuning models, vector search systems, NLP pipelines, and DevOps and MLOps infrastructure.
+### what-they-built
+Pauldy has contributed to the OpenHome platform by building capabilities for AI agents known as Personalities, which can be enhanced with modular voice plugins called Abilities. They actively engage in developing and prototyping new abilities for the platform.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-## connects-to
+### connects-to
 [[OpenHome]]
-[[Abilites Integration]]
+[[Abilities]]
+[[Voice AI Agents]]
 [[AI Development]]
-[[Voice AI]]
-[[DevOps]]
+[[Community Builders]]
 
-<!-- synthesized: 2026-05-19T12:00:19Z -->
+<!-- synthesized: 2026-05-20T11:56:14Z -->
+```

@@ -2,23 +2,20 @@
 title: Brady McK
 entity_type: team/bradymck
 status: stub
-last_updated: 2026-05-19
+last_updated: 2026-05-20
 ```
 
 ## who-they-are
-Brady McK is a software engineer focused on full stack AI development, possessing extensive experience in building systems with various programming languages and frameworks including Python, JavaScript, Go, and more.
+Brady McK is a member of the OpenHome team with expertise in full-stack AI development. He possesses extensive experience in building voice AI applications and integrating various programming languages and frameworks.
 
 ## what-they-own
-Brady leads projects within the OpenHome platform, specifically focusing on modular voice plugins called Abilities that add new skills to AI-based conversational agents.
+Brady leads efforts related to the development and implementation of AI agents, modular voice plugins, and various systems that enhance user interactions with technology.
 
 ## how-to-reach
-Discord handle: Not provided  
-X/Twitter: Not provided  
-Preferred contact: Not provided  
+Brady can be contacted via Discord. Further details on his social media or professional presence are currently unavailable.
 
 ## connects-to
-[[team/jesse]]  
+[[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-05-19T12:00:19Z -->
-```
+<!-- synthesized: 2026-05-20T11:56:14Z -->

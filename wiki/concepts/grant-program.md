@@ -1,19 +1,18 @@
-```markdown
----
+```yaml
 title: Grant Program
 entity_type: concepts/grant-program
 status: live
-last_updated: 2026-05-19
----
+last_updated: 2026-05-20
+```
 
 ## definition
-The Grant Program is an initiative by OpenHome to support developers by providing financial resources and materials to foster innovation and contributions within the OpenHome platform.
+The Grant Program within OpenHome is an initiative that provides financial and material support to developers and contributors who actively engage with the platform. It is designed to incentivize creativity and foster innovation in building applications and abilities on OpenHome.
 
 ## why-it-matters
-This program is essential as it incentivizes top contributors to enhance the platform by developing new abilities, features, and projects. By offering support and resources, the Grant Program encourages community engagement and accelerates the growth of the OpenHome ecosystem.
+This program is significant for OpenHome as it encourages collaboration and development within the community. By supporting developers with resources like physical devkits and grants, OpenHome promotes a vibrant ecosystem where new ideas and technologies can evolve, enhancing the overall user experience.
 
 ## how-it-manifests
-The Grant Program is manifested through the provision of physical development kits, known as DevKits, for top contributors who engage with the OpenHome community productively. Developers can receive additional grant budgets to support their ideas, thus promoting active participation in building the platform.
+The Grant Program manifests through various means such as distribution of physical devkits to top contributors and increased financial support for promising projects within the OpenHome platform. Successful applicants can receive additional resources to help realize and promote their projects.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +22,4 @@ The Grant Program is manifested through the provision of physical development ki
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-05-19T12:00:19Z -->
-```
+<!-- synthesized: 2026-05-20T11:56:14Z -->

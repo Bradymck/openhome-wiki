@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: platform/local-link
-entity_type: wiki
-status: beta
-last_updated: 2026-05-19
-```
+entity_type: platform
+status: stub
+last_updated: 2026-05-20
+---
 
 ## what-it-is
-Platform/local-link is a feature within the OpenHome ecosystem that allows users to connect their AI agents, referred to as Personalities, to local hardware devices. This capability enhances the functionality of the Personalities by enabling them to interact with and control physical devices within the user's environment.
+Platform/local-link is an essential feature within the OpenHome ecosystem that enables local connectivity for devices and applications, facilitating communication and interaction without relying on external servers.
 
 ## how-it-works
-Local-link operates by allowing Personalities to communicate directly with various hardware components such as smart home devices or other peripherals over a local network. Users can create custom Abilities that leverage this connection for tasks such as controlling lights, playing music, or gathering device statuses. This integration is crucial for enhancing the real-world interaction capabilities of AI agents built on the OpenHome platform.
+Platform/local-link operates by allowing hardware devices and software applications within the OpenHome environment to connect directly over a local network. This capability supports a range of functionalities, from controlling smart home devices to interacting with various modules and plugins in real time. By prioritizing local interactions, platform/local-link enhances performance and reduces latency compared to cloud-based solutions.
 
 ## current-status
-beta
+stub
 
 ## connects-to
 [[platform/openhome]]
@@ -23,4 +24,5 @@ beta
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-19T12:00:19Z -->
+<!-- synthesized: 2026-05-20T11:56:14Z -->
+```

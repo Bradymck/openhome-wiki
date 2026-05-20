@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: Spatial Intelligence
 entity_type: concepts
-status: beta
-last_updated: 2026-05-19
-```
+status: stub
+last_updated: 2026-05-20
+---
 
 ### definition
-Spatial intelligence refers to the ability to think in three dimensions, which includes the capacity to visualize and manipulate objects in one's mind, as well as to understand spatial relationships. This concept is crucial in fields such as architecture, engineering, and design, allowing individuals to navigate and interpret the physical environment effectively.
+Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It encompasses skills such as spatial reasoning, the ability to interpret visual information, and understanding how objects relate to one another in physical space.
 
 ### why-it-matters
-In the context of OpenHome, spatial intelligence enhances the interaction between users and their smart environments. It allows the platform to provide more intuitive interfaces for controlling devices and engaging with virtual assistants in a way that feels natural and adaptive to the user's context. By integrating spatial intelligence, OpenHome empowers users to manage their connected experiences with greater ease and efficiency.
+In the context of OpenHome, spatial intelligence enhances the interaction between users and their AI-powered voice applications. By incorporating spatial awareness, OpenHome can create more intuitive and immersive user experiences, allowing for more natural voice interactions and better integration of physical devices within a user's environment.
 
 ### how-it-manifests
-Spatial intelligence manifests within OpenHome through the design of user interfaces that are intuitive and responsive to the physical layout of a user's environment. This includes the ability for voice AI agents to understand or represent physical spaces, enabling interactions that are contextually aware based on a user's location and the arrangement of devices. The smart speakers, capable of recognizing spatial commands and operations, are an example of this concept in practice.
+Spatial intelligence manifests on the OpenHome platform through features that allow users to engage with their environment in a more interactive manner. This can include functionalities like controlling smart home devices based on their physical location, or providing assistance with navigation and spatially oriented tasks. The integration of spatial intelligence into the platform is aimed at improving the way users interact with technology in their daily lives.
 
 ### connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/grant-program]]
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-19T12:00:19Z -->
+<!-- synthesized: 2026-05-20T11:56:14Z -->
+```

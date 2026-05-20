@@ -1,25 +1,25 @@
 ```markdown
 ---
-title: concepts/local-first
-entity_type: concepts
+title: Local First
+entity_type: concepts/local-first
 status: stub
-last_updated: 2026-05-19
+last_updated: 2026-05-20
 ---
 
-## definition
-Local-first is an approach that emphasizes the importance of local data storage and processing, prioritizing the user’s device over remote servers. This ensures that applications can function and interact seamlessly even without constant internet connectivity.
+### definition
+Local First refers to the design philosophy where applications prioritize local data processing and storage over cloud dependency, enabling enhanced performance, privacy, and user control.
 
-## why-it-matters
-In the context of OpenHome, adopting a local-first strategy allows for enhanced privacy, reduced latency, and greater reliability. Users can interact with their AI agents and smart devices regardless of their internet status, which is crucial for maintaining a consistent user experience in the increasingly interconnected world.
+### why-it-matters
+This concept is relevant to OpenHome as it aligns with the mission to create voice AI applications that are efficient and user-centric. By emphasizing local-first principles, OpenHome can ensure that users have more control over their data and can operate without constant internet access, leading to a more resilient experience.
 
-## how-it-manifests
-While specific implementations of the local-first concept within OpenHome are yet to be detailed, the platform's development kits and abilities suggest a design that supports local execution of skills and tasks, reducing reliance on distant servers.
+### how-it-manifests
+Local First appears in the OpenHome platform through the deployment of AI agents and their ability to function independently of external cloud services. The platform's architecture allows developers to build applications that can run entirely on local devices, reducing latency and increasing responsiveness.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-19T12:00:19Z -->
+<!-- synthesized: 2026-05-20T11:56:14Z -->
 ```

@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: Peej
-entity_type: team
-status: stub
-last_updated: 2026-05-19
+title: "Peej"
+entity_type: "team"
+status: "stub"
+last_updated: 2026-05-20
 ---
 
 ### who-they-are
-Peej is a core member of the OpenHome team, focusing on development and integration of voice AI solutions. They have extensive experience in full-stack AI development, with proficiency in various programming languages and frameworks tailored for AI applications.
+Peej is a core team member at OpenHome, involved in AI development and system integration.
 
 ### what-they-own
-Peej leads initiatives related to the development and enhancement of the OpenHome platform's voice AI capabilities and contributing to the integration of new features and functionalities within the system.
+Peej leads efforts related to project development and AI systems at OpenHome, focusing on enhancing the platform's capabilities.
 
 ### how-to-reach
-Currently, there is no specific Discord handle or social media contact shared for Peej.
+Peej can be contacted via Discord, but specific handles or social media are not provided in the current data.
 
 ### connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[voice-ai]]
-[[abilities]]
-[[developer-docs]]
+[[dev.openhome.com]]
+[[github.com/openhome-dev/abilities]]
 
-<!-- synthesized: 2026-05-19T12:00:19Z -->
+<!-- synthesized: 2026-05-20T11:56:14Z -->
 ```
