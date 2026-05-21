@@ -1,28 +1,27 @@
-```yaml
+```markdown
+---
 title: builders/shoompa
 entity_type: builder
-status: live
-last_updated: 2026-05-20
-```
+status: stub
+last_updated: 2026-05-21
+---
 
-## who-they-are
-Shoompa is a software engineer focused on full-stack AI development, leveraging extensive experience in various programming languages and frameworks, including React.js, Python, and Go. They specialize in building systems for conversational AI agents, multi-modal systems, and API integrations.
+### who-they-are
+Shoompa is a community builder within the OpenHome platform. They engage with users and contribute to the development of conversational AI agents and various voice applications.
 
-## what-they-built
-Shoompa has been involved in the development of abilities for the OpenHome platform, creating modular voice plugins that enhance AI agents with new skills such as calling APIs, playing music, and controlling devices. They are also participating in the OpenHome community by sharing projects and contributing to discussions related to voice AI technology.
+### what-they-built
+Shoompa has participated in creating and enhancing abilities for Personalities within the OpenHome ecosystem. They work on developing modular voice plugins that can be integrated into AI systems, enabling various skills like playing music and controlling smart home devices.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-## connects-to
-[[OpenHome]]  
-[[Abilities]]  
-[[Voice AI]]  
-[[Conversational AI Agents]]
+### connects-to
+[[builders]]
 
-<!-- synthesized: 2026-05-20T11:56:14Z -->
+<!-- synthesized: 2026-05-21T12:02:05Z -->
+```

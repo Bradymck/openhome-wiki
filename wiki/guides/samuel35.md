@@ -1,34 +1,24 @@
 ```markdown
 ---
-title: guides/samuel35
-entity_type: Community Guide
-status: live
-last_updated: 2026-05-20
+title: "guides/samuel35"
+entity_type: "Community Guide"
+status: "stub"
+last_updated: 2026-05-21
 ---
 
 ### who-they-are
-Samuel35 is a Software Engineer with a focus on full stack AI development. He has extensive experience building systems using a variety of programming languages and frameworks.
+Samuel35 is a community guide within the OpenHome platform, contributing to the development and support of AI-powered voice applications.
 
 ### what-they-help-with
-Samuel35 specializes in various domains, including:
-- Web and mobile app development
-- LLM (Large Language Model) integration systems
-- RAG (Retrieval-Augmented Generation) pipelines
-- AI agents and chatbots
-- Multi-modal systems
-- Workflow automations
-- Precision-tuned models
-- MLOps and DevOps infrastructure
-- API integration systems
+Samuel35 specializes in helping new users navigate the OpenHome platform, assisting with the creation of conversational AI agents and the integration of Abilities to enhance their functionality.
 
 ### how-to-reach
 You can reach Samuel35 on Discord.
 
-### connects-to
-[[Community Guides]]
+## connects-to
+[[guides]]
 [[OpenHome]]
-[[AI Development]]
-[[Voice AI Applications]]
-
-<!-- synthesized: 2026-05-20T11:56:14Z -->
+[[Abilities]]
+[[Personalities]]
+<!-- synthesized: 2026-05-21T12:02:05Z -->
 ```

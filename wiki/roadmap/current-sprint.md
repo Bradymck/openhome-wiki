@@ -1,29 +1,30 @@
 ```markdown
 ---
-title: Roadmap Current Sprint
-entity_type: roadmap
+title: Roadmap - Current Sprint
+entity_type: roadmap/current-sprint
 status: live
-last_updated: 2026-05-20
+last_updated: 2026-05-21
 ---
 
-## what-it-is
-The current sprint focuses on developing OpenHome, an open-source Voice AI platform that enables users to build conversational AI agents called Personalities. Users can extend these agents with modular voice plugins known as Abilities, enhancing the AI's functionality.
+### what-it-is
+The current sprint focuses on rolling out OpenHome's Voice AI platform, allowing developers to create conversational AI agents called Personalities and extend their capabilities with modular plugins known as Abilities. This includes distributing physical V0.1 developer kits designed for top contributions and feedback from the community.
 
-## status
-in-progress
+### status
+In-progress
 
-## why-it-matters
-OpenHome aims to revolutionize interactions with technology by making AI-powered, voice-first applications accessible and intuitive. The platform empowers users to create meaningful voice interactions and enhances everyday life.
+### why-it-matters
+The mission of OpenHome is to revolutionize human-technology interaction through accessible AI-powered, voice-first applications. By providing developers with tools and resources, OpenHome aims to foster innovation and creativity within the voice interaction space, empowering users to connect with their devices in meaningful ways.
 
-## eta
-The timeline for progress is ongoing, with the distribution of development kits for top contributors.
+### eta
+Shipping globally in small batches as of May 2026, with ongoing provisions for developers who contribute actively to the community by prototyping new abilities.
 
-## connects-to
+### connects-to
 [[OpenHome]]
-[[Abilities]]
 [[Voice AI]]
+[[Abilities]]
 [[Developer Docs]]
-[[OpenHome Dashboard]]
 [[GitHub]]
-<!-- synthesized: 2026-05-20T11:56:14Z -->
+[[OpenHome Dashboard]]
+
+<!-- synthesized: 2026-05-21T12:02:05Z -->
 ```

@@ -1,30 +1,29 @@
 ```markdown
 ---
-title: Builders - Michael Gold
+title: builders/michaelgold
 entity_type: builders
 status: stub
-last_updated: 2026-05-20
+last_updated: 2026-05-21
 ---
 
-## who-they-are
-Michael Gold is a Software Engineer focused on full-stack AI development. He has extensive experience building systems using various programming languages and frameworks which include React.js, Python, Go, Rust, C++, Kotlin, and more. His expertise covers a wide range of domains such as web/mobile app development, AI agents, and integration systems.
+### who-they-are
+Michael Gold is a developer involved in the OpenHome community, contributing to the development of AI-powered voice applications.
 
-## what-they-built
-Michael has demonstrated skills in developing various applications and systems including LLM integration systems, workflow automations, and API integration systems. He actively engages with platforms like OpenHome to prototype new abilities and contribute to the community.
+### what-they-built
+Specific contributions or projects by Michael Gold have not been detailed in the available information.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Available in OpenHome community channels
+### how-to-reach
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[builders]]
+[[builders/]]
 [[OpenHome]]
-[[Voice AI]]
-[[AI agents]]
+[[Voice AI applications]]
 [[Abilities]]
-<!-- synthesized: 2026-05-20T11:56:14Z -->
+<!-- synthesized: 2026-05-21T12:02:05Z -->
 ```

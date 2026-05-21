@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Abilities/Trivia
+title: Trivia
 entity_type: abilities
-status: stub
-last_updated: 2026-05-20
+status: live
+last_updated: 2026-05-21
 ---
 
 ### what-it-does
-Trivia is an Ability that enables your AI Personality to conduct quizzes and trivia games, allowing users to engage in interactive knowledge testing and entertainment.
+The Trivia ability allows users to engage in quizzes and provide answers to questions across various topics, enhancing their interaction with the AI platform.
 
 ### how-to-build
-To build a trivia Ability, developers can leverage APIs that provide trivia questions and answers, implement randomization algorithms for selecting questions, and create a conversational flow to interact with users. This typically involves writing custom Python logic triggered by voice commands during a conversation.
+To build the Trivia ability, developers need to implement custom Python logic that triggers upon specific hotwords during a voice conversation. Integration with external trivia question APIs can be utilized to fetch a diverse set of questions.
 
 ### category
-entertainment
+utility
 
 ### built-by
 [[abilities/trivia]]
@@ -22,9 +22,7 @@ entertainment
 live
 
 ### connects-to
-[[abilities/news-brief]]
-[[abilities/aquaprime]]
-[[abilities/deadman-fm]]
+[[abilities/aquaprime]], [[abilities/deadman-fm]], [[abilities/news-brief]]
 
-<!-- synthesized: 2026-05-20T11:56:14Z -->
+<!-- synthesized: 2026-05-21T12:02:05Z -->
 ```

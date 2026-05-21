@@ -1,25 +1,23 @@
-```markdown
----
-title: Local First
-entity_type: concepts/local-first
+```yaml
+title: local-first
+entity_type: concepts
 status: stub
-last_updated: 2026-05-20
----
+last_updated: 2026-05-21
+```
 
-### definition
-Local First refers to the design philosophy where applications prioritize local data processing and storage over cloud dependency, enabling enhanced performance, privacy, and user control.
+## definition
+Local-first refers to a paradigm in software design where applications prioritize local data storage and processing on the device, ensuring functionality even without constant internet connectivity. This approach enhances user privacy, security, and performance by minimizing reliance on remote servers.
 
-### why-it-matters
-This concept is relevant to OpenHome as it aligns with the mission to create voice AI applications that are efficient and user-centric. By emphasizing local-first principles, OpenHome can ensure that users have more control over their data and can operate without constant internet access, leading to a more resilient experience.
+## why-it-matters
+In the context of OpenHome, local-first is significant because it enables a seamless user experience, allowing users to interact with their voice AI agents and smart home devices without interruption, even in varying connectivity conditions. This enhances reliability and trust in the platform, as users can expect consistent performance.
 
-### how-it-manifests
-Local First appears in the OpenHome platform through the deployment of AI agents and their ability to function independently of external cloud services. The platform's architecture allows developers to build applications that can run entirely on local devices, reducing latency and increasing responsiveness.
+## how-it-manifests
+The local-first principle is embedded in the design of OpenHome's hardware, particularly in its smart speaker devices, which operate independently of cloud services for primary functions. This aspect allows users to control music, smart home features, and engage with AI without requiring continuous internet access.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
-[[concepts/grant-program]]
+[[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-05-20T11:56:14Z -->
-```
+<!-- synthesized: 2026-05-21T12:02:05Z -->

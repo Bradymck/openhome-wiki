@@ -1,24 +1,27 @@
 ```markdown
 ---
-title: Dead Man's Switch
-entity_type: concepts/
+title: concepts/dead-mans-switch
+entity_type: concepts
 status: stub
-last_updated: 2026-05-20
+last_updated: 2026-05-21
 ---
 
 ### definition
-A Dead Man's Switch is a safety mechanism that automatically activates when the user is incapacitated. It ensures that specific actions are taken (or not taken) if the user is unable to manually control a device or application.
+A dead man's switch is a safety mechanism that automatically performs a specific action if a certain condition is met, typically if the operator becomes incapacitated or fails to respond. It acts as a preventative measure to avoid unwanted situations in the absence of active control.
 
 ### why-it-matters
-In the context of OpenHome, a Dead Man's Switch is crucial for enhancing user safety by preventing unauthorized actions during periods of user inactivity or incapacitation. It reinforces trust and reliability in interactions with AI agents, especially in smart home environments.
+In the context of OpenHome, the dead man's switch concept is crucial for enhancing user safety and control over automated systems and AI agents. It ensures that if a user becomes non-responsive, the system can take appropriate actions to prevent harm or malfunction, thereby fostering trust and reliability in smart home environments.
 
 ### how-it-manifests
-While specific implementations are not detailed, the concept of a Dead Man's Switch can be integrated into AI personalities and abilities within the OpenHome platform, providing measures such as automatic shutdowns, alerts, or notifications if the user does not respond to prompts over a given period.
+This concept may manifest within OpenHome's platform as a feature integrated into smart home devices and AI agents that monitors user inputs. If there is no user interaction detected for a specific period, the system can initiate pre-defined safety measures, such as powering down devices, sending alerts, or requiring re-authentication to regain control.
 
 ### connects-to
 - [[concepts/abilities-as-apps]]
-- [[concepts/local-first]]
 - [[concepts/voice-first]]
-  
-<!-- synthesized: 2026-05-20T11:56:14Z -->
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
+
+<!-- synthesized: 2026-05-21T12:02:05Z -->
 ```

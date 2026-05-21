@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: builders/mathieub
-entity_type: builder
-status: live
-last_updated: 2026-05-20
+title: "builders/mathieub"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-05-21
 ---
 
-## who-they-are
-Mathieu B. is a Software Engineer focused on full-stack AI development. They possess extensive experience in building systems using a diverse range of programming languages and frameworks, including React.js, Python, Go, and Rust. Mathieu has worked on various projects, including AI agents, chatbot systems, and multi-modal systems.
+### who-they-are
+Mathieu B. is a developer involved in the OpenHome community, contributing to the building of conversational AI agents known as Personalities, as well as modular voice plugins, termed Abilities.
 
-## what-they-built
-Mathieu has developed multiple abilities and integrations on the OpenHome platform, contributing to the enhancement of conversational AI agents. Their work includes features for AI interaction and the development of custom functionalities that extend the capabilities of AI personalities.
+### what-they-built
+Details about specific Abilities or integrations built by Mathieub are not currently available. However, he is encouraged to prototype Abilities on the OpenHome platform, contributing to the enhancement of voice AI technology.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
+### how-to-reach
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-## connects-to
+### connects-to
 [[OpenHome]]
-[[AI agents]]
 [[Abilities]]
+[[Personalities]]
 
-<!-- synthesized: 2026-05-20T11:56:14Z -->
+<!-- synthesized: 2026-05-21T12:02:05Z -->
 ```

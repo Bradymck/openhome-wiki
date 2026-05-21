@@ -1,30 +1,27 @@
 ```markdown
 ---
 title: builders/sonordi
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-05-20
+last_updated: 2026-05-21
 ---
 
 ### who-they-are
-Sonordi is a software engineer with a focus on full-stack AI development. They possess extensive experience in building systems using a diverse range of languages and frameworks, including React.js/Next.js, Python, Ts/Js, Go, Rust, C++, C#, Kotlin, LangChain, AutoGen, PyTorch, TensorFlow, FastAPI, React Native, and Flutter.
+Sonordi is an active community builder within the OpenHome platform, specializing in developing conversational AI agents known as Personalities. They focus on creating and extending abilities for voice-first applications.
 
 ### what-they-built
-Sonordi has worked on various projects involving Web/Mobile app development, LLM integration systems, RAG pipelines, AI agents and chatbots, multi-modal systems, N8N, workflow automations, MCP integration, precision-tuned models, vector search systems, NLP pipelines, and API integration systems.
+Details on specific abilities or integrations shipped by Sonordi have not been provided. However, they have been noted for their contributions to the OpenHome community.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-Discord: Not specified  
-GitHub: Not specified  
-X: Not specified
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[builders/openhome]]  
-[[projects/ai-agents]]  
-[[projects/chatbots]]  
-[[technologies/llm-integration]]  
+## connects-to
+[[abilities]]
 
-<!-- synthesized: 2026-05-20T11:56:14Z -->
+<!-- synthesized: 2026-05-21T12:02:05Z -->
 ```

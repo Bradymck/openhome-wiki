@@ -2,18 +2,18 @@
 ---
 title: platform/local-link
 entity_type: platform
-status: stub
-last_updated: 2026-05-20
+status: beta
+last_updated: 2026-05-21
 ---
 
 ## what-it-is
-Platform/local-link is an essential feature within the OpenHome ecosystem that enables local connectivity for devices and applications, facilitating communication and interaction without relying on external servers.
+Platform/local-link is a functionality within the OpenHome ecosystem, enabling enhanced connectivity and interaction between OpenHome devices and the user’s local network. It facilitates communication and control of devices, thus enriching user experiences.
 
 ## how-it-works
-Platform/local-link operates by allowing hardware devices and software applications within the OpenHome environment to connect directly over a local network. This capability supports a range of functionalities, from controlling smart home devices to interacting with various modules and plugins in real time. By prioritizing local interactions, platform/local-link enhances performance and reduces latency compared to cloud-based solutions.
+The local-link function operates by establishing a direct connection between OpenHome devices and local networked devices. This allows users to control and integrate various smart home devices seamlessly. By leveraging local processing and communication protocols, platform/local-link ensures responsive performance without being solely reliant on cloud services. This enhances privacy and security as well, since data can be processed locally without transmitting sensitive information over the internet.
 
 ## current-status
-stub
+beta
 
 ## connects-to
 [[platform/openhome]]
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-20T11:56:14Z -->
+<!-- synthesized: 2026-05-21T12:02:05Z -->
 ```

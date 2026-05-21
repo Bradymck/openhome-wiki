@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: Web3 Native
-entity_type: concepts
+entity_type: concepts/
 status: stub
-last_updated: 2026-05-20
-```
+last_updated: 2026-05-21
+---
 
-## definition
-Web3 Native refers to concepts, tools, and applications that are rooted in the principles of Web3, emphasizing decentralized networks, user ownership, transparency, and interoperability.
+### definition
+Web3 native refers to applications, platforms, and protocols built on decentralized architecture, emphasizing user ownership, privacy, and interoperability.
 
-## why-it-matters
-In the context of OpenHome, a Web3 Native approach enables seamless integration of decentralized technologies, empowering users to have greater control over their data and interactions with AI agents. This fosters a more user-centric ecosystem, aligning with OpenHome's mission to enhance human-device interactions.
+### why-it-matters
+In the context of OpenHome, being web3 native is vital as it aligns with the platform's mission to create a decentralized and user-centric voice AI ecosystem. This approach empowers users by allowing them to own and control their data, providing enhanced security and transparency.
 
-## how-it-manifests
-Web3 Native principles can be observed in OpenHome through the architecture of personal AI agents (Personalities) and the modular system of Abilities, which can potentially use decentralized protocols for data handling and user interactions. This may involve leveraging blockchain technology for secure identity verification, data storage, and sharing.
+### how-it-manifests
+The web3 native concept reveals itself in OpenHome through the implementation of user-driven governance, decentralized data storage, and leveraging blockchain technologies for transparent and secure interactions. Features may include user-defined permissions and the ability to create and manage personal AI agents with minimal central oversight.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
 [[concepts/local-first]]
+[[concepts/voice-first]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-20T11:56:14Z -->
+<!-- synthesized: 2026-05-21T12:02:05Z -->
+```

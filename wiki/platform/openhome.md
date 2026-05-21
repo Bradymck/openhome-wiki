@@ -1,18 +1,17 @@
-```markdown
----
-title: OpenHome
-entity_type: platform
+```yaml
+title: OpenHome Platform
+entity_type: platform/openhome
 status: live
-last_updated: 2026-05-20
----
+last_updated: 2026-05-21
+```
 
-## what-it-is
-OpenHome is an open-source Voice AI platform that enables developers to create conversational AI agents known as Personalities. It supports the integration of modular voice plugins, referred to as Abilities, which enhance the functionality of these agents.
+# what-it-is
+OpenHome is an open-source Voice AI platform designed for creating conversational AI agents, referred to as Personalities. These agents can be extended with modular voice plugins called Abilities, enabling a wide range of functionalities.
 
-## how-it-works
-OpenHome allows users to build AI agents through a series of straightforward steps. Developers can set up a Personality, defining its voice, persona, and conversation style. Abilities are modular plugins that provide additional skills to these Personalities, such as calling APIs, playing music, and controlling smart devices. These Abilities can be triggered by specific hotwords during conversations. The platform emphasizes community collaboration, encouraging users to explore and contribute to pre-existing Abilities through an accessible dashboard and GitHub repository.
+# how-it-works
+The OpenHome platform allows developers to create custom AI agents that can engage in voice conversations. Each agent features a unique persona, voice, and style, which can be customized. Abilities are integrated as plugins that expand the agent's skills, such as playing music, controlling smart devices, or accessing APIs. These Abilities are activated through specific hotwords during interactions. Developers can utilize the OpenHome Dashboard to create and manage their agents and explore community-built Abilities through available repositories.
 
-## current-status
+# current-status
 live
 
 ## connects-to
@@ -23,5 +22,5 @@ live
 [[platform/local-link]]
 [[platform/marketplace]]
 [[platform/live-editor]]
-<!-- synthesized: 2026-05-20T11:56:14Z -->
-```
+
+<!-- synthesized: 2026-05-21T12:02:05Z -->

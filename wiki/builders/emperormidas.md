@@ -1,31 +1,25 @@
-```markdown
----
-title: builders/emperormidas
-entity_type: community builder
+```yaml
+title: "Emperor Midas"
+entity_type: builders/
 status: stub
-last_updated: 2026-05-20
----
+last_updated: 2026-05-21
+```
 
-### who-they-are
-EmperorMidas is a Software Engineer specializing in full-stack AI development. They possess extensive experience in building AI systems using various programming languages and frameworks, including React.js, Python, Go, Rust, TensorFlow, FastAPI, and more. EmperorMidas is engaged in developing a wide array of applications, from AI agents and chatbots to multi-modal systems.
+## who-they-are
+Emperor Midas is a developer actively involved in the OpenHome community, contributing to the creation and improvement of voice AI agents and their abilities.
 
-### what-they-built
-While specific shipped abilities or integrations by EmperorMidas are not detailed, they are noted to be involved in creating modular voice applications that utilize the OpenHome platform. The focus is on developing conversational AI agents and extending them with unique abilities through the OpenHome ecosystem.
+## what-they-built
+Details about specific abilities or integrations that Emperor Midas has shipped are currently unknown.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[builders]]
+## connects-to
 [[abilities]]
-[[OpenHome]]
-[[AI agents]]
-[[chatbots]]
 
-<!-- synthesized: 2026-05-20T11:56:14Z -->
-```
+<!-- synthesized: 2026-05-21T12:02:05Z -->

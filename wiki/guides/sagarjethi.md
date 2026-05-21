@@ -1,28 +1,25 @@
 ```markdown
 ---
-title: "Sagarjethi"
-entity_type: "guides/"
-status: "live"
-last_updated: 2026-05-20
+title: Sagarjethi
+entity_type: guides/
+status: stub
+last_updated: 2026-05-21
 ---
 
 ### who-they-are
-Sagarjethi is a Software Engineer focused on full stack AI development. They possess extensive experience in building systems using a variety of programming languages and frameworks, including React.js, Python, TypeScript, JavaScript, Go, Rust, C++, C#, Kotlin, and several AI libraries such as PyTorch and TensorFlow.
+Sagarjethi is a community guide known for their contributions to the OpenHome project, specializing in voice AI development. 
 
 ### what-they-help-with
-Sagarjethi specializes in Web and Mobile app development, LLM (Large Language Model) integration systems, RAG (Retrieval-Augmented Generation) pipelines, AI agents and chatbots, multi-modal systems, automation workflows using N8N, and integrating custom abilities within the OpenHome platform. Their expertise includes precision-tuned models, vector search systems, NLP pipelines, and both DevOps and MLOps infrastructures.
+Sagarjethi assists users in building conversational AI agents on the OpenHome platform, providing insights on creating Personalities and extending them with Abilities. They offer guidance on the use of hardware and APIs within the OpenHome ecosystem.
 
 ### how-to-reach
-Discord handle: Not specified in the source material.
+Discord handle: Sagarjethi
 
 ## connects-to
-[[guides/openhome]]
-[[guides/ai-development]]
-[[guides/web-development]]
-[[guides/mobile-development]]
-[[guides/llm-integration]]
-[[guides/automation]]
-[[guides/nlp-pipelines]]
-
-<!-- synthesized: 2026-05-20T11:56:14Z -->
+[[guides]]
+[[OpenHome]]
+[[Voice AI]]
+[[Developer Docs]]
+[[GitHub]]
+<!-- synthesized: 2026-05-21T12:02:05Z -->
 ```
