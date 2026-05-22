@@ -1,29 +1,28 @@
-```markdown
----
+```yaml
 title: builders/nicholas3415
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-05-21
----
+last_updated: 2026-05-22
+```
 
-### who-they-are
-Nicholas3415 is a builder within the OpenHome community, focused on developing conversational AI agents and extending their functionalities through modular plugins known as Abilities.
+## who-they-are
+Nicholas3415 is an active participant in the OpenHome community, focusing on building conversational AI agents known as Personalities and extending their capabilities with modular plugins called Abilities.
 
-### what-they-built
-Details on specific abilities or integrations that Nicholas3415 has shipped are currently unavailable. 
+## what-they-built
+Details about specific ships or integrations created by Nicholas3415 are currently unavailable.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord: nicholas3415
+- GitHub: [nicholas3415 on GitHub](https://github.com/nicholas3415)
+- X: [@nicholas3415](https://x.com/nicholas3415)
 
-### connects-to
-[[Abilities]]
+## connects-to
+[[Ability]]
 [[OpenHome]]
-[[Conversational AI]]
+[[Hyperpersonalities]]
 
-<!-- synthesized: 2026-05-21T12:02:05Z -->
+<!-- synthesized: 2026-05-22T11:53:51Z -->
 ```

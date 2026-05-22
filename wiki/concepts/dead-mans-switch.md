@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: concepts/dead-mans-switch
-entity_type: concepts
+title: Dead Man's Switch
+entity_type: concepts/
 status: stub
-last_updated: 2026-05-21
+last_updated: 2026-05-22
 ---
 
 ### definition
-A dead man's switch is a safety mechanism that automatically performs a specific action if a certain condition is met, typically if the operator becomes incapacitated or fails to respond. It acts as a preventative measure to avoid unwanted situations in the absence of active control.
+A dead man's switch is a safety mechanism that requires regular input or action to keep a system active. If the required input is not received within a defined time frame, the system is designed to take a specific action, often to prevent dangerous situations or ensure that certain processes are engaged and monitored.
 
 ### why-it-matters
-In the context of OpenHome, the dead man's switch concept is crucial for enhancing user safety and control over automated systems and AI agents. It ensures that if a user becomes non-responsive, the system can take appropriate actions to prevent harm or malfunction, thereby fostering trust and reliability in smart home environments.
+In the context of OpenHome, a dead man's switch can enhance the reliability and safety of voice AI applications by ensuring that users are actively engaged with the technology. This may prevent misuse or malfunction by automatically taking actions like disabling features or alerting users if a device has not received inputs over a specified duration.
 
 ### how-it-manifests
-This concept may manifest within OpenHome's platform as a feature integrated into smart home devices and AI agents that monitors user inputs. If there is no user interaction detected for a specific period, the system can initiate pre-defined safety measures, such as powering down devices, sending alerts, or requiring re-authentication to regain control.
+While specific implementations of a dead man's switch in OpenHome are not detailed in the available information, the concept could manifest in various abilities where user interaction is required for ongoing operation. For instance, an ability that listens for user commands could become inactive if no input is detected for a certain period, thus ensuring the system does not unintentionally remain active without user oversight.
 
 ### connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-21T12:02:05Z -->
+<!-- synthesized: 2026-05-22T11:53:51Z -->
 ```

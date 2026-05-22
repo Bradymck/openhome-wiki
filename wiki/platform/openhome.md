@@ -1,17 +1,17 @@
 ```yaml
-title: OpenHome Platform
-entity_type: platform/openhome
+title: OpenHome
+entity_type: platform
 status: live
-last_updated: 2026-05-21
+last_updated: 2026-05-22
 ```
 
-# what-it-is
-OpenHome is an open-source Voice AI platform designed for creating conversational AI agents, referred to as Personalities. These agents can be extended with modular voice plugins called Abilities, enabling a wide range of functionalities.
+## what-it-is
+OpenHome is an open-source Voice AI platform designed for developing conversational AI agents, referred to as Personalities, which can be enhanced with modular plugins known as Abilities.
 
-# how-it-works
-The OpenHome platform allows developers to create custom AI agents that can engage in voice conversations. Each agent features a unique persona, voice, and style, which can be customized. Abilities are integrated as plugins that expand the agent's skills, such as playing music, controlling smart devices, or accessing APIs. These Abilities are activated through specific hotwords during interactions. Developers can utilize the OpenHome Dashboard to create and manage their agents and explore community-built Abilities through available repositories.
+## how-it-works
+OpenHome enables users to create AI agents that possess distinct voices, personas, and conversation styles. The core components of the platform include Personalities, which are the conversational agents, and Abilities, which are plugins that equip these agents with new skills. Abilities can perform tasks like calling APIs, playing music, or controlling smart home devices and are activated through specific wake words in voice interactions. Users start by building a Personality and adding relevant Abilities via a developer dashboard, followed by exploring community-derived ideas on GitHub.
 
-# current-status
+## current-status
 live
 
 ## connects-to
@@ -23,4 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-21T12:02:05Z -->
+<!-- synthesized: 2026-05-22T11:53:51Z -->

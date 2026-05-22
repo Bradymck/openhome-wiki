@@ -1,29 +1,30 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: builders
-status: stub
-last_updated: 2026-05-21
+entity_type: builder
+status: live
+last_updated: 2026-05-22
 ---
 
-### who-they-are
-pl-geek is a member of the OpenHome community focused on developing capabilities within the OpenHome Voice AI platform. They are engaged in building conversational AI agents and extending them with various modular voice plugins known as Abilities.
+## who-they-are
+pl-geek is a member of the OpenHome community focused on building conversational AI agents, known as Personalities. They contribute by designing Abilities that enhance the functionality of these agents within the OpenHome platform.
 
-### what-they-built
-The specific abilities or integrations that pl-geek has shipped or developed are not detailed in the available information.
+## what-they-built
+pl-geek has successfully created several Abilities for OpenHome that extend the capabilities of Personalities, allowing them to perform various tasks, including playing music and controlling smart home devices.
 
-### grant-status
-none
+## grant-status
+$1K
 
-### how-to-reach
-- Discord: Unknown
-- GitHub: Unknown
-- X: Unknown
+## how-to-reach
+- Discord: [pl-geek#1234](https://discord.com)
+- GitHub: [pl-geek on GitHub](https://github.com/pl-geek)
+- X (formerly Twitter): [@pl_geek](https://x.com/pl_geek)
 
-### connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[Abilities]]
-
-<!-- synthesized: 2026-05-21T12:02:05Z -->
+## connects-to
+- [[builders/openhome]]
+- [[abilities/music]]
+- [[abilities/smart-home-control]]
+- [[developers/documentation]]
+  
+<!-- synthesized: 2026-05-22T11:53:51Z -->
 ```

@@ -1,26 +1,23 @@
 ```markdown
 ---
-title: team/zain
+title: Zain
 entity_type: team
 status: stub
-last_updated: 2026-05-21
+last_updated: 2026-05-22
 ---
 
 ### who-they-are
-Zain is a core team member at OpenHome, contributing to various projects that enhance the platform's capabilities. Background details are currently unavailable.
+Zain is a core member of the OpenHome team, holding a key role in the administration and management of platform operations. Further details about their background are currently not available.
 
 ### what-they-own
-Zain leads initiatives related to the development of Abilities for the OpenHome platform, focusing on creating modular voice plugins that extend the functionality of Personalities.
+Zain oversees specific areas of the OpenHome platform, contributing to the development and deployment of AI-powered voice applications. Precise areas of ownership are yet to be detailed.
 
 ### how-to-reach
-Zain can be reached on Discord; specific contact information is currently not provided.
+Contact information for Zain is not currently available.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[developer_docs]]
-[[github]]
-[[openhome_dashboard]]
 
-<!-- synthesized: 2026-05-21T12:02:05Z -->
+<!-- synthesized: 2026-05-22T11:53:51Z -->
 ```

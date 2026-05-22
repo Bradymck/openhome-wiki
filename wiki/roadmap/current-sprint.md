@@ -1,30 +1,27 @@
-```markdown
----
-title: Roadmap - Current Sprint
+```yaml
+title: Roadmap Current Sprint
 entity_type: roadmap/current-sprint
-status: live
-last_updated: 2026-05-21
----
+status: in-progress
+last_updated: 2026-05-22
+```
 
-### what-it-is
-The current sprint focuses on rolling out OpenHome's Voice AI platform, allowing developers to create conversational AI agents called Personalities and extend their capabilities with modular plugins known as Abilities. This includes distributing physical V0.1 developer kits designed for top contributions and feedback from the community.
+## what-it-is
+The current sprint focuses on the rollout of physical V0.1 devkits for OpenHome, an open-source Voice AI platform that allows users to create and customize conversational AI agents known as Personalities. These devkits include advanced smart speakers and are intended to enhance agent development through user contributions and feedback.
 
-### status
-In-progress
+## status
+in-progress
 
-### why-it-matters
-The mission of OpenHome is to revolutionize human-technology interaction through accessible AI-powered, voice-first applications. By providing developers with tools and resources, OpenHome aims to foster innovation and creativity within the voice interaction space, empowering users to connect with their devices in meaningful ways.
+## why-it-matters
+By providing developers with access to cutting-edge hardware and encouraging collaboration, OpenHome aims to foster innovation within its community. This initiative not only helps improve the platform but also enhances the practical applications of AI-powered voice interactions in everyday life.
 
-### eta
-Shipping globally in small batches as of May 2026, with ongoing provisions for developers who contribute actively to the community by prototyping new abilities.
+## eta
+Shipping is occurring globally in small batches, with more information available through developer channels.
 
-### connects-to
+## connects-to
 [[OpenHome]]
-[[Voice AI]]
+[[DevKit]]
+[[Personalities]]
 [[Abilities]]
 [[Developer Docs]]
-[[GitHub]]
-[[OpenHome Dashboard]]
 
-<!-- synthesized: 2026-05-21T12:02:05Z -->
-```
+<!-- synthesized: 2026-05-22T11:53:51Z -->

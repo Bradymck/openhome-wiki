@@ -1,15 +1,15 @@
 ```yaml
-title: "Emperor Midas"
-entity_type: builders/
+title: Emperormidas
+entity_type: builders
 status: stub
-last_updated: 2026-05-21
+last_updated: 2026-05-22
 ```
 
 ## who-they-are
-Emperor Midas is a developer actively involved in the OpenHome community, contributing to the creation and improvement of voice AI agents and their abilities.
+Emperormidas is an active member of the OpenHome community, focused on building conversational AI agents utilizing OpenHome's platform. They are involved in creating and extending AI personalities with various abilities.
 
 ## what-they-built
-Details about specific abilities or integrations that Emperor Midas has shipped are currently unknown.
+Details regarding specific abilities or integrations built by emperormidas are currently unavailable.
 
 ## grant-status
 none
@@ -20,6 +20,8 @@ none
 - X: Not specified
 
 ## connects-to
-[[abilities]]
+- [[builders]]
+- [[openhome]]
+- [[abilities]]
 
-<!-- synthesized: 2026-05-21T12:02:05Z -->
+<!-- synthesized: 2026-05-22T11:53:51Z -->

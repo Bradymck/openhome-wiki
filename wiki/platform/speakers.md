@@ -1,21 +1,20 @@
-```markdown
----
+```yaml
 title: Speakers
 entity_type: platform
-status: live
-last_updated: 2026-05-21
----
+status: beta
+last_updated: 2026-05-22
+```
 
-### what-it-is
-Speakers in the OpenHome platform are cutting-edge smart devices designed for immersive audio experiences. They serve as the primary interface for users to interact with their voice AI agents, known as Personalities, facilitating voice-first applications and services.
+## what-it-is
+The speakers within the OpenHome platform are cutting-edge smart speakers designed to facilitate local voice interactions, enabling users to engage with AI agents and manage smart home functionalities.
 
-### how-it-works
-The speakers connect to the OpenHome platform and allow users to engage in conversations with AI agents. These devices are equipped with the necessary hardware to support voice recognition, audio playback, and integration with various smart home functionalities. Each speaker can run modular voice plugins, referred to as Abilities, which extend the capabilities of the Personalities. The speakers can respond to hotwords and execute custom logic based on user commands, enhancing the user experience with features such as music playback, smart home control, and more.
+## how-it-works
+OpenHome speakers serve as the hardware interface for the OpenHome platform, connecting users with their conversational AI agents known as Personalities. Users can interact with these speakers using voice commands, triggering various Abilities, which are modular plugins that enhance the capabilities of the AI agents. The speakers operate fully locally, meaning they do not require a constant internet connection for basic functionalities like music playback and smart home control.
 
-### current-status
-live
+## current-status
+beta
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -24,5 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-21T12:02:05Z -->
-```
+<!-- synthesized: 2026-05-22T11:53:51Z -->

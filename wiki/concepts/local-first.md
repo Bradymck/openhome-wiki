@@ -1,23 +1,25 @@
 ```yaml
-title: local-first
+title: Local-First
 entity_type: concepts
 status: stub
-last_updated: 2026-05-21
+last_updated: 2026-05-22
 ```
 
-## definition
-Local-first refers to a paradigm in software design where applications prioritize local data storage and processing on the device, ensuring functionality even without constant internet connectivity. This approach enhances user privacy, security, and performance by minimizing reliance on remote servers.
+### definition
+Local-first is a development approach that emphasizes the importance of local storage and processing as the primary means of managing data and interactions within applications.
 
-## why-it-matters
-In the context of OpenHome, local-first is significant because it enables a seamless user experience, allowing users to interact with their voice AI agents and smart home devices without interruption, even in varying connectivity conditions. This enhances reliability and trust in the platform, as users can expect consistent performance.
+### why-it-matters
+Local-first is relevant to OpenHome as it aligns with the goal of providing dependable and responsive applications. By prioritizing local data management, OpenHome enhances user experience by minimizing latency and allowing for uninterrupted functionality, even when internet access is unreliable or limited.
 
-## how-it-manifests
-The local-first principle is embedded in the design of OpenHome's hardware, particularly in its smart speaker devices, which operate independently of cloud services for primary functions. This aspect allows users to control music, smart home features, and engage with AI without requiring continuous internet access.
+### how-it-manifests
+In the OpenHome platform, local-first principles are evident in how Personalities and Abilities operate. Smart devices, like the physical V0.1 devkits, leverage local processing to deliver instant responses to user interactions. This design ensures that users experience seamless voice AI interactions without being hindered by connectivity issues.
 
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-05-21T12:02:05Z -->
+<!-- synthesized: 2026-05-22T11:53:51Z -->
