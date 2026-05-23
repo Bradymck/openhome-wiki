@@ -1,20 +1,20 @@
 ```yaml
-title: Speakers
-entity_type: platform
-status: beta
-last_updated: 2026-05-22
+title: Platform Speakers
+entity_type: platform/speakers
+status: live
+last_updated: 2026-05-23
 ```
 
-## what-it-is
-The speakers within the OpenHome platform are cutting-edge smart speakers designed to facilitate local voice interactions, enabling users to engage with AI agents and manage smart home functionalities.
+### what-it-is
+The OpenHome Speakers platform is a component of the OpenHome ecosystem that enables the development and deployment of smart speakers, providing a voice AI interface for user interaction and control over a variety of abilities.
 
-## how-it-works
-OpenHome speakers serve as the hardware interface for the OpenHome platform, connecting users with their conversational AI agents known as Personalities. Users can interact with these speakers using voice commands, triggering various Abilities, which are modular plugins that enhance the capabilities of the AI agents. The speakers operate fully locally, meaning they do not require a constant internet connection for basic functionalities like music playback and smart home control.
+### how-it-works
+OpenHome Speakers leverage the core OpenHome platform to allow developers to create personalized voice AI agents called Personalities. These agents can incorporate modular plugins known as Abilities, which add functionalities such as music playback, smart home device control, and interaction with various APIs. The system is designed to facilitate voice recognition through hotwords, enabling seamless engagement with the speaker for various tasks. Users can build and manipulate these smart speakers using provided developer tools and resources.
 
-## current-status
-beta
+### current-status
+live
 
-## connects-to
+### connects-to
 [[platform/openhome]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -23,4 +23,4 @@ beta
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-22T11:53:51Z -->
+<!-- synthesized: 2026-05-23T11:24:21Z -->

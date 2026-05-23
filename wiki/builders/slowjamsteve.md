@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: builders/slowjamsteve
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-05-22
----
+last_updated: 2026-05-23
+```
 
 ### who-they-are
-SlowJamSteve is a developer involved with OpenHome, an open-source voice AI platform aimed at creating conversational AI agents known as Personalities. Their work is focused on building innovative voice interactions to enhance user experience.
+Slowjamsteve is an active community builder involved in the OpenHome project, focusing on the development of AI-powered voice applications and conversational agents.
 
 ### what-they-built
-Details about specific abilities or integrations shipped by SlowJamSteve have not been documented yet. However, contributions to the OpenHome platform and community engagement are encouraged, indicating potential ongoing projects.
+Details on specific projects or abilities shipped by Slowjamsteve are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-No specific contact information is provided for SlowJamSteve in the available resources.
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[OpenHome]]
-[[Personalities]]
-[[Abilities]]
+### connects-to
+[[builders]]
 
-<!-- synthesized: 2026-05-22T11:53:51Z -->
-```
+<!-- synthesized: 2026-05-23T11:24:21Z -->

@@ -1,27 +1,28 @@
-```yaml
+```markdown
+---
 title: builders/sonordi
 entity_type: builders
 status: stub
-last_updated: 2026-05-22
-```
+last_updated: 2026-05-23
+---
 
-## who-they-are
-Sonordi is part of the OpenHome community, which focuses on developing voice-powered AI agents. They are engaged in building modular voice interactions that enhance user experiences with technology.
+### who-they-are
+Sonordi is part of the OpenHome community focused on building innovative voice AI applications. They are engaged in developing functionalities that enhance user interaction with technology through voice-first applications.
 
-## what-they-built
-Currently, there are no specific details available about the abilities or integrations Sonordi has shipped.
+### what-they-built
+Details on specific abilities or integrations that Sonordi has shipped are currently not available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[openhome]]  
-[[voice-ai]]  
-[[abilities]]  
-
-<!-- synthesized: 2026-05-22T11:53:51Z -->
+[[builders/openhome]]
+[[developers/voice-ai]]
+[[integrations/abilities]]
+<!-- synthesized: 2026-05-23T11:24:21Z -->
+```

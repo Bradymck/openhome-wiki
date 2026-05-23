@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: builders/mathieub
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-05-22
+last_updated: 2026-05-23
 ---
 
 ### who-they-are
-Mathieu is a member of the OpenHome community, contributing to the development of AI-powered voice applications. He is involved in building conversational agents and enhancing their capabilities through modular voice plugins known as Abilities.
+Mathieu B. is a member of the OpenHome community, actively involved in developing and enhancing the OpenHome platform. He is focused on building integrations and capabilities that expand the functionalities of conversational AI agents within the platform.
 
 ### what-they-built
-Specific projects or integrations that Mathieu has built are not detailed in the available sources. However, it is noted that he is actively participating in community discussions about developing smart speakers and conversational AI agents.
+Details about specific abilities or integrations shipped by Mathieu B. are currently unavailable. He is known to participate in discussions around the development of skills for AI personalities.
 
 ### grant-status
 none
@@ -21,9 +21,9 @@ none
 - X: Not specified
 
 ### connects-to
-[[openhome]]
-[[abilities]]
-[[personalities]]
+- [[OpenHome]]
+- [[Abilities]]
+- [[Personalities]]
 
-<!-- synthesized: 2026-05-22T11:53:51Z -->
+<!-- synthesized: 2026-05-23T11:24:21Z -->
 ```

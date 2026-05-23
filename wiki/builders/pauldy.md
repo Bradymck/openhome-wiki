@@ -1,27 +1,27 @@
 ```yaml
 title: builders/pauldy
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-05-22
+last_updated: 2026-05-23
 ```
 
 ### who-they-are
-Pauldy is an active member of the OpenHome community, engaging in the creation and enhancement of voice AI agents. They are involved in building conversational AI through the OpenHome platform, contributing to both the development of agents and the integration of new abilities.
+Pauldy is an active contributor within the OpenHome community, focusing on developing conversational AI agents referred to as Personalities. They engage with the community to explore new applications and improve existing capabilities within the OpenHome platform.
 
 ### what-they-built
-Details of specific abilities or integrations that Pauldy has shipped are not currently available. Their contributions may include plugins or functionalities as part of the collaborative efforts within the OpenHome community.
+Details about specific abilities or integrations shipped by Pauldy are currently not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X (formerly Twitter): Not provided
 
 ### connects-to
-[[builders]]  
-[[abilities]]  
-[[OpenHome]]  
+[[OpenHome]]
+[[Personalities]]
+[[Abilities]]
 
-<!-- synthesized: 2026-05-22T11:53:51Z -->
+<!-- synthesized: 2026-05-23T11:24:21Z -->

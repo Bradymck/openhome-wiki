@@ -1,25 +1,23 @@
-```markdown
----
+```yaml
 title: guides/skillstone
-entity_type: Community Guides
+entity_type: Community Guide
 status: stub
-last_updated: 2026-05-22
----
+last_updated: 2026-05-23
+```
 
-### who-they-are
-The guides in the skillstone community consist of power users who specialize in onboarding others to use the OpenHome platform effectively. 
+## who-they-are
+The guides under the skillstone category are seasoned contributors within the OpenHome community. They are power users who play a pivotal role in onboarding newcomers to the OpenHome platform.
 
-### what-they-help-with
-They assist users with various aspects of the OpenHome platform, including building conversational AI agents called Personalities, extending these agents with modular voice plugins known as Abilities, and troubleshooting issues related to the development and usage of these technologies.
+## what-they-help-with
+They specialize in helping users navigate the complexities of the OpenHome ecosystem, including building conversational AI agents and utilizing modular voice plugins called Abilities.
 
-### how-to-reach
-Discord handles for the guides are currently unspecified.
+## how-to-reach
+Discord handle: Not specified
 
-### connects-to
-[[guides]]
+## connects-to
 [[OpenHome]]
 [[Abilities]]
 [[Personalities]]
+[[Community Guides]]
 
-<!-- synthesized: 2026-05-22T11:53:51Z -->
-```
+<!-- synthesized: 2026-05-23T11:24:21Z -->

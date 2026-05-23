@@ -1,29 +1,26 @@
-```markdown
----
+```yaml
 title: builders/xtremegamer007
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-05-22
----
+last_updated: 2026-05-23
+```
 
-### who-they-are
-XtremeGamer007 is an active developer within the OpenHome community, working on creating innovative voice AI agents and abilities. They are engaged in building personality-driven conversational AI experiences using the OpenHome platform.
+## who-they-are
+xtremegamer007 is an active contributor in the OpenHome community, focusing on developing and enhancing conversational AI agents. They are part of the initiative to build and improve user experiences within the OpenHome platform by leveraging advanced voice interaction capabilities.
 
-### what-they-built
-Details about specific abilities or integrations created by XtremeGamer007 are currently not available.
+## what-they-built
+Information about specific abilities or integrations shipped by xtremegamer007 is not readily available. More details about their contributions and projects are needed to provide a comprehensive overview of their work within the community.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: [XtremeGamer007](https://discordapp.com/users/xtremegamer007)
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
+[[abilities]]
+[[developers]]
 [[OpenHome]]
-[[Abilities]]
-[[Voice AI]]
-
-<!-- synthesized: 2026-05-22T11:53:51Z -->
-```
+<!-- synthesized: 2026-05-23T11:24:21Z -->

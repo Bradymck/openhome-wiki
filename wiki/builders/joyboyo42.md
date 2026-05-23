@@ -1,31 +1,28 @@
-```markdown
----
+```yaml
 title: builders/joyboyo42
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-05-22
----
+last_updated: 2026-05-23
+```
 
-### who-they-are
-Joyboyo42 is an active community member involved in building on the OpenHome platform, which focuses on creating voice AI applications and modular voice plugins.
+## who-they-are
+Joyboyo42 is an active member of the OpenHome community. They engage with the platform focused on developing conversational AI agents leveraging OpenHome's capabilities.
 
-### what-they-built
-As of now, specific details on abilities or integrations shipped by joyboyo42 are not available.
+## what-they-built
+Specific details on the abilities or integrations shipped by Joyboyo42 are not available at this time.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord handle: not provided
+- GitHub: not provided
+- X: not provided
 
-### connects-to
-- [[builders/]]
-- [[OpenHome]]
-- [[Voice AI applications]]
-- [[Personalities]]
-- [[Abilities]]
+## connects-to
+[[builders]]  
+[[OpenHome]]  
+[[Personalities]]  
+[[Abilities]]
 
-<!-- synthesized: 2026-05-22T11:53:51Z -->
-```
+<!-- synthesized: 2026-05-23T11:24:21Z -->

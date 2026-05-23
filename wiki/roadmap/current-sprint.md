@@ -1,27 +1,27 @@
 ```yaml
 title: Roadmap Current Sprint
-entity_type: roadmap/current-sprint
-status: in-progress
-last_updated: 2026-05-22
+entity_type: roadmap
+status: live
+last_updated: 2026-05-23
 ```
 
 ## what-it-is
-The current sprint focuses on the rollout of physical V0.1 devkits for OpenHome, an open-source Voice AI platform that allows users to create and customize conversational AI agents known as Personalities. These devkits include advanced smart speakers and are intended to enhance agent development through user contributions and feedback.
+OpenHome has launched the V0.1 development kits, which allow users to build conversational AI agents on the OpenHome platform using OpenClaw or develop their own agents.
 
 ## status
 in-progress
 
 ## why-it-matters
-By providing developers with access to cutting-edge hardware and encouraging collaboration, OpenHome aims to foster innovation within its community. This initiative not only helps improve the platform but also enhances the practical applications of AI-powered voice interactions in everyday life.
+This initiative provides an opportunity for developers to create and prototype engaging conversational AI solutions. The physical devkits encourage contributions and feedback, enhancing the platform's capabilities and fostering a community of innovation.
 
 ## eta
-Shipping is occurring globally in small batches, with more information available through developer channels.
+Shipping globally in small batches, specifics on timeline may vary based on demand and contributions.
 
 ## connects-to
 [[OpenHome]]
-[[DevKit]]
-[[Personalities]]
+[[OpenClaw]]
 [[Abilities]]
+[[Personalities]]
 [[Developer Docs]]
 
-<!-- synthesized: 2026-05-22T11:53:51Z -->
+<!-- synthesized: 2026-05-23T11:24:21Z -->

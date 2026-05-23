@@ -1,19 +1,18 @@
-```markdown
----
+```yaml
 title: Dead Man's Switch
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-05-22
----
+last_updated: 2026-05-23
+```
 
 ### definition
-A dead man's switch is a safety mechanism that requires regular input or action to keep a system active. If the required input is not received within a defined time frame, the system is designed to take a specific action, often to prevent dangerous situations or ensure that certain processes are engaged and monitored.
+A Dead Man's Switch is a safety mechanism designed to automatically trigger an action when a user is incapacitated or no longer able to use the system. This concept helps ensure that critical processes continue to run or that alerts are sent out in the event of an emergency.
 
 ### why-it-matters
-In the context of OpenHome, a dead man's switch can enhance the reliability and safety of voice AI applications by ensuring that users are actively engaged with the technology. This may prevent misuse or malfunction by automatically taking actions like disabling features or alerting users if a device has not received inputs over a specified duration.
+In the context of OpenHome, implementing a Dead Man's Switch is vital for ensuring user safety and system reliability. It can provide peace of mind for users by ensuring that their automated home systems react appropriately if the user becomes unresponsive, such as sending alerts or shutting down systems to prevent accidents.
 
 ### how-it-manifests
-While specific implementations of a dead man's switch in OpenHome are not detailed in the available information, the concept could manifest in various abilities where user interaction is required for ongoing operation. For instance, an ability that listens for user commands could become inactive if no input is detected for a certain period, thus ensuring the system does not unintentionally remain active without user oversight.
+This concept can manifest within OpenHome's system through features that monitor user engagement and trigger failsafe protocols if no interaction is detected over a set period. For example, an automatic notification could be sent to family members or emergency services if the system does not receive any voice commands for an extended duration.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +22,4 @@ While specific implementations of a dead man's switch in OpenHome are not detail
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-22T11:53:51Z -->
-```
+<!-- synthesized: 2026-05-23T11:24:21Z -->

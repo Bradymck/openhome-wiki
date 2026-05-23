@@ -1,25 +1,25 @@
 ```yaml
-title: web3-native
+title: Web3 Native
 entity_type: concepts
 status: stub
-last_updated: 2026-05-22
+last_updated: 2026-05-23
 ```
 
 ## definition
-Web3-native refers to technologies, concepts, and applications built on decentralized protocols and blockchain technology. These platforms prioritize user ownership, privacy, and the construction of a decentralized web where users have more control over their online data and identity.
+Web3 native refers to the principles, technologies, and applications that prioritize decentralized, community-driven interactions facilitated by blockchain technology. This concept encapsulates the shift from traditional centralized systems to decentralized networks where users have greater control and ownership over their data and digital assets.
 
 ## why-it-matters
-In the context of OpenHome, adopting a web3-native approach aligns with the platform's mission of creating user-centric, decentralized voice AI technologies. This ensures that users have control over their data, interactions with AI, and the overall experience they have while engaging with their devices.
+In the context of OpenHome, being web3 native means that the platform aligns with the broader trend of creating open, decentralized systems that empower users. This relevance is crucial as it fosters a community where contributors can build, share, and participate in a democratic technological ecosystem, ensuring that the tools and services offered are reflective of user needs and interests.
 
 ## how-it-manifests
-Web3-native features may manifest in OpenHome through the use of decentralized identity systems, smart contracts for managing abilities and interactions, and community-driven governance models. This could allow users to have a say in the development of AI capabilities and ensure that their data remains private and secure within the ecosystem.
+Web3 native concepts manifest within OpenHome through the integration of decentralized applications (dApps) and smart contracts. These components allow users to create and engage with voice AI agents while maintaining control over their interactions and data privacy. OpenHome may also implement tokenomics or reward systems that encourage community participation and contribution in a decentralized manner.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/voice-first]]
-[[concepts/grant-program]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-22T11:53:51Z -->
+<!-- synthesized: 2026-05-23T11:24:21Z -->

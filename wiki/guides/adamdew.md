@@ -1,24 +1,23 @@
-```markdown
----
+```yaml
 title: guides/adamdew
 entity_type: Community Guide
 status: live
-last_updated: 2026-05-22
----
+last_updated: 2026-05-23
+```
 
 ## who-they-are
-Adam Dew is recognized within the OpenHome community for his contributions and expertise in building and prototyping voice AI applications. His involvement reflects a deep understanding of the OpenHome platform and its capabilities.
+Adam Dew is a community member known for contributions to the OpenHome platform, particularly in voice AI and developer resources. His expertise includes building conversational AI agents and working with various APIs and modular skills known as Abilities.
 
 ## what-they-help-with
-Adam specializes in creating and implementing Abilities for OpenHome's Voice AI platform, enabling users to enhance their conversational AI agents, known as Personalities. He assists community members in getting started with development kits and troubleshooting issues that arise while using the platform.
+Adam specializes in helping users get started with OpenHome's voice AI platform. He is knowledgeable in creating Personalities, setting up various Abilities, and troubleshooting development kits. His skills include working with Python to enhance agent functionality and integrating different voice applications.
 
 ## how-to-reach
-Discord Handle: AdamDew#1234
+Discord handle: @adamdew
 
 ## connects-to
 [[OpenHome]]
-[[Community Guides]]
 [[Voice AI]]
+[[Community Guides]]
 [[Abilities]]
-<!-- synthesized: 2026-05-22T11:53:51Z -->
-```
+
+<!-- synthesized: 2026-05-23T11:24:21Z -->

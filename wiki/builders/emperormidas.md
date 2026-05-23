@@ -1,27 +1,28 @@
 ```yaml
-title: Emperormidas
+title: builders/emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-05-22
+last_updated: 2026-05-23
 ```
 
 ## who-they-are
-Emperormidas is an active member of the OpenHome community, focused on building conversational AI agents utilizing OpenHome's platform. They are involved in creating and extending AI personalities with various abilities.
+EmperorMidas is a community builder active within the OpenHome ecosystem. They participate in developing conversational AI agents known as Personalities and are involved in extending their functionality through modular voice plugins called Abilities.
 
 ## what-they-built
-Details regarding specific abilities or integrations built by emperormidas are currently unavailable.
+As of the latest updates, there are no specific abilities or integrations publicly documented that have been shipped by EmperorMidas.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
+- Discord handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-- [[builders]]
-- [[openhome]]
-- [[abilities]]
+[[builders]]
+[[OpenHome]]
+[[Abilities]]
+[[Personalities]]
 
-<!-- synthesized: 2026-05-22T11:53:51Z -->
+<!-- synthesized: 2026-05-23T11:24:21Z -->
