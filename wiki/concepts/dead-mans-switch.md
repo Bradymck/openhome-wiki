@@ -1,25 +1,23 @@
 ```yaml
 title: Dead Man's Switch
-entity_type: concepts
+entity_type: concepts/dead-mans-switch
 status: stub
-last_updated: 2026-05-23
+last_updated: 2026-05-24
 ```
 
-### definition
-A Dead Man's Switch is a safety mechanism designed to automatically trigger an action when a user is incapacitated or no longer able to use the system. This concept helps ensure that critical processes continue to run or that alerts are sent out in the event of an emergency.
+## definition
+A dead man's switch is a safety mechanism that automatically performs a specified action if the operator becomes incapacitated or fails to take a required action over a specified period.
 
-### why-it-matters
-In the context of OpenHome, implementing a Dead Man's Switch is vital for ensuring user safety and system reliability. It can provide peace of mind for users by ensuring that their automated home systems react appropriately if the user becomes unresponsive, such as sending alerts or shutting down systems to prevent accidents.
+## why-it-matters
+In the context of OpenHome, the dead man's switch concept is crucial for ensuring the reliability and security of voice AI agents. It helps in mitigating risks associated with unattended operations, providing a fail-safe that can prevent misuse or malfunction of the system.
 
-### how-it-manifests
-This concept can manifest within OpenHome's system through features that monitor user engagement and trigger failsafe protocols if no interaction is detected over a set period. For example, an automatic notification could be sent to family members or emergency services if the system does not receive any voice commands for an extended duration.
+## how-it-manifests
+While specific implementations or features named "dead man's switch" are not detailed within OpenHome's current documentation, this concept could manifest in features that involve monitoring user engagement or requiring confirmation of user activity to maintain functionality.
 
-### connects-to
-[[concepts/abilities-as-apps]]
+## connects-to
 [[concepts/voice-first]]
+[[concepts/abilities-as-apps]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-23T11:24:21Z -->
+<!-- synthesized: 2026-05-24T11:26:01Z -->

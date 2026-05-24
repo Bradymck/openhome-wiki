@@ -1,26 +1,25 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/
+entity_type: concepts/grant-program
 status: live
-last_updated: 2026-05-23
+last_updated: 2026-05-24
 ---
 
-### definition
-The Grant Program is an initiative by OpenHome that provides financial and material support to developers and contributors who create valuable projects or features for the OpenHome platform.
+## definition
+The Grant Program is an initiative by OpenHome to incentivize contributions and development on the platform. It provides physical development kits and financial support to developers who create innovative projects or provide valuable feedback.
 
-### why-it-matters
-The Grant Program fosters innovation and creativity within the OpenHome community. By offering resources to developers, OpenHome encourages the development of new functionalities and improvements that enhance the user experience and expand the platform's capabilities.
+## why-it-matters
+The Grant Program is essential for fostering a community of developers around OpenHome. By offering resources and recognition for contributions, it encourages innovation and enhances the overall ecosystem of AI-powered voice applications. This, in turn, helps OpenHome achieve its mission of making technology accessible and usable for everyone.
 
-### how-it-manifests
-Participants in the Grant Program may receive physical development kits, financial grants, and promotional support for their projects. This program is specifically aimed at those who actively contribute to the development of new abilities, features, or enhancements within the OpenHome ecosystem.
+## how-it-manifests
+The Grant Program manifests through the distribution of physical development kits (referred to as DevKits) to top contributors. Developers are encouraged to build and prototype abilities for OpenHome, and those who actively engage with the community can receive grants to support their projects. The program is part of OpenHome's strategy to promote collaboration and creativity among developers.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
-[[concepts/dead-mans-switch]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
 
-<!-- synthesized: 2026-05-23T11:24:21Z -->
+<!-- synthesized: 2026-05-24T11:26:01Z -->
 ```

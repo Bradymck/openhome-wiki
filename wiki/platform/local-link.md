@@ -1,26 +1,28 @@
-```yaml
+```markdown
+---
 title: platform/local-link
-entity_type: page
+entity_type: platform
 status: stub
-last_updated: 2026-05-23
-```
+last_updated: 2026-05-24
+---
 
 ### what-it-is
-The platform/local-link refers to a conceptual framework within the OpenHome ecosystem that allows for local interactions and capabilities of voice AI agents, enhancing their overall functionality by connecting them to local services and devices.
+The local link in the OpenHome platform refers to the capability that allows devices such as smart speakers to operate locally, enhancing user privacy and responsiveness by processing requests without relying on external cloud services.
 
 ### how-it-works
-The local-link system is designed to facilitate seamless communication between voice AI agents and various local resources, such as smart home devices and applications. This functionality allows for voice commands to control devices, access localized data, and respond to user interactions more intelligently. The integration is achieved through modular voice plugins called Abilities, which expand the skills of agents by enabling specific tasks and enhancing user interactions.
+Local link functionality enables devices to perform tasks and respond to voice commands directly on the device itself. This architecture minimizes latency and improves performance since actions are executed locally. The implementation utilizes modular voice plugins known as Abilities, which allow for new skills to be added to the device without requiring an internet connection.
 
 ### current-status
 stub
 
 ### connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+- [[platform/openhome]]
+- [[platform/speakers]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/voice-ai]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-23T11:24:21Z -->
+<!-- synthesized: 2026-05-24T11:26:01Z -->
+```

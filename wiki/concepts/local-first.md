@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Local-First
+title: Local First
 entity_type: concepts/local-first
-status: stub
-last_updated: 2026-05-23
+status: live
+last_updated: 2026-05-24
 ---
 
 ### definition
-Local-First is a design philosophy that emphasizes running applications primarily on local devices while still providing seamless connectivity and synchronization with remote services when needed. This approach aims to enhance user experience by reducing dependency on constant internet access and improving responsiveness.
+Local First refers to the approach of prioritizing local resources and processing for applications, enabling functionalities to operate efficiently even without a constant internet connection. This concept emphasizes the importance of local data storage and processing to enhance performance and user experience.
 
 ### why-it-matters
-In the context of OpenHome, Local-First is significant because it aligns with the platform's goal to empower users with reliable and immediate interactions with their voice AI agents. By prioritizing local processing, OpenHome can provide a more robust and faster experience, even in situations where internet connectivity is unstable.
+In the context of OpenHome, Local First is essential for ensuring that voice AI agents function reliably in various environments, especially where internet connectivity can be intermittent. This capability fosters a more resilient interaction with technology, allowing users to engage with their devices seamlessly.
 
 ### how-it-manifests
-The Local-First concept manifests in OpenHome through the deployment of its applications, such as smart speakers that operate efficiently without relying solely on cloud services. Features like offline functionality and local data handling are integrated into the platform to ensure that users can interact with their AI agents smoothly and without interruptions.
+Local First manifests in OpenHome through the deployment of its smart speaker devices, which operate without relying on constant cloud connectivity. These devices can handle capabilities like music playback and smart home control locally, ensuring that users have access to key features regardless of their online status. The development kit provided to contributors also exemplifies this concept by facilitating local application development.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
-[[concepts/grant-program]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-23T11:24:21Z -->
+<!-- synthesized: 2026-05-24T11:26:01Z -->
 ```

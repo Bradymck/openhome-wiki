@@ -1,26 +1,27 @@
 ```yaml
-title: Roadmap
+title: Roadmap and Planned Features for OpenHome
 entity_type: roadmap/planned
-status: live
-last_updated: 2026-05-23
+status: in-progress
+last_updated: 2026-05-24
 ```
 
 ## what-it-is
-OpenHome is planning to roll out new features that enhance the developer experience, including a system where users will be able to access their call logs, logs from the dashboard, live editor, and DevKit.
+The OpenHome platform is currently rolling out new features, including user access to call logs and integration with the dashboard and DevKit. This aims to enhance user experience by providing transparency and easier debugging for developers working with AI agents.
 
 ## status
-In-progress
+in-progress
 
 ## why-it-matters
-This feature is crucial for developers as it will provide visibility into how their AI agents are functioning, allowing for better debugging and performance tracking. It aims to facilitate improved user interactions and help developers optimize their agents' capabilities.
+By offering users visibility into their call logs and interaction details, OpenHome enhances debugging capabilities and improves the overall user experience. This initiative aligns with OpenHome's mission to make AI-powered, voice-first applications more accessible and user-friendly.
 
 ## eta
-Finalization date is yet to be announced.
+The timeline for the completion of these features is not explicitly defined but will be announced in the relevant communication channels once finalized.
 
 ## connects-to
-[[OpenHome]]  
-[[Abilities]]  
-[[DevKit]]  
-[[Voice AI]]  
+[[OpenHome]]
+[[Developer Docs]]
+[[OpenHome Dashboard]]
+[[GitHub]]
+[[Discord Moderation Policy]]
 
-<!-- synthesized: 2026-05-23T11:24:21Z -->
+<!-- synthesized: 2026-05-24T11:26:01Z -->

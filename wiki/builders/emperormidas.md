@@ -1,28 +1,31 @@
-```yaml
+```markdown
+---
 title: builders/emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-05-23
-```
+last_updated: 2026-05-24
+---
 
-## who-they-are
-EmperorMidas is a community builder active within the OpenHome ecosystem. They participate in developing conversational AI agents known as Personalities and are involved in extending their functionality through modular voice plugins called Abilities.
+### who-they-are
+EmperorMidas is an active community builder within the OpenHome ecosystem, contributing to the development of voice AI applications and conversational AI agents. They focus on enhancing user interaction with devices through intuitive voice-first applications.
 
-## what-they-built
-As of the latest updates, there are no specific abilities or integrations publicly documented that have been shipped by EmperorMidas.
+### what-they-built
+EmperorMidas has participated in building and extending various Abilities within the OpenHome platform, contributing to modular voice plugins that enhance the functionalities of Personalities (the voice AI agents). Specific details regarding individual shipped abilities are currently not provided.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord: [EmperorMidas](https://discord.com/)
+- GitHub: [EmperorMidas GitHub](https://github.com/)
+- X: [EmperorMidas X](https://x.com/)
 
-## connects-to
-[[builders]]
+### connects-to
+[[developers]]
 [[OpenHome]]
-[[Abilities]]
+[[Voice AI]]
 [[Personalities]]
+[[Abilities]]
 
-<!-- synthesized: 2026-05-23T11:24:21Z -->
+<!-- synthesized: 2026-05-24T11:26:01Z -->
+```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: shoompa
+title: Shoompa
 entity_type: builders
 status: stub
-last_updated: 2026-05-23
+last_updated: 2026-05-24
 ---
 
 ### who-they-are
-Shoompa is part of the OpenHome community, specializing in tools and developments related to voice AI technologies. They actively participate in enhancing the capabilities of conversational AI agents known as Personalities and their associated Abilities.
+Shoompa is an active community builder within the OpenHome platform, focusing on creating and enhancing Voice AI applications. They engage in developing conversational AI agents and their associated abilities, contributing to a broader open-source ecosystem.
 
 ### what-they-built
-Shoompa has engaged in building and contributing to the development of various Abilities within the OpenHome platform. Specific projects or integrations have not been detailed in the available information.
+Details regarding specific abilities or integrations that Shoompa has shipped are not provided in the available information.
 
 ### grant-status
 none
@@ -20,8 +20,11 @@ none
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
-[[builders]]
+## connects-to
+[[abilities]]
+[[OpenHome]]
+[[Voice AI]]
+[[OpenClaw]]
 
-<!-- synthesized: 2026-05-23T11:24:21Z -->
+<!-- synthesized: 2026-05-24T11:26:01Z -->
 ```
