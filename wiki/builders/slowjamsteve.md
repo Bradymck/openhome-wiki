@@ -1,26 +1,27 @@
-```yaml
+```markdown
+---
 title: builders/slowjamsteve
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-05-24
-```
+last_updated: 2026-05-25
+---
 
 ### who-they-are
-SlowJamSteve is an active community member involved in the OpenHome initiative, focusing on the development and enhancement of voice AI agents and their capabilities.
+SlowJamSteve is an active member of the OpenHome community working on creating and enhancing conversational AI experiences through modular plugins known as Abilities.
 
 ### what-they-built
-Details about specific abilities or integrations built by SlowJamSteve are currently unavailable. However, the community encourages active participation in building and sharing abilities to improve the platform.
+SlowJamSteve has shipped an Ability called Space Window. This Ability allows users to receive alerts about space events, such as International Space Station passes, aurora visibility, and rocket launches. It also provides a daily morning brief about that day's sky events.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: @SlowJamSteve
-- GitHub: [SlowJamSteve's GitHub](https://github.com/SlowJamSteve)
-- X: [SlowJamSteve's X profile](https://x.com/SlowJamSteve)
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ### connects-to
-[[builders]]
-[[OpenHome]]
+[[abilities/space-window]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
+```

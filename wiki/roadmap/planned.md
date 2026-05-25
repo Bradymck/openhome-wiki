@@ -1,27 +1,30 @@
 ```yaml
-title: Roadmap and Planned Features for OpenHome
+title: OpenHome Roadmap
 entity_type: roadmap/planned
-status: in-progress
-last_updated: 2026-05-24
+status: live
+last_updated: 2026-05-25
 ```
 
 ## what-it-is
-The OpenHome platform is currently rolling out new features, including user access to call logs and integration with the dashboard and DevKit. This aims to enhance user experience by providing transparency and easier debugging for developers working with AI agents.
+The OpenHome roadmap outlines current and upcoming features, developments, and enhancements related to the OpenHome voice AI platform. Key initiatives include the distribution of physical development kits, the rollout of user features like call logs, and new abilities for the AI agents.
 
 ## status
-in-progress
+- Physical V0.1 DevKits: Shipped
+- Call logs feature: In-progress
+- Space Window ability: Shipped
 
 ## why-it-matters
-By offering users visibility into their call logs and interaction details, OpenHome enhances debugging capabilities and improves the overall user experience. This initiative aligns with OpenHome's mission to make AI-powered, voice-first applications more accessible and user-friendly.
+These developments aim to make AI-driven voice applications accessible and user-friendly, enhancing user interaction with technology. The devkits provide a platform for developers to create and test their own agents, fostering community contributions and innovation. New abilities like Space Window simplify user access to real-time information about astronomical events, enriching the overall experience.
 
 ## eta
-The timeline for the completion of these features is not explicitly defined but will be announced in the relevant communication channels once finalized.
+- Space Window: Shipped (as of May 2026)
+- Call logs feature: Announcement pending finalization
 
 ## connects-to
 [[OpenHome]]
+[[Ability]]
+[[Personality]]
 [[Developer Docs]]
-[[OpenHome Dashboard]]
 [[GitHub]]
-[[Discord Moderation Policy]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->

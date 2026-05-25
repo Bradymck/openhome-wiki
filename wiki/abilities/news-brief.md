@@ -1,28 +1,30 @@
-```yaml
-title: Abilities News Brief
-entity_type: abilities/news-brief
+```markdown
+---
+title: abilities/news-brief
+entity_type: abilities
 status: live
-last_updated: 2026-05-24
-```
+last_updated: 2026-05-25
+---
 
-## what-it-does
-The News Brief ability offers a way for users to receive updates and brief summaries from various news sources through their voice AI agents.
+### what-it-does
+The News Brief ability provides users with daily updates about celestial events, such as the International Space Station (ISS) passes, aurora activity, and rocket launches. It can alert users about significant events occurring in the sky based on their location.
 
-## how-to-build
-To create the News Brief ability, developers can utilize the OpenHome API to integrate with news APIs or RSS feeds. The ability should parse and summarize content, responding to user queries related to current events.
+### how-to-build
+This ability can be constructed by implementing a Python logic that triggers when users issue specific commands related to sky events. Users can configure their city for personalized alerts, and various phrases can be used to elicit information about upcoming phenomena.
 
-## category
+### category
 utility
 
-## built-by
-[[abilities/openhome-dev]]
+### built-by
+[[abilities/community-contributors]]
 
-## status
+### status
 live
 
-## connects-to
+### connects-to
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
+```

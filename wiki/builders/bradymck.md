@@ -1,25 +1,29 @@
-```yaml
+```markdown
+---
 title: bradymck
 entity_type: builders
-status: stub
-last_updated: 2026-05-24
-```
+status: live
+last_updated: 2026-05-25
+---
 
-# who-they-are
-bradymck is an active member of the OpenHome community involved in building abilities within the open-source Voice AI platform. They are participating in the development of conversational AI agents and enhancing the capabilities of Personalities through the creation and integration of various Abilities.
+## who-they-are
+Brady McK is an active community builder involved with the OpenHome platform, focusing on creating and enhancing AI-powered voice applications. He is engaged in developing skills and functionalities for conversational AI agents known as Personalities, utilizing the OpenHome infrastructure.
 
-# what-they-built
-bradymck has contributed to the OpenHome community by working on abilities that extend the functionality of Personalities. However, specific details about their shipped abilities have not been documented yet.
+## what-they-built
+Brady McK has shipped an ability called **Space Window**, which allows users to receive updates about astronomical events. The ability includes features such as notifying users about International Space Station (ISS) passes, monitoring aurora activity, countdowns to rocket launches, and providing a morning brief of sky-related events. Users can interact with this ability through various voice commands.
 
-# grant-status
+## grant-status
 none
 
-# how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord: [bradymck](https://discord.com)
+- GitHub: [bradymck](https://github.com/bradymck)
+- X: [bradymck](https://x.com/bradymck)
 
 ## connects-to
 [[builders]]
-
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+[[abilities]]
+[[OpenHome]]
+[[Space Window]]
+<!-- synthesized: 2026-05-25T12:07:34Z -->
+```

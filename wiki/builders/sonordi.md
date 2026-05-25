@@ -1,29 +1,33 @@
 ```markdown
 ---
-title: builders/sonordi
+title: Builders/Sonordi
 entity_type: builders
-status: stub
-last_updated: 2026-05-24
+status: live
+last_updated: 2026-05-25
 ---
 
-### who-they-are
-Sonordi is a builder in the OpenHome community, focused on creating and enhancing conversational AI agents. They are involved in developing modular voice plugins, referred to as Abilities, for the OpenHome platform.
+## who-they-are
+Sonordi is a member of the OpenHome community, focusing on building abilities for AI-powered voice applications. They actively participate in the development and enhancement of features for the OpenHome platform, particularly contributing to the creation of modular voice plugins that extend the capabilities of conversational AI agents.
 
-### what-they-built
-As part of the OpenHome initiative, Sonordi has contributed by creating various abilities that enhance the functionality of Personalities (AI agents). The specific details of their contributions have not been explicitly documented.
+## what-they-built
+Sonordi has shipped an ability called "Space Window." This ability provides users with notifications and information related to astronomical events. Key features include:
+- Alerts for upcoming ISS passes.
+- Monitoring of aurora activity and notifications for suitable viewing conditions based on user location.
+- Countdown notifications for rocket launches.
+- A daily morning briefing about relevant astronomical events.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[OpenHome]]
-[[Personalities]]
-[[Abilities]]
+## connects-to
+[[abilities/space-window]]
+[[builders/openhome]]
+[[builders/sonordi]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
 ```

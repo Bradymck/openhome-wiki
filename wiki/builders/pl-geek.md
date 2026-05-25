@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: "builders/pl-geek"
-entity_type: "builders"
-status: "stub"
-last_updated: 2026-05-24
+title: builders/pl-geek
+entity_type: builder
+status: stub
+last_updated: 2026-05-25
 ---
 
 ### who-they-are
-Pl-Geek is an active member of the OpenHome community focused on building and developing abilities for voice AI applications using the OpenHome platform. They engage with a global community of developers to contribute to the evolution of AI conversational agents.
+pl-geek is a community builder within the OpenHome ecosystem, focusing on voice AI applications and the development of interactive AI agents called Personalities. The community aims to enhance user interaction with technology through accessible AI solutions.
 
 ### what-they-built
-Pl-Geek has reportedly participated in various aspects of the OpenHome platform, specifically around the creation and integration of abilities for voice agents. Their contributions may include developing new skills and improving existing functionalities within the voice AI ecosystem.
+pl-geek has contributed a new ability called "Space Window." This ability alerts users about celestial events such as ISS passes, aurora activity, and rocket launches. It provides a morning briefing about nightly occurrences in the sky and responds to various queries related to space events.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord handle: Not specified
+- GitHub: Not specified
+- X (formerly Twitter): Not specified
 
 ### connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[Abilities]]
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+[[builders/openhome]]  
+[[abilities/space-window]]  
+[[platforms/openhome]]
+<!-- synthesized: 2026-05-25T12:07:34Z -->
 ```

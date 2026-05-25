@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Local First
-entity_type: concepts/local-first
+entity_type: concepts
 status: live
-last_updated: 2026-05-24
+last_updated: 2026-05-25
 ---
 
 ### definition
-Local First refers to the approach of prioritizing local resources and processing for applications, enabling functionalities to operate efficiently even without a constant internet connection. This concept emphasizes the importance of local data storage and processing to enhance performance and user experience.
+Local First is an approach to software development where applications prioritize local data storage and processing over remote cloud services. This methodology fosters resilience and responsiveness by allowing applications to function even when disconnected from the internet.
 
 ### why-it-matters
-In the context of OpenHome, Local First is essential for ensuring that voice AI agents function reliably in various environments, especially where internet connectivity can be intermittent. This capability fosters a more resilient interaction with technology, allowing users to engage with their devices seamlessly.
+In the context of OpenHome, Local First is crucial for ensuring that voice AI applications can operate seamlessly in various environments without reliance on stable internet connections. It enhances user experience by ensuring that interactions with AI agents are fast and reliable, even in cases of connectivity issues.
 
 ### how-it-manifests
-Local First manifests in OpenHome through the deployment of its smart speaker devices, which operate without relying on constant cloud connectivity. These devices can handle capabilities like music playback and smart home control locally, ensuring that users have access to key features regardless of their online status. The development kit provided to contributors also exemplifies this concept by facilitating local application development.
+Local First manifests in the OpenHome platform through features that allow voice agents to operate autonomously. Developers can create Personalities and Abilities that store data locally on devices, minimizing the need for cloud access during voice interactions, and contributing to quicker response times and private data handling.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -21,7 +21,6 @@ Local First manifests in OpenHome through the deployment of its smart speaker de
 [[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
 ```

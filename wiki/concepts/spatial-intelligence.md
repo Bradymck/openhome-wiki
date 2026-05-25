@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: Spatial Intelligence
-entity_type: concepts/
+entity_type: concepts
 status: live
-last_updated: 2026-05-24
+last_updated: 2026-05-25
 ---
 
 ## definition
-Spatial intelligence refers to the capability to think in three dimensions. It involves the ability to visualize and manipulate objects in relation to one another in physical space. This type of intelligence allows individuals to interpret and interact with their environment effectively.
+Spatial intelligence refers to the ability to think in three dimensions and envision spatial relationships. In the context of OpenHome, it encompasses understanding how virtual agents interact with the physical environment, allowing users to engage with content based on their geographical location or physical context.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is essential for creating immersive and interactive experiences with voice AI. It enables AI agents to understand and respond to users in ways that consider their physical surroundings, enhancing user interactions and making them more intuitive.
+Spatial intelligence is crucial for OpenHome as it enhances the user experience by creating a more intuitive interaction between voice agents and the user's real-world space. This capability allows for personalized, context-aware responses based on the user’s location and the spatial relationship of the surrounding environment.
 
 ## how-it-manifests
-Spatial intelligence manifests in OpenHome through the use of physical devices like smart speakers, which can respond to voice commands based on the user's location and environmental context. For instance, sound directionality and the spatial arrangement of devices play a role in how effectively an AI can engage with multiple users in a room or respond to commands from different areas.
+In the OpenHome platform, spatial intelligence manifests through abilities that utilize location-based data to provide relevant information or actions. For instance, an ability called "Space Window" alerts users about astronomical events based on their city, effectively integrating spatial intelligence into user interactions. This enhances the voice experience, making it responsive to the dynamic contextual factors of location.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/grant-program]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
 ```

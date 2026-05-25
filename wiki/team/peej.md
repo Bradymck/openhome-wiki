@@ -1,21 +1,25 @@
-```yaml
+```markdown
+---
 title: Peej
 entity_type: team
 status: stub
-last_updated: 2026-05-24
-```
+last_updated: 2026-05-25
+---
 
 ### who-they-are
-Peej is a member of the OpenHome team involved in development work, specifically related to AI agents and related technologies.
+Peej is a member of the OpenHome team, contributing to the development of features and functionality within the platform.
 
 ### what-they-own
-Peej appears to be involved in the development of AI-driven features and functionalities within the OpenHome platform, particularly focusing on user interaction and agent performance.
+Peej is associated with the development of various abilities and features on the OpenHome platform, including the ability called "Space Window" which provides sky-related alerts and information.
 
 ### how-to-reach
-Peej can be reached on Discord; handle is not provided in the available information. Further social media handles or preferred contact methods have not been mentioned.
+Discord: Not specified  
+X/Twitter: [@MisterPeej](https://x.com/MisterPeej)
 
-## connects-to
-[[team/jesse]]
-[[team/shannon]]
+### connects-to
+- [[team/jesse]]
+- [[team/shannon]]
+- [[abilities/space-window]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
+```

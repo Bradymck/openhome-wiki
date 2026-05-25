@@ -1,31 +1,31 @@
 ```markdown
 ---
 title: builders/shookdt
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-05-24
+last_updated: 2026-05-25
 ---
 
 ### who-they-are
-Shookdt is an active member of the OpenHome community, contributing to the development of voice AI applications and conversational agents. As part of the OpenHome ecosystem, they are involved in enhancing the platform's capabilities for building Personalities and Abilities.
+Shookdt is an active community member in the OpenHome ecosystem, focusing on developing abilities for voice AI agents.
 
 ### what-they-built
-Currently, there is no specific information available regarding what Shookdt has built or any particular abilities or integrations they have shipped.
+Shookdt has created an ability called "Space Window." This ability allows users to receive alerts about:
+- ISS satellite passes including rise direction, peak elevation, and duration.
+- Aurora visibility based on the Kp index.
+- Countdown to rocket launches with alerts 24 hours and 1 hour before liftoff.
+- Daily morning briefs about astronomical events.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord: Unknown
+- GitHub: [OpenHome Abilities](https://github.com/openhome-dev/abilities)
+- X: Unknown
 
-### connects-to
-[[builders]]
-[[OpenHome]]
-[[Voice AI]]
-[[Personalities]]
-[[Abilities]]
+## connects-to
+[[abilities/space-window]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
 ```

@@ -1,28 +1,27 @@
-```markdown
----
-title: Roadmap - Current Sprint
-entity_type: roadmap
+```yaml
+title: Roadmap Current Sprint
+entity_type: roadmap/current-sprint
 status: live
-last_updated: 2026-05-24
----
+last_updated: 2026-05-25
+```
 
 ## what-it-is
-The current sprint includes the development and distribution of OpenClaw on the OpenHome platform, along with the launch of physical V0.1 devkits. These devkits are cutting-edge smart speakers enabling users to build their own AI agents with voice capabilities.
+The current sprint focuses on the enhancement of the OpenHome platform, including the introduction of a new ability called "Space Window." This feature provides users with real-time alerts and updates about astronomical events such as International Space Station (ISS) passes, aurora visibility, and rocket launches.
 
 ## status
-in-progress
+In-progress
 
 ## why-it-matters
-This initiative is crucial as it empowers developers and creators to construct personalized AI experiences, enhancing interaction between users and smart technology. The devkits aim to democratize access to voice AI development, facilitating innovation within the community.
+The "Space Window" ability aims to centralize astronomical information, allowing users to receive timely updates and alerts without needing to check multiple applications. This enhancement contributes to user engagement and experience by providing valuable information in a convenient manner.
 
 ## eta
-The timelines for the devkit distribution are not explicitly provided, but they are being shipped globally in small batches.
+Tentatively ongoing, with finalization expected in the current development cycle.
 
 ## connects-to
-[[OpenHome]]
-[[Voice AI Development]]
-[[DevKit Onboarding]]
-[[Abilities]]
-[[OpenClaw]]
-<!-- synthesized: 2026-05-24T11:26:01Z -->
-```
+- [[OpenHome]]
+- [[OpenHome Abilities]]
+- [[Developer Docs]]
+- [[OpenHome Dashboard]]
+- [[GitHub]]
+
+<!-- synthesized: 2026-05-25T12:07:34Z -->

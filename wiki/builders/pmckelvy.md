@@ -1,26 +1,33 @@
-```yaml
+```markdown
+---
 title: pmckelvy
 entity_type: builders/
-status: stub
-last_updated: 2026-05-24
-```
+status: live
+last_updated: 2026-05-25
+---
 
-## who-they-are
-pmckelvy is an active community builder contributing to the OpenHome project, which focuses on creating AI-powered voice applications. They are involved in the development and enhancement of modular voice plugins known as Abilities.
+### who-they-are
+pmckelvy is a developer actively building integrations for the OpenHome platform, a voice AI community focused on creating conversational agents called Personalities. They are heavily involved in the development of modular voice plugins known as Abilities, which enhance the functionality of these Personalities.
 
-## what-they-built
-Specific details on abilities or integrations that pmckelvy has shipped are currently unavailable.
+### what-they-built
+pmckelvy has shipped an ability called **Space Window**. This ability provides users with astronomy-related alerts, including:
+- Notifications for International Space Station (ISS) passes.
+- Alerts for aurora activity based on user latitude.
+- Countdown timers for upcoming rocket launches.
+- A morning briefing that summarizes astronomical events for the day.
+Users can trigger the ability with phrases like "what's up tonight" or "aurora forecast."
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Unknown
-- GitHub: Unknown
-- X: Unknown
+### how-to-reach
+- Discord: Not specified
+- GitHub: [pmckelvy's GitHub](https://github.com/openhome-dev/abilities/pull/272/commits)
+- X: Not specified
 
 ## connects-to
-[[OpenHome]]  
-[[Abilities]]
+- [[builders/]]
+- [[abilities/space-window]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
+```

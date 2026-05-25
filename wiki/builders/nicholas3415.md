@@ -2,29 +2,33 @@
 ---
 title: builders/nicholas3415
 entity_type: builder
-status: stub
-last_updated: 2026-05-24
+status: live
+last_updated: 2026-05-25
 ---
 
-### who-they-are
-Nicholas3415 is an active community member within the OpenHome project, contributing to the development of AI-powered voice applications and smart home technologies. They are involved in building and enhancing conversational AI agents known as Personalities on the OpenHome platform.
+## who-they-are
+Nicholas3415 is an active developer in the OpenHome community, where he contributes by creating and extending voice AI capabilities.
 
-### what-they-built
-Details regarding specific abilities or integrations built by Nicholas3415 are not provided in the available data. However, they are part of a community that encourages the development of voice plugins called Abilities that can be used to enhance the functionality of AI agents.
+## what-they-built
+Nicholas3415 has shipped an ability called **Space Window**. This ability provides users with various updates related to astronomical events, including:
+- Alerts for International Space Station (ISS) passes, including rise direction, peak elevation, and duration.
+- Notifications for aurora activity based on the Kp index with auto-calculated visibility adjustments.
+- Countdown alerts for rocket launches, set to notify users 24 hours and 1 hour before liftoff.
+- A morning brief that summarizes the day's astronomical events.
+- Voice queries such as "what's up tonight", "when's the ISS", and "any launches this week" that trigger the ability's functionality.
 
-### grant-status
-None
+## grant-status
+none
 
-### how-to-reach
-- Discord: Unknown
-- GitHub: Unknown
-- X: Unknown
+## how-to-reach
+- Discord: Not specified
+- GitHub: [Nicholas3415 GitHub Profile](https://github.com/openhome-dev/abilities/tree/dev)
+- X: Not specified
 
-### connects-to
-[[builders/nicholas3415]]
+## connects-to
+[[abilities/Space Window]]
+[[builders]]
+[[developers]]
 [[OpenHome]]
-[[Abilities]]
-[[Personalities]]
-
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
 ```

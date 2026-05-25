@@ -1,28 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/pauldy
 entity_type: builders
 status: stub
-last_updated: 2026-05-24
-```
+last_updated: 2026-05-25
+---
 
-## who-they-are
-Pauldy is an active contributor in the OpenHome community, focusing on building and enhancing voice AI applications. His work involves leveraging the capabilities of the OpenHome platform to create conversational AI agents with unique personalities and abilities.
+### who-they-are
+Pauldy is an active member of the OpenHome community, engaged in developing and enhancing capabilities for voice AI agents.
 
-## what-they-built
-Details on specific abilities or integrations created by Pauldy are currently not available. However, he is encouraged to prototype and share his creations, particularly in the context of using OpenHome's devkits and abilities.
+### what-they-built
+Pauldy has recently shipped an ability called "Space Window," which provides users with various astronomical alerts and information. This includes notifications for International Space Station (ISS) passes, Kp index alerts for auroras, countdowns for rocket launches, and daily sky briefs.
 
-## grant-status
-None
+### grant-status
+none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-## connects-to
-[[OpenHome]]
-[[Abilities]]
-[[Personalities]]
-[[Voice AI Agents]]
+### connects-to
+- [[abilities]]
+- [[openhome]]
+- [[space window]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
+```

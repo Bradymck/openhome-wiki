@@ -1,31 +1,32 @@
-```markdown
----
-title: "jagatfx"
-entity_type: "builders"
-status: "stub"
-last_updated: 2026-05-24
----
+```yaml
+title: builders/jagatfx
+entity_type: builders
+status: live
+last_updated: 2026-05-25
+```
 
-### who-they-are
-jagatfx is a community builder within the OpenHome ecosystem, focusing on developing voice AI applications and integrations. They are part of a community committed to enhancing interactions between users and technology through conversational AI agents.
+## who-they-are
+Jagatfx is a community builder within the OpenHome platform, focusing on the development of AI-powered voice applications. They are actively engaged in enhancing the capabilities of the OpenHome ecosystem by creating innovative abilities for voice AI agents.
 
-### what-they-built
-Details on specific shipped abilities or integrations by jagatfx are not currently available.
+## what-they-built
+Jagatfx has shipped an ability named "Space Window". This ability provides users with information about astronomical events, including:
+- Alerts for International Space Station (ISS) passes.
+- Monitoring of aurora activity based on the Kp index.
+- Countdown notifications for rocket launches.
+- A morning brief detailing astronomical events occurring that day.
+It can respond to voice commands for asking about the evening's sky events as well, making it a versatile addition to OpenHome's capabilities.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord: @jagatfx
+- GitHub: [jagatfx](https://github.com/openhome-dev/abilities/pull/272/commits)
+- X: [@MisterPeej](https://x.com/MisterPeej)
 
 ## connects-to
-[[builders]]
-[[abilities]]
-[[OpenHome]]
-[[Voice AI]]
-[[Developer Docs]]
+[[developers/openhome]]  
+[[abilities/space-window]]  
+[[community/openhome]]  
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
-```
+<!-- synthesized: 2026-05-25T12:07:34Z -->

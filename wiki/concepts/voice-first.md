@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: concepts/voice-first
+title: Voice First
 entity_type: concepts
 status: live
-last_updated: 2026-05-24
+last_updated: 2026-05-25
 ---
 
 ## definition
-Voice-first is a paradigm in technology design that prioritizes voice interactions as the primary mode of interaction with devices and applications. It enables users to engage with technology through natural language spoken commands, enhancing accessibility and intuitiveness.
+Voice First refers to a design approach that prioritizes voice interactions as the primary interface for technology. This concept encompasses the use of voice recognition and speech synthesis technologies to enable a more natural and intuitive means of communication with devices and applications.
 
 ## why-it-matters
-In the context of OpenHome, focusing on a voice-first approach aligns with the mission to revolutionize human-computer interaction. It empowers users by making technology more accessible, especially for those who may have difficulties with traditional input methods like keyboards or touchscreens. By utilizing voice interactions, OpenHome ensures a more seamless and engaging user experience.
+The Voice First concept is integral to OpenHome's mission of revolutionizing user interaction with technology. By fostering an environment where voice-controlled applications are accessible, it enhances everyday life, allowing users to connect with their devices in more meaningful and immersive ways.
 
 ## how-it-manifests
-The voice-first concept is evident throughout the OpenHome platform, particularly in the development of Personalities—AI agents that respond to user queries via voice. These Personalities can be enhanced with Abilities, which are modular voice plugins that extend the skills of the AI agents. The integration of wake words and voice recognition into device functionalities showcases a practical deployment of voice-first technology.
+In the OpenHome platform, Voice First is exemplified through the creation and deployment of AI agents, referred to as Personalities. These agents leverage voice interactions to perform a variety of tasks. Users can engage with Personalities using natural speech, making requests and receiving responses through voice. Abilities, which are modular voice plugins, enrich these interactions by adding new skills, showcasing the platform's commitment to voice-first experiences.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ The voice-first concept is evident throughout the OpenHome platform, particularl
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
 ```

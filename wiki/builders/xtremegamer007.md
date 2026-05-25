@@ -1,28 +1,27 @@
 ```markdown
 ---
 title: builders/xtremegamer007
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-05-24
+last_updated: 2026-05-25
 ---
 
 ### who-they-are
-XtremeGamer007 is an active member of the OpenHome community, contributing to the development of the open-source Voice AI platform. They are involved in creating and enhancing conversational AI agents and associated abilities.
+xtremegamer007 is an active member of the OpenHome community, contributing to the development of voice AI applications. They are engaged with building abilities that enhance user interaction with conversational agents.
 
 ### what-they-built
-Details of specific abilities or integrations created by XtremeGamer007 have not been documented. It is known that contributors in the community are recognized for building abilities related to Personalities and modular voice plugins.
+xtremegamer007 has shipped an ability called "Space Window," which provides users with sky-related information. This ability includes features such as alerts for the International Space Station (ISS) passes, updates on aurora activity, countdowns to rocket launches, and daily morning briefs about astronomical events.
 
 ### grant-status
-no information available
+none
 
 ### how-to-reach
-No direct contact information provided.
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[Abilities]]
-[[Personalities]]
+### connects-to
+[[abilities/Space Window]] 
 
-<!-- synthesized: 2026-05-24T11:26:01Z --> 
+<!-- synthesized: 2026-05-25T12:07:34Z -->
 ```

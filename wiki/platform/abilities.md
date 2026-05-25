@@ -1,17 +1,18 @@
-```yaml
-title: platform/abilities
-entity_type: platform
+```markdown
+---
+title: Abilities
+entity_type: platform/abilities
 status: live
-last_updated: 2026-05-24
-```
+last_updated: 2026-05-25
+---
 
-## what-it-is
-Abilities are modular voice plugins within the OpenHome platform that enhance the functionality of conversational AI agents, known as Personalities. They allow agents to gain new skills through a combination of APIs, music playback, quizzes, and device control.
+### what-it-is
+Abilities are modular voice plugins within the OpenHome platform that extend the functionality of conversational AI agents, called Personalities. Each Ability allows the agent to perform specific tasks, such as calling APIs, playing music, or controlling smart devices.
 
-## how-it-works
-Abilities in OpenHome can be thought of as extensions that provide Personalities with specific functionalities. When a user interacts with a Personality using voice commands, certain keywords (hotwords) trigger these Abilities. Each Ability can execute custom Python logic based on the input received. Users can create their own Abilities or utilize community-created ones by accessing resources available through the OpenHome developer documentation and GitHub repository.
+### how-it-works
+In OpenHome, a Personality is an AI agent that can be equipped with various Abilities. These Abilities are triggered by specific hotwords during voice conversations, enabling users to interact with the AI agent more naturally and intuitively. Developers can create their own Abilities using custom Python logic, and these plugins can be shared and explored within the community. The integration of Abilities enhances the overall capabilities of the Personalities, making them more versatile in responding to user commands.
 
-## current-status
+### current-status
 live
 
 ## connects-to
@@ -23,4 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-24T11:26:01Z -->
+<!-- synthesized: 2026-05-25T12:07:34Z -->
+```
