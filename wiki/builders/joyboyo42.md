@@ -1,30 +1,32 @@
 ```yaml
-title: joyboyo42
+title: builders/joyboyo42
 entity_type: builders
 status: stub
-last_updated: 2026-05-25
+last_updated: 2026-05-27
 ```
 
-### who-they-are
-joyboyo42 is an active member of the OpenHome community, engaged in developing conversational AI agents called Personalities and enhancing them with various Abilities.
+## who-they-are
+Joyboyo42 is an active developer within the OpenHome community, focusing on the creation of conversational AI agents called Personalities. They are motivated to work on innovative applications that enhance user interactions with technology.
 
-### what-they-built
-joyboyo42 has shipped a new Ability called **Space Window**. This Ability provides users with various sky-related updates, including:
-- Alerts for International Space Station (ISS) passes, including rise direction, peak elevation, and duration.
-- Notifications for aurora activity based on the user's latitude, auto-calculated.
-- Countdown alerts for upcoming rocket launches, both 24 hours in advance and 1 hour before liftoff.
-- A morning brief detailing daily celestial events, as well as functionalities to inquire about specific events such as "what's up tonight" or "aurora forecast".
+## what-they-built
+Joyboyo42 has designed an ability named "Space Window," which functions as a comprehensive sky alert system. This ability includes:
+- Alerts for ISS passes with rise direction, peak elevation, and duration.
+- Monitoring and alerts for aurora activity.
+- Countdown timers for upcoming rocket launches.
+- Daily morning briefings about sky events.
 
-### grant-status
+The ability is integrated to respond to various user queries concerning space events and launches.
+
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: joyboyo42
-- GitHub: N/A
-- X: N/A
+## how-to-reach
+- Discord handle: Unknown
+- GitHub: [joyboyo42's GitHub](https://github.com/openhome-dev/abilities/pull/272/commits)
+- X: Unknown
 
-### connects-to
-- [[builders]]
-- [[abilities/space-window]]
+## connects-to
+[[abilities/space_window]]
+[[builders/openhome]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+<!-- synthesized: 2026-05-27T12:03:30Z -->

@@ -1,29 +1,34 @@
 ```markdown
 ---
 title: bradymck
-entity_type: builders
+entity_type: builders/
 status: live
-last_updated: 2026-05-25
+last_updated: 2026-05-27
 ---
 
 ## who-they-are
-Brady McK is an active community builder involved with the OpenHome platform, focusing on creating and enhancing AI-powered voice applications. He is engaged in developing skills and functionalities for conversational AI agents known as Personalities, utilizing the OpenHome infrastructure.
+bradymck is an active community builder in the OpenHome ecosystem, contributing to the development of voice AI applications. They are focused on creating conversational AI agents, referred to as Personalities, and enhancing them with various Abilities—modular plugins that bring new skills to the agents.
 
 ## what-they-built
-Brady McK has shipped an ability called **Space Window**, which allows users to receive updates about astronomical events. The ability includes features such as notifying users about International Space Station (ISS) passes, monitoring aurora activity, countdowns to rocket launches, and providing a morning brief of sky-related events. Users can interact with this ability through various voice commands.
+bradymck has successfully shipped the "Space Window" ability, which assists users in tracking astronomical events. The Space Window ability includes features that:
+- Alert users before the International Space Station (ISS) passes overhead.
+- Monitor aurora activity and send alerts when conditions are favorable for visibility.
+- Provide countdowns to upcoming rocket launches.
+- Deliver a morning brief about astronomical events scheduled for the day.
+
+This ability is designed to streamline the process of keeping track of celestial events without needing to check multiple applications.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: [bradymck](https://discord.com)
-- GitHub: [bradymck](https://github.com/bradymck)
-- X: [bradymck](https://x.com/bradymck)
+- Discord handle: bradymck
+- GitHub: [bradymck's GitHub](https://github.com/openhome-dev)
+- X: (Not provided)
 
 ## connects-to
-[[builders]]
-[[abilities]]
-[[OpenHome]]
-[[Space Window]]
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+- [[abilities/space-window]]
+- [[builders/]]
+- [[openhome]]
+<!-- synthesized: 2026-05-27T12:03:30Z -->
 ```

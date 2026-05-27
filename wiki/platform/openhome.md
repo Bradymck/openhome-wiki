@@ -3,19 +3,19 @@
 title: OpenHome
 entity_type: platform
 status: live
-last_updated: 2026-05-25
+last_updated: 2026-05-27
 ---
 
 ### what-it-is
-OpenHome is an open-source Voice AI platform designed to create conversational AI agents, referred to as Personalities, and enhance their functionality through modular plugins called Abilities.
+OpenHome is an open-source Voice AI platform that enables users to build conversational AI agents, referred to as Personalities. These agents can be customized and expanded with modular plugins known as Abilities, enhancing their interactivity and functional capabilities.
 
 ### how-it-works
-OpenHome allows users to build and deploy AI-driven voice applications. Developers can create a Personality by customizing its name, voice, and conversation style, which can then be enhanced with Abilities that add new skills, such as controlling smart home devices, playing music, or retrieving information. Abilities are activated through hotwords during voice interactions and can execute custom logic written in Python. The platform aims to facilitate immersive voice interactions and make technology more accessible to users.
+The OpenHome platform allows developers to create and customize AI agents by defining their voice, persona, and conversation style. Users can develop Abilities—modular voice plugins that enhance the agents with new skills such as API calls, music playback, device control, and game functionalities. These Abilities are activated through voice commands or hotwords during conversations. The platform includes tools such as the OpenHome Dashboard for agent configuration and a marketplace for exploring community-generated Abilities.
 
 ### current-status
 live
 
-## connects-to
+### connects-to
 [[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -23,6 +23,5 @@ live
 [[platform/local-link]]
 [[platform/marketplace]]
 [[platform/live-editor]]
-
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+<!-- synthesized: 2026-05-27T12:03:30Z -->
 ```

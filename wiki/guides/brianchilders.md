@@ -1,26 +1,23 @@
-```markdown
----
+```yaml
 title: guides/brianchilders
-entity_type: Community Guide
-status: live
-last_updated: 2026-05-25
----
+entity_type: guides
+status: stub
+last_updated: 2026-05-27
+```
 
 ## who-they-are
-Brian Childers is a prominent member of the OpenHome community, known for his extensive involvement in developing voice AI applications and engaging with other developers on the platform. He has demonstrated expertise in building conversational AI agents and leveraging modular voice plugins to enhance user interaction with technology.
+Brian Childers is a power user within the OpenHome community, with a background in developing AI applications and voice interaction technologies. He brings expertise in creating personalized voice AI agents, known as Personalities, and extending their capabilities through modular plugins called Abilities.
 
 ## what-they-help-with
-Brian specializes in guiding new developers in the creation and integration of Personalities and Abilities within the OpenHome platform. He assists users in understanding how to effectively utilize the development tools, share feedback, and contribute new features. His support extends to debugging, sharing insights on best practices, and offering ideas for innovative applications using the OpenHome framework.
+Brian specializes in guiding new users to build and enhance their AI agents on the OpenHome platform. He assists in understanding the fundamentals of creating Personalities, utilizing various Abilities, and developing unique functionalities that enhance user experiences. His knowledge encompasses the use of hardware like OpenClaw and the integration of APIs for robust voice interactions.
 
 ## how-to-reach
-Brian can be reached on Discord via the handle: Brianchilders
+Brian can be reached on Discord.
 
 ## connects-to
+[[guides]]
 [[OpenHome]]
-[[Community Guides]]
-[[Voice AI]]
-[[Abilities and Skills]]
-[[Developer Documentation]]
+[[Abilities]]
+[[Personalities]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
-```
+<!-- synthesized: 2026-05-27T12:03:30Z -->

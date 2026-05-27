@@ -1,27 +1,27 @@
 ```yaml
 title: Roadmap Current Sprint
-entity_type: roadmap/current-sprint
-status: live
-last_updated: 2026-05-25
+entity_type: roadmap
+status: in-progress
+last_updated: 2026-05-27
 ```
 
 ## what-it-is
-The current sprint focuses on the enhancement of the OpenHome platform, including the introduction of a new ability called "Space Window." This feature provides users with real-time alerts and updates about astronomical events such as International Space Station (ISS) passes, aurora visibility, and rocket launches.
+The current sprint includes the rollout of a feature that enables users to view their call logs, logs from the dashboard, Live editor, and DevKit.
 
 ## status
 In-progress
 
 ## why-it-matters
-The "Space Window" ability aims to centralize astronomical information, allowing users to receive timely updates and alerts without needing to check multiple applications. This enhancement contributes to user engagement and experience by providing valuable information in a convenient manner.
+This feature enhances user experience by providing transparency and feedback regarding usage patterns and interactions within the OpenHome ecosystem, thus facilitating better debugging and development of AI agents.
 
 ## eta
-Tentatively ongoing, with finalization expected in the current development cycle.
+The specific timeline for the finalization and announcement of this feature is not provided.
 
 ## connects-to
-- [[OpenHome]]
-- [[OpenHome Abilities]]
-- [[Developer Docs]]
-- [[OpenHome Dashboard]]
-- [[GitHub]]
+[[OpenHome]]
+[[Abilities]]
+[[Developer Docs]]
+[[DevKit]]
+[[AI Agents]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+<!-- synthesized: 2026-05-27T12:03:30Z -->

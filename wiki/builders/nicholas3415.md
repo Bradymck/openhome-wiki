@@ -1,34 +1,31 @@
-```markdown
----
+```yaml
 title: builders/nicholas3415
 entity_type: builder
 status: live
-last_updated: 2026-05-25
----
+last_updated: 2026-05-27
+```
 
-## who-they-are
-Nicholas3415 is an active developer in the OpenHome community, where he contributes by creating and extending voice AI capabilities.
+### who-they-are
+Nicholas3415 is an active developer in the OpenHome community, focusing on building AI-driven applications and voice-enabled agents. They are particularly interested in creating user-friendly AI functionalities that enhance daily life and streamline tasks for users.
 
-## what-they-built
-Nicholas3415 has shipped an ability called **Space Window**. This ability provides users with various updates related to astronomical events, including:
-- Alerts for International Space Station (ISS) passes, including rise direction, peak elevation, and duration.
-- Notifications for aurora activity based on the Kp index with auto-calculated visibility adjustments.
-- Countdown alerts for rocket launches, set to notify users 24 hours and 1 hour before liftoff.
-- A morning brief that summarizes the day's astronomical events.
-- Voice queries such as "what's up tonight", "when's the ISS", and "any launches this week" that trigger the ability's functionality.
+### what-they-built
+Nicholas3415 has developed an ability called **Space Window**, which provides users with insights about celestial events and space-related activities. Key features include:
+- Alerts for International Space Station (ISS) passes, including rise direction and peak elevation.
+- Notifications regarding aurora visibility based on Kp index.
+- Countdown notifications for upcoming rocket launches.
+- A daily brief summarizing the sky events for the day, including queries like "what's up tonight" and "aurora forecast".
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: [Nicholas3415 GitHub Profile](https://github.com/openhome-dev/abilities/tree/dev)
-- X: Not specified
+### how-to-reach
+- Discord: `nicholas3415`
+- GitHub: [nicholas3415 GitHub Profile](https://github.com/nicholas3415)
+- X: Not provided
 
-## connects-to
-[[abilities/Space Window]]
-[[builders]]
-[[developers]]
-[[OpenHome]]
-<!-- synthesized: 2026-05-25T12:07:34Z -->
-```
+### connects-to
+- [[abilities/space-window]]
+- [[builders/openhome]]
+- [[developers/ai-agents]]
+
+<!-- synthesized: 2026-05-27T12:03:30Z -->

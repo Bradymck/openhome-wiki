@@ -1,27 +1,25 @@
 ```markdown
 ---
 title: guides/skillstone
-entity_type: guides/
+entity_type: Community Guide
 status: stub
-last_updated: 2026-05-25
+last_updated: 2026-05-27
 ---
 
 ### who-they-are
-Skillstone guides consist of power users who provide onboarding assistance and support to new users within the OpenHome community. These individuals have extensive experience with the platform, its capabilities, and development processes.
+Skillstone has not been explicitly detailed in the available sources, making it challenging to provide a comprehensive background or expertise description.
 
 ### what-they-help-with
-Skillstone guides specialize in helping users navigate the OpenHome platform, understand the development environment, and utilize the available resources effectively. They provide insights on building conversational AI agents, integrating various skills, and using plugins (Abilities).
+Currently, there is no specific information regarding what Skillstone helps with, as the provided material lacks relevant details about this entity's specialty.
 
 ### how-to-reach
-Discord Handle: _Information not provided in the source material._
+There is no provided contact information or Discord handle for Skillstone.
 
-### connects-to
-[[guides/]]
+## connects-to
+[[guides]]
 [[OpenHome]]
-[[Abilities]]
-[[Developer Docs]]
-[[OpenHome Dashboard]]
-[[GitHub]]
-
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+[[abilities]]
+[[Personality]]
+[[API]]
+<!-- synthesized: 2026-05-27T12:03:30Z -->
 ```

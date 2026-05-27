@@ -1,30 +1,29 @@
-```yaml
-title: OpenHome Roadmap
+```markdown
+---
+title: Roadmap
 entity_type: roadmap/planned
 status: live
-last_updated: 2026-05-25
-```
+last_updated: 2026-05-27
+---
 
 ## what-it-is
-The OpenHome roadmap outlines current and upcoming features, developments, and enhancements related to the OpenHome voice AI platform. Key initiatives include the distribution of physical development kits, the rollout of user features like call logs, and new abilities for the AI agents.
+OpenHome is an open-source Voice AI platform where developers can build conversational AI agents called Personalities and extend them with Abilities—modular voice plugins that add new skills. Currently, there is a roll-out of physical V0.1 development kits for top contributors to facilitate the building and testing of these agents.
 
 ## status
-- Physical V0.1 DevKits: Shipped
-- Call logs feature: In-progress
-- Space Window ability: Shipped
+In-progress - The rollout of physical devkits and the introduction of a new feature that allows users to see their call logs, logs from the dashboard, Live editor, and devkit is in progress, with a definitive announcement expected once finalized.
 
 ## why-it-matters
-These developments aim to make AI-driven voice applications accessible and user-friendly, enhancing user interaction with technology. The devkits provide a platform for developers to create and test their own agents, fostering community contributions and innovation. New abilities like Space Window simplify user access to real-time information about astronomical events, enriching the overall experience.
+These features enhance the development experience and foster community contributions, ultimately aimed at making AI-powered, voice-first applications accessible to a wider audience. The physical devkits will help improve testing and feedback processes, promoting innovation and development speed within the OpenHome ecosystem.
 
 ## eta
-- Space Window: Shipped (as of May 2026)
-- Call logs feature: Announcement pending finalization
+The timeline for the full rollout of features and features like the call logs is currently not explicitly stated but will be announced in relevant channels once finalized.
 
 ## connects-to
 [[OpenHome]]
-[[Ability]]
-[[Personality]]
-[[Developer Docs]]
-[[GitHub]]
+[[Abilities]]
+[[DevKit]]
+[[Voice AI]]
+[[Community Contributions]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+<!-- synthesized: 2026-05-27T12:03:30Z -->
+```

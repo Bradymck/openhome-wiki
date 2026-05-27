@@ -1,33 +1,31 @@
 ```markdown
 ---
-title: pmckelvy
+title: builders/pmckelvy
 entity_type: builders/
 status: live
-last_updated: 2026-05-25
+last_updated: 2026-05-27
 ---
 
 ### who-they-are
-pmckelvy is a developer actively building integrations for the OpenHome platform, a voice AI community focused on creating conversational agents called Personalities. They are heavily involved in the development of modular voice plugins known as Abilities, which enhance the functionality of these Personalities.
+Pmckelvy is an active community builder involved in OpenHome, a platform designed for creating AI-driven conversational agents. Pmckelvy has experience in blockchain and AI technologies, focusing on developing user-friendly AI applications for everyday use.
 
 ### what-they-built
-pmckelvy has shipped an ability called **Space Window**. This ability provides users with astronomy-related alerts, including:
-- Notifications for International Space Station (ISS) passes.
-- Alerts for aurora activity based on user latitude.
-- Countdown timers for upcoming rocket launches.
-- A morning briefing that summarizes astronomical events for the day.
-Users can trigger the ability with phrases like "what's up tonight" or "aurora forecast."
+Pmckelvy has created a voice plugin called **Space Window**, which provides users with astronomical information. This Ability alerts users about upcoming satellite passes (like the ISS), monitors aurora forecasts based on geographic location, and informs users about rocket launches. It also offers daily briefings on astronomical events.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: [pmckelvy's GitHub](https://github.com/openhome-dev/abilities/pull/272/commits)
-- X: Not specified
+- Discord handle: pmckelvy
+- GitHub: [pmckelvy](https://github.com/pmckelvy)
+- X: Not provided
 
-## connects-to
-- [[builders/]]
-- [[abilities/space-window]]
+### connects-to
+[[builders]]
+[[abilities/Space_Window]]
+[[abilities]]
+[[OpenHome]]
+[[developer_docs]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+<!-- synthesized: 2026-05-27T12:03:30Z -->
 ```

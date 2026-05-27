@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Voice First
+title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-05-25
+last_updated: 2026-05-27
 ---
 
 ## definition
-Voice First refers to a design approach that prioritizes voice interactions as the primary interface for technology. This concept encompasses the use of voice recognition and speech synthesis technologies to enable a more natural and intuitive means of communication with devices and applications.
+Voice-first refers to a design philosophy that prioritizes voice interactions as the primary method of user engagement with technology. In a voice-first environment, users command and communicate with devices via spoken language rather than traditional methods like touch or visual screens.
 
 ## why-it-matters
-The Voice First concept is integral to OpenHome's mission of revolutionizing user interaction with technology. By fostering an environment where voice-controlled applications are accessible, it enhances everyday life, allowing users to connect with their devices in more meaningful and immersive ways.
+Voice-first is central to OpenHome's mission to revolutionize how users interact with technology. By making AI-powered voice applications accessible, OpenHome aims to provide an immersive and intuitive experience that fosters meaningful connections between users and their devices.
 
 ## how-it-manifests
-In the OpenHome platform, Voice First is exemplified through the creation and deployment of AI agents, referred to as Personalities. These agents leverage voice interactions to perform a variety of tasks. Users can engage with Personalities using natural speech, making requests and receiving responses through voice. Abilities, which are modular voice plugins, enrich these interactions by adding new skills, showcasing the platform's commitment to voice-first experiences.
+In OpenHome, voice-first appears through its core offerings, enabling users to create and interact with conversational AI agents called Personalities. These agents respond to voice commands, manage various Abilities, and facilitate seamless conversations, enhancing user experience and control.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
+[[concepts/local-first]]
 [[concepts/spatial-intelligence]]
+[[concepts/web3-native]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+<!-- synthesized: 2026-05-27T12:03:30Z -->
 ```

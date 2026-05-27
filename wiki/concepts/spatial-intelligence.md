@@ -2,26 +2,26 @@
 ---
 title: Spatial Intelligence
 entity_type: concepts
-status: live
-last_updated: 2026-05-25
+status: stub
+last_updated: 2026-05-27
 ---
 
 ## definition
-Spatial intelligence refers to the ability to think in three dimensions and envision spatial relationships. In the context of OpenHome, it encompasses understanding how virtual agents interact with the physical environment, allowing users to engage with content based on their geographical location or physical context.
+Spatial intelligence refers to the capacity to visualize, manipulate, and understand spatial relationships in the environment. It is a key cognitive ability that allows individuals to comprehend and interpret the physical space around them, enabling effective navigation and interaction in our three-dimensional world.
 
 ## why-it-matters
-Spatial intelligence is crucial for OpenHome as it enhances the user experience by creating a more intuitive interaction between voice agents and the user's real-world space. This capability allows for personalized, context-aware responses based on the user’s location and the spatial relationship of the surrounding environment.
+In the context of OpenHome, spatial intelligence is essential for enhancing how AI agents interact with users and their environments. By leveraging spatial awareness, AI can perform tasks more intuitively, such as recognizing where users are located and delivering contextually relevant information based on their spatial position.
 
 ## how-it-manifests
-In the OpenHome platform, spatial intelligence manifests through abilities that utilize location-based data to provide relevant information or actions. For instance, an ability called "Space Window" alerts users about astronomical events based on their city, effectively integrating spatial intelligence into user interactions. This enhances the voice experience, making it responsive to the dynamic contextual factors of location.
+Spatial intelligence can manifest in the OpenHome platform through features such as personalized responses based on the physical location of the user, the ability to manage smart home devices efficiently within the user's space, and interactions that respond to changes in spatial context (e.g., knowing when someone enters or leaves a room).
 
 ## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/grant-program]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/abilities-as-apps]]
+[[concepts/dead-mans-switch]]
+[[concepts/web3-native]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+<!-- synthesized: 2026-05-27T12:03:30Z -->
 ```

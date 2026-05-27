@@ -1,32 +1,32 @@
 ```yaml
-title: builders/jagatfx
+title: jagatfx
 entity_type: builders
 status: live
-last_updated: 2026-05-25
+last_updated: 2026-05-27
 ```
 
 ## who-they-are
-Jagatfx is a community builder within the OpenHome platform, focusing on the development of AI-powered voice applications. They are actively engaged in enhancing the capabilities of the OpenHome ecosystem by creating innovative abilities for voice AI agents.
+Jagatfx is an active community builder engaged in developing voice AI capabilities through the OpenHome platform. They have a background in blockchain and AI, focusing on creating user-friendly applications that enhance daily interactions with technology.
 
 ## what-they-built
-Jagatfx has shipped an ability named "Space Window". This ability provides users with information about astronomical events, including:
-- Alerts for International Space Station (ISS) passes.
-- Monitoring of aurora activity based on the Kp index.
-- Countdown notifications for rocket launches.
-- A morning brief detailing astronomical events occurring that day.
-It can respond to voice commands for asking about the evening's sky events as well, making it a versatile addition to OpenHome's capabilities.
+Jagatfx has contributed a new ability called **Space Window**, which provides users with timely information about astronomical events. This ability includes:
+- Alerts for International Space Station (ISS) passes with details about timing and visibility.
+- Notifications for aurora activity based on the Kp index.
+- Countdown reminders for rocket launches.
+- A morning briefing of sky events for the day.
+Users can interact with the ability through various trigger phrases.
 
 ## grant-status
-none
+None
 
 ## how-to-reach
-- Discord: @jagatfx
-- GitHub: [jagatfx](https://github.com/openhome-dev/abilities/pull/272/commits)
-- X: [@MisterPeej](https://x.com/MisterPeej)
+- **Discord handle**: Jagatfx
+- **GitHub**: [GitHub Profile](https://github.com/openhome-dev/abilities/pull/272/commits)
+- **Twitter**: Not provided
 
 ## connects-to
-[[developers/openhome]]  
-[[abilities/space-window]]  
-[[community/openhome]]  
+- [[builders]]
+- [[abilities]]
+- [[Space Window]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+<!-- synthesized: 2026-05-27T12:03:30Z -->

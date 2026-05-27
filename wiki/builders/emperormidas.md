@@ -1,36 +1,32 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: builders
+entity_type: community builder
 status: live
-last_updated: 2026-05-25
+last_updated: 2026-05-27
 ---
 
 ## who-they-are
-Emperormidas is an active community builder in the OpenHome ecosystem, contributing to the development of AI-powered voice interactions through the creation of modular voice plugins and AI agents known as Personalities. They are focused on enhancing the user experience in voice applications and enabling innovative interactions between users and technology.
+Emperormidas is an active member of the OpenHome community, focusing on developing AI-driven solutions and enhancing user interactions with technology. They have a background in hospitality and travel, which informs their consumer-focused approach to building AI integrations. Emperormidas aims to create meaningful AI functionalities that cater to everyday users.
 
 ## what-they-built
-Emperormidas has developed an ability called "Space Window" that consolidates multiple sky observation tasks into a single voice command interface. This ability provides alerts for various sky events, including:
-- Notifications for International Space Station (ISS) passes.
-- Alerts for high aurora activity based on user latitude.
-- Countdown notifications for upcoming rocket launches.
-- A morning sky brief summarizing events occurring that day.
-
-This ability allows users to easily ask for updates related to the night sky with phrases like "what's up tonight" or "aurora forecast."
+Emperormidas has shipped an ability called "Space Window." This ability provides users with various alerts concerning astronomical events, including:
+- Notifications for ISS passes with details on direction and duration.
+- Alerts for aurora activity based on latitude.
+- A countdown for upcoming rocket launches.
+- Daily morning briefs about sky-related events.
+Users can interact with the ability using trigger phrases like "what's up tonight" or "aurora forecast."
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: @emperormidas
-- GitHub: [link to GitHub profile](https://github.com/openhome-dev)
-- X: [link to X profile](https://x.com/MisterPeej/status/2057169559325491470?s=20)
+- Discord handle: emperormidas
+- GitHub: [GitHub Profile](https://github.com/openhome-dev/abilities/pull/272/commits)
 
 ## connects-to
-- [[OpenHome]]
-- [[Abilities]]
-- [[Space Window]]
-- [[Personalities]]
+[[builders]]
+[[abilities/space-window]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+<!-- synthesized: 2026-05-27T12:03:30Z -->
 ```

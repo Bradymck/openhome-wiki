@@ -1,28 +1,33 @@
-```markdown
----
+```yaml
 title: builders/pl-geek
 entity_type: builder
-status: stub
-last_updated: 2026-05-25
----
+status: live
+last_updated: 2026-05-27
+```
 
-### who-they-are
-pl-geek is a community builder within the OpenHome ecosystem, focusing on voice AI applications and the development of interactive AI agents called Personalities. The community aims to enhance user interaction with technology through accessible AI solutions.
+## who-they-are
+pl-geek is an active member of the OpenHome community with a background in blockchain and artificial intelligence. They are focused on developing proactive, intent-driven AI assistants that are capable of performing personal tasks while ensuring user privacy. Their work emphasizes accessibility and meaningful applications of AI for everyday users. 
 
-### what-they-built
-pl-geek has contributed a new ability called "Space Window." This ability alerts users about celestial events such as ISS passes, aurora activity, and rocket launches. It provides a morning briefing about nightly occurrences in the sky and responds to various queries related to space events.
+## what-they-built
+pl-geek has shipped an ability called "Space Window" for the OpenHome platform. This ability allows users to receive alerts and information about celestial events, including:
+- Notifications for the International Space Station (ISS) passes.
+- Alerts for aurora activity based on the Kp index.
+- Countdown notifications for rocket launches.
+- A daily morning brief summarizing celestial occurrences.
 
-### grant-status
+The ability can be triggered using various phrases such as "what's up tonight" or "aurora forecast".
+
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X (formerly Twitter): Not specified
+## how-to-reach
+- Discord: pl-geek
+- GitHub: [pl-geek's GitHub](https://github.com/pl-geek)
+- X: [pl-geek's X](https://twitter.com/pl-geek)
 
-### connects-to
-[[builders/openhome]]  
-[[abilities/space-window]]  
-[[platforms/openhome]]
-<!-- synthesized: 2026-05-25T12:07:34Z -->
-```
+## connects-to
+- [[builders]]
+- [[abilities]]
+- [[OpenHome]]
+
+<!-- synthesized: 2026-05-27T12:03:30Z -->

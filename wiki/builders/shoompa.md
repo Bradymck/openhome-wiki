@@ -1,32 +1,32 @@
 ```markdown
 ---
 title: builders/shoompa
-entity_type: builder
+entity_type: builders
 status: live
-last_updated: 2026-05-25
+last_updated: 2026-05-27
 ---
 
-## who-they-are
-Shoompa is part of the OpenHome community, contributing to the development of voice AI-powered applications. They focus on creating engaging AI agents that enhance user interactions through modular abilities.
+### who-they-are
+Shoompa is a community builder involved in developing AI-powered applications using OpenHome, focusing on creating useful functionalities for the everyday user. With a background in consumer products and experiences in hospitality and travel, Shoompa is dedicated to advancing the capabilities of AI in manageable ways for the general public.
 
-## what-they-built
-Shoompa has shipped an ability called "Space Window," which offers users various functionalities related to astronomical events. This ability includes:
-- Alerts for International Space Station (ISS) passes with details on rise direction, peak elevation, and duration.
-- Notifications for aurora activity based on user location.
-- Countdown clocks for rocket launches.
-- Daily morning briefs summarizing astronomical events.
+### what-they-built
+Shoompa has shipped an ability called "Space Window," which simplifies accessing astronomical information from a single voice command. This ability includes features such as:
+- Alerts for International Space Station (ISS) passes, including rise direction and peak elevation.
+- Notifications for aurora visibility based on geographic latitude.
+- Countdown to rocket launches with advance alerts.
+- Daily morning briefings with nighttime sky events.
+This ability can be triggered using phrases like "what's up tonight" or "aurora forecast."
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: [Shoompa](https://discord.gg/TNu7p8u7)
-- GitHub: [Shoompa on GitHub](https://github.com/openhome-dev/abilities/pull/272/commits)
-- X (formerly Twitter): [Shoompa's Page](https://x.com/MisterPeej/status/2057169559325491470?s=20)
+### how-to-reach
+- Discord handle: Shoompa
+- GitHub: [github.com/openhome-dev/abilities](https://github.com/openhome-dev/abilities)
+- X: [@Shoompa](https://x.com/Shoompa)
 
 ## connects-to
-- [[abilities/space-window]]
-- [[builders/openhome]]
+[[abilities/Space_Window]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+<!-- synthesized: 2026-05-27T12:03:30Z -->
 ```

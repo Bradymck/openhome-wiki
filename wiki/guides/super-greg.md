@@ -1,25 +1,25 @@
 ```markdown
 ---
-title: "Super Greg"
-entity_type: "guides/"
-status: "stub"
-last_updated: 2026-05-25
+title: Super Greg
+entity_type: guides/super-greg
+status: stub
+last_updated: 2026-05-27
 ---
 
 ### who-they-are
-Super Greg is a member of the OpenHome community, known for their expertise in developing conversational AI agents and extending them with modular voice plugins called Abilities.
+Super Greg is a community guide in the OpenHome ecosystem, recognized for their contributions and active participation. Details about their background and expertise remain unspecified.
 
 ### what-they-help-with
-Super Greg specializes in onboarding new users to the OpenHome platform, assisting them in setting up and developing their own Personalities and Abilities. They provide guidance on utilizing the OpenHome Dashboard and integrating various APIs.
+Super Greg specializes in assisting users with onboarding onto the OpenHome platform. Their focus includes helping new users navigate through the process of building conversational AI agents and utilizing the platform's capabilities.
 
 ### how-to-reach
-You can reach Super Greg on Discord at their handle: `SuperGreg`.
+Super Greg can be reached on Discord.
 
-## connects-to
-[[guides/]]
+### connects-to
+[[guides]]
 [[OpenHome]]
 [[Abilities]]
 [[Personalities]]
-[[DevKit]]
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+
+<!-- synthesized: 2026-05-27T12:03:30Z -->
 ```

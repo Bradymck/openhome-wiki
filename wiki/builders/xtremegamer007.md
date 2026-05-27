@@ -1,27 +1,31 @@
-```markdown
----
-title: builders/xtremegamer007
+```yaml
+title: xtremegamer007
 entity_type: builders
 status: stub
-last_updated: 2026-05-25
----
+last_updated: 2026-05-27
+```
 
 ### who-they-are
-xtremegamer007 is an active member of the OpenHome community, contributing to the development of voice AI applications. They are engaged with building abilities that enhance user interaction with conversational agents.
+xtremegamer007 is a member of the OpenHome community, engaged in building AI voice applications. They are motivated to develop tools that enhance user interaction with technology through conversational agents and voice interfaces.
 
 ### what-they-built
-xtremegamer007 has shipped an ability called "Space Window," which provides users with sky-related information. This ability includes features such as alerts for the International Space Station (ISS) passes, updates on aurora activity, countdowns to rocket launches, and daily morning briefs about astronomical events.
+xtremegamer007 has contributed to the OpenHome platform by shipping a voice assistant ability called "Space Window." This ability provides users with information related to astronomical events, including:
+- Alerts for International Space Station (ISS) passes.
+- Notifications for aurora activity based on geographic location.
+- Countdown reminders for rocket launches.
+- A daily morning brief about celestial occurrences.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: N/A
+- GitHub: [xtremegamer007's GitHub](https://github.com/openhome-dev/abilities/pull/272/commits)
+- X: N/A
 
 ### connects-to
-[[abilities/Space Window]] 
+- [[builders]]
+- [[abilities]]
+- [[OpenHome]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
-```
+<!-- synthesized: 2026-05-27T12:03:30Z -->

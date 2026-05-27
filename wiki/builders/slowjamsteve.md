@@ -1,27 +1,29 @@
-```markdown
----
+```yaml
 title: builders/slowjamsteve
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-05-25
----
+last_updated: 2026-05-27
+```
 
-### who-they-are
-SlowJamSteve is an active member of the OpenHome community working on creating and enhancing conversational AI experiences through modular plugins known as Abilities.
+## who-they-are
+SlowJamSteve is a community builder engaged in developing functionalities for OpenHome, an open-source Voice AI platform. His background appears to focus on merging AI with practical applications to enhance user experiences.
 
-### what-they-built
-SlowJamSteve has shipped an Ability called Space Window. This Ability allows users to receive alerts about space events, such as International Space Station passes, aurora visibility, and rocket launches. It also provides a daily morning brief about that day's sky events.
+## what-they-built
+SlowJamSteve has shipped an ability called "Space Window." This ability integrates various sky-related notifications into a single interface, alerting users to:
+- ISS passes with specifics on rise direction, peak elevation, and duration.
+- High aurora activity based on the user's latitude.
+- Countdown notifications for rocket launches.
+- A morning brief summarizing astronomical events for the day.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[abilities/space-window]]
+## connects-to
+[[space-window]]
 
-<!-- synthesized: 2026-05-25T12:07:34Z -->
-```
+<!-- synthesized: 2026-05-27T12:03:30Z -->

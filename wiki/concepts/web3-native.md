@@ -1,27 +1,25 @@
-```markdown
----
-title: web3-native
-entity_type: concepts
-status: stub
-last_updated: 2026-05-25
----
-
-### definition
-Web3-native refers to a framework or ecosystem that inherently utilizes Web3 principles, including decentralization, blockchain technology, and user ownership of data. It encompasses applications and platforms that are built on blockchain and promote a user-centric approach.
-
-### why-it-matters
-Web3-native concepts are essential for OpenHome as they align with the mission of empowering users by providing them ownership over their data and interactions. This approach enables a more secure and transparent environment for users to build and engage with their Personalities and Abilities.
-
-### how-it-manifests
-The idea of being web3-native may be reflected in OpenHome's development ethos, promoting user contributions, decentralized decision-making, and possibly integrating blockchain functionalities for identity verification or data ownership in the future.
-
-### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
-
-<!-- synthesized: 2026-05-25T12:07:34Z -->
+```yaml
+title: "Web3 Native"
+entity_type: "concepts/web3-native"
+status: "stub"
+last_updated: 2026-05-27
 ```
+
+## definition
+Web3 native refers to technologies, platforms, and applications that are built from the ground up to leverage decentralized protocols and blockchain technologies. This includes systems that prioritize user ownership, privacy, and interoperability, allowing users to interact with digital services without reliance on central authorities.
+
+## why-it-matters
+In the context of OpenHome, being web3 native is crucial as it aligns with the platform's mission to empower users by enabling them to maintain control over their data and interactions. This approach fosters a more secure and open ecosystem for voice AI applications, distinguishing OpenHome from traditional technology solutions.
+
+## how-it-manifests
+Web3 native concepts in OpenHome manifest through the use of decentralized data storage, smart contracts for handling transactions or interactions between agents, and user-controlled identity mechanisms. These elements contribute to creating a transparent and resilient architecture for voice AI agents, enhancing user trust and engagement.
+
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+
+<!-- synthesized: 2026-05-27T12:03:30Z -->
