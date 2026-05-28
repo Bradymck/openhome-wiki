@@ -3,23 +3,24 @@
 title: guides/skillstone
 entity_type: Community Guide
 status: stub
-last_updated: 2026-05-27
+last_updated: 2026-05-28
 ---
 
 ### who-they-are
-Skillstone has not been explicitly detailed in the available sources, making it challenging to provide a comprehensive background or expertise description.
+Skillstone is a community guide who specializes in helping new users navigate the OpenHome platform and build their own AI-driven voice applications. They possess extensive knowledge in developing conversational AI agents and leveraging modular voice plugins.
 
 ### what-they-help-with
-Currently, there is no specific information regarding what Skillstone helps with, as the provided material lacks relevant details about this entity's specialty.
+Skillstone assists users in understanding how to create and enhance Personalities and Abilities within the OpenHome ecosystem. They provide support for users looking to prototype their ideas using the cutting-edge DevKit, and guide them through the process of contributing to the community by building and sharing new skills.
 
 ### how-to-reach
-There is no provided contact information or Discord handle for Skillstone.
+You can reach Skillstone on Discord for assistance or guidance regarding OpenHome projects.
 
-## connects-to
-[[guides]]
+### connects-to
 [[OpenHome]]
-[[abilities]]
 [[Personality]]
-[[API]]
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+[[Ability]]
+[[DevKit]]
+[[Community Guidelines]]
+
+<!-- synthesized: 2026-05-28T12:08:23Z -->
 ```

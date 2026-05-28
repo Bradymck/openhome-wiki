@@ -1,31 +1,29 @@
 ```markdown
 ---
-title: illectric-co
+title: Illectric Co
 entity_type: builders
-status: live
-last_updated: 2026-05-27
+status: stub
+last_updated: 2026-05-28
 ---
 
-## who-they-are
-illectric-co is a community-focused builder actively engaged in developing voice AI applications using the OpenHome platform. Their primary focus involves enhancing user interactions with technology by creating AI agents capable of conversational and intelligent responses.
+### who-they-are
+Illectric Co is a developer engaged in the creation of voice AI applications and agents. They are part of the OpenHome community, contributing to the development of conversational AI technologies and smart home integrations.
 
-## what-they-built
-illectric-co has released a voice ability called "Space Window," which provides users with various astronomical updates. This ability offers functionalities such as:
-- Notifications for International Space Station (ISS) passes.
-- Alerts for high aurora activity based on the user's latitude.
-- Countdown notifications for rocket launches.
-- Daily morning briefings on astronomical events occurring that day.
+### what-they-built
+Details on specific abilities or integrations built by Illectric Co are not currently available. However, as a member of the OpenHome community, they may be involved in developing voice applications and modular voice plugins known as Abilities.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: [illectric-co GitHub](https://github.com/openhome-dev/abilities/pull/272/commits)
-- X: Not specified
+### how-to-reach
+Discord: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
-## connects-to
-[[abilities/space-window]]
+### connects-to
+[[Voice AI]]  
+[[OpenHome]]  
+[[Abilities]]  
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+<!-- synthesized: 2026-05-28T12:08:23Z -->
 ```

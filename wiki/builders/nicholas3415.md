@@ -1,31 +1,28 @@
 ```yaml
 title: builders/nicholas3415
-entity_type: builder
-status: live
-last_updated: 2026-05-27
+entity_type: builders
+status: stub
+last_updated: 2026-05-28
 ```
 
-### who-they-are
-Nicholas3415 is an active developer in the OpenHome community, focusing on building AI-driven applications and voice-enabled agents. They are particularly interested in creating user-friendly AI functionalities that enhance daily life and streamline tasks for users.
+## who-they-are
+Nicholas3415 is a member of the OpenHome community, actively engaged in building innovative voice AI solutions.
 
-### what-they-built
-Nicholas3415 has developed an ability called **Space Window**, which provides users with insights about celestial events and space-related activities. Key features include:
-- Alerts for International Space Station (ISS) passes, including rise direction and peak elevation.
-- Notifications regarding aurora visibility based on Kp index.
-- Countdown notifications for upcoming rocket launches.
-- A daily brief summarizing the sky events for the day, including queries like "what's up tonight" and "aurora forecast".
+## what-they-built
+As part of the OpenHome initiative, Nicholas3415 has contributed to the development and prototyping of abilities for the OpenHome platform, which allows users to create and enhance conversational AI agents with various functionalities.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: `nicholas3415`
-- GitHub: [nicholas3415 GitHub Profile](https://github.com/nicholas3415)
-- X: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-- [[abilities/space-window]]
-- [[builders/openhome]]
-- [[developers/ai-agents]]
+## connects-to
+[[builders]]
+[[openhome]]
+[[voice AI]]
+[[abilities]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+<!-- synthesized: 2026-05-28T12:08:23Z -->

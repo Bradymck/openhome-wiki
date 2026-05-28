@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-05-27
----
+last_updated: 2026-05-28
+```
 
 ## definition
-Voice-first refers to a design philosophy that prioritizes voice interactions as the primary method of user engagement with technology. In a voice-first environment, users command and communicate with devices via spoken language rather than traditional methods like touch or visual screens.
+Voice-first refers to an approach in technology where voice interaction becomes the primary mode of communication between users and devices. In the context of OpenHome, this means that users interact primarily through spoken commands, allowing for a more intuitive and hands-free experience.
 
 ## why-it-matters
-Voice-first is central to OpenHome's mission to revolutionize how users interact with technology. By making AI-powered voice applications accessible, OpenHome aims to provide an immersive and intuitive experience that fosters meaningful connections between users and their devices.
+Voice-first technology is critical to OpenHome's mission of making AI-powered applications accessible and user-friendly. It fosters a more natural interaction model, enhancing user engagement and accessibility, particularly for individuals who may have difficulty using traditional input methods like keyboards or touchscreens.
 
 ## how-it-manifests
-In OpenHome, voice-first appears through its core offerings, enabling users to create and interact with conversational AI agents called Personalities. These agents respond to voice commands, manage various Abilities, and facilitate seamless conversations, enhancing user experience and control.
+In the OpenHome platform, voice-first is manifested through the development of Personalities, which are AI agents designed to understand and respond to user voice commands. These Personalities utilize modular Abilities that can be triggered by voice interactions, allowing for various functionalities, from playing music to controlling smart home devices.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/dead-mans-switch]]
 [[concepts/local-first]]
-[[concepts/spatial-intelligence]]
 [[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
-```
+<!-- synthesized: 2026-05-28T12:08:23Z -->

@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: concepts/abilities-as-apps
+title: Abilities as Apps
 entity_type: concepts
 status: live
-last_updated: 2026-05-27
+last_updated: 2026-05-28
 ---
 
-## definition
-Abilities-as-apps refer to modular voice plugins within the OpenHome platform that enhance conversational AI agents (referred to as Personalities) by providing additional skills and functionalities. These abilities can execute tasks such as playing music, controlling smart home devices, or querying information from APIs.
+### Definition
+Abilities as Apps refers to modular voice plugins within the OpenHome platform that enhance conversational AI agents (referred to as Personalities) by granting them new skills. These abilities can perform various tasks such as calling APIs, playing music, and controlling smart devices.
 
-## why-it-matters
-This concept is essential to OpenHome as it enables a flexible and extensible architecture for voice AI interactions. By allowing developers to create custom abilities, OpenHome fosters innovation and community participation, making voice technology more accessible and versatile for users.
+### Why It Matters
+This concept is crucial for the OpenHome ecosystem as it allows users to extend the functionality of their AI agents easily. By enabling a wide range of applications, Abilities as Apps facilitate personalized and diverse interactions, making technology more accessible and responsive to individual user needs.
 
-## how-it-manifests
-Abilities are integrated into the OpenHome platform and can be triggered through voice commands during conversations. Each ability is designed to execute specific functions, which can be shared and forked from a community repository. This modularity allows developers to rapidly prototype, deploy, and iterate on voice applications.
+### How It Manifests
+In the OpenHome platform, Abilities are implemented as plugins that can be triggered through voice commands (hotwords). When a user interacts with their AI agent, these abilities respond with specific functionalities defined by the user or the community, contributing to a more robust and customizable experience.
 
-## connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+### Connects To
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+<!-- synthesized: 2026-05-28T12:08:23Z -->
 ```

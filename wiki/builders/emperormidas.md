@@ -1,32 +1,25 @@
-```markdown
----
-title: builders/emperormidas
-entity_type: community builder
-status: live
-last_updated: 2026-05-27
----
+```yaml
+title: emperormidas
+entity_type: builders
+status: stub
+last_updated: 2026-05-28
+```
 
-## who-they-are
-Emperormidas is an active member of the OpenHome community, focusing on developing AI-driven solutions and enhancing user interactions with technology. They have a background in hospitality and travel, which informs their consumer-focused approach to building AI integrations. Emperormidas aims to create meaningful AI functionalities that cater to everyday users.
+### who-they-are
+Emperormidas is a member of the OpenHome community, involved in the development of AI-powered voice applications and technology.
 
-## what-they-built
-Emperormidas has shipped an ability called "Space Window." This ability provides users with various alerts concerning astronomical events, including:
-- Notifications for ISS passes with details on direction and duration.
-- Alerts for aurora activity based on latitude.
-- A countdown for upcoming rocket launches.
-- Daily morning briefs about sky-related events.
-Users can interact with the ability using trigger phrases like "what's up tonight" or "aurora forecast."
+### what-they-built
+Details on specific abilities or integrations made by emperormidas are currently not available.
 
-## grant-status
-none
+### grant-status
+Grant status is currently unknown.
 
-## how-to-reach
-- Discord handle: emperormidas
-- GitHub: [GitHub Profile](https://github.com/openhome-dev/abilities/pull/272/commits)
+### how-to-reach
+Information on how to contact emperormidas is not provided.
 
 ## connects-to
-[[builders]]
-[[abilities/space-window]]
+[[OpenHome]]
+[[Voice AI]]
+[[DevKit]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
-```
+<!-- synthesized: 2026-05-28T12:08:23Z -->

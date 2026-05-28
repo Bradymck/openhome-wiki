@@ -1,20 +1,21 @@
-```yaml
-title: "Web3 Native"
-entity_type: "concepts/web3-native"
-status: "stub"
-last_updated: 2026-05-27
-```
+```markdown
+---
+title: web3-native
+entity_type: concepts/
+status: stub
+last_updated: 2026-05-28
+---
 
-## definition
-Web3 native refers to technologies, platforms, and applications that are built from the ground up to leverage decentralized protocols and blockchain technologies. This includes systems that prioritize user ownership, privacy, and interoperability, allowing users to interact with digital services without reliance on central authorities.
+### definition
+Web3-native refers to applications, services, or platforms that are built on decentralized technologies, primarily using blockchain and smart contracts, to create trustless and peer-to-peer interactions.
 
-## why-it-matters
-In the context of OpenHome, being web3 native is crucial as it aligns with the platform's mission to empower users by enabling them to maintain control over their data and interactions. This approach fosters a more secure and open ecosystem for voice AI applications, distinguishing OpenHome from traditional technology solutions.
+### why-it-matters
+In the context of OpenHome, embracing a web3-native approach enhances the platform's capabilities by allowing developers to create decentralized applications (dApps) that prioritize user control, transparency, and privacy. This aligns with OpenHome’s mission to empower users with AI-driven technology that respects their autonomy and fosters community-driven development.
 
-## how-it-manifests
-Web3 native concepts in OpenHome manifest through the use of decentralized data storage, smart contracts for handling transactions or interactions between agents, and user-controlled identity mechanisms. These elements contribute to creating a transparent and resilient architecture for voice AI agents, enhancing user trust and engagement.
+### how-it-manifests
+Web3-native features in OpenHome can be realized through the integration of decentralized identity management, user-owned data storage solutions, and smart contracts that automate capabilities within the platform. This could lead to new functionalities like ownership of digital assets and secure interactions among users and devices.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -22,4 +23,5 @@ Web3 native concepts in OpenHome manifest through the use of decentralized data 
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+<!-- synthesized: 2026-05-28T12:08:23Z -->
+```

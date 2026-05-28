@@ -1,21 +1,20 @@
-```markdown
----
-title: OpenHome
+```yaml
+title: OpenHome Platform
 entity_type: platform
 status: live
-last_updated: 2026-05-27
----
+last_updated: 2026-05-28
+```
 
-### what-it-is
-OpenHome is an open-source Voice AI platform that enables users to build conversational AI agents, referred to as Personalities. These agents can be customized and expanded with modular plugins known as Abilities, enhancing their interactivity and functional capabilities.
+# what-it-is
+OpenHome is an open-source Voice AI platform designed for building conversational AI agents, known as Personalities, which can be extended with modular voice plugins called Abilities.
 
-### how-it-works
-The OpenHome platform allows developers to create and customize AI agents by defining their voice, persona, and conversation style. Users can develop Abilities—modular voice plugins that enhance the agents with new skills such as API calls, music playback, device control, and game functionalities. These Abilities are activated through voice commands or hotwords during conversations. The platform includes tools such as the OpenHome Dashboard for agent configuration and a marketplace for exploring community-generated Abilities.
+# how-it-works
+The OpenHome platform allows users to create and configure their AI agents through a structured interface. Each Personality is crafted with a unique voice, persona, and conversation style. Users can enhance these agents by adding Abilities, which are plugins that add new skills such as calling APIs, playing music, running quizzes, and controlling smart home devices. Abilities are engaged via hotwords during voice interactions, allowing for dynamic and responsive user experiences. OpenHome provides tools such as the OpenHome Dashboard for setting up Personalities and the ability to explore community-created Abilities on platforms like GitHub.
 
-### current-status
+# current-status
 live
 
-### connects-to
+## connects-to
 [[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -23,5 +22,5 @@ live
 [[platform/local-link]]
 [[platform/marketplace]]
 [[platform/live-editor]]
-<!-- synthesized: 2026-05-27T12:03:30Z -->
-```
+
+<!-- synthesized: 2026-05-28T12:08:23Z -->

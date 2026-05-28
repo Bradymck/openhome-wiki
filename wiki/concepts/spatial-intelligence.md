@@ -1,27 +1,22 @@
-```markdown
----
+```yaml
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-05-27
----
+last_updated: 2026-05-28
+```
 
 ## definition
-Spatial intelligence refers to the capacity to visualize, manipulate, and understand spatial relationships in the environment. It is a key cognitive ability that allows individuals to comprehend and interpret the physical space around them, enabling effective navigation and interaction in our three-dimensional world.
+Spatial intelligence refers to the capability to visualize and manipulate spatial relationships and environments. It includes the ability to understand how objects occupy space, how they can be navigated, and how they relate to one another in a physical context.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is essential for enhancing how AI agents interact with users and their environments. By leveraging spatial awareness, AI can perform tasks more intuitively, such as recognizing where users are located and delivering contextually relevant information based on their spatial position.
+Spatial intelligence is crucial in the context of OpenHome as it enhances how users interact with their physical environments through AI-powered voice applications. By leveraging spatial intelligence, the platform can better interpret user commands that involve location and spatial dynamics, making interactions more intuitive and responsive.
 
 ## how-it-manifests
-Spatial intelligence can manifest in the OpenHome platform through features such as personalized responses based on the physical location of the user, the ability to manage smart home devices efficiently within the user's space, and interactions that respond to changes in spatial context (e.g., knowing when someone enters or leaves a room).
+In OpenHome, spatial intelligence may manifest in features that enable the smart home devices to understand and respond to the spatial arrangement of physical spaces. This includes recognizing voice commands that are contextually relevant to specific areas within a home, allowing for more tailored and effective control of smart devices. The integration of spatial intelligence could also facilitate the seamless navigation of users within augmented or virtual spaces.
 
 ## connects-to
+[[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
-[[concepts/abilities-as-apps]]
-[[concepts/dead-mans-switch]]
-[[concepts/web3-native]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
-```
+<!-- synthesized: 2026-05-28T12:08:23Z -->

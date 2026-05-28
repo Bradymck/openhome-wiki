@@ -1,29 +1,25 @@
-```markdown
----
-title: Roadmap
+```yaml
+title: Roadmap for OpenHome
 entity_type: roadmap/planned
-status: live
-last_updated: 2026-05-27
----
+status: in-progress
+last_updated: 2026-05-28
+```
 
 ## what-it-is
-OpenHome is an open-source Voice AI platform where developers can build conversational AI agents called Personalities and extend them with Abilities—modular voice plugins that add new skills. Currently, there is a roll-out of physical V0.1 development kits for top contributors to facilitate the building and testing of these agents.
+OpenHome is currently developing a new feature that will allow users to view their call logs, logs from the dashboard, and logs from the DevKit. This feature aims to enhance user experience by providing better insights into interactions and performance.
 
 ## status
-In-progress - The rollout of physical devkits and the introduction of a new feature that allows users to see their call logs, logs from the dashboard, Live editor, and devkit is in progress, with a definitive announcement expected once finalized.
+In-progress
 
 ## why-it-matters
-These features enhance the development experience and foster community contributions, ultimately aimed at making AI-powered, voice-first applications accessible to a wider audience. The physical devkits will help improve testing and feedback processes, promoting innovation and development speed within the OpenHome ecosystem.
+This feature is significant as it will enable developers and users to better troubleshoot issues and understand the behavior of their agents, improving the operational transparency of the OpenHome platform.
 
 ## eta
-The timeline for the full rollout of features and features like the call logs is currently not explicitly stated but will be announced in relevant channels once finalized.
+Timeline for rollout has not been specified, but it is actively under development.
 
 ## connects-to
-[[OpenHome]]
-[[Abilities]]
-[[DevKit]]
-[[Voice AI]]
-[[Community Contributions]]
+[[OpenHome]]  
+[[DevKit]]  
+[[Voice AI]]  
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
-```
+<!-- synthesized: 2026-05-28T12:08:23Z -->

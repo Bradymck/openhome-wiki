@@ -1,32 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/joyboyo42
 entity_type: builders
 status: stub
-last_updated: 2026-05-27
-```
+last_updated: 2026-05-28
+---
 
-## who-they-are
-Joyboyo42 is an active developer within the OpenHome community, focusing on the creation of conversational AI agents called Personalities. They are motivated to work on innovative applications that enhance user interactions with technology.
+### who-they-are
+Joyboyo42 is an active community builder involved in the OpenHome project, which is focused on creating open-source Voice AI platforms. Their contributions center around building conversational AI agents and extending their functionalities through Abilities.
 
-## what-they-built
-Joyboyo42 has designed an ability named "Space Window," which functions as a comprehensive sky alert system. This ability includes:
-- Alerts for ISS passes with rise direction, peak elevation, and duration.
-- Monitoring and alerts for aurora activity.
-- Countdown timers for upcoming rocket launches.
-- Daily morning briefings about sky events.
+### what-they-built
+While specific details on the shipped abilities or integrations by joyboyo42 are currently insufficient, they are participating actively in discussions around the improvement and development of Abilities within the OpenHome ecosystem.
 
-The ability is integrated to respond to various user queries concerning space events and launches.
-
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Unknown
-- GitHub: [joyboyo42's GitHub](https://github.com/openhome-dev/abilities/pull/272/commits)
-- X: Unknown
+### how-to-reach
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[abilities/space_window]]
-[[builders/openhome]]
+### connects-to
+[[OpenHome]]
+[[Conversational AI]]
+[[Abilities]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+<!-- synthesized: 2026-05-28T12:08:23Z -->
+```

@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: Grant Program
 entity_type: concepts/grant-program
 status: live
-last_updated: 2026-05-27
+last_updated: 2026-05-28
+---
+
+### definition
+The Grant Program is an initiative by OpenHome aimed at supporting developers and contributors who build innovative projects on the platform. It provides financial resources and physical development kits as incentives for high-quality contributions.
+
+### why-it-matters
+This program is essential for fostering community engagement and collaboration within the OpenHome ecosystem. By offering grants, OpenHome encourages the development of new capabilities and functionalities, ultimately enhancing the platform for all users.
+
+### how-it-manifests
+The Grant Program manifests through the distribution of V0.1 development kits to top contributors, along with financial support and promotional assistance for their projects. Developers can apply for these resources by demonstrating their contributions and engagement with the community, such as prototyping new abilities for the OpenHome system.
+
+### connects-to
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+
+<!-- synthesized: 2026-05-28T12:08:23Z -->
 ```
-
-## definition
-The Grant Program is an initiative within OpenHome designed to support developers and contributors by providing funding and resources for innovative projects that enhance the OpenHome platform.
-
-## why-it-matters
-This program is crucial for fostering creativity and innovation among developers, allowing them to explore new ideas and functionalities for the OpenHome ecosystem. It incentivizes contributions that improve the platform while also facilitating the growth of a vibrant community.
-
-## how-it-manifests
-The Grant Program manifests through the distribution of physical development kits (DevKits) and financial support for selected projects. Developers who actively contribute to the development of new Abilities or provide valuable feedback can apply for grants, thereby receiving resources that aid in their development efforts.
-
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-
-<!-- synthesized: 2026-05-27T12:03:30Z -->

@@ -1,26 +1,28 @@
-```yaml
+```markdown
+---
 title: platform/speakers
 entity_type: platform
-status: live
-last_updated: 2026-05-27
-```
+status: beta
+last_updated: 2026-05-28
+---
 
 ### what-it-is
-OpenHome Speakers are smart devices designed to operate within the OpenHome voice AI ecosystem by leveraging the platform's capabilities for voice interaction and modular abilities.
+OpenHome speakers are smart devices designed to work as part of the OpenHome ecosystem, supporting the integration of Voice AI and various functionalities to enhance user interaction with technology.
 
 ### how-it-works
-OpenHome Speakers function as local, AI-powered voice assistants that utilize the OpenHome platform. They allow users to create and interact with conversational AI agents known as Personalities. These devices can play music, manage smart home operations, and execute various tasks through the use of Abilities—modular plugins that enhance the speakers' functionalities. Each Ability can be triggered via voice commands, enabling users to perform actions such as controlling other smart devices or querying for information seamlessly.
+OpenHome speakers function as physical interfaces for users to interact with the OpenHome platform. They can be configured to recognize wake words and respond to voice commands, allowing users to engage with AI agents called Personalities. These speakers can play music, control smart home devices, and run custom applications through Abilities—plugins that provide specific skills and functions to the AI agents.
 
 ### current-status
-live
+beta
 
 ### connects-to
-[[platform/openhome]]  
-[[platform/abilities]]  
-[[platform/dashboard]]  
-[[platform/voice-ai]]  
-[[platform/local-link]]  
-[[platform/marketplace]]  
-[[platform/live-editor]]  
+[[platform/openhome]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/voice-ai]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+<!-- synthesized: 2026-05-28T12:08:23Z -->
+```

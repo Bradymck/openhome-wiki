@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: Dead Man's Switch
-entity_type: concepts
+entity_type: concepts/dead-mans-switch
 status: stub
-last_updated: 2026-05-27
+last_updated: 2026-05-28
+---
+
+### Definition
+A dead man's switch is a safety mechanism that is designed to automatically trigger a specific action or alert if a user fails to respond or interact for a certain period. This concept ensures that systems can continue to operate safely and within parameters defined by user interaction.
+
+### Why It Matters
+In the context of OpenHome, a dead man's switch can enhance user safety and interaction reliability. It can help prevent unauthorized access or harmful interactions if a user becomes incapacitated or unresponsive, thereby ensuring that the AI operates within safe limits and respects user intent.
+
+### How It Manifests
+The concept of a dead man's switch can be integrated into various features of OpenHome. It could take the form of an alert system within the platform that informs designated contacts if a user has not interacted with their voice assistant or devices for an extended period. This would be critical in scenarios where users rely on AI for assistance and presence in their daily activities.
+
+### Connects To
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+
+<!-- synthesized: 2026-05-28T12:08:23Z -->
 ```
-
-### definition
-A dead man's switch is a safety mechanism designed to prevent an operation from continuing without the presence of a human operator. If the operator fails to perform a specific action or does not respond within a set timeframe, the switch activates an automatic process, generally stopping or altering the operation.
-
-### why-it-matters
-In the context of OpenHome, the dead man's switch is relevant because it enhances reliability and safety in interactions with AI agents. This concept can ensure that critical tasks or commands can be halted or modified if a user becomes unresponsive, thereby safeguarding user privacy and preventing unintended actions.
-
-### how-it-manifests
-This concept may be implemented within OpenHome's platform through various functionalities that monitor user activity or engagement. For example, an AI agent could pause or cancel an ongoing task if it detects that the user has not provided input or interaction for a specified duration.
-
-### connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
-
-<!-- synthesized: 2026-05-27T12:03:30Z -->

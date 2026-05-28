@@ -1,32 +1,28 @@
 ```yaml
 title: jagatfx
 entity_type: builders
-status: live
-last_updated: 2026-05-27
+status: stub
+last_updated: 2026-05-28
 ```
 
 ## who-they-are
-Jagatfx is an active community builder engaged in developing voice AI capabilities through the OpenHome platform. They have a background in blockchain and AI, focusing on creating user-friendly applications that enhance daily interactions with technology.
+Jagatfx is part of the OpenHome community, focused on building and enhancing the OpenHome platform, a voice AI solution designed for creating conversational AI agents called Personalities. Their work contributes to integrating new functionalities into the platform to extend the capabilities of AI interactions.
 
 ## what-they-built
-Jagatfx has contributed a new ability called **Space Window**, which provides users with timely information about astronomical events. This ability includes:
-- Alerts for International Space Station (ISS) passes with details about timing and visibility.
-- Notifications for aurora activity based on the Kp index.
-- Countdown reminders for rocket launches.
-- A morning briefing of sky events for the day.
-Users can interact with the ability through various trigger phrases.
+Currently, specific abilities or integrations attributed to jagatfx are not detailed in the available information. However, they are involved in developing features such as modular voice plugins referred to as Abilities, which enhance the skills of AI agents.
 
 ## grant-status
-None
+none
 
 ## how-to-reach
-- **Discord handle**: Jagatfx
-- **GitHub**: [GitHub Profile](https://github.com/openhome-dev/abilities/pull/272/commits)
-- **Twitter**: Not provided
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-- [[builders]]
-- [[abilities]]
-- [[Space Window]]
+[[builders]]
+[[OpenHome]]
+[[Abilities]]
+[[Personality]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+<!-- synthesized: 2026-05-28T12:08:23Z -->

@@ -2,19 +2,19 @@
 title: Voice AI
 entity_type: platform/voice-ai
 status: live
-last_updated: 2026-05-27
+last_updated: 2026-05-28
 ```
 
-# what-it-is
-Voice AI is an integral component of the OpenHome platform, designed to enable the creation and management of conversational AI agents known as Personalities. These agents respond to user commands and can be enhanced with various skills through modular plugins called Abilities.
+## what-it-is
+OpenHome is an open-source Voice AI platform designed to facilitate the creation and interaction of conversational AI agents known as Personalities. Users can extend these agents' functionalities through modular voice plugins called Abilities.
 
-# how-it-works
-Voice AI functions by allowing developers to create personalized AI agents that embody unique voices, personas, and conversation styles. Users can define a Personality utilizing the OpenHome Dashboard and augment it with Abilities. These Abilities are activated by specific trigger phrases during voice interactions and can perform tasks such as fetching information, controlling smart devices, or interacting with third-party APIs. The platform supports local voice processing to ensure a responsive user experience.
+## how-it-works
+At its core, OpenHome allows developers to create a Personality that encompasses a defined voice, persona, and conversation style. Each Personality can be enhanced with various Abilities that enable it to perform specific tasks such as playing music, calling APIs, or controlling smart devices. Abilities are activated through hotwords detected during a voice interaction, allowing for seamless and intuitive user engagement. Developers can build their own agents using tools provided by OpenHome and share or explore community-generated Abilities through associated online resources.
 
-# current-status
+## current-status
 live
 
-# connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -23,4 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+<!-- synthesized: 2026-05-28T12:08:23Z -->

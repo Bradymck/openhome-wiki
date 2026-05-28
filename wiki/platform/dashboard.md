@@ -1,26 +1,25 @@
-```markdown
----
-title: platform/dashboard
-entity_type: platform
+```yaml
+title: Platform Dashboard
+entity_type: platform/dashboard
 status: live
-last_updated: 2026-05-27
----
+last_updated: 2026-05-28
+```
 
-## what-it-is
-The OpenHome Dashboard is a user interface that enables developers to create, manage, and customize AI agents known as Personalities, and their associated Abilities, enhancing interaction with voice AI applications.
+# what-it-is
+The OpenHome Dashboard is a user interface that allows developers and users to manage their AI agents (Personalities) and configure various abilities within the OpenHome ecosystem. It serves as a central management tool for users to oversee the functionalities of their voice AI agents.
 
-## how-it-works
-The Dashboard provides developers with tools to set up their AI agents, configure their characteristics (such as name and voice), and integrate various Abilities that afford the agents new functionalities. Abilities are modular voice plugins that can perform a range of tasks, from playing music to controlling smart home devices, and are activated during voice interactions. Developers can also access documentation and community contributions through the Dashboard, fostering a collaborative environment where users can explore and prototype their own ideas. 
+# how-it-works
+The Dashboard provides a graphical interface for users to create and customize their AI agents, including setting up their names, voices, and conversational styles. Users can also add modular components called Abilities, which are voice plugins that extend the capabilities of their agents. Through the Dashboard, users can track performance, edit configurations, and explore community-generated Abilities. Various settings related to the agents and their interactions can be managed seamlessly, allowing for an intuitive approach to development and user engagement.
 
-## current-status
+# current-status
 live
 
 ## connects-to
 [[platform/openhome]]
+[[platform/speakers]]
 [[platform/abilities]]
 [[platform/voice-ai]]
-[[platform/live-editor]]
 [[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
-```
+<!-- synthesized: 2026-05-28T12:08:23Z -->

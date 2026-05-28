@@ -1,24 +1,25 @@
 ```yaml
-title: Platform Marketplace
+title: platform/marketplace
 entity_type: platform/marketplace
-status: live
-last_updated: 2026-05-27
+status: stub
+last_updated: 2026-05-28
 ```
 
 ## what-it-is
-The Platform Marketplace is an integral component of the OpenHome ecosystem, enabling users to discover, share, and implement various voice AI applications and plugins called Abilities that enhance the functionality of conversational AI agents.
+OpenHome Marketplace is a component of the OpenHome platform that facilitates the distribution and discovery of various Abilities and Personalities developed by users and third-party developers. It serves as a centralized location where users can enhance their voice AI agents by accessing a wide range of pre-built functionalities.
 
 ## how-it-works
-The Marketplace facilitates the exploration and utilization of community-developed and proprietary Abilities. Users can browse through a catalog of Abilities, which are modular plugins that extend the capabilities of Personalities (voice AI agents). Each Ability can perform specific functions like playing music, querying APIs, or controlling smart home devices. Developers can submit their own Abilities, enabling others to fork, use, and provide feedback, thereby promoting a collaborative development environment.
+The Marketplace operates within the OpenHome ecosystem, allowing users to browse, fork, and integrate Abilities into their Personalities. Users can contribute their own creations, which are then made available for others to use. The platform encourages collaboration and innovation, enabling developers to enhance their AI agents with ease. Through the Marketplace, users can discover new skills and integrate them into their personal setups or applications with little to no complex configuration.
 
 ## current-status
-live
+stub
 
 ## connects-to
 [[platform/openhome]]
 [[platform/abilities]]
 [[platform/dashboard]]
 [[platform/voice-ai]]
+[[platform/local-link]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+<!-- synthesized: 2026-05-28T12:08:23Z -->

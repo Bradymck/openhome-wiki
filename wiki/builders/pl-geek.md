@@ -1,33 +1,27 @@
 ```yaml
 title: builders/pl-geek
-entity_type: builder
-status: live
-last_updated: 2026-05-27
+entity_type: builders
+status: stub
+last_updated: 2026-05-28
 ```
 
 ## who-they-are
-pl-geek is an active member of the OpenHome community with a background in blockchain and artificial intelligence. They are focused on developing proactive, intent-driven AI assistants that are capable of performing personal tasks while ensuring user privacy. Their work emphasizes accessibility and meaningful applications of AI for everyday users. 
+pl-geek is an active member of the OpenHome community, involved in building and enhancing voice AI applications. Their focus is on creating innovative solutions that leverage the OpenHome platform, which allows developers to build conversational AI agents called Personalities and extend these with Abilities.
 
 ## what-they-built
-pl-geek has shipped an ability called "Space Window" for the OpenHome platform. This ability allows users to receive alerts and information about celestial events, including:
-- Notifications for the International Space Station (ISS) passes.
-- Alerts for aurora activity based on the Kp index.
-- Countdown notifications for rocket launches.
-- A daily morning brief summarizing celestial occurrences.
-
-The ability can be triggered using various phrases such as "what's up tonight" or "aurora forecast".
+Details on specific projects or integrations by pl-geek are not available. However, they are part of a collective effort to contribute to the OpenHome ecosystem, where community members share ideas, prototypes, and abilities.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: pl-geek
-- GitHub: [pl-geek's GitHub](https://github.com/pl-geek)
-- X: [pl-geek's X](https://twitter.com/pl-geek)
+- Discord: Not specified
 
 ## connects-to
-- [[builders]]
-- [[abilities]]
-- [[OpenHome]]
+[[builders]]
+[[OpenHome]]
+[[Personalities]]
+[[Abilities]]
+[[Voice AI]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+<!-- synthesized: 2026-05-28T12:08:23Z -->

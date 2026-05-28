@@ -1,31 +1,27 @@
-```markdown
----
-title: builders/pmckelvy
-entity_type: builders/
-status: live
-last_updated: 2026-05-27
----
+```yaml
+title: pmckelvy
+entity_type: builders
+status: stub
+last_updated: 2026-05-28
+```
 
-### who-they-are
-Pmckelvy is an active community builder involved in OpenHome, a platform designed for creating AI-driven conversational agents. Pmckelvy has experience in blockchain and AI technologies, focusing on developing user-friendly AI applications for everyday use.
+## who-they-are
+pmckelvy is a community builder associated with the OpenHome project. They have experience in the blockchain space and are interested in developing AI technologies, specifically focusing on creating proactive and intent-driven AI personal assistants.
 
-### what-they-built
-Pmckelvy has created a voice plugin called **Space Window**, which provides users with astronomical information. This Ability alerts users about upcoming satellite passes (like the ISS), monitors aurora forecasts based on geographic location, and informs users about rocket launches. It also offers daily briefings on astronomical events.
+## what-they-built
+As of now, specific abilities or integrations built by pmckelvy have not been detailed. Their involvement with OpenHome hints at contributions to AI agents and voice applications, possibly through community collaborations.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: pmckelvy
-- GitHub: [pmckelvy](https://github.com/pmckelvy)
-- X: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X (formerly Twitter): Not specified
 
-### connects-to
+## connects-to
 [[builders]]
-[[abilities/Space_Window]]
-[[abilities]]
 [[OpenHome]]
-[[developer_docs]]
+[[AI Personal Assistants]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
-```
+<!-- synthesized: 2026-05-28T12:08:23Z -->

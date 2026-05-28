@@ -1,26 +1,26 @@
 ```markdown
 ---
-title: "sagarjethi"
-entity_type: "guides/"
-status: "stub"
-last_updated: 2026-05-27
+title: Sagarjethi
+entity_type: guides
+status: live
+last_updated: 2026-05-28
 ---
 
-### who-they-are
-Sagarjethi is a power user of the OpenHome platform, contributing through the development of abilities and engaging with the community to enhance user experience.
+## who-they-are
+Sagarjethi is a knowledgeable power user within the OpenHome community, contributing to discussions and assisting others in the development of AI-powered voice applications.
 
-### what-they-help-with
-Sagarjethi specializes in building voice AI agents called Personalities, along with various modular voice plugins known as Abilities. Their work involves creating interactive experiences that enhance how users engage with technology through voice interactions.
+## what-they-help-with
+Sagarjethi specializes in helping users set up and troubleshoot their OpenHome DevKit devices. They provide guidance on creating AI agents and integrating various abilities, focusing on improving user experience in voice AI technology. Their expertise includes understanding the technical aspects of device capabilities, API interactions, and debugging issues related to agent responsiveness.
 
-### how-to-reach
-Discord handle: sagarjethi
+## how-to-reach
+Sagarjethi can be reached on Discord.
 
-### connects-to
+## connects-to
+[[guides]]
 [[OpenHome]]
-[[Voice AI]]
-[[Community Guides]]
+[[DevKit]]
 [[Abilities]]
-[[Personalities]]
-
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+[[Voice AI]]
+[[AI Development]]
+<!-- synthesized: 2026-05-28T12:08:23Z -->
 ```

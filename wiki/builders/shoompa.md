@@ -1,32 +1,32 @@
 ```markdown
 ---
-title: builders/shoompa
+title: Shoompa
 entity_type: builders
-status: live
-last_updated: 2026-05-27
+status: stub
+last_updated: 2026-05-28
 ---
 
 ### who-they-are
-Shoompa is a community builder involved in developing AI-powered applications using OpenHome, focusing on creating useful functionalities for the everyday user. With a background in consumer products and experiences in hospitality and travel, Shoompa is dedicated to advancing the capabilities of AI in manageable ways for the general public.
+Shoompa is a developer engaged in creating voice AI applications within the OpenHome community. Their focus is on building innovative solutions that enhance user interaction with technology through AI-powered voice agents.
 
 ### what-they-built
-Shoompa has shipped an ability called "Space Window," which simplifies accessing astronomical information from a single voice command. This ability includes features such as:
-- Alerts for International Space Station (ISS) passes, including rise direction and peak elevation.
-- Notifications for aurora visibility based on geographic latitude.
-- Countdown to rocket launches with advance alerts.
-- Daily morning briefings with nighttime sky events.
-This ability can be triggered using phrases like "what's up tonight" or "aurora forecast."
+Information regarding specific abilities or integrations that Shoompa has shipped is currently unavailable. As a participant in the OpenHome ecosystem, they are likely involved in the development and prototyping of voice-friendly applications and plugins.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Shoompa
-- GitHub: [github.com/openhome-dev/abilities](https://github.com/openhome-dev/abilities)
-- X: [@Shoompa](https://x.com/Shoompa)
+- Discord: Unknown
+- GitHub: Unknown
+- X: Unknown
 
 ## connects-to
-[[abilities/Space_Window]]
+[[builders]]
+[[OpenHome]]
+[[voice AI]]
+[[Abilities]]
+[[devkit]]
+[[Personalities]]
 
-<!-- synthesized: 2026-05-27T12:03:30Z -->
+<!-- synthesized: 2026-05-28T12:08:23Z -->
 ```
