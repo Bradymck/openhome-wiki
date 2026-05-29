@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-05-28
-```
+last_updated: 2026-05-29
+---
 
 ## definition
-Voice-first refers to an approach in technology where voice interaction becomes the primary mode of communication between users and devices. In the context of OpenHome, this means that users interact primarily through spoken commands, allowing for a more intuitive and hands-free experience.
+Voice-first refers to a design paradigm in which voice interaction is prioritized as the primary mode of engaging with technology, particularly in applications involving artificial intelligence (AI). This approach emphasizes the use of voice commands, enabling users to interact with systems in a more natural and intuitive manner, bypassing traditional interfaces like keyboards or touchscreens.
 
 ## why-it-matters
-Voice-first technology is critical to OpenHome's mission of making AI-powered applications accessible and user-friendly. It fosters a more natural interaction model, enhancing user engagement and accessibility, particularly for individuals who may have difficulty using traditional input methods like keyboards or touchscreens.
+In the context of OpenHome, voice-first is essential for creating immersive, intuitive, and human-like interactions. OpenHome aims to revolutionize user experiences with AI-powered voice applications, making it easier for users to connect with their devices and access services simply by using their voice.
 
 ## how-it-manifests
-In the OpenHome platform, voice-first is manifested through the development of Personalities, which are AI agents designed to understand and respond to user voice commands. These Personalities utilize modular Abilities that can be triggered by voice interactions, allowing for various functionalities, from playing music to controlling smart home devices.
+This concept manifests in OpenHome through the development of Personalities—custom AI agents designed for voice interaction. Personalities utilize Abilities, which are modular voice plugins that enable various tasks and functionalities, such as calling APIs, playing music, or controlling smart home devices. Voice-first capabilities are activated through hotwords during conversations, facilitating a seamless and engaging interaction between users and their AI agents.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ In the OpenHome platform, voice-first is manifested through the development of P
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
+```

@@ -1,30 +1,31 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builder
+entity_type: community_builder
 status: stub
-last_updated: 2026-05-28
+last_updated: 2026-05-29
 ---
 
 ### who-they-are
-Slowjamsteve is an active community member engaged in the OpenHome project, contributing to the development of AI-powered voice applications and technologies within the platform. They focus on building innovative solutions that enhance user interactions with technology.
+SlowJamSteve is an AI Automation Engineer focused on building practical AI agents and automation workflows. He has experience working with various technologies such as n8n, LangChain, Langflow, Vapi, and OpenAI. His expertise encompasses creating RAG systems, voice agents, CRM automations, and data pipelines, typically reducing manual work by around 60%. 
 
 ### what-they-built
-Details about specific abilities or integrations built by Slowjamsteve are currently unknown. They may be involved in prototype projects or discussions related to expanding the functionality of OpenHome's AI agents, but no concrete contributions have been documented at this time.
+While SlowJamSteve has not yet built public OpenHome abilities, he has worked on similar AI and real-time integrations and has delivered over 20 projects, emphasizing fast delivery and good communication.
 
 ### grant-status
-unknown
+none
 
 ### how-to-reach
-Discord: Not specified  
-GitHub: Not specified  
-X: Not specified  
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ### connects-to
-[[openhome]]  
-[[abilities]]  
-[[devkit]]  
-[[voice AI]]  
+[[builders]]
+[[OpenHome]]
+[[Voice AI]]
+[[AI Automation]]
+[[Integration Technologies]]
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
 ```

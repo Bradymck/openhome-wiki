@@ -2,25 +2,25 @@
 ---
 title: guides/voidsshadows
 entity_type: Community Guide
-status: stub
-last_updated: 2026-05-28
+status: live
+last_updated: 2026-05-29
 ---
 
-### who-they-are
-Voidsshadows is a contributor within the OpenHome community, recognized for their engagement and contributions to discussions related to AI, voice interactions, and technology development.
+## who-they-are
+Voidsshadows is an AI Automation Engineer with expertise in building practical AI agents and automation workflows. They have extensive experience with tools such as n8n, LangChain, Langflow, Vapi, and OpenAI.
 
-### what-they-help-with
-Voidsshadows specializes in providing insights and assistance in the development of AI voice applications, particularly using the OpenHome platform. They have expertise in building conversational AI agents and understand the integration of various abilities and functionalities.
+## what-they-help-with
+Voidsshadows specializes in creating RAG (Retrieval-Augmented Generation) systems, voice agents, CRM automations, and data pipelines. They focus on reducing manual work significantly, achieving reductions of around 60%, and have delivered over 20 projects effectively.
 
-### how-to-reach
-Discord Handle: not provided in the source material.
+## how-to-reach
+Discord handle: Not specifically mentioned.
 
-### connects-to
-[[guides]]
-[[OpenHome]]
-[[Abilities]]
-[[AI Development]]
-[[Community Support]]
+## connects-to
+[[guides/]]
+[[community/]]
+[[AI_Automation_Engineering/]]
+[[OpenHome/]]
+[[Voice_AI/]]
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z --> 
 ```

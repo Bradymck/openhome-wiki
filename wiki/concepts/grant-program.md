@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/grant-program
+entity_type: concepts
 status: live
-last_updated: 2026-05-28
+last_updated: 2026-05-29
 ---
 
 ### definition
-The Grant Program is an initiative by OpenHome aimed at supporting developers and contributors who build innovative projects on the platform. It provides financial resources and physical development kits as incentives for high-quality contributions.
+The Grant Program in OpenHome is an initiative designed to provide support, resources, and funding to developers and contributors who create innovative projects or enhance existing ones within the OpenHome ecosystem.
 
 ### why-it-matters
-This program is essential for fostering community engagement and collaboration within the OpenHome ecosystem. By offering grants, OpenHome encourages the development of new capabilities and functionalities, ultimately enhancing the platform for all users.
+This program is crucial for fostering community engagement and innovation. By incentivizing contributions through grants and support, OpenHome aims to empower developers to build applications that align with its vision of voice-first technology and enhance user interaction with devices.
 
 ### how-it-manifests
-The Grant Program manifests through the distribution of V0.1 development kits to top contributors, along with financial support and promotional assistance for their projects. Developers can apply for these resources by demonstrating their contributions and engagement with the community, such as prototyping new abilities for the OpenHome system.
+The Grant Program is particularly evident in the distribution of physical development kits (DevKits) to top contributors. Developers who actively prototype new abilities for the OpenHome platform can receive these kits as part of their involvement. The program encourages developers to share their projects, explore community-driven enhancements, and ultimately have their work promoted within the OpenHome community.
 
 ### connects-to
 - [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ The Grant Program manifests through the distribution of V0.1 development kits to
 - [[concepts/dead-mans-switch]]
 - [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
 ```

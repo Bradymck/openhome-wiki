@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: web3-native
-entity_type: concepts/
+title: Web3 Native
+entity_type: concepts/web3-native
 status: stub
-last_updated: 2026-05-28
+last_updated: 2026-05-29
 ---
 
 ### definition
-Web3-native refers to applications, services, or platforms that are built on decentralized technologies, primarily using blockchain and smart contracts, to create trustless and peer-to-peer interactions.
+Web3 Native refers to applications and platforms that are built on decentralized technologies, enabling users to engage directly with digital assets, data, and services without intermediaries. This concept embodies the principles of decentralized ownership, peer-to-peer interactions, and user empowerment.
 
 ### why-it-matters
-In the context of OpenHome, embracing a web3-native approach enhances the platform's capabilities by allowing developers to create decentralized applications (dApps) that prioritize user control, transparency, and privacy. This aligns with OpenHome’s mission to empower users with AI-driven technology that respects their autonomy and fosters community-driven development.
+In the context of OpenHome, being Web3 Native is significant as it enhances transparency, data ownership, and user control over personal interactions within the platform. It aligns with OpenHome’s mission to revolutionize technology interaction by leveraging decentralized systems.
 
 ### how-it-manifests
-Web3-native features in OpenHome can be realized through the integration of decentralized identity management, user-owned data storage solutions, and smart contracts that automate capabilities within the platform. This could lead to new functionalities like ownership of digital assets and secure interactions among users and devices.
+The Web3 Native concept in OpenHome may manifest through features that allow users to control their data, utilize decentralized finance (DeFi) capabilities, or engage with decentralized identity solutions. Although specific implementations within OpenHome are yet to be detailed, the foundation for Web3 functionalities is integral to the platform's evolution.
 
 ### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
 ```

@@ -1,25 +1,26 @@
-```yaml
-title: platform/marketplace
-entity_type: platform/marketplace
-status: stub
-last_updated: 2026-05-28
-```
+```markdown
+---
+title: "OpenHome Marketplace"
+entity_type: "platform/marketplace"
+status: "stub"
+last_updated: 2026-05-29
+---
 
-## what-it-is
-OpenHome Marketplace is a component of the OpenHome platform that facilitates the distribution and discovery of various Abilities and Personalities developed by users and third-party developers. It serves as a centralized location where users can enhance their voice AI agents by accessing a wide range of pre-built functionalities.
+### what-it-is
+The OpenHome Marketplace is a platform component that allows users to discover, share, and deploy various voice applications and abilities created by the community and developers leveraging OpenHome's voice AI technology.
 
-## how-it-works
-The Marketplace operates within the OpenHome ecosystem, allowing users to browse, fork, and integrate Abilities into their Personalities. Users can contribute their own creations, which are then made available for others to use. The platform encourages collaboration and innovation, enabling developers to enhance their AI agents with ease. Through the Marketplace, users can discover new skills and integrate them into their personal setups or applications with little to no complex configuration.
+### how-it-works
+Currently, the specifics of the OpenHome Marketplace's functionality and features are not detailed in the existing documentation. It is anticipated to function as a hub for users to access a variety of voice applications and integrate them into their OpenHome experiences, promoting collaboration and sharing among developers and users alike.
 
-## current-status
+### current-status
 stub
 
-## connects-to
+### connects-to
 [[platform/openhome]]
 [[platform/abilities]]
 [[platform/dashboard]]
 [[platform/voice-ai]]
 [[platform/local-link]]
 [[platform/live-editor]]
-
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
+```

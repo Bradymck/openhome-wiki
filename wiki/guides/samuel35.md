@@ -1,23 +1,23 @@
 ```yaml
 title: guides/samuel35
 entity_type: Community Guide
-status: stub
-last_updated: 2026-05-28
+status: live
+last_updated: 2026-05-29
 ```
 
 ## who-they-are
-Samuel35 is recognized as a power user within the OpenHome community, contributing to the onboarding process of other users through guidance and support.
+Samuel35 is an AI Automation Engineer with a focus on building practical AI agents and automation workflows. They have significant experience in AI-assisted development and social platform infrastructure.
 
 ## what-they-help-with
-Samuel35 specializes in helping developers and users interact with the OpenHome platform, including the setup and implementation of personal AI agents and their associated abilities. Their expertise includes understanding the OpenHome system, assisting with devkit troubleshooting, and providing insights on utilizing the API for voice applications.
+Samuel35 specializes in creating voice agents, CRM automations, data pipelines, and various AI applications using tools such as n8n, LangChain, Langflow, Vapi, and OpenAI. They have delivered over 20 projects and are known for fast delivery and effective communication.
 
 ## how-to-reach
-Samuel35 can be contacted via their Discord handle.
+Samuel35 can be reached via Discord.
 
 ## connects-to
-[[openhome]]
-[[devkit]]
-[[abilities]]
-[[personality]]
-[[voice AI]]
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+[[OpenHome]]
+[[AI Automation]]
+[[Voice AI]]
+[[CRM Automations]]
+
+<!-- synthesized: 2026-05-29T12:01:54Z -->

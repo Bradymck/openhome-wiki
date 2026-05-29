@@ -1,32 +1,27 @@
-```markdown
----
-title: Shoompa
+```yaml
+title: builders/shoompa
 entity_type: builders
-status: stub
-last_updated: 2026-05-28
----
+status: live
+last_updated: 2026-05-29
+```
 
-### who-they-are
-Shoompa is a developer engaged in creating voice AI applications within the OpenHome community. Their focus is on building innovative solutions that enhance user interaction with technology through AI-powered voice agents.
+## who-they-are
+Shoompa is an AI Automation Engineer focused on building practical AI agents and automation workflows. They have experience with various technologies, including n8n, LangChain, Langflow, Vapi, and OpenAI, aiming to create systems such as voice agents and CRM automations. Shoompa specializes in reducing manual work by around 60% through efficient AI-assisted development.
 
-### what-they-built
-Information regarding specific abilities or integrations that Shoompa has shipped is currently unavailable. As a participant in the OpenHome ecosystem, they are likely involved in the development and prototyping of voice-friendly applications and plugins.
+## what-they-built
+Shoompa has worked on several public projects, including the development of AI-assisted tools and real-time integrations. Although specific OpenHome abilities have not been publicly documented, their work includes creating voice agents and automation workflows suited for various applications.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Unknown
-- GitHub: Unknown
-- X: Unknown
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
+[[AI Agents]]
+[[Automation Workflows]]
 [[OpenHome]]
-[[voice AI]]
-[[Abilities]]
-[[devkit]]
-[[Personalities]]
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
-```
+<!-- synthesized: 2026-05-29T12:01:54Z -->

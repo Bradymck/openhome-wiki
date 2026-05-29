@@ -1,27 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/freshdelii
-entity_type: builders
+entity_type: community builder
 status: stub
-last_updated: 2026-05-28
-```
+last_updated: 2026-05-29
+---
 
-## who-they-are
-FreshDelii is part of the OpenHome community aimed at revolutionizing voice AI technology. They focus on building conversational AI agents enhanced with various abilities that improve interaction capabilities.
+### who-they-are
+FreshDelii is an AI Automation Engineer focused on developing practical AI agents and automation workflows. They leverage various technologies including n8n, LangChain, Langflow, Vapi, and OpenAI to create Retrieval-Augmented Generation (RAG) systems, voice agents, CRM automations, and data pipelines. Their work aims to reduce manual processes significantly.
 
-## what-they-built
-Details on specific abilities or integrations built by FreshDelii are currently not available.
+### what-they-built
+FreshDelii has delivered over 20 projects, focusing on creating AI agents and automation workflows. However, there are no specific public OpenHome abilities or integrations mentioned yet. Their experience indicates a strong ability in AI-assisted development and social platform infrastructure.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
-## connects-to
-[[OpenHome]]  
-[[Voice AI]]  
-[[Conversational AI Agents]]
+### connects-to
+[[openhome]]
+[[ai_agents]]
+[[automation_workflows]]
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
+```

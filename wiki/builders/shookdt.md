@@ -1,27 +1,31 @@
-```yaml
-title: Shookdt
-entity_type: builders
-status: stub
-last_updated: 2026-05-28
-```
+```markdown
+---
+title: builders/shookdt
+entity_type: builder
+status: live
+last_updated: 2026-05-29
+---
 
-## who-they-are
-Shookdt is an active community builder involved with OpenHome, an open-source Voice AI platform that focuses on building conversational AI agents. They are part of the movement to revolutionize how users interact with technology through voice-first applications.
+### who-they-are
+Shookdt is an AI Automation Engineer with a focus on building practical AI agents and automation workflows. They have experience in AI-assisted development and social platform infrastructure.
 
-## what-they-built
-Details regarding specific abilities or integrations developed by Shookdt have not been provided in the available data.
+### what-they-built
+Shookdt has worked on various AI projects, delivering over 20 projects that include voice agents, CRM automation, data pipelines, and RAG (Retrieval-Augmented Generation) systems. Their contributions typically reduce manual work by around 60%. They also engage in building with OpenHome's Voice AI platform and are capable of creating agents and integrating various abilities.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+### how-to-reach
+- Discord: @shookdt
+- GitHub: [shookdt](https://github.com/shookdt)
+- X: Not specified
 
-## connects-to
-[[builders]]  
-[[OpenHome]]  
-[[Abilities]]  
+### connects-to
+[[builders]]
+[[OpenHome]]
+[[voice agents]]
+[[AI automation]]
+[[RAG systems]]
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
+```

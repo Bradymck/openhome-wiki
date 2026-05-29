@@ -1,24 +1,25 @@
 ```markdown
 ---
-title: "guides/discomelon"
-entity_type: "Community Guides"
-status: "stub"
-last_updated: 2026-05-28
+title: guides/discomelon
+entity_type: community_guide
+status: stub
+last_updated: 2026-05-29
 ---
 
 ### who-they-are
-Discomelon is a knowledgeable member of the OpenHome community with a background in AI and technology, particularly focused on voice AI applications and development.
+Discomelon is an AI Automation Engineer with a focus on building practical AI agents and automation workflows. They have extensive experience in AI-assisted development and social platform infrastructure.
 
 ### what-they-help-with
-Discomelon specializes in providing assistance to users looking to build and troubleshoot AI-powered voice applications within the OpenHome ecosystem, including guidance on creating "Personalities" and integrating "Abilities".
+Discomelon specializes in creating Reliable AI Generative (RAG) systems, voice agents, and CRM automations using tools such as n8n, LangChain, Langflow, Vapi, and OpenAI. They are skilled in developing automation workflows that significantly reduce manual work by approximately 60% and have delivered over 20 projects efficiently.
 
 ### how-to-reach
-You can connect with Discomelon on Discord.
+Discord handle: `<@502708633327632385>`
 
 ### connects-to
-[[guides/openhome]]  
-[[guides/abilities]]  
-[[guides/personalities]]  
+[[OpenHome]]
+[[AI Automation]]
+[[Voice Agents]]
+[[CRM Automations]]
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
 ```

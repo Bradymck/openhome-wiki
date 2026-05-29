@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: team/peej
+title: Peej
 entity_type: team
 status: stub
-last_updated: 2026-05-28
+last_updated: 2026-05-29
 ---
 
 ### who-they-are
-Peej is a core member of the OpenHome team. Information about their specific role and background is currently unavailable.
+Peej is an AI Automation Engineer at OpenHome, focused on building practical AI agents and automation workflows. They have experience in AI-assisted development and integration with social platforms.
 
 ### what-they-own
-Details regarding the specific areas of the platform that Peej leads are not provided at this time.
+Peej leads projects related to building automation workflows using tools like n8n, LangChain, Langflow, Vapi, and OpenAI to create conversational agents, CRM automations, and data pipelines.
 
 ### how-to-reach
-Peej's contact information, including Discord handle or social media, is not currently accessible.
+Peej can be reached via Discord.
 
-## connects-to
-[[team/jesse]]
-[[team/shannon]]
+### connects-to
+- [[team/jesse]]
+- [[team/shannon]]
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
 ```

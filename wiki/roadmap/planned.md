@@ -1,25 +1,26 @@
-```yaml
-title: Roadmap for OpenHome
-entity_type: roadmap/planned
-status: in-progress
-last_updated: 2026-05-28
-```
+```markdown
+---
+title: roadmap/planned
+entity_type: roadmap
+status: planned
+last_updated: 2026-05-29
+---
 
 ## what-it-is
-OpenHome is currently developing a new feature that will allow users to view their call logs, logs from the dashboard, and logs from the DevKit. This feature aims to enhance user experience by providing better insights into interactions and performance.
+OpenHome is planning to roll out a new feature where every user will be able to see their call logs, logs from the dashboard, Live editor, and DevKit.
 
 ## status
-In-progress
+Planned
 
 ## why-it-matters
-This feature is significant as it will enable developers and users to better troubleshoot issues and understand the behavior of their agents, improving the operational transparency of the OpenHome platform.
+This feature will enhance user experience by providing visibility into interaction history and logs, which can help in troubleshooting and improving user engagement.
 
 ## eta
-Timeline for rollout has not been specified, but it is actively under development.
+No specific timeline has been provided for the rollout of this new feature.
 
 ## connects-to
-[[OpenHome]]  
-[[DevKit]]  
-[[Voice AI]]  
-
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+[[OpenHome]]
+[[DevKit]]
+[[Voice AI]]
+<!-- synthesized: 2026-05-29T12:01:54Z -->
+```

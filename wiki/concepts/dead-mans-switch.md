@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: Dead Man's Switch
-entity_type: concepts/dead-mans-switch
-status: stub
-last_updated: 2026-05-28
+title: "Dead Man's Switch"
+entity_type: "concepts/"
+status: "stub"
+last_updated: 2026-05-29
 ---
 
-### Definition
-A dead man's switch is a safety mechanism that is designed to automatically trigger a specific action or alert if a user fails to respond or interact for a certain period. This concept ensures that systems can continue to operate safely and within parameters defined by user interaction.
+### definition
+A dead man's switch is a safety mechanism designed to automatically disable or trigger an action in the absence of human input. It is often employed to ensure that a process will stop if the operator can no longer maintain control.
 
-### Why It Matters
-In the context of OpenHome, a dead man's switch can enhance user safety and interaction reliability. It can help prevent unauthorized access or harmful interactions if a user becomes incapacitated or unresponsive, thereby ensuring that the AI operates within safe limits and respects user intent.
+### why-it-matters
+In the context of OpenHome, the dead man's switch concept is crucial for ensuring the safety and reliability of automated voice AI agents. It provides a fail-safe mechanism that protects users and systems from unintended actions or malfunctions, particularly in scenarios where the AI has control over critical functions of smart devices.
 
-### How It Manifests
-The concept of a dead man's switch can be integrated into various features of OpenHome. It could take the form of an alert system within the platform that informs designated contacts if a user has not interacted with their voice assistant or devices for an extended period. This would be critical in scenarios where users rely on AI for assistance and presence in their daily activities.
+### how-it-manifests
+While specific implementations in OpenHome have not yet been detailed, the dead man's switch concept could manifest in voice AI agents designed to monitor user engagement. For instance, if an agent detects inactivity or a lack of user input over a designated period, it might disable access to certain functions or revert to a safe state, ensuring user safety and reducing risks associated with unattended operations.
 
-### Connects To
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
 ```

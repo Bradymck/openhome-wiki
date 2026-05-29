@@ -1,28 +1,29 @@
-```yaml
-title: jagatfx
-entity_type: builders
-status: stub
-last_updated: 2026-05-28
-```
+```markdown
+---
+title: builders/jagatfx
+entity_type: builder
+status: live
+last_updated: 2026-05-29
+---
 
 ## who-they-are
-Jagatfx is part of the OpenHome community, focused on building and enhancing the OpenHome platform, a voice AI solution designed for creating conversational AI agents called Personalities. Their work contributes to integrating new functionalities into the platform to extend the capabilities of AI interactions.
+JagatFX is an AI Automation Engineer focused on building practical AI agents and automation workflows. Their experience includes working with technologies like n8n, LangChain, Langflow, Vapi, and OpenAI to develop responsive and efficient systems that reduce manual work significantly.
 
 ## what-they-built
-Currently, specific abilities or integrations attributed to jagatfx are not detailed in the available information. However, they are involved in developing features such as modular voice plugins referred to as Abilities, which enhance the skills of AI agents.
+JagatFX has contributed to the development of AI-assisted agents and real-time integrations, with a portfolio that includes over 20 completed projects. Their contributions align with building modular voice plugins (Abilities) on the OpenHome platform.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+Discord handle: @jagatfx  
+GitHub: [jagatfx](https://github.com/jagatfx)  
+X: Not specified
 
 ## connects-to
-[[builders]]
-[[OpenHome]]
-[[Abilities]]
-[[Personality]]
-
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+[[OpenHome]]  
+[[AI Agents]]  
+[[Automation Workflows]]  
+[[Voice Plugins]]
+<!-- synthesized: 2026-05-29T12:01:54Z -->
+```

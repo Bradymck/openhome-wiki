@@ -2,25 +2,24 @@
 ---
 title: guides/franci
 entity_type: Community Guide
-status: stub
-last_updated: 2026-05-28
+status: live
+last_updated: 2026-05-29
 ---
 
 ### who-they-are
-Franci is a knowledgeable member of the OpenHome community, involved in the development and enhancement of voice AI applications. They have a background in AI technologies and a strong interest in creating accessible voice-first applications.
+Franci is an experienced AI Automation Engineer specializing in building practical AI agents and automation workflows. With expertise in various tools like n8n, LangChain, Langflow, Vapi, and OpenAI, Franci has delivered over 20 projects with a focus on enhancing efficiency in development processes.
 
 ### what-they-help-with
-Franci specializes in assisting users with building and integrating AI-driven personalities and abilities within OpenHome's platform. Their expertise includes the system's functionalities, troubleshooting, and providing guidance on development tools.
+Franci's specialties include creating RAG (Retrieval-Augmented Generation) systems, voice agents, CRM automations, and data pipelines. They are well-versed in integrating AI with real-time systems, facilitating automation that significantly reduces manual work, often by around 60%. While they have not yet built public OpenHome abilities, their background in similar AI and integration projects makes them a valuable resource for assistance and advice in these areas.
 
 ### how-to-reach
-Discord handle: `franci`
+Discord handle: `<@502708633327632385>`
 
 ### connects-to
-[[openhome]]
-[[devkit]]
-[[abilities]]
-[[AI]]
-[[Voice AI]]
-[[Community Guides]]
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+- [[OpenHome]]
+- [[AI Automation]]
+- [[Voice AI Agents]]
+- [[Community Guides]]
+
+<!-- synthesized: 2026-05-29T12:01:54Z -->
 ```

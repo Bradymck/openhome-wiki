@@ -1,21 +1,26 @@
-```yaml
+```markdown
+---
 title: Abubakar
 entity_type: team
 status: stub
-last_updated: 2026-05-28
+last_updated: 2026-05-29
+---
+
+### who-they-are
+Abubakar is an AI Automation Engineer focused on building practical AI agents and automation workflows. He has a background in AI-assisted development and social platform infrastructure.
+
+### what-they-own
+Abubakar leads projects related to the development of voice agents and automation systems using technologies like n8n, LangChain, Langflow, Vapi, and OpenAI.
+
+### how-to-reach
+Discord: Not provided  
+X/Twitter: Not provided  
+Preferred contact: Not provided
+
+### connects-to
+[[team/jesse]]  
+[[team/shannon]]  
+[[team/abubakar/abilities]]  
+
+<!-- synthesized: 2026-05-29T12:01:54Z -->
 ```
-
-## who-they-are
-Abubakar is a core member of the OpenHome team, involved in the development of the platform and its AI capabilities.
-
-## what-they-own
-Abubakar leads initiatives related to the integration of modular voice plugins (Abilities) and works on enhancing the AI framework within OpenHome. His focus is on improving user interaction and expanding the functionalities that AI agents can support.
-
-## how-to-reach
-Abubakar can be reached on Discord.
-
-## connects-to
-- [[team/jesse]]
-- [[team/shannon]]
-
-<!-- synthesized: 2026-05-28T12:08:23Z -->

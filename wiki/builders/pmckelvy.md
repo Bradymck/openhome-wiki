@@ -1,27 +1,29 @@
-```yaml
-title: pmckelvy
-entity_type: builders
-status: stub
-last_updated: 2026-05-28
-```
+```markdown
+---
+title: builders/pmckelvy
+entity_type: builders/
+status: live
+last_updated: 2026-05-29
+---
 
-## who-they-are
-pmckelvy is a community builder associated with the OpenHome project. They have experience in the blockchain space and are interested in developing AI technologies, specifically focusing on creating proactive and intent-driven AI personal assistants.
+### who-they-are
+Pmckelvy is an AI Automation Engineer focused on building practical AI agents and automation workflows. They have experience with various technologies including n8n, LangChain, Langflow, Vapi, and OpenAI, creating systems that reduce manual work by around 60%.
 
-## what-they-built
-As of now, specific abilities or integrations built by pmckelvy have not been detailed. Their involvement with OpenHome hints at contributions to AI agents and voice applications, possibly through community collaborations.
+### what-they-built
+Pmckelvy has worked on AI-assisted development and social platform infrastructure, delivering over 20 projects. They build automation workflows, CRM automations, and data pipelines, although they have not yet released any official Open Home abilities.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X (formerly Twitter): Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[OpenHome]]
-[[AI Personal Assistants]]
+- [[OpenHome]]
+- [[AI Agents]]
+- [[Automation Workflows]]
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
+```

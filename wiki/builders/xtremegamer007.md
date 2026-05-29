@@ -1,27 +1,28 @@
 ```yaml
-title: XtremeGamer007
-entity_type: builders/
-status: stub
-last_updated: 2026-05-28
+title: builders/xtremegamer007
+entity_type: builders
+status: live
+last_updated: 2026-05-29
 ```
 
 ## who-they-are
-XtremeGamer007 is part of the OpenHome community, which focuses on building conversational AI agents called Personalities. They are involved in extending these agents with Abilities, which are modular voice plugins that enhance the agents’ functionalities.
+XtremeGamer007 is an AI Automation Engineer focused on developing practical AI agents and automation workflows. They have experience working with tools and frameworks such as n8n, LangChain, Langflow, Vapi, and OpenAI to create systems like RAG (Retrieval-Augmented Generation), voice agents, CRM automations, and data pipelines. Their expertise typically reduces manual work involved in various processes by around 60%.
 
 ## what-they-built
-As of the latest update, specific details about the exact Abilities or contributions made by XtremeGamer007 are not documented. The general focus within the community includes developing new skills for AI agents through innovative abilities.
+XtremeGamer007 has not yet built any public Open Home abilities but has a background in similar AI and real-time integrations. They have successfully delivered over 20 projects, emphasizing fast delivery and good communication.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: [Not available]
-- GitHub: [Not available]
-- X: [Not available]
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/]]
-[[OpenHome]]
-[[Abilities]]
+[[builders/openhome]]  
+[[abilities/voice_agents]]  
+[[abilities/crm_automations]]  
+[[abilities/data_pipelines]]  
 
-<!-- synthesized: 2026-05-28T12:08:23Z -->
+<!-- synthesized: 2026-05-29T12:01:54Z -->
