@@ -1,28 +1,31 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: builders/
+entity_type: builders
 status: live
-last_updated: 2026-05-29
+last_updated: 2026-05-30
 ---
 
-## who-they-are
-pl-geek is an AI Automation Engineer focused on building practical AI agents and automation workflows. They have experience working with various tools and frameworks including n8n, LangChain, Langflow, Vapi, and OpenAI. Their expertise lies in creating real-time integrations and voice agents that enhance productivity by significantly reducing manual work.
+### who-they-are
+pl-geek is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications tailored for businesses and teams. Their expertise includes creating internal chat assistants, RAG (Retrieve and Generate) systems, workflow automation, dashboards, and real-time voice agents integrated with APIs for operational tasks.
 
-## what-they-built
-pl-geek has delivered over 20 projects, primarily focusing on RAG systems, voice agents, CRM automations, and data pipelines. While they have not built any public OpenHome abilities yet, they are active in the community, offering assistance and insights into AI-assisted development.
+### what-they-built
+pl-geek has developed various automation solutions and AI tools connected to APIs and backend systems, focusing on turning repetitive manual processes into practical tools that enhance user experience. As of the latest update, there are no publicly available Open Home abilities created by pl-geek, but their prior work aligns with similar AI and real-time integrations.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord: N/A
+- GitHub: N/A
+- X: N/A
 
-## connects-to
-[[builders/]]
-[[abilities/]]
+### connects-to
+[[openhome]]
+[[AI_tools]]
+[[automation]]
+[[RAG_systems]]
+[[voice_agents]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

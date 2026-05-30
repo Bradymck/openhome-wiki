@@ -1,32 +1,30 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builders
-status: stub
-last_updated: 2026-05-29
+entity_type: community builder
+status: live
+last_updated: 2026-05-30
 ---
 
-### who-they-are
-Pauldy is an AI Automation Engineer focused on building practical AI agents and automation workflows. He has experience working with various tools and platforms including n8n, LangChain, Langflow, Vapi, and OpenAI. Pauldy is dedicated to creating effective systems that enhance productivity by significantly reducing manual work.
+## who-they-are
+Pauldy is a full-stack AI developer with a focus on building custom AI systems, automation tools, and web applications tailored for businesses and teams. His recent work includes developing internal chat assistants, real-time voice agents, and various AI tools integrated with backend systems.
 
-### what-they-built
-While Pauldy has not yet built any public abilities for the OpenHome platform, he has a strong background in AI-assisted development and real-time integrations. His past projects include creating voice agents, CRM automations, and data pipelines, delivering 20+ projects with an emphasis on communication and speed.
+## what-they-built
+As of now, Pauldy has not publicly shared any Open Home abilities but has experience in building AI-assisted development projects and real-time integrations. He is actively exploring the capabilities of voice recognition and its potential for creating responsive personalities within the Open Home platform.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord: [Not specified]
+- GitHub: [Not specified]
+- X: [Not specified]
 
-### connects-to
-[[builders]]
-[[abilities]]
-[[OpenHome]]
-[[AI Automation Engineer]]
+## connects-to
+[[Open Home]]
 [[Voice AI]]
-[[Automation Workflows]]
+[[Automation Tools]]
+[[AI Development]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

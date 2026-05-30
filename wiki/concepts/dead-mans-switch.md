@@ -1,26 +1,25 @@
-```markdown
----
-title: "Dead Man's Switch"
-entity_type: "concepts/"
-status: "stub"
-last_updated: 2026-05-29
----
+```yaml
+title: Dead Man's Switch
+entity_type: concepts/dead-mans-switch
+status: stub
+last_updated: 2026-05-30
+```
 
-### definition
-A dead man's switch is a safety mechanism designed to automatically disable or trigger an action in the absence of human input. It is often employed to ensure that a process will stop if the operator can no longer maintain control.
+## definition
+A dead man's switch is a safety mechanism designed to be activated if the operator becomes incapacitated or unable to continue their task. It ensures that a process or system defaults to a safe state if the user is not present to manage it.
 
-### why-it-matters
-In the context of OpenHome, the dead man's switch concept is crucial for ensuring the safety and reliability of automated voice AI agents. It provides a fail-safe mechanism that protects users and systems from unintended actions or malfunctions, particularly in scenarios where the AI has control over critical functions of smart devices.
+## why-it-matters
+In the context of OpenHome, a dead man's switch can enhance user safety by ensuring that devices or systems respond appropriately in cases where a user is unable to interact with them. This concept is essential for maintaining robust, user-friendly interactions with voice AI agents and smart home devices.
 
-### how-it-manifests
-While specific implementations in OpenHome have not yet been detailed, the dead man's switch concept could manifest in voice AI agents designed to monitor user engagement. For instance, if an agent detects inactivity or a lack of user input over a designated period, it might disable access to certain functions or revert to a safe state, ensuring user safety and reducing risks associated with unattended operations.
+## how-it-manifests
+While specific implementations of a dead man's switch within OpenHome are not listed, this concept could manifest in features such as emergency alerts, automatic shutdowns, or responsiveness to inactivity over a set duration. It could be used in voice applications to safeguard against users who may inadvertently put themselves in unsafe situations when interacting with technology.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
 [[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
-```
+<!-- synthesized: 2026-05-30T11:27:51Z -->

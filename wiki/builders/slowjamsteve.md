@@ -1,31 +1,27 @@
-```markdown
----
+```yaml
 title: builders/slowjamsteve
-entity_type: community_builder
-status: stub
-last_updated: 2026-05-29
----
+entity_type: builders
+status: live
+last_updated: 2026-05-30
+```
 
-### who-they-are
-SlowJamSteve is an AI Automation Engineer focused on building practical AI agents and automation workflows. He has experience working with various technologies such as n8n, LangChain, Langflow, Vapi, and OpenAI. His expertise encompasses creating RAG systems, voice agents, CRM automations, and data pipelines, typically reducing manual work by around 60%. 
+## who-they-are
+Slowjamsteve is a full-stack AI developer and AI Automation Engineer specializing in building custom AI systems, automation tools, and web applications. He focuses on creating practical AI agents and automation workflows, having experience in internal chat assistants, workflow automation, and conversational AI systems.
 
-### what-they-built
-While SlowJamSteve has not yet built public OpenHome abilities, he has worked on similar AI and real-time integrations and has delivered over 20 projects, emphasizing fast delivery and good communication.
+## what-they-built
+Slowjamsteve has not publicized any specific OpenHome abilities yet but has extensive experience in AI-assisted development and real-time integrations. He has delivered over 20 projects, focusing on reducing manual processes through effective automation solutions.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord: [slowjamsteve](https://discordapp.com/users/slowjamsteve)
+- GitHub: [slowjamsteve](https://github.com/slowjamsteve)
+- X: [slowjamsteve](https://x.com/slowjamsteve)
 
-### connects-to
+## connects-to
 [[builders]]
+[[abilities]]
 [[OpenHome]]
-[[Voice AI]]
-[[AI Automation]]
-[[Integration Technologies]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
-```
+<!-- synthesized: 2026-05-30T11:27:51Z -->

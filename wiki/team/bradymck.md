@@ -1,22 +1,27 @@
-```yaml
+```markdown
+---
 title: Brady McK
-entity_type: team
-status: stub
-last_updated: 2026-05-29
-```
+entity_type: team/bradymck
+status: beta
+last_updated: 2026-05-30
+---
 
 ## who-they-are
-Brady McK is an AI Automation Engineer at OpenHome, focused on building practical AI agents and automation workflows. He has a background in AI-assisted development and social platform infrastructure.
+Brady McK is a full-stack AI developer and AI Automation Engineer at OpenHome. He specializes in building custom AI systems, automation tools, and web applications for businesses and teams. His background includes significant experience in AI development and automation, particularly focused on enhancing operational tasks using AI technologies.
 
 ## what-they-own
-Brady leads initiatives related to the development of automation workflows utilizing AI technologies like n8n, LangChain, Langflow, Vapi, and OpenAI. His work is geared towards enhancing time efficiency in project delivery and implementing innovative AI solutions.
+Brady leads areas related to voice AI systems, including the development of conversational agents (Personalities) and their modular plugins (Abilities). He works on AI-assisted development projects, integration with backend systems, and focuses on creating practical AI automation workflows.
 
 ## how-to-reach
-- Discord: Not specified
-- X/Twitter: Not specified
-- Preferred contact: Not specified
+Discord: [BradyMcK](https://discord.com/)
+X/Twitter: Not specified
+Preferred contact: Available for discussions regarding AI projects and automation through direct communication.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+[[developer_docs]]
+[[openhome_dashboard]]
+[[github]]
+<!-- synthesized: 2026-05-30T11:27:51Z -->
+```

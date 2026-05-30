@@ -1,27 +1,25 @@
 ```markdown
 ---
-title: team/ali
+title: Team Ali
 entity_type: team
 status: stub
-last_updated: 2026-05-29
+last_updated: 2026-05-30
 ---
 
 ### who-they-are
-Ali is an AI Automation Engineer focused on building practical AI agents and automation workflows. They work with various technologies like n8n, LangChain, Langflow, Vapi, and OpenAI to create systems that streamline manual operations, significantly reducing workload.
+Ali is a member of the OpenHome team, contributing as an AI Automation Engineer. They focus on building practical AI agents and automation workflows.
 
 ### what-they-own
-Ali leads initiatives in AI-assisted development, automation workflows, and integration of real-time systems within the OpenHome platform. They contribute to the development of voice agents, CRM automations, and data pipelines.
+Ali leads initiatives related to AI development and automation, specializing in voice agents, workflow automation, and integrations with AI tools such as OpenAI, n8n, and LangChain.
 
 ### how-to-reach
-Discord: Not specified  
-X/Twitter: Not specified  
-Preferred contact: Not specified
+Discord: Not provided  
+X/Twitter: Not provided  
+Preferred contact: Open to discussions and collaborations
 
 ### connects-to
-[[team/jesse]]
-[[team/shannon]]
-[[dev.openhome]]
-[[github.com/openhome-dev/abilities]]
+[[team/jesse]]  
+[[team/shannon]]  
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

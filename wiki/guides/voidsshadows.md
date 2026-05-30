@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: guides/voidsshadows
-entity_type: Community Guide
+title: Guides/Voidsshadows
+entity_type: guides/
 status: live
-last_updated: 2026-05-29
+last_updated: 2026-05-30
 ---
 
-## who-they-are
-Voidsshadows is an AI Automation Engineer with expertise in building practical AI agents and automation workflows. They have extensive experience with tools such as n8n, LangChain, Langflow, Vapi, and OpenAI.
+### who-they-are
+Voidsshadows is a full-stack AI developer with extensive experience in building custom AI systems, automation tools, and web applications for businesses. Their recent projects include creating internal chat assistants, real-time voice agents, and various AI tools that connect to APIs and backend systems.
 
-## what-they-help-with
-Voidsshadows specializes in creating RAG (Retrieval-Augmented Generation) systems, voice agents, CRM automations, and data pipelines. They focus on reducing manual work significantly, achieving reductions of around 60%, and have delivered over 20 projects effectively.
+### what-they-help-with
+Voidsshadows specializes in AI development, focusing on building conversational AI experiences and automation workflows. They have expertise in working with technologies such as n8n, LangChain, Langflow, Vapi, and OpenAI. They have successfully delivered more than 20 projects emphasizing efficiency and communication.
 
-## how-to-reach
-Discord handle: Not specifically mentioned.
+### how-to-reach
+Discord handle: Unknown
 
-## connects-to
-[[guides/]]
-[[community/]]
-[[AI_Automation_Engineering/]]
-[[OpenHome/]]
-[[Voice_AI/]]
+### connects-to
+[[OpenHome]]
+[[AI Development]]
+[[Voice AI]]
+[[Automation Tools]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z --> 
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

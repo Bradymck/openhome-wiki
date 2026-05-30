@@ -1,30 +1,30 @@
 ```markdown
 ---
 title: builders/nicholas3415
-entity_type: builders/
+entity_type: builders
 status: live
-last_updated: 2026-05-29
+last_updated: 2026-05-30
 ---
 
-## who-they-are
-Nicholas3415 is an AI Automation Engineer focused on developing practical AI agents and automation workflows. He has experience with various tools such as n8n, LangChain, Langflow, Vapi, and OpenAI to create retrieval-augmented generation (RAG) systems, voice agents, CRM automations, and data pipelines. His work typically reduces manual processes by around 60%.
+### who-they-are
+Nicholas3415 is a full-stack AI developer and AI Automation Engineer focused on creating custom AI systems, automation tools, and web applications tailored for businesses and teams. His work encompasses internal chat assistants, real-time voice agents, and AI tools integrated with various APIs and backend systems. He has a keen interest in developing practical tools that streamline repetitive processes and enhance operational efficiency.
 
-## what-they-built
-Nicholas3415 has not publicly released any OpenHome abilities yet; however, he has been actively involved in AI-assisted development and real-time integrations, contributing to various projects related to AI and automation.
+### what-they-built
+Nicholas3415 has engaged with the OpenHome platform, contributing to the development of conversational AI agents and exploring the integration of voice recognition for customized user experiences. While he has not publicly released any abilities via OpenHome yet, he has prior experience with similar real-time AI integrations and has delivered over 20 projects involving RAG systems, voice agents, CRM automation, and data pipelines.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: @nicholas3415
-- GitHub: [Nicholas3415](https://github.com/nicholas3415)
-- X: [@nicholas3415](https://twitter.com/nicholas3415)
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-- [[OpenHome]]
-- [[AI Automation]]
-- [[RAG Systems]]
-- [[Voice Agents]]
+### connects-to
+[[builders]]
+[[OpenHome]]
+[[AI Automation]]
+[[Conversational AI]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

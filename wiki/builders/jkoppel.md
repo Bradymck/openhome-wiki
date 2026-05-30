@@ -1,31 +1,30 @@
 ```markdown
 ---
-title: builders/jkoppel
-entity_type: builder
-status: live
-last_updated: 2026-05-29
+title: "builders/jkoppel"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-05-30
 ---
 
-## who-they-are
-jkoppel is an AI Automation Engineer focused on building practical AI agents and automation workflows. They have experience working with various technologies, including n8n, LangChain, Langflow, Vapi, and OpenAI. Their work primarily revolves around creating RAG systems, voice agents, CRM automations, and data pipelines, effectively reducing manual work by around 60%. They have successfully delivered over 20 projects, emphasizing speed and good communication.
+### who-they-are
+jkoppel is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. They have experience working with various technologies to create internal chat assistants, workflow automation systems, dashboards, and real-time voice agents.
 
-## what-they-built
-While jkoppel has not yet built any public OpenHome abilities, they possess a rich background in AI-assisted development and real-time integrations. Their expertise in developing automation workflows positions them uniquely within the OpenHome community, where they contribute to discussions related to building capabilities for AI-powered voice applications.
+### what-they-built
+While jkoppel has not publicly built any abilities specifically for OpenHome, they have worked on similar AI and real-time integrations before. Their projects often involve creating voice agents and developing automation workflows.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
 
-## connects-to
+### connects-to
 [[builders]]
-[[abilities]]
 [[openhome]]
-[[voice agents]]
-[[automation workflows]]
+[[ai-agents]]
+[[automation-tools]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

@@ -1,26 +1,26 @@
 ```markdown
 ---
-title: guides/brianchilders
+title: Guides/BrianChilders
 entity_type: guides
 status: live
-last_updated: 2026-05-29
+last_updated: 2026-05-30
 ---
 
 ### who-they-are
-Brian Childers is an AI Automation Engineer with expertise in building practical AI agents and automation workflows. With experience in real-time integrations and a strong background in AI-assisted development, he has delivered over 20 projects efficiently and with a focus on good communication.
+Brian Childers is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications for various business needs. He has delivered over 20 projects, focusing on practical solutions that reduce manual work.
 
 ### what-they-help-with
-Brian specializes in creating conversational AI agents and automation solutions using various tools, including n8n, LangChain, Langflow, Vapi, and OpenAI. His work includes developing RAG (Retrieval-Augmented Generation) systems, voice agents, CRM automations, and data pipelines, often reducing manual workloads by approximately 60%.
+Brian assists with AI project exploration, automation for existing workflows, and custom AI system development. His expertise includes developing internal chat assistants, RAG systems, workflow automation tools, dashboards, real-time voice agents, and AI solutions connected to various APIs and backend systems. He is knowledgeable in tools such as n8n, LangChain, Langflow, Vapi, and OpenAI.
 
 ### how-to-reach
-Discord Handle: Brianchilders
+Discord Handle: Not provided in the source material.
 
-## connects-to
+### connects-to
 [[guides]]
 [[OpenHome]]
 [[AI Automation]]
-[[Conversational AI]]
-[[Real-Time Integrations]]
+[[Voice AI]]
+[[APIs]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

@@ -1,23 +1,24 @@
 ```yaml
-title: guides/samuel35
-entity_type: Community Guide
-status: live
-last_updated: 2026-05-29
+title: "Samuel35"
+entity_type: "guides/"
+status: "live"
+last_updated: 2026-05-30
 ```
 
 ## who-they-are
-Samuel35 is an AI Automation Engineer with a focus on building practical AI agents and automation workflows. They have significant experience in AI-assisted development and social platform infrastructure.
+Samuel35 is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications for businesses and teams. They have delivered over 20 projects, focusing on practical AI agents and automation workflows.
 
 ## what-they-help-with
-Samuel35 specializes in creating voice agents, CRM automations, data pipelines, and various AI applications using tools such as n8n, LangChain, Langflow, Vapi, and OpenAI. They have delivered over 20 projects and are known for fast delivery and effective communication.
+Samuel35 specializes in developing internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents. They are familiar with platforms and tools such as n8n, LangChain, Langflow, Vapi, and OpenAI. They also have experience with voice recognition technology and are enthusiastic about turning repetitive processes into useful tools.
 
 ## how-to-reach
-Samuel35 can be reached via Discord.
+Samuel35 can be reached on Discord under the handle samuel35.
 
 ## connects-to
-[[OpenHome]]
-[[AI Automation]]
-[[Voice AI]]
-[[CRM Automations]]
+- [[guides]]
+- [[OpenHome]]
+- [[AI Automation]]
+- [[Voice AI]]
+- [[DevKit]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->

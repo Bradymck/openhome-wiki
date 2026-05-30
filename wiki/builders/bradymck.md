@@ -3,28 +3,26 @@
 title: builders/bradymck
 entity_type: builder
 status: live
-last_updated: 2026-05-29
+last_updated: 2026-05-30
 ---
 
-## who-they-are
-Brady McK is an AI Automation Engineer focused on building practical AI agents and automation workflows. With a background in AI-assisted development and social platform infrastructure, he has experience in creating voice agents, CRM automations, and data pipelines using tools such as n8n, LangChain, Langflow, Vapi, and OpenAI. He emphasizes efficiency, often cutting manual work by around 60% in the 20+ projects he has delivered.
+### who-they-are
+bradymck is a full-stack AI developer specializing in custom AI systems, automation tools, and web applications for businesses. With experience in building internal chat assistants, workflow automation, dashboards, and real-time voice agents, bradymck is focused on creating practical tools that enhance operational tasks and reduce manual processes.
 
-## what-they-built
-While Brady McK has not yet released any specific open home abilities, he has contributed to the larger context of AI and voice integration through his previous works. He engages actively with the OpenHome community, sharing ideas and offering assistance in development projects.
+### what-they-built
+While bradymck has not publicly released any OpenHome abilities, they have previously worked on similar AI and real-time integrations. Their focus includes AI-assisted development and infrastructure for social platforms, as well as voice agents connected to various APIs.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord: bradymck
+- GitHub: [GitHub Profile](https://github.com/bradymck)
+- X: [X Profile](https://twitter.com/bradymck)
 
-## connects-to
-[[builders]]
-[[OpenHome]]
-[[AI Automation]]
-[[Voice Agents]]
-[[DevKit]]
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+### connects-to
+- [[builders]]
+- [[abilities]]
+
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

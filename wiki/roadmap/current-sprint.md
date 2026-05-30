@@ -1,28 +1,30 @@
 ```markdown
 ---
-title: Roadmap Current Sprint
-entity_type: roadmap
+title: Roadmap - Current Sprint
+entity_type: roadmap/current-sprint
 status: live
-last_updated: 2026-05-29
+last_updated: 2026-05-30
 ---
 
-## what-it-is
-The current sprint focuses on the development and shipping of OpenClaw and the physical V0.1 devkits for the OpenHome AI platform. Users can develop their own voice AI agents, called Personalities, and enhance them with Abilities, which are modular voice plugins.
+### what-it-is
+The current sprint includes the development and distribution of OpenClaw for the OpenHome platform, alongside a push to encourage community contributions through the offering of physical devkits. These devkits are smart speakers designed for voice AI applications, providing a platform for users to build custom conversational agents and extend their capabilities through modular plugins called Abilities.
 
-## status
-in-progress
+### status
+In-progress
 
-## why-it-matters
-These initiatives are crucial for advancing OpenHome's mission to democratize access to voice AI technology, allowing users to create immersive and human-like voice interactions. The physical devkits provide developers with the necessary tools to build and prototype their own AI applications.
+### why-it-matters
+This initiative aims to empower developers and hobbyists by providing them with the tools to create and customize AI-powered communication solutions. By distributing devkits and encouraging contributions, OpenHome fosters innovation within the community, enabling more diverse and interactive voice experiences.
 
-## eta
-Shipping of the devkits is ongoing in small batches. Specific timelines for the release of features have not been disclosed.
+### eta
+Devkits are being shipped globally in small batches, with no specific date indicated for the overall completion of this initiative.
 
-## connects-to
+### connects-to
 [[OpenHome]]
 [[Voice AI]]
+[[Personalities]]
 [[Abilities]]
-[[Development Kit]]
+[[Developer Docs]]
+[[GitHub]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

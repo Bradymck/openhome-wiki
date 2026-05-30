@@ -1,27 +1,31 @@
-```yaml
+```markdown
+---
 title: builders/emperormidas
 entity_type: builders
-status: live
-last_updated: 2026-05-29
-```
+status: stub
+last_updated: 2026-05-30
+---
 
-## who-they-are
-Emperormidas is an AI Automation Engineer specializing in building practical AI agents and automation workflows. They have a background in AI-assisted development and real-time integrations, working with technologies including n8n, LangChain, Langflow, Vapi, and OpenAI to create systems that enhance voice interactions and streamline processes.
+### who-they-are
+Emperormidas is a full-stack AI developer engaged in building custom AI systems, automation tools, and web applications. They specialize in creating practical AI agents and automation workflows and are experienced with technologies such as n8n, LangChain, Langflow, Vapi, and OpenAI.
 
-## what-they-built
-Emperormidas has delivered over 20 projects involving automation and AI integration. Their work typically cuts manual workflows by around 60%. They are currently engaged in building abilities for the OpenHome platform but have not yet released any public OpenHome abilities.
+### what-they-built
+Currently, there are no public contributions to OpenHome Abilities from Emperormidas; however, they have experience in developing internal chat assistants, RAG systems, and real-time voice agents. Emperormidas focuses on turning repetitive manual processes into practical tools that enhance usability in various operational contexts.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: @emperormidas
-- GitHub: [emperormidas's GitHub](https://github.com/emperormidas)
-- X: [emperormidas's X](https://x.com/emperormidas)
+### how-to-reach
+- Discord: Unknown
+- GitHub: Unknown
+- X: Unknown
 
-## connects-to
+### connects-to
 [[openhome]]
-[[ai_agents]]
-[[automation_workflows]]
+[[abilities]]
+[[voice ai]]
+[[automation tools]]
+[[custom ai systems]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->
+```

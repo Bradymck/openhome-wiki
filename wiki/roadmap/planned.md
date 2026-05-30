@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: roadmap/planned
-entity_type: roadmap
-status: planned
-last_updated: 2026-05-29
+title: Roadmap for OpenHome
+entity_type: roadmap/planned
+status: live
+last_updated: 2026-05-30
 ---
 
 ## what-it-is
-OpenHome is planning to roll out a new feature where every user will be able to see their call logs, logs from the dashboard, Live editor, and DevKit.
+OpenHome is releasing physical V0.1 devkits, which are cutting-edge smart speakers capable of handling various functionalities, including music playback, smart home integration, and AI interactions. Developers can build with OpenClaw on OpenHome or create their own AI agents.
 
 ## status
-Planned
+Shipped
 
 ## why-it-matters
-This feature will enhance user experience by providing visibility into interaction history and logs, which can help in troubleshooting and improving user engagement.
+The introduction of the devkits allows developers to contribute to the OpenHome ecosystem, fostering innovation and providing hands-on experience with voice AI technology. This initiative encourages engagement within the developer community and aims to improve the accessibility and capabilities of voice-first applications.
 
 ## eta
-No specific timeline has been provided for the rollout of this new feature.
+Shipping globally in small batches, with no specific timeline stated for future shipments.
 
 ## connects-to
-[[OpenHome]]
-[[DevKit]]
-[[Voice AI]]
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+[[OpenHome]], [[Voice AI]], [[DevKit]], [[OpenClaw]], [[AI Abilities]]
+
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

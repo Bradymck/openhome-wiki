@@ -1,25 +1,23 @@
-```markdown
----
-title: Team Kaeden
+```yaml
+title: Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-05-29
----
+last_updated: 2026-05-30
+```
 
 ### who-they-are
-Kaeden is an AI Automation Engineer, focused on building practical AI agents and automation workflows. They have experience with tools like n8n, LangChain, Langflow, Vapi, and OpenAI to create various systems including voice agents and data pipelines.
+Kaeden is an AI Automation Engineer at OpenHome, specializing in building practical AI agents and automation workflows. They have a background in AI development and have delivered numerous projects leveraging various technologies.
 
 ### what-they-own
-Kaeden is involved in developing AI-assisted applications and has contributed to automating manual tasks significantly, achieving reductions in manual work by around 60%. Their expertise encompasses AI agent development and real-time integrations.
+Kaeden leads efforts in developing automation systems and AI integrations within the OpenHome platform. Their focus includes creating conversational AI experiences, integrating voice agents, and streamlining processes to enhance user interactions.
 
 ### how-to-reach
-Discord: Not specified  
-X/Twitter: Not specified  
-Preferred contact: Not directly specified, but expresses willingness to collaborate and help with projects.
+Discord: [Kaeden's Discord Handle TBD]
 
 ### connects-to
-[[team/jesse]]  
+[[team/jesse]]
 [[team/shannon]]
+[[projects/OpenHome]]
+[[projects/AIAutomation]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
-```
+<!-- synthesized: 2026-05-30T11:27:51Z -->

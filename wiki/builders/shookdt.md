@@ -2,30 +2,29 @@
 ---
 title: builders/shookdt
 entity_type: builder
-status: live
-last_updated: 2026-05-29
+status: stub
+last_updated: 2026-05-30
 ---
 
 ### who-they-are
-Shookdt is an AI Automation Engineer with a focus on building practical AI agents and automation workflows. They have experience in AI-assisted development and social platform infrastructure.
+Shookdt is a full-stack AI developer and Automation Engineer focused on building custom AI systems, automation tools, and web applications for businesses and teams. Shookdt specializes in creating practical AI agents and automation workflows, utilizing technologies like n8n, LangChain, Langflow, Vapi, and OpenAI.
 
 ### what-they-built
-Shookdt has worked on various AI projects, delivering over 20 projects that include voice agents, CRM automation, data pipelines, and RAG (Retrieval-Augmented Generation) systems. Their contributions typically reduce manual work by around 60%. They also engage in building with OpenHome's Voice AI platform and are capable of creating agents and integrating various abilities.
+Shookdt has worked on various AI-related projects, including internal chat assistants, real-time voice agents, RAG systems, workflow automation, and dashboards. While no public Open Home abilities have been released yet, Shookdt has experience with voice recognition and integrating AI into operational tasks.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: @shookdt
-- GitHub: [shookdt](https://github.com/shookdt)
+- Discord handle: Not specified
+- GitHub: Not specified
 - X: Not specified
 
 ### connects-to
-[[builders]]
-[[OpenHome]]
-[[voice agents]]
-[[AI automation]]
-[[RAG systems]]
+- [[builders]]
+- [[OpenHome]]
+- [[AI Automation]]
+- [[Voice Recognition]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

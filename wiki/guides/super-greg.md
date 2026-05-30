@@ -1,25 +1,23 @@
-```markdown
----
+```yaml
 title: Super Greg
 entity_type: guides/super-greg
 status: live
-last_updated: 2026-05-29
----
+last_updated: 2026-05-30
+```
 
 ## who-they-are
-Super Greg is an AI Automation Engineer with extensive experience in building practical AI agents and automation workflows. He has successfully delivered over 20 projects, focusing on cutting-edge technologies and integrations.
+Super Greg is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications tailored for businesses and teams. He has a proven track record of delivering more than 20 projects, focusing on practical AI and automation solutions.
 
 ## what-they-help-with
-Super Greg specializes in AI-assisted development, working with various tools and platforms including n8n, LangChain, Langflow, Vapi, and OpenAI. His expertise includes creating Retrieval-Augmented Generation (RAG) systems, voice agents, CRM automations, and data pipelines that enhance operational efficiency by significantly reducing manual work.
+Super Greg specializes in developing voice agents, internal chat assistants, workflow automation, data pipelines, and various AI tools connected to APIs and backend systems. He is adept at turning repetitive manual processes into efficient tools that enhance usability and automation.
 
 ## how-to-reach
-You can reach Super Greg on Discord.
+Discord handle: Super Greg
 
 ## connects-to
-[[guides]]
-[[AI Automation]]
-[[OpenHome]]
-[[Abilities]]
-[[DevKits]]
-<!-- synthesized: 2026-05-29T12:01:54Z -->
-```
+[[guides/openhome]]
+[[guides/ai-automation]]
+[[guides/voice-agents]]
+[[guides/developer-resources]]
+
+<!-- synthesized: 2026-05-30T11:27:51Z -->

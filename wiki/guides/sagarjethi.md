@@ -1,24 +1,25 @@
 ```markdown
 ---
 title: Sagarjethi
-entity_type: guides
+entity_type: guides/
 status: live
-last_updated: 2026-05-29
+last_updated: 2026-05-30
 ---
 
 ## who-they-are
-Sagarjethi is an AI Automation Engineer specializing in building practical AI agents and automation workflows. They have extensive experience in AI-assisted development and social platform infrastructure, having delivered over 20 projects with a focus on fast delivery and effective communication.
+Sagarjethi is a full-stack AI developer with experience in building custom AI systems, automation tools, and web applications for businesses and teams. They have delivered over 20 projects while focusing on practical AI agents and automation workflows.
 
 ## what-they-help-with
-Sagarjethi specializes in creating voice agents, CRM automations, and data pipelines using tools such as n8n, LangChain, Langflow, Vapi, and OpenAI. Their expertise includes building conversational AI agents called Personalities and enhancing them with modular voice plugins known as Abilities.
+Sagarjethi specializes in creating AI-assisted development tools, real-time voice agents, and automation workflows. They work with technologies like n8n, LangChain, Langflow, Vapi, and OpenAI to implement systems that reduce manual work significantly, potentially cutting it by around 60%. Their expertise includes integrating voice recognition technology and building custom tools for operational tasks.
 
 ## how-to-reach
-Discord handle: Sagarjethi
+Discord Handle: sagarjethi
 
 ## connects-to
-[[AI Automation]]
-[[Voice AI]]
-[[OpenHome Academy]]
-[[DevKit]]
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+[[guides]]
+[[OpenHome]]
+[[voice recognition]]
+[[AI automation]]
+[[community guides]]
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

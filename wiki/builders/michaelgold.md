@@ -1,34 +1,36 @@
 ```markdown
 ---
 title: builders/michaelgold
-entity_type: builders
+entity_type: builder
 status: live
-last_updated: 2026-05-29
+last_updated: 2026-05-30
 ---
 
 ## who-they-are
-Michael Gold is an AI Automation Engineer focused on building practical AI agents and automation workflows. He has expertise in various platforms including n8n, LangChain, Langflow, Vapi, and OpenAI. His work typically aims to enhance efficiency in development, often reducing manual work by around 60%. He has delivered over 20 projects and values fast delivery with good communication.
+Michael Gold is a full-stack AI developer experienced in building custom AI systems, automation tools, and web applications. He focuses on creating internal chat assistants, real-time voice agents, and workflow automation solutions for businesses. Michael is passionate about enhancing efficiency by transforming repetitive manual processes into practical tools.
 
 ## what-they-built
-While he has not yet built any public OpenHome abilities, Michael has experience working on similar AI and real-time integrations. His recent projects include:
-- Developing voice agents
-- Creating CRM automations
-- Building data pipelines and RAG systems 
+Michael has worked on various AI projects that include:
+- Internal chat assistants
+- Real-time voice agents
+- Workflow automation systems
+- AI tools connected to APIs and backend systems
+Although he hasn't built any public OpenHome abilities, he has significant experience in AI-assisted development and integrating various technologies.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: Not specified
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
+[[builders]]
 [[OpenHome]]
-[[AI Automation]]
-[[Voice AI Agents]]
-[[CRM Automations]]
-[[Data Pipelines]]
+[[AI Development]]
+[[Automation Tools]]
+[[Voice Agents]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```

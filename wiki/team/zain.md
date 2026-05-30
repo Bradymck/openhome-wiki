@@ -1,25 +1,25 @@
 ```markdown
 ---
 title: Zain
-entity_type: team/
+entity_type: team
 status: stub
-last_updated: 2026-05-29
+last_updated: 2026-05-30
 ---
 
 ### who-they-are
-Zain is an AI Automation Engineer focused on building practical AI agents and automation workflows. They have experience with n8n, LangChain, Langflow, Vapi, and OpenAI to create real-time AI systems, voice agents, CRM automations, and data pipelines.
+Zain is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications. With a focus on creating practical solutions for businesses, Zain has experience in developing internal chat assistants, workflow automation tools, and real-time voice agents. 
 
 ### what-they-own
-Zain specializes in the development and integration of AI-powered voice applications within the OpenHome platform, contributing expertise in AI-assisted development.
+Zain leads areas related to AI-assisted development and automation workflows within the OpenHome platform, focusing on integration of real-time systems with conversational AI capabilities.
 
 ### how-to-reach
-Discord: Not specified  
-X/Twitter: Not specified  
-Preferred contact: Not specified  
+Zain can be reached on Discord for inquiries and collaboration opportunities. Specific handles are not provided.
 
-### connects-to
-[[team/jesse]]  
-[[team/shannon]]  
+## connects-to
+[[team/jesse]]
+[[team/shannon]]
+[[dev.openhome.com]]
+[[github.com/openhome-dev/abilities]]
 
-<!-- synthesized: 2026-05-29T12:01:54Z -->
+<!-- synthesized: 2026-05-30T11:27:51Z -->
 ```
