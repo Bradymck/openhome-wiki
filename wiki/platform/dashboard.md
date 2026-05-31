@@ -1,28 +1,25 @@
 ```markdown
 ---
-title: OpenHome Dashboard
-entity_type: platform/dashboard
+title: platform/dashboard
+entity_type: platform
 status: live
-last_updated: 2026-05-30
+last_updated: 2026-05-31
 ---
 
 ## what-it-is
-The OpenHome Dashboard is a user interface designed to assist developers and users in creating, managing, and customizing voice AI agents, referred to as Personalities, on the OpenHome platform.
+The OpenHome Dashboard is a user interface designed for managing and configuring voice AI agents within the OpenHome platform. It serves as a central hub where users can create Personalities and integrate Abilities, enhancing the functionality of their voice applications.
 
 ## how-it-works
-The Dashboard provides a user-friendly environment where users can set up their AI agents by customizing attributes such as name and voice. Users can also add Abilities, which are modular voice plugins that enhance the agents' skills, allowing them to perform tasks like calling APIs, playing music, and controlling smart devices. The Dashboard integrates with the broader capabilities of the OpenHome platform, facilitating a seamless development experience.
+The Dashboard provides a streamlined experience for users to set up their AI agents. Users can create a Personality by selecting a name and voice before adding various Abilities to expand its skills. The interface allows users to browse community-developed Abilities, enabling seamless integration into their projects. The Dashboard connects directly with the underlying architecture of OpenHome, facilitating real-time management and updates of the agents.
 
 ## current-status
 live
 
 ## connects-to
-- [[platform/openhome]]
-- [[platform/abilities]]
-- [[platform/speakers]]
-- [[platform/voice-ai]]
-- [[platform/local-link]]
-- [[platform/marketplace]]
-- [[platform/live-editor]]
-
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+[[platform/openhome]]
+[[platform/abilities]]
+[[platform/voice-ai]]
+[[platform/marketplace]]
+[[platform/live-editor]]
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

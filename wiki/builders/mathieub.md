@@ -1,31 +1,28 @@
-```markdown
----
-title: mathieub
-entity_type: builders/
-status: live
-last_updated: 2026-05-30
----
+```yaml
+title: "builders/mathieub"
+entity_type: "builders/"
+status: "live"
+last_updated: 2026-05-31
+```
 
-## who-they-are
-Mathieub is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications, primarily focused on developing internal chat assistants, workflow automation, dashboards, and real-time voice agents. They have a passion for transforming repetitive manual processes into practical tools that enhance user experiences.
+### who-they-are
+Mathieu is a full-stack AI developer focusing on building custom AI systems, automation tools, and web applications. He has experience with developing internal chat assistants, real-time AI tools, and workflow automation systems.
 
-## what-they-built
-While Mathieub has not yet built any public OpenHome abilities, they have significant experience with AI-assisted development and real-time integrations. They are active within the OpenHome community, providing insights on AI-driven features and discussing potential projects related to integrating voice recognition technology into OpenHome agents.
+### what-they-built
+Mathieu has contributed significantly to the OpenHome platform. Some of his recent developments include:
+- **Lightning Alert**: A plugin that informs users about approaching storms with real-time updates, requiring no setup for location detection. It pulls data from the National Weather Service (NWS) for accurate alerts and allows users to customize alert timing.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
+### how-to-reach
+- Discord: Not specified
+- GitHub: [Mathieu's GitHub Profile](https://github.com/openhome-dev/abilities)
 - X: Not specified
 
-## connects-to
-[[builders/]]
-[[abilities/]]
-[[AI systems]]
-[[automation tools]]
-[[OpenHome]]
+### connects-to
+- [[builders/]]
+- [[abilities/lightning-alert]]
+- [[abilities/]]
 
-<!-- synthesized: 2026-05-30T11:27:51Z -->
-```
+<!-- synthesized: 2026-05-31T11:30:03Z -->

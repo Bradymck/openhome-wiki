@@ -1,25 +1,26 @@
 ```markdown
 ---
-title: guides/adamdew
-entity_type: Community Guide
-status: live
-last_updated: 2026-05-30
+title: "guides/adamdew"
+entity_type: "Community Guide"
+status: "live"
+last_updated: 2026-05-31
 ---
 
 ### who-they-are
-Adam Dew is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications for various businesses and teams. They have experience delivering over 20 projects focused on internal chat assistants, real-time voice agents, and AI tools connected to APIs and backend systems.
+Adam Dew is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They have recent experience working on internal chat assistants, retrieval-augmented generation (RAG) systems, and real-time AI tools that integrate with various APIs.
 
 ### what-they-help-with
-Adam specializes in AI development, particularly in creating conversational AI experiences, automation workflows, and analytics dashboards. Their work involves utilizing tools like n8n, LangChain, Langflow, Vapi, and OpenAI to develop practical AI agents and improve process efficiencies, often reducing manual work by around 60%. They engage with the OpenHome platform, focusing on integrating voice AI functionalities and developing modular voice plugins called Abilities.
+Adam specializes in developing conversational AI experiences, workflow automation, and analytics dashboards. Their work includes creating internal support systems that enhance operational tasks, such as turning repetitive manual processes into user-friendly tools. Adam is also knowledgeable in voice recognition technologies.
 
 ### how-to-reach
-Discord handle: @adamdew
+You can reach Adam Dew on Discord.
 
 ### connects-to
+[[guides]]
 [[OpenHome]]
+[[AI]]
 [[Voice AI]]
 [[Automation Tools]]
-[[Conversational AI]]
-[[APIs]]
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

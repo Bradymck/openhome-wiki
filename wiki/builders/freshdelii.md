@@ -1,32 +1,27 @@
 ```markdown
 ---
-title: "Freshdelii"
-entity_type: "builders/"
-status: "stub"
-last_updated: 2026-05-30
+title: builders/freshdelii
+entity_type: builders
+status: stub
+last_updated: 2026-05-31
 ---
 
 ### who-they-are
-Freshdelii is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications. They focus on creating practical tools for businesses and teams, delivering solutions that enhance operational efficiency.
+FreshDelii is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. They have experience with real-time AI tools connected to APIs and backend systems, turning repetitive manual processes into practical, user-friendly tools.
 
 ### what-they-built
-Freshdelii has worked on various projects including internal chat assistants, real-time voice agents, workflow automation, and systems connected to APIs. Although they have not shipped any public OpenHome abilities yet, they have experience with AI-assisted development and social platform infrastructure.
+FreshDelii has shipped a variety of abilities, including:
+- **Lightning Alert**: An ability that alerts users to nearby lightning strikes, providing location-based warnings and updates on storm proximity without any configuration required.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord: Not provided  
-GitHub: Not provided  
-X: Not provided  
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[builders]]
-[[automation]]
-[[AI agents]]
-[[OpenHome]]
-[[voice recognition]]
-[[workflow automation]]
-
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+[[abilities/lightning-alert]]
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

@@ -1,26 +1,29 @@
 ```markdown
 ---
-title: Discomelon Community Guide
-entity_type: guides/discomelon
-status: live
-last_updated: 2026-05-30
+title: guides/discomelon
+entity_type: guides
+status: beta
+last_updated: 2026-05-31
 ---
 
-### who-they-are
-Discomelon is represented by a full-stack AI developer who specializes in building custom AI systems, automation tools, and web applications for businesses. With expertise in conversational AI, automation workflows, and integration of voice recognition, Discomelon has delivered multiple projects focused on enhancing user interaction with technology.
+## who-they-are
+Discomelon is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications for businesses and teams. They have expertise in creating real-time AI tools connected to various APIs and are engaged in the development of internal chat assistants, real-time voice agents, and analytics dashboards.
 
-### what-they-help-with
-Discomelon helps with the development of AI-powered voice applications and automation systems using OpenHome's technology. Their specialty includes creating custom AI agents, workflow automation, real-time voice agents, and connecting various backend APIs to streamline operational processes. They are also capable of turning repetitive tasks into efficient tools and applications.
+## what-they-help-with
+Discomelon helps with the development and automation of AI applications, including:
+- Custom AI systems
+- Automation tools for existing workflows
+- Internal chat assistants and real-time voice applications
+- Analytics dashboards
+- Conversational AI experiences
 
-### how-to-reach
-Discord Handle: Not specified in the provided data.
+## how-to-reach
+Discord Handle: Not specified in the provided content.
 
-### connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[AI Development]]
-[[Automation Tools]]
-[[Community Guides]]
-
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+## connects-to
+- [[guides/openhome]]
+- [[api/abilities]]
+- [[api/devkit]]
+- [[community/ai-systems]]
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

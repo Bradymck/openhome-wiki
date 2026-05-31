@@ -1,27 +1,23 @@
-```markdown
----
+```yaml
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-05-30
----
-
-### definition
-Spatial intelligence is the capability to visualize and manipulate spatial relationships and patterns, allowing individuals to understand and interact with their physical environment effectively.
-
-### why-it-matters
-In the context of OpenHome, spatial intelligence enhances the user's ability to interact with AI agents and smart devices in their surroundings. This intelligence can allow for more intuitive interactions and help in the design of systems that respond to physical cues and spatial layouts.
-
-### how-it-manifests
-Spatial intelligence manifests on the OpenHome platform through features that enable AI agents to understand and react to the user's environment. This can include the ability to recognize location-based commands, spatial context for device interactions, and the optimization of voice interfaces based on the physical layout of a user's space.
-
-### connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/grant-program]]
-
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+last_updated: 2026-05-31
 ```
+
+## definition
+Spatial intelligence refers to the ability to visualize, manipulate, and understand spatial relationships and environments. In the context of OpenHome, it could involve understanding user locations, surroundings, and how to interact with them through voice AI technology.
+
+## why-it-matters
+Spatial intelligence is relevant to OpenHome as it enhances the interaction between users and their environments. Understanding spatial context can lead to more personalized and effective voice interactions, allowing AI agents to assist users based on their physical locations and activities.
+
+## how-it-manifests
+While specific implementations of spatial intelligence within the OpenHome platform are not detailed, its potential applications could include location-aware features in AI agents, improved response accuracy based on user positioning, and tailored interactions based on the user's environment.
+
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+
+<!-- synthesized: 2026-05-31T11:30:03Z -->

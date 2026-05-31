@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: Guides/BrianChilders
-entity_type: guides
+title: guides/brianchilders
+entity_type: Community Guide
 status: live
-last_updated: 2026-05-30
+last_updated: 2026-05-31
 ---
 
 ### who-they-are
-Brian Childers is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications for various business needs. He has delivered over 20 projects, focusing on practical solutions that reduce manual work.
+Brian Childers is a full-stack AI developer with experience in building custom AI systems, automation tools, and web applications. His expertise includes creating internal chat assistants, real-time AI tools, and working with APIs.
 
 ### what-they-help-with
-Brian assists with AI project exploration, automation for existing workflows, and custom AI system development. His expertise includes developing internal chat assistants, RAG systems, workflow automation tools, dashboards, real-time voice agents, and AI solutions connected to various APIs and backend systems. He is knowledgeable in tools such as n8n, LangChain, Langflow, Vapi, and OpenAI.
+Brian specializes in developing conversational AI experiences, RAG systems, workflow automation, and dashboards. He enjoys transforming repetitive manual processes into practical and effective tools for use in business and team settings. He can also assist in voice recognition projects, particularly those related to building multiple personalities based on who is interacting with the system.
 
 ### how-to-reach
-Discord Handle: Not provided in the source material.
+Discord: [@brianchilders](https://discordapp.com/users/brianchilders)
 
 ### connects-to
 [[guides]]
+[[AI development]]
+[[automation tools]]
 [[OpenHome]]
-[[AI Automation]]
-[[Voice AI]]
-[[APIs]]
-
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+[[voice recognition]]
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

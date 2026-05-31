@@ -2,30 +2,30 @@
 ---
 title: builders/emperormidas
 entity_type: builders
-status: stub
-last_updated: 2026-05-30
+status: live
+last_updated: 2026-05-31
 ---
 
-### who-they-are
-Emperormidas is a full-stack AI developer engaged in building custom AI systems, automation tools, and web applications. They specialize in creating practical AI agents and automation workflows and are experienced with technologies such as n8n, LangChain, Langflow, Vapi, and OpenAI.
+## who-they-are
+EmperorMidas is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. Their recent projects involve creating internal chat assistants, real-time voice agents, workflow automation, and analytics dashboards that integrate with various APIs.
 
-### what-they-built
-Currently, there are no public contributions to OpenHome Abilities from Emperormidas; however, they have experience in developing internal chat assistants, RAG systems, and real-time voice agents. Emperormidas focuses on turning repetitive manual processes into practical tools that enhance usability in various operational contexts.
+## what-they-built
+EmperorMidas has built the "Lightning Alert" Ability, which provides users with real-time alerts about imminent lightning strikes. This Ability requires no setup, instantly determining user location via IP, and pulls data from the National Weather Service. It can also respond to voice queries, allowing users to customize the alert timing.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Unknown
-- GitHub: Unknown
-- X: Unknown
+## how-to-reach
+- Discord: [EmperorMidas](https://discord.com/)
+- GitHub: [EmperorMidas](https://github.com/)
+- X: [EmperorMidas](https://x.com/)
 
-### connects-to
-[[openhome]]
-[[abilities]]
-[[voice ai]]
-[[automation tools]]
-[[custom ai systems]]
+## connects-to
+[[Lightning Alert]]
+[[Abilities]]
+[[Voice AI]]
+[[Automation Tools]]
+[[Custom AI Systems]]
 
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

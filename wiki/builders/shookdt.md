@@ -1,30 +1,31 @@
 ```markdown
 ---
 title: builders/shookdt
-entity_type: builder
-status: stub
-last_updated: 2026-05-30
+entity_type: community builder
+status: live
+last_updated: 2026-05-31
 ---
 
 ### who-they-are
-Shookdt is a full-stack AI developer and Automation Engineer focused on building custom AI systems, automation tools, and web applications for businesses and teams. Shookdt specializes in creating practical AI agents and automation workflows, utilizing technologies like n8n, LangChain, Langflow, Vapi, and OpenAI.
+Shookdt is a full-stack AI developer focused on creating custom AI systems, automation tools, and web applications for businesses and teams. Their interests lie in building conversational AI experiences and turning repetitive manual processes into practical tools.
 
 ### what-they-built
-Shookdt has worked on various AI-related projects, including internal chat assistants, real-time voice agents, RAG systems, workflow automation, and dashboards. While no public Open Home abilities have been released yet, Shookdt has experience with voice recognition and integrating AI into operational tasks.
+Shookdt has recently worked on various projects including:
+- **Lightning Alert**: A plugin that alerts users about upcoming storms by determining their location through IP. It provides real-time weather updates and can adjust warning times based on user preferences. 
+- Internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents connected to APIs.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: `shookdt`
+- GitHub: [shookdt GitHub](https://github.com/shookdt)
 
-### connects-to
+## connects-to
 - [[builders]]
-- [[OpenHome]]
-- [[AI Automation]]
-- [[Voice Recognition]]
-
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+- [[abilities]]
+- [[lightning-alert]]
+- [[openhome]]
+  
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

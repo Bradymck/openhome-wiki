@@ -1,30 +1,28 @@
 ```markdown
 ---
-title: Roadmap - Current Sprint
+title: Current Sprint Overview
 entity_type: roadmap/current-sprint
 status: live
-last_updated: 2026-05-30
+last_updated: 2026-05-31
 ---
 
-### what-it-is
-The current sprint includes the development and distribution of OpenClaw for the OpenHome platform, alongside a push to encourage community contributions through the offering of physical devkits. These devkits are smart speakers designed for voice AI applications, providing a platform for users to build custom conversational agents and extend their capabilities through modular plugins called Abilities.
+## what-it-is
+The current sprint focuses on the development and distribution of OpenClaw, a platform for building conversational AI agents called Personalities, along with the release of physical V0.1 devkits that enable users to create and prototype abilities for these agents.
 
-### status
+## status
 In-progress
 
-### why-it-matters
-This initiative aims to empower developers and hobbyists by providing them with the tools to create and customize AI-powered communication solutions. By distributing devkits and encouraging contributions, OpenHome fosters innovation within the community, enabling more diverse and interactive voice experiences.
+## why-it-matters
+This sprint matters as it aims to empower developers and creators in the AI space by providing cutting-edge tools for building voice-driven applications. The devkits enable hands-on development, fostering innovation and community engagement within the OpenHome ecosystem.
 
-### eta
-Devkits are being shipped globally in small batches, with no specific date indicated for the overall completion of this initiative.
+## eta
+The devkits are being shipped globally in small batches, with no specific timeline provided for broader availability.
 
-### connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[Personalities]]
-[[Abilities]]
-[[Developer Docs]]
-[[GitHub]]
-
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+## connects-to
+- [[OpenHome]]
+- [[OpenClaw]]
+- [[Abilities]]
+- [[Developer Docs]]
+- [[GitHub]]
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

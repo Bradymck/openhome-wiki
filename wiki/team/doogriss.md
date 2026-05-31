@@ -1,25 +1,23 @@
-```markdown
----
-title: doogriss
-entity_type: team
+```yaml
+title: Doogriss
+entity_type: team/doogriss
 status: stub
-last_updated: 2026-05-30
----
+last_updated: 2026-05-31
+```
 
-### who-they-are
-doogriss is a full-stack AI developer and AI Automation Engineer involved in building custom AI systems, automation tools, and web applications for businesses and teams. They have significant experience in creating real-time voice agents and automating workflows.
+## who-they-are
+Doogriss is a full-stack AI developer specializing in building custom AI systems, including internal chat assistants, workflow automation tools, and conversational AI experiences. They focus on creating practical tools that enhance work efficiency.
 
-### what-they-own
-doogriss focuses on developing AI agents and automation workflows, utilizing technologies such as n8n, LangChain, Langflow, Vapi, and OpenAI to create voice agents, CRM automations, and data pipelines.
+## what-they-own
+Doogriss leads initiatives related to AI and automation, contributing to real-time AI tools and developing abilities that enhance the OpenHome platform. Their recent projects have involved creating internal assistants and various automation solutions.
 
-### how-to-reach
-To contact doogriss, reach out via their Discord handle.
+## how-to-reach
+Contact Doogriss via Discord (handle not specified).
 
-### connects-to
+## connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[dev-help]]
-[[getting-started]]
+[[projects/ai-systems]]
+[[projects/automation-tools]]
 
-<!-- synthesized: 2026-05-30T11:27:51Z -->
-```
+<!-- synthesized: 2026-05-31T11:30:03Z -->

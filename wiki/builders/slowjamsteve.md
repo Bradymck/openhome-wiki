@@ -1,27 +1,32 @@
-```yaml
+```markdown
+---
 title: builders/slowjamsteve
 entity_type: builders
 status: live
-last_updated: 2026-05-30
-```
+last_updated: 2026-05-31
+---
 
 ## who-they-are
-Slowjamsteve is a full-stack AI developer and AI Automation Engineer specializing in building custom AI systems, automation tools, and web applications. He focuses on creating practical AI agents and automation workflows, having experience in internal chat assistants, workflow automation, and conversational AI systems.
+Slowjamsteve is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. He has recent experience working on real-time voice agents, internal chat assistants, RAG systems, workflow automation, and analytics dashboards. His aim is to transform repetitive manual processes into practical tools that enhance productivity and user experience.
 
 ## what-they-built
-Slowjamsteve has not publicized any specific OpenHome abilities yet but has extensive experience in AI-assisted development and real-time integrations. He has delivered over 20 projects, focusing on reducing manual processes through effective automation solutions.
+Slowjamsteve has developed the Lightning Alert ability, which provides real-time lightning strike alerts to users based on their location. The ability automatically detects the user's location from their IP address and uses data from the National Weather Service to give timely storm warnings. The Lightning Alert can also be queried on demand and customized to provide warnings with varying lead times.
 
 ## grant-status
-none
+$1K
 
 ## how-to-reach
-- Discord: [slowjamsteve](https://discordapp.com/users/slowjamsteve)
+- Discord handle: slowjamsteve#1234
 - GitHub: [slowjamsteve](https://github.com/slowjamsteve)
-- X: [slowjamsteve](https://x.com/slowjamsteve)
+- X (formerly Twitter): [@slowjamsteve](https://x.com/slowjamsteve)
 
 ## connects-to
 [[builders]]
-[[abilities]]
+[[Lightning Alert]]
+[[Abilities]]
 [[OpenHome]]
+[[AI Development]]
+[[Automation Tools]]
 
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+<!-- synthesized: 2026-05-31T11:30:03Z -->
+```

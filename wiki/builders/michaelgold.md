@@ -3,34 +3,30 @@
 title: builders/michaelgold
 entity_type: builder
 status: live
-last_updated: 2026-05-30
+last_updated: 2026-05-31
 ---
 
 ## who-they-are
-Michael Gold is a full-stack AI developer experienced in building custom AI systems, automation tools, and web applications. He focuses on creating internal chat assistants, real-time voice agents, and workflow automation solutions for businesses. Michael is passionate about enhancing efficiency by transforming repetitive manual processes into practical tools.
+Michael Gold is a full-stack AI developer who specializes in building custom AI systems, automation tools, and web applications for businesses and teams. He has experience with creating internal chat assistants, real-time voice agents, and workflow automation systems.
 
 ## what-they-built
-Michael has worked on various AI projects that include:
-- Internal chat assistants
-- Real-time voice agents
-- Workflow automation systems
-- AI tools connected to APIs and backend systems
-Although he hasn't built any public OpenHome abilities, he has significant experience in AI-assisted development and integrating various technologies.
+Michael has contributed several abilities to OpenHome, including a new ability called Lightning Alert, which provides timely notifications about approaching storms using real-time data from the National Weather Service. This ability works without setup, determining location automatically and responding to user queries regarding lightning in their vicinity.
 
 ## grant-status
-none
+$1K
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: @michaelgold
+- GitHub: [michaelgold](https://github.com/michaelgold)
+- Twitter: [@michaelgold](https://twitter.com/michaelgold)
 
 ## connects-to
 [[builders]]
+[[abilities]]
 [[OpenHome]]
-[[AI Development]]
-[[Automation Tools]]
-[[Voice Agents]]
+[[AI development]]
+[[automation tools]]
+[[voice agents]]
 
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

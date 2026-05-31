@@ -1,26 +1,26 @@
 ```yaml
-title: Platform Voice AI
+title: Voice AI Platform
 entity_type: platform
 status: live
-last_updated: 2026-05-30
+last_updated: 2026-05-31
 ```
 
 ## what-it-is
-OpenHome is an open-source Voice AI platform designed to facilitate the creation of conversational AI agents called Personalities, which can be enhanced with modular voice plugins known as Abilities.
+OpenHome's Voice AI platform is an open-source framework that allows developers to create conversational AI agents, known as Personalities, and extend their capabilities with modular voice plugins called Abilities.
 
 ## how-it-works
-Users can build Personalities by setting up AI agents with unique voices, personas, and conversation styles. Abilities are plugins that add functional skills to these Personalities, allowing them to perform a variety of tasks such as calling APIs, playing music, running quizzes, and controlling smart devices. These Abilities are activated through hotwords during voice interactions, enabling users to engage in natural conversations with their AI agents.
+The Voice AI platform functions by enabling users to develop and customize AI agents, which can interact with users through natural language. Developers can create a Personality by defining its voice, persona, and conversation style, then enhance its functionality by integrating various Abilities. These Abilities allow the agent to perform tasks such as API calls, music playback, quiz assistance, and smart home control. The interactions are triggered by hotwords during conversations, allowing for seamless engagement with the AI.
 
 ## current-status
 live
 
 ## connects-to
-- [[platform/openhome]]
-- [[platform/speakers]]
-- [[platform/abilities]]
-- [[platform/dashboard]]
-- [[platform/local-link]]
-- [[platform/marketplace]]
-- [[platform/live-editor]]
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+<!-- synthesized: 2026-05-31T11:30:03Z -->

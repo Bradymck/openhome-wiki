@@ -1,20 +1,21 @@
-```yaml
-title: Dead Man's Switch
-entity_type: concepts/dead-mans-switch
-status: stub
-last_updated: 2026-05-30
-```
+```markdown
+---
+title: "Dead Man's Switch"
+entity_type: "concepts/"
+status: "stub"
+last_updated: 2026-05-31
+---
 
-## definition
-A dead man's switch is a safety mechanism designed to be activated if the operator becomes incapacitated or unable to continue their task. It ensures that a process or system defaults to a safe state if the user is not present to manage it.
+### definition
+A dead man's switch is a safety mechanism that automatically triggers a specific action when a user becomes incapacitated or is unable to perform a manual intervention. It is designed to ensure that certain tasks or processes do not continue indefinitely without oversight.
 
-## why-it-matters
-In the context of OpenHome, a dead man's switch can enhance user safety by ensuring that devices or systems respond appropriately in cases where a user is unable to interact with them. This concept is essential for maintaining robust, user-friendly interactions with voice AI agents and smart home devices.
+### why-it-matters
+In the context of OpenHome, implementing a dead man's switch can enhance the reliability and safety of AI-powered voice applications. By ensuring that systems do not operate without a user's active participation or oversight, it protects users from potential risks associated with unattended automation.
 
-## how-it-manifests
-While specific implementations of a dead man's switch within OpenHome are not listed, this concept could manifest in features such as emergency alerts, automatic shutdowns, or responsiveness to inactivity over a set duration. It could be used in voice applications to safeguard against users who may inadvertently put themselves in unsafe situations when interacting with technology.
+### how-it-manifests
+While specific examples of dead man's switch applications in OpenHome were not provided, the concept can manifest through settings that require user confirmation or re-engagement after a defined period of inactivity, especially in critical applications that manage home security or automation tasks.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -22,4 +23,5 @@ While specific implementations of a dead man's switch within OpenHome are not li
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+<!-- synthesized: 2026-05-31T11:30:03Z -->
+```

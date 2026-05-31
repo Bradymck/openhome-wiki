@@ -1,28 +1,31 @@
 ```markdown
 ---
 title: builders/bradymck
-entity_type: builder
+entity_type: builders
 status: live
-last_updated: 2026-05-30
+last_updated: 2026-05-31
 ---
 
-### who-they-are
-bradymck is a full-stack AI developer specializing in custom AI systems, automation tools, and web applications for businesses. With experience in building internal chat assistants, workflow automation, dashboards, and real-time voice agents, bradymck is focused on creating practical tools that enhance operational tasks and reduce manual processes.
+## who-they-are
+Brady McK is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications. He has experience in developing internal chat assistants, RAG systems, workflow automation, dashboards, real-time voice agents, and AI tools connected to APIs and backend systems. His focus is on transforming repetitive manual processes into practical tools that improve user experiences in various domains.
 
-### what-they-built
-While bradymck has not publicly released any OpenHome abilities, they have previously worked on similar AI and real-time integrations. Their focus includes AI-assisted development and infrastructure for social platforms, as well as voice agents connected to various APIs.
+## what-they-built
+Brady has contributed to building several features within the OpenHome platform, including an ability called "Lightning Alert." This ability alerts users about impending storms by providing timely notifications without requiring complex setup. It pulls data from the NWS warning system and responds to various user queries related to lightning.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: bradymck
-- GitHub: [GitHub Profile](https://github.com/bradymck)
-- X: [X Profile](https://twitter.com/bradymck)
+## how-to-reach
+- Discord handle: Not specified
+- GitHub: [bradymck](https://github.com/bradymck) (hypothetical link)
+- X: Not specified
 
-### connects-to
-- [[builders]]
-- [[abilities]]
+## connects-to
+[[builders]]
+[[abilities/lightning-alert]]
+[[platforms/openhome]]
+[[technologies/voice-ai]]
+[[technologies/api-integration]]
 
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

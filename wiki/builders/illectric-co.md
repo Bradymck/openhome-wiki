@@ -1,29 +1,30 @@
 ```markdown
 ---
 title: illectric-co
-entity_type: builders/
+entity_type: builders
 status: live
-last_updated: 2026-05-30
+last_updated: 2026-05-31
 ---
 
-## who-they-are
-Illectric-co is an active community builder focused on creating practical AI agents and automation workflows. They specialize in building custom AI systems, automation tools, and web applications for businesses and teams. Their work emphasizes efficient, voice-based interactions and streamlining repetitive manual processes.
+### who-they-are
+Illectric Co is a full-stack AI development team focused on building custom AI systems, automation tools, and web applications. They specialize in creating internal chat assistants, real-time AI tools, and applications that connect to various APIs and backend systems.
 
-## what-they-built
-Illectric-co has been involved in developing internal chat assistants, Real-Agent Generation (RAG) systems, automation workflows, dashboards, and real-time voice agents. They also work with various platforms like n8n, LangChain, Langflow, Vapi, and OpenAI to enhance their projects.
+### what-they-built
+Illectric Co has shipped several abilities, including a Lightning Alert ability that provides real-time information on nearby storms. This ability operates quietly in the background, using location data to warn users before a storm arrives, and provides updates after the storm passes. It requires no API keys and functions globally, enhancing user experience with voice interactions.
 
-## grant-status
-none
+### grant-status
+applied
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord handle: [Available on request]
+- GitHub: [Illectric Co GitHub](https://github.com/openhome-dev/abilities)
+- X: [Available on request]
 
 ## connects-to
-[[voice_agents]]
-[[automation_workflows]]
-[[AI_systems]]
+[[Abilities]]
 [[OpenHome]]
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+[[Voice AI Agents]]
+[[Automation Tools]]
+
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

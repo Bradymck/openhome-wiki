@@ -1,30 +1,28 @@
 ```markdown
 ---
-title: Roadmap/Shipments
-entity_type: roadmap/shipped
+title: Roadmap / Shipped
+entity_type: roadmap
 status: live
-last_updated: 2026-05-30
+last_updated: 2026-05-31
 ---
 
 ## what-it-is
-OpenHome has introduced V0.1 development kits for building AI agents. These kits are smart speakers that are fully operational out of the box, capable of supporting music playback, smart home control, and voice interactions.
+OpenHome has launched a new feature called **Lightning Alert**, which alerts users to impending storms by providing real-time updates based on their location. It operates in the background to notify users when severe weather is approaching and can also respond to specific user inquiries about local weather conditions.
 
 ## status
-shipped
+Shipped
 
 ## why-it-matters
-The V0.1 dev kits empower developers to create innovative voice AI applications and extend their functionalities with modular voice plugins called Abilities. This initiative is part of OpenHome's mission to revolutionize human-AI interaction by making voice technology more accessible and versatile.
+The Lightning Alert feature enhances user safety by providing timely warnings about lightning strikes and storm activity. This functionality utilizes real-time data from the National Weather Service, ensuring that users receive accurate updates comparable to that used by emergency services. Moreover, it requires zero setup, making it accessible to a wider audience.
 
 ## eta
-The dev kits are being shipped globally in small batches. Specific timelines for individual development kit shipments can vary.
+The feature has already been shipped as of May 31, 2026.
 
 ## connects-to
-[[OpenHome]]  
-[[Abilities]]  
-[[Personalities]]  
-[[Developer Docs]]  
-[[OpenHome Dashboard]]  
-[[GitHub]]  
+[[OpenHome]]
+[[Voice AI]]
+[[Abilities]]
+[[Developer Docs]]
 
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

@@ -2,24 +2,29 @@
 ---
 title: guides/sira
 entity_type: Community Guides
-status: beta
-last_updated: 2026-05-30
+status: live
+last_updated: 2026-05-31
 ---
 
-### who-they-are
-Sira is a full-stack AI developer with experience in building custom AI systems, automation tools, and web applications. They specialize in creating internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents connected to APIs and backend systems.
+## who-they-are
+Sira is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They have experience creating internal assistants, RAG systems, dashboards, and real-time AI tools that connect to various APIs and backend systems.
 
-### what-they-help-with
-Sira helps with AI projects, automation of existing workflows, and the development of custom conversational AI experiences. Their expertise includes working with various AI technologies, including n8n, LangChain, Langflow, Vapi, and OpenAI, to create AI agents and automation workflows that significantly reduce manual tasks.
+## what-they-help-with
+Sira specializes in:
+- Developing custom AI systems tailored to specific needs.
+- Creating automation tools that streamline workflows and processes.
+- Building web applications for businesses and teams.
+- Providing support and insights on integrating voice recognition in AI applications.
 
-### how-to-reach
-Discord handle: Sira#1234
+## how-to-reach
+Sira can be reached on Discord.
 
-### connects-to
-[[guides/openhome]]  
-[[guides/abilities]]  
-[[guides/developer-docs]]  
-[[guides/voice-ai]]
-
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+## connects-to
+[[guides]]
+[[AI systems]]
+[[automation tools]]
+[[web applications]]
+[[voice recognition]]
+[[OpenHome]]
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

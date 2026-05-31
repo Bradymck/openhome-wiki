@@ -1,27 +1,24 @@
 ```markdown
 ---
-title: guides/franci
-entity_type: Community Guide
+title: "Franci"
+entity_type: "guides/franci"
 status: live
-last_updated: 2026-05-30
+last_updated: 2026-05-31
 ---
 
-## who-they-are
-Franci is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They have experience in creating internal chat assistants, real-time voice agents, and AI tools that connect with APIs and backend systems.
+### who-they-are
+Franci is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They have worked on various projects including internal assistants and real-time AI tools connected to APIs.
 
-## what-they-help-with
-Franci specializes in practical AI agents and automation workflows. Their capabilities include:
-- Developing AI-assisted systems
-- Building workflows to automate tasks significantly reducing manual effort
-- Integration of conversational AI experiences with various platforms
+### what-they-help-with
+Franci specializes in creating conversational AI experiences, workflow automation, and developing dashboard solutions. They are experienced in building systems that enhance business processes and operational tasks.
 
-## how-to-reach
+### how-to-reach
 Franci can be reached on Discord.
 
-## connects-to
-[[OpenHome]]
-[[AI Automation]]
-[[Voice Technology]]
-[[Community Guides]]
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+### connects-to
+[[guides]]
+[[automation-tools]]
+[[AI-systems]]
+
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```

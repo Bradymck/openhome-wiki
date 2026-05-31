@@ -3,28 +3,27 @@
 title: builders/nicholas3415
 entity_type: builders
 status: live
-last_updated: 2026-05-30
+last_updated: 2026-05-31
 ---
 
-### who-they-are
-Nicholas3415 is a full-stack AI developer and AI Automation Engineer focused on creating custom AI systems, automation tools, and web applications tailored for businesses and teams. His work encompasses internal chat assistants, real-time voice agents, and AI tools integrated with various APIs and backend systems. He has a keen interest in developing practical tools that streamline repetitive processes and enhance operational efficiency.
+## who-they-are
+Nicholas3415 is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. They have experience in creating internal chat assistants, real-time voice agents, and other AI-driven solutions. Their work emphasizes turning repetitive manual processes into practical tools that optimize business operations.
 
-### what-they-built
-Nicholas3415 has engaged with the OpenHome platform, contributing to the development of conversational AI agents and exploring the integration of voice recognition for customized user experiences. While he has not publicly released any abilities via OpenHome yet, he has prior experience with similar real-time AI integrations and has delivered over 20 projects involving RAG systems, voice agents, CRM automation, and data pipelines.
+## what-they-built
+Nicholas3415 has contributed to the OpenHome platform by developing abilities such as the "Lightning Alert" ability that provides users with advanced warnings about incoming storms. This ability integrates with real-time data from the National Weather Service (NWS) and requires no configuration by the user, as it automatically detects the user's location. 
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord: nicholas3415
+- GitHub: [nicholas3415 GitHub](https://github.com/nicholas3415)
+- X: Not available
 
-### connects-to
-[[builders]]
-[[OpenHome]]
-[[AI Automation]]
-[[Conversational AI]]
+## connects-to
+[[abilities/lightning-alert]]
+[[abilities/open-home]]
+[[developers/nicholas3415]]
 
-<!-- synthesized: 2026-05-30T11:27:51Z -->
+<!-- synthesized: 2026-05-31T11:30:03Z -->
 ```
