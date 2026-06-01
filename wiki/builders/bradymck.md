@@ -3,29 +3,28 @@
 title: builders/bradymck
 entity_type: builders
 status: live
-last_updated: 2026-05-31
+last_updated: 2026-06-01
 ---
 
 ## who-they-are
-Brady McK is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications. He has experience in developing internal chat assistants, RAG systems, workflow automation, dashboards, real-time voice agents, and AI tools connected to APIs and backend systems. His focus is on transforming repetitive manual processes into practical tools that improve user experiences in various domains.
+Brady McK is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications. His recent work includes the development of internal chat assistants, retrieval-augmented generation (RAG) systems, workflow automation tools, dashboards, and real-time voice agents connected to various APIs.
 
 ## what-they-built
-Brady has contributed to building several features within the OpenHome platform, including an ability called "Lightning Alert." This ability alerts users about impending storms by providing timely notifications without requiring complex setup. It pulls data from the NWS warning system and responds to various user queries related to lightning.
+Brady McK has recently shipped a voice ability called "Lightning Alert". This ability provides real-time lightning alerts based on the user's IP location, utilizing data from the National Weather Service (NWS). The ability operates without requiring API keys, making it user-friendly and globally accessible.
 
 ## grant-status
 none
 
 ## how-to-reach
 - Discord handle: Not specified
-- GitHub: [bradymck](https://github.com/bradymck) (hypothetical link)
+- GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[builders]]
 [[abilities/lightning-alert]]
-[[platforms/openhome]]
-[[technologies/voice-ai]]
-[[technologies/api-integration]]
+[[builders/openhome]]
+[[developers/ai-systems]]
+[[projects/automation-tools]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

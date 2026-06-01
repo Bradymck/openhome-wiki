@@ -1,32 +1,27 @@
-```markdown
----
+```yaml
 title: builders/slowjamsteve
-entity_type: builders
+entity_type: builder
 status: live
-last_updated: 2026-05-31
----
+last_updated: 2026-06-01
+```
 
 ## who-they-are
-Slowjamsteve is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. He has recent experience working on real-time voice agents, internal chat assistants, RAG systems, workflow automation, and analytics dashboards. His aim is to transform repetitive manual processes into practical tools that enhance productivity and user experience.
+slowjamsteve is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. He has experience in developing internal chat assistants, real-time voice agents, and other AI tools integrated with APIs and backend systems, aiming to streamline operational tasks.
 
 ## what-they-built
-Slowjamsteve has developed the Lightning Alert ability, which provides real-time lightning strike alerts to users based on their location. The ability automatically detects the user's location from their IP address and uses data from the National Weather Service to give timely storm warnings. The Lightning Alert can also be queried on demand and customized to provide warnings with varying lead times.
+slowjamsteve recently shipped an Ability known as "Lightning Alert," which notifies users of incoming storms using data from the National Weather Service (NWS). This Ability operates with zero setup, automatically determining the user's location and providing real-time alerts about lightning activity and storm movements. Users can customize alert settings based on their preferences for forewarnings.
 
 ## grant-status
-$1K
+none
 
 ## how-to-reach
-- Discord handle: slowjamsteve#1234
-- GitHub: [slowjamsteve](https://github.com/slowjamsteve)
-- X (formerly Twitter): [@slowjamsteve](https://x.com/slowjamsteve)
+- Discord handle: slowjamsteve
+- GitHub: [slowjamsteve's GitHub](https://github.com/slowjamsteve)
+- X: [slowjamsteve on X](https://x.com/slowjamsteve)
 
 ## connects-to
-[[builders]]
-[[Lightning Alert]]
-[[Abilities]]
-[[OpenHome]]
-[[AI Development]]
-[[Automation Tools]]
-
-<!-- synthesized: 2026-05-31T11:30:03Z -->
-```
+[[abilities/lightning-alert]]
+[[developers/ai-systems]]
+[[developers/automation-tools]]
+[[openhome]]
+<!-- synthesized: 2026-06-01T12:51:25Z -->

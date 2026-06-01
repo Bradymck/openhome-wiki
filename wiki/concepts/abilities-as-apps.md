@@ -3,17 +3,17 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-05-31
+last_updated: 2026-06-01
 ---
 
 ## definition
-Abilities as apps are modular voice plugins within the OpenHome platform that enhance the conversational skills of AI agents, known as Personalities. They enable these agents to perform a variety of tasks such as calling APIs, playing music, and controlling smart devices through voice commands.
+Abilities-as-apps refers to modular voice plugins within the OpenHome platform that enhance Personalities (AI agents) with additional skills and functionalities. These plugins can perform tasks such as calling APIs, controlling smart home devices, playing music, and running interactive quizzes.
 
 ## why-it-matters
-This concept is crucial to OpenHome as it allows developers to rapidly extend the functionalities of AI agents. By utilizing Abilities, users can customize and enrich their interactions with technology, making it more intuitive and user-friendly. This aligns with OpenHome’s mission to create accessible, voice-first applications that enhance everyday life.
+This concept is pivotal to the OpenHome ecosystem as it allows developers to easily extend the capabilities of AI agents. By encouraging a modular design, OpenHome promotes innovation, enabling a diverse range of applications that can be built and shared within the community. This flexibility enhances user interaction and engagement with technology, making AI-driven experiences more versatile and tailored to individual needs.
 
 ## how-it-manifests
-Abilities are embedded within the OpenHome ecosystem and are triggered by specific hotwords during voice interactions. Each Ability can be customized with Python logic to serve various use cases, allowing for a diverse range of skills and functionalities tailored to user needs. Users can also browse, fork, and contribute to community-created Abilities, facilitating a collaborative development environment.
+Abilities are integrated into the OpenHome platform as plugins that are triggered during voice interactions. Users can create new Abilities or explore existing ones from the community. They can search functionalities, fork examples, and contribute to the shared repository, enhancing the collaborative nature of OpenHome development.
 
 ## connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ Abilities are embedded within the OpenHome ecosystem and are triggered by specif
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

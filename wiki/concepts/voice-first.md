@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: concepts/voice-first
-entity_type: concepts/
+entity_type: concepts
 status: live
-last_updated: 2026-05-31
+last_updated: 2026-06-01
 ---
 
 ## definition
-Voice-first is an approach to technology that prioritizes voice as the primary mode of interaction, allowing users to communicate with devices and applications through spoken language rather than traditional methods like keyboard or touchscreen.
+Voice-first refers to technology and applications designed primarily for voice interaction, prioritizing spoken commands and responses over traditional interfaces. This approach allows users to interact with devices and applications through natural language dialogue, making interactions more intuitive.
 
 ## why-it-matters
-Voice-first technology is at the core of OpenHome’s mission to revolutionize user interaction with technology. It aims to create immersive, intuitive, and human-like voice interactions that enhance users' daily lives. This approach democratizes access to advanced AI applications, making them more accessible to a broader audience.
+In the context of OpenHome, voice-first technology aligns with the mission to create immersive and human-like interactions, making AI-powered applications more accessible and user-friendly. It enhances user experience by enabling seamless voice communication with devices, thereby revolutionizing how people engage with technology.
 
 ## how-it-manifests
-In the OpenHome platform, voice-first technology is manifested through the creation of conversational AI agents, known as Personalities. These agents utilize voice recognition to interact with users, responding to hotwords and executing various Abilities that enhance user experiences. Users can trigger actions, retrieve information, and control smart home devices through voice commands, exemplifying the voice-first paradigm.
+Voice-first functionality is embedded throughout the OpenHome platform, particularly in the design of Personalities—AI agents that interact with users primarily through vocal communication. Users can activate various Abilities by using hotwords, allowing them to execute tasks or retrieve information simply by speaking. This model not only emphasizes the role of voice in human-device interaction but also illustrates the underlying technology that powers these interactions.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/local-first]]
+[[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
-[[concepts/web3-native]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

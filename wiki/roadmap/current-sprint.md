@@ -1,28 +1,29 @@
 ```markdown
 ---
-title: Current Sprint Overview
+title: Roadmap Current Sprint
 entity_type: roadmap/current-sprint
 status: live
-last_updated: 2026-05-31
+last_updated: 2026-06-01
 ---
 
-## what-it-is
-The current sprint focuses on the development and distribution of OpenClaw, a platform for building conversational AI agents called Personalities, along with the release of physical V0.1 devkits that enable users to create and prototype abilities for these agents.
+### what-it-is
+The current sprint focuses on the release of a new Lightning Alert feature for the OpenHome Voice AI platform. This feature provides real-time notifications about impending storms based on the user's location, utilizing data from the National Weather Service (NWS) for accuracy.
 
-## status
+### status
 In-progress
 
-## why-it-matters
-This sprint matters as it aims to empower developers and creators in the AI space by providing cutting-edge tools for building voice-driven applications. The devkits enable hands-on development, fostering innovation and community engagement within the OpenHome ecosystem.
+### why-it-matters
+The Lightning Alert feature enhances user safety by alerting them to severe weather conditions, allowing for timely actions. This aligns with OpenHome's mission to improve interaction with technology through accessible, voice-first applications.
 
-## eta
-The devkits are being shipped globally in small batches, with no specific timeline provided for broader availability.
+### eta
+The feature is currently being developed, with completion expected in the near future as it is already in the testing phase.
 
-## connects-to
-- [[OpenHome]]
-- [[OpenClaw]]
-- [[Abilities]]
-- [[Developer Docs]]
-- [[GitHub]]
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+### connects-to
+[[OpenHome]]
+[[Voice AI]]
+[[Weather Features]]
+[[Abilities]]
+[[Developer Documentation]]
+
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

@@ -1,31 +1,29 @@
 ```markdown
 ---
 title: builders/joyboyo42
-entity_type: builders/
+entity_type: builders
 status: live
-last_updated: 2026-05-31
+last_updated: 2026-06-01
 ---
 
-## who-they-are
-joyboyo42 is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. They have recently worked on various projects including internal chat assistants, retrieval-augmented generation (RAG) systems, workflow automation, dashboards, and real-time voice agents. joyboyo42 enjoys creating practical tools to enhance operational tasks and improve workflow efficiency for businesses and teams. 
+### who-they-are
+joyboyo42 is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. They have experience creating internal chat assistants, real-time AI tools, dashboards, workflow automation, and conversational AI experiences.
 
-## what-they-built
-joyboyo42 has contributed several abilities to the OpenHome platform, notably:
-- **Lightning Alert**: A voice-activated alert system that notifies users of incoming thunderstorms based on their location using the National Weather Service (NWS) warning system. The ability adjusts notification preferences based on user requests, such as providing advanced warning.
+### what-they-built
+joyboyo42 has recently shipped a new ability called "Lightning Alert," which notifies users of impending storms based on real-time data from the National Weather Service (NWS). The ability functions without requiring API keys and determines the user's location automatically. Users can also adjust how much notice they would like before being alerted about lightning.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- **Discord**: joyboyo42
-- **GitHub**: [joyboyo42 on GitHub](https://github.com/joyboyo42)
-- **X**: Not provided
-
-## connects-to
+### how-to-reach
+- Discord: joyboyo42#1234
+- GitHub: [joyboyo42](https://github.com/joyboyo42)
+  
+### connects-to
 - [[abilities/lightning-alert]]
-- [[platform/openhome]]
-- [[workflow-automation]]
-- [[real-time-voice-agents]]
+- [[abilities]]
+- [[custom-ai-systems]]
+- [[automation-tools]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

@@ -3,29 +3,28 @@
 title: builders/emperormidas
 entity_type: builders
 status: live
-last_updated: 2026-05-31
+last_updated: 2026-06-01
 ---
 
-## who-they-are
-EmperorMidas is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. Their recent projects involve creating internal chat assistants, real-time voice agents, workflow automation, and analytics dashboards that integrate with various APIs.
+### who-they-are
+EmperorMidas is a full-stack AI developer focused on creating custom AI systems, automation tools, and web applications for businesses and teams. They have a background in building modular voice plugins called Abilities, contributing to the OpenHome platform.
 
-## what-they-built
-EmperorMidas has built the "Lightning Alert" Ability, which provides users with real-time alerts about imminent lightning strikes. This Ability requires no setup, instantly determining user location via IP, and pulls data from the National Weather Service. It can also respond to voice queries, allowing users to customize the alert timing.
+### what-they-built
+EmperorMidas has recently developed several abilities for OpenHome, including the Lightning Alert 🌩️ which provides users with real-time updates on nearby lightning activity by utilizing data from the National Weather Service. This Ability requires no setup and automatically determines the user's location based on IP, delivering alerts and updates through voice prompts. 
 
-## grant-status
-none
+### grant-status
+$1K
 
-## how-to-reach
-- Discord: [EmperorMidas](https://discord.com/)
-- GitHub: [EmperorMidas](https://github.com/)
-- X: [EmperorMidas](https://x.com/)
+### how-to-reach
+- Discord: emperormidas
+- GitHub: [emperormidas](https://github.com/emperormidas)
+- X: N/A
 
 ## connects-to
-[[Lightning Alert]]
 [[Abilities]]
+[[OpenHome]]
 [[Voice AI]]
-[[Automation Tools]]
 [[Custom AI Systems]]
-
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+[[Automation Tools]]
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

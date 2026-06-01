@@ -1,30 +1,25 @@
 ```markdown
 ---
-title: "Sagarjethi"
+title: "sagarjethi"
 entity_type: "guides/"
 status: "live"
-last_updated: 2026-05-31
+last_updated: 2026-06-01
 ---
 
 ## who-they-are
-Sagarjethi is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications for businesses and teams. They have experience creating internal chat assistants, RAG systems, workflow automation solutions, dashboards, and real-time voice agents connected to APIs.
+Sagarjethi is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications for businesses and teams. They have a background in developing internal chat assistants, real-time voice agents, and workflow automation systems.
 
 ## what-they-help-with
-Sagarjethi specializes in:
-- Developing custom AI systems
-- Creating automation tools for various workflows
-- Building web applications for real operational tasks
-- Implementing conversational AI experiences
-- Exploring voice recognition technologies for enhancing user interaction
+Sagarjethi specializes in creating conversational AI experiences, analytics dashboards, and tools connected to APIs and backend systems. They focus on transforming repetitive manual processes into practical, user-friendly applications. Their work includes implementing real-time AI tools and enhancing workflows through automation.
 
 ## how-to-reach
-You can reach Sagarjethi on Discord.
+Discord: @sagarjethi
 
 ## connects-to
-[[guides/]]
-[[OpenHome]]
-[[AI development]]
-[[Automation tools]]
-[[Voice recognition]]
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+[[guides/ai-development]]
+[[guides/automation-tools]]
+[[guides/conversational-ai]]
+[[guides/openhome]]
+
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

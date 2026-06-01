@@ -1,27 +1,25 @@
 ```markdown
 ---
-title: "Dead Man's Switch"
-entity_type: "concepts/"
-status: "stub"
-last_updated: 2026-05-31
+title: concepts/dead-mans-switch
+entity_type: concepts
+status: stub
+last_updated: 2026-06-01
 ---
 
 ### definition
-A dead man's switch is a safety mechanism that automatically triggers a specific action when a user becomes incapacitated or is unable to perform a manual intervention. It is designed to ensure that certain tasks or processes do not continue indefinitely without oversight.
+A dead man's switch is a safety feature that automatically triggers an action if the operator becomes incapacitated or fails to respond. In the context of technology and systems, it ensures continued operation or safety measures without active user involvement.
 
 ### why-it-matters
-In the context of OpenHome, implementing a dead man's switch can enhance the reliability and safety of AI-powered voice applications. By ensuring that systems do not operate without a user's active participation or oversight, it protects users from potential risks associated with unattended automation.
+The concept of a dead man's switch is crucial for enhancing safety and reliability within OpenHome's system. It can provide users with peace of mind by ensuring that critical tasks or actions continue even if the user's attention is diverted, which is vital in scenarios related to automation, security, or emergency alerts.
 
 ### how-it-manifests
-While specific examples of dead man's switch applications in OpenHome were not provided, the concept can manifest through settings that require user confirmation or re-engagement after a defined period of inactivity, especially in critical applications that manage home security or automation tasks.
+Within OpenHome, a dead man's switch may appear in different applications, such as automated caregiving, emergency alert systems, or smart home configurations. It can be an integral part of Abilities designed for urgency, ensuring that necessary actions take place without requiring user intervention.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
-[[concepts/web3-native]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

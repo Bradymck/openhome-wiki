@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: concepts/web3-native
-entity_type: concepts
+title: web3-native
+entity_type: concepts/
 status: stub
-last_updated: 2026-05-31
+last_updated: 2026-06-01
 ---
 
-## definition
-Web3-native refers to applications and services built specifically for the decentralized internet, leveraging blockchain technology and emphasizing user ownership and control over data and assets.
+### definition
+Web3-native refers to applications, platforms, and services that are built on decentralized technologies, primarily leveraging blockchain. These concepts prioritize user sovereignty, privacy, and token-based incentives to create more equitable systems.
 
-## why-it-matters
-Web3-native technologies are fundamental to OpenHome's mission of creating a decentralized, user-focused environment for voice AI interactions, ensuring that users have sovereignty over their data and interactions within the platform.
+### why-it-matters
+In the context of OpenHome, being web3-native emphasizes the platform's commitment to decentralization, ensuring users have ownership over their data and interactions. This aligns with OpenHome’s mission to empower users and enhance privacy and autonomy in technology use.
 
-## how-it-manifests
-In the OpenHome ecosystem, web3-native principles can manifest through decentralized identity solutions, smart contracts for managing abilities, and secure peer-to-peer transactions that empower developers and users alike within the voice AI framework.
+### how-it-manifests
+While specific manifestations of web3-native concepts within OpenHome are not detailed, it relates to potential features that could support decentralized identity, cryptographic transactions, or token economics to incentivize user engagement and contributions.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ In the OpenHome ecosystem, web3-native principles can manifest through decentral
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

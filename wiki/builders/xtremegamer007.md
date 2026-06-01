@@ -1,26 +1,27 @@
-```yaml
-title: builders/xtremegamer007
-entity_type: builder
+```markdown
+---
+title: xtremegamer007
+entity_type: builders/
 status: live
-last_updated: 2026-05-31
-```
+last_updated: 2026-06-01
+---
 
-## who-they-are
-XtremeGamer007 is a full-stack AI developer focused on creating custom AI systems, automation tools, and web applications for various clients. They have extensive experience working on real-time AI tools, internal chat assistants, and other applications that integrate with APIs and backend systems.
+### who-they-are
+xtremegamer007 is a full-stack AI developer involved in building custom AI systems, automation tools, and web applications tailored for businesses and teams. They have experience in developing internal chat assistants, RAG systems, workflow automation solutions, dashboards, and real-time AI tools interfacing with APIs and backend systems.
 
-## what-they-built
-XtremeGamer007 has developed several abilities, including a "Lightning Alert" feature that notifies users of impending storms without requiring any setup. This ability utilizes location data from user IP addresses to provide timely alerts and integrates with the National Weather Service for accurate information. The ability also supports user commands for customizable notifications, such as the preferred timing for alerts.
+### what-they-built
+xtremegamer007 has recently shipped a new ability called **Lightning Alert**, which functions as a predictive alert system for thunderstorms. This ability operates with zero setup by detecting the user’s location based on their IP address and pulling data from the National Weather Service (NWS). It provides real-time alerts about impending storms, tells users how long they have before a storm arrives, and can be queried for lightning proximity.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord: xtremegamer007
+- GitHub: [github.com/openhome-dev/abilities/pull/273](https://github.com/openhome-dev/abilities/pull/273)
 
 ## connects-to
-[[Lightning Alert]]
-[[Abilities]]
-
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+- [[Lightning Alert]]
+- [[OpenHome Development]]
+- [[Voice AI]]
+<!-- synthesized: 2026-06-01T12:51:25Z -->
+```

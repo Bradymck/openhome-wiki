@@ -1,30 +1,26 @@
-```markdown
----
-title: builders/jagatfx
-entity_type: community builder
+```yaml
+title: jagatfx
+entity_type: builders
 status: live
-last_updated: 2026-05-31
----
+last_updated: 2026-06-01
+```
 
-### who-they-are
-Jagatfx is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. His expertise spans various domains, including internal chat assistants, RAG (retrieval-augmented generation) systems, and workflow automation.
+## who-they-are
+Jagatfx is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. Their expertise spans internal chat assistants, workflow automation, dashboards, and real-time voice agents.
 
-### what-they-built
-Jagatfx has contributed to OpenHome by developing an ability termed "Lightning Alert." This ability notifies users of nearby storms, providing real-time alerts based on user location and data sourced from the National Weather Service (NWS). The ability is designed to work globally without requiring API keys and autonomously determines the user's location based on their IP address.
+## what-they-built
+Jagatfx has developed several abilities on the OpenHome platform, including a Lightning Alert plugin that informs users about impending storms based on their location with minimal setup. This plugin utilizes the National Weather Service warning system to provide accurate alerts and can be queried on-demand by users for real-time lightning information.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: jagatfx
-- GitHub: [jagatfx's GitHub](https://github.com/openhome-dev/abilities/pull/273)
+- GitHub: [jagatfx's GitHub](https://github.com/openhome-dev/abilities/tree/dev)
 - X: [jagatfx's X](https://twitter.com/jagatfx)
 
-### connects-to
-- [[abilities/Lightning Alert]]
-- [[builders/OpenHome]]
-- [[developers/AI Systems]]
-- [[developers/Automation Tools]]
+## connects-to
+- [[abilities/lightning-alert]]
+- [[builders/openhome]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
-```
+<!-- synthesized: 2026-06-01T12:51:25Z -->

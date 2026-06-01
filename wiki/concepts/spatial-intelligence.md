@@ -1,23 +1,24 @@
-```yaml
-title: Spatial Intelligence
+```markdown
+---
+title: concepts/spatial-intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-05-31
-```
+last_updated: 2026-06-01
+---
 
 ## definition
-Spatial intelligence refers to the ability to visualize, manipulate, and understand spatial relationships and environments. In the context of OpenHome, it could involve understanding user locations, surroundings, and how to interact with them through voice AI technology.
+Spatial intelligence refers to the capacity to think in three dimensions and understand spatial relationships between objects. In the context of technology and artificial intelligence, it involves the ability to navigate and interact with physical environments in meaningful ways.
 
 ## why-it-matters
-Spatial intelligence is relevant to OpenHome as it enhances the interaction between users and their environments. Understanding spatial context can lead to more personalized and effective voice interactions, allowing AI agents to assist users based on their physical locations and activities.
+Spatial intelligence is crucial for enhancing user interaction with AI-powered applications on the OpenHome platform. By integrating spatial awareness, the platform can create more immersive and intuitive experiences, allowing users to engage with technology in a manner that reflects real-world contexts and relationships.
 
 ## how-it-manifests
-While specific implementations of spatial intelligence within the OpenHome platform are not detailed, its potential applications could include location-aware features in AI agents, improved response accuracy based on user positioning, and tailored interactions based on the user's environment.
+While specific examples of spatial intelligence in the OpenHome platform are not detailed, it may manifest through features that utilize geographical data, context-aware navigation, or environment recognition for improving user interactions with voice assistants. This could include determining a user's location to provide relevant information or alerts, as seen in abilities that notify users about local weather conditions or hazards.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/abilities-as-apps]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+<!-- synthesized: 2026-06-01T12:51:25Z -->
+```

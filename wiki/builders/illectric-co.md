@@ -1,30 +1,32 @@
 ```markdown
 ---
-title: illectric-co
+title: Illectric Co.
 entity_type: builders
 status: live
-last_updated: 2026-05-31
+last_updated: 2026-06-01
 ---
 
-### who-they-are
-Illectric Co is a full-stack AI development team focused on building custom AI systems, automation tools, and web applications. They specialize in creating internal chat assistants, real-time AI tools, and applications that connect to various APIs and backend systems.
+## who-they-are
+Illectric Co. is composed of full-stack AI developers dedicated to building custom AI systems, automation tools, and web applications. They focus on creating tools that enhance productivity and simplify repetitive tasks, including internal chat assistants and real-time AI agents.
 
-### what-they-built
-Illectric Co has shipped several abilities, including a Lightning Alert ability that provides real-time information on nearby storms. This ability operates quietly in the background, using location data to warn users before a storm arrives, and provides updates after the storm passes. It requires no API keys and functions globally, enhancing user experience with voice interactions.
+## what-they-built
+Illectric Co. has developed various products, including:
+- **Lightning Alert:** A voice-activated ability that provides real-time alerts for incoming thunderstorms, indicating how long until the storm arrives and whether it's safe to go outside. This ability operates globally, pulling data from the National Weather Service for users in the U.S. It requires no API keys and features on-demand inquiries for lightning presence.
 
-### grant-status
-applied
+## grant-status
+none
 
-### how-to-reach
-- Discord handle: [Available on request]
-- GitHub: [Illectric Co GitHub](https://github.com/openhome-dev/abilities)
-- X: [Available on request]
+## how-to-reach
+- Discord: [@Illectric](https://discord.com)
+- GitHub: [Illectric on GitHub](https://github.com/openhome-dev/abilities)
+- X: [@IllectricCo](https://x.com/IllectricCo)
 
 ## connects-to
-[[Abilities]]
+[[Lightning Alert]]
 [[OpenHome]]
-[[Voice AI Agents]]
+[[Voice AI]]
+[[AI Development]]
 [[Automation Tools]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

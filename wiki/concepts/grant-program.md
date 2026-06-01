@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/grant-program
+entity_type: concepts
 status: live
-last_updated: 2026-05-31
+last_updated: 2026-06-01
 ---
 
 ## definition
-The Grant Program is an initiative by OpenHome that provides support, funding, and resources to developers and creators who contribute to the OpenHome ecosystem. It aims to incentivize innovation and collaboration among community members.
+The Grant Program is an initiative designed to support developers contributing to the OpenHome platform by providing funding and resources for their projects. It encourages active participation and innovation within the OpenHome community.
 
 ## why-it-matters
-The Grant Program is significant for OpenHome as it fosters community engagement and encourages developers to create new applications and capabilities. By offering grants, OpenHome promotes a culture of collaboration and showcases innovative solutions that enhance the platform's functionality, ultimately leading to a wider adoption of voice AI technologies.
+The Grant Program is essential for fostering creativity and enhancing the capabilities of the OpenHome ecosystem. By incentivizing contributions through grants, OpenHome aims to expand the range of applications and solutions developed by its community members, ultimately improving the platform and user experience.
 
 ## how-it-manifests
-The Grant Program is operationalized through various mechanisms, such as providing physical developer kits (DevKits) for recipients who demonstrate top contributions. Participants can apply for grants, share their projects, and receive promotional support from OpenHome. This initiative continues to evolve as the community grows and new contributions emerge.
+The Grant Program manifests through the distribution of physical development kits (DevKits) to top contributors. It also involves promoting projects developed by recipients and offering additional budget support for innovative ideas that enhance the platform.
 
 ## connects-to
 - [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ The Grant Program is operationalized through various mechanisms, such as providi
 - [[concepts/dead-mans-switch]]
 - [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

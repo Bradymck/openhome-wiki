@@ -1,27 +1,30 @@
 ```markdown
 ---
-title: builders/shoompa
-entity_type: builder
+title: Shoompa
+entity_type: builders/
 status: live
-last_updated: 2026-05-31
+last_updated: 2026-06-01
 ---
 
 ### who-they-are
-Shoompa is a full-stack AI developer focusing on building custom AI systems, automation tools, and web applications. They specialize in developing internal chat assistants, retrieval-augmented generation (RAG) systems, workflow automation, dashboards, and real-time voice agents connected to APIs.
+Shoompa is a full-stack AI developer focused on creating custom AI systems, automation tools, and web applications. They have experience in developing internal chat assistants, real-time voice agents, dashboards, and various AI tools connected to APIs.
 
 ### what-they-built
-Shoompa has contributed a new Ability called "Lightning Alert." This Ability runs in the background and notifies users about incoming storms by using data from the National Weather Service (NWS). It provides real-time updates on storm proximity without requiring user setup or API keys. Users can also request specific notifications regarding lightning activity.
+Shoompa has contributed to the OpenHome platform, including the development of a Lightning Alert ability that provides users with warnings about incoming storms based on their location. This ability autonomously assesses the user's location and connects to the National Weather Service for accurate data without requiring user configuration.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: [Shoompa's GitHub](https://github.com/openhome-dev/abilities/pull/273)
-- X: Not provided
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ### connects-to
-[[abilities/lightning-alert]]
+[[building AI systems]]
+[[automating workflows]]
+[[voice AI applications]]
+[[OpenHome platform]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
+<!-- synthesized: 2026-06-01T12:51:25Z -->
 ```

@@ -1,30 +1,26 @@
-```markdown
----
-title: Roadmap for OpenHome
-entity_type: roadmap/planned
+```yaml
+title: roadmap/planned
+entity_type: roadmap
 status: live
-last_updated: 2026-05-31
----
+last_updated: 2026-06-01
+```
 
 ## what-it-is
-OpenHome is introducing new features and tools for developers to create conversational AI agents called Personalities. Current offerings include Smart speakers with modular plugins called Abilities that enhance the functionality of these AI agents.
+OpenHome's roadmap features the ongoing development of the OpenHome platform, including the distribution of physical V0.1 developer kits for top contributors, which allow users to build AI agents and modular voice plugins called Abilities.
 
 ## status
-- **In-progress**: Ongoing development of new Abilities and features based on user feedback and contributions.
-- **Shipped**: The Lightning Alert Ability which notifies users of nearby lightning strikes and storm warnings.
+In-progress
 
 ## why-it-matters
-OpenHome aims to revolutionize the interaction with technology by providing accessible, AI-powered voice applications. By allowing developers to build and prototype voice agents using the platform, OpenHome enhances user engagement and expands the possibilities of personal AI.
+This initiative aims to empower developers to create immersive and intuitive voice interactions, enhancing the accessibility of AI-powered applications and enabling users to connect with their devices in more meaningful ways.
 
 ## eta
-- The Lightning Alert Ability is currently available to users.
-- New features and abilities continue to be released and improved upon based on community feedback and contributions.
+Shipping globally in small batches is currently underway, though specific dates for future milestones are not explicitly provided.
 
 ## connects-to
-- [[OpenHome]]
-- [[Smart Speakers]]
-- [[Voice AI Development]]
-- [[Ability Plugins]]
+[[OpenHome]]
+[[developer docs]]
+[[Abilities]]
+[[Discord moderation policy]]
 
-<!-- synthesized: 2026-05-31T11:30:03Z -->
-```
+<!-- synthesized: 2026-06-01T12:51:25Z -->
