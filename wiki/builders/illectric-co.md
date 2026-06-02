@@ -1,32 +1,29 @@
 ```markdown
 ---
-title: Illectric Co.
+title: Illectric Co
 entity_type: builders
 status: live
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
-## who-they-are
-Illectric Co. is composed of full-stack AI developers dedicated to building custom AI systems, automation tools, and web applications. They focus on creating tools that enhance productivity and simplify repetitive tasks, including internal chat assistants and real-time AI agents.
+### who-they-are
+Illectric Co is a full-stack AI development team focused on creating custom AI systems, automation tools, and web applications tailored for businesses and teams. They have experience with various AI implementations, including real-time voice agents and internal chat assistants.
 
-## what-they-built
-Illectric Co. has developed various products, including:
-- **Lightning Alert:** A voice-activated ability that provides real-time alerts for incoming thunderstorms, indicating how long until the storm arrives and whether it's safe to go outside. This ability operates globally, pulling data from the National Weather Service for users in the U.S. It requires no API keys and features on-demand inquiries for lightning presence.
+### what-they-built
+Illectric Co has developed several innovative abilities for the OpenHome platform, including:
+- **Lightning Alert**: An ability that provides real-time notifications about approaching storms, using data from the National Weather Service (NWS) without requiring API keys. The ability can tell users how long they have until a storm arrives and adjust notification preferences, such as warning users two hours in advance.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: [@Illectric](https://discord.com)
-- GitHub: [Illectric on GitHub](https://github.com/openhome-dev/abilities)
-- X: [@IllectricCo](https://x.com/IllectricCo)
+### how-to-reach
+- Discord: Not specified
+- GitHub: [Illectric Co GitHub](https://github.com/openhome-dev/abilities)
+- X: Not specified
 
-## connects-to
-[[Lightning Alert]]
-[[OpenHome]]
-[[Voice AI]]
-[[AI Development]]
-[[Automation Tools]]
+### connects-to
+- [[builders/openhome]]
+- [[abilities/lightning-alert]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

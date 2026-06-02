@@ -1,29 +1,30 @@
 ```markdown
 ---
 title: builders/joyboyo42
-entity_type: builders
+entity_type: builder
 status: live
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
-### who-they-are
-joyboyo42 is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. They have experience creating internal chat assistants, real-time AI tools, dashboards, workflow automation, and conversational AI experiences.
+## who-they-are
+Joyboyo42 is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. Their recent work includes developing internal chat assistants, RAG systems, workflow automation, and real-time voice agents connected to APIs and backend systems.
 
-### what-they-built
-joyboyo42 has recently shipped a new ability called "Lightning Alert," which notifies users of impending storms based on real-time data from the National Weather Service (NWS). The ability functions without requiring API keys and determines the user's location automatically. Users can also adjust how much notice they would like before being alerted about lightning.
+## what-they-built
+Joyboyo42 has shipped a new ability called Lightning Alert, which serves as a practical tool that notifies users of incoming storms. This ability operates without setup by determining the user's location via IP and providing real-time warnings based on data from the National Weather Service (NWS). Users can query the agent for lightning information and customize alert timings without needing API keys.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: joyboyo42#1234
+## how-to-reach
+- Discord: [joyboyo42](https://discord.com)
 - GitHub: [joyboyo42](https://github.com/joyboyo42)
-  
-### connects-to
-- [[abilities/lightning-alert]]
-- [[abilities]]
-- [[custom-ai-systems]]
-- [[automation-tools]]
+- X: [joyboyo42](https://x.com/joyboyo42)
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+## connects-to
+[[abilities/lightning-alert]]
+[[developers/ai-systems]]
+[[developers/automation-tools]]
+[[developers/web-applications]]
+
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

@@ -3,28 +3,29 @@
 title: builders/bradymck
 entity_type: builders
 status: live
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
-## who-they-are
-Brady McK is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications. His recent work includes the development of internal chat assistants, retrieval-augmented generation (RAG) systems, workflow automation tools, dashboards, and real-time voice agents connected to various APIs.
+### who-they-are
+Brady McK is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. His expertise includes real-time voice agents, internal chat assistants, and workflow automation.
 
-## what-they-built
-Brady McK has recently shipped a voice ability called "Lightning Alert". This ability provides real-time lightning alerts based on the user's IP location, utilizing data from the National Weather Service (NWS). The ability operates without requiring API keys, making it user-friendly and globally accessible.
+### what-they-built
+Brady has recently developed several notable integrations including:
+- **Lightning Alert**: A voice agent that alerts users about nearby lightning storms by using real-time data from the National Weather Service. This Ability requires no setup and provides on-demand querying, informing users of storm proximity and allowing them to customize alert preferences.
 
-## grant-status
-none
+### grant-status
+None
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord: Unknown
+- GitHub: [bradymck](https://github.com/bradymck)
+- X: Unknown
 
-## connects-to
-[[abilities/lightning-alert]]
-[[builders/openhome]]
-[[developers/ai-systems]]
-[[projects/automation-tools]]
+### connects-to
+- [[Ability: Lightning Alert]]
+- [[Personalities]]
+- [[Voice AI Development]]
+- [[OpenHome]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

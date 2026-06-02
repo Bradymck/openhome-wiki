@@ -1,30 +1,31 @@
 ```markdown
 ---
 title: builders/michaelgold
-entity_type: community builder
+entity_type: builder
 status: live
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 ## who-they-are
-Michael Gold is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. He has experience in developing internal chat assistants, RAG systems, workflow automation, dashboards, real-time voice agents, and AI tools connected to APIs and backend systems.
+Michael Gold is a full-stack AI developer focused on creating custom AI systems, automation tools, and web applications. He has experience in developing internal assistants, dashboards, real-time AI tools, and connecting these systems to various APIs.
 
 ## what-they-built
-Michael has recently shipped an ability called "Lightning Alert," which informs users of impending storms by analyzing real-time weather data. The ability does not require configuration, works globally, and provides on-demand checks for nearby lightning. The pull request for this ability can be found [here](https://github.com/openhome-dev/abilities/pull/273).
+Michael has shipped several abilities, including:
+- **Lightning Alert**: A voice ability that provides real-time alerts about nearby lightning storms without any setup. It automatically detects the user’s location using their IP address and pulls data from the National Weather Service’s warning system. Users can ask about the safety of going outside and set custom alert notifications.
 
 ## grant-status
-none
+$1K
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: [MichaelGold](https://discord.com)
+- GitHub: [michaelgold](https://github.com/michaelgold)
+- X: [michaelgold](https://x.com/michaelgold)
 
 ## connects-to
-[[abilities/lightning-alert]]
-[[builders/openhome-dev]]
-[[developers/full-stack-ai]]
-[[projects/ai-automation]]
-[[projects/conversational-ai]]
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+[[Voice AI]]
+[[OpenHome]]
+[[Abilities]]
+[[Automation Tools]]
+
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

@@ -1,24 +1,27 @@
 ```markdown
 ---
-title: Roadmap - Shipped
+title: Roadmap - Shipped Features
 entity_type: roadmap/shipped
 status: live
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 ## what-it-is
-The Lightning Alert feature for OpenHome provides users with real-time notifications about incoming storms. It runs in the background and alerts users on the estimated time before a storm arrives, as well as after it has passed.
+OpenHome has released a new ability called Lightning Alert, which provides real-time notifications about nearby thunderstorms based on the user’s location. The feature operates with zero setup and utilizes data from the National Weather Service (NWS) for accurate alerts.
 
 ## status
-Shipped
+shipped
 
 ## why-it-matters
-This feature enhances user safety by allowing individuals to receive timely warnings about severe weather, thus enabling them to take appropriate actions to protect themselves and their property. The alert system leverages real data from the National Weather Service, ensuring accurate and reliable information.
+Lightning Alert enhances user safety by providing timely warnings about storm activity, allowing users to take necessary precautions. This feature exemplifies OpenHome's commitment to creating intuitive and responsive voice-powered applications, ensuring users stay informed without extensive configuration.
 
 ## eta
-Not specified, but it is currently available for users.
+The Lightning Alert feature is currently available and has been fully implemented as of the latest update.
 
 ## connects-to
-[[OpenHome]], [[Abilities]], [[Voice AI]]
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+[[OpenHome]]
+[[Abilities]]
+[[Weather Applications]]
+
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

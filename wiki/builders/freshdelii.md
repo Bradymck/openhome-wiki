@@ -1,26 +1,34 @@
-```yaml
-title: FreshDelii
+```markdown
+---
+title: builders/freshdelii
 entity_type: builders
-status: live
-last_updated: 2026-06-01
-```
+status: stub
+last_updated: 2026-06-02
+---
 
-## who-they-are
-FreshDelii is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications. Their recent work includes internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents connected to APIs and backend systems.
+### who-they-are
+Freshdelii is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. Their recent work includes internal chat assistants, Real-time AI tools, and AI tools connected to various APIs.
 
-## what-they-built
-FreshDelii has shipped several abilities including a Lightning Alert system that provides real-time notifications about imminent lightning storms. This system works without any user configuration, detects location automatically via IP, and interfaces directly with the National Weather Service for data accuracy.
+### what-they-built
+Freshdelii has developed various projects, including:
+- Internal chat assistants
+- Real-time voice agents
+- RAG systems (Retrieval-Augmented Generation)
+- Workflow automation tools
+- Analytics dashboards
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
+### how-to-reach
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-## connects-to
-- [[builders/openhome]]
-- [[abilities/lightning-alert]]
+### connects-to
+- [[AI systems]]
+- [[Automation tools]]
+- [[Voice agents]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+<!-- synthesized: 2026-06-02T12:17:43Z -->
+```

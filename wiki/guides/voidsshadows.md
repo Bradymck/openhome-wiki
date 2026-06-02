@@ -1,27 +1,25 @@
 ```markdown
 ---
 title: guides/voidsshadows
-entity_type: Community Guides
-status: live
-last_updated: 2026-06-01
+entity_type: Community Guide
+status: stub
+last_updated: 2026-06-02
 ---
 
-## who-they-are
-Voidsshadows is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They specialize in real-time AI tools connected to APIs and have experience working on various projects including internal assistants, dashboards, and voice agents.
+### who-they-are
+Voidshadows is a full-stack AI developer with experience in building custom AI systems, automation tools, and web applications tailored for businesses and teams. Their background includes work on internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents connected to APIs.
 
-## what-they-help-with
-Voidsshadows helps with the development of custom AI systems, particularly focusing on conversational AI experiences, automation of workflows, and building tools that streamline repetitive manual processes. They are involved in developing abilities for the OpenHome platform, offering insights into integrating voice recognition for personalized interactions.
+### what-they-help-with
+Voidshadows specializes in developing custom AI systems and automation for existing workflows. Their expertise encompasses creating conversational AI experiences and turning repetitive manual processes into user-friendly tools. They focus on technology that assists users in practical tasks and enhances business functionality.
 
-## how-to-reach
-Discord handle: <@1273261229586255892>
+### how-to-reach
+Discord handle: Not specified
 
-## connects-to
-[[guides]]
-[[OpenHome]]
-[[API]]
-[[Voice AI]]
-[[Abilities]]
-[[Automation Tools]]
+### connects-to
+[[guides/openhome]]
+[[guides/ai-developers]]
+[[guides/automation-tools]]
+[[guides/conversational-ai]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

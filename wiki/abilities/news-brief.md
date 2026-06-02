@@ -1,27 +1,29 @@
-```yaml
+```markdown
+---
 title: abilities/news-brief
 entity_type: abilities
 status: live
-last_updated: 2026-06-01
-```
+last_updated: 2026-06-02
+---
 
 ## what-it-does
-The News Brief ability provides timely alerts about nearby lightning storms. It runs quietly in the background, automatically detecting the user's location based on IP address. Once loaded, it informs the user with accurate warnings, such as, "storm's 40 minutes from you, head inside," and notifies them when the storm has passed. Users can also request updates on nearby storms or define how much notice they want before a storm approaches.
+The News Brief ability functions as a background service that provides real-time notifications about weather conditions, specifically lightning storms. It alerts users about impending storms, informing them of the time remaining before the storm arrives, and also provides updates once the storm has passed. Users can request on-demand information about nearby lightning or adjust their notification preferences.
 
 ## how-to-build
-The News Brief ability does not require any API keys and is designed to function globally. It utilizes the National Weather Service (NWS) warning system data for accuracy. Builders can implement this ability using custom Python logic to react to hotwords during voice interactions.
+To develop the News Brief ability, utilize the OpenHome API to access real-time data from the National Weather Service (NWS). The ability operates with zero initial setup by detecting the user’s location based on their IP address. It does not require API keys, ensuring global functionality. Users can ask questions related to lightning and request specific advance warnings.
 
 ## category
 utility
 
 ## built-by
-[[abilities/deadman-fm]]
+[[User Profile: Unknown Builder]]
 
 ## status
 live
 
 ## connects-to
-[[abilities/aquaprime]]  
-[[abilities/trivia]]
+[[abilities/deadman-fm]]
+[[abilities/aquaprime]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+<!-- synthesized: 2026-06-02T12:17:43Z -->
+```

@@ -1,26 +1,24 @@
 ```markdown
 ---
-title: Skillstone Community Guide
+title: Skillstone Community Guides
 entity_type: guides/
 status: live
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
-## who-they-are
-Skillstone is represented by a community guide known for their expertise in voice AI systems and automation tools. They are a full-stack AI developer with a background in building custom AI systems, internal assistants, and various web applications.
+### who-they-are
+Skillstone community guides are experienced users who specialize in creating and sharing knowledge related to OpenHome's AI-powered voice applications. They have backgrounds in full-stack AI development and automation tools, with expertise in building custom AI systems and integrating various APIs.
 
-## what-they-help-with
-Skillstone specializes in creating and integrating modular voice plugins known as Abilities within the OpenHome platform. They assist users in developing conversational AI agents, setting up Personalities, and understanding how to utilize APIs effectively. Their recent projects include workflow automation, real-time voice agents, and RAG systems.
+### what-they-help-with
+These guides assist users in navigating the OpenHome platform, helping them create conversational AI agents (Personalities) and extend their capabilities with modular plugins known as Abilities. They provide support in areas like system setup, usage of the OpenHome Dashboard, and community-based development of new abilities.
 
-## how-to-reach
-Discord Handle: Not specified, refer to community communication channels for contact details.
+### how-to-reach
+Connect with them on Discord using the handle: `full-stack AI developer`
 
-## connects-to
+### connects-to
 [[OpenHome]]
 [[Voice AI]]
-[[Abilities]]
-[[APIs]]
-[[Community Contributions]]
+[[Development Tools]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

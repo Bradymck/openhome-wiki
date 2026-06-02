@@ -1,28 +1,24 @@
 ```markdown
 ---
-title: guides/discomelon
-entity_type: guides
-status: beta
-last_updated: 2026-06-01
+title: "guides/discomelon"
+entity_type: "Community Guide"
+status: "stub"
+last_updated: 2026-06-02
 ---
 
-## who-they-are
-Discomelon is a full-stack AI developer specializing in creating custom AI systems, automation tools, and web applications. They have experience in developing internal chat assistants, real-time voice agents, and dashboard solutions connected to backend systems.
+### who-they-are
+Discomelon is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They have experience working on internal assistants, real-time AI tools, and automation that connects to APIs.
 
-## what-they-help-with
-Discomelon helps with:
-- Building custom AI systems and automation tools.
-- Developing voice AI applications and conversational AI experiences.
-- Implementing RAG systems for real-time operations.
-- Supporting businesses in creating internal workflow automation and dashboard analytics.
+### what-they-help-with
+Discomelon specializes in developing conversational AI experiences and workflow automation tools. They assist users in exploring AI projects, implementing automation for existing workflows, and building custom solutions tailored to specific needs.
 
-## how-to-reach
-Discord Handle: <@1273261229586255892>
+### how-to-reach
+Discord handle: Discomelon
 
-## connects-to
-[[guides/openhome]]
-[[guides/voice-ai]]
-[[guides/development-tools]]
-
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+### connects-to
+- [[OpenHome]]
+- [[Voice AI]]
+- [[AI Development]]
+- [[Community Guides]]
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

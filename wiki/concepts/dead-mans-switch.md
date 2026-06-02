@@ -1,25 +1,27 @@
 ```markdown
 ---
-title: concepts/dead-mans-switch
-entity_type: concepts
+title: Dead Man's Switch
+entity_type: concepts/dead-mans-switch
 status: stub
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
-### definition
-A dead man's switch is a safety feature that automatically triggers an action if the operator becomes incapacitated or fails to respond. In the context of technology and systems, it ensures continued operation or safety measures without active user involvement.
+### Definition
+A Dead Man's Switch is a safety mechanism that automatically triggers an action when the operator becomes incapacitated or fails to respond. This concept is often used in the context of technology to ensure that a system or process can halt or activate safety measures if a user does not interact with it for a certain period.
 
-### why-it-matters
-The concept of a dead man's switch is crucial for enhancing safety and reliability within OpenHome's system. It can provide users with peace of mind by ensuring that critical tasks or actions continue even if the user's attention is diverted, which is vital in scenarios related to automation, security, or emergency alerts.
+### Why It Matters
+In the context of OpenHome, the Dead Man's Switch concept is relevant as it enhances the safety and reliability of voice AI agents. By implementing this feature, OpenHome can provide a more secure user experience, ensuring that the system remains responsive and prevents unwanted actions if the user is unresponsive or distracted.
 
-### how-it-manifests
-Within OpenHome, a dead man's switch may appear in different applications, such as automated caregiving, emergency alert systems, or smart home configurations. It can be an integral part of Abilities designed for urgency, ensuring that necessary actions take place without requiring user intervention.
+### How It Manifests
+While specific implementations are not detailed in the provided sources, the Dead Man's Switch could manifest in OpenHome through features that pause operations, alert users, or shut down functions if the system detects a lack of user interaction over a significant period. This could involve voice interactions where if a user does not issue commands or engage with the agent, it takes a predefined action.
 
-### connects-to
+### Connects To
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
+[[concepts/web3-native]]
 [[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

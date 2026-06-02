@@ -3,23 +3,28 @@
 title: Super Greg
 entity_type: guides/super-greg
 status: live
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
-### who-they-are
-Super Greg is a full-stack AI developer with expertise in creating custom AI systems, automation tools, and web applications. He has experience in building internal chat assistants, real-time voice agents, and systems connected to APIs for efficient operational tasks. His work focuses on enhancing user interactions through technology and automation.
+## who-they-are
+Super Greg is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications for businesses and teams. Their recent work includes internal chat assistants, RAG systems, workflow automation, dashboards, real-time voice agents, and AI tools that interact with various APIs and backend systems.
 
-### what-they-help-with
-Super Greg specializes in developing custom AI solutions, including automation workflows and conversational AI experiences. His ability to turn repetitive manual processes into practical tools helps businesses and teams improve efficiency and user engagement. He is also knowledgeable in using voice recognition technologies to create personalized interactions based on user inputs.
+## what-they-help-with
+Super Greg specializes in creating practical tools that streamline repetitive processes into effective solutions used by people. This includes:
+- Building custom AI systems and tools for automation.
+- Developing conversational AI experiences.
+- Creating dashboards and analytics tools.
+- Integrating APIs to facilitate workflow automations.
 
-### how-to-reach
-You can connect with Super Greg on Discord.
+## how-to-reach
+Super Greg can be found on Discord under the handle: `@super-greg`.
 
-### connects-to
+## connects-to
 [[guides]]
-[[AI systems]]
-[[automation tools]]
-[[community guides]]
-[[voice interaction]]
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+[[AI Development]]
+[[Automation Tools]]
+[[Voice AI]]
+[[Web Applications]]
+
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

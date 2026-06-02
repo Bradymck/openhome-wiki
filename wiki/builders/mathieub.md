@@ -1,27 +1,30 @@
-```yaml
-title: mathieub
-entity_type: builders
+```markdown
+---
+title: builders/mathieub
+entity_type: builder
 status: live
-last_updated: 2026-06-01
-```
+last_updated: 2026-06-02
+---
 
 ## who-they-are
-Mathieu B. (alias mathieub) is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. Their work involves creating real-time AI tools connected to APIs, internal chat assistants, and workflow automation.
+Mathieu is a full-stack AI developer with experience in building custom AI systems, automation tools, and web applications. He focuses on internal chat assistants, RAG systems, workflow automation, dashboards, real-time voice agents, and AI tools that interface with APIs for operational tasks.
 
 ## what-they-built
-Mathieu has recently developed an ability called **Lightning Alert**, which notifies users of impending storms by determining their location through IP address, adjusting notifications based on user preferences, and providing real-time data sourced from the National Weather Service. The ability is designed to require zero setup, functioning seamlessly upon activation.
+Mathieu has shipped several abilities, including:
+- **Lightning Alert**: A voice ability that alerts users about nearby lightning strikes, utilizing NWS data to provide timely warnings and live checks. 
 
 ## grant-status
 $1K
 
 ## how-to-reach
-- Discord: mathieub#1234
-- GitHub: [mathieub](https://github.com/mathieub)
-- X: [mathieub on X](https://x.com/mathieub)
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-- [[builders]]
-- [[abilities/lightning-alert]]
-- [[abilities]] 
-
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+[[Lightining Alert]]
+[[OpenHome]]
+[[Voice AI]]
+[[AI Development]]
+<!-- synthesized: 2026-06-02T12:17:43Z -->
+```

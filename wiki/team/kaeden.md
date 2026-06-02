@@ -1,23 +1,25 @@
 ```markdown
 ---
-title: Team Kaeden
+title: Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 ### who-they-are
-Kaeden is a full-stack AI developer at OpenHome, specializing in building custom AI systems, automation tools, and web applications. They have a background in developing real-time AI tools and integrating them with various APIs.
+Kaeden is a full-stack AI developer at OpenHome, specializing in building custom AI systems, automation tools, and web applications. They focus on enhancing business operations through technology.
 
 ### what-they-own
-Kaeden leads projects focused on automation and custom AI solutions for businesses. They are involved in building internal chat assistants, workflow automation systems, dashboards, and other AI-driven applications.
+Kaeden leads initiatives related to conversational AI experiences, internal chat assistants, and workflow automation tools, ensuring that these solutions integrate effectively with existing systems.
 
 ### how-to-reach
-Discord handle unknown, preferred contact details not provided.
+Kaeden's preferred contact method is through Discord.
 
 ### connects-to
 [[team/jesse]]
 [[team/shannon]]
+[[team/abilities]]
+[[team/devkit]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

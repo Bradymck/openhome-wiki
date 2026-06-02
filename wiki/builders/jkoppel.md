@@ -1,30 +1,29 @@
-```yaml
+```markdown
+---
 title: jkoppel
-entity_type: builders
+entity_type: builders/jkoppel
 status: live
-last_updated: 2026-06-01
-```
+last_updated: 2026-06-02
+---
 
-## who-they-are
-jkoppel is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. They specialize in real-time AI tools, internal chat assistants, and workflow automation.
+### who-they-are
+jkoppel is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. They specialize in creating internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents, all connected to various APIs and backend systems.
 
-## what-they-built
-jkoppel has developed various abilities including:
-- Lightning Alert ⚡, which notifies users about nearby storms with minimal setup. It uses IP location data to provide timely alerts based on National Weather Service (NWS) data. 
-- Other creations include internal assistants, RAG systems, dashboards, and voice agents that interact with APIs to perform real operational tasks.
+### what-they-built
+jkoppel has recently shipped an ability called "Lightning Alert," which provides real-time alerts for incoming storms. It runs quietly in the background, determining the user's location from their IP address to deliver timely warnings, and allows users to customize alert notifications. The development can be seen in their GitHub pull request [here](https://github.com/openhome-dev/abilities/pull/273).
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord handle: Not specified
+- GitHub: [jkoppel's GitHub](https://github.com/openhome-dev/abilities)
+- X (formerly Twitter): Not specified
 
-## connects-to
+### connects-to
 [[abilities/lightning-alert]]
-[[abilities/internal-assistants]]
-[[abilities/real-time-ai-tools]]
-[[abilities/workflow-automation]]
+[[builders]]
+[[openhome]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+<!-- synthesized: 2026-06-02T12:17:43Z -->
+```

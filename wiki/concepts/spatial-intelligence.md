@@ -1,24 +1,27 @@
 ```markdown
 ---
-title: concepts/spatial-intelligence
+title: Spatial Intelligence
 entity_type: concepts
-status: stub
-last_updated: 2026-06-01
+status: live
+last_updated: 2026-06-02
 ---
 
 ## definition
-Spatial intelligence refers to the capacity to think in three dimensions and understand spatial relationships between objects. In the context of technology and artificial intelligence, it involves the ability to navigate and interact with physical environments in meaningful ways.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships between objects. It encompasses skills such as orientation, navigation, and the understanding of three-dimensional space.
 
 ## why-it-matters
-Spatial intelligence is crucial for enhancing user interaction with AI-powered applications on the OpenHome platform. By integrating spatial awareness, the platform can create more immersive and intuitive experiences, allowing users to engage with technology in a manner that reflects real-world contexts and relationships.
+In the context of OpenHome, spatial intelligence is crucial for enhancing user interactions by allowing voice AI agents to understand and respond to users based on their physical context. This capability can improve functionality in smart home settings, making interactions more intuitive and personalized.
 
 ## how-it-manifests
-While specific examples of spatial intelligence in the OpenHome platform are not detailed, it may manifest through features that utilize geographical data, context-aware navigation, or environment recognition for improving user interactions with voice assistants. This could include determining a user's location to provide relevant information or alerts, as seen in abilities that notify users about local weather conditions or hazards.
+Spatial intelligence appears in OpenHome through the design of AI agents that can process location data and engage with users based on their immediate environment. For instance, features such as geolocation-based alerts or context-aware commands leverage spatial intelligence to provide relevant responses.
 
 ## connects-to
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/abilities-as-apps]]
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

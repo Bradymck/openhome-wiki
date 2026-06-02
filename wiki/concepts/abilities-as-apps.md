@@ -3,25 +3,22 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
-## definition
-Abilities-as-apps refers to modular voice plugins within the OpenHome platform that enhance Personalities (AI agents) with additional skills and functionalities. These plugins can perform tasks such as calling APIs, controlling smart home devices, playing music, and running interactive quizzes.
+### definition
+Abilities-as-apps are modular voice plugins within the OpenHome platform that provide specific skills to conversational AI agents, known as Personalities. These abilities can perform various tasks, such as accessing APIs, playing music, or controlling smart devices.
 
-## why-it-matters
-This concept is pivotal to the OpenHome ecosystem as it allows developers to easily extend the capabilities of AI agents. By encouraging a modular design, OpenHome promotes innovation, enabling a diverse range of applications that can be built and shared within the community. This flexibility enhances user interaction and engagement with technology, making AI-driven experiences more versatile and tailored to individual needs.
+### why-it-matters
+This concept is crucial to the OpenHome ecosystem because it allows users to easily extend the functionality of their AI agents. By using abilities, developers can create highly customizable and interactive experiences, promoting innovation and user engagement.
 
-## how-it-manifests
-Abilities are integrated into the OpenHome platform as plugins that are triggered during voice interactions. Users can create new Abilities or explore existing ones from the community. They can search functionalities, fork examples, and contribute to the shared repository, enhancing the collaborative nature of OpenHome development.
+### how-it-manifests
+In OpenHome, abilities are triggered during voice interactions with Personalities. Users can develop new abilities using Python logic, which can then be uploaded and integrated into their AI agents. The platform provides tools and resources, such as the OpenHome Dashboard and GitHub, to facilitate the creation and management of these abilities.
 
-## connects-to
+### connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

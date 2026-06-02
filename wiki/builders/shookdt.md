@@ -1,31 +1,28 @@
-```markdown
----
+```yaml
 title: builders/shookdt
-entity_type: builders
+entity_type: builder
 status: live
-last_updated: 2026-06-01
----
+last_updated: 2026-06-02
+```
 
 ## who-they-are
-shookdt is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. Their recent work includes developing internal chat assistants, RAG (Retrieval-Augmented Generation) systems, workflow automation, dashboards, and real-time voice agents that are connected to APIs and other backend systems to manage operational tasks effectively.
+Shookdt is a full-stack AI developer specializing in custom AI systems, automation tools, and web applications. They focus on creating practical solutions that turn repetitive manual processes into tools that enhance operational efficiency. Their expertise includes developing internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents integrated with APIs.
 
 ## what-they-built
-shookdt has built a variety of abilities and integrations, including the recently released Lightning Alert, which provides real-time notifications about impending storms. This ability operates seamlessly by determining the user's location via their IP address without requiring any initial setup, fetching data from the National Weather Service (NWS) warning system. The Lightning Alert can give live updates and can adjust its notification lead times based on user preferences.
+Shookdt has developed several notable abilities, including:
+- **Lightning Alert**: A background service that alerts users about impending storms, providing real-time updates and safety recommendations based on location. This ability integrates with the National Weather Service for accurate alerts and requires no setup from the user.
+- Other contributions include custom AI systems and automation tools that simplify tasks for businesses and teams.
 
 ## grant-status
-none
+None
 
 ## how-to-reach
-- Discord: @shookdt
+- Discord: Not specified
 - GitHub: [shookdt's GitHub](https://github.com/openhome-dev/abilities/tree/dev)
-- X: [shookdt on X](https://twitter.com/shookdt)
+- X: Not specified
 
 ## connects-to
-[[abilities/lightning-alert]]
-[[developers/ai-systems]]
-[[developers/workflow-automation]]
-[[builders/openhome]]
-[[developers/conversational-ai]]
+- [[abilities/lightning-alert]]
+- [[builders/openhome]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z -->
-```
+<!-- synthesized: 2026-06-02T12:17:43Z -->

@@ -1,25 +1,26 @@
 ```markdown
 ---
-title: guides/brianchilders
-entity_type: Community Guide
-status: live
-last_updated: 2026-06-01
+title: "Brian Childers"
+entity_type: "guides/"
+status: "live"
+last_updated: 2026-06-02
 ---
 
 ### who-they-are
-brianchilders is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They have worked on various projects including internal assistants, dashboards, and real-time AI tools connected to APIs. 
+Brian Childers is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications for businesses. He has experience with real-time AI tools connected to APIs, workflow automation, and internal chat assistants.
 
 ### what-they-help-with
-brianchilders specializes in creating conversational AI experiences, workflow automation, and practical tools for business needs. They have a strong background in developing and connecting systems that handle operational tasks, and are familiar with voice AI applications.
+Brian specializes in creating internal support systems, business automation solutions, analytics dashboards, and conversational AI experiences. He focuses on turning repetitive manual processes into practical tools that can enhance productivity and streamline operations.
 
 ### how-to-reach
-Discord Handle: brianchilders
+Brian can be reached on Discord, although his specific handle is not provided in the available information.
 
-### connects-to
+## connects-to
+[[guides]]
+[[AI development]]
+[[automation tools]]
+[[conversational AI]]
 [[OpenHome]]
-[[OpenAI]]
-[[AI Development]]
-[[Voice AI]]
-[[Community Guides]]
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+[[GitHub]]
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

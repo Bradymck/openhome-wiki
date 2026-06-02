@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: concepts/local-first
-entity_type: concepts
-status: live
-last_updated: 2026-06-01
+title: Local First
+entity_type: concepts/local-first
+status: stub
+last_updated: 2026-06-02
 ---
 
-## definition
-Local-first is an approach that prioritizes local data storage and processing on devices, allowing applications to function without relying solely on the cloud. This is designed to enhance user experiences by providing faster access to data and more reliable interactions, especially in environments with limited or intermittent internet connectivity.
+### definition
+Local First refers to a design philosophy that prioritizes local computation and data storage on user devices over reliance on cloud services. This allows applications to function effectively even in scenarios with limited or intermittent internet connectivity.
 
-## why-it-matters
-In the context of OpenHome, the local-first approach is crucial as it empowers users to maintain control over their data while ensuring that their AI agents can perform effectively in various conditions. This model supports privacy, reduces latency, and fosters resilience, making interactions with voice AI more seamless and reliable.
+### why-it-matters
+In the context of OpenHome, Local First enhances user experience by ensuring that AI agents can operate independently from the cloud. This maximizes responsiveness and reliability, particularly in situations where internet access may be unreliable. It aligns with OpenHome's mission to create intuitive voice interactions accessible to everyone.
 
-## how-it-manifests
-The local-first concept appears within the OpenHome platform through the architecture of its devices, such as smart speakers. These devices can execute commands and run capabilities without needing constant cloud communication, thus enhancing the responsiveness of Personalities and Abilities. By leveraging local capabilities, OpenHome strives to provide a more reliable and immediate user experience.
+### how-it-manifests
+Local First appears in OpenHome's architecture through the use of fully local smart speakers and agents, which perform tasks and manage data directly on the device. This includes functionalities such as voice interaction, music playback, and smart home control without the need for constant internet connectivity.
 
-## connects-to
-[[concepts/abilities-as-apps]]
+### connects-to
 [[concepts/voice-first]]
+[[concepts/abilities-as-apps]]
 [[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-01T12:51:25Z --> 
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```

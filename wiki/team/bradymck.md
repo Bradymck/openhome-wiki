@@ -3,25 +3,22 @@
 title: Brady McK
 entity_type: team/bradymck
 status: stub
-last_updated: 2026-06-01
+last_updated: 2026-06-02
 ---
 
 ### who-they-are
-Brady McK is a full-stack AI developer, focusing on building custom AI systems, automation tools, and web applications.
+Brady McK is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications. They have experience in creating internal chat assistants, RAG systems, workflow automation, and real-time AI tools connected to APIs.
 
 ### what-they-own
-Brady leads the development of internal chat assistants, RAG (Retrieval-Augmented Generation) systems, workflow automation tools, dashboards, and real-time voice agents. His expertise also includes integrating AI tools with APIs and backend systems to streamline operational tasks.
+Brady leads efforts in developing custom AI applications and enhancing automation processes to improve operational efficiency. Their focus includes turning repetitive tasks into usable tools that enhance user interaction with technology.
 
 ### how-to-reach
-- Discord: Not specified
-- X/Twitter: Not specified
-- Preferred contact: Open to connections regarding AI and automation projects.
+Preferred contact methods are on Discord (handle: bradymck) or via X/Twitter.
 
 ### connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[developer_docs]]
-[[github]]
-
-<!-- synthesized: 2026-06-01T12:51:25Z -->
+[[projects/abilities]]
+[[projects/openhome-dashboard]]
+<!-- synthesized: 2026-06-02T12:17:43Z -->
 ```
