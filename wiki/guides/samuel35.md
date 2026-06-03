@@ -1,25 +1,24 @@
 ```markdown
 ---
-title: "Samuel35"
-entity_type: "guides/"
+title: "guides/samuel35"
+entity_type: "Community Guide"
 status: live
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
-## who-they-are
-Samuel35 is a full-stack AI developer with extensive experience in building custom AI systems, automation tools, and web applications. Their recent projects include real-time AI tools, internal chat assistants, and dashboards integrated with various APIs.
+### who-they-are
+Samuel35 is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They have experience working on internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents. 
 
-## what-they-help-with
-Samuel35 specializes in creating custom AI experiences and tools for businesses. Their expertise spans topics like conversational AI, workflow automation, and the development of abilities for voice AI applications. They are particularly interested in transforming repetitive manual processes into efficient automation solutions.
+### what-they-help-with
+Samuel35 specializes in developing custom AI tools and automation solutions for businesses and teams. Their work often involves connecting AI systems to APIs and backend systems to enhance operational capabilities. They are open to assisting with AI projects and providing insights into automation of workflows.
 
-## how-to-reach
-You can connect with Samuel35 on Discord using their handle: `samuel35`.
+### how-to-reach
+Discord handle: @samuel35
 
 ## connects-to
-[[guides/automation-tools]]
-[[guides/voice-ai]]
-[[guides/openhome]]
-[[guides/chatbots]]
-
-<!-- synthesized: 2026-06-02T12:17:43Z -->
+- [[guides]]
+- [[AI Development]]
+- [[Automation Tools]]
+- [[Voice AI]]
+<!-- synthesized: 2026-06-03T12:30:55Z -->
 ```

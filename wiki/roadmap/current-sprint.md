@@ -1,31 +1,30 @@
 ```markdown
 ---
-title: Roadmap Current Sprint
+title: Roadmap - Current Sprint
 entity_type: roadmap
 status: live
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 ## what-it-is
-The current sprint focuses on the development and shipping of OpenClaw and OpenHome, an open-source Voice AI platform designed for creating AI agents called Personalities with extendable Abilities.
+The current sprint for OpenHome includes the rollout of physical V0.1 development kits for creating AI agents using the OpenHome platform. Additionally, a new feature called Lightning Alert has been shipped, which alerts users of impending storms without requiring setup.
 
 ## status
-In-progress
+- Development Kits: Shipped
+- Lightning Alert: Shipped
 
 ## why-it-matters
-OpenHome aims to revolutionize interaction with technology through AI-powered, voice-first applications, making such technology accessible and enhancing everyday life. The introduction of physical devkits encourages innovation and community-driven development.
+OpenHome aims to empower developers to create and enhance conversational AI agents, making AI-powered voice interactions accessible. The introduction of physical development kits facilitates hands-on experimentation and encourages community contributions. The Lightning Alert feature enhances user safety by providing timely storm warnings, showcasing the practical benefits of the platform.
 
 ## eta
-Devkits are shipping globally in small batches, with a call for developers to apply and contribute. A specific timeline for ongoing features has not been detailed but active development is ongoing.
+Development kits are being shipped globally in small batches; specific timelines are not disclosed. The Lightning Alert feature is currently live.
 
 ## connects-to
-[[OpenHome]]
-[[Abilities]]
-[[Developer Docs]]
-[[OpenHome Dashboard]]
-[[GitHub]]
-[[Discord]]
-[[Lightning Alert]]
-
-<!-- synthesized: 2026-06-02T12:17:43Z -->
+- [[OpenHome]]
+- [[Lightning Alert]]
+- [[Developers]]
+- [[Abilities]]
+- [[OpenClaw]]
+- [[DevKit]]
+<!-- synthesized: 2026-06-03T12:30:55Z -->
 ```

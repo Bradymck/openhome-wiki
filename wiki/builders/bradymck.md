@@ -3,29 +3,29 @@
 title: builders/bradymck
 entity_type: builders
 status: live
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 ### who-they-are
-Brady McK is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. His expertise includes real-time voice agents, internal chat assistants, and workflow automation.
+Brady McK is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications. They have experience in creating internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents connected to APIs.
 
 ### what-they-built
-Brady has recently developed several notable integrations including:
-- **Lightning Alert**: A voice agent that alerts users about nearby lightning storms by using real-time data from the National Weather Service. This Ability requires no setup and provides on-demand querying, informing users of storm proximity and allowing them to customize alert preferences.
+Brady McK has contributed to various projects in the OpenHome community. Notably, they have shipped an ability called "Lightning Alert," which provides real-time notifications about impending storms by using data from the National Weather Service. This ability requires no configuration, automatically identifying the user's location based on IP address and offering customized warnings.
 
 ### grant-status
-None
+Applied
 
 ### how-to-reach
-- Discord: Unknown
+- Discord: @bradymck
 - GitHub: [bradymck](https://github.com/bradymck)
-- X: Unknown
+- X: [@bradymck](https://x.com/bradymck)
 
-### connects-to
-- [[Ability: Lightning Alert]]
-- [[Personalities]]
-- [[Voice AI Development]]
-- [[OpenHome]]
+## connects-to
+[[builders]]
+[[abilities/lightning-alert]]
+[[abilities/web-search]]
+[[abilities/music]]
+[[abilities/voice-recognition]]
 
-<!-- synthesized: 2026-06-02T12:17:43Z -->
+<!-- synthesized: 2026-06-03T12:30:55Z -->
 ```

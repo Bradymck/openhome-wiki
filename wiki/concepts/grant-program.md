@@ -1,25 +1,23 @@
-```markdown
----
-title: Grant Program
-entity_type: concepts
-status: live
-last_updated: 2026-06-02
----
+```yaml
+title: "Grant Program"
+entity_type: "concepts/"
+status: "live"
+last_updated: "2026-06-03"
+```
 
-### definition
-The Grant Program is an initiative that supports developers within the OpenHome community by providing resources such as financial grants, development tools, and promotional opportunities to enhance their projects.
+## definition
+The Grant Program is an initiative within OpenHome that aims to support developers and creators in building and enhancing applications on the platform. Through this program, developers can receive funding and resources to aid their projects, encouraging innovation and community engagement.
 
-### why-it-matters
-The Grant Program is significant to OpenHome as it incentivizes innovation and encourages active participation among developers. By supporting top contributors and their ideas, the program fosters community growth and advances the platform’s capabilities.
+## why-it-matters
+The Grant Program plays a crucial role in fostering a collaborative environment within OpenHome. By providing financial assistance and resources, it empowers developers to explore new ideas and enhance existing features. This support helps to enrich the OpenHome ecosystem, driving more meaningful and diverse applications that benefit users.
 
-### how-it-manifests
-The Grant Program manifests through various initiatives, such as the distribution of physical development kits to select developers who contribute significantly to the platform. Recipients of these grants are often promoted within the community, given additional financial support for their projects, and encouraged to share feedback, thereby creating a feedback loop that enhances the overall quality of contributions.
+## how-it-manifests
+The Grant Program manifests in the form of financial support, development kits, and promotional opportunities for contributors. Successful applicants can receive dev kits for their projects and additional funding based on their contributions and feedback, which can lead to the development of innovative voice AI applications.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
-[[concepts/dev-metrics]]
-[[concepts/spatial-intelligence]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
 
-<!-- synthesized: 2026-06-02T12:17:43Z -->  
-```
+<!-- synthesized: 2026-06-03T12:30:55Z -->

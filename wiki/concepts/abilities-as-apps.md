@@ -3,22 +3,25 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 ### definition
-Abilities-as-apps are modular voice plugins within the OpenHome platform that provide specific skills to conversational AI agents, known as Personalities. These abilities can perform various tasks, such as accessing APIs, playing music, or controlling smart devices.
+Abilities-as-apps refers to modular voice plugins within the OpenHome platform that extend AI agents' capabilities, enabling them to perform various functions like calling APIs, playing music, and controlling smart home devices.
 
 ### why-it-matters
-This concept is crucial to the OpenHome ecosystem because it allows users to easily extend the functionality of their AI agents. By using abilities, developers can create highly customizable and interactive experiences, promoting innovation and user engagement.
+This concept is central to OpenHome as it allows developers to create customizable and scalable voice AI interactions. By modularizing abilities, OpenHome facilitates user-driven enhancements and rapid innovation in voice application development.
 
 ### how-it-manifests
-In OpenHome, abilities are triggered during voice interactions with Personalities. Users can develop new abilities using Python logic, which can then be uploaded and integrated into their AI agents. The platform provides tools and resources, such as the OpenHome Dashboard and GitHub, to facilitate the creation and management of these abilities.
+In the OpenHome ecosystem, abilities are integrated as plugins that can be added to Personalities—AI agents designed for conversational interactions. Abilities are activated through specific hotwords during voice conversations, allowing users to trigger various functionalities seamlessly.
 
 ### connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-02T12:17:43Z -->
+<!-- synthesized: 2026-06-03T12:30:55Z -->
 ```

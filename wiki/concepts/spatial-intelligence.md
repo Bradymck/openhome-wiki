@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: live
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships between objects. It encompasses skills such as orientation, navigation, and the understanding of three-dimensional space.
+Spatial intelligence refers to the ability to visualize and manipulate objects in a spatial context. In the realm of OpenHome, it encompasses the capability of AI agents to understand and respond to spatial relationships and environments.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is crucial for enhancing user interactions by allowing voice AI agents to understand and respond to users based on their physical context. This capability can improve functionality in smart home settings, making interactions more intuitive and personalized.
+Spatial intelligence is crucial for OpenHome as it enhances the interaction between users and AI agents. With improved spatial understanding, agents can provide context-aware responses and functionalities, making task execution more intuitive and efficient in a user's physical environment.
 
 ## how-it-manifests
-Spatial intelligence appears in OpenHome through the design of AI agents that can process location data and engage with users based on their immediate environment. For instance, features such as geolocation-based alerts or context-aware commands leverage spatial intelligence to provide relevant responses.
+This concept appears in OpenHome through features that allow agents to interpret user commands based on their physical location and surroundings. For example, an agent can set reminders or provide alerts based on the user's location detected through various sensors or data streams.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ Spatial intelligence appears in OpenHome through the design of AI agents that ca
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-02T12:17:43Z -->
+<!-- synthesized: 2026-06-03T12:30:55Z -->
 ```

@@ -1,29 +1,31 @@
 ```markdown
 ---
-title: jkoppel
-entity_type: builders/jkoppel
+title: builders/jkoppel
+entity_type: builders
 status: live
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
-### who-they-are
-jkoppel is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. They specialize in creating internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents, all connected to various APIs and backend systems.
+## who-they-are
+jkoppel is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They focus on developing real-time AI tools connected to various APIs, and they are known for creating internal chat assistants and workflow automation tools for businesses.
 
-### what-they-built
-jkoppel has recently shipped an ability called "Lightning Alert," which provides real-time alerts for incoming storms. It runs quietly in the background, determining the user's location from their IP address to deliver timely warnings, and allows users to customize alert notifications. The development can be seen in their GitHub pull request [here](https://github.com/openhome-dev/abilities/pull/273).
+## what-they-built
+jkoppel has recently shipped an integration called "Lightning Alert," which provides users with notifications about nearby lightning storms based on their location. The ability operates automatically without user configuration and utilizes data from the National Weather Service (NWS) for accurate alerts. The integration also allows users to request real-time updates and set their preferred warning times. 
 
-### grant-status
-none
+## grant-status
+$1K
 
-### how-to-reach
+## how-to-reach
 - Discord handle: Not specified
-- GitHub: [jkoppel's GitHub](https://github.com/openhome-dev/abilities)
-- X (formerly Twitter): Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[abilities/lightning-alert]]
-[[builders]]
-[[openhome]]
+## connects-to
+[[abilities/Lightning_Alert]]
+[[abilities/Web_Search]]
+[[abilities/Music_Playback]]
+[[abilities/Custom_AI_Systems]]
+[[abilities/Workflow_Automation]]
 
-<!-- synthesized: 2026-06-02T12:17:43Z -->
+<!-- synthesized: 2026-06-03T12:30:55Z -->
 ```

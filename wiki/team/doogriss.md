@@ -2,24 +2,24 @@
 ---
 title: Doogriss
 entity_type: team
-status: stub
-last_updated: 2026-06-02
+status: beta
+last_updated: 2026-06-03
 ---
 
-### who-they-are
-Doogriss is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. Their expertise includes creating internal assistants, real-time voice agents, and integrating APIs for operational tasks.
+## who-they-are
+Doogriss is a full-stack AI developer at OpenHome, specializing in building custom AI systems, automation tools, and web applications.
 
-### what-they-own
-Doogriss leads projects related to custom AI systems, conversational AI experiences, and automation tools within the OpenHome platform.
+## what-they-own
+They are responsible for leading efforts in developing internal chat assistants, real-time AI tools, workflow automation, dashboards, and voice agents connected to various APIs and backend systems.
 
-### how-to-reach
+## how-to-reach
 Discord handle: Not specified  
 X/Twitter: Not specified  
 Preferred contact: Not specified  
 
-### connects-to
+## connects-to
 [[team/jesse]]  
 [[team/shannon]]
 
-<!-- synthesized: 2026-06-02T12:17:43Z -->
+<!-- synthesized: 2026-06-03T12:30:55Z -->
 ```

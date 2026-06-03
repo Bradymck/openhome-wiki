@@ -1,28 +1,36 @@
 ```markdown
 ---
-title: jagatfx
-entity_type: builders
-status: live
-last_updated: 2026-06-02
+title: builders/jagatfx
+entity_type: community builder
+status: stub
+last_updated: 2026-06-03
 ---
 
 ### who-they-are
-Jagatfx is a full-stack AI developer who specializes in building custom AI systems, automation tools, and web applications. They focus on creating practical tools for businesses and teams, enhancing internal operations through AI technology.
+Jagatfx is a full-stack AI developer who specializes in building custom AI systems, automation tools, and web applications. They have recently worked on real-time AI tools and various integrations for voice-driven applications, focusing on creating solutions that enhance operational efficiency.
 
 ### what-they-built
-Jagatfx has shipped the "Lightning Alert" ability, which provides users with real-time alerts about lightning activity in their area. This ability operates seamlessly without additional setup, using the user's IP location to deliver storm notifications. The feature accesses the National Weather Service's warning system and operates globally without the need for API keys. This ability also allows users to request lightning information actively and set custom warning times.
+Jagatfx has contributed to building a variety of AI capabilities, including:
+- Automation tools for workflows
+- Internal chat assistants
+- Real-time voice agents connected to backend systems
+- RAG systems (Retrieval-Augmented Generation)
+
+They also recently shipped an Ability called "Lightning Alert," which provides users real-time storm alerts and information without needing complex setup.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X (formerly Twitter): Not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ### connects-to
-[[abilities/lightning-alert]]
-[[builders]]
+[[Lightning Alert]]
+[[Automations]]
+[[Voice AI]]
+[[APIs Integration]]
 
-<!-- synthesized: 2026-06-02T12:17:43Z -->
+<!-- synthesized: 2026-06-03T12:30:55Z -->
 ```

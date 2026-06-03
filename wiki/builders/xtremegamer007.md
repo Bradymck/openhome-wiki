@@ -1,26 +1,28 @@
 ```yaml
-title: xtremegamer007
-entity_type: builders/
-status: live
-last_updated: 2026-06-02
+title: builders/xtremegamer007
+entity_type: builder
+status: stub
+last_updated: 2026-06-03
 ```
 
 ## who-they-are
-xtremegamer007 is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. They have experience in developing internal chat assistants, real-time voice agents, and various automation tools aimed at streamlining operational tasks.
+xtremegamer007 is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. They work with internal chat assistants, RAG systems, workflow automation, and real-time voice agents connected to APIs.
 
 ## what-they-built
-xtremegamer007 has built several integrations, including:
-- **Lightning Alert:** A voice-enabled integration that provides real-time notifications about incoming lightning storms based on user location. It pulls data from the National Weather Service, offering features such as live querying and customizable notification preferences.
+xtremegamer007 recently shipped the Lightning Alert ability, which functions as a storm warning system. It operates automatically by determining the user's location via IP without needing configuration. The ability notifies users of impending lightning strikes and can provide real-time queries for users, such as "any lightning nearby?" or "is it safe to go outside?"
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord Handle: Not specified
+- Discord handle: Not specified
 - GitHub: Not specified
-- X (Twitter): Not specified
+- X: Not specified
 
 ## connects-to
-[[abilities/lightning-alert]]
+[[Lightning Alert]]
+[[AI Systems]]
+[[Voice Agents]]
+[[Web Applications]]
 
-<!-- synthesized: 2026-06-02T12:17:43Z -->
+<!-- synthesized: 2026-06-03T12:30:55Z -->

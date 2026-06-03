@@ -3,28 +3,29 @@
 title: builders/pl-geek
 entity_type: builder
 status: live
-last_updated: 2026-06-02
+last_updated: 2026-06-03
 ---
 
 ## who-they-are
-pl-geek is a full-stack AI developer focused on creating custom AI systems, automation tools, and web applications for businesses and teams. They have experience in developing internal chat assistants, RAG systems, and real-time voice agents.
+pl-geek is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. They have experience in creating internal chat assistants, RAG systems, workflow automation solutions, dashboards, and real-time voice agents connected to APIs for operational tasks.
 
 ## what-they-built
-pl-geek has contributed to the development of various abilities, including a **Lightning Alert** ability that notifies users of nearby storms with real-time data pulled from the NWS warning system. The ability runs without setup, detecting user location through IP, and can be queried for live lightning status. The project code has been shared via a pull request on GitHub.
+pl-geek has recently shipped the "Lightning Alert" ability, which provides real-time lightning alerts based on user location without requiring setup. This ability integrates with the US National Weather Service warning system and allows users to customize alert timings. The ability can be accessed through on-demand queries and is designed to function globally.
 
 ## grant-status
-applied
+none
 
 ## how-to-reach
-- Discord: pl-geek
-- GitHub: [pl-geek's profile](https://github.com/openhome-dev/abilities) 
-- X: Not provided
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[lightning-alert]]
-[[openhome]]
-[[voice-ai]]
-[[automation-tools]]
+[[abilities]]
+[[OpenHome]]
+[[Voice AI]]
+[[Chat Assistants]]
+[[Automation Tools]]
 
-<!-- synthesized: 2026-06-02T12:17:43Z -->
+<!-- synthesized: 2026-06-03T12:30:55Z -->
 ```
