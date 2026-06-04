@@ -3,24 +3,23 @@
 title: team/peej
 entity_type: team
 status: stub
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 ### who-they-are
-Peej is a full-stack AI developer at OpenHome, focusing on building custom AI systems, automation tools, and web applications for businesses and teams.
+Peej is an AI engineer with expertise in large language model (LLM) systems, AI agents, automation, and multimodal AI technologies including text, voice, and vision.
 
 ### what-they-own
-Peej leads initiatives related to the development of AI systems, including internal chat assistants, RAG systems, workflow automation, and conversational AI experiences. They also contribute to real-time AI tools connected to APIs and backend systems to improve operational tasks.
+Peej leads projects focused on LLM orchestration, retrieval-augmented generation (RAG) systems, multi-agent systems, and multimodal AI implementations. Their work revolves around building AI systems that are operational and integrated into real-world workflows, ensuring reliability and practical usability.
 
 ### how-to-reach
-Peej can be reached on Discord. Specific contact details are not provided.
+Preferred contact is via Discord.
 
 ### connects-to
-[[team/jesse]]
-[[team/shannon]]
-[[projects/custom-ai-systems]]
-[[projects/voice-ai-platform]]
-[[projects/automation-tools]]
+- [[team/jesse]]
+- [[team/shannon]]
+- [[dev/openhome]]
+- [[github.com/openhome-dev/abilities]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

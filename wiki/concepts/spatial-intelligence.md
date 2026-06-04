@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Spatial Intelligence
+title: concepts/spatial-intelligence
 entity_type: concepts
-status: live
-last_updated: 2026-06-03
+status: stub
+last_updated: 2026-06-04
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in a spatial context. In the realm of OpenHome, it encompasses the capability of AI agents to understand and respond to spatial relationships and environments.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and environments effectively. It encompasses skills such as problem-solving with visual images, recognizing patterns, and understanding how objects relate to one another in space.
 
 ## why-it-matters
-Spatial intelligence is crucial for OpenHome as it enhances the interaction between users and AI agents. With improved spatial understanding, agents can provide context-aware responses and functionalities, making task execution more intuitive and efficient in a user's physical environment.
+Spatial intelligence is crucial for OpenHome as it enhances the way users interact with their smart environments. By leveraging spatial reasoning, OpenHome can create more intuitive interfaces and functionality for users, allowing for seamless interactions with their devices in the physical world.
 
 ## how-it-manifests
-This concept appears in OpenHome through features that allow agents to interpret user commands based on their physical location and surroundings. For example, an agent can set reminders or provide alerts based on the user's location detected through various sensors or data streams.
+In the OpenHome platform, spatial intelligence can manifest through features that allow users to control and interact with devices based on their physical locations. This includes spatial-aware voice interactions, where users can issue commands or receive responses based on their geolocation or the layout of their smart home environment.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ This concept appears in OpenHome through features that allow agents to interpret
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

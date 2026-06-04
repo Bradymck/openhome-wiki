@@ -1,22 +1,26 @@
-```yaml
+```markdown
+---
 title: Brady McK
 entity_type: team/bradymck
-status: stub
-last_updated: 2026-06-03
-```
+status: live
+last_updated: 2026-06-04
+---
 
-## who-they-are
-Brady McK is a full-stack AI developer at OpenHome. He specializes in building custom AI systems, automation tools, and web applications that enhance the functionality and user experience of voice AI technologies.
+### who-they-are
+Brady McK is an AI engineer specializing in LLM (Large Language Model) systems, AI agents, automation, and multimodal AI, which encompasses text, voice, and vision. They focus on developing real AI systems that operate in production environments rather than just demos.
 
-## what-they-own
-Brady leads initiatives related to the development of internal chat assistants, real-time AI tools, workflow automation, and various conversational AI experiences. His work includes the integration of APIs and backend systems to create efficient operational tasks and analytics dashboards.
+### what-they-own
+Brady leads projects involving LLM orchestration, including frameworks such as DSPy, LangChain, AutoGen, CrewAI, and ReAct. Their work also covers retrieval-augmented generation (RAG) systems utilizing vector databases as well as custom retrieval pipelines. Additionally, they are involved in the development of multi-agent systems with planning capabilities and tool usage, along with AI image and video generation pipelines.
 
-## how-to-reach
-Contact Brady McK on Discord for inquiries or collaboration opportunities.
+### how-to-reach
+Discord handle: @bradymck  
+Preferred contact: [X/Twitter](https://x.com)
 
-## connects-to
+### connects-to
 [[team/jesse]]  
 [[team/shannon]]  
-[[projects/abilities]]  
+[[docs.openhome.com]]  
+[[github.com/openhome-dev/abilities]]  
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
+```

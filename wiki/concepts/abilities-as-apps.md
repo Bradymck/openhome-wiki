@@ -3,19 +3,19 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 ### definition
-Abilities-as-apps refers to modular voice plugins within the OpenHome platform that extend AI agents' capabilities, enabling them to perform various functions like calling APIs, playing music, and controlling smart home devices.
+Abilities-as-apps refers to modular voice plugins that extend the functionality of AI agents in OpenHome by adding new skills. These plugins can perform various tasks, such as calling APIs, playing music, and controlling devices.
 
 ### why-it-matters
-This concept is central to OpenHome as it allows developers to create customizable and scalable voice AI interactions. By modularizing abilities, OpenHome facilitates user-driven enhancements and rapid innovation in voice application development.
+The concept of abilities-as-apps is crucial to OpenHome as it enhances the versatility and usability of AI-driven voice applications. This modular approach allows developers to customize and expand the capabilities of their AI agents, making them more effective and user-friendly.
 
 ### how-it-manifests
-In the OpenHome ecosystem, abilities are integrated as plugins that can be added to Personalities—AI agents designed for conversational interactions. Abilities are activated through specific hotwords during voice conversations, allowing users to trigger various functionalities seamlessly.
+In the OpenHome platform, abilities manifest as plugins that can be triggered by voice commands. Developers can create and integrate these abilities into their AI agents, referred to as Personalities, allowing users to interact with their devices in a more engaging and intuitive manner.
 
-### connects-to
+## connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ In the OpenHome ecosystem, abilities are integrated as plugins that can be added
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

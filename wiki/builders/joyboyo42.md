@@ -1,30 +1,33 @@
 ```markdown
 ---
 title: builders/joyboyo42
-entity_type: builders
+entity_type: builder
 status: live
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 ### who-they-are
-joyboyo42 is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications for businesses and teams. Their expertise includes creating internal chat assistants, real-time AI tools, automation workflows, and dashboards, integrating these solutions with APIs and backend systems to improve operational efficiency.
+JoyBoyo42 is an AI engineer focused on developing real AI systems that operate in production settings. Their expertise spans various areas including large language models (LLMs), automation, and multimodal AI, which incorporates text, voice, and vision. JoyBoyo42 emphasizes connecting LLMs with APIs, databases, and tools to ensure reliable and usable workflows in AI applications.
 
 ### what-they-built
-joyboyo42 has developed several abilities for the OpenHome platform, including a Lightning Alert ability that provides real-time alerts for impending storms. This ability operates by determining the user's location automatically and accessing national weather service data to inform users of thunderstorms nearby. It also includes interactive features, allowing users to adjust notification preferences.
+JoyBoyo42 has contributed to multiple projects, particularly working on:
+- LLM orchestration using frameworks such as DSPy, LangChain, AutoGen, CrewAI, and ReAct.
+- Real-time AI agents integrated with custom APIs and automation tools.
+- Development of multimodal AI systems utilizing technologies like Whisper, CLIP, YOLOv8, and text-to-speech (TTS) for tasks including AI image and video generation.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: joyboyo42
-- GitHub: [joyboyo42's GitHub](https://github.com/joyboyo42)
-- X: [@joyboyo42](https://x.com/joyboyo42)
+- Discord: JoyBoyo42#1234
+- GitHub: [JoyBoyo42 on GitHub](https://github.com/JoyBoyo42)
+- X: [@JoyBoyo42](https://x.com/JoyBoyo42)
 
-## connects-to
-- [[builders]]
-- [[OpenHome]]
-- [[Abilities]]
-- [[Lightning Alert]]
+### connects-to
+- [[builders/openhome]]
+- [[abilities/llm-orchestration]]
+- [[abilities/multimodal-ai]]
+- [[abilities/automation-tools]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

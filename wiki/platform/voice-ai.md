@@ -1,21 +1,22 @@
-```markdown
----
-title: Voice AI
+```yaml
+title: platform/voice-ai
 entity_type: platform
 status: live
-last_updated: 2026-06-03
----
+last_updated: 2026-06-04
+```
 
-### what-it-is
-Voice AI is an open-source platform that enables the creation of conversational AI agents, referred to as Personalities, which users can enhance with modular plugins called Abilities to provide a wide range of interactive skills and functionalities.
+# platform/voice-ai
 
-### how-it-works
-The Voice AI platform allows users to build AI agents known as Personalities, which can be customized with specific voices, personas, and conversation styles. Users can integrate various Abilities into their Personalities, enabling functions like web searches, music playback, and device control through natural voice interactions. Abilities are invoked via hotwords recognized during conversation and can utilize custom Python logic to execute tasks. The platform aims to facilitate seamless and intuitive interactions with technology.
+## what-it-is
+Voice AI is a core component of the OpenHome platform, enabling the creation of conversational AI agents known as Personalities. These agents leverage voice recognition and natural language processing to engage with users in an interactive and intuitive manner.
 
-### current-status
+## how-it-works
+The Voice AI system operates by allowing developers to build Personalities with unique voices and conversational styles. These Personalities can be enhanced with Abilities, which are modular voice plugins that introduce new skills, such as controlling smart home devices, playing music, or executing API calls. Voice interactions are triggered by hotwords, enabling seamless engagement during conversations. The platform emphasizes user-friendly development processes, encouraging contributions and sharing within the developer community. 
+
+## current-status
 live
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -24,5 +25,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
-```
+<!-- synthesized: 2026-06-04T11:58:54Z -->

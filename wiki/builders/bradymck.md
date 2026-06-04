@@ -1,31 +1,31 @@
 ```markdown
 ---
 title: builders/bradymck
-entity_type: builders
+entity_type: builder
 status: live
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 ### who-they-are
-Brady McK is a full-stack AI developer specializing in building custom AI systems, automation tools, and web applications. They have experience in creating internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents connected to APIs.
+Brady McK is an AI engineer focused on building large language model (LLM) systems, AI agents, automation, and multimodal AI encompassing text, voice, and vision. His work emphasizes creating reliable AI systems that run in production environments rather than just demos. He has experience in connecting LLMs with various tools, APIs, and business logic.
 
 ### what-they-built
-Brady McK has contributed to various projects in the OpenHome community. Notably, they have shipped an ability called "Lightning Alert," which provides real-time notifications about impending storms by using data from the National Weather Service. This ability requires no configuration, automatically identifying the user's location based on IP address and offering customized warnings.
+Brady has contributed to the development of the OpenHome platform, which allows users to build conversational AI agents called Personalities. He has worked with LLM orchestration tools (such as DSPy, LangChain, AutoGen, CrewAI, and ReAct), multi-agent systems, RAG systems with vector databases, and various backend and full-stack technologies (including FastAPI, NestJS, Next.js, and React). His contributions are aimed at enhancing automation processes and integrating various applications.
 
 ### grant-status
-Applied
+none
 
 ### how-to-reach
 - Discord: @bradymck
 - GitHub: [bradymck](https://github.com/bradymck)
 - X: [@bradymck](https://x.com/bradymck)
 
-## connects-to
-[[builders]]
-[[abilities/lightning-alert]]
-[[abilities/web-search]]
-[[abilities/music]]
-[[abilities/voice-recognition]]
+### connects-to
+- [[builders]]
+- [[OpenHome]]
+- [[Abilities]]
+- [[AI Systems]]
+- [[LLM Orchestration]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

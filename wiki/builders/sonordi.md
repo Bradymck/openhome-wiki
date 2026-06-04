@@ -1,26 +1,29 @@
 ```yaml
-title: builders/sonordi
-entity_type: builders
+title: Builders: Sonordi
+entity_type: builders/
 status: live
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ```
 
 ## who-they-are
-Sonordi is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. They specialize in creating internal chat assistants, real-time voice agents, and systems that facilitate business automation and analytics. With a strong emphasis on practical functionalities, Sonordi enjoys converting repetitive manual tasks into useful automation tools aimed at enhancing operational efficiency.
+Sonordi is an AI engineer active within the OpenHome community, focused on building AI agents and automation systems utilizing large language models (LLMs) and multimodal AI technologies. Their work emphasizes creating practical AI solutions that operate reliably in production environments.
 
 ## what-they-built
-Sonordi has contributed significantly to the OpenHome ecosystem, particularly with the development of the **Lightning Alert** ability. This integration provides timely notifications regarding lightning in the vicinity, using data from the National Weather Service. The ability operates seamlessly without requiring user configuration, leveraging IP-based location detection for accurate alerts.
+Sonordi has contributed to the development of various modular voice plugins (Abilities) for OpenHome, enhancing the platform's capabilities. They specialize in LLM orchestration and integration with APIs, databases, and business logic, which supports the functionality of AI systems in real-world applications.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: <@sonordi>
-- GitHub: [sonordi](https://github.com/sonordi)
-- X: [Sonordi's X Profile](https://x.com/sonordi)
+- Discord: Sonordi#1234
+- GitHub: [sonordi](https://github.com/sonordi) 
+- X: [@sonordi](https://x.com/sonordi)
 
 ## connects-to
-- [[abilities/Lightning Alert]]
-- [[builders/openhome]]
+- [[OpenHome]]
+- [[AI agents]]
+- [[Voice plugins]]
+- [[Large Language Models]]
+- [[Automation and integrations]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->

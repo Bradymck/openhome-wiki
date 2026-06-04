@@ -2,27 +2,31 @@
 ---
 title: Super Greg
 entity_type: guides/super-greg
-status: live
-last_updated: 2026-06-03
+status: beta
+last_updated: 2026-06-04
 ---
 
 ### who-they-are
-Super Greg is a full-stack AI developer with extensive experience in building custom AI systems, automation tools, and web applications. They have worked on various projects, including real-time AI tools connected to APIs, internal chat assistants, and workflow automation systems.
+Super Greg is an AI engineer specializing in large language models (LLMs), AI agents, automation, and multimodal AI, including text, voice, and vision. They focus on building production-grade AI systems, integrating LLMs with various APIs, databases, tools, and business logic.
 
 ### what-they-help-with
-Super Greg specializes in transforming repetitive manual processes into practical tools that enhance user productivity. Their expertise includes:
-- Developing conversational AI experiences
-- Creating internal support systems and business automation
-- Building analytics dashboards and voice agents
-- Connecting AI tools to backend systems for operational tasks
+Super Greg assists with:
+- LLM orchestration using tools like DSPy, LangChain, AutoGen, CrewAI, and ReAct.
+- Building RAG (Retrieval-Augmented Generation) systems that utilize vector databases and custom retrieval pipelines.
+- Developing multi-agent systems that incorporate planning and tool usage.
+- Creating multimodal AI applications with technologies such as Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS).
+- Implementing AI image and video generation pipelines.
+- Full-stack development frameworks including FastAPI, NestJS, Next.js, and React.
+- Automation and integrations through services like n8n, Zapier, Make, and custom APIs.
 
 ### how-to-reach
-Discord handle: Super Greg
+Super Greg can be contacted via Discord.
 
 ### connects-to
 [[guides]]
-[[OpenHome]]
-[[AI development]]
-[[automation]]
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+[[AI agents]]
+[[openhome]]
+[[multimodal AI]]
+
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

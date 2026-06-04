@@ -1,23 +1,23 @@
 ```yaml
-title: Roadmap / Shipped
-entity_type: roadmap/shipped
+title: roadmap/shipped
+entity_type: roadmap
 status: live
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ```
 
 ## what-it-is
-OpenHome has released a new feature known as the Lightning Alert, which functions as a comprehensive storm warning system for users. This feature operates quietly in the background and provides real-time alerts about approaching storms based on users' locations.
+OpenHome has introduced the OpenClaw development kit for building AI voice agents. This kit is designed to be a fully functional local smart speaker capable of various abilities such as music playback, smart home control, and interaction with AI.
 
 ## status
 shipped
 
 ## why-it-matters
-The Lightning Alert is significant because it enhances user safety by notifying them of imminent thunderstorms without any required setup. It uses location data from the user's IP address to provide timely alerts, ensuring that users receive actionable information before a storm arrives.
+The OpenClaw development kit empowers developers to create personalized AI experiences. By providing physical devkits, OpenHome aims to enhance community engagement and innovation within the realm of voice AI technology.
 
 ## eta
-The feature is available as of June 2026.
+Currently shipping globally in small batches; no specific timeline provided for broader availability.
 
 ## connects-to
-[[OpenHome]], [[Abilities]], [[Developers]]
+[[OpenHome]], [[Voice AI]], [[AI Development Kit]], [[Abilities]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->

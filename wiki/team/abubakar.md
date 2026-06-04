@@ -3,24 +3,23 @@
 title: Abubakar
 entity_type: team
 status: stub
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 ### who-they-are
-Abubakar is a full-stack AI developer at OpenHome, specializing in the development of custom AI systems, automation tools, and web applications. With a focus on creating practical tools that enhance user experiences, he enjoys turning repetitive manual processes into efficient automation solutions.
+Abubakar is an AI engineer at OpenHome with a focus on building large language models (LLMs), AI agents, automation, and multimodal AI systems that encompass text, voice, and vision. Abubakar's work primarily involves developing practical AI systems integrated with APIs, databases, and business logic to ensure reliability and usability in real-world applications.
 
 ### what-they-own
-Abubakar leads areas related to the development of internal AI assistants, real-time voice agents, and workflow automation within the OpenHome platform. He has experience working on projects that integrate voice recognition and AI capabilities into products.
+Abubakar leads projects related to LLM orchestration, implementation of retrieval-augmented generation (RAG) systems, multi-agent systems, and the integration of multimodal AI technologies. Their contributions are central to the ecosystem of OpenHome, promoting the development of AI voice applications.
 
 ### how-to-reach
-Discord: `@AbubakarAI`  
-X/Twitter: [@openhome](https://x.com/openhome/status/2061837073351581758)
+Discord: Not specified  
+X/Twitter: Not specified  
+Preferred contact: Open to communication within the community
 
 ### connects-to
-[[team/jesse]]  
-[[team/shannon]]  
-[[projects/ai-assistants]]  
-[[projects/automation-tools]]  
+[[team/jesse]]
+[[team/shannon]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

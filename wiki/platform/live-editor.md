@@ -1,27 +1,24 @@
 ```yaml
-title: Live Editor
+title: platform/live-editor
 entity_type: platform
-status: planned
-last_updated: 2026-06-03
+status: stub
+last_updated: 2026-06-04
 ```
 
-## what-it-is
-The Live Editor is a feature within the OpenHome platform that allows developers to create and edit conversational AI agents known as Personalities, enhancing their functionalities through the integration of modular voice plugins called Abilities.
+### what-it-is
+The Live Editor is a component of the OpenHome platform designed to facilitate the development and testing of voice AI agents, known as Personalities, and their associated Abilities in real-time.
 
-## how-it-works
-The Live Editor provides an intuitive interface for developers to set up and modify Personalities in real-time. Users can easily create a Personality by customizing its voice, persona, and conversation style, as well as adding various Abilities that extend its functionality. The tool supports live debugging and immediate feedback, enabling developers to test interactions and adjustments to their agents dynamically. Abilities can be triggered during voice conversations, running specific Python logic to handle tasks like responding to queries, controlling smart devices, or providing information.
+### how-it-works
+The Live Editor provides a user-friendly interface where developers can create, modify, and test Personalities and Abilities directly. Utilizing the OpenHome framework, users can leverage Python logic to implement custom functionalities that respond to voice commands. This enables quick iterations and immediate feedback on the performance of voice AI applications, making it easier to refine the agents before deployment.
 
-## current-status
-planned
+### current-status
+stub
 
-## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+### connects-to
+- [[platform/openhome]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/voice-ai]]
+- [[platform/marketplace]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->

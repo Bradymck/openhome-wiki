@@ -1,25 +1,25 @@
 ```markdown
 ---
-title: "Ali"
-entity_type: "team/"
-status: "stub"
-last_updated: 2026-06-03
+title: Team Ali
+entity_type: team
+status: stub
+last_updated: 2026-06-04
 ---
 
 ### who-they-are
-Ali is a full-stack AI developer at OpenHome, focusing on building custom AI systems, automation tools, and web applications for businesses and teams. 
+Ali is an AI engineer focused on LLM systems, AI agents, automation, and multimodal AI (text, voice, vision). Ali's primary responsibility involves building production-level AI systems that integrate LLMs with various APIs, databases, tools, and business logic.
 
 ### what-they-own
-Ali is involved in the development of a variety of internal tools and AI systems, including dashboards, real-time AI tools, and RAG (retrieval-augmented generation) systems.
+Ali leads projects related to the orchestration of LLMs, RAG systems, and multimodal AI applications. Their expertise includes backend and full-stack development as well as automation and integrations.
 
 ### how-to-reach
-Ali can be reached via Discord but specific contact information was not provided in the available material.
+Discord: Not specified  
+X/Twitter: Not specified  
+Preferred contact: Not specified  
 
 ### connects-to
-- [[team/jesse]]
-- [[team/shannon]]
-- [[dev.openhome.com]]
-- [[github.com/openhome-dev/abilities]]
+[[team/jesse]]  
+[[team/shannon]]  
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

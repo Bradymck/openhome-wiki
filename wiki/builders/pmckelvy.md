@@ -1,29 +1,32 @@
 ```markdown
 ---
-title: builders/pmckelvy
-entity_type: builder
+title: pmckelvy
+entity_type: builders/
 status: live
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
-### who-they-are
-pmckelvy is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. They have experience working with real-time AI tools connected to APIs and have developed internal assistants and dashboards.
+## who-they-are
+pmckelvy is an AI engineer focused on building large language model (LLM) systems, automation, multimodal AI, and creating real AI systems that operate in production environments. They specialize in integrating LLMs with various external systems, including APIs and databases, to enhance functionality and reliability in workflows.
 
-### what-they-built
-pmckelvy has recently shipped several abilities for the OpenHome platform, including the "Lightning Alert" ability that provides real-time storm alerts. This ability integrates with the National Weather Service (NWS) and requires no configuration, using IP geolocation to inform users about impending lightning dangers. The ability is designed to operate globally and offers user-customized warning timings.
+## what-they-built
+pmckelvy has contributed to the development of LLM orchestration frameworks and systems, specifically working with tools such as DSPy, LangChain, AutoGen, and CrewAI. They also work on multimodal AI systems, integrating components like Whisper, CLIP, and TTS for text, voice, and vision processing. Their projects are geared towards real-world applications, enabling AI agents with enhanced capabilities.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: [Not specified]
-- GitHub: [https://github.com/openhome-dev/abilities](https://github.com/openhome-dev/abilities)
-- X: [https://x.com/openhome/status/2061837073351581758](https://x.com/openhome/status/2061837073351581758)
+## how-to-reach
+- Discord: [@pmckelvy](https://discord.com)
+- GitHub: [pmckelvy](https://github.com/pmckelvy)
+- X: [@pmckelvy](https://x.com/pmckelvy)
 
 ## connects-to
-[[abilities/lightning-alert]]
-[[abilities/web-search]]
-[[abilities/music-control]]
+[[builders]]
+[[AI agents]]
+[[LLM orchestration]]
+[[multimodal AI]]
+[[automation]]
+[[integrations]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

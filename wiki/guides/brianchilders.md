@@ -1,31 +1,33 @@
 ```markdown
 ---
-title: guides/brianchilders
+title: Guides/BrianChilders
 entity_type: guides
 status: live
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
-## who-they-are
-Brian Childers is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. He has experience in developing internal assistants, dashboards, real-time AI tools connected to APIs, and other automation solutions.
+### who-they-are
+Brian Childers is an AI engineer with expertise in large language models (LLMs), AI agents, automation, and multimodal AI, including text, voice, and vision systems. His work focuses on building production-ready AI systems that integrate LLMs with APIs, databases, and various business logic to enhance reliability and usability.
 
-## what-they-help-with
+### what-they-help-with
 Brian specializes in:
-- Custom AI systems
-- Automation tools
-- Web applications for businesses and teams
-- Internal chat assistants and workflow automation
-- Real-time voice agents connected to APIs
-He enjoys transforming repetitive manual processes into practical tools that enhance productivity.
+- LLM orchestration using tools such as DSPy, LangChain, AutoGen, CrewAI, and ReAct
+- Retrieval-Augmented Generation (RAG) systems with vector databases
+- Multi-agent systems featuring planning and tool usage
+- Multimodal AI including technologies like Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS)
+- AI image and video generation pipelines
+- Backend and full-stack development using frameworks like FastAPI, NestJS, Next.js, and React
+- Automation and integrations through platforms like n8n, Zapier, and custom APIs
 
-## how-to-reach
-Discord handle: brianchilders#1234
+### how-to-reach
+You can reach Brian on Discord at: **@brianchilders**
 
-## connects-to
+### connects-to
 [[guides]]
-[[openhome]]
-[[AI Development]]
-[[Automation Tools]]
-[[Voice AI]]
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+[[AI_agents]]
+[[LLM_orchestration]]
+[[multimodal_AI]]
+[[automation_integrations]]
+
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

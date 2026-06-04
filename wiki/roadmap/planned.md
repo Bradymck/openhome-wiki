@@ -2,24 +2,26 @@
 title: Roadmap Overview
 entity_type: roadmap/planned
 status: live
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ```
 
 ## what-it-is
-OpenHome is an open-source Voice AI platform that allows users to build conversational AI agents known as Personalities. It features Abilities, which are modular voice plugins that enhance the capabilities of these agents. The platform is currently developing additional features, including physical development kits and advanced abilities.
+OpenHome is an open-source Voice AI platform that allows users to build conversational AI agents known as Personalities. These agents can be enhanced with modular voice plugins called Abilities, which provide new skills such as playing music, controlling smart home devices, and executing tasks via APIs.
 
 ## status
-In-progress
+In progress
 
 ## why-it-matters
-The motivation behind OpenHome is to create a more intuitive and human-like interaction between users and technology. By building customizable voice agents, OpenHome aims to make AI technology accessible and useful to everyone, enhancing everyday life through voice-first applications.
+The initiative aims to transform how users interact with technology by making AI-driven, voice-first applications accessible and intuitive. It promotes flexibility in development, encourages community contributions, and facilitates communication and collaboration among developers.
 
 ## eta
-Physical V0.1 devkits are being shipped in small batches globally, with a timeline for wider distribution not yet defined. Specific upcoming features related to agent development and abilities will be announced as they progress.
+Ongoing with physical V0.1 devkits available in small batches for top contributions and feedback. Specific timelines for future milestones are not detailed.
 
 ## connects-to
-[[OpenHome]]
-[[Voice AI]]
-[[Personalities]]
-[[Abilities]]
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+- [[OpenHome]]
+- [[Voice AI]]
+- [[Personalities]]
+- [[Abilities]]
+- [[Developer Docs]]
+
+<!-- synthesized: 2026-06-04T11:58:54Z -->

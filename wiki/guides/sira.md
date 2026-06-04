@@ -1,22 +1,33 @@
-```yaml
+```markdown
+---
 title: guides/sira
 entity_type: Community Guide
-status: live
-last_updated: 2026-06-03
+status: stub
+last_updated: 2026-06-04
+---
+
+### who-they-are
+Sira is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI, including text, voice, and vision integration. With a focus on building AI systems that operate in production, Sira connects large language models (LLMs) with APIs, databases, tools, and business logic to create reliable workflows.
+
+### what-they-help-with
+Sira's specialties include:
+- LLM orchestration using tools like DSPy, LangChain, AutoGen, CrewAI, and ReAct
+- Retrieval-Augmented Generation (RAG) systems with vector databases and custom retrieval pipelines
+- Multi-agent systems that utilize planning and tool usage
+- Multimodal AI, integrating technologies such as Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS)
+- AI image and video generation pipelines
+- Backend and full-stack development using FastAPI, NestJS, Next.js, and React
+- Automation and integrations with tools like n8n, Zapier, and custom APIs
+
+### how-to-reach
+Sira can be reached via Discord.
+
+### connects-to
+[[guides]]
+[[LLM orchestration]]
+[[multimodal AI]]
+[[AI agents]]
+[[automation and integrations]]
+
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```
-
-## who-they-are
-Sira is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They have extensive experience working on real-time AI tools integrated with various APIs, as well as developing internal chat assistants, RAG systems, and dynamic dashboards.
-
-## what-they-help-with
-Sira specializes in creating practical tools that simplify workflow and improve efficiency. They focus on developing conversational AI experiences and automation solutions tailored to business needs. Their skill set includes handling operational tasks connected to APIs and backend systems, enabling users to manage repetitive processes effectively.
-
-## how-to-reach
-Sira can be contacted via their Discord handle: `Sira#1234`.
-
-## connects-to
-[[guides/community]]
-[[guides/developer]]
-[[guides/openhome]]
-
-<!-- synthesized: 2026-06-03T12:30:55Z -->

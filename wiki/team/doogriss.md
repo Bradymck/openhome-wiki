@@ -1,25 +1,23 @@
-```markdown
----
+```yaml
 title: Doogriss
 entity_type: team
-status: beta
-last_updated: 2026-06-03
----
-
-## who-they-are
-Doogriss is a full-stack AI developer at OpenHome, specializing in building custom AI systems, automation tools, and web applications.
-
-## what-they-own
-They are responsible for leading efforts in developing internal chat assistants, real-time AI tools, workflow automation, dashboards, and voice agents connected to various APIs and backend systems.
-
-## how-to-reach
-Discord handle: Not specified  
-X/Twitter: Not specified  
-Preferred contact: Not specified  
-
-## connects-to
-[[team/jesse]]  
-[[team/shannon]]
-
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+status: stub
+last_updated: 2026-06-04
 ```
+
+### who-they-are
+Doogriss is an AI engineer focusing on large language model (LLM) systems, AI agents, automation, and multimodal AI that encompasses text, voice, and vision technologies. They are dedicated to building real-world AI systems and are well-versed in connecting LLMs with various APIs, databases, and business logic.
+
+### what-they-own
+Doogriss leads efforts related to LLM orchestration, retrieval-augmented generation (RAG) systems, and automation tools. Their work is centered around ensuring that AI systems operate reliably in production environments, rather than just in demo settings.
+
+### how-to-reach
+Doogriss can be reached via Discord for inquiries related to AI engineering and community support.
+
+### connects-to
+[[team/jesse]]
+[[team/shannon]]
+[[dev-help]]
+[[ideas]]
+
+<!-- synthesized: 2026-06-04T11:58:54Z -->

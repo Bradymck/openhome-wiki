@@ -1,26 +1,33 @@
-```markdown
----
+```yaml
 title: guides/discomelon
 entity_type: Community Guide
 status: live
-last_updated: 2026-06-03
----
+last_updated: 2026-06-04
+```
 
 ## who-they-are
-Discomelon is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications for businesses and teams.
+Discomelon is an AI engineer specializing in large language model (LLM) systems, AI agents, automation, and multimodal AI (text, voice, vision). They focus on building practical AI systems that operate in production environments, emphasizing reliable and usable workflows.
 
 ## what-they-help-with
-Discomelon specializes in the development of internal chat assistants, RAG systems, workflow automation, dashboards, and real-time voice agents. They are capable of integrating systems with APIs and backend systems to facilitate operational tasks and enhance user experience.
+Discomelon's expertise encompasses:
+- LLM orchestration (using tools like DSPy, LangChain, AutoGen, CrewAI, ReAct)
+- Retrieval-augmented generation (RAG) systems with vector databases and custom pipelines
+- Multi-agent systems featuring planning and tool usage
+- Multimodal AI technologies (including Whisper, CLIP, YOLOv8, and TTS)
+- AI image and video generation pipelines
+- Backend and full-stack development (FastAPI, NestJS, Next.js, React)
+- Automation and integrations using platforms such as n8n, Zapier, Make, and custom APIs
+
+Discomelon is dedicated to helping the community grow by sharing knowledge and offering support to others in their development efforts.
 
 ## how-to-reach
-Discord handle: Discomelon
+Discord handle: @discomelon
 
 ## connects-to
-[[AI Development]]
-[[OpenHome]]
-[[Automation Tools]]
-[[Voice Recognition]]
-[[Web Applications]]
+- [[OpenHome]]
+- [[Voice AI]]
+- [[AI Development]]
+- [[LLM Systems]]
+- [[Community Engagement]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
-```
+<!-- synthesized: 2026-06-04T11:58:54Z -->

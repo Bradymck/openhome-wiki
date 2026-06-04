@@ -1,31 +1,30 @@
 ```markdown
 ---
-title: builders/shookdt
-entity_type: builder
-status: live
-last_updated: 2026-06-03
+title: Shookdt
+entity_type: builders
+status: stub
+last_updated: 2026-06-04
 ---
 
-## who-they-are
-Shookdt is a full-stack AI developer focusing on building custom AI systems, automation tools, and web applications. Their recent work emphasizes internal chat assistants, real-time voice agents, and AI tools connected to various APIs and backend systems to streamline operational tasks.
+### who-they-are
+Shookdt is an AI engineer focused on LLM systems, AI agents, automation, and multimodal AI including text, voice, and vision technologies. Their work emphasizes building real AI systems for production use, prioritizing integration with APIs, databases, tools, and business logic.
 
-## what-they-built
-Shookdt has delivered several integrations, including:
-- Lightning Alert: A voice agent that monitors lightning activity and provides real-time alerts for impending storms. The ability automatically determines the user's location and pulls from the National Weather Service for accurate warnings. This integration allows for queries about nearby lightning and customizable warning times.
+### what-they-built
+Shookdt has contributed to multiple areas within the AI community, working with technologies like LLM orchestration (DSPy, LangChain, AutoGen, CrewAI, ReAct), RAG systems with vector databases, multi-agent systems, and multimodal AI (including Whisper, CLIP, YOLOv8, TTS). They also engage in backend and full-stack development involving frameworks like FastAPI, NestJS, Next.js, and React, as well as automation and integration platforms such as n8n, Zapier, and custom APIs.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: @shookdt
-- GitHub: [shookdt's GitHub](https://github.com/shookdt)
-- X: [OpenHome on X](https://x.com/openhome/status/2061837073351581758)
+### how-to-reach
+- Discord: (handle not provided)
+- GitHub: (handle not provided)
+- X: (handle not provided)
 
-## connects-to
-[[builders/openhome]]
-[[abilities/lightning-alert]]
-[[abilities/web-search]]
-[[abilities/music]]
+### connects-to
+[[builders]]
+[[AI agents]]
+[[multimodal AI]]
+[[LLM systems]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

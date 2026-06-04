@@ -1,21 +1,22 @@
-```yaml
+```markdown
+---
 title: abilities/news-brief
 entity_type: abilities
 status: live
-last_updated: 2026-06-03
-```
+last_updated: 2026-06-04
+---
 
 ## what-it-does
-The News Brief ability provides users with timely updates and alerts about weather-related events, specifically lightning. It operates in the background, automatically notifying users of incoming storms and how much time they have before the storm arrives. It also informs users when the storm has passed and can respond to user queries regarding lightning nearby or safety conditions.
+The News Brief ability provides users with quick updates and summaries of the latest news articles, allowing them to stay informed effortlessly through voice interactions.
 
 ## how-to-build
-Builders can create this ability with minimal setup. The ability utilizes location detection based on the user's IP address, requiring no manual configuration. It retrieves data from the National Weather Service (NWS) for the United States, ensuring that users receive accurate real-time alerts. Developers can add custom notification preferences, such as the desired advance notice for thunderstorm alerts.
+To create the News Brief ability, builders will utilize the OpenHome platform to configure API connections to news sources. The ability should implement custom Python logic that fetches and summarizes news articles based on user preferences or topical interests. Detailed documentation on building abilities can be found in the [Developer Docs](https://docs.openhome.com/).
 
 ## category
-utility
+productivity
 
 ## built-by
-[OpenHome Community](https://github.com/openhome-dev/abilities)
+[[abilities/trivia]] 
 
 ## status
 live
@@ -24,6 +25,6 @@ live
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
-[[abilities/chat-automation]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
+```

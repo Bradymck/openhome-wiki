@@ -1,27 +1,32 @@
-```yaml
+```markdown
+---
 title: guides/skillstone
 entity_type: Community Guide
 status: stub
-last_updated: 2026-06-03
-```
+last_updated: 2026-06-04
+---
 
 ## who-they-are
-Skillstone is represented by community users who have expertise in building and enhancing AI systems, automation tools, and web applications.
+Skillstone is known within the OpenHome community for their expertise in AI engineering, specifically in developing AI agents, automation, and multimodal AI systems. They possess a deep understanding of building production-ready systems that leverage large language models (LLMs) alongside various APIs and databases, ensuring reliability in real-world applications.
 
 ## what-they-help-with
-They specialize in the development of conversational AI agents and the creation of custom abilities that enhance the functionality of voice AI platforms. Their areas of focus include:
-- Building conversational AI agents (Personalities)
-- Developing modular voice plugins (Abilities)
-- Integrating real-time tools and APIs
-- Creating automation solutions and dashboards for various applications
+Skillstone specializes in:
+- LLM orchestration techniques such as DSPy, LangChain, AutoGen, CrewAI, and ReAct
+- Building retrieval-augmented generation (RAG) systems using vector databases
+- Developing multi-agent systems integrating planning and tool usage
+- Creating multimodal AI solutions that involve text, voice, and vision, supported by tools like Whisper and CLIP
+- Implementing AI-driven image and video generation pipelines
+- Full-stack development and integrations using frameworks like FastAPI, NestJS, Next.js, and React
+- Automation solutions and workflow integrations with platforms such as n8n and Zapier
 
 ## how-to-reach
-Discord Handle: Not specified in the provided material.
+Skillstone can be reached on Discord with their handle: `<Discord_Handle>`.
 
 ## connects-to
 [[OpenHome]]
-[[Conversational AI]]
+[[AI Engineering]]
 [[Voice AI]]
-[[Developer Docs]]
-[[GitHub Abilities]]
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+[[Community Guides]]
+
+<!-- synthesized: 2026-06-04T11:58:54Z -->
+```

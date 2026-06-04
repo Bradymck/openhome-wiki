@@ -1,28 +1,28 @@
 ```yaml
-title: illectric-co
+title: Illectric Co
 entity_type: builders
 status: stub
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ```
 
 ## who-they-are
-Illectric-co is an active community builder focused on creating innovative Voice AI solutions through the OpenHome platform. They engage with developers by providing cutting-edge tools and resources to facilitate the development of AI-powered voice applications.
+Illectric Co is a community of builders focused on creating AI-powered voice applications and conversational AI agents. They aim to enhance technology interaction through intuitive and human-like voice applications.
 
 ## what-they-built
-Illectric-co has contributed to the development of various Voice AI agents and modular abilities within the OpenHome ecosystem. They are known for producing essential tools such as environmental alert systems, including a "Lightning Alert" that provides real-time notifications of incoming storms.
+They are working on the OpenHome platform, which allows users to build conversational AI agents called Personalities and extend them with modular voice plugins known as Abilities.
 
 ## grant-status
 none
 
 ## how-to-reach
 - Discord handle: Not specified
-- GitHub: [illectric-co GitHub](https://github.com/openhome-dev/abilities)
-- X: [Illectric on X](https://x.com/openhome/status/2061837073351581758)
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[OpenHome]]
-[[AI agents]]
-[[Voice AI abilities]]
+[[builders#openhome]]
+[[abilities]]
+[[ai-agents]]
+[[voice-technology]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->

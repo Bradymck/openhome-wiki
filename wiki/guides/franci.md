@@ -1,28 +1,32 @@
-```yaml
+```markdown
+---
 title: guides/franci
 entity_type: Community Guide
 status: live
-last_updated: 2026-06-03
-```
+last_updated: 2026-06-04
+---
 
-## who-they-are
-Franci is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They have experience in developing internal chat assistants, retrieval-augmented generation (RAG) systems, and real-time AI tools connected to various APIs.
+### who-they-are
+Franci is an AI engineer specializing in Large Language Models (LLMs), AI agents, automation, and multimodal AI systems. Their expertise includes building production-level AI systems that leverage APIs, databases, and tools, ensuring reliability and usability in real workflows.
 
-## what-they-help-with
-Franci specializes in:
-- Building custom AI systems 
-- Developing automation tools
-- Creating web applications for businesses and teams
-- Transforming repetitive manual processes into practical tools
-- Leveraging conversational AI experiences 
+### what-they-help-with
+Franci assists the community with various aspects of AI development, including:
+- LLM orchestration using frameworks like DSPy, LangChain, AutoGen, CrewAI, and ReAct.
+- Development of Retrieval-Augmented Generation (RAG) systems with vector databases and custom retrieval pipelines.
+- Creation of multi-agent systems with planning capabilities.
+- Implementation of multimodal AI components including Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS) technologies.
+- Image and video generation pipelines.
+- Backend and full-stack development using FastAPI, NestJS, Next.js, and React.
+- Automation and integration with tools like n8n, Zapier, and custom APIs.
 
-## how-to-reach
-Franci can be reached on Discord.
+### how-to-reach
+Franci can be reached on Discord for support and collaboration.
 
-## connects-to
-[[guides]]
+### connects-to
 [[AI Development]]
-[[automation tools]]
-[[web applications]]
+[[OpenHome]]
+[[LLM Orchestration]]
+[[Multimodal AI]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
+```

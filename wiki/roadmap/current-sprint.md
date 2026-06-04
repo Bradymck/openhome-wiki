@@ -3,28 +3,27 @@
 title: Roadmap - Current Sprint
 entity_type: roadmap
 status: live
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 ## what-it-is
-The current sprint for OpenHome includes the rollout of physical V0.1 development kits for creating AI agents using the OpenHome platform. Additionally, a new feature called Lightning Alert has been shipped, which alerts users of impending storms without requiring setup.
+OpenHome has introduced physical V0.1 devkits for developers, allowing them to build agents using the OpenHome platform. These devkits are advanced smart speakers that support local functionality such as music playback, smart home control, interaction with AI, and other capabilities.
 
 ## status
-- Development Kits: Shipped
-- Lightning Alert: Shipped
+In-Progress
 
 ## why-it-matters
-OpenHome aims to empower developers to create and enhance conversational AI agents, making AI-powered voice interactions accessible. The introduction of physical development kits facilitates hands-on experimentation and encourages community contributions. The Lightning Alert feature enhances user safety by providing timely storm warnings, showcasing the practical benefits of the platform.
+The initiative aims to empower developers to create conversational AI agents (Personalities) and extend their functionalities with modular plugins (Abilities). The goal is to enhance user interaction with technology through voice-first applications, making AI more accessible and practical.
 
 ## eta
-Development kits are being shipped globally in small batches; specific timelines are not disclosed. The Lightning Alert feature is currently live.
+Shipping globally in small batches. Specific timelines for broader availability haven't been defined.
 
 ## connects-to
-- [[OpenHome]]
-- [[Lightning Alert]]
-- [[Developers]]
-- [[Abilities]]
-- [[OpenClaw]]
-- [[DevKit]]
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+[[OpenHome]]
+[[Abilities]]
+[[Personalities]]
+[[Developer Docs]]
+[[OpenHome Dashboard]]
+[[GitHub]]
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

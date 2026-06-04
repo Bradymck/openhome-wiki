@@ -3,29 +3,34 @@
 title: builders/jkoppel
 entity_type: builders
 status: live
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ---
 
 ## who-they-are
-jkoppel is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. They focus on developing real-time AI tools connected to various APIs, and they are known for creating internal chat assistants and workflow automation tools for businesses.
+jkoppel is an AI engineer focused on building large language model (LLM) systems, AI agents, automation, and multimodal AI, including text, voice, and vision. Their work revolves around integrating LLMs with various APIs, databases, and tools to create reliable systems for production use rather than just demos.
 
 ## what-they-built
-jkoppel has recently shipped an integration called "Lightning Alert," which provides users with notifications about nearby lightning storms based on their location. The ability operates automatically without user configuration and utilizes data from the National Weather Service (NWS) for accurate alerts. The integration also allows users to request real-time updates and set their preferred warning times. 
+jkoppel has developed various components, such as:
+- LLM orchestration using frameworks like DSPy, LangChain, AutoGen, CrewAI, and ReAct.
+- Retrieval-Augmented Generation (RAG) systems with vector databases and custom retrieval pipelines.
+- Multi-agent systems featuring planning and tool usage.
+- Multimodal AI tools including Whisper, CLIP, YOLOv8, and text-to-speech (TTS) capabilities.
+- AI image and video generation pipelines, as well as backend and full-stack development encompassing FastAPI, NestJS, Next.js, and React.
+- Automation and integrations with tools like n8n, Zapier, and Make.
 
 ## grant-status
-$1K
+none
 
 ## how-to-reach
-- Discord handle: Not specified
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[abilities/Lightning_Alert]]
-[[abilities/Web_Search]]
-[[abilities/Music_Playback]]
-[[abilities/Custom_AI_Systems]]
-[[abilities/Workflow_Automation]]
+[[builders]]
+[[AI systems]]
+[[automation]]
+[[multimodal AI]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
 ```

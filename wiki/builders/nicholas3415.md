@@ -1,28 +1,37 @@
-```yaml
+```markdown
+---
 title: builders/nicholas3415
 entity_type: builder
 status: live
-last_updated: 2026-06-03
-```
+last_updated: 2026-06-04
+---
 
-### who-they-are
-Nicholas3415 is a full-stack AI developer focused on building custom AI systems, automation tools, and web applications. They have extensive experience in developing internal assistants, dashboards, and real-time AI tools that integrate with various APIs. Nicholas3415 is actively engaged in the OpenHome community, where they contribute to the development of voice AI applications and plugins.
+## who-they-are
+Nicholas3415 is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI, focusing on creating real production systems. His work involves integrating LLMs with APIs, databases, and business logic, ensuring reliability and usability in real-world workflows.
 
-### what-they-built
-Nicholas3415 has contributed several abilities to the OpenHome platform, including a recently shipped ability called "Lightning Alert." This ability provides real-time storm alerts by determining the user’s location through IP address and notifying them about lightning activity nearby. The alert system also allows users to customize how much warning time they receive before a storm. The ability requires no API keys and functions globally.
+## what-they-built
+Nicholas3415 has contributed to the development of several capabilities in the OpenHome platform, including:
+- LLM orchestration using tools like DSPy, LangChain, AutoGen, CrewAI, and ReAct.
+- Development of RAG systems with vector databases and custom retrieval pipelines.
+- Creation of mult-agent systems incorporating planning and tool usage.
+- Implementation of multimodal AI including Whisper, CLIP, YOLOv8, and TTS.
+- Automation and integration solutions using platforms like n8n, Zapier, Make, and custom APIs.
 
-### grant-status
+## grant-status
 applied
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X (formerly Twitter): Not specified
 
-### connects-to
+## connects-to
+[[builders]]
 [[OpenHome]]
-[[Abilities]]
-[[Voice AI]]
-[[Automation tools]]
+[[AI]]
+[[LLM systems]]
+[[Automation]]
+[[Multimodal AI]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
+```

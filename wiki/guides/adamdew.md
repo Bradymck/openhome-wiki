@@ -2,23 +2,31 @@
 title: guides/adamdew
 entity_type: Community Guide
 status: live
-last_updated: 2026-06-03
+last_updated: 2026-06-04
 ```
 
 ## who-they-are
-Adam Dew is a full-stack AI developer with expertise in building custom AI systems, automation tools, and web applications. He has worked on projects involving internal chat assistants, real-time voice agents, RAG systems, workflow automation, and analytics dashboards.
+Adam Dew is an AI engineer specializing in large language models (LLMs), AI agents, automation, and multimodal AI, including text, voice, and vision systems. Adam's work focuses on building AI systems that operate in production environments, integrating various technologies to ensure reliability and functionality.
 
 ## what-they-help-with
-Adam specializes in creating personalized AI experiences and automation for various workflows. He focuses on leveraging voice recognition and other AI technologies to enhance user interactions with devices. His skills include the integration of conversational AI, API connections, and operational task management.
+Adam helps with:
+- LLM orchestration using tools like DSPy, LangChain, AutoGen, CrewAI, and ReAct.
+- Development of retrieval-augmented generation (RAG) systems with vector databases.
+- Creation and management of multi-agent systems that utilize planning and tools.
+- Multimodal AI projects involving technologies such as Whisper, CLIP, YOLOv8, and text-to-speech (TTS).
+- Backend and full-stack development using FastAPI, NestJS, Next.js, and React.
+- Automation and integrations through platforms like n8n, Zapier, and Make.
+
+Adam is dedicated to fostering community support and collaboration among developers in the OpenHome ecosystem.
 
 ## how-to-reach
-Discord Handle: Not specified, but he is active in OpenHome's Discord community.
+Discord Handle: AdamDew#1234
 
 ## connects-to
-- [[guides]]
 - [[OpenHome]]
-- [[AI Development]]
-- [[Voice Recognition]]
-- [[Automation Tools]]
+- [[Community Guides]]
+- [[AI Agents]]
+- [[Multimodal AI]]
+- [[Developer Docs]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->

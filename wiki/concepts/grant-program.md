@@ -1,23 +1,27 @@
-```yaml
-title: "Grant Program"
-entity_type: "concepts/"
-status: "live"
-last_updated: "2026-06-03"
-```
+```markdown
+---
+title: concepts/grant-program
+entity_type: concepts
+status: live
+last_updated: 2026-06-04
+---
 
 ## definition
-The Grant Program is an initiative within OpenHome that aims to support developers and creators in building and enhancing applications on the platform. Through this program, developers can receive funding and resources to aid their projects, encouraging innovation and community engagement.
+A grant program is an initiative designed to support and fund projects that contribute to the development and improvement of OpenHome's ecosystem. This typically involves providing financial assistance, resources, or development kits to participants who actively engage in the platform's growth.
 
 ## why-it-matters
-The Grant Program plays a crucial role in fostering a collaborative environment within OpenHome. By providing financial assistance and resources, it empowers developers to explore new ideas and enhance existing features. This support helps to enrich the OpenHome ecosystem, driving more meaningful and diverse applications that benefit users.
+The grant program is essential for fostering innovation within the OpenHome community. By encouraging developers to create new features and applications, it helps to expand the capabilities of the platform, making it more robust and appealing to a broader audience. This initiative aligns with OpenHome's mission to revolutionize technological interaction through user-driven development.
 
 ## how-it-manifests
-The Grant Program manifests in the form of financial support, development kits, and promotional opportunities for contributors. Successful applicants can receive dev kits for their projects and additional funding based on their contributions and feedback, which can lead to the development of innovative voice AI applications.
+The grant program manifests through the distribution of physical developer kits to top contributors, along with additional funding for project support. It serves as a catalyst for creativity, allowing developers to prototype and showcase their work, thereby enhancing community engagement and collaboration.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-06-03T12:30:55Z -->
+<!-- synthesized: 2026-06-04T11:58:54Z -->
+```
