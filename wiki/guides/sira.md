@@ -2,32 +2,29 @@
 ---
 title: guides/sira
 entity_type: Community Guide
-status: stub
-last_updated: 2026-06-04
+status: live
+last_updated: 2026-06-06
 ---
 
-### who-they-are
-Sira is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI, including text, voice, and vision integration. With a focus on building AI systems that operate in production, Sira connects large language models (LLMs) with APIs, databases, tools, and business logic to create reliable workflows.
+## who-they-are
+Sira is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI, which includes text, voice, and vision. Their work focuses on building real AI systems that are deployable in production environments.
 
-### what-they-help-with
-Sira's specialties include:
-- LLM orchestration using tools like DSPy, LangChain, AutoGen, CrewAI, and ReAct
-- Retrieval-Augmented Generation (RAG) systems with vector databases and custom retrieval pipelines
-- Multi-agent systems that utilize planning and tool usage
-- Multimodal AI, integrating technologies such as Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS)
-- AI image and video generation pipelines
-- Backend and full-stack development using FastAPI, NestJS, Next.js, and React
-- Automation and integrations with tools like n8n, Zapier, and custom APIs
+## what-they-help-with
+Sira's expertise encompasses:
+- LLM orchestration using tools like DSPy, LangChain, AutoGen, and CrewAI.
+- RAG systems utilizing vector databases and custom retrieval pipelines.
+- Development of multi-agent systems with planning and tool usage.
+- Implementation of multimodal AI technologies, including Whisper, CLIP, YOLOv8, and TTS.
+- BackEnd and full-stack development with frameworks such as FastAPI, NestJS, Next.js, and React.
+- Automation and integrations using tools like n8n, Zapier, and custom APIs.
 
-### how-to-reach
-Sira can be reached via Discord.
+## how-to-reach
+You can reach Sira on Discord.
 
-### connects-to
-[[guides]]
-[[LLM orchestration]]
-[[multimodal AI]]
-[[AI agents]]
-[[automation and integrations]]
+## connects-to
+- [[guides]]
+- [[dev-help]]
+- [[community-abilities]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->
 ```

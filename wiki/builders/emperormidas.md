@@ -1,28 +1,34 @@
-```markdown
----
-title: builders/emperormidas
+```yaml
+title: emperormidas
 entity_type: builders
-status: stub
-last_updated: 2026-06-04
----
+status: live
+last_updated: 2026-06-06
+```
 
-### who-they-are
-Emperormidas is an AI engineer with expertise in LLM systems, AI agents, automation, and multimodal AI. They focus on building operational AI systems that integrate with various APIs and data sources to create reliable workflows.
+## who-they-are
+Emperormidas is an AI engineer specializing in developing large language models (LLMs), AI agents, and automation using multimodal AI technologies, which include functionalities involving text, voice, and vision. Their work prioritizes creating reliable AI systems that are operational in production environments, integrating LLMs with various APIs, databases, and business logic to enhance usability in practical workflows.
 
-### what-they-built
-Emperormidas has been involved in the development and integration of voice AI capabilities within the OpenHome platform, contributing to the creation of Personalities and Abilities that enhance user interaction.
+## what-they-built
+Emperormidas has contributed to several advancements in AI systems, including:
+- **LLM orchestration**: Utilizing frameworks like DSPy, LangChain, AutoGen, and CrewAI.
+- **Retrieval-Augmented Generation (RAG)**: Developing systems with vector databases and custom retrieval pipelines.
+- **Multimodal AI**: Implementing models such as Whisper, CLIP, YOLOv8, and text-to-speech (TTS) technologies.
+- **AI image and video generation pipelines**.
+- Contributions to backend and full-stack development using tools like FastAPI, NestJS, Next.js, and React.
+- Focused on automation and integration solutions through platforms such as n8n, Zapier, and Make.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Unknown
-- GitHub: Unknown
-- X: Unknown
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[builders]]
-[[abilities]]
+## connects-to
+[[Voice AI]]
+[[Large Language Models]]
+[[AI Automation]]
+[[Multimodal AI]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
-```
+<!-- synthesized: 2026-06-06T11:28:40Z -->

@@ -1,37 +1,36 @@
-```markdown
----
+```yaml
 title: builders/michaelgold
-entity_type: community builder
+entity_type: builder
 status: live
-last_updated: 2026-06-04
----
+last_updated: 2026-06-06
+```
 
-### who-they-are
-Michael Gold is an AI engineer specializing in LLM (Large Language Model) systems, AI agents, automation, and multimodal AI which includes text, voice, and vision. His work focuses on developing reliable AI systems suitable for production environments rather than just demos. He actively participates in the OpenHome community, contributing insights and support for fellow developers.
+## who-they-are
+Michael Gold is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI. His work focuses on building real AI systems that operate in production environments, ensuring they can integrate with various APIs, databases, and business logic to maintain reliability in workflows.
 
-### what-they-built
-Michael has experience working on various areas within AI, including:
-- LLM orchestration using tools such as DSPy, LangChain, AutoGen, CrewAI, and ReAct
-- Retrieval-Augmented Generation (RAG) systems utilizing vector databases and custom retrieval pipelines
-- Implementation of multi-agent systems with planning and tool usage capabilities
-- Multimodal AI solutions incorporating technologies like Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS)
-- Development of AI pipelines for image and video generation
-- Backend and full-stack development leveraging frameworks like FastAPI, NestJS, Next.js, and React
-- Automation and integrations employing tools such as n8n, Zapier, and custom APIs
+## what-they-built
+Michael has contributed to several systems and projects involving:
+- LLM orchestration using tools such as DSPy, LangChain, AutoGen, CrewAI, and ReAct.
+- Development of Retrieval-Augmented Generation (RAG) systems with vector databases and custom retrieval pipelines.
+- Creation of multi-agent systems that involve planning and tool usage.
+- Implementation of multimodal AI solutions utilizing technologies like Whisper, CLIP, YOLOv8, and TTS.
+- Development of pipelines for AI image and video generation.
+- Full-stack development using frameworks such as FastAPI, NestJS, Next.js, and React.
+- Automation and integration projects with platforms like n8n, Zapier, and custom APIs.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
+## how-to-reach
+- Discord Handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[builders/openhome]]
-[[builders/ai_agents]]
-[[builders/automation]]
-[[builders/llm_systems]]
+[[OpenHome]]
+[[Voice AI]]
+[[AI Agents]]
+[[APIs Integration]]
+[[Automation]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
-```
+<!-- synthesized: 2026-06-06T11:28:40Z -->

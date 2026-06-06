@@ -1,30 +1,38 @@
 ```markdown
 ---
-title: Shookdt
-entity_type: builders
-status: stub
-last_updated: 2026-06-04
+title: builders/shookdt
+entity_type: community builder
+status: live
+last_updated: 2026-06-06
 ---
 
-### who-they-are
-Shookdt is an AI engineer focused on LLM systems, AI agents, automation, and multimodal AI including text, voice, and vision technologies. Their work emphasizes building real AI systems for production use, prioritizing integration with APIs, databases, tools, and business logic.
+## who-they-are
+Shookdt is an AI engineer focused on building large language model (LLM) systems, AI agents, automation, and multimodal AI. Their work concentrates on developing real AI systems that operate in production environments, rather than mere demonstrations. They possess expertise in connecting LLMs with APIs, databases, tools, and business logic.
 
-### what-they-built
-Shookdt has contributed to multiple areas within the AI community, working with technologies like LLM orchestration (DSPy, LangChain, AutoGen, CrewAI, ReAct), RAG systems with vector databases, multi-agent systems, and multimodal AI (including Whisper, CLIP, YOLOv8, TTS). They also engage in backend and full-stack development involving frameworks like FastAPI, NestJS, Next.js, and React, as well as automation and integration platforms such as n8n, Zapier, and custom APIs.
+## what-they-built
+Shookdt has worked on various capabilities including:
+- LLM orchestration (using tools like DSPy, LangChain, AutoGen, CrewAI, and ReAct)
+- Retrieval-Augmented Generation (RAG) systems utilizing vector databases and custom retrieval pipelines
+- Multi-agent systems with planning and tool usage
+- Integration of multimodal AI technologies such as Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS)
+- Development of AI image and video generation pipelines
+- Backend and full-stack development utilizing FastAPI, NestJS, Next.js, and React
+- Automation and integration solutions with tools like n8n, Zapier, and Make
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: (handle not provided)
-- GitHub: (handle not provided)
-- X: (handle not provided)
+## how-to-reach
+- Discord: Available upon request
+- GitHub: Not specified in the source
+- X: Not specified in the source
 
-### connects-to
-[[builders]]
-[[AI agents]]
-[[multimodal AI]]
-[[LLM systems]]
+## connects-to
+- [[builders]]
+- [[AI agents]]
+- [[multimodal AI]]
+- [[automation]]
+- [[voice technology]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z --> 
 ```

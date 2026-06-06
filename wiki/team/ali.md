@@ -3,23 +3,28 @@
 title: Team Ali
 entity_type: team
 status: stub
-last_updated: 2026-06-04
+last_updated: 2026-06-06
 ---
 
 ### who-they-are
-Ali is an AI engineer focused on LLM systems, AI agents, automation, and multimodal AI (text, voice, vision). Ali's primary responsibility involves building production-level AI systems that integrate LLMs with various APIs, databases, tools, and business logic.
+Ali is an AI engineer focused on building reliable AI systems, particularly in the realm of LLM (Large Language Model) systems, AI agents, automation, and multimodal AI. They specialize in connecting LLMs with various APIs, databases, and business logic to create functional workflows.
 
 ### what-they-own
-Ali leads projects related to the orchestration of LLMs, RAG systems, and multimodal AI applications. Their expertise includes backend and full-stack development as well as automation and integrations.
+Ali leads projects related to:
+- LLM orchestration
+- RAG (Retrieval-Augmented Generation) systems
+- Multi-agent systems
+- Multimodal AI integrations, including voice, text, and vision
+- Backend and full-stack development
 
 ### how-to-reach
-Discord: Not specified  
-X/Twitter: Not specified  
-Preferred contact: Not specified  
+- Discord handle: Not specified
+- X/Twitter: Not specified
+- Preferred contact: Reach out directly via Discord for assistance or collaboration.
 
 ### connects-to
-[[team/jesse]]  
-[[team/shannon]]  
+- [[team/jesse]]
+- [[team/shannon]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->
 ```

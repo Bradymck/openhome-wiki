@@ -1,20 +1,20 @@
 ```yaml
-title: Speakers
-entity_type: platform
-status: beta
-last_updated: 2026-06-04
+title: Platform Speakers
+entity_type: platform/speakers
+status: live
+last_updated: 2026-06-06
 ```
 
 ### what-it-is
-Speakers in the OpenHome platform refer to the smart audio devices that allow users to interact with conversational AI agents called Personalities, providing a voice-first interface to various functionalities.
+OpenHome Speakers are cutting-edge smart speakers designed to integrate with the OpenHome platform, enabling users to build and customize their own voice AI agents known as Personalities.
 
 ### how-it-works
-OpenHome speakers are integrated with the OpenHome Voice AI platform, which supports the creation and interaction with Personalities—customizable AI agents equipped with various skills known as Abilities. Users can engage with the speakers through natural language to trigger different functionalities, such as playing music, controlling smart home devices, and accessing information through voice commands. The platform uses modular voice plugins (Abilities) that give these speakers enhanced capabilities, allowing for dynamic interactions and extended functionalities based on user input.
+OpenHome Speakers operate by utilizing a combination of AI technology and modular plugins called Abilities. Users can configure their speakers by creating Personalities—voice AI agents that have a distinct voice, persona, and conversation style. Abilities can be added to these Personalities to expand their functionalities, allowing for interactions such as playing music, controlling smart home devices, and accessing various APIs. The speakers are designed for local operation, ensuring privacy and reliability in responding to voice commands.
 
 ### current-status
-beta
+live
 
-## connects-to
+### connects-to
 - [[platform/openhome]]
 - [[platform/abilities]]
 - [[platform/dashboard]]
@@ -23,4 +23,4 @@ beta
 - [[platform/marketplace]]
 - [[platform/live-editor]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->

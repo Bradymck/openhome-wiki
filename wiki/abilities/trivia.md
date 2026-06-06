@@ -1,28 +1,27 @@
 ```yaml
-title: abilities/trivia
+title: Abilities - Trivia
 entity_type: abilities
 status: live
-last_updated: 2026-06-04
+last_updated: 2026-06-06
 ```
 
-## what-it-does
-Trivia Ability enhances AI personalities by allowing them to engage users with trivia questions and answers on various topics. Users can play trivia games, challenge friends, and learn interesting facts through interactive voice responses.
+### what-it-does
+The Trivia ability enables users to engage with their AI agent by asking trivia questions. It allows for interactive question and answer sessions, enhancing user engagement and providing entertainment.
 
-## how-to-build
-To create the Trivia Ability, developers can utilize the voice AI framework provided by OpenHome. The ability can be built using Python, where it processes voice commands to trigger trivia questions, fetches questions from an external API, and responds with answers. Proper state management is essential to keep track of user scores and conversation context.
+### how-to-build
+To create the Trivia ability, developers need to utilize the OpenHome API to trigger trivia questions. The implementation involves defining a set of questions and answers within a Python script that communicates with the user's AI agent personality. Response handling should be integrated to provide instant feedback to the user based on their answers.
 
-## category
+### category
 entertainment
 
-## built-by
-[[abilities/trivia-builder]]
+### built-by
+[[abilities/deadman-fm]]
 
-## status
+### status
 live
 
-## connects-to
-[[abilities/deadman-fm]]
+### connects-to
 [[abilities/aquaprime]]
 [[abilities/news-brief]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->

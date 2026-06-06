@@ -2,31 +2,30 @@
 title: guides/adamdew
 entity_type: Community Guide
 status: live
-last_updated: 2026-06-04
+last_updated: 2026-06-06
 ```
 
 ## who-they-are
-Adam Dew is an AI engineer specializing in large language models (LLMs), AI agents, automation, and multimodal AI, including text, voice, and vision systems. Adam's work focuses on building AI systems that operate in production environments, integrating various technologies to ensure reliability and functionality.
+Adamdew is an AI engineer specializing in large language models (LLMs), AI agents, automation, and multimodal AI systems. Their expertise includes building robust AI systems that operate effectively in production environments, rather than mere demonstrations.
 
 ## what-they-help-with
-Adam helps with:
+Adamdew provides assistance in areas such as:
 - LLM orchestration using tools like DSPy, LangChain, AutoGen, CrewAI, and ReAct.
-- Development of retrieval-augmented generation (RAG) systems with vector databases.
-- Creation and management of multi-agent systems that utilize planning and tools.
-- Multimodal AI projects involving technologies such as Whisper, CLIP, YOLOv8, and text-to-speech (TTS).
-- Backend and full-stack development using FastAPI, NestJS, Next.js, and React.
-- Automation and integrations through platforms like n8n, Zapier, and Make.
-
-Adam is dedicated to fostering community support and collaboration among developers in the OpenHome ecosystem.
+- Development of retrieval-augmented generation (RAG) systems, integrating vector databases and custom retrieval pipelines.
+- Building multi-agent systems with planning and tool usage capabilities.
+- Implementation of multimodal AI frameworks, including Whisper, CLIP, YOLOv8, and text-to-speech solutions.
+- Creating AI-driven image and video generation pipelines.
+- Backend and full-stack development using technologies such as FastAPI, NestJS, Next.js, and React.
+- Automation and integration via platforms like n8n, Zapier, Make, and custom APIs.
 
 ## how-to-reach
-Discord Handle: AdamDew#1234
+Discord Handle: `adamdew`
 
 ## connects-to
-- [[OpenHome]]
-- [[Community Guides]]
-- [[AI Agents]]
-- [[Multimodal AI]]
-- [[Developer Docs]]
+[[AI Agents]]
+[[Voice AI]]
+[[Automation Integrations]]
+[[Large Language Models]]
+[[Multimodal AI]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->

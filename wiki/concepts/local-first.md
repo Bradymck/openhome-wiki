@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: "Local First"
-entity_type: "concepts"
-status: "stub"
-last_updated: 2026-06-04
+title: concepts/local-first
+entity_type: concepts
+status: stub
+last_updated: 2026-06-06
 ---
 
 ### definition
-Local First refers to an approach where data and applications live and operate primarily on the user's device or in a localized environment, rather than relying heavily on cloud-based infrastructure. This concept emphasizes the importance of strong local functionality, enabling seamless interactions even without a consistent internet connection.
+Local-first is a concept where applications and systems prioritize local data storage and processing over reliance on centralized cloud services. This approach enhances the performance, accessibility, and privacy of applications by enabling them to function independently of an internet connection.
 
 ### why-it-matters
-Local First is relevant to OpenHome as it enhances user experience by providing faster responses and increased reliability. By relying on local data processing and execution, users can interact with their AI agents without latency issues associated with remote servers, ultimately leading to more intuitive and responsive voice interactions.
+Local-first architecture is relevant to OpenHome as it allows users to maintain control over their data and ensures that AI agents can operate effectively without constant internet access. This model supports privacy and reduces latency in interactions with smart devices within the home environment.
 
 ### how-it-manifests
-In the OpenHome platform, Local First manifests in the functionality of the devkits and personal AI agents. Users can run their personalities and abilities directly on the device, allowing for real-time interactions with voice AI features, music, and smart home functionalities without needing constant internet connectivity.
+In the OpenHome platform, local-first principles are integrated into the design of AI agents that function on smart devices. These agents can process voice commands and perform tasks like controlling smart home devices directly from the local environment, without needing to rely on external servers.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->
 ```

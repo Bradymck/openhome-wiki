@@ -1,32 +1,28 @@
-```markdown
----
+```yaml
 title: pmckelvy
-entity_type: builders/
-status: live
-last_updated: 2026-06-04
----
+entity_type: builders
+status: stub
+last_updated: 2026-06-06
+```
 
-## who-they-are
-pmckelvy is an AI engineer focused on building large language model (LLM) systems, automation, multimodal AI, and creating real AI systems that operate in production environments. They specialize in integrating LLMs with various external systems, including APIs and databases, to enhance functionality and reliability in workflows.
+### who-they-are
+pmckelvy is an AI engineer with a focus on building real AI systems that run in production, connecting large language models (LLMs) with APIs, databases, and business logic to create reliable and usable workflows. Their work involves a variety of AI technologies, particularly in LLM orchestration and multimodal AI systems.
 
-## what-they-built
-pmckelvy has contributed to the development of LLM orchestration frameworks and systems, specifically working with tools such as DSPy, LangChain, AutoGen, and CrewAI. They also work on multimodal AI systems, integrating components like Whisper, CLIP, and TTS for text, voice, and vision processing. Their projects are geared towards real-world applications, enabling AI agents with enhanced capabilities.
+### what-they-built
+At present, there is no detailed information available on specific abilities or integrations that pmckelvy has shipped. Their contributions appear to be largely centered around the development and application of LLM systems and AI agents, as well as automation and backend integration work.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: [@pmckelvy](https://discord.com)
-- GitHub: [pmckelvy](https://github.com/pmckelvy)
-- X: [@pmckelvy](https://x.com/pmckelvy)
+### how-to-reach
+- Discord: [pmckelvy](https://discord.com)
+- GitHub: Not provided
+- X (formerly Twitter): Not provided
 
-## connects-to
-[[builders]]
+### connects-to
+[[abilities]]
 [[AI agents]]
-[[LLM orchestration]]
-[[multimodal AI]]
 [[automation]]
-[[integrations]]
+[[LLM systems]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
-```
+<!-- synthesized: 2026-06-06T11:28:40Z -->

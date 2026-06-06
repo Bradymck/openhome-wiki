@@ -3,24 +3,23 @@
 title: team/jesse
 entity_type: team
 status: live
-last_updated: 2026-06-04
+last_updated: 2026-06-06
 ---
 
-## who-they-are
-Jesse is the CTO of OpenHome. He has a background as an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI (text, voice, vision). His focus is on building real AI systems that run reliably in production environments.
+### who-they-are
+Jesse is the Chief Technology Officer (CTO) at OpenHome. He specializes in AI engineering, particularly focusing on large language models (LLMs), automation, and multimodal AI systems.
 
-## what-they-own
-Jesse leads the development of AI technologies within the OpenHome platform, including LLM orchestration, RAG systems with vector databases, multi-agent systems, and multimodal AI applications. He is also involved in backend and full-stack development.
+### what-they-own
+Jesse leads initiatives related to the development of AI agents and the integration of voice-first applications into real-world workflows. His work encompasses AI system orchestration, backend development, and creating reliable, production-ready AI systems.
 
-## how-to-reach
-Discord handle: @jesserank  
-X/Twitter: @jesserank  
+### how-to-reach
+Discord: @jesserank
 
-## connects-to
-[[team/shannon]]  
-[[project/openhome]]  
-[[project/devkit]]  
-[[project/abilities]]  
+### connects-to
+[[team/shannon]]
+[[projects/ai_agents]]
+[[projects/automation]]
+[[projects/multimodal_ai]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->
 ```

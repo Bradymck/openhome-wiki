@@ -1,31 +1,33 @@
 ```markdown
 ---
-title: Sagarjethi
-entity_type: guides/sagarjethi
+title: SagarJethi
+entity_type: guides/
 status: live
-last_updated: 2026-06-04
+last_updated: 2026-06-06
 ---
 
 ### who-they-are
-Sagarjethi is an AI engineer specializing in various AI domains, including large language models (LLMs), AI agents, automation, and multimodal AI. Their work focuses on building functional AI systems capable of production use, blending LLM orchestration with real-world applications.
+SagarJethi is an AI engineer with expertise in large language models (LLMs), AI agents, automation, and multimodal AI technologies. They focus on building real AI systems that are operational in production environments rather than just demos.
 
 ### what-they-help-with
-Sagarjethi’s expertise includes but is not limited to the following areas:
-- LLM orchestration using frameworks like DSPy, LangChain, AutoGen, CrewAI, and ReAct.
-- Development of retrieval-augmented generation (RAG) systems with vector databases and custom pipelines.
-- Creation of multi-agent systems incorporating planning and tool usage.
-- Implementation of multimodal AI systems, employing technologies such as Whisper, CLIP, YOLOv8, and text-to-speech (TTS).
-- Integration and automation using tools like FastAPI, NestJS, Next.js, React, n8n, Zapier, and custom APIs.
+SagarJethi specializes in a variety of areas related to AI and automation, including:
+- LLM orchestration (using tools like DSPy, LangChain, AutoGen, and CrewAI)
+- Retrieval-Augmented Generation (RAG) systems with vector databases
+- Multi-agent systems with planning and tool usage
+- Multimodal AI technologies (including Whisper, CLIP, YOLOv8, and TTS)
+- AI image and video generation pipelines
+- Backend and full-stack development (using frameworks like FastAPI, NestJS, Next.js, and React)
+- Automation and integrations (utilizing platforms such as n8n, Zapier, and custom APIs)
 
 ### how-to-reach
-Discord handle: Not specified in the provided data.
+Discord handle: sagarjethi
 
-### connects-to
-[[Community Guides]]  
-[[OpenHome]]  
-[[AI Systems Development]]  
-[[Large Language Models]]  
-[[Automation Tools]]  
+## connects-to
+[[guides]]
+[[AI]]
+[[Voice AI]]
+[[Automation]]
+[[Multimodal AI]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->
 ```

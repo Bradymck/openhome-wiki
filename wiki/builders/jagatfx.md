@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: builders/jagatfx
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-06-04
+last_updated: 2026-06-06
 ---
 
 ### who-they-are
-Jagatfx is an AI engineer focusing on large language model (LLM) systems, AI agents, automation, and multimodal AI, including text, voice, and vision systems. They are committed to building production-ready AI systems that integrate with various APIs, databases, tools, and business logic.
+Jagatfx is an AI engineer focused on developing large language model (LLM) systems, AI agents, automation, and multimodal AI, including text, voice, and vision. Their work emphasizes creating production-ready AI systems that integrate LLMs with various APIs, databases, and tools to ensure reliability and usability in real-world applications.
 
 ### what-they-built
-Specific projects or integrations by Jagatfx have not been detailed in the available data. They are involved in advancing AI technology and contributing to community-driven efforts within the OpenHome platform.
+Jagatfx has experience in building and experimenting with LLM orchestration tools and frameworks such as DSPy, LangChain, AutoGen, and CrewAI. They are involved with retrieval-augmented generation (RAG) systems, multi-agent systems, and multimodal AI technologies (such as Whisper, CLIP, YOLOv8, TTS). They also have a background in backend and full-stack development using tools like FastAPI, NestJS, and Next.js. Their contributions aim to enhance community projects and support collaborative development.
 
 ### grant-status
 none
@@ -18,13 +18,13 @@ none
 ### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X: Not specified
+- X (formerly Twitter): Not specified
 
-## connects-to
+### connects-to
 [[builders/openhome]]
-[[technology/voice-ai]]
-[[technology/automation]]
-[[technology/multimodal-ai]]
+[[technologies/LLMs]]
+[[technologies/multimodal_ai]]
+[[technologies/automation]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->
 ```

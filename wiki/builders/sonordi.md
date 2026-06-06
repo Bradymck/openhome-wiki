@@ -1,29 +1,27 @@
 ```yaml
-title: Builders: Sonordi
-entity_type: builders/
-status: live
-last_updated: 2026-06-04
+title: builders/sonordi
+entity_type: builders
+status: stub
+last_updated: 2026-06-06
 ```
 
-## who-they-are
-Sonordi is an AI engineer active within the OpenHome community, focused on building AI agents and automation systems utilizing large language models (LLMs) and multimodal AI technologies. Their work emphasizes creating practical AI solutions that operate reliably in production environments.
+### who-they-are
+Sonordi is an active community builder involved in the OpenHome project, which focuses on creating AI agents and enhancing user interaction with technology through voice interfaces. They have experience in AI engineering, particularly in large language models (LLMs), automation, and multimodal AI systems.
 
-## what-they-built
-Sonordi has contributed to the development of various modular voice plugins (Abilities) for OpenHome, enhancing the platform's capabilities. They specialize in LLM orchestration and integration with APIs, databases, and business logic, which supports the functionality of AI systems in real-world applications.
+### what-they-built
+Details on specific shipped abilities or integrations created by Sonordi are not provided. However, their focus on building AI systems in production, integrating LLMs with various tools, and exploring multimodal AI indicates a strong involvement in advanced voice applications within the OpenHome ecosystem.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Sonordi#1234
-- GitHub: [sonordi](https://github.com/sonordi) 
-- X: [@sonordi](https://x.com/sonordi)
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-- [[OpenHome]]
-- [[AI agents]]
-- [[Voice plugins]]
-- [[Large Language Models]]
-- [[Automation and integrations]]
+### connects-to
+[[builders/openhome]]
+[[developers/voice-ai]]
+[[developers/multimodal-ai]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->

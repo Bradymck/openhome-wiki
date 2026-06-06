@@ -2,14 +2,14 @@
 title: Platform Dashboard
 entity_type: platform/dashboard
 status: live
-last_updated: 2026-06-04
+last_updated: 2026-06-06
 ```
 
 ## what-it-is
-The OpenHome Dashboard is an online user interface that facilitates the management and creation of AI agents known as Personalities, which can be enhanced through modular plugins called Abilities.
+The OpenHome Dashboard is the user interface for the OpenHome platform, allowing developers to create and manage conversational AI agents known as Personalities. It provides a streamlined way to build and configure these AI agents, as well as integrate various Abilities to enhance their functionality.
 
 ## how-it-works
-The dashboard allows users to set up their AI agents by specifying the agent's name, voice, and persona. Users can also browse and integrate various Abilities, which are specialized capabilities that can be triggered during voice interactions. The dashboard simplifies the process of creating and customizing AI agents, enabling deployment and management in a user-friendly environment.
+The Dashboard enables users to set up their AI agents with distinctive names and voices, facilitating the addition of Abilities—modular voice plugins that grant new skills to the agents. Developers can easily navigate through the interface to build and customize their agents, integrating diverse functionalities such as calling APIs, playing music, or controlling smart home devices. The Dashboard also allows users to explore community-built Abilities, fostering collaboration and innovation among developers.
 
 ## current-status
 live
@@ -23,4 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->

@@ -1,25 +1,21 @@
-```markdown
----
-title: team/peej
+```yaml
+title: Peej
 entity_type: team
 status: stub
-last_updated: 2026-06-04
----
+last_updated: 2026-06-06
+```
 
-### who-they-are
-Peej is an AI engineer with expertise in large language model (LLM) systems, AI agents, automation, and multimodal AI technologies including text, voice, and vision.
+## who-they-are
+Peej is an AI engineer focused on LLM systems, AI agents, automation, and multimodal AI. They work on building real AI systems that function in production environments, connecting LLMs with various APIs, databases, and business logic.
 
-### what-they-own
-Peej leads projects focused on LLM orchestration, retrieval-augmented generation (RAG) systems, multi-agent systems, and multimodal AI implementations. Their work revolves around building AI systems that are operational and integrated into real-world workflows, ensuring reliability and practical usability.
+## what-they-own
+Peej leads efforts in developing AI agents and multimodal systems. Their expertise includes LLM orchestration, RAG systems, multi-agent systems, and automation integrations. They also engage in backend and full-stack development.
 
-### how-to-reach
-Preferred contact is via Discord.
+## how-to-reach
+Peej can be reached via their Discord handle, details of which are not specified in the available content.
 
-### connects-to
+## connects-to
 - [[team/jesse]]
 - [[team/shannon]]
-- [[dev/openhome]]
-- [[github.com/openhome-dev/abilities]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
-```
+<!-- synthesized: 2026-06-06T11:28:40Z -->

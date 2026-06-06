@@ -1,30 +1,29 @@
 ```markdown
 ---
 title: builders/freshdelii
-entity_type: community_builder
+entity_type: builders
 status: stub
-last_updated: 2026-06-04
+last_updated: 2026-06-06
 ---
 
 ### who-they-are
-FreshDelii is an active community member working on AI systems, specializing in LLMs (Large Language Models), AI agents, automation, and multimodal AI, which includes text, voice, and vision components. The focus is on developing real-world AI systems capable of running efficiently in production environments.
+FreshDelii is a community-driven project focused on leveraging open-source technologies to create personalized AI agents and voice applications. They aim to enhance everyday interactions with technology through intuitive and responsive voice functionalities.
 
 ### what-they-built
-FreshDelii has contributed to various integration projects within the OpenHome platform, particularly in connecting LLMs with APIs, databases, and automation tools. The work involves creating multifunctional AI agents referred to as Personalities, enhanced with modular Abilities that allow them to perform various tasks, such as API calls, media playback, and device control.
+FreshDelii has proposed and worked on integrating various abilities for voice AI applications on the OpenHome platform, although specific shipped capabilities have not yet been detailed publicly. Their contributions include feedback and potential prototypes for voice AI modular plugins known as Abilities.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
-## connects-to
-[[builders/openhome]]
-[[abilities/general-ai-integration]]
-[[technologies/llm-orchestration]]
-[[technologies/multimodal-ai]]
+### connects-to
+[[Ability Integration]]
+[[OpenHome]]
+[[Voice AI Agents]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->
 ```

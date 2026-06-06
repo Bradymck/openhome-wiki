@@ -1,36 +1,37 @@
 ```markdown
 ---
 title: builders/jkoppel
-entity_type: builders
-status: live
-last_updated: 2026-06-04
+entity_type: builder
+status: stub
+last_updated: 2026-06-06
 ---
 
-## who-they-are
-jkoppel is an AI engineer focused on building large language model (LLM) systems, AI agents, automation, and multimodal AI, including text, voice, and vision. Their work revolves around integrating LLMs with various APIs, databases, and tools to create reliable systems for production use rather than just demos.
+### who-they-are
+jkoppel is an AI engineer specializing in large language models (LLMs), AI agents, automation, and multimodal AI (including text, voice, and vision). They focus on building practical AI systems for production environments, integrating LLMs with APIs, databases, and other business logic.
 
-## what-they-built
-jkoppel has developed various components, such as:
-- LLM orchestration using frameworks like DSPy, LangChain, AutoGen, CrewAI, and ReAct.
-- Retrieval-Augmented Generation (RAG) systems with vector databases and custom retrieval pipelines.
-- Multi-agent systems featuring planning and tool usage.
-- Multimodal AI tools including Whisper, CLIP, YOLOv8, and text-to-speech (TTS) capabilities.
-- AI image and video generation pipelines, as well as backend and full-stack development encompassing FastAPI, NestJS, Next.js, and React.
-- Automation and integrations with tools like n8n, Zapier, and Make.
+### what-they-built
+While specific shipped abilities or integrations by jkoppel are not detailed, they have experience with:
+- LLM orchestration frameworks (e.g., DSPy, LangChain, AutoGen)
+- Retrieval-Augmented Generation (RAG) systems including vector databases
+- Multi-agent systems incorporating planning and tool usage
+- Multimodal AI applications (e.g., Whisper, CLIP, TTS)
+- Backend and full-stack development (e.g., FastAPI, NestJS, React)
+- Automation and integration tools (e.g., n8n, Zapier)
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X: Not specified
+- X (formerly Twitter): Not specified
 
-## connects-to
-[[builders]]
-[[AI systems]]
-[[automation]]
-[[multimodal AI]]
+### connects-to
+[[AI agents]]
+[[LLM orchestration]]
+[[Automation integrations]]
+[[Multimodal AI]]
+[[OpenHome]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->
 ```

@@ -1,19 +1,18 @@
-```markdown
----
+```yaml
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-06-04
----
+last_updated: 2026-06-06
+```
 
-### definition
-Abilities-as-apps refers to modular voice plugins that extend the functionality of AI agents in OpenHome by adding new skills. These plugins can perform various tasks, such as calling APIs, playing music, and controlling devices.
+## definition
+Abilities as apps refer to modular voice plugins within the OpenHome platform that enhance the functionality of conversational AI agents, called Personalities. Each Ability can perform specific tasks, such as playing music or controlling smart devices, by executing custom logic triggered during voice interactions.
 
-### why-it-matters
-The concept of abilities-as-apps is crucial to OpenHome as it enhances the versatility and usability of AI-driven voice applications. This modular approach allows developers to customize and expand the capabilities of their AI agents, making them more effective and user-friendly.
+## why-it-matters
+This concept is vital to OpenHome because it allows developers to extend the capabilities of their AI agents with minimal effort. It facilitates a customizable and scalable approach to adding new features, improving user engagement, and ensuring a diverse range of functionalities tailored to different user needs.
 
-### how-it-manifests
-In the OpenHome platform, abilities manifest as plugins that can be triggered by voice commands. Developers can create and integrate these abilities into their AI agents, referred to as Personalities, allowing users to interact with their devices in a more engaging and intuitive manner.
+## how-it-manifests
+Abilities appear in the OpenHome platform as pluggable components that can be attached to Personalities. These Abilities are triggered by specific hotwords during voice conversations, allowing users to interact with their AI in a more dynamic and responsive manner. Developers can create their own Abilities or utilize those shared by the community.
 
 ## connects-to
 [[concepts/voice-first]]
@@ -23,5 +22,4 @@ In the OpenHome platform, abilities manifest as plugins that can be triggered by
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
-```
+<!-- synthesized: 2026-06-06T11:28:40Z -->

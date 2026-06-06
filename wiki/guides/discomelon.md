@@ -1,33 +1,28 @@
 ```yaml
 title: guides/discomelon
 entity_type: Community Guide
-status: live
-last_updated: 2026-06-04
+status: stub
+last_updated: 2026-06-06
 ```
 
 ## who-they-are
-Discomelon is an AI engineer specializing in large language model (LLM) systems, AI agents, automation, and multimodal AI (text, voice, vision). They focus on building practical AI systems that operate in production environments, emphasizing reliable and usable workflows.
+Discomelon is a member of the OpenHome community, engaged primarily in building AI systems that integrate with various technologies. Their expertise lies in automation, multimodal AI, and connecting language models with APIs and databases.
 
 ## what-they-help-with
-Discomelon's expertise encompasses:
-- LLM orchestration (using tools like DSPy, LangChain, AutoGen, CrewAI, ReAct)
-- Retrieval-augmented generation (RAG) systems with vector databases and custom pipelines
-- Multi-agent systems featuring planning and tool usage
-- Multimodal AI technologies (including Whisper, CLIP, YOLOv8, and TTS)
-- AI image and video generation pipelines
-- Backend and full-stack development (FastAPI, NestJS, Next.js, React)
-- Automation and integrations using platforms such as n8n, Zapier, Make, and custom APIs
-
-Discomelon is dedicated to helping the community grow by sharing knowledge and offering support to others in their development efforts.
+Discomelon specializes in:
+- AI engineering, particularly large language model (LLM) systems
+- Automation and integration with tools like Zapier and custom APIs
+- Real-world production AI applications
+- Backend and full-stack development using technologies such as FastAPI, NestJS, Next.js, and React
+- Multimodal AI incorporating systems for text, voice, and vision, as well as AI image and video generation pipelines
 
 ## how-to-reach
-Discord handle: @discomelon
+Discord Handle: Use Direct Message for contact.
 
 ## connects-to
-- [[OpenHome]]
-- [[Voice AI]]
-- [[AI Development]]
-- [[LLM Systems]]
-- [[Community Engagement]]
+[[OpenHome]]  
+[[AI Engineering]]  
+[[Automation Tools]]  
+[[Multimodal AI]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->

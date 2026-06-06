@@ -1,32 +1,32 @@
-```markdown
----
-title: Super Greg
-entity_type: guides/super-greg
-status: beta
-last_updated: 2026-06-04
----
-
-### who-they-are
-Super Greg is an AI engineer specializing in large language models (LLMs), AI agents, automation, and multimodal AI, including text, voice, and vision. They focus on building production-grade AI systems, integrating LLMs with various APIs, databases, tools, and business logic.
-
-### what-they-help-with
-Super Greg assists with:
-- LLM orchestration using tools like DSPy, LangChain, AutoGen, CrewAI, and ReAct.
-- Building RAG (Retrieval-Augmented Generation) systems that utilize vector databases and custom retrieval pipelines.
-- Developing multi-agent systems that incorporate planning and tool usage.
-- Creating multimodal AI applications with technologies such as Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS).
-- Implementing AI image and video generation pipelines.
-- Full-stack development frameworks including FastAPI, NestJS, Next.js, and React.
-- Automation and integrations through services like n8n, Zapier, Make, and custom APIs.
-
-### how-to-reach
-Super Greg can be contacted via Discord.
-
-### connects-to
-[[guides]]
-[[AI agents]]
-[[openhome]]
-[[multimodal AI]]
-
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+```yaml
+title: "Super Greg"
+entity_type: "guides/"
+status: "live"
+last_updated: 2026-06-06
 ```
+
+## who-they-are
+Super Greg is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI. His work focuses on building real, production-ready AI systems that integrate with various APIs, databases, and business logic.
+
+## what-they-help-with
+Super Greg aids developers in leveraging LLM orchestration tools, building retrieval-augmented generation (RAG) systems, and creating multimodal AI pipelines. His expertise includes:
+- LLM orchestration (DSPy, LangChain, AutoGen, CrewAI, ReAct)
+- RAG systems with vector databases
+- Multi-agent systems with planning and tool usage
+- Multimodal AI technologies (Whisper, CLIP, YOLOv8, TTS)
+- AI image and video generation pipelines
+- Backend and full-stack development (FastAPI, NestJS, Next.js, React)
+- Automation and integrations (n8n, Zapier, Make, custom APIs)
+
+## how-to-reach
+You can reach Super Greg on Discord at: `@SuperGreg`
+
+## connects-to
+- [[guides]]
+- [[AI agents]]
+- [[Voice AI]]
+- [[Multimodal AI]]
+- [[APIs]]
+- [[Automation]]
+
+<!-- synthesized: 2026-06-06T11:28:40Z -->

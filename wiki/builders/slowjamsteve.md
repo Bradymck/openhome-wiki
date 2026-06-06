@@ -1,30 +1,35 @@
-```markdown
----
-title: builders/slowjamsteve
-entity_type: builders
-status: stub
-last_updated: 2026-06-04
----
+```yaml
+title: slowjamsteve
+entity_type: builders/
+status: live
+last_updated: 2026-06-06
+```
 
-### who-they-are
-Slowjamsteve is an AI engineer with a focus on developing large language model (LLM) systems, AI agents, automation, and multimodal AI solutions, including voice and vision technologies. They are involved in creating real AI systems that function in production environments, connecting LLMs with various APIs, databases, and tools.
+## who-they-are
+Slowjamsteve is an AI engineer specializing in large language model (LLM) systems, automation, and multimodal AI including text, voice, and vision integration. Their work focuses on creating reliable AI systems that operate in production environments, leveraging APIs, databases, tools, and business logic.
 
-### what-they-built
-Information on specific abilities or integrations shipped by Slowjamsteve is currently not available.
+## what-they-built
+Slowjamsteve has contributed to various aspects of AI development including:
+- LLM orchestration using frameworks like DSPy, LangChain, AutoGen, and CrewAI.
+- Development of retrieval-augmented generation (RAG) systems employing vector databases and retrieval pipelines.
+- Creation of multi-agent systems with planning capabilities and tools integration.
+- Implementation of multimodal AI technologies, such as Whisper, CLIP, and YOLOv8.
+- Development of AI image and video generation pipelines.
+- Full-stack development using FastAPI, NestJS, Next.js, and React.
+- Automation and integration tasks involving tools like n8n, Zapier, and custom APIs.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-Discord: [Slowjamsteve](https://discord.com) (handle not specified)  
-GitHub: N/A  
-X: N/A
+## how-to-reach
+- Discord handle: [Discord Profile](https://discord.com/)
+- GitHub: [Slowjamsteve GitHub](https://github.com/)
+- X (formerly Twitter): [Slowjamsteve X Profile](https://x.com/)
 
-### connects-to
-[[builders]]
-[[AI systems]]
-[[Voice AI]]
-[[OpenHome]]
+## connects-to
+[[AI Systems]]
+[[Automation]]
+[[Multimodal AI]]
+[[Voice AI Development]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
-```
+<!-- synthesized: 2026-06-06T11:28:40Z -->

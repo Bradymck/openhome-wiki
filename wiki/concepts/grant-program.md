@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: concepts/grant-program
-entity_type: concepts
+title: Grant Program
+entity_type: concepts/grant-program
 status: live
-last_updated: 2026-06-04
+last_updated: 2026-06-06
 ---
 
-## definition
-A grant program is an initiative designed to support and fund projects that contribute to the development and improvement of OpenHome's ecosystem. This typically involves providing financial assistance, resources, or development kits to participants who actively engage in the platform's growth.
+### definition
+A grant program is an initiative designed to provide funding and resources to support developers and projects contributing to the OpenHome ecosystem, particularly through innovative uses of AI technologies.
 
-## why-it-matters
-The grant program is essential for fostering innovation within the OpenHome community. By encouraging developers to create new features and applications, it helps to expand the capabilities of the platform, making it more robust and appealing to a broader audience. This initiative aligns with OpenHome's mission to revolutionize technological interaction through user-driven development.
+### why-it-matters
+The grant program is crucial for fostering community growth and encouraging contributions that enhance the OpenHome platform. By providing financial incentives and resources to developers, it stimulates innovation and helps accelerate the development of valuable capabilities within the ecosystem.
 
-## how-it-manifests
-The grant program manifests through the distribution of physical developer kits to top contributors, along with additional funding for project support. It serves as a catalyst for creativity, allowing developers to prototype and showcase their work, thereby enhancing community engagement and collaboration.
+### how-it-manifests
+The grant program is manifested through the distribution of physical development kits, offering support, additional funding, and promotion to projects that show promise through contributions completed during the development cycle. Top contributors receive these dev kits as a reward, creating an engaging environment for active participation.
 
-## connects-to
+### connects-to
 - [[concepts/abilities-as-apps]]
 - [[concepts/voice-first]]
 - [[concepts/local-first]]
@@ -23,5 +23,5 @@ The grant program manifests through the distribution of physical developer kits 
 - [[concepts/dead-mans-switch]]
 - [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->
 ```

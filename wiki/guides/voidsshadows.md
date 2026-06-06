@@ -3,29 +3,31 @@
 title: guides/voidsshadows
 entity_type: Community Guide
 status: live
-last_updated: 2026-06-04
+last_updated: 2026-06-06
 ---
 
 ### who-they-are
-Voidsshadows is an AI engineer with a focus on large language model (LLM) systems, AI agents, automation, and multimodal AI, including text, voice, and vision technologies. Their background includes developing real production AI systems that integrate seamlessly with APIs, databases, tools, and business logic.
+Voidsshadows is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI (text, voice, vision). They focus on building real AI systems that run in production and integrate LLMs with various APIs, databases, tools, and business logic.
 
 ### what-they-help-with
-Voidsshadows specializes in:
+Voidsshadows primarily assists community members with:
 - LLM orchestration using frameworks such as DSPy, LangChain, AutoGen, CrewAI, and ReAct.
-- Retrieval-Augmented Generation (RAG) systems employing vector databases and custom retrieval pipelines.
-- Development of multi-agent systems incorporating planning and tool usage.
-- Multimodal AI technologies including Whisper for voice recognition, CLIP for image understanding, YOLOv8 for object detection, and text-to-speech (TTS) solutions.
-- Backend and full-stack development leveraging languages and frameworks like FastAPI, NestJS, Next.js, and React.
-- Automation and integrations using tools such as n8n, Zapier, Make, and custom APIs.
+- RAG systems that utilize vector databases and custom retrieval pipelines.
+- Designing and implementing multi-agent systems with planning and tool usage.
+- Developments in multimodal AI involving Whisper, CLIP, YOLOv8, and TTS technologies.
+- Creating AI image and video generation pipelines.
+- Backend and full-stack development with technologies like FastAPI, NestJS, Next.js, and React.
+- Automation and integrations using platforms like n8n, Zapier, and Make, as well as custom APIs.
 
 ### how-to-reach
-You can reach Voidsshadows on Discord.
+Discord handle: [Voidsshadows](https://discord.gg/YN9dPceK)
 
 ### connects-to
-[[guides/openhome]]
-[[guides/ai_agents]]
-[[guides/multimodal_ai]]
-[[guides/automation_integration]]
+[[guides]]
+[[openhome]]
+[[AI_agents]]
+[[LLM_solutions]]
+[[automation_integration]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
+<!-- synthesized: 2026-06-06T11:28:40Z -->
 ```

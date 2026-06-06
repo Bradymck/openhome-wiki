@@ -1,28 +1,21 @@
-```markdown
----
-title: Team Zain
+```yaml
+title: Zain
 entity_type: team
 status: stub
-last_updated: 2026-06-04
----
+last_updated: 2026-06-06
+```
 
-### who-they-are
-Zain is an AI engineer at OpenHome, specializing in LLM systems, AI agents, automation, and multimodal AI, including text, voice, and vision technologies. Zain's focus is on building practical AI systems that operate in production environments, providing reliable and usable workflows.
+## who-they-are
+Zain is an AI engineer at OpenHome, specializing in large language models (LLM), AI agents, automation, and multimodal AI such as text, voice, and vision.
 
-### what-they-own
-Zain leads efforts in developing LLM orchestration, real AI systems, multimodal AI capabilities, backend and full-stack development, and automation integrations within the OpenHome platform.
+## what-they-own
+Zain's work focuses on building production-ready AI systems that integrate LLMs with APIs, databases, tools, and business logic. Their expertise encompasses LLM orchestration, retrieval augmented generation (RAG) systems, multi-agent systems, multimodal AI, and automation.
 
-### how-to-reach
-Discord: Not specified  
-X/Twitter: Not specified  
-Preferred contact: Not specified  
+## how-to-reach
+Zain can be reached on Discord.
 
-### connects-to
+## connects-to
 [[team/jesse]]
 [[team/shannon]]
-[[OpenHome_Developer_Docs]]
-[[OpenHome_Dashboard]]
-[[OpenHome_GitHub]]
 
-<!-- synthesized: 2026-06-04T11:58:54Z -->
-```
+<!-- synthesized: 2026-06-06T11:28:40Z -->
