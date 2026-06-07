@@ -1,33 +1,28 @@
-```markdown
----
-title: SagarJethi
-entity_type: guides/
+```yaml
+title: Sagarjethi
+entity_type: guides/sagarjethi
 status: live
-last_updated: 2026-06-06
----
+last_updated: 2026-06-07
+```
 
-### who-they-are
-SagarJethi is an AI engineer with expertise in large language models (LLMs), AI agents, automation, and multimodal AI technologies. They focus on building real AI systems that are operational in production environments rather than just demos.
+## who-they-are
+Sagarjethi is an AI engineer specializing in large language models (LLMs), AI agents, automation, and multimodal AI that incorporates text, voice, and vision. His work focuses on developing real AI systems for production rather than demos, ensuring reliability and usability within workflows.
 
-### what-they-help-with
-SagarJethi specializes in a variety of areas related to AI and automation, including:
-- LLM orchestration (using tools like DSPy, LangChain, AutoGen, and CrewAI)
-- Retrieval-Augmented Generation (RAG) systems with vector databases
-- Multi-agent systems with planning and tool usage
-- Multimodal AI technologies (including Whisper, CLIP, YOLOv8, and TTS)
-- AI image and video generation pipelines
-- Backend and full-stack development (using frameworks like FastAPI, NestJS, Next.js, and React)
-- Automation and integrations (utilizing platforms such as n8n, Zapier, and custom APIs)
+## what-they-help-with
+Sagarjethi's expertise includes:
+- LLM orchestration using tools such as DSPy, LangChain, AutoGen, and CrewAI.
+- Building retrieval-augmented generation (RAG) systems with vector databases and custom retrieval pipelines.
+- Developing multi-agent systems with planning and tool usage capabilities.
+- Implementing multimodal AI solutions (e.g., Whisper, CLIP, YOLOv8, Text-to-Speech).
+- Creating AI image and video generation pipelines, alongside backend and full-stack development using frameworks like FastAPI, NestJS, Next.js, and React.
+- Streamlining automation and integrations using platforms such as n8n, Zapier, and Make, as well as custom APIs.
 
-### how-to-reach
-Discord handle: sagarjethi
+## how-to-reach
+Discord handle: Sagarjethi
 
 ## connects-to
-[[guides]]
-[[AI]]
-[[Voice AI]]
-[[Automation]]
-[[Multimodal AI]]
+- [[guides/openhome]]
+- [[guides/ai-agents]]
+- [[guides/automation]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
-```
+<!-- synthesized: 2026-06-07T11:31:06Z -->

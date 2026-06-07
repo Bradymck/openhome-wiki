@@ -1,25 +1,27 @@
 ```markdown
 ---
-title: Spatial Intelligence
+title: "Spatial Intelligence"
 entity_type: concepts
-status: planned
-last_updated: 2026-06-06
+status: stub
+last_updated: 2026-06-07
 ---
 
-## definition
-Spatial intelligence refers to the capability to visualize, manipulate, and understand spatial relationships between objects. It involves the ability to navigate physical spaces and comprehend how different elements relate to one another in a three-dimensional environment.
+### Definition
+Spatial intelligence is the ability to visualize and manipulate spatial relationships, which allows individuals to understand how different objects relate to one another in physical space. This concept is essential for navigation, design, and architecture, as well as for interaction with technology that involves spatial components.
 
-## why-it-matters
-Spatial intelligence is relevant to OpenHome as it enhances the user experience by allowing agents to understand and interact with their physical surroundings more intuitively. This capability enables the creation of more immersive and context-aware voice applications, fostering deeper connections between users and their smart home environments.
+### Why It Matters
+In the context of OpenHome, spatial intelligence enhances user interactions by allowing AI agents to understand and respond to spatial queries. This capability is crucial for creating more intuitive and context-aware voice applications, enabling users to engage with technology in a way that feels natural and efficient.
 
-## how-it-manifests
-In the OpenHome platform, spatial intelligence may manifest through features that allow agents to recognize and respond to spatial cues in the environment. This can include understanding user location, navigating physical spaces, and interacting with spatially arranged objects, such as smart devices and home layouts.
+### How It Manifests
+Spatial intelligence manifests in OpenHome through the development of features that allow agents to answer questions related to locations, distances, and spatial relationships. For example, an AI might help a user find the nearest smart home device or navigate through their physical space using voice commands, thereby improving the overall user experience.
 
-## connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/abilities-as-apps]]
-[[concepts/web3-native]]
+### Connects To
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->
 ```

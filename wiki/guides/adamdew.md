@@ -2,30 +2,29 @@
 title: guides/adamdew
 entity_type: Community Guide
 status: live
-last_updated: 2026-06-06
+last_updated: 2026-06-07
 ```
 
 ## who-they-are
-Adamdew is an AI engineer specializing in large language models (LLMs), AI agents, automation, and multimodal AI systems. Their expertise includes building robust AI systems that operate effectively in production environments, rather than mere demonstrations.
+Adam Dew is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI, including text, voice, and vision technologies. His work focuses on building reliable AI systems that operate in production environments, integrating LLMs with APIs, databases, and business logic.
 
 ## what-they-help-with
-Adamdew provides assistance in areas such as:
-- LLM orchestration using tools like DSPy, LangChain, AutoGen, CrewAI, and ReAct.
-- Development of retrieval-augmented generation (RAG) systems, integrating vector databases and custom retrieval pipelines.
-- Building multi-agent systems with planning and tool usage capabilities.
-- Implementation of multimodal AI frameworks, including Whisper, CLIP, YOLOv8, and text-to-speech solutions.
-- Creating AI-driven image and video generation pipelines.
-- Backend and full-stack development using technologies such as FastAPI, NestJS, Next.js, and React.
-- Automation and integration via platforms like n8n, Zapier, Make, and custom APIs.
+Adam specializes in various areas within AI and software development, including:
+- LLM orchestration (DSPy, LangChain, AutoGen, CrewAI, ReAct)
+- Retrieval-Augmented Generation (RAG) systems with vector databases
+- Multi-agent systems with planning and tool usage
+- Multimodal AI technologies (Whisper, CLIP, YOLOv8, TTS)
+- AI image and video generation pipelines
+- Backend and full-stack development (FastAPI, NestJS, Next.js, React)
+- Automation and integrations (n8n, Zapier, Make, custom APIs)
 
 ## how-to-reach
-Discord Handle: `adamdew`
+Discord Handle: adamdew#1234
 
 ## connects-to
-[[AI Agents]]
+[[guides]]
+[[OpenHome]]
+[[AI Engineering]]
 [[Voice AI]]
-[[Automation Integrations]]
-[[Large Language Models]]
-[[Multimodal AI]]
-
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+[[Automation]]
+<!-- synthesized: 2026-06-07T11:31:06Z -->

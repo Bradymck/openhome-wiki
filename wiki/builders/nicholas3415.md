@@ -1,34 +1,29 @@
 ```yaml
-title: nicholas3415
+title: builders/nicholas3415
 entity_type: builders
 status: live
-last_updated: 2026-06-06
+last_updated: 2026-06-07
 ```
 
 ## who-they-are
-Nicholas3415 is an AI engineer specializing in language model systems, AI agents, automation, and multimodal AI, which includes text, voice, and vision capabilities. Their focus is on building reliable AI systems that operate in production rather than just in demonstration environments. They are involved in connecting language models with APIs, databases, tools, and business logic.
+Nicholas3415 is an AI engineer specializing in large language model (LLM) systems, AI agents, automation, and multimodal AI, which includes text, voice, and vision. His work focuses on building real AI systems that operate in production environments rather than just demos. He integrates LLMs with APIs, databases, tools, and business logic to create reliable systems used in real workflows.
 
 ## what-they-built
-Nicholas3415 has worked with various technologies including:
-- LLM orchestration frameworks like DSPy, LangChain, AutoGen, and CrewAI.
-- Retrieval-Augmented Generation (RAG) systems utilizing vector databases and custom retrieval pipelines.
-- Multi-agent systems incorporating planning and tool usage.
-- Multimodal AI frameworks involving Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS) technologies.
-- Automation and integration solutions using services like n8n, Zapier, and custom APIs.
-Additionally, they have developed backend and full-stack applications with FastAPI, NestJS, Next.js, and React.
+Nicholas3415 built the "Clinical Trial Finder" ability for the OpenHome platform. This ability allows users to easily find clinical trials by simply asking their AI agent. The tool pulls live recruiting studies from the public ClinicalTrials.gov database, providing essential information like eligibility requirements and contact details. Notably, it features a watchlist that monitors the status of saved trials and notifies users if there are changes.
 
 ## grant-status
-none
+applied
 
 ## how-to-reach
-- Discord handle: Not explicitly provided
-- GitHub: [Nicholas3415's GitHub](https://github.com/Irak4t0n) (contextually includes references to their work)
-- X (formerly Twitter): Not explicitly provided
+- Discord handle: nicholas3415
+- GitHub: [nicholas3415](https://github.com/openhome-dev/abilities/pull/278)
+- X: [@nicholas3415](https://x.com/nicholas3415)
 
 ## connects-to
-[[builders]]
-[[OpenHome]]
-[[AI systems]]
-[[Automation]]
+[[builders]]  
+[[OpenHome]]  
+[[Abilities]]  
+[[AI Agents]]  
+[[Clinical Trials]]  
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->

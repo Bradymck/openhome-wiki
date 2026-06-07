@@ -1,26 +1,28 @@
-```yaml
+```markdown
+---
 title: platform/local-link
 entity_type: platform
 status: stub
-last_updated: 2026-06-06
-```
+last_updated: 2026-06-07
+---
 
-## what-it-is
-The Local Link is a feature of the OpenHome platform designed to facilitate seamless communication between devices and the OpenHome ecosystem, allowing for enhanced integration of smart home capabilities and voice AI interactions.
+### what-it-is
+The local-link is a feature within the OpenHome platform that enables seamless communication between voice AI agents and local smart devices, enhancing interactive experiences for users and making it easier to integrate various smart home functionalities.
 
-## how-it-works
-Local Link works by establishing a direct connection between devices within a local network and the OpenHome platform. It utilizes a set of protocols and APIs that enable devices, such as smart speakers and home automation systems, to communicate with the platform without relying on external servers. This results in lower latency and improved responsiveness for users, making voice interactions more fluid and reliable.
+### how-it-works
+Local-link operates by establishing a direct connection between a user’s voice AI agent, referred to as a Personality, and the smart devices present in the local environment. This allows users to control their devices, such as lights and speakers, through natural language commands and voice interactions. The feature leverages modular voice plugins called Abilities, which enable specific functionalities like playing music, controlling devices, or retrieving information from APIs.
 
-## current-status
+### current-status
 stub
 
-## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+### connects-to
+- [[platform/openhome]]
+- [[platform/speakers]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/voice-ai]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->
+```

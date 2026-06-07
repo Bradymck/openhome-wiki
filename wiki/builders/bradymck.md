@@ -1,31 +1,28 @@
-```markdown
----
+```yaml
 title: bradymck
 entity_type: builders
-status: stub
-last_updated: 2026-06-06
----
+status: live
+last_updated: 2026-06-07
+```
 
-### who-they-are
-bradymck is an AI engineer specializing in building LLM systems, AI agents, automation, and multimodal AI technologies. His focus is on developing reliable and usable AI systems that connect language models with various APIs, databases, and business logic to facilitate real-world applications.
+## who-they-are
+bradymck is an AI engineer focused on developing LLM systems, AI agents, automation, and multimodal AI (text, voice, vision). With experience in building reliable production systems, bradymck's work primarily involves integrating APIs, databases, and business logic into AI solutions.
 
-### what-they-built
-bradymck has contributed to various technologies and methodologies, including LLM orchestration, RAG systems, multi-agent systems, and multimodal AI. He has experience with tools like DSPy, LangChain, AutoGen, CrewAI, and ReAct, as well as frameworks for back-end and full-stack development such as FastAPI, NestJS, Next.js, and React.
+## what-they-built
+bradymck has developed the Clinical Trial Finder, an AI-powered tool that allows users to find relevant clinical trials by simply asking verbal queries. The tool utilizes the public ClinicalTrials.gov database to return live recruiting studies, including detailed information such as eligibility requirements and contact information. A notable feature is a watchlist that keeps track of selected trials and alerts users to any status changes.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord handle: Not specified
-- GitHub: Not specified
+- GitHub: [bradymck GitHub](https://github.com/openhome-dev/abilities/pull/278)
 - X: Not specified
 
-### connects-to
-[[builders]]
-[[AI agents]]
-[[multimodal AI]]
-[[automation]]
-[[LLM orchestration]]
+## connects-to
+[[AI Agents]]
+[[Voice AI]]
+[[Clinical Trials]]
+[[OpenHome]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
-```
+<!-- synthesized: 2026-06-07T11:31:06Z -->

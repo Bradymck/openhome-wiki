@@ -1,28 +1,29 @@
-```yaml
-title: abilities/news-brief
-entity_type: abilities
+```markdown
+---
+title: Abilities - News Brief
+entity_type: abilities/news-brief
 status: live
-last_updated: 2026-06-06
-```
+last_updated: 2026-06-07
+---
 
-## what-it-does
-The News Brief ability provides users with quick updates and summaries from various sources, allowing for concise information delivery.
+### what-it-does
+The News Brief ability allows users to retrieve and listen to clinical trial information from the public ClinicalTrials.gov database through voice commands. Users can ask for live recruiting studies by specifying conditions and locations, and the ability provides a present voice reading of the trials. It also features a watchlist functionality that notifies users of status changes for saved trials.
 
-## how-to-build
-To build this ability, developers can utilize OpenHome's API framework to fetch news data from selected news APIs and process it to present summarized updates through a voice interface.
+### how-to-build
+This ability is built using Python to interact with the ClinicalTrials.gov API, requiring no API keys or additional setup. The implementation leverages public data and includes a background daemon that checks for trial status updates weekly.
 
-## category
+### category
 utility
 
-## built-by
-[[builders/news-brief-builder]]
+### built-by
+[[User contributions]]
 
-## status
+### status
 live
 
-## connects-to
+### connects-to
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
-
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->
+```

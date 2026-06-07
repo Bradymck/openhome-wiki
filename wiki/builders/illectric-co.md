@@ -1,30 +1,32 @@
 ```markdown
 ---
-title: illectric-co
+title: Illectric Co
 entity_type: builders
-status: stub
-last_updated: 2026-06-06
+status: live
+last_updated: 2026-06-07
 ---
 
-### who-they-are
-Illectric-co is a team of developers involved in creating voice AI applications through the OpenHome platform. They focus on building conversational AI agents, known as "Personalities," which can be enhanced with modular voice plugins referred to as "Abilities." The team encourages community participation and contributions to improve the OpenHome ecosystem.
+## who-they-are
+Illectric Co is a builder focused on developing artificial intelligence technologies, particularly in the realm of voice interactions and conversational AI agents. They are actively involved in creating solutions that utilize large language models (LLMs), automation, and multimodal AI systems to enhance user experiences.
 
-### what-they-built
-Illectric-co has been actively involved in the development of various conversational AI functionalities and integrations on the OpenHome platform. They have contributed to the creation of Abilities that enhance the capabilities of voice AI agents, facilitating tasks such as API interactions, music playback, and smart home control. Specific details about their shipped abilities or integrations were not available in the provided content.
+## what-they-built
+Illectric Co has shipped an innovative voice-enabled application called the Clinical Trial Finder. This ability allows users to inquire about clinical trials by simply speaking, eliminating the need for extensive manual searching. Key features include live updates from the ClinicalTrials.gov database, a watchlist functionality that notifies users of changes in trial statuses, and a user-friendly interface that requires no API keys or setup.
 
-### grant-status
-none
+## grant-status
+applied
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord: [IllectricCo](https://discord.com)
+- GitHub: [Illectric Co GitHub](https://github.com/openhome-dev/abilities/pull/278)
+- X (formerly Twitter): [IllectricCo X Profile](https://x.com/)
 
-### connects-to
+## connects-to
+- [[abilities]]
+- [[Clinical Trial Finder]]
 - [[OpenHome]]
-- [[Abilities]]
 - [[Voice AI]]
-- [[Conversational AI]]
+- [[LLM Systems]]
+- [[AI Automation]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->
 ```

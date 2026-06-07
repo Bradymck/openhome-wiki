@@ -1,27 +1,27 @@
-```yaml
-title: Roadmap Shipped Features
-entity_type: roadmap/shipped
+```markdown
+---
+title: roadmap/shipped
+entity_type: roadmap
 status: live
-last_updated: 2026-06-06
-```
+last_updated: 2026-06-07
+---
 
 ## what-it-is
-As of today, OpenHome has shipped physical V0.1 developer kits for its open-source Voice AI platform, allowing users to build and prototype their conversational AI agents, known as Personalities, combined with modular voice plugins called Abilities.
+The Clinical Trial Finder is a voice-enabled feature that allows users to find live clinical trials by simply asking about them. It uses the public ClinicalTrials.gov database to pull up relevant studies based on user queries.
 
 ## status
 shipped
 
 ## why-it-matters
-The launch of these dev kits promotes development in the OpenHome ecosystem, enabling developers to create AI-powered, voice-first applications. This initiative aims to revolutionize user interaction with technology by making it more intuitive and accessible.
+This feature is designed to streamline the process of finding relevant clinical trials for patients and families who often face challenges in manually searching through extensive databases. It aims to save time and improve access to important healthcare information.
 
 ## eta
-Shipping is ongoing in small global batches, with no specific end date provided for the distribution rollout.
+Shipped as of June 2026.
 
 ## connects-to
 [[OpenHome]]
 [[Voice AI]]
-[[Developer Docs]]
-[[Abilities]]
-[[Personalities]]
-
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+[[ClinicalTrials.gov]]
+[[DevKit]]
+<!-- synthesized: 2026-06-07T11:31:06Z -->
+```

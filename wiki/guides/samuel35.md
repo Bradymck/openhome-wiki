@@ -1,31 +1,33 @@
-```yaml
-title: "Samuel35"
-entity_type: guides/
+```markdown
+---
+title: guides/samuel35
+entity_type: Community Guide
 status: live
-last_updated: 2026-06-06
-```
+last_updated: 2026-06-07
+---
 
 ## who-they-are
-Samuel35 is an AI engineer specializing in large language models (LLMs), AI agents, automation, and multimodal AI systems, including text, voice, and vision integrations. His expertise lies in building production-ready AI systems that encompass reliable and usable workflows.
+Samuel35 is an AI engineer specializing in large language models (LLMs), AI agents, automation, and multimodal AI encompassing text, voice, and vision. They focus on building real-world AI systems that operate reliably in production environments, integrating LLMs with various APIs, databases, and business logic.
 
 ## what-they-help-with
-Samuel35 focuses on a variety of advanced capabilities, including:
-- LLM orchestration using platforms like DSPy, LangChain, AutoGen, and CrewAI.
-- Retrieval-Augmented Generation (RAG) systems with vector databases and custom retrieval pipelines.
-- Development of multi-agent systems that incorporate planning and tool usage.
-- Multimodal AI technologies (e.g., Whisper, CLIP, YOLOv8, Text-to-Speech).
-- AI-driven image and video generation pipelines.
-- Backend and full-stack development with frameworks such as FastAPI, NestJS, Next.js, and React.
-- Automation and integrations involving tools like n8n, Zapier, Make, as well as custom APIs.
+Samuel35 provides assistance in the following areas:
+- LLM orchestration (DSPy, LangChain, AutoGen, CrewAI, ReAct)
+- Retrieval-Augmented Generation (RAG) systems with vector databases
+- Multi-agent systems with planning and tool usage
+- Multimodal AI technologies (Whisper, CLIP, YOLOv8, TTS)
+- AI image and video generation pipelines
+- Backend and full-stack development (FastAPI, NestJS, Next.js, React)
+- Automation and integrations using tools like n8n, Zapier, Make, and custom APIs
 
 ## how-to-reach
-You can connect with Samuel35 on Discord.
+Samuel35 can be reached on Discord.
 
 ## connects-to
-[[OpenHome]]
-[[AI Development]]
+[[guides]]
 [[Voice AI]]
-[[Large Language Models]]
-[[Automation Integration]]
+[[Automation Tools]]
+[[AI Integration]]
+[[Community Contributions]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->
+```

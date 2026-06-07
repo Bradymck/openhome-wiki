@@ -1,38 +1,29 @@
 ```markdown
 ---
-title: builders/shookdt
-entity_type: community builder
+title: "ShookDT"
+entity_type: builders/
 status: live
-last_updated: 2026-06-06
+last_updated: 2026-06-07
 ---
 
 ## who-they-are
-Shookdt is an AI engineer focused on building large language model (LLM) systems, AI agents, automation, and multimodal AI. Their work concentrates on developing real AI systems that operate in production environments, rather than mere demonstrations. They possess expertise in connecting LLMs with APIs, databases, tools, and business logic.
+ShookDT is an AI engineer specializing in large language models (LLMs), automation, and multimodal AI systems. Their focus is primarily on building operational AI systems that integrate LLMs with APIs, databases, and business logic to create reliable workflows.
 
 ## what-they-built
-Shookdt has worked on various capabilities including:
-- LLM orchestration (using tools like DSPy, LangChain, AutoGen, CrewAI, and ReAct)
-- Retrieval-Augmented Generation (RAG) systems utilizing vector databases and custom retrieval pipelines
-- Multi-agent systems with planning and tool usage
-- Integration of multimodal AI technologies such as Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS)
-- Development of AI image and video generation pipelines
-- Backend and full-stack development utilizing FastAPI, NestJS, Next.js, and React
-- Automation and integration solutions with tools like n8n, Zapier, and Make
+ShookDT has contributed to the development of the "Clinical Trial Finder" ability, which allows users to query clinical trial information using conversational voice commands. This capability pulls data from the ClinicalTrials.gov database, enabling users to find relevant studies and receive updates about their status via a watchlist feature.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Available upon request
-- GitHub: Not specified in the source
-- X: Not specified in the source
+- Discord handle: Not specified
+- GitHub: [ShookDT GitHub Profile](https://github.com/openhome-dev/abilities/pull/278)
+- X: Not specified
 
 ## connects-to
-- [[builders]]
-- [[AI agents]]
-- [[multimodal AI]]
-- [[automation]]
-- [[voice technology]]
-
-<!-- synthesized: 2026-06-06T11:28:40Z --> 
+[[clinical-trial-finder]]
+[[openhome]]
+[[abilities]]
+[[ai-engineering]]
+<!-- synthesized: 2026-06-07T11:31:06Z -->
 ```

@@ -1,34 +1,31 @@
 ```yaml
-title: emperormidas
-entity_type: builders
-status: live
-last_updated: 2026-06-06
+title: "Emperor Midas"
+entity_type: "builders/emperormidas"
+status: "live"
+last_updated: "2026-06-07"
 ```
 
 ## who-they-are
-Emperormidas is an AI engineer specializing in developing large language models (LLMs), AI agents, and automation using multimodal AI technologies, which include functionalities involving text, voice, and vision. Their work prioritizes creating reliable AI systems that are operational in production environments, integrating LLMs with various APIs, databases, and business logic to enhance usability in practical workflows.
+Emperor Midas is an AI engineer who specializes in large language model (LLM) systems, AI agents, automation, and multimodal AI involving text, voice, and vision. His work focuses on creating reliable AI systems that operate in production environments by integrating LLMs with various APIs, databases, and business logic.
 
 ## what-they-built
-Emperormidas has contributed to several advancements in AI systems, including:
-- **LLM orchestration**: Utilizing frameworks like DSPy, LangChain, AutoGen, and CrewAI.
-- **Retrieval-Augmented Generation (RAG)**: Developing systems with vector databases and custom retrieval pipelines.
-- **Multimodal AI**: Implementing models such as Whisper, CLIP, YOLOv8, and text-to-speech (TTS) technologies.
-- **AI image and video generation pipelines**.
-- Contributions to backend and full-stack development using tools like FastAPI, NestJS, Next.js, and React.
-- Focused on automation and integration solutions through platforms such as n8n, Zapier, and Make.
+Emperor Midas has developed the "Clinical Trial Finder" ability within the OpenHome platform. This capability allows users to query and retrieve information on live clinical studies, streamlining the process of finding relevant trials. Key features include:
+- Voice-activated queries for clinical trials based on conditions and locations.
+- Automated background checking for trial status changes, providing users with timely updates.
+- Utilizes the public ClinicalTrials.gov database, offering access to over 500,000 global studies without the need for API keys or complex setups.
+- Implemented as a shipping plugin for the OpenHome Voice AI platform.
 
 ## grant-status
-none
+$1K
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: @EmperorMidas
+- GitHub: [EmperorMidas GitHub](https://github.com/openhome-dev/abilities/pull/278)
+- X: [Emperor Midas on X](https://x.com)
 
 ## connects-to
-[[Voice AI]]
-[[Large Language Models]]
-[[AI Automation]]
-[[Multimodal AI]]
+[[builders]]
+[[OpenHome]]
+[[abilities/clinical-trial-finder]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->

@@ -1,21 +1,24 @@
-```yaml
+```markdown
+---
 title: Peej
 entity_type: team
 status: stub
-last_updated: 2026-06-06
-```
+last_updated: 2026-06-07
+---
 
-## who-they-are
-Peej is an AI engineer focused on LLM systems, AI agents, automation, and multimodal AI. They work on building real AI systems that function in production environments, connecting LLMs with various APIs, databases, and business logic.
+### who-they-are
+Peej is a team member at OpenHome, working as an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI (text, voice, vision). Peej's focus is on building production-ready AI systems and connecting LLMs with various APIs and workflows.
 
-## what-they-own
-Peej leads efforts in developing AI agents and multimodal systems. Their expertise includes LLM orchestration, RAG systems, multi-agent systems, and automation integrations. They also engage in backend and full-stack development.
+### what-they-own
+Peej leads efforts in developing integration and automation solutions involving AI agents and multimodal AI technologies. Their work encompasses various aspects of backend and full-stack development, especially related to building reliable AI systems.
 
-## how-to-reach
-Peej can be reached via their Discord handle, details of which are not specified in the available content.
+### how-to-reach
+Peej can be reached via Discord, although specific handles are not provided in the available information. Engagement through community channels is encouraged for collaboration and sharing ideas.
 
-## connects-to
+### connects-to
 - [[team/jesse]]
 - [[team/shannon]]
+- [[projects/clinical-trial-finder]] 
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->
+```

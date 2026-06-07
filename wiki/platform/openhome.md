@@ -1,21 +1,20 @@
-```markdown
----
-title: OpenHome
+```yaml
+title: OpenHome Platform
 entity_type: platform
 status: live
-last_updated: 2026-06-06
----
+last_updated: 2026-06-07
+```
 
-### what-it-is
-OpenHome is an open-source Voice AI platform that enables developers to build conversational AI agents known as Personalities, which can be enhanced with modular voice plugins called Abilities.
+## what-it-is
+OpenHome is an open-source Voice AI platform designed to create conversational AI agents called Personalities, which can be enhanced with modular voice plugins known as Abilities.
 
-### how-it-works
-OpenHome allows users to create their own AI agents by setting up a Personality with a distinct name, voice, and conversation style. Developers can add Abilities, which are plugins that provide new skills, such as controlling smart home devices, playing music, or answering queries. These Abilities can be triggered by specific hotwords during voice interactions and can execute custom Python logic to perform various tasks. The platform aims to make voice-first applications accessible to a broad audience, revolutionizing how people interact with technology.
+## how-it-works
+The OpenHome platform allows developers to design and build AI-based voice applications. Users can create a Personality, which represents their voice AI agent and can be customized with a unique voice, persona, and conversation style. Abilities are modules that augment the Personality by providing new skills, such as interacting with APIs, playing music, controlling smart home devices, and conducting quizzes. These Abilities can be triggered by the user through specific hotwords during voice interactions, utilizing Python logic to execute tasks. The platform supports a developer community where users can explore existing Abilities, contribute new ones, and receive support via a dedicated dashboard and GitHub.
 
-### current-status
+## current-status
 live
 
-### connects-to
+## connects-to
 [[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -24,5 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
-```
+<!-- synthesized: 2026-06-07T11:31:06Z -->

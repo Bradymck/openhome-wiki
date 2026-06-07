@@ -1,27 +1,28 @@
-```yaml
-title: builders/sonordi
-entity_type: builders
-status: stub
-last_updated: 2026-06-06
-```
+```markdown
+---
+title: Builders/Sonordi
+entity_type: builders/
+status: live
+last_updated: 2026-06-07
+---
 
-### who-they-are
-Sonordi is an active community builder involved in the OpenHome project, which focuses on creating AI agents and enhancing user interaction with technology through voice interfaces. They have experience in AI engineering, particularly in large language models (LLMs), automation, and multimodal AI systems.
+## who-they-are
+Sonordi is an AI engineer focused on developing large language model (LLM) systems, AI agents, automation, and multimodal AI. Their work primarily emphasizes building practical AI systems for production environments, integrating various technologies such as APIs, databases, and business logic to enhance reliability in workflows.
 
-### what-they-built
-Details on specific shipped abilities or integrations created by Sonordi are not provided. However, their focus on building AI systems in production, integrating LLMs with various tools, and exploring multimodal AI indicates a strong involvement in advanced voice applications within the OpenHome ecosystem.
+## what-they-built
+Sonordi has recently shipped an ability called the **Clinical Trial Finder**, which allows users to easily find clinical trials near specific locations by querying the public ClinicalTrials.gov database. The system can retrieve live recruiting studies, provide detailed information about eligibility requirements, and maintain a watchlist that notifies users of changes in trial statuses without requiring manual checks. The feature is designed to simplify access to important medical research data.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+- Discord: @sonordi
+- GitHub: [Sonordi's GitHub](https://github.com/openhome-dev/abilities/pull/278)
 
-### connects-to
-[[builders/openhome]]
-[[developers/voice-ai]]
-[[developers/multimodal-ai]]
+## connects-to
+- [[abilities/clinical-trial-finder]]
+- [[tech/language-models]]
+- [[tech/multimodal-ai]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->
+```

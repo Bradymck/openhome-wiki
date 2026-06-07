@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-06-06
-```
+last_updated: 2026-06-07
+---
 
 ## definition
-Abilities as apps refer to modular voice plugins within the OpenHome platform that enhance the functionality of conversational AI agents, called Personalities. Each Ability can perform specific tasks, such as playing music or controlling smart devices, by executing custom logic triggered during voice interactions.
+Abilities-as-apps refer to modular voice plugins within the OpenHome platform that add specific skills or functionalities to AI agents, known as Personalities. Each Ability can perform tasks such as calling APIs, playing music, running quizzes, or controlling smart home devices.
 
 ## why-it-matters
-This concept is vital to OpenHome because it allows developers to extend the capabilities of their AI agents with minimal effort. It facilitates a customizable and scalable approach to adding new features, improving user engagement, and ensuring a diverse range of functionalities tailored to different user needs.
+The concept of abilities-as-apps is fundamental to OpenHome's vision of creating customizable and extensible AI agents. It allows developers to enhance the functionality and interactivity of their voice AI systems, making them more useful and tailored to user needs. This modularity fosters innovation and encourages community contributions, facilitating a diverse ecosystem of voice-driven applications.
 
 ## how-it-manifests
-Abilities appear in the OpenHome platform as pluggable components that can be attached to Personalities. These Abilities are triggered by specific hotwords during voice conversations, allowing users to interact with their AI in a more dynamic and responsive manner. Developers can create their own Abilities or utilize those shared by the community.
+Abilities appear as plugins that can be easily integrated into Personalities. They are triggered by specific hotwords during voice interactions, running custom logic defined by developers. This makes the process of adding new functionalities relatively straightforward, empowering users to design and deploy their own unique AI features.
 
 ## connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->
+```

@@ -1,35 +1,31 @@
-```yaml
-title: slowjamsteve
-entity_type: builders/
+```markdown
+---
+title: builders/slowjamsteve
+entity_type: builder
 status: live
-last_updated: 2026-06-06
-```
+last_updated: 2026-06-07
+---
 
-## who-they-are
-Slowjamsteve is an AI engineer specializing in large language model (LLM) systems, automation, and multimodal AI including text, voice, and vision integration. Their work focuses on creating reliable AI systems that operate in production environments, leveraging APIs, databases, tools, and business logic.
+### who-they-are
+SlowJamSteve is an AI engineer focused on building large language model (LLM) systems, AI agents, automation, and multimodal AI (text, voice, vision). His work is dedicated to developing real AI systems that run in production, integrating various tools, APIs, and databases for reliable workflows.
 
-## what-they-built
-Slowjamsteve has contributed to various aspects of AI development including:
-- LLM orchestration using frameworks like DSPy, LangChain, AutoGen, and CrewAI.
-- Development of retrieval-augmented generation (RAG) systems employing vector databases and retrieval pipelines.
-- Creation of multi-agent systems with planning capabilities and tools integration.
-- Implementation of multimodal AI technologies, such as Whisper, CLIP, and YOLOv8.
-- Development of AI image and video generation pipelines.
-- Full-stack development using FastAPI, NestJS, Next.js, and React.
-- Automation and integration tasks involving tools like n8n, Zapier, and custom APIs.
+### what-they-built
+SlowJamSteve has developed a Clinical Trial Finder ability for the OpenHome platform, which allows users to easily find and track clinical trials based on their needs. This ability utilizes the ClinicalTrials.gov database to retrieve live recruiting studies and includes features like a watchlist that notifies users about changes in trial status.
 
-## grant-status
-none
+### grant-status
+$5K-$20K
 
-## how-to-reach
-- Discord handle: [Discord Profile](https://discord.com/)
-- GitHub: [Slowjamsteve GitHub](https://github.com/)
-- X (formerly Twitter): [Slowjamsteve X Profile](https://x.com/)
+### how-to-reach
+- Discord: @slowjamsteve
+- GitHub: [GitHub Profile](https://github.com/openhome-dev/abilities/pull/278)
+- X: [@slowjamsteve](https://x.com/slowjamsteve)
 
 ## connects-to
-[[AI Systems]]
-[[Automation]]
-[[Multimodal AI]]
-[[Voice AI Development]]
-
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+[[builders]]
+[[OpenHome]]
+[[Abilities]]
+[[AI systems]]
+[[LLM]]
+[[Clinical Trial Finder]]
+<!-- synthesized: 2026-06-07T11:31:06Z -->
+```

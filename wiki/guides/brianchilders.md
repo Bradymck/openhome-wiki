@@ -1,29 +1,27 @@
 ```yaml
-title: guides/brianchilders
-entity_type: Community Guide
-status: live
-last_updated: 2026-06-06
+title: "Brian Childers"
+entity_type: "guides/"
+status: "live"
+last_updated: 2026-06-07
 ```
 
 ## who-they-are
-Brian Childers is an AI engineer with expertise in building production-level AI systems. His work involves connecting large language models (LLMs) with various APIs, tools, and databases, as well as developing multimodal AI solutions.
+Brian Childers is an AI engineer with expertise in large language models (LLMs), AI agents, automation, and multimodal AI systems. His work focuses on implementing real AI solutions that operate in production environments, rather than just creating demo applications.
 
 ## what-they-help-with
-Brian specializes in several areas including:
-- LLM orchestration using frameworks like DSPy, LangChain, AutoGen, and CrewAI
-- RAG systems with vector databases and custom retrieval pipelines
-- Development of multi-agent systems with capabilities in planning and tool usage
-- Multimodal AI incorporating technologies such as Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS)
-- Backend and full-stack development with frameworks like FastAPI, NestJS, Next.js, and React
-- Automation and integration employing tools including n8n, Zapier, and custom APIs
+Brian specializes in:
+- LLM orchestration (using tools such as DSPy, LangChain, AutoGen, CrewAI, and ReAct)
+- Retrieval-Augmented Generation (RAG) systems with vector databases and custom retrieval pipelines
+- Multimodal AI, including applications in voice (Whisper), image (CLIP), and video generation (YOLOv8, TTS)
+- Backend and full-stack development (proficient in FastAPI, NestJS, Next.js, React)
+- Automation and integrations with platforms like n8n, Zapier, Make, and custom APIs
 
 ## how-to-reach
-Discord handle: brianchilders
+Discord Handle: @brianchilders
 
 ## connects-to
-[[guides]]
-[[OpenHome]]
-[[AI_Engineering]]
-[[Voice_AI]]
+[[guides/]]
+[[guides/ai-engineering]]
+[[guides/openhome]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->

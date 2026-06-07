@@ -1,25 +1,26 @@
-```yaml
+```markdown
+---
 title: web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-06-06
+last_updated: 2026-06-07
+---
+
+### definition
+Web3-native refers to technologies, platforms, and applications that are built on decentralized protocols and leverage blockchain technology to provide enhanced security, transparency, and user control.
+
+### why-it-matters
+In the context of OpenHome, being web3-native is essential as it aligns with the platform's mission to empower users by giving them greater ownership of their data and interactions. This approach enhances user trust and engagement, critical components for voice AI applications.
+
+### how-it-manifests
+The concept of web3-native manifests in OpenHome through the integration of decentralized features in its applications, such as user data ownership and secure transactions. This may include functionalities that allow users to manage their interactions and data autonomously, thereby minimizing reliance on central authorities.
+
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
+<!-- synthesized: 2026-06-07T11:31:06Z -->
 ```
-
-## definition
-Web3-native refers to applications, services, or platforms that are inherently built on decentralized technologies and principles, often utilizing blockchain technology to empower users with greater control over their data and digital assets.
-
-## why-it-matters
-In the context of OpenHome, being web3-native enables users to have ownership and control of their AI interactions and data. This decentralization aligns with the mission to create immersive and intuitive voice AI applications that are accessible to everyone while ensuring user privacy and security.
-
-## how-it-manifests
-Web3-native features in OpenHome may include decentralized identity verification for user profiles, ownership of created Personalities and Abilities, and potentially integrating with cryptocurrency systems for transactions or rewards within the ecosystem. These features establish a more user-centric and ethical approach in contrast to traditional, centralized models.
-
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
-
-<!-- synthesized: 2026-06-06T11:28:40Z -->

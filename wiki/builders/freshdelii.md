@@ -1,29 +1,25 @@
-```markdown
----
+```yaml
 title: builders/freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-06-06
----
+last_updated: 2026-06-07
+```
 
 ### who-they-are
-FreshDelii is a community-driven project focused on leveraging open-source technologies to create personalized AI agents and voice applications. They aim to enhance everyday interactions with technology through intuitive and responsive voice functionalities.
+Freshdelii is an AI engineer focused on building conversational AI systems, specifically using large language models (LLMs) and automation technologies. Their expertise lies in creating reliable AI applications that integrate various technologies, such as APIs, databases, and multimodal AI capabilities.
 
 ### what-they-built
-FreshDelii has proposed and worked on integrating various abilities for voice AI applications on the OpenHome platform, although specific shipped capabilities have not yet been detailed publicly. Their contributions include feedback and potential prototypes for voice AI modular plugins known as Abilities.
+Freshdelii has developed a Clinical Trial Finder, which is a conversational AI application that enables users to search for clinical trials by simply asking questions. This tool utilizes the public ClinicalTrials.gov database, providing real-time information about recruiting studies, eligibility requirements, and other relevant details. It features a watchlist that notifies users about changes in trial statuses.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord: Unspecified
+- GitHub: [freshdelii's GitHub](https://github.com/openhome-dev/abilities/pull/278)
+- X: Unspecified
 
 ### connects-to
-[[Ability Integration]]
-[[OpenHome]]
-[[Voice AI Agents]]
+[[abilities/clinical-trial-finder]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
-```
+<!-- synthesized: 2026-06-07T11:31:06Z -->

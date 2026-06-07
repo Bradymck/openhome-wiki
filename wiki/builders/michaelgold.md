@@ -2,35 +2,31 @@
 title: builders/michaelgold
 entity_type: builder
 status: live
-last_updated: 2026-06-06
+last_updated: 2026-06-07
 ```
 
 ## who-they-are
-Michael Gold is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI. His work focuses on building real AI systems that operate in production environments, ensuring they can integrate with various APIs, databases, and business logic to maintain reliability in workflows.
+Michael Gold is an AI engineer specializing in large language model (LLM) systems, automation, multimodal AI, and connecting AI models with various APIs, databases, and business logic. His focus is on developing reliable and usable AI systems that can operate effectively in real workflows.
 
 ## what-they-built
-Michael has contributed to several systems and projects involving:
-- LLM orchestration using tools such as DSPy, LangChain, AutoGen, CrewAI, and ReAct.
-- Development of Retrieval-Augmented Generation (RAG) systems with vector databases and custom retrieval pipelines.
-- Creation of multi-agent systems that involve planning and tool usage.
-- Implementation of multimodal AI solutions utilizing technologies like Whisper, CLIP, YOLOv8, and TTS.
-- Development of pipelines for AI image and video generation.
-- Full-stack development using frameworks such as FastAPI, NestJS, Next.js, and React.
-- Automation and integration projects with platforms like n8n, Zapier, and custom APIs.
+Michael has built a Clinical Trial Finder ability for the OpenHome platform. This ability enables users to easily find and inquire about ongoing clinical trials by voice. It uses the public ClinicalTrials.gov database to retrieve information without requiring API keys or user setup. Key features include:
+- A voice command interface to search for clinical trials based on specific parameters (e.g., location and medical condition).
+- A background watchlist feature that checks the status of saved trials and alerts users if there are any changes.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord Handle: Not specified
-- GitHub: Not specified
+- Discord handle: Not specified
+- GitHub: [michaelgold](https://github.com/openhome-dev/abilities/pull/278)
 - X: Not specified
 
 ## connects-to
+[[voice AI]]
+[[ClinicalTrials.gov]]
 [[OpenHome]]
-[[Voice AI]]
-[[AI Agents]]
-[[APIs Integration]]
-[[Automation]]
+[[Abilites]]
+[[AI systems]]
+[[automation]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->

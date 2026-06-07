@@ -2,25 +2,24 @@
 title: Doogriss
 entity_type: team
 status: stub
-last_updated: 2026-06-06
+last_updated: 2026-06-07
 ```
 
-## who-they-are
-Doogriss is an AI engineer focused on developing large language models (LLM) systems, AI agents, automation, and multimodal AI. Their work emphasizes building real AI systems that operate in production environments rather than just creating demos.
+### who-they-are
+Doogriss is an AI engineer working on LLM systems, AI agents, automation, and multimodal AI (text, voice, vision). They focus on building real AI systems that operate in production contexts rather than just demos.
 
-## what-they-own
-Doogriss leads initiatives related to LLM orchestration, retrieval augmented generation (RAG) systems, multi-agent systems, and multimodal AI processing. They are involved in backend and full-stack development, as well as automation and integrations within the OpenHome platform.
+### what-they-own
+Doogriss is involved in the development of LLM orchestration systems, RAG systems with vector databases, multi-agent systems, and multimodal AI applications. Their expertise extends to backend and full-stack development, as well as automation and integrations.
 
-## how-to-reach
+### how-to-reach
 Discord: Not specified  
 X/Twitter: Not specified  
-Preferred contact: Open to messages for community development inquiries
+Preferred contact: Not specified
 
-## connects-to
+### connects-to
 [[team/jesse]]  
 [[team/shannon]]  
-[[AI agents]]  
-[[Voice AI technology]]  
-[[Automation and integrations]]
+[[projects/ai_agents]]  
+[[projects/multimodal_ai]]
 
-<!-- synthesized: 2026-06-06T11:28:40Z -->
+<!-- synthesized: 2026-06-07T11:31:06Z -->
