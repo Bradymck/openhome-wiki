@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: platform/speakers
-entity_type: platform
+title: Speakers
+entity_type: platform/speakers
 status: live
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ---
 
 ### what-it-is
-OpenHome Speakers are advanced smart devices designed to host and operate personal AI agents, referred to as Personalities. These speakers integrate voice-enabled features and can connect to various services and plugins to provide interactive experiences.
+The OpenHome Speakers are cutting-edge smart speakers designed to leverage the OpenHome platform's capabilities, enabling users to interact with voice AI agents and access various features including music playback, smart home control, and more.
 
 ### how-it-works
-OpenHome Speakers function as a centralized hub for conversational AI. Users can create and manage their AI agents via the OpenHome Dashboard, defining characteristics such as voice and persona. Abilities—modular voice plugins—can be added to these agents, allowing them to perform specific tasks like controlling smart home devices, playing music, or accessing APIs. The interactive experience is driven by voice commands, with the ability to recognize hotwords that trigger specific actions or responses from the AI.
+OpenHome Speakers integrate with the OpenHome platform, utilizing Personalities (AI agents) and Abilities (modular plugins) to offer a wide range of functionalities. Users can create and customize their Personality with unique voices and conversation styles. Abilities, triggered by specific hotwords during conversations, enable the speakers to perform tasks such as calling APIs, controlling devices, or providing information in real time. The system is designed to be fully local, ensuring privacy and fast interaction.
 
 ### current-status
 live
 
 ### connects-to
-[[platform/openhome]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+- [[platform/openhome]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/voice-ai]]
+- [[platform/local-link]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+<!-- synthesized: 2026-06-08T12:29:03Z -->
 ```

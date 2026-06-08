@@ -1,28 +1,28 @@
 ```yaml
-title: bradymck
-entity_type: builders
+title: builders/bradymck
+entity_type: builder
 status: live
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ```
 
 ## who-they-are
-bradymck is an AI engineer focused on developing LLM systems, AI agents, automation, and multimodal AI (text, voice, vision). With experience in building reliable production systems, bradymck's work primarily involves integrating APIs, databases, and business logic into AI solutions.
+Brady McK is an IT engineer and AI engineer focused on large language model (LLM) systems, automation, and multimodal AI. They specialize in building AI systems that are robust enough to run in production environments, connecting LLMs with various APIs, databases, and business logic. Their work often revolves around making these systems reliable for real-world applications.
 
 ## what-they-built
-bradymck has developed the Clinical Trial Finder, an AI-powered tool that allows users to find relevant clinical trials by simply asking verbal queries. The tool utilizes the public ClinicalTrials.gov database to return live recruiting studies, including detailed information such as eligibility requirements and contact information. A notable feature is a watchlist that keeps track of selected trials and alerts users to any status changes.
+Brady McK has developed the "Clinical Trial Finder," an ability that assists users in locating clinical trials based on specific criteria. This ability allows users to inquire directly about clinical trials—for instance, "find clinical trials for Parkinson's near Chicago"—providing information on live recruiting studies and eligibility requirements. Features include a watchlist that notifies users of any status changes in saved trials without the need for API keys or complex setups, relying on the public ClinicalTrials.gov database.
 
 ## grant-status
-none
+applied
 
 ## how-to-reach
-- Discord handle: Not specified
-- GitHub: [bradymck GitHub](https://github.com/openhome-dev/abilities/pull/278)
-- X: Not specified
+- Discord: @bradymck
+- GitHub: [bradymck](https://github.com/bradymck)
+- X: @bradymck
 
 ## connects-to
-[[AI Agents]]
-[[Voice AI]]
-[[Clinical Trials]]
-[[OpenHome]]
+[[builders]]
+[[abilities]]
+[[openhome]]
+[[ClinicalTrialFinder]]
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+<!-- synthesized: 2026-06-08T12:29:03Z -->

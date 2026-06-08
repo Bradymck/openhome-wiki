@@ -1,30 +1,29 @@
-```yaml
-title: guides/adamdew
-entity_type: Community Guide
-status: live
-last_updated: 2026-06-07
-```
+```markdown
+---
+title: "guides/adamdew"
+entity_type: "Community Guide"
+status: "live"
+last_updated: "2026-06-08"
+---
 
 ## who-they-are
-Adam Dew is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI, including text, voice, and vision technologies. His work focuses on building reliable AI systems that operate in production environments, integrating LLMs with APIs, databases, and business logic.
+Adam Dew is an AI engineer specializing in building real AI systems that run in production. With a focus on LLM systems, AI agents, automation, and multimodal AI (text, voice, vision), he has extensive experience connecting LLMs with various APIs, databases, and tools.
 
 ## what-they-help-with
-Adam specializes in various areas within AI and software development, including:
-- LLM orchestration (DSPy, LangChain, AutoGen, CrewAI, ReAct)
-- Retrieval-Augmented Generation (RAG) systems with vector databases
-- Multi-agent systems with planning and tool usage
-- Multimodal AI technologies (Whisper, CLIP, YOLOv8, TTS)
-- AI image and video generation pipelines
-- Backend and full-stack development (FastAPI, NestJS, Next.js, React)
-- Automation and integrations (n8n, Zapier, Make, custom APIs)
+Adam helps with:
+- LLM orchestration using tools like DSPy, LangChain, AutoGen, and CrewAI.
+- Building retrieval-augmented generation (RAG) systems that utilize vector databases and custom retrieval pipelines.
+- Developing multi-agent systems that incorporate planning and tool usage.
 
 ## how-to-reach
-Discord Handle: adamdew#1234
+Discord handle: @adamdew
 
 ## connects-to
 [[guides]]
-[[OpenHome]]
-[[AI Engineering]]
 [[Voice AI]]
-[[Automation]]
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+[[AI Engineering]]
+[[OpenHome]]
+[[Community Development]]
+
+<!-- synthesized: 2026-06-08T12:29:03Z -->
+```

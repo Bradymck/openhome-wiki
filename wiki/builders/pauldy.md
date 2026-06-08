@@ -1,29 +1,30 @@
-```markdown
----
+```yaml
 title: builders/pauldy
-entity_type: builder
+entity_type: builders
 status: live
-last_updated: 2026-06-07
----
+last_updated: 2026-06-08
+```
 
 ## who-they-are
-Pauldy is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI, such as text, voice, and vision. He focuses on creating real AI systems that are reliable and usable in production workflows. His expertise includes connecting LLMs with APIs, databases, tools, and business logic.
+Pauldy is an AI engineer focused on large language model (LLM) systems, automation, and multimodal AI, which includes text, voice, and vision components. He is dedicated to building practical AI systems that operate effectively in production environments.
 
 ## what-they-built
-He has developed the "Clinical Trial Finder," an ability that enables users to find and retrieve information about clinical trials by voice command, leveraging the public ClinicalTrials.gov database. This ability eliminates the need for manual searching, providing users with a live and conversational interface to access trial details, eligibility requirements, and enrollment status.
+Pauldy has developed a voice interaction ability called **Clinical Trial Finder**. This ability allows users to find clinical trials by simply asking their AI agent, eliminating the need for manual searches through the ClinicalTrials.gov database. It includes features such as:
+- Voice queries to find trials specific to conditions and locations (e.g., "find clinical trials for Parkinson's near Chicago").
+- A watchlist feature that alerts users when the status of saved trials changes.
 
 ## grant-status
-$5K-$20K
+none
 
 ## how-to-reach
-- Discord: Pauldy#XXXX (specific number not provided)
+- Discord handle: Not specified
 - GitHub: [Pauldy's GitHub](https://github.com/openhome-dev/abilities/pull/278)
-- X: Not listed
+- X: Not specified
 
 ## connects-to
+[[builders]]
 [[abilities/clinical-trial-finder]]
-[[developers/ai-engineering]]
-[[projects/openhome]] 
+[[ai-engineering]]
+[[voice-ai-platforms]]
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
-```
+<!-- synthesized: 2026-06-08T12:29:03Z -->

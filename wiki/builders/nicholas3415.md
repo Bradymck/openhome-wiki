@@ -1,29 +1,27 @@
 ```yaml
 title: builders/nicholas3415
-entity_type: builders
+entity_type: community builder
 status: live
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ```
 
 ## who-they-are
-Nicholas3415 is an AI engineer specializing in large language model (LLM) systems, AI agents, automation, and multimodal AI, which includes text, voice, and vision. His work focuses on building real AI systems that operate in production environments rather than just demos. He integrates LLMs with APIs, databases, tools, and business logic to create reliable systems used in real workflows.
+Nicholas3415 is an AI engineer focused on building conversational AI agents and expanding their capabilities through various integrations. With a background in IT engineering, they specialize in large language model (LLM) systems, automation, and multimodal AI—including interactions across text, voice, and vision. Their work emphasizes creating reliable AI systems that operate in production environments.
 
 ## what-they-built
-Nicholas3415 built the "Clinical Trial Finder" ability for the OpenHome platform. This ability allows users to easily find clinical trials by simply asking their AI agent. The tool pulls live recruiting studies from the public ClinicalTrials.gov database, providing essential information like eligibility requirements and contact details. Notably, it features a watchlist that monitors the status of saved trials and notifies users if there are changes.
+Nicholas3415 has developed the "Clinical Trial Finder," an AI-driven ability for the OpenHome platform. This ability allows users to request information about clinical trials by conversing with their AI agents. It provides live updates, eligibility requirements, and notifications about trial status changes, all powered by the public ClinicalTrials.gov database.
 
 ## grant-status
-applied
+$1K
 
 ## how-to-reach
-- Discord handle: nicholas3415
-- GitHub: [nicholas3415](https://github.com/openhome-dev/abilities/pull/278)
-- X: [@nicholas3415](https://x.com/nicholas3415)
+- Discord: nicholas3415
+- GitHub: [nicholas3415's GitHub](https://github.com/openhome-dev/abilities/pull/278)
+- X (formerly Twitter): [Nicholas3415 on X](https://x.com/)
 
 ## connects-to
-[[builders]]  
-[[OpenHome]]  
-[[Abilities]]  
-[[AI Agents]]  
-[[Clinical Trials]]  
+[[builders/clinical-trial-finder]]
+[[abilities/clinical-trials]]
+[[builders/openhome]]
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+<!-- synthesized: 2026-06-08T12:29:03Z -->

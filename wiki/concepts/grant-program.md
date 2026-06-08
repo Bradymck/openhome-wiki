@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: concepts/grant-program
+title: Grant Program
 entity_type: concepts
 status: live
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ---
 
 ## definition
-A grant program is an initiative designed to provide financial support to developers and creators for their contributions to the OpenHome platform. This program aims to incentivize innovation and improvement within the community.
+The Grant Program is an initiative designed to support developers and contributors within the OpenHome community by providing funding, resources, and devkits for innovative projects. It encourages participation and fosters collaboration among developers to enhance the capabilities of the OpenHome platform.
 
 ## why-it-matters
-The grant program is essential for fostering a vibrant ecosystem around OpenHome by enabling developers to build new capabilities and functionalities. By financially supporting top contributions, OpenHome encourages collaboration and creativity, ensuring the platform evolves to meet user needs more effectively.
+The Grant Program is crucial to OpenHome as it incentivizes developers to build and improve AI agents and their Abilities, which are integral to the platform's functionality. By offering financial and logistical support, the program accelerates the development of new features and integrations, enhancing the overall user experience and community engagement.
 
 ## how-it-manifests
-The grant program manifests through the distribution of physical development kits (DevKits) to contributors who actively participate in enhancing the platform. Recipients of these grants are promoted within the community, receive additional funding for their projects, and gain support for their ideas. This strategy helps cultivate a community-driven approach to development in OpenHome.
+This concept appears in the OpenHome ecosystem through the distribution of physical development kits (devkits) to top contributors and participants who actively share feedback or prototype new Abilities. The program not only promotes the development of new features but also rewards active participants, thereby fostering a vibrant community of innovators within OpenHome.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+<!-- synthesized: 2026-06-08T12:29:03Z -->
 ```

@@ -1,25 +1,25 @@
 ```markdown
 ---
-title: team/kaeden
+title: Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ---
 
-## who-they-are
-Kaeden is an AI engineer working on LLM systems, AI agents, automation, and multimodal AI. Kaeden focuses on building production-quality AI systems that integrate LLMs with various APIs, databases, tools, and business logic.
+### who-they-are
+Kaeden is a member of the OpenHome team, serving in a technical role focusing on AI systems and solutions.
 
-## what-they-own
-Kaeden leads efforts in developing real AI systems for voice interactions, including the orchestration of LLMs and the creation of multi-agent systems. Their work also encompasses backend and full-stack development as well as automation and integration of workflows.
+### what-they-own
+Kaeden leads initiatives related to developing and integrating AI capabilities within the OpenHome platform, specifically in machine learning, automation, and multimodal AI interactions including voice, text, and vision.
 
-## how-to-reach
-Discord handle: Not specified  
-X/Twitter: Not specified  
-Preferred contact: Not specified
+### how-to-reach
+Kaeden can be reached through their Discord handle, which is currently unspecified.
 
-## connects-to
+### connects-to
 [[team/jesse]]
 [[team/shannon]]
+[[project/ai_agents]]
+[[project/openhome_platform]]
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+<!-- synthesized: 2026-06-08T12:29:03Z -->
 ```

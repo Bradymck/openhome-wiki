@@ -1,28 +1,28 @@
-```markdown
----
-title: Builders/Sonordi
-entity_type: builders/
+```yaml
+title: builders/sonordi
+entity_type: builders
 status: live
-last_updated: 2026-06-07
----
+last_updated: 2026-06-08
+```
 
 ## who-they-are
-Sonordi is an AI engineer focused on developing large language model (LLM) systems, AI agents, automation, and multimodal AI. Their work primarily emphasizes building practical AI systems for production environments, integrating various technologies such as APIs, databases, and business logic to enhance reliability in workflows.
+Sonordi is an IT engineer specializing in AI systems, particularly in developing LLM systems, AI agents, automation, and multimodal AI encompassing text, voice, and vision. They focus on creating reliable, production-ready AI systems that connect LLMs with APIs, databases, tools, and business logic.
 
 ## what-they-built
-Sonordi has recently shipped an ability called the **Clinical Trial Finder**, which allows users to easily find clinical trials near specific locations by querying the public ClinicalTrials.gov database. The system can retrieve live recruiting studies, provide detailed information about eligibility requirements, and maintain a watchlist that notifies users of changes in trial statuses without requiring manual checks. The feature is designed to simplify access to important medical research data.
+Sonordi has shipped the Clinical Trial Finder ability, which allows users to efficiently find clinical trials through voice commands. The tool pulls data from the public ClinicalTrials.gov database and can provide eligibility requirements and other details about ongoing studies. A notable feature is the watchlist that informs users about changes in trial statuses.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: @sonordi
+- Discord Handle: Not provided
 - GitHub: [Sonordi's GitHub](https://github.com/openhome-dev/abilities/pull/278)
+- X: Not provided
 
 ## connects-to
-- [[abilities/clinical-trial-finder]]
-- [[tech/language-models]]
-- [[tech/multimodal-ai]]
+- [[abilities]]
+- [[AI agents]]
+- [[automation]]
+- [[LLM systems]]
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
-```
+<!-- synthesized: 2026-06-08T12:29:03Z -->

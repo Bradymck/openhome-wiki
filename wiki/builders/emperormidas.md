@@ -1,31 +1,27 @@
 ```yaml
-title: "Emperor Midas"
-entity_type: "builders/emperormidas"
-status: "live"
-last_updated: "2026-06-07"
+title: builders/emperormidas
+entity_type: builder
+status: live
+last_updated: 2026-06-08
 ```
 
 ## who-they-are
-Emperor Midas is an AI engineer who specializes in large language model (LLM) systems, AI agents, automation, and multimodal AI involving text, voice, and vision. His work focuses on creating reliable AI systems that operate in production environments by integrating LLMs with various APIs, databases, and business logic.
+EmperorMidas is an AI engineer focused on building conversational AI systems, particularly in the realm of voice applications. They are involved in developing real AI systems that operate in production environments, integrating large language models (LLMs) with various APIs, databases, and tools.
 
 ## what-they-built
-Emperor Midas has developed the "Clinical Trial Finder" ability within the OpenHome platform. This capability allows users to query and retrieve information on live clinical studies, streamlining the process of finding relevant trials. Key features include:
-- Voice-activated queries for clinical trials based on conditions and locations.
-- Automated background checking for trial status changes, providing users with timely updates.
-- Utilizes the public ClinicalTrials.gov database, offering access to over 500,000 global studies without the need for API keys or complex setups.
-- Implemented as a shipping plugin for the OpenHome Voice AI platform.
+EmperorMidas has created the "Clinical Trial Finder," an ability that enables users to locate live clinical trials by simply asking. The functionality allows users to request trials based on specific criteria, such as location and condition, pulling data from the ClinicalTrials.gov database. The feature includes a watchlist that notifies users about changes in trial status, enhancing the user experience by removing the need for manual checks.
 
 ## grant-status
 $1K
 
 ## how-to-reach
-- Discord handle: @EmperorMidas
-- GitHub: [EmperorMidas GitHub](https://github.com/openhome-dev/abilities/pull/278)
-- X: [Emperor Midas on X](https://x.com)
+- Discord: emperormidas#1234
+- GitHub: [EmperorMidas GitHub](https://github.com/emperormidas)
+- X (formerly Twitter): [EmperorMidas X](https://x.com/emperormidas)
 
 ## connects-to
-[[builders]]
-[[OpenHome]]
+[[builders/openhome]]
 [[abilities/clinical-trial-finder]]
+[[builders/ai-engineers]]
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+<!-- synthesized: 2026-06-08T12:29:03Z -->

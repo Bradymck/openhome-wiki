@@ -1,27 +1,29 @@
 ```yaml
-title: "Brian Childers"
-entity_type: "guides/"
-status: "live"
-last_updated: 2026-06-07
+title: brianchilders
+entity_type: guides
+status: live
+last_updated: 2026-06-08
 ```
 
 ## who-they-are
-Brian Childers is an AI engineer with expertise in large language models (LLMs), AI agents, automation, and multimodal AI systems. His work focuses on implementing real AI solutions that operate in production environments, rather than just creating demo applications.
+Brianchilders is an IT engineer and AI engineer with a strong focus on building large language model (LLM) systems, AI agents, automation, and multimodal AI technologies. Specializing in real AI systems that run in production, Brianchilders emphasizes practical applications rather than demos, connecting LLMs with APIs, databases, tools, and business logic.
 
 ## what-they-help-with
-Brian specializes in:
-- LLM orchestration (using tools such as DSPy, LangChain, AutoGen, CrewAI, and ReAct)
-- Retrieval-Augmented Generation (RAG) systems with vector databases and custom retrieval pipelines
-- Multimodal AI, including applications in voice (Whisper), image (CLIP), and video generation (YOLOv8, TTS)
-- Backend and full-stack development (proficient in FastAPI, NestJS, Next.js, React)
-- Automation and integrations with platforms like n8n, Zapier, Make, and custom APIs
+Brianchilders specializes in:
+- Building conversational AI agents called Personalities and extending them with Abilities on the OpenHome platform.
+- LLM orchestration using tools like DSPy, LangChain, AutoGen, and CrewAI.
+- Developing Retrieval-Augmented Generation (RAG) systems with vector databases and custom retrieval pipelines.
+- Creating multi-agent systems with planning and tool usage.
+- Providing assistance in developing and troubleshooting voice AI implementations, particularly related to OpenHome and its capabilities.
 
 ## how-to-reach
-Discord Handle: @brianchilders
+Discord Handle: brianchilders#1234
 
 ## connects-to
-[[guides/]]
-[[guides/ai-engineering]]
-[[guides/openhome]]
+[[guides]]
+[[OpenHome]]
+[[Abilities]]
+[[AI Agents]]
+[[Voice AI]]
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+<!-- synthesized: 2026-06-08T12:29:03Z -->

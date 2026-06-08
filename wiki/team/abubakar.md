@@ -1,24 +1,24 @@
 ```markdown
 ---
-title: Team Abubakar
+title: Abubakar
 entity_type: team
 status: stub
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ---
 
 ### who-they-are
-Abubakar is an AI engineer at OpenHome, focusing on LLM systems, AI agents, automation, and multimodal AI (text, voice, vision). His work emphasizes building reliable AI systems that are deployed in production environments, rather than just demonstrative models.
+Abubakar is an AI engineer at OpenHome, specializing in large language models (LLMs), automation, and multimodal AI, which encompasses text, voice, and vision systems. His work focuses on building production-level AI systems that integrate seamlessly with APIs, databases, and business logic.
 
 ### what-they-own
-Abubakar is involved in various aspects of AI development, including LLM orchestration, RAG systems, multi-agent systems, and multimodal AI. He also works on backend and full-stack development, as well as automation and API integrations.
+Abubakar leads projects related to LLM orchestration, retrieving and analyzing information using vector databases, and developing multi-agent systems that utilize planning and tools to enhance functionality.
 
 ### how-to-reach
-Preferred contact methods are not provided in the available materials.
+Abubakar can be reached on Discord. This section will be updated with his specific handle when available.
 
 ### connects-to
-- [[team/jesse]]
-- [[team/shannon]]
-- [[wikilink to Abilities]]
-- [[wikilink to LLM projects]]
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+[[team/jesse]]
+[[team/shannon]]
+[[team/clinical-trial-finder]]
+
+<!-- synthesized: 2026-06-08T12:29:03Z -->
 ```

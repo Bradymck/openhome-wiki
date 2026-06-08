@@ -1,33 +1,30 @@
 ```markdown
 ---
-title: Super Greg
-entity_type: guides/super-greg
-status: live
-last_updated: 2026-06-07
+title: guides/super-greg
+entity_type: Community Guide
+status: stub
+last_updated: 2026-06-08
 ---
 
-## who-they-are
-Super Greg is an AI engineer specializing in large language model (LLM) systems, AI agents, automation, and multimodal AI, encompassing text, voice, and vision. He has extensive experience in building AI solutions that are deployable in production environments, ensuring reliability and usability across various workflows.
+### who-they-are
+Super Greg is an IT engineer and AI engineer with a background in building AI systems and automation, particularly focusing on large language models (LLMs) and multimodal AI.
 
-## what-they-help-with
-Super Greg offers expertise in the following areas:
-- LLM orchestration using tools such as DSPy, LangChain, AutoGen, and CrewAI.
-- Retrieval-Augmented Generation (RAG) systems integrated with vector databases and customized retrieval pipelines.
-- Development of multi-agent systems that utilize planning and tool usage.
-- Multimodal AI integration involving technologies like Whisper, CLIP, YOLOv8, and text-to-speech (TTS) systems.
-- Creation of AI image and video generation pipelines.
-- Backend and full-stack development using frameworks such as FastAPI, NestJS, Next.js, and React.
-- Automation and integration processes leveraging platforms like n8n, Zapier, Make, and custom APIs.
+### what-they-help-with
+Super Greg specializes in connecting LLMs with various APIs, databases, and tools to create reliable AI solutions that can run in production environments. His areas of expertise include:
+- LLM orchestration (using tools like DSPy, LangChain)
+- RAG systems with vector databases and custom retrieval pipelines
+- Multi-agent systems with planning and tool usage
+- Building voice AI agents and extending them through modular voice plugins called Abilities
 
-## how-to-reach
-Discord: @SuperGreg
+### how-to-reach
+Discord Handle: Not specified
 
-## connects-to
-[[guides/abilities]]
-[[guides/openhome]]
-[[guides/developer-docs]]
-[[guides/community]]
-[[guides/voice-ai]]
-
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+### connects-to
+[[guides]]
+[[AI systems]]
+[[OpenHome]]
+[[Voice AI]]
+[[Abilities]]
+[[LLMs]]
+<!-- synthesized: 2026-06-08T12:29:03Z -->
 ```

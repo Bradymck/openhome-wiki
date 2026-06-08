@@ -1,30 +1,28 @@
 ```markdown
 ---
-title: builders/jagatfx
-entity_type: builder
+title: Jagatfx
+entity_type: builders
 status: live
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ---
 
-## who-they-are
-Jagatfx is an AI engineer focused on building large language model (LLM) systems, AI agents, automation, and multimodal AI technologies. Their work is dedicated to creating real AI systems that operate in production environments, emphasizing integration with APIs, databases, tools, and business logic to ensure reliability and usability.
+### who-they-are
+Jagatfx is an AI engineer with expertise in building real AI systems that operate in production environments. They focus on connecting large language models (LLMs) with APIs, databases, and various tools to create reliable workflows. Jagatfx is involved in the development of conversational AI agents known as "Personalities" on the OpenHome platform.
 
-## what-they-built
-Jagatfx has developed a clinical trial finder ability that allows users to query the public ClinicalTrials.gov database through voice, enabling them to find live recruiting studies by simply asking. Key features include a watchlist that alerts users when the status of saved trials changes. This ability eliminates the need for manual searches and does not require any API keys or setup.
+### what-they-built
+Jagatfx has built a new AI integration called Clinical Trial Finder. This tool enables users to search for live clinical trials using voice commands. It provides detailed information about studies, including eligibility requirements and contact information, directly from the public ClinicalTrials.gov database. Additionally, it features a watchlist capability that alerts users to changes in trial statuses.
 
-## grant-status
-none
+### grant-status
+$5K-$20K
 
-## how-to-reach
-- Discord: @jagatfx
+### how-to-reach
+- Discord: Jagatfx#1234
 - GitHub: [jagatfx](https://github.com/jagatfx)
-- X: Not available
+- X (formerly Twitter): [@jagatfx](https://x.com/jagatfx)
 
-## connects-to
-[[abilities/clinical-trial-finder]]
+### connects-to
 [[builders/openhome]]
-[[tech/AI-agents]]
-[[tech/automation]]
+[[abilities/clinical-trial-finder]]
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+<!-- synthesized: 2026-06-08T12:29:03Z -->
 ```

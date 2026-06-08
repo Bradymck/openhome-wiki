@@ -1,30 +1,28 @@
-```yaml
-title: joyboyo42
-entity_type: builders
+```markdown
+---
+title: builders/joyboyo42
+entity_type: builder
 status: live
-last_updated: 2026-06-07
-```
+last_updated: 2026-06-08
+---
 
 ## who-they-are
-joyboyo42 is an AI engineer focused on developing large language models (LLMs), AI agents, automation, and multimodal AI technologies. Their work emphasizes building real AI systems for production environments rather than just demos, facilitating reliable workflows through the integration of LLMs with various APIs, databases, tools, and business logic.
+Joyboyo42 is an IT engineer focused on developing AI systems, particularly in the realm of large language models (LLMs), AI agents, and automation. They specialize in creating robust AI solutions that operate in production environments, integrating various tools and databases to enhance usability and reliability in real workflows.
 
 ## what-they-built
-joyboyo42 has developed a Clinical Trial Finder ability for the OpenHome platform. This ability enables users to inquire about available clinical trials using voice commands, automatically retrieving information from the ClinicalTrials.gov database without requiring API keys or additional setup. Key features of this ability include:
-- Voice-triggered search for live recruiting studies.
-- A watchlist function that notifies users of changes in trial status.
+Joyboyo42 has shipped the **Clinical Trial Finder**, an ability that allows users to find clinical trials by simply asking voice queries. This integration pulls live recruitment studies from the public ClinicalTrials.gov database and provides detailed information such as eligibility requirements and contact details. A standout feature is the watchlist option, which notifies users of changes in the status of saved trials, eliminating the need for manual checks.
 
 ## grant-status
-none
+$1K
 
 ## how-to-reach
-- Discord: joyboyo42
-- GitHub: [joyboyo42](https://github.com/joyboyo42)
-- X: [@joyboyo42](https://x.com/joyboyo42)
+- Discord handle: joyboyo42
+- GitHub: [Joyboyo42 GitHub](https://github.com/joyboyo42)
+- X: [Joyboyo42 on X](https://x.com/joyboyo42)
 
 ## connects-to
-[[builders]]
-[[abilities/clinical-trial-finder]]
-[[abilities]]
-[[openhome]]
-
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+[[Clinical Trial Finder]]
+[[OpenHome Abilities]]
+[[Voice AI Agents]]
+<!-- synthesized: 2026-06-08T12:29:03Z -->
+```

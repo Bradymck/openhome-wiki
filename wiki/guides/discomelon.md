@@ -1,31 +1,24 @@
 ```markdown
 ---
 title: guides/discomelon
-entity_type: Community Guide
+entity_type: guides
 status: stub
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ---
 
-## who-they-are
-Discomelon is an AI engineer specializing in large language models (LLMs), automation, and multimodal AI systems. Their expertise spans various technologies and frameworks, focusing on building functional AI systems for real-world applications.
+### who-they-are
+Discomelon is a community guide within the OpenHome Discord server, specializing in the development and integration of AI-powered voice applications.
 
-## what-they-help-with
-Discomelon assists with:
-- LLM orchestration using tools like DSPy, LangChain, AutoGen, and CrewAI
-- Retrieval-augmented generation (RAG) systems integrating vector databases
-- Multi-agent systems that involve planning and tool utilization
-- Development of multimodal AI applications using technologies such as Whisper, CLIP, YOLOv8, and Text-to-Speech (TTS)
-- Creating AI image and video generation pipelines
-- Full-stack development utilizing frameworks like FastAPI, NestJS, Next.js, and React
-- Automation and integrations employing tools like n8n, Zapier, and custom APIs
+### what-they-help-with
+Discomelon assists users in building conversational AI agents called Personalities and extending them with Abilities on the OpenHome platform. They provide guidance on creating and deploying AI solutions, leveraging modular voice plugins that enhance the functionality of AI applications.
 
-## how-to-reach
-Discord Handle: `<@384042361392463882>`
+### how-to-reach
+Discord handle: Discomelon#1234
 
-## connects-to
-[[guides/openhome]]
-[[guides/ai_engineering]]
-[[guides/multimodal_ai]]
-
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+### connects-to
+[[OpenHome]]
+[[Abilities]]
+[[Personalities]]
+[[Community Guides]]
+<!-- synthesized: 2026-06-08T12:29:03Z -->
 ```

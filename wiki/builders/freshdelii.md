@@ -2,24 +2,27 @@
 title: builders/freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ```
 
 ### who-they-are
-Freshdelii is an AI engineer focused on building conversational AI systems, specifically using large language models (LLMs) and automation technologies. Their expertise lies in creating reliable AI applications that integrate various technologies, such as APIs, databases, and multimodal AI capabilities.
+FreshDelii is a developer focused on creating practical AI solutions. They are particularly interested in integrating AI with real-world applications, such as health-related functionalities.
 
 ### what-they-built
-Freshdelii has developed a Clinical Trial Finder, which is a conversational AI application that enables users to search for clinical trials by simply asking questions. This tool utilizes the public ClinicalTrials.gov database, providing real-time information about recruiting studies, eligibility requirements, and other relevant details. It features a watchlist that notifies users about changes in trial statuses.
+FreshDelii has developed the "Clinical Trial Finder," an AI-driven tool that assists users in finding clinical trials relevant to specific medical conditions. Users can interact with the system through voice commands, allowing them to easily obtain information about live recruiting studies, including eligibility requirements and contact information. The tool monitors saved trials and notifies users of any changes in status.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Unspecified
-- GitHub: [freshdelii's GitHub](https://github.com/openhome-dev/abilities/pull/278)
-- X: Unspecified
+- Discord: Not specified
+- GitHub: [Clinical Trial Finder Repository](https://github.com/openhome-dev/abilities/pull/278)
+- X: Not specified
 
 ### connects-to
-[[abilities/clinical-trial-finder]]
+[[abilities]]  
+[[AI agents]]  
+[[Voice AI]]  
+[[Clinical Trials]]  
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+<!-- synthesized: 2026-06-08T12:29:03Z -->

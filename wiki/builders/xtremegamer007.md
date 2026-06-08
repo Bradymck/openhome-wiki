@@ -1,32 +1,27 @@
-```markdown
----
-title: builders/xtremegamer007
-entity_type: builder
+```yaml
+title: XtremeGamer007
+entity_type: builders/
 status: live
-last_updated: 2026-06-07
----
+last_updated: 2026-06-08
+```
 
-## who-they-are
-xtremegamer007 is an AI engineer focused on developing large language models (LLMs), AI agents, and multimodal AI systems. Their work includes connecting LLMs with APIs and databases to build reliable and usable AI solutions.
+### who-they-are
+XtremeGamer007 is an IT engineer focused on developing AI-powered voice applications within the OpenHome platform. They have a strong interest in building real AI systems that are functional and applicable in production environments, particularly in automation and interaction with APIs and databases.
 
-## what-they-built
-xtremegamer007 has built a Clinical Trial Finder ability that allows users to search for clinical trials by simply asking their voice assistant. This ability can pull up live recruiting studies from the ClinicalTrials.gov database and provides detailed information such as eligibility requirements and contact info. Key features include:
-- Watchlist functionality that monitors saved trials and notifies users of status changes.
-- No setup or API keys required, utilizing public data from ClinicalTrials.gov.
+### what-they-built
+XtremeGamer007 has created the "Clinical Trial Finder" ability, which simplifies the process of finding clinical trials by allowing users to query trials by voice. The ability accesses the public ClinicalTrials.gov database and can provide real-time updates on trial statuses including notifications for changes. This tool was developed to assist those seeking information about clinical trials, inspired by personal experiences with healthcare research.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord Handle: Not specified
-- GitHub: [xtremegamer007's GitHub](https://github.com/xtremegamer007)
-- X: Not specified
+### how-to-reach
+Discord handle: Not specified  
+GitHub: [XtremeGamer007 GitHub Profile](https://github.com/openhome-dev/abilities/pull/278)  
+X: Not specified
 
-## connects-to
-[[builders/clinical-trial-finder]]
-[[builders/open-home]]
-[[builders/ai-agents]]
-[[builders/multimodal-ai]]
+### connects-to
+[[builders/clinical_trial_finder]]  
+[[builders/openhome]]  
+[[builders/ai_agents]]  
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
-```
+<!-- synthesized: 2026-06-08T12:29:03Z -->

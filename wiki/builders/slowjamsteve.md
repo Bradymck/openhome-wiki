@@ -3,29 +3,29 @@
 title: builders/slowjamsteve
 entity_type: builder
 status: live
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ---
 
 ### who-they-are
-SlowJamSteve is an AI engineer focused on building large language model (LLM) systems, AI agents, automation, and multimodal AI (text, voice, vision). His work is dedicated to developing real AI systems that run in production, integrating various tools, APIs, and databases for reliable workflows.
+SlowJamSteve is an IT engineer and AI engineer focusing on AI agents, automation, and multimodal AI (text, voice, vision). His work revolves around building reliable AI systems that operate in production environments, integrating LLM orchestration and connecting various tools and APIs.
 
 ### what-they-built
-SlowJamSteve has developed a Clinical Trial Finder ability for the OpenHome platform, which allows users to easily find and track clinical trials based on their needs. This ability utilizes the ClinicalTrials.gov database to retrieve live recruiting studies and includes features like a watchlist that notifies users about changes in trial status.
+SlowJamSteve has shipped an ability called "Clinical Trial Finder." This ability allows users to inquire about clinical trials via conversational AI, simplifying the process of finding relevant studies without the need for manual searching. It provides real-time information from ClinicalTrials.gov and includes features such as saving trials for updates.
 
 ### grant-status
-$5K-$20K
+$1K
 
 ### how-to-reach
-- Discord: @slowjamsteve
-- GitHub: [GitHub Profile](https://github.com/openhome-dev/abilities/pull/278)
-- X: [@slowjamsteve](https://x.com/slowjamsteve)
+- Discord Handle: Not specified
+- GitHub: [slowjamsteve](https://github.com/slowjamsteve)
+- X: Not specified
 
-## connects-to
-[[builders]]
-[[OpenHome]]
-[[Abilities]]
-[[AI systems]]
-[[LLM]]
-[[Clinical Trial Finder]]
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+### connects-to
+[[abilities/ClinicalTrialFinder]]
+[[builders/openhome]]
+[[abilities/AI_agents]]
+[[abilities/multimodal_AI]]
+[[abilities/LLM_orchestration]]
+
+<!-- synthesized: 2026-06-08T12:29:03Z -->
 ```

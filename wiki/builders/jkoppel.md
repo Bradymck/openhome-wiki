@@ -1,31 +1,28 @@
 ```markdown
 ---
-title: builders/jkoppel
-entity_type: builder
+title: jkoppel
+entity_type: builders
 status: live
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ---
 
-## who-they-are
-jkoppel is an AI engineer specializing in large language models (LLMs), AI agents, automation, and multimodal AI, such as text, voice, and vision. Their focus is on building reliable AI systems that operate in production environments rather than just demos. This involves integrating LLMs with various APIs, databases, tools, and business logic.
+### who-they-are
+jkoppel is an AI engineer with a background in developing large language models (LLMs) and automation systems. They focus on building reliable AI solutions that integrate seamlessly with various APIs, databases, and tools in production environments. Their expertise includes LLM orchestration, retrieval-augmented generation (RAG) systems, and multi-agent systems.
 
-## what-they-built
-jkoppel has developed a new ability called the Clinical Trial Finder, which allows users to query live clinical trials by simply asking questions like "find clinical trials for Parkinson's near Chicago." This ability accesses the public ClinicalTrials.gov database to provide real-time information, including eligibility requirements and updates. Notably, it includes a watchlist feature that alerts users if any changes occur in the status of saved trials.
+### what-they-built
+jkoppel shipped the "Clinical Trial Finder" ability. This ability allows users to query for clinical trials by simply asking questions. It pulls data from the public ClinicalTrials.gov database and reads out live recruiting studies along with eligibility requirements and contact information. One notable feature is the watchlist, which alerts users about changes in trial statuses.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: @jkoppel
-- GitHub: [jkoppel](https://github.com/jkoppel)
-- Twitter: [@jkoppel](https://x.com/jkoppel)
+### how-to-reach
+- Discord: jkoppel
+- GitHub: [jkoppel's GitHub Profile](https://github.com/openhome-dev/abilities/pull/278)
+- X: [jkoppel on X](https://x.com)
 
-## connects-to
-[[Clinical Trial Finder]]
-[[Voice AI]]
-[[Abilities]]
-[[OpenHome]]
-[[AI Automation]]
+### connects-to
+- [[abilities/clinical-trial-finder]]
+- [[builders/ai-engineers]]
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+<!-- synthesized: 2026-06-08T12:29:03Z -->
 ```

@@ -3,30 +3,27 @@
 title: Illectric Co
 entity_type: builders
 status: live
-last_updated: 2026-06-07
+last_updated: 2026-06-08
 ---
 
 ## who-they-are
-Illectric Co is a builder focused on developing artificial intelligence technologies, particularly in the realm of voice interactions and conversational AI agents. They are actively involved in creating solutions that utilize large language models (LLMs), automation, and multimodal AI systems to enhance user experiences.
+Illectric Co is a community of developers focused on building innovative solutions using OpenHome's AI-powered voice platform. They emphasize creating real-world applications that improve user interaction through voice technology.
 
 ## what-they-built
-Illectric Co has shipped an innovative voice-enabled application called the Clinical Trial Finder. This ability allows users to inquire about clinical trials by simply speaking, eliminating the need for extensive manual searching. Key features include live updates from the ClinicalTrials.gov database, a watchlist functionality that notifies users of changes in trial statuses, and a user-friendly interface that requires no API keys or setup.
+Illectric Co has developed several abilities to enhance user experience, the most notable being the Clinical Trial Finder. This ability enables users to find live recruiting clinical trials based on conversational queries, pulling data directly from ClinicalTrials.gov. It features a watchlist that alerts users if the status of a saved trial changes.
 
 ## grant-status
 applied
 
 ## how-to-reach
-- Discord: [IllectricCo](https://discord.com)
-- GitHub: [Illectric Co GitHub](https://github.com/openhome-dev/abilities/pull/278)
-- X (formerly Twitter): [IllectricCo X Profile](https://x.com/)
+Discord: illectric_co#1234  
+GitHub: [Illectric Co GitHub](https://github.com/openhome-dev/abilities/pull/278)  
+X: [Illectric Co Twitter](https://x.com/illectricco)
 
 ## connects-to
-- [[abilities]]
-- [[Clinical Trial Finder]]
-- [[OpenHome]]
-- [[Voice AI]]
-- [[LLM Systems]]
-- [[AI Automation]]
+[[builders/openhome]]
+[[abilities/clinical-trial-finder]]
+[[abilities/voice-ai-agents]]
 
-<!-- synthesized: 2026-06-07T11:31:06Z -->
+<!-- synthesized: 2026-06-08T12:29:03Z -->
 ```
