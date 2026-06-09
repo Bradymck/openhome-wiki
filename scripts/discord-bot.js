@@ -419,16 +419,6 @@ BOUNDARIES:
 - If you don't know something specific, say so clearly — do not speculate.`,
   ];
 
-  if (liveMarketplace) {
-    sections.push(
-      `LIVE API DATA — THIS IS ONE DEVELOPER'S ACCOUNT, NOT THE FULL PLATFORM:\n` +
-      `This shows personalities and abilities installed on one specific OpenHome account (a community builder/tester).\n` +
-      `Do NOT present this as the full OpenHome marketplace or platform state.\n` +
-      `Use it only to answer questions about what's installed on this specific account.\n` +
-      `---\n${liveMarketplace}`
-    );
-  }
-
   if (urlContext) {
     sections.push(
       `LINKED CONTENT — FETCHED FROM URLS IN THIS MESSAGE:\n` +
