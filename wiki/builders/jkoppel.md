@@ -1,28 +1,27 @@
-```markdown
----
+```yaml
 title: jkoppel
 entity_type: builders
-status: live
-last_updated: 2026-06-08
----
+status: stub
+last_updated: 2026-06-09
+```
 
-### who-they-are
-jkoppel is an AI engineer with a background in developing large language models (LLMs) and automation systems. They focus on building reliable AI solutions that integrate seamlessly with various APIs, databases, and tools in production environments. Their expertise includes LLM orchestration, retrieval-augmented generation (RAG) systems, and multi-agent systems.
+## who-they-are
+jkoppel is an active community builder and a Homie, engaging with the development kit holders and contributing to various projects within the community.
 
-### what-they-built
-jkoppel shipped the "Clinical Trial Finder" ability. This ability allows users to query for clinical trials by simply asking questions. It pulls data from the public ClinicalTrials.gov database and reads out live recruiting studies along with eligibility requirements and contact information. One notable feature is the watchlist, which alerts users about changes in trial statuses.
+## what-they-built
+Information about specific abilities or integrations that jkoppel has shipped is currently not available.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: jkoppel
-- GitHub: [jkoppel's GitHub Profile](https://github.com/openhome-dev/abilities/pull/278)
-- X: [jkoppel on X](https://x.com)
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X/Twitter: Not specified
 
-### connects-to
-- [[abilities/clinical-trial-finder]]
-- [[builders/ai-engineers]]
+## connects-to
+[[builders]]
+[[community]]
+[[Homies]]
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
-```
+<!-- synthesized: 2026-06-09T11:59:50Z -->

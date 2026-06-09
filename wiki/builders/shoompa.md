@@ -2,31 +2,24 @@
 ---
 title: builders/shoompa
 entity_type: builders
-status: live
-last_updated: 2026-06-08
+status: stub
+last_updated: 2026-06-09
 ---
 
-## who-they-are
-Shoompa is an IT engineer focused on building AI systems. Their work encompasses LLM (Large Language Model) orchestration, automation, and multimodal AI (text, voice, vision). Shoompa aims to create real AI systems that function in production environments, connecting LLMs with various APIs, databases, and business logic to ensure reliability and usability.
+### who-they-are
+Shoompa is an active community builder known for their contributions to the development of applications and integrations within the software ecosystem. Details regarding their specific background and the current projects they are focusing on are not available.
 
-## what-they-built
-Shoompa has developed the Clinical Trial Finder, an ability that allows users to find clinical trials through conversational queries. This ability pulls live recruiting studies from the public ClinicalTrials.gov database, allowing users to receive immediate and in-depth information about studies by simply asking. Key features include:
-- Voice-activated search for clinical trials based on user queries.
-- A watchlist feature that monitors the status of saved trials and notifies users of changes.
-- No need for API keys or complex setup, leveraging public data for ease of access.
+### what-they-built
+Information on the specific abilities or integrations that Shoompa has shipped is currently not documented.
 
-## grant-status
-none
+### grant-status
+The grant status for Shoompa is unknown.
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: [Shoompa's GitHub](https://github.com/openhome-dev/abilities/pull/278)
-- X: Not specified
+### how-to-reach
+Shoompa's contact details such as Discord handle, GitHub account, or social media links are not available.
 
 ## connects-to
-- [[abilities]]
-- [[OpenHome]]
-- [[Clinical Trials]]
+No related abilities or integrations to link to at this time.
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->
 ```

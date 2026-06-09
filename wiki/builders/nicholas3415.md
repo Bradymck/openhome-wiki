@@ -1,27 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/nicholas3415
-entity_type: community builder
-status: live
-last_updated: 2026-06-08
-```
+entity_type: builder
+status: stub
+last_updated: 2026-06-09
+---
 
 ## who-they-are
-Nicholas3415 is an AI engineer focused on building conversational AI agents and expanding their capabilities through various integrations. With a background in IT engineering, they specialize in large language model (LLM) systems, automation, and multimodal AI—including interactions across text, voice, and vision. Their work emphasizes creating reliable AI systems that operate in production environments.
+Nicholas3415 is an active member of the community known for their contributions to various projects and initiatives within the builder ecosystem. As a developer and devkit holder, they are passionate about creating innovative solutions and enhancing user engagement.
 
 ## what-they-built
-Nicholas3415 has developed the "Clinical Trial Finder," an AI-driven ability for the OpenHome platform. This ability allows users to request information about clinical trials by conversing with their AI agents. It provides live updates, eligibility requirements, and notifications about trial status changes, all powered by the public ClinicalTrials.gov database.
+Information about specific abilities or integrations that Nicholas3415 has shipped is currently unavailable.
 
 ## grant-status
-$1K
+Applied
 
 ## how-to-reach
-- Discord: nicholas3415
-- GitHub: [nicholas3415's GitHub](https://github.com/openhome-dev/abilities/pull/278)
-- X (formerly Twitter): [Nicholas3415 on X](https://x.com/)
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/clinical-trial-finder]]
-[[abilities/clinical-trials]]
-[[builders/openhome]]
+[[builders]]
+[[devkit holders]]
+[[community contributions]]
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->
+```

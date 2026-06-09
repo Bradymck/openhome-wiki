@@ -1,28 +1,30 @@
-```yaml
+```markdown
+---
 title: builders/bradymck
 entity_type: builder
-status: live
-last_updated: 2026-06-08
-```
+status: stub
+last_updated: 2026-06-09
+---
 
-## who-they-are
-Brady McK is an IT engineer and AI engineer focused on large language model (LLM) systems, automation, and multimodal AI. They specialize in building AI systems that are robust enough to run in production environments, connecting LLMs with various APIs, databases, and business logic. Their work often revolves around making these systems reliable for real-world applications.
+### who-they-are
+Brady McK is an active community builder in the development ecosystem, focusing on fostering connections and enhancing the user experience within the platform.
 
-## what-they-built
-Brady McK has developed the "Clinical Trial Finder," an ability that assists users in locating clinical trials based on specific criteria. This ability allows users to inquire directly about clinical trials—for instance, "find clinical trials for Parkinson's near Chicago"—providing information on live recruiting studies and eligibility requirements. Features include a watchlist that notifies users of any status changes in saved trials without the need for API keys or complex setups, relying on the public ClinicalTrials.gov database.
+### what-they-built
+Details on specific abilities or integrations that Brady has shipped are currently unavailable.
 
-## grant-status
-applied
+### grant-status
+none
 
-## how-to-reach
-- Discord: @bradymck
-- GitHub: [bradymck](https://github.com/bradymck)
-- X: @bradymck
+### how-to-reach
+- Discord handle: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
 [[builders]]
-[[abilities]]
-[[openhome]]
-[[ClinicalTrialFinder]]
+[[community]]
+[[developers]]
+[[integrations]]
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->
+```

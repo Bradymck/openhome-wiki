@@ -1,29 +1,26 @@
-```markdown
----
-title: Illectric Co
+```yaml
+title: illectric-co
 entity_type: builders
-status: live
-last_updated: 2026-06-08
----
+status: stub
+last_updated: 2026-06-09
+```
 
 ## who-they-are
-Illectric Co is a community of developers focused on building innovative solutions using OpenHome's AI-powered voice platform. They emphasize creating real-world applications that improve user interaction through voice technology.
+Illectric Co is an active community builder focused on creating innovative solutions and integrations within the tech space. They are dedicated to improving user experiences and expanding the capabilities available to developers.
 
 ## what-they-built
-Illectric Co has developed several abilities to enhance user experience, the most notable being the Clinical Trial Finder. This ability enables users to find live recruiting clinical trials based on conversational queries, pulling data directly from ClinicalTrials.gov. It features a watchlist that alerts users if the status of a saved trial changes.
+Details on specific shipped abilities or integrations from illectric-co are currently unavailable.
 
 ## grant-status
-applied
+none
 
 ## how-to-reach
-Discord: illectric_co#1234  
-GitHub: [Illectric Co GitHub](https://github.com/openhome-dev/abilities/pull/278)  
-X: [Illectric Co Twitter](https://x.com/illectricco)
+- Discord handle: Not provided
+- GitHub: Not provided
+- X/Twitter: Not provided
 
 ## connects-to
-[[builders/openhome]]
-[[abilities/clinical-trial-finder]]
-[[abilities/voice-ai-agents]]
+[[wikilink-to-abilities]] <!-- Assuming there are related abilities to link -->
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->
 ```

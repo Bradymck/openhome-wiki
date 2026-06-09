@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: spatial-intelligence
+title: concepts/spatial-intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-06-08
+last_updated: 2026-06-09
 ---
 
 ## definition
-Spatial intelligence is the ability to visualize and manipulate spatial configurations and understand the relationships between objects in physical space. It encompasses skills such as spatial reasoning, navigation, and the ability to understand how objects relate to one another in a three-dimensional environment.
+Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It involves understanding how different elements relate to one another in a physical environment, enabling effective navigation, arrangement, and interaction within that space.
 
 ## why-it-matters
-Spatial intelligence is essential for creating immersive experiences within the OpenHome platform, particularly in enhancing the interaction between users and their environments. By leveraging spatial intelligence, OpenHome can deliver more intuitive and engaging voice AI applications, allowing users to interact with their smart devices in natural and meaningful ways.
+In the context of OpenHome, spatial intelligence plays a crucial role in enhancing user experiences by providing intuitive layouts and interactions within virtual or augmented environments. It allows users to engage more naturally with digital spaces, making the technology feel more immersive and user-friendly.
 
 ## how-it-manifests
-In OpenHome, spatial intelligence manifests through features that enable users to control smart devices based on their physical location and interaction within a space. For example, voice commands may be context-aware, responding differently based on where the user is situated or what objects are present in the room.
+Spatial intelligence can manifest on the OpenHome platform through features such as interactive floor plans, augmented reality applications that allow users to visualize furniture arrangements, and spatial mapping in smart home devices that adapt based on the user’s location and movements within a space.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/grant-program]]
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->
 ```

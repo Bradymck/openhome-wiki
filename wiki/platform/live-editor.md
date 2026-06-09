@@ -1,15 +1,15 @@
 ```yaml
 title: platform/live-editor
-entity_type: page
+entity_type: platform
 status: stub
-last_updated: 2026-06-08
+last_updated: 2026-06-09
 ```
 
 ## what-it-is
-The Live Editor is a feature of the OpenHome platform that allows developers to create and modify conversational AI agents in real-time.
+The Live Editor is a component of the OpenHome platform designed for real-time editing and management of home automation features and settings.
 
 ## how-it-works
-While specific details about the functionality of the Live Editor have not been provided, it is understood to facilitate the development and testing of AI agents, enabling users to experiment with conversational flows and capabilities dynamically.
+The Live Editor provides users with a streamlined interface to make changes to their home automation systems on-the-fly. It is intended to simplify the editing process, allowing users to configure settings, add features, and adjust capabilities without the need for extensive technical knowledge. The editor integrates seamlessly with other components of the OpenHome ecosystem, enhancing the overall user experience.
 
 ## current-status
 stub
@@ -23,4 +23,4 @@ stub
 [[platform/local-link]]
 [[platform/marketplace]]
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->

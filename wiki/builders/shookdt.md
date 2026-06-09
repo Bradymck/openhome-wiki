@@ -1,28 +1,27 @@
 ```markdown
 ---
-title: builders/shookdt
-entity_type: builder
-status: live
-last_updated: 2026-06-08
+title: "builders/shookdt"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-06-09
 ---
 
-## who-they-are
-Shookdt is an AI engineer specializing in LLM systems, AI agents, automation, and multimodal AI that includes text, voice, and vision. Their work primarily involves building functional AI systems that operate in real production environments, rather than solely demonstrating capabilities.
+### who-they-are
+Shookdt is an active member of the builders community, focusing on contributing to various projects and integrations within the ecosystem.
 
-## what-they-built
-Shookdt developed the Clinical Trial Finder ability for OpenHome, which allows users to easily search for clinical trials by voice. The functionality includes live updates from ClinicalTrials.gov, enabling users to find relevant trials, eligibility requirements, and contact information without requiring API keys or setup. A notable feature is the watchlist, which tracks specific trials and provides status updates if there are changes.
+### what-they-built
+Details about specific abilities or integrations that Shookdt has shipped are currently unavailable.
 
-## grant-status
-$1K
+### grant-status
+none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: [shookdt's GitHub](https://github.com/openhome-dev/abilities/pull/278)
-- X: Not specified
+### how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
+- X (Twitter): Not provided
 
-## connects-to
-[[builders]]
-[[abilities/clinical-trial-finder]]
-[[platforms/openhome]]
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+### connects-to
+No specific connections to other abilities or projects are currently documented.
+
+<!-- synthesized: 2026-06-09T11:59:50Z -->
 ```

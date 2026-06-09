@@ -1,28 +1,23 @@
 ```yaml
 title: builders/pmckelvy
-entity_type: builder
-status: live
-last_updated: 2026-06-08
+entity_type: builders
+status: stub
+last_updated: 2026-06-09
 ```
 
 ## who-they-are
-pmckelvy is an AI engineer focused on building LLM systems, AI agents, automation, and multimodal AI that integrates text, voice, and vision. Their work aims at developing real AI systems utilized in production environments, emphasizing the connection of LLMs with APIs and business logic to create reliable workflows.
+pmckelvy is a member of the community focused on building innovative solutions within their area of expertise. Further details regarding their background and specific contributions are currently unavailable.
 
 ## what-they-built
-pmckelvy shipped the "Clinical Trial Finder" ability, which allows users to easily search for clinical trials by simply speaking commands, pulling live data from the public ClinicalTrials.gov database. It features a watchlist that notifies users when the status of saved trials changes, enhancing the user experience by eliminating the need for manual checks.
+Details on specific abilities or integrations that pmckelvy has shipped are not documented at this time.
 
 ## grant-status
-none
+The grant status for pmckelvy is not reported.
 
 ## how-to-reach
-- Discord handle: Not specified
-- GitHub: [pmckelvy's GitHub](https://github.com/openhome-dev/abilities/pull/278)
-- X: Not specified
+Information on how to reach pmckelvy via Discord, GitHub, or X is currently not available.
 
 ## connects-to
-[[ability/clinical-trial-finder]]
-[[ability/open-home]]
-[[ability/ai-agent]]
-[[ability/voice-assistant]]
+There are no available links to abilities or other related pages at this time.
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->

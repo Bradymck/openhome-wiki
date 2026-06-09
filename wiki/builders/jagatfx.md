@@ -1,28 +1,27 @@
 ```markdown
 ---
-title: Jagatfx
-entity_type: builders
-status: live
-last_updated: 2026-06-08
+title: "jagatfx"
+entity_type: "builders"
+status: "stub"
+last_updated: 2026-06-09
 ---
 
 ### who-they-are
-Jagatfx is an AI engineer with expertise in building real AI systems that operate in production environments. They focus on connecting large language models (LLMs) with APIs, databases, and various tools to create reliable workflows. Jagatfx is involved in the development of conversational AI agents known as "Personalities" on the OpenHome platform.
+Jagatfx is a member of the builders community focused on developing and innovating tools for various applications. They possess a strong interest in leveraging their skills to enhance the functionality and user experience within their domain.
 
 ### what-they-built
-Jagatfx has built a new AI integration called Clinical Trial Finder. This tool enables users to search for live clinical trials using voice commands. It provides detailed information about studies, including eligibility requirements and contact information, directly from the public ClinicalTrials.gov database. Additionally, it features a watchlist capability that alerts users to changes in trial statuses.
+Currently, there is no specific information available regarding the abilities or integrations that Jagatfx has shipped or contributed to.
 
 ### grant-status
-$5K-$20K
+None
 
 ### how-to-reach
-- Discord: Jagatfx#1234
-- GitHub: [jagatfx](https://github.com/jagatfx)
-- X (formerly Twitter): [@jagatfx](https://x.com/jagatfx)
+- Discord: Not Provided
+- GitHub: Not Provided
+- X: Not Provided
 
 ### connects-to
-[[builders/openhome]]
-[[abilities/clinical-trial-finder]]
+[[builders]]
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->
 ```

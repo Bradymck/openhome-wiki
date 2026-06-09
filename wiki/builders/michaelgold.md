@@ -2,29 +2,24 @@
 ---
 title: builders/michaelgold
 entity_type: builder
-status: live
-last_updated: 2026-06-08
+status: stub
+last_updated: 2026-06-09
 ---
 
-## who-they-are
-Michael Gold is an AI engineer focused on large language model (LLM) systems, AI agents, automation, and multimodal AI (text, voice, vision). His work emphasizes building robust AI systems for production environments rather than mere demos. He actively contributes to the OpenHome community by developing conversational AI agents and exploring various integrations.
+### who-they-are
+Michael Gold is an active community builder and a devkit holder, contributing to the development of innovative solutions in the tech space.
 
-## what-they-built
-Michael has shipped the Clinical Trial Finder Ability, which allows users to query clinical trials using natural language. It utilizes the public ClinicalTrials.gov database, providing live recruitment updates and eligibility information based on user queries. The Ability features a watchlist functionality, automatically notifying users about changes in trial statuses without requiring an API key or complex setup. The project is represented in a pull request on GitHub: [Clinical Trial Finder PR](https://github.com/openhome-dev/abilities/pull/278).
+### what-they-built
+Details regarding specific abilities or integrations that Michael Gold has shipped are currently unavailable.
 
-## grant-status
-none
+### grant-status
+Status of any grant applications or amounts is not provided.
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+Currently, there is no specific contact information available for Michael Gold including Discord handle, GitHub, or X (Twitter).
 
-## connects-to
-[[builders]]
-[[abilities/clinical-trial-finder]]
-[[builders/michaelgold/abilities]]
-[[openhome]]
-[[ai-engineering]]
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+### connects-to
+No connections to specific abilities or related pages are documented at this time.
+
+<!-- synthesized: 2026-06-09T11:59:50Z -->
 ```

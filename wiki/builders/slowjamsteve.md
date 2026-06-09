@@ -1,31 +1,25 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builder
-status: live
-last_updated: 2026-06-08
+entity_type: builders
+status: stub
+last_updated: 2026-06-09
 ---
 
 ### who-they-are
-SlowJamSteve is an IT engineer and AI engineer focusing on AI agents, automation, and multimodal AI (text, voice, vision). His work revolves around building reliable AI systems that operate in production environments, integrating LLM orchestration and connecting various tools and APIs.
+Slowjamsteve is an active community builder known for their contributions to the development space. Detailed information about their background and specific projects they are undertaking is currently unlisted.
 
 ### what-they-built
-SlowJamSteve has shipped an ability called "Clinical Trial Finder." This ability allows users to inquire about clinical trials via conversational AI, simplifying the process of finding relevant studies without the need for manual searching. It provides real-time information from ClinicalTrials.gov and includes features such as saving trials for updates.
+As of this time, there are no specific details available regarding the abilities or integrations that Slowjamsteve has shipped.
 
 ### grant-status
-$1K
+The grant status for Slowjamsteve is not specified.
 
 ### how-to-reach
-- Discord Handle: Not specified
-- GitHub: [slowjamsteve](https://github.com/slowjamsteve)
-- X: Not specified
+Currently, there are no contact details available for Slowjamsteve, such as Discord handle, GitHub, or X (Twitter) account information.
 
-### connects-to
-[[abilities/ClinicalTrialFinder]]
-[[builders/openhome]]
-[[abilities/AI_agents]]
-[[abilities/multimodal_AI]]
-[[abilities/LLM_orchestration]]
+## connects-to
+[[wikilinks]]
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->
 ```

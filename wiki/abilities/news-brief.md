@@ -1,30 +1,29 @@
 ```markdown
 ---
-title: Abilities/News-Brief
-entity_type: abilities
+title: Abilities News Brief
+entity_type: abilities/
 status: live
-last_updated: 2026-06-08
+last_updated: 2026-06-09
 ---
 
-## what-it-does
-The News Brief ability allows users to easily retrieve and listen to live updates from various news sources by using voice commands. This plugin is designed to provide a seamless and intuitive way to stay informed without the need for extensive setup or configuration.
+### what-it-does
+The News Brief ability provides users with concise updates about current events, including sports scores and other relevant information from social media platforms.
 
-## how-to-build
-Developers can create the News Brief ability by integrating it with news APIs to fetch the latest articles, summaries, and headlines. The ability runs custom Python logic to respond to voice triggers, pull content from designated news sources, and read it aloud to users. Documentation for building custom abilities is available on the OpenHome Developer Docs platform.
+### how-to-build
+This ability leverages APIs from social media to fetch and summarize recent posts and updates, focusing on brevity and clarity. Builders should interface with the relevant API endpoints for retrieving posts and be able to implement parsing logic to extract essential information.
 
-## category
-utility
+### category
+productivity
 
-## built-by
-[[User:AI Engineer]]
+### built-by
+[[abilities/community-builder]]  <!-- This is a placeholder; replace with actual builder link -->
 
-## status
+### status
 live
 
 ## connects-to
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
-
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->
 ```

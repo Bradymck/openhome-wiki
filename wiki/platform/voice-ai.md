@@ -1,18 +1,18 @@
 ```yaml
-title: Voice AI
+title: "Voice AI"
 entity_type: platform
-status: live
-last_updated: 2026-06-08
+status: stub
+last_updated: 2026-06-09
 ```
 
 ## what-it-is
-Voice AI refers to the OpenHome platform's capability to create and manage conversational AI agents, known as Personalities, which can understand and respond to user queries through voice interactions.
+Voice AI refers to the integration of artificial intelligence technologies that enable devices to understand and process human voice commands. It enhances user interaction by allowing for hands-free operation and a more intuitive way of controlling devices within the OpenHome ecosystem.
 
 ## how-it-works
-Voice AI operates by allowing users to create Personalities that encapsulate distinct voices, personas, and conversation styles. Users can extend these agents with Abilities, which are modular plugins that deliver new skills such as accessing APIs, playing music, facilitating quizzes, and controlling smart home devices. Abilities are activated by designated hotwords during voice conversations and can execute custom Python logic to provide dynamic interactions.
+Voice AI works by utilizing natural language processing (NLP) algorithms to interpret and respond to spoken commands. Users issue voice commands to compatible devices, which are then processed in real-time, allowing the system to perform actions or provide responses accordingly. The architecture may include cloud-based processing along with local capabilities for enhanced performance and responsiveness.
 
 ## current-status
-live
+stub
 
 ## connects-to
 [[platform/openhome]]
@@ -23,4 +23,4 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->

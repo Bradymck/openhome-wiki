@@ -1,30 +1,25 @@
-```yaml
+```markdown
+---
 title: builders/pauldy
 entity_type: builders
-status: live
-last_updated: 2026-06-08
-```
+status: stub
+last_updated: 2026-06-09
+---
 
 ## who-they-are
-Pauldy is an AI engineer focused on large language model (LLM) systems, automation, and multimodal AI, which includes text, voice, and vision components. He is dedicated to building practical AI systems that operate effectively in production environments.
+Pauldy is an active community builder involved in the Homie + User roles and is a holder of development kits, focusing on building and shipping innovative abilities within the community.
 
 ## what-they-built
-Pauldy has developed a voice interaction ability called **Clinical Trial Finder**. This ability allows users to find clinical trials by simply asking their AI agent, eliminating the need for manual searches through the ClinicalTrials.gov database. It includes features such as:
-- Voice queries to find trials specific to conditions and locations (e.g., "find clinical trials for Parkinson's near Chicago").
-- A watchlist feature that alerts users when the status of saved trials changes.
+Details on specific abilities or integrations that Pauldy has shipped are currently unavailable.
 
 ## grant-status
-none
+Status on any grants applied for or awarded is not specified.
 
 ## how-to-reach
-- Discord handle: Not specified
-- GitHub: [Pauldy's GitHub](https://github.com/openhome-dev/abilities/pull/278)
-- X: Not specified
+No specific contact details such as Discord handle, GitHub, or social media accounts are available at this time.
 
 ## connects-to
-[[builders]]
-[[abilities/clinical-trial-finder]]
-[[ai-engineering]]
-[[voice-ai-platforms]]
+No links to related abilities can be provided at this moment.
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->
+```

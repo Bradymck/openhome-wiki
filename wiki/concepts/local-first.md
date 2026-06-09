@@ -1,23 +1,25 @@
 ```yaml
-title: local-first
+title: concepts/local-first
 entity_type: concepts
-status: live
-last_updated: 2026-06-08
+status: stub
+last_updated: 2026-06-09
 ```
 
 ## definition
-Local-first is an approach that emphasizes the importance of operating primarily on local resources, minimizing dependency on cloud services and external networks. This concept ensures that functionalities are available even when offline, enhancing usability and responsiveness.
+Local-first is an architectural approach prioritizing the local storage and processing of data on user devices rather than relying predominantly on cloud infrastructure. This paradigm ensures that applications remain functional and accessible even when offline or in areas with poor internet connectivity.
 
 ## why-it-matters
-In the context of OpenHome, local-first is crucial as it enables the seamless interaction of voice agents with users and devices. This approach allows users to leverage the platform's capabilities without the need for constant internet connectivity, thereby improving accessibility and reliability, especially in environments with unstable connections.
+Local-first is relevant to OpenHome as it fosters user autonomy and privacy by minimizing reliance on external servers. It enhances the experience by allowing seamless access to applications and data regardless of connectivity, thus supporting a more resilient and inclusive digital environment.
 
 ## how-it-manifests
-This concept is manifested in the OpenHome platform through its development kits, which feature cutting-edge smart speakers capable of processing tasks locally. The ability to run applications and respond to commands directly on the device enhances the overall user experience, ensuring that features like music playback, smart home control, and AI interactions remain functional regardless of internet availability.
+In the OpenHome platform, local-first principles manifest through applications that store data locally on the user's device. This allows users to access features and functionalities without needing an internet connection, ensuring consistent performance and user experience.
 
 ## connects-to
-[[concepts/voice-first]]
 [[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
 [[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->

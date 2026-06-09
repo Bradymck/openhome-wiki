@@ -1,25 +1,25 @@
 ```yaml
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: live
-last_updated: 2026-06-08
+status: stub
+last_updated: 2026-06-09
 ```
 
 ## definition
-Abilities-as-apps refer to the modular voice plugins within the OpenHome platform that extend the functionalities of AI agents, known as Personalities. Each Ability adds specific skills, such as calling APIs, playing music, or controlling smart devices.
+The "abilities-as-apps" concept refers to the idea of treating various functionalities or capabilities of a platform as discrete applications that can be added, removed, or interacted with independently. This approach empowers users to tailor their experiences according to their specific needs and preferences.
 
 ## why-it-matters
-This concept is crucial to the OpenHome ecosystem as it allows developers to create versatile and customizable voice-driven experiences. By breaking down functionalities into discrete, manageable components (Abilities), developers can easily enhance their AI agents and adapt to user needs, promoting creativity and innovation.
+The relevance of abilities-as-apps to OpenHome lies in its potential to enhance user customization and flexibility. By allowing users to select which abilities they wish to utilize, OpenHome can provide a more personalized and efficient experience, aligning closely with individual user scenarios and workflows.
 
 ## how-it-manifests
-Abilities are integrated into the OpenHome platform through a straightforward system where developers can create and implement new skills as plugins. During voice interactions, users can trigger these Abilities using specific hotwords, enabling dynamic and interactive experiences. The flexibility of Abilities allows them to be collectively curated and shared within the OpenHome community.
+In the OpenHome platform, abilities-as-apps can be seen in features that permit users to engage with different functionalities separately. This modular approach helps streamline user interactions and ensures that every ability is directly relevant to the user's context, improving overall usability.
 
 ## connects-to
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->

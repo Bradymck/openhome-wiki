@@ -1,29 +1,23 @@
 ```markdown
 ---
-title: "guides/adamdew"
-entity_type: "Community Guide"
-status: "live"
-last_updated: "2026-06-08"
+title: guides/adamdew
+entity_type: Community Guide
+status: stub
+last_updated: 2026-06-09
 ---
 
-## who-they-are
-Adam Dew is an AI engineer specializing in building real AI systems that run in production. With a focus on LLM systems, AI agents, automation, and multimodal AI (text, voice, vision), he has extensive experience connecting LLMs with various APIs, databases, and tools.
+### who-they-are
+Adam Dew is a community guide known for their expertise in helping users navigate various platforms and technologies within the community.
 
-## what-they-help-with
-Adam helps with:
-- LLM orchestration using tools like DSPy, LangChain, AutoGen, and CrewAI.
-- Building retrieval-augmented generation (RAG) systems that utilize vector databases and custom retrieval pipelines.
-- Developing multi-agent systems that incorporate planning and tool usage.
+### what-they-help-with
+Adam specializes in onboarding new members, providing guidance on tools, software, and community standards. Their focus is on enhancing user experience and facilitating interaction among community members.
 
-## how-to-reach
+### how-to-reach
 Discord handle: @adamdew
 
 ## connects-to
 [[guides]]
-[[Voice AI]]
-[[AI Engineering]]
-[[OpenHome]]
-[[Community Development]]
-
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+[[community]]
+[[onboarding]]
+<!-- synthesized: 2026-06-09T11:59:50Z -->
 ```

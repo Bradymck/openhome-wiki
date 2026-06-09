@@ -1,29 +1,25 @@
 ```markdown
 ---
-title: "Sagarjethi"
-entity_type: "guides/"
-status: "live"
-last_updated: 2026-06-08
+title: guides/sagarjethi
+entity_type: Community Guide
+status: stub
+last_updated: 2026-06-09
 ---
 
-### who-they-are
-Sagarjethi is an AI engineer with a focus on LLM (Large Language Model) systems, AI agents, automation, and multimodal AI (text, voice, vision). Their expertise lies in building real-world AI systems that operate in production environments, emphasizing reliability and usability.
+## who-they-are
+Sagarjethi is identified as a power user within the community, recognized for their contributions in onboarding others.
 
-### what-they-help-with
-Sagarjethi specializes in various areas including:
-- LLM orchestration with tools such as DSPy, LangChain, AutoGen, and CrewAI.
-- RAG (Retrieve and Generate) systems utilizing vector databases and custom retrieval pipelines.
-- Development of multi-agent systems that incorporate planning and tool usage.
+## what-they-help-with
+Details regarding specific areas of expertise or assistance provided by Sagarjethi are currently not available.
 
-### how-to-reach
-Discord handle: Not specified
+## how-to-reach
+Sagarjethi can be reached on Discord, though precise contact information has not been provided.
 
-### connects-to
-- [[guides]]
-- [[AI]] 
-- [[Voice AI]]
-- [[OpenHome]]
-- [[Automation]]
+## connects-to
+[[guides]]
+[[community]]
+[[onboarding]]
+[[support]]
 
-<!-- synthesized: 2026-06-08T12:29:03Z -->
+<!-- synthesized: 2026-06-09T11:59:50Z -->
 ```
