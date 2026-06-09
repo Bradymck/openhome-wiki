@@ -506,7 +506,12 @@ async function generateDailyBrief(wikiContext, communityHealth) {
 // don't bleed into each other.
 
 const db = process.env.DATABASE_URL
-  ? new Pool({ connectionString: process.env.DATABASE_URL, ssl: { rejectUnauthorized: false } })
+  ? new Pool({
+      connectionString: process.env.DATABASE_URL,
+      ssl: { rejectUnauthorized: false },
+      idleTimeoutMillis: 30000,
+      connectionTimeoutMillis: 5000,
+    })
   : null;
 
 async function initDb() {
@@ -556,42 +561,51 @@ async function addToHistory(channelId, userId, username, role, content) {
   const key = historyKey(channelId, userId);
 
   if (db) {
-    await db.query(
-      "INSERT INTO conversations (channel_id, user_id, username, role, content) VALUES ($1,$2,$3,$4,$5)",
-      [channelId, userId, username, role, content]
-    );
-    // Prune to last MAX_HISTORY rows for this user
-    await db.query(`
-      DELETE FROM conversations WHERE id IN (
-        SELECT id FROM conversations
-        WHERE channel_id=$1 AND user_id=$2
-        ORDER BY ts DESC OFFSET $3
-      )`, [channelId, userId, MAX_HISTORY]);
-    console.log(`[history] db: @${username} in #${channelId}`);
-  } else {
-    if (!channelHistory.has(key)) channelHistory.set(key, []);
-    const h = channelHistory.get(key);
-    // Store with username prefix so model knows who said what
-    h.push({ role, content: role === "user" ? `@${username}: ${content}` : content });
-    if (h.length > MAX_HISTORY) h.splice(0, h.length - MAX_HISTORY);
-    console.log(`[history] mem: @${username} → ${h.length} msgs`);
+    try {
+      await db.query(
+        "INSERT INTO conversations (channel_id, user_id, username, role, content) VALUES ($1,$2,$3,$4,$5)",
+        [channelId, userId, username, role, content]
+      );
+      // Prune to last MAX_HISTORY rows for this user
+      await db.query(`
+        DELETE FROM conversations WHERE id IN (
+          SELECT id FROM conversations
+          WHERE channel_id=$1 AND user_id=$2
+          ORDER BY ts DESC OFFSET $3
+        )`, [channelId, userId, MAX_HISTORY]);
+      console.log(`[history] db: @${username} in #${channelId}`);
+      return;
+    } catch (err) {
+      console.log(`[history] db write failed (falling back to mem): ${err.message}`);
+    }
   }
+
+  if (!channelHistory.has(key)) channelHistory.set(key, []);
+  const h = channelHistory.get(key);
+  // Store with username prefix so model knows who said what
+  h.push({ role, content: role === "user" ? `@${username}: ${content}` : content });
+  if (h.length > MAX_HISTORY) h.splice(0, h.length - MAX_HISTORY);
+  console.log(`[history] mem: @${username} → ${h.length} msgs`);
 }
 
 async function getHistory(channelId, userId, username) {
   if (db) {
-    const res = await db.query(
-      `SELECT role, content, username FROM conversations
-       WHERE channel_id=$1 AND user_id=$2
-       ORDER BY ts ASC LIMIT $3`,
-      [channelId, userId, MAX_HISTORY]
-    );
-    const rows = res.rows.map((r) => ({
-      role: r.role,
-      content: r.role === "user" ? `@${r.username}: ${r.content}` : r.content,
-    }));
-    if (rows.length) console.log(`[history] db: loaded ${rows.length} msgs for @${username}`);
-    return rows;
+    try {
+      const res = await db.query(
+        `SELECT role, content, username FROM conversations
+         WHERE channel_id=$1 AND user_id=$2
+         ORDER BY ts ASC LIMIT $3`,
+        [channelId, userId, MAX_HISTORY]
+      );
+      const rows = res.rows.map((r) => ({
+        role: r.role,
+        content: r.role === "user" ? `@${r.username}: ${r.content}` : r.content,
+      }));
+      if (rows.length) console.log(`[history] db: loaded ${rows.length} msgs for @${username}`);
+      return rows;
+    } catch (err) {
+      console.log(`[history] db read failed (falling back to mem): ${err.message}`);
+    }
   }
   const h = channelHistory.get(historyKey(channelId, userId)) || [];
   if (h.length) console.log(`[history] mem: loaded ${h.length} msgs for @${username}`);
@@ -682,7 +696,8 @@ client.on("messageCreate", async (message) => {
     // Silently classify for community health
     handlePassiveMessage(message).catch(() => {});
   } catch (err) {
-    console.log("[openhome-intel] ERROR:", err.message);
+    const tag = err?.constructor?.name === "APIError" || err?.status ? "[openai-error]" : "[handler-error]";
+    console.log(`[openhome-intel] ${tag} ${err.status ?? ""} ${err.message}`);
     await message.reply("Couldn't reach the knowledge base. Try again shortly.");
   }
 });
