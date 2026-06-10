@@ -1,18 +1,19 @@
-```yaml
-title: Dead Man's Switch
-entity_type: concepts
-status: stub
-last_updated: 2026-06-09
-```
+```markdown
+---
+title: "Dead Man's Switch"
+entity_type: "concepts/"
+status: "stub"
+last_updated: 2026-06-10
+---
 
 ### definition
-A dead man's switch is a mechanism that is designed to be activated if the user becomes incapacitated. In the context of technology and online systems, it typically refers to a feature that automatically triggers a specific action (such as sending a message or deleting data) if certain criteria are met, indicating that the user is no longer able to perform their responsibilities.
+A dead man's switch is a safety feature or mechanism that automatically triggers a specific action when the operator becomes incapacitated or is no longer able to perform their duties. It acts as a fail-safe to ensure that processes or systems continue to operate safely in the absence of human control.
 
 ### why-it-matters
-Dead man's switches are particularly relevant in the context of OpenHome as they enhance security and automate processes that would otherwise require human intervention. This ensures that critical actions or notifications happen even in instances where a user cannot execute them due to unforeseen circumstances. Such mechanisms increase user trust and system reliability.
+In the context of OpenHome, a dead man's switch can be critical for maintaining the safety and integrity of home automation systems. By ensuring that certain actions are taken when a user cannot intervene, it enhances user safety, providing peace of mind in automated environments.
 
 ### how-it-manifests
-In the OpenHome platform, dead man's switch features could manifest in automated notifications sent to designated contacts if a user does not check in within a set timeframe, or in the release of digital assets upon the user’s inactivity for a specified period. This concept can integrate with various applications and functionalities where user engagement is critical.
+This concept may manifest within OpenHome as automated safety controls that are triggered when a user fails to respond to certain prompts or conditions. For instance, if a user falls unconscious or is otherwise incapacitated, the dead man's switch could automatically alert emergency services, unlock doors for responders, or shut down potentially dangerous appliances.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ In the OpenHome platform, dead man's switch features could manifest in automated
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-09T11:59:50Z -->
+<!-- synthesized: 2026-06-10T12:04:24Z -->
+```

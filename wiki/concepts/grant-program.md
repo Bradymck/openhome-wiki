@@ -1,18 +1,19 @@
-```yaml
-title: Grant Program
-entity_type: concepts/grant-program
+```markdown
+---
+title: concepts/grant-program
+entity_type: concepts
 status: stub
-last_updated: 2026-06-09
-```
+last_updated: 2026-06-10
+---
 
 ## definition
-A grant program is a structured initiative that provides funding and resources to individuals or organizations to support specific projects or activities.
+A grant program is a structured initiative designed to provide financial support for specific projects or activities that align with the goals and vision of OpenHome.
 
 ## why-it-matters
-In the context of OpenHome, grant programs are essential for fostering innovation, supporting community initiatives, and enabling projects that align with the platform's goals and mission. They help to leverage external expertise and creativity, ultimately enhancing the overall ecosystem.
+Grant programs are essential in fostering innovation and supporting projects that can enhance the OpenHome ecosystem. By providing funding, they encourage collaboration and the development of new technologies and solutions within the community.
 
 ## how-it-manifests
-Grant programs appear in OpenHome as dedicated funding opportunities for developers, researchers, and community members. They facilitate various projects that contribute to the platform's development and outreach, encouraging participation and collaboration within the community.
+In the OpenHome platform, grant programs can manifest as funding opportunities for developers, researchers, and creators who are working on projects that contribute to the platform's overarching objectives. These programs may appear as open calls for proposals, competitions, or partnerships aimed at advancing specific areas of interest.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ Grant programs appear in OpenHome as dedicated funding opportunities for develop
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-06-09T11:59:50Z -->
+<!-- synthesized: 2026-06-10T12:04:24Z -->
+```

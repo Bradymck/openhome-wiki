@@ -1,28 +1,25 @@
-```markdown
----
-title: "Speakers"
-entity_type: "platform/speakers"
+```yaml
+title: "platform/speakers"
+entity_type: "platform"
 status: "stub"
-last_updated: "2026-06-09"
----
+last_updated: "2026-06-10"
+```
 
-### what-it-is
-Speakers are audio output devices integrated within the OpenHome platform that enable users to access and listen to various audio content seamlessly.
+## what-it-is
+The Speakers platform is an integral part of the OpenHome ecosystem, designed to facilitate voice interaction and connectivity across supported devices.
 
-### how-it-works
-The speakers function through connectivity with the OpenHome framework, allowing them to stream audio from different sources, including online services and local libraries. Users can control the speakers through connected devices or voice commands, providing a versatile experience for audio playback.
+## how-it-works
+The Speakers platform leverages advanced audio technology to enable smart speakers to communicate with various applications and services. It allows users to interact with their devices using voice commands, stream music, and control smart home features seamlessly.
 
-### current-status
+## current-status
 stub
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/abilities]]
-[[platform/dashboard]]
 [[platform/voice-ai]]
 [[platform/local-link]]
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-06-09T11:59:50Z -->
-```
+<!-- synthesized: 2026-06-10T12:04:24Z -->

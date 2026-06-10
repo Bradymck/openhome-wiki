@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: roadmap/planned
 entity_type: roadmap
 status: stub
-last_updated: 2026-06-09
-```
+last_updated: 2026-06-10
+---
 
-## what-it-is
-This page details the planned features or milestones for the upcoming releases and improvements.
+### what-it-is
+The roadmap outlines upcoming features and milestones aimed at creating a clearer space for developing various projects, spanning genres from psychological horror to family drama.
 
-## status
+### status
 stub
 
-## why-it-matters
-Understanding the roadmap of what is planned allows users to anticipate new features, improvements, and changes that may enhance the overall experience or functionality.
+### why-it-matters
+The initiative is crucial for consolidating ongoing projects and establishing a cohesive identity within the development vision, which enhances audience engagement and understanding of the creative direction.
 
-## eta
-A specific timeline for upcoming features and milestones has not been provided yet.
+### eta
+Rough timeline is not specified.
 
 ## connects-to
-[[roadmap/]]
-[[features/]]
-[[updates/]]
+[[projects]]
+[[updates]]
+[[community-engagement]]
 
-<!-- synthesized: 2026-06-09T11:59:50Z -->
+<!-- synthesized: 2026-06-10T12:04:24Z -->
+```

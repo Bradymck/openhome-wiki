@@ -1,23 +1,30 @@
-```yaml
+```markdown
+---
 title: builders/pmckelvy
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-06-09
-```
+last_updated: 2026-06-10
+---
 
 ## who-they-are
-pmckelvy is a member of the community focused on building innovative solutions within their area of expertise. Further details regarding their background and specific contributions are currently unavailable.
+Pmckelvy is an active developer in the builders community, focusing on creating innovative solutions utilizing blockchain technology and integrative systems to enhance user experiences within the decentralized ecosystem.
 
 ## what-they-built
-Details on specific abilities or integrations that pmckelvy has shipped are not documented at this time.
+Currently, there are no specific shipped abilities or integrations documented for Pmckelvy.
 
 ## grant-status
-The grant status for pmckelvy is not reported.
+none
 
 ## how-to-reach
-Information on how to reach pmckelvy via Discord, GitHub, or X is currently not available.
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-There are no available links to abilities or other related pages at this time.
+[[builders]]
+[[integrations]]
+[[blockchain technology]]
+[[decentralized systems]]
 
-<!-- synthesized: 2026-06-09T11:59:50Z -->
+<!-- synthesized: 2026-06-10T12:04:24Z -->
+```

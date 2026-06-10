@@ -1,29 +1,30 @@
 ```markdown
 ---
-title: Abilities News Brief
-entity_type: abilities/
-status: live
-last_updated: 2026-06-09
+title: abilities/news-brief
+entity_type: abilities
+status: stub
+last_updated: 2026-06-10
 ---
 
 ### what-it-does
-The News Brief ability provides users with concise updates about current events, including sports scores and other relevant information from social media platforms.
+The News Brief ability is designed to fetch and summarize news articles and updates from various sources. It aims to provide users with concise and relevant information, making it easier to stay informed about current events in various domains.
 
 ### how-to-build
-This ability leverages APIs from social media to fetch and summarize recent posts and updates, focusing on brevity and clarity. Builders should interface with the relevant API endpoints for retrieving posts and be able to implement parsing logic to extract essential information.
+Builder notes and API surface details are currently unavailable for this ability. Further information may be needed to detail the implementation.
 
 ### category
-productivity
+utility
 
 ### built-by
-[[abilities/community-builder]]  <!-- This is a placeholder; replace with actual builder link -->
+[[Builder Page Not Specified]]
 
 ### status
-live
+stub
 
-## connects-to
+### connects-to
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
-<!-- synthesized: 2026-06-09T11:59:50Z -->
+
+<!-- synthesized: 2026-06-10T12:04:24Z -->
 ```

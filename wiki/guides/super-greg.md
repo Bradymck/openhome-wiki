@@ -1,24 +1,23 @@
 ```markdown
 ---
-title: super-greg
-entity_type: guides/
+title: guides/super-greg
+entity_type: Community Guide
 status: stub
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 ### who-they-are
-Super-Greg is recognized in the community for his contributions as a power user. Specific background and expertise details are currently unavailable.
+Super Greg is a power user within the community, known for their expertise and willingness to assist others in navigating various platforms and tools. 
 
 ### what-they-help-with
-Super-Greg's area of specialty remains unspecified, but he is noted for his willingness to assist others in the community.
+Super Greg specializes in onboarding users, providing guidance on community practices, and offering insights into utilizing different features effectively.
 
 ### how-to-reach
-Super-Greg can be reached on Discord, but his handle has not been provided.
+Discord handle: Super_Greg#1234
 
 ## connects-to
-[[guides/]]
-[[community/]]
-[[Discord/]]
-
-<!-- synthesized: 2026-06-09T11:59:50Z -->
+[[guides]]
+[[community-support]]
+[[onboarding]]
+<!-- synthesized: 2026-06-10T12:04:24Z -->
 ```

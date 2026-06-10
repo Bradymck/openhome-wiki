@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: concepts/spatial-intelligence
+title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-06-09
+last_updated: 2026-06-10
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It involves understanding how different elements relate to one another in a physical environment, enabling effective navigation, arrangement, and interaction within that space.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and dimensions in one’s environment. It encompasses the skills involved in recognizing and interpreting physical space, understanding how objects relate to each other, and navigating through it effectively.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence plays a crucial role in enhancing user experiences by providing intuitive layouts and interactions within virtual or augmented environments. It allows users to engage more naturally with digital spaces, making the technology feel more immersive and user-friendly.
+In the context of OpenHome, spatial intelligence is crucial for enhancing user interaction and experience. As the platform develops smart home solutions, understanding spatial dynamics allows for more intuitive designs and functionalities that cater to users' needs in their physical spaces. This competence can lead to innovations in automated systems and home layouts that promote efficiency and convenience.
 
 ## how-it-manifests
-Spatial intelligence can manifest on the OpenHome platform through features such as interactive floor plans, augmented reality applications that allow users to visualize furniture arrangements, and spatial mapping in smart home devices that adapt based on the user’s location and movements within a space.
+Spatial intelligence appears in OpenHome through its design elements and user interface, ensuring that smart home applications are accessible and easy to use. For instance, features might include visual mapping of the home environment, intuitive navigation controls, and settings that adapt based on spatial awareness. This integration improves the functionality of connected devices, making them feel more responsive and user-friendly.
 
 ## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/grant-program]]  
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-09T11:59:50Z -->
+<!-- synthesized: 2026-06-10T12:04:24Z -->
 ```
