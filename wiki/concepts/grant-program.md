@@ -1,27 +1,24 @@
 ```markdown
 ---
-title: concepts/grant-program
-entity_type: concepts
+title: Grant Program
+entity_type: concepts/grant-program
 status: stub
-last_updated: 2026-06-10
+last_updated: 2026-06-11
 ---
 
-## definition
-A grant program is a structured initiative designed to provide financial support for specific projects or activities that align with the goals and vision of OpenHome.
+### definition
+A grant program serves as a financial support mechanism that provides funds to individuals, organizations, or projects aimed at improving community resources, innovation, or development initiatives.
 
-## why-it-matters
-Grant programs are essential in fostering innovation and supporting projects that can enhance the OpenHome ecosystem. By providing funding, they encourage collaboration and the development of new technologies and solutions within the community.
+### why-it-matters
+In the context of OpenHome, the grant program is crucial as it enables the funding of projects that contribute to community development, technological advancement, and enhanced connectivity. This support can empower local initiatives and foster innovative solutions aligned with OpenHome's values.
 
-## how-it-manifests
-In the OpenHome platform, grant programs can manifest as funding opportunities for developers, researchers, and creators who are working on projects that contribute to the platform's overarching objectives. These programs may appear as open calls for proposals, competitions, or partnerships aimed at advancing specific areas of interest.
+### how-it-manifests
+The grant program may be visible in OpenHome through calls for proposals, funding announcements, and active investment in community-oriented projects. It promotes engagement and supports external collaborations that align with OpenHome's objectives.
 
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
+### connects-to
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/abilities-as-apps]]  
 
-<!-- synthesized: 2026-06-10T12:04:24Z -->
+<!-- synthesized: 2026-06-11T12:19:28Z -->
 ```

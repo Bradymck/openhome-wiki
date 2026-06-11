@@ -2,24 +2,24 @@
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-06-10
+last_updated: 2026-06-11
 ```
 
 ## who-they-are
-Brady McK is an active community builder associated with the development and integration of innovative solutions in the blockchain space. 
+Brady McK is an active community builder engaged in developing tools and integrations tailored for enhancing user experiences within their community.
 
 ## what-they-built
-Currently, there is no specific information available regarding the abilities or integrations that bradymck has shipped.
+Details on specific shipped abilities or integrations have not been provided.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X (Twitter): [@CDP1882](https://twitter.com/CDP1882)
+- Discord handle: Unknown
+- GitHub: Unknown
+- X/Twitter: Unknown
 
 ## connects-to
-[[builders]]
+[[builders/bradymck]]
 
-<!-- synthesized: 2026-06-10T12:04:24Z -->
+<!-- synthesized: 2026-06-11T12:19:28Z -->

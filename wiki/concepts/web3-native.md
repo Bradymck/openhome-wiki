@@ -3,25 +3,25 @@
 title: concepts/web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-06-10
+last_updated: 2026-06-11
 ---
 
 ### definition
-Web3-native refers to technologies, applications, and platforms built on decentralized protocols, primarily utilizing blockchain technologies. It embodies a shift toward a more user-controlled and transparent internet experience.
+Web3-native refers to applications, platforms, and systems designed specifically to operate on the Web3 framework, leveraging decentralized technologies such as blockchain, smart contracts, and decentralized finance (DeFi).
 
 ### why-it-matters
-The importance of being web3-native lies in its potential to democratize online interactions, giving users more ownership over their data and digital identities. This aligns with OpenHome's goal of creating a more equitable digital environment where users have greater control and agency.
+Web3-native concepts are crucial to OpenHome as they embody the shift towards decentralized ownership and control of digital assets and identities. This aligns with OpenHome's vision of providing users with autonomy over their digital experiences and interactions.
 
 ### how-it-manifests
-In the OpenHome platform, web3-native features may appear as decentralized applications (dApps) that facilitate peer-to-peer interactions without intermediaries. These features might include secure identity verification, cryptocurrency-based transactions, or smart contracts that automate agreements between users.
+In the OpenHome platform, web3-native features may include decentralized user authentication, blockchain-based property and resource ownership, and smart contract functionalities that enable transparent transactions and community governance without centralized authority.
 
 ### connects-to
 - [[concepts/abilities-as-apps]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/grant-program]]
 - [[concepts/voice-first]]
 - [[concepts/local-first]]
+- [[concepts/dead-mans-switch]]
 - [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-10T12:04:24Z -->
+<!-- synthesized: 2026-06-11T12:19:28Z -->
 ```

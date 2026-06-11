@@ -1,27 +1,25 @@
 ```markdown
 ---
-title: Spatial Intelligence
+title: concepts/spatial-intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-06-10
+last_updated: 2026-06-11
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and dimensions in one’s environment. It encompasses the skills involved in recognizing and interpreting physical space, understanding how objects relate to each other, and navigating through it effectively.
+Spatial intelligence refers to the ability to understand and interact with the spatial environment. It involves recognizing and manipulating spatial relationships among objects and navigating through space effectively.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is crucial for enhancing user interaction and experience. As the platform develops smart home solutions, understanding spatial dynamics allows for more intuitive designs and functionalities that cater to users' needs in their physical spaces. This competence can lead to innovations in automated systems and home layouts that promote efficiency and convenience.
+In OpenHome, spatial intelligence is crucial for enhancing user experience by creating environments that are intuitive and comfortable to navigate. It supports effective community planning and enables users to better assess and appreciate their living situations within broader urban landscapes.
 
 ## how-it-manifests
-Spatial intelligence appears in OpenHome through its design elements and user interface, ensuring that smart home applications are accessible and easy to use. For instance, features might include visual mapping of the home environment, intuitive navigation controls, and settings that adapt based on spatial awareness. This integration improves the functionality of connected devices, making them feel more responsive and user-friendly.
+Spatial intelligence manifests in various facets of the OpenHome platform, particularly in features related to community design, open spaces, and connectivity among neighborhoods. By integrating spatial awareness into the platform, OpenHome can facilitate better decision-making for users regarding their living environments.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
 [[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/grant-program]]
+[[concepts/community-planning]]
+[[concepts/urban-living]]
 
-<!-- synthesized: 2026-06-10T12:04:24Z -->
+<!-- synthesized: 2026-06-11T12:19:28Z -->
 ```

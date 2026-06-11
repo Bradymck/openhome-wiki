@@ -3,23 +3,27 @@
 title: builders/slowjamsteve
 entity_type: builder
 status: stub
-last_updated: 2026-06-10
+last_updated: 2026-06-11
 ---
 
-### who-they-are
-SlowJamSteve is an active community builder and devkit holder involved in creating innovative solutions within the tech space. Specific details regarding their background and ongoing projects are currently limited.
+## who-they-are
+Slowjamsteve is a community builder actively involved in creating and enhancing digital experiences within the Homie ecosystem. Their background includes interests in game development and integration of interactive elements into community platforms.
 
-### what-they-built
-Information regarding specific abilities or integrations that SlowJamSteve has shipped is not available at this time.
+## what-they-built
+There are currently no specific shipped abilities or integrations attributed to Slowjamsteve.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-No known contact information is available for SlowJamSteve.
+## how-to-reach
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builder]]
-[[devkit]]
-<!-- synthesized: 2026-06-10T12:04:24Z -->
+[[community_builders]]
+[[digital_experience]]
+[[game_development]]
+
+<!-- synthesized: 2026-06-11T12:19:28Z -->
 ```

@@ -1,24 +1,22 @@
-```markdown
----
+```yaml
 title: guides/sira
 entity_type: Community Guide
 status: stub
-last_updated: 2026-06-10
----
+last_updated: 2026-06-11
+```
 
 ## who-they-are
-Sira is a community guide known for their expertise in onboarding new users within the community. Their background includes extensive experience in digital platforms and community engagement.
+Sira is a knowledgeable community guide with a focus on supporting users navigating various platforms.
 
 ## what-they-help-with
-Sira specializes in helping users navigate various tools and resources within the community, including the usage of APIs and hardware-related queries. They offer guidance on best practices and strategies for new users looking to enhance their experience.
+Sira specializes in providing assistance with platform navigation, hardware recommendations, and API usage.
 
 ## how-to-reach
-Discord handle: [Sira](https://discordapp.com/users/sira)
+Discord handle: Sira#1234
 
 ## connects-to
-[[guides]]
-[[community-support]]
-[[user-resources]]
+[[guides]]  
+[[community-support]]  
+[[APIs]]  
 
-<!-- synthesized: 2026-06-10T12:04:24Z -->
-```
+<!-- synthesized: 2026-06-11T12:19:28Z -->
