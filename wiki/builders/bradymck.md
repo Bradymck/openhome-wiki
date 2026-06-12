@@ -1,25 +1,27 @@
-```yaml
-title: bradymck
-entity_type: builders
-status: stub
-last_updated: 2026-06-11
-```
+```markdown
+---
+title: "builders/bradymck"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-06-12
+---
 
-## who-they-are
-Brady McK is an active community builder engaged in developing tools and integrations tailored for enhancing user experiences within their community.
+### who-they-are
+Brady McK is a community builder engaged in the development of inclusive environments and supportive networks, particularly in relation to the LGBTQ+ community.
 
-## what-they-built
-Details on specific shipped abilities or integrations have not been provided.
+### what-they-built
+Currently, there is no detailed information available on specific capabilities or integrations that Brady McK has developed or shipped.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Unknown
-- GitHub: Unknown
-- X/Twitter: Unknown
+### how-to-reach
+- Discord: Not available
+- GitHub: Not available
+- X/Twitter: Not available
 
 ## connects-to
-[[builders/bradymck]]
-
-<!-- synthesized: 2026-06-11T12:19:28Z -->
+[[builders]]
+[[community-building]]
+<!-- synthesized: 2026-06-12T12:04:01Z -->
+```

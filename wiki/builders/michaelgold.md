@@ -1,29 +1,26 @@
 ```markdown
 ---
-title: builders/michaelgold
-entity_type: builder
+title: Builders - Michael Gold
+entity_type: builders/
 status: stub
-last_updated: 2026-06-11
+last_updated: 2026-06-12
 ---
 
-### who-they-are
-Michael Gold is an active community builder focused on enhancing urban living and community planning. His background involves advocating for improved housing solutions that take into account open spaces, connectivity, and overall community design.
+## who-they-are
+Michael Gold is a community builder known for his involvement in various initiatives that foster connection and collaboration among developers and users in the software ecosystem. Details about his specific projects or areas of focus are currently limited.
 
-### what-they-built
-There are no specific shipped abilities or integrations attributed to Michael Gold at this time.
+## what-they-built
+Information regarding the specific abilities or integrations shipped by Michael Gold is not available at this time.
 
-### grant-status
-none
+## grant-status
+Applied
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord handle: Not specified
+- GitHub: Not specified
+- X/Twitter: Not specified
 
 ## connects-to
-[[community_planning]]
-[[urban_living]]
-[[housing_solutions]]
-
-<!-- synthesized: 2026-06-11T12:19:28Z -->
+[[builders/]]
+<!-- synthesized: 2026-06-12T12:04:01Z -->
 ```

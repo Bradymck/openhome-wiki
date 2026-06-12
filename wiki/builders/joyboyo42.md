@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: builders/joyboyo42
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-06-11
+last_updated: 2026-06-12
 ---
 
 ### who-they-are
-Joyboyo42 is a community builder involved in developing innovative projects within the digital space. They focus on creating engaging user experiences and fostering community interaction.
+Joyboyo42 is an active member of the community and a devkit holder who is dedicated to building innovative solutions within the ecosystem.
 
 ### what-they-built
-Currently, there are no specific abilities or integrations documented for joyboyo42. Further details on their contributions or projects may become available as they progress in their building endeavors.
+Currently, there are no specific shipped abilities or integrations documented for joyboyo42.
 
 ### grant-status
 none
@@ -22,8 +22,5 @@ none
 
 ## connects-to
 [[abilities]]
-[[community builders]]
-[[digital projects]]
-
-<!-- synthesized: 2026-06-11T12:19:28Z -->
+<!-- synthesized: 2026-06-12T12:04:01Z -->
 ```

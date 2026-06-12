@@ -1,29 +1,27 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-06-11
+last_updated: 2026-06-12
 ---
 
-## who-they-are
-Slowjamsteve is a community builder actively involved in creating and enhancing digital experiences within the Homie ecosystem. Their background includes interests in game development and integration of interactive elements into community platforms.
+### who-they-are
+Slowjamsteve is an active member of the community engaged in building integrations and abilities for various applications. Their background and specific projects are currently not documented in the provided material.
 
-## what-they-built
-There are currently no specific shipped abilities or integrations attributed to Slowjamsteve.
+### what-they-built
+Details regarding specific abilities or integrations that Slowjamsteve has built have not been provided in the current data.
 
-## grant-status
-none
+### grant-status
+The grant status for Slowjamsteve is currently not listed, indicating that there may be insufficient information on any applications or funding received.
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+Contact details for Slowjamsteve have not been provided.
 
 ## connects-to
-[[community_builders]]
-[[digital_experience]]
-[[game_development]]
+[[builders]]
+[[integrations]]
+[[community builders]]
 
-<!-- synthesized: 2026-06-11T12:19:28Z -->
+<!-- synthesized: 2026-06-12T12:04:01Z -->
 ```

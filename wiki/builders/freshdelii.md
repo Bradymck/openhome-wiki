@@ -3,26 +3,26 @@
 title: builders/freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-06-11
+last_updated: 2026-06-12
 ---
 
 ### who-they-are
-FreshDelii is part of the active community of builders within the ecosystem, primarily consisting of devkit holders working on various integrations and abilities.
+Freshdelii is part of an active community focused on development and integration within the Homie framework, specifically holding devkit capabilities.
 
 ### what-they-built
-Information on specific abilities or integrations shipped by FreshDelii is currently unavailable.
+Details about specific abilities or integrations shipped by Freshdelii are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
+- Discord handle: Not provided
 - GitHub: Not provided
-- X: Not provided
+- X (Twitter): Not provided
 
 ## connects-to
-[[abilities]]
-[[integrations]]
-
-<!-- synthesized: 2026-06-11T12:19:28Z -->
+[[homie]] 
+[[devkit]]
+[[community.builders]]
+<!-- synthesized: 2026-06-12T12:04:01Z -->
 ```
