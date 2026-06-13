@@ -1,27 +1,25 @@
-```markdown
----
-title: builders/slowjamsteve
+```yaml
+title: Slow Jam Steve
 entity_type: builders
 status: stub
-last_updated: 2026-06-12
----
+last_updated: 2026-06-13
+```
 
-### who-they-are
-Slowjamsteve is an active member of the community engaged in building integrations and abilities for various applications. Their background and specific projects are currently not documented in the provided material.
+## who-they-are
+Slow Jam Steve is an active community builder engaged in developing innovative solutions within their community. While specific details regarding their background and ongoing projects remain undisclosed, they are recognized for their commitment to community engagement.
 
-### what-they-built
-Details regarding specific abilities or integrations that Slowjamsteve has built have not been provided in the current data.
+## what-they-built
+Information on specific abilities or integrations shipped by Slow Jam Steve is currently unavailable.
 
-### grant-status
-The grant status for Slowjamsteve is currently not listed, indicating that there may be insufficient information on any applications or funding received.
+## grant-status
+none
 
-### how-to-reach
-Contact details for Slowjamsteve have not been provided.
+## how-to-reach
+Discord handle and other contact information for Slow Jam Steve are not provided.
 
 ## connects-to
 [[builders]]
-[[integrations]]
-[[community builders]]
+[[community engagement]]
+[[innovative solutions]]
 
-<!-- synthesized: 2026-06-12T12:04:01Z -->
-```
+<!-- synthesized: 2026-06-13T11:33:52Z -->

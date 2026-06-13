@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: concepts/dead-mans-switch
-entity_type: concepts
-status: live
-last_updated: 2026-06-12
+title: "Dead Man's Switch"
+entity_type: "concepts/"
+status: "stub"
+last_updated: 2026-06-13
 ---
 
-## definition
-A dead man's switch is a safety mechanism that automatically performs a function or triggers an action if the operator becomes incapacitated or fails to perform a necessary action within a specified time frame. This concept ensures that tasks are either completed or that a system transitions safely in the absence of the operator.
+### definition
+A dead man's switch is a safety mechanism that automatically activates a certain function or triggers an alert when the operator becomes incapacitated or unresponsive. In the context of technology, it can ensure that specific actions are taken or notifications are sent in the absence of user interaction.
 
-## why-it-matters
-In the context of OpenHome, a dead man's switch is crucial for maintaining system integrity and user safety. It guarantees that if a user becomes unresponsive or is unable to manage their home automation system, the safety protocols will engage. This is particularly relevant in home automation environments where system failures could lead to security vulnerabilities or unsafe conditions.
+### why-it-matters
+In the OpenHome platform, the implementation of a dead man's switch can significantly enhance user security and control. It ensures that essential functions, such as property management or emergency alerts, continue to operate even if the primary user is unable to respond due to unforeseen circumstances. This aligns with the values of accountability and reliability in home automation and smart living.
 
-## how-it-manifests
-The concept of a dead man's switch can be integrated into OpenHome's automation systems, ensuring that devices operate safely even when user engagement is low. For example, if a user has set up home automation scenarios that depend on their presence or input, the dead man's switch can revert settings to a safe state if there’s no response after a certain period.
+### how-it-manifests
+The concept may be integrated into various applications within OpenHome, such as automated alerts for property conditions, notifications for emergency services, or safety checks for unattended home systems. By employing a dead man's switch, users can maintain peace of mind knowing that their home technology can operate independently in critical situations.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-12T12:04:01Z -->
+<!-- synthesized: 2026-06-13T11:33:52Z -->
 ```

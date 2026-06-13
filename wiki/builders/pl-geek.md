@@ -1,23 +1,25 @@
-```yaml
+```markdown
+---
 title: builders/pl-geek
 entity_type: builder
 status: stub
-last_updated: 2026-06-12
-```
+last_updated: 2026-06-13
+---
 
-## who-they-are
-pl-geek is a member of the community focused on building and enhancing digital tools and integrations within the platform. Details regarding their background or specific projects they are engaged in are currently unlisted.
+### who-they-are
+Details about the builder "pl-geek" are currently unavailable. There is no information regarding their background or what they are building.
 
-## what-they-built
-Information about any shipped abilities or integrations by pl-geek has not been provided.
+### what-they-built
+Information on the specific abilities or integrations that "pl-geek" has shipped is not currently accessible.
 
-## grant-status
-No information is available regarding grant applications or funding status for pl-geek.
+### grant-status
+The grant status for "pl-geek" is not specified.
 
-## how-to-reach
-Contact details for pl-geek, including Discord handle, GitHub, or X are not available.
+### how-to-reach
+Communication channels for "pl-geek" are not provided at this time.
 
 ## connects-to
-No related abilities or integrations have been identified.
+No related pages available.
 
-<!-- synthesized: 2026-06-12T12:04:01Z -->
+<!-- synthesized: 2026-06-13T11:33:52Z -->
+```
