@@ -2,24 +2,24 @@
 ---
 title: concepts/local-first
 entity_type: concepts
-status: live
-last_updated: 2026-06-13
+status: stub
+last_updated: 2026-06-14
 ---
 
-### Definition
-Local-first is a development approach that prioritizes data and functionality being accessible and usable locally on a device, even when there is no internet connectivity. It emphasizes the importance of data availability and responsiveness, creating seamless experiences for users.
+## definition
+Local-first refers to a design philosophy that emphasizes local data storage and processing, allowing applications to operate effectively even without an internet connection. This concept encourages the decentralization of resources, promoting greater user control and faster access to information.
 
-### Why It Matters
-In the context of OpenHome, local-first principles enhance user autonomy and data ownership. By ensuring that functionalities are preserved and accessible without relying on constant online access, the platform fosters resilience and privacy. This aligns with the broader goals of providing users with a more personal and centered experience in their home environments.
+## why-it-matters
+In the context of OpenHome, local-first design is crucial as it ensures that users can interact with their homes and devices without being dependent on continuous internet connectivity. This enhances user experience, particularly in scenarios where network access may be unreliable. It also aligns with the broader commitment to privacy and security, giving users greater control over their data.
 
-### How It Manifests
-Local-first capabilities within the OpenHome platform can be seen in features where applications operate independently of a central server. This includes storing user data locally on devices, enabling offline functionality, and synchronizing data when connectivity is restored. This approach enhances performance and ensures that users can access their apps and data anytime, regardless of their internet connection.
+## how-it-manifests
+Local-first features are evident in various components of the OpenHome platform. This could include applications that allow users to manage home devices locally, with data synchronization occurring in the background when a connection is available. The platform supports user autonomy and reduces latency in device interactions, creating a more efficient home automation experience.
 
-### Connects To
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/web3-native]]  
-[[concepts/grant-program]]  
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-06-13T11:33:52Z -->
+<!-- synthesized: 2026-06-14T11:40:32Z -->
 ```

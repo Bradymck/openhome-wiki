@@ -1,29 +1,23 @@
-```markdown
----
-title: builders/mathieub
-entity_type: builder
+```yaml
+title: mathieub
+entity_type: builders
 status: stub
-last_updated: 2026-06-13
----
+last_updated: 2026-06-14
+```
 
-### who-they-are
-Mathieub is an active community builder involved in creating innovative integrations and solutions. They are a devkit holder, contributing to the development and expansion of community-driven technology.
+## who-they-are
+Mathieub is an active community builder and devkit holder engaged in various projects, although specific details about their background and current initiatives are not available.
 
-### what-they-built
-Details on specific abilities or integrations built by Mathieub are currently unavailable.
+## what-they-built
+Information about specific abilities or integrations that mathieub has shipped is currently not provided.
 
-### grant-status
-none
+## grant-status
+No grant information is available for mathieub.
 
-### how-to-reach
-Discord handle: Unknown  
-GitHub: Unknown  
-X: Unknown
+## how-to-reach
+Mathieub's contact details such as Discord handle, GitHub, or X account are not specified.
 
 ## connects-to
-[[builders]]
-[[devkit holders]]
-[[community builders]]
+[[abilities]]
 
-<!-- synthesized: 2026-06-13T11:33:52Z -->
-```
+<!-- synthesized: 2026-06-14T11:40:32Z -->

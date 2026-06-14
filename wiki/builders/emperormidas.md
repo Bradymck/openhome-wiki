@@ -3,14 +3,14 @@
 title: builders/emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-06-13
+last_updated: 2026-06-14
 ---
 
 ### who-they-are
-Emperor Midas is an active community builder engaged within the Homie ecosystem, focusing on enhancing user interactions and creating valuable integrations for devkit holders.
+Emperor Midas is an active community builder and a holder of the DevKit. They focus on developing skills and capabilities within the community.
 
 ### what-they-built
-Currently, there are no specific details available regarding the abilities or integrations that Emperor Midas has shipped or developed.
+Currently, there is no specific information available regarding what Emperor Midas has built or shipped.
 
 ### grant-status
 none
@@ -21,8 +21,9 @@ GitHub: Not provided
 X: Not provided  
 
 ## connects-to
-[[wikilink-to-previous-abilities]]
-[[wikilink-to-related-integrations]]
-
-<!-- synthesized: 2026-06-13T11:33:52Z -->
+[[builders]]
+[[community]]
+[[DevKit]]
+[[skills]]
+<!-- synthesized: 2026-06-14T11:40:32Z -->
 ```

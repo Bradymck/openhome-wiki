@@ -1,28 +1,28 @@
 ```markdown
 ---
 title: builders/pmckelvy
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-06-13
+last_updated: 2026-06-14
 ---
 
 ### who-they-are
-pmckelvy is an active community builder who holds developer kit (devkit) tools. They are engaged in building integrative solutions within the ecosystem.
+pmckelvy is a community builder involved in projects within the development kit ecosystem. They are recognized for their contributions and engagement in community activities.
 
 ### what-they-built
-Details on specific abilities or integrations built by pmckelvy are currently unavailable.
+Details on specific shipped abilities or integrations created by pmckelvy are currently unknown.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not available
-- GitHub: Not available
-- X/Twitter: Not available
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
 [[builders]]
-[[community builders]]
 [[devkit]]
-<!-- synthesized: 2026-06-13T11:33:52Z -->
+[[community]]
+<!-- synthesized: 2026-06-14T11:40:32Z -->
 ```
