@@ -1,21 +1,20 @@
-```markdown
----
-title: "Dead Man's Switch"
-entity_type: "concepts/"
-status: "stub"
-last_updated: 2026-06-14
----
+```yaml
+title: Dead Man's Switch
+entity_type: concepts
+status: stub
+last_updated: 2026-06-15
+```
 
-### definition
-A dead man's switch is a safety mechanism that automatically activates or triggers an event if the user becomes incapacitated or fails to respond within a specified timeframe. This type of system is often employed in various applications to ensure that a process or responsibility does not go unattended or unmonitored.
+## definition
+A dead man's switch is a safety mechanism that triggers an action when a specific condition is met, typically if a person becomes incapacitated or fails to perform a required task. It ensures that systems or processes can continue to operate or shut down safely in the absence of the person responsible for them.
 
-### why-it-matters
-In the context of OpenHome, a dead man's switch is relevant as it adds an important layer of security and reliability. By ensuring that systems continue to function appropriately in the absence of user input, it enhances user trust and mitigates risks associated with unexpected events.
+## why-it-matters
+In the context of OpenHome, a dead man's switch is significant as it enhances user trust and safety. It reassures users that their preferences and settings will be managed securely and potentially autonomously in case of unforeseen circumstances.
 
-### how-it-manifests
-This concept may manifest in OpenHome through features that monitor user engagement and activity. For instance, if a user does not interact with their home automation system for a period of time, the dead man's switch could trigger automated responses such as alerting emergency contacts or activating safety protocols.
+## how-it-manifests
+This concept may manifest in various functionalities across the OpenHome platform, such as automated settings adjustments or notifications that trigger if the user does not interact with the system for a defined period. It could safeguard against unauthorized access and ensure user preferences are respected even when communication with the user is not possible.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +22,4 @@ This concept may manifest in OpenHome through features that monitor user engagem
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-14T11:40:32Z -->
-```
+<!-- synthesized: 2026-06-15T13:00:28Z -->

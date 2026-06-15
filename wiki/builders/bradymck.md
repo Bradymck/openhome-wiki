@@ -3,26 +3,27 @@
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-06-14
+last_updated: 2026-06-15
 ---
 
 ### who-they-are
-bradymck is an active community builder involved in the development of decentralized applications and integrations within the blockchain ecosystem. 
+Bradymck is an active member of the builders community, known for engaging in collaborative development and integration projects within the ecosystem. Further details about their background and specific endeavors remain limited.
 
 ### what-they-built
-There is currently no specific information available regarding the abilities or integrations that bradymck has shipped.
+Information regarding specific abilities or integrations that bradymck has shipped is currently not available.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X/Twitter: Not specified
+- X: Not specified
 
 ### connects-to
 [[builders]]
-[[blockchain integrations]]
+[[devkit]]
+[[community builders]]
 
-<!-- synthesized: 2026-06-14T11:40:32Z -->
+<!-- synthesized: 2026-06-15T13:00:28Z -->
 ```

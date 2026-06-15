@@ -1,30 +1,25 @@
-```markdown
----
-title: builders/shoompa
-entity_type: community builder
+```yaml
+title: shoompa
+entity_type: builders
 status: stub
-last_updated: 2026-06-14
----
+last_updated: 2026-06-15
+```
 
-### who-they-are
-Shoompa is an active member of the community engaged in building projects under the Homie and User roles. Further details about their background and specific interests in development are not provided.
+## who-they-are
+shoompa is an active builder within the community, engaged in developing new abilities and integrations as a holder of the devkit.
 
-### what-they-built
-Information about specific abilities or integrations that Shoompa has shipped is currently not available.
+## what-they-built
+Currently, there is no specific information available regarding the abilities or integrations that shoompa has shipped.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not available
-- GitHub: Not available
-- X/Twitter: Not available
+## how-to-reach
+Discord handle: Unknown  
+GitHub: Unknown  
+X: Unknown  
 
-### connects-to
+## connects-to
 [[abilities]]
-[[community builders]]
-[[Homie roles]]
-[[User roles]]
 
-<!-- synthesized: 2026-06-14T11:40:32Z -->
-```
+<!-- synthesized: 2026-06-15T13:00:28Z -->

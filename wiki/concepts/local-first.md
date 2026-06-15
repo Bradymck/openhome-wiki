@@ -1,25 +1,25 @@
-```markdown
----
+```yaml
 title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-06-14
----
+last_updated: 2026-06-15
+```
 
 ## definition
-Local-first refers to a design philosophy that emphasizes local data storage and processing, allowing applications to operate effectively even without an internet connection. This concept encourages the decentralization of resources, promoting greater user control and faster access to information.
+Local-first is an approach that prioritizes user-controlled, local entities and data management over reliance on centralized systems. It emphasizes the use of local resources and infrastructure, enabling users to access and manage their data independently, fostering resilience and privacy.
 
 ## why-it-matters
-In the context of OpenHome, local-first design is crucial as it ensures that users can interact with their homes and devices without being dependent on continuous internet connectivity. This enhances user experience, particularly in scenarios where network access may be unreliable. It also aligns with the broader commitment to privacy and security, giving users greater control over their data.
+This concept is significant to OpenHome as it aligns with the values of user empowerment and data privacy. By advocating local-first design, OpenHome allows users to maintain control over their data and interactions, paving the way for a more secure and personal digital experience.
 
 ## how-it-manifests
-Local-first features are evident in various components of the OpenHome platform. This could include applications that allow users to manage home devices locally, with data synchronization occurring in the background when a connection is available. The platform supports user autonomy and reduces latency in device interactions, creating a more efficient home automation experience.
+In the OpenHome platform, local-first principles are reflected in features that allow users to operate and interact with their data and applications locally. This includes functionalities that minimize dependency on external servers, enabling offline capabilities and enhancing performance through localized processing.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
 [[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-14T11:40:32Z -->
-```
+<!-- synthesized: 2026-06-15T13:00:28Z -->

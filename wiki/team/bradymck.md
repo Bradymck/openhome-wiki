@@ -1,21 +1,23 @@
-```yaml
-title: Brady McK
+```markdown
+---
+title: team/bradymck
 entity_type: team
 status: stub
-last_updated: 2026-06-14
-```
+last_updated: 2026-06-15
+---
 
-## who-they-are
-Brady McK is a member of the OpenHome team. Further details regarding their specific role and background are currently unavailable.
+### who-they-are
+Brady McK is a member of the OpenHome team. Specific details about their role and background are currently unavailable.
 
-## what-they-own
-Brady McK's areas of the platform leadership are not detailed in the available information.
+### what-they-own
+Details regarding the areas of the platform that Brady McK leads are not provided.
 
-## how-to-reach
-Contact information for Brady McK is not provided in the current sources.
+### how-to-reach
+Brady McK's preferred contact methods or social media handles are not available.
 
-## connects-to
+### connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-06-14T11:40:32Z -->
+<!-- synthesized: 2026-06-15T13:00:28Z -->
+```

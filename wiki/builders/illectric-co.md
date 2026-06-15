@@ -1,26 +1,27 @@
 ```yaml
-title: illectric-co
-entity_type: builders
+title: builders/illectric-co
+entity_type: builder
 status: stub
-last_updated: 2026-06-14
+last_updated: 2026-06-15
 ```
 
 ## who-they-are
-Illectric-co is a community-focused builder known for engaging with the Homie + User roles, particularly among devkit holders.
+Illectric Co is an active community builder involved in the development of innovative solutions within their field. They focus on creating integrations and tools that leverage their capabilities as devkit holders.
 
 ## what-they-built
-Details about specific abilities or integrations that Illectric-co has shipped are currently unavailable.
+Illectric Co has initiated various projects aimed at enhancing community interaction and developing useful tools. Specific details on their shipped abilities or integrations are currently not available.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
+- Discord handle: Not specified
 - GitHub: Not specified
-- X/Twitter: Not specified
+- X (Twitter): Not specified
 
 ## connects-to
-[[builders]]
-[[devkit holders]]
+[[community integrations]]
+[[devkit tools]]
+[[innovative solutions]]
 
-<!-- synthesized: 2026-06-14T11:40:32Z -->
+<!-- synthesized: 2026-06-15T13:00:28Z -->

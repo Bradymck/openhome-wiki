@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: concepts/spatial-intelligence
 entity_type: concepts
-status: live
-last_updated: 2026-06-14
-```
+status: stub
+last_updated: 2026-06-15
+---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It encompasses skills such as spatial reasoning, understanding the relationships between objects, and navigating environments effectively.
+Spatial intelligence refers to the ability to understand and manipulate spatial relationships in the environment. It encompasses skills such as visualizing and navigating spaces, understanding maps or diagrams, and perceiving the arrangement of objects in three dimensions. 
 
 ## why-it-matters
-Spatial intelligence is crucial for creating intuitive and engaging user experiences within the OpenHome platform. By leveraging spatial intelligence, OpenHome can enhance how users interact with their home environments, leading to more seamless integration of technology in daily life.
+In the context of OpenHome, spatial intelligence is crucial because it informs the design and functionality of homes and communities. It promotes a seamless flow between indoor and outdoor spaces, enhances the usability of environments, and fosters a sense of connection to one's surroundings. This concept is vital for creating living spaces that are not just functional but also conducive to a harmonious lifestyle.
 
 ## how-it-manifests
-In the OpenHome platform, spatial intelligence manifests through features that allow users to visualize their home layouts, manage IoT devices in relation to their physical spaces, and navigate virtual representations of their homes. This includes augmented reality interfaces and spatial mapping tools that improve the way users control their smart home systems.
+Spatial intelligence manifests in OpenHome through thoughtful architectural designs and layouts that prioritize open spaces and connectivity. Features such as open floor plans that enhance the transition from the kitchen to dining and outdoor areas illustrate this concept. By utilizing spatial intelligence, OpenHome can ensure that living environments are accessible, aesthetically pleasing, and supportive of everyday life.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ In the OpenHome platform, spatial intelligence manifests through features that a
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-14T11:40:32Z -->
+<!-- synthesized: 2026-06-15T13:00:28Z -->
+```

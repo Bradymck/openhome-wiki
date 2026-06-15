@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-06-14
-```
+last_updated: 2026-06-15
+---
 
-## definition
-Abilities as apps is a conceptual framework that allows various functionalities and services to be integrated within a platform as discrete, manageable applications.
+### definition
+Abilities-as-apps refers to the concept of modularizing functionalities or skills within a platform, allowing users to access and utilize various abilities in a flexible and app-like manner.
 
-## why-it-matters
-This concept is significant to OpenHome as it promotes modular development, enabling users to customize their experience by choosing specific abilities they wish to utilize. This flexibility can lead to increased user engagement and satisfaction, as individuals can tailor the platform to better suit their needs.
+### why-it-matters
+This concept is crucial for OpenHome as it enhances user experience by enabling the integration of multiple abilities into a cohesive environment. It promotes customization and personalization, allowing users to tailor their interactions based on specific needs and preferences.
 
-## how-it-manifests
-In the OpenHome platform, abilities are likely represented as a collection of applications that users can activate or deactivate based on their preferences and requirements. This modular approach can enhance the usability of the system by allowing for an easy switch between different functionalities without overhauling the entire platform.
+### how-it-manifests
+In the OpenHome platform, abilities-as-apps may be seen as individual modules or features that can be activated or configured based on user requirements. This approach allows for a dynamic environment where users can leverage specific capabilities without being confined to a single system or application.
 
-## connects-to
+### connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -22,4 +23,5 @@ In the OpenHome platform, abilities are likely represented as a collection of ap
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-14T11:40:32Z -->
+<!-- synthesized: 2026-06-15T13:00:28Z -->
+```

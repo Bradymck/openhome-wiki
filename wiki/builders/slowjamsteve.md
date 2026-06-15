@@ -1,29 +1,27 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: community builder
+entity_type: builder
 status: stub
-last_updated: 2026-06-14
+last_updated: 2026-06-15
 ---
 
 ### who-they-are
-Slowjamsteve is an emerging builder in the community, focusing on creating unique projects and artistic content. While specific background details are not available, they have indicated a commitment to developing their own initiatives.
+Slowjamsteve is a builder within the active community who focuses on creating and integrating various innovative abilities.
 
 ### what-they-built
-There are currently no specific shipped abilities or integrations attributed to Slowjamsteve. They have mentioned working on personal projects in the coming weeks.
+Specific shipped abilities or integrations from Slowjamsteve are currently not documented.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Unknown
-- GitHub: Unknown
-- X/Twitter: Not specified
+Discord handle: Not provided  
+GitHub: Not provided  
+X: Not provided  
 
 ### connects-to
-[[Abilities]]
-[[Community Builders]]
-[[Artistic Projects]]
+[[wikilinks]]
 
-<!-- synthesized: 2026-06-14T11:40:32Z -->
+<!-- synthesized: 2026-06-15T13:00:28Z -->
 ```
