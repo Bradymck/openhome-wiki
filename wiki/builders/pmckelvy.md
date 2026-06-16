@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: builders/pmckelvy
-entity_type: builder
+title: pmckelvy
+entity_type: builders/
 status: stub
-last_updated: 2026-06-15
+last_updated: 2026-06-16
 ---
 
-### who-they-are
-pmckelvy is an active community builder engaged in developing solutions within the decentralized ecosystem. The specifics of their background and focus areas are currently limited.
+## who-they-are
+Information about pmckelvy is currently limited. More details will be added as they become available.
 
-### what-they-built
-As of now, there is no detailed information available regarding the specific abilities or integrations that pmckelvy has shipped within the community.
+## what-they-built
+Details on the specific abilities or integrations shipped by pmckelvy are not available at this time.
 
-### grant-status
-none
+## grant-status
+Unknown; currently listed as stub.
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X (Twitter): Not specified
+## how-to-reach
+Information on how to reach pmckelvy is not available.
 
-### connects-to
-[[wikilinks related to abilities]]
+## connects-to
+[[builders/]]
+[[builders/other-builder]] <!-- Placeholder for related builders -->
 
-<!-- synthesized: 2026-06-15T13:00:28Z -->
+<!-- synthesized: 2026-06-16T12:34:04Z -->
 ```

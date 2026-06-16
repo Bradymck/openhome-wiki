@@ -3,19 +3,19 @@
 title: concepts/spatial-intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-06-15
+last_updated: 2026-06-16
 ---
 
-## definition
-Spatial intelligence refers to the ability to understand and manipulate spatial relationships in the environment. It encompasses skills such as visualizing and navigating spaces, understanding maps or diagrams, and perceiving the arrangement of objects in three dimensions. 
+### definition
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships in physical or virtual environments. It encompasses skills such as navigation, spatial reasoning, and the ability to interpret and create diagrams or maps.
 
-## why-it-matters
-In the context of OpenHome, spatial intelligence is crucial because it informs the design and functionality of homes and communities. It promotes a seamless flow between indoor and outdoor spaces, enhances the usability of environments, and fosters a sense of connection to one's surroundings. This concept is vital for creating living spaces that are not just functional but also conducive to a harmonious lifestyle.
+### why-it-matters
+In the context of OpenHome, spatial intelligence is crucial as it enhances user interactions within the platform. Understanding spatial relationships can improve how users navigate the digital space, making it easier to access information and tools relevant to their needs.
 
-## how-it-manifests
-Spatial intelligence manifests in OpenHome through thoughtful architectural designs and layouts that prioritize open spaces and connectivity. Features such as open floor plans that enhance the transition from the kitchen to dining and outdoor areas illustrate this concept. By utilizing spatial intelligence, OpenHome can ensure that living environments are accessible, aesthetically pleasing, and supportive of everyday life.
+### how-it-manifests
+Spatial intelligence may manifest in OpenHome through features that allow users to visualize data in a spatial context or navigate through virtual environments intuitively. This can include interactive maps, 3D representations of data, or augmented reality features that help users understand their surroundings better.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ Spatial intelligence manifests in OpenHome through thoughtful architectural desi
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-15T13:00:28Z -->
+<!-- synthesized: 2026-06-16T12:34:04Z -->
 ```

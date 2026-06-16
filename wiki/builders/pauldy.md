@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builders
+entity_type: community builder
 status: stub
-last_updated: 2026-06-15
+last_updated: 2026-06-16
 ---
 
 ### who-they-are
-Pauldy is an active community builder within the devkit holder ecosystem. They are engaged in creating innovative solutions that enhance user experiences.
+Pauldy is a member of the active community of builders associated with the Homie + User roles. They are focused on developing innovative solutions within the community.
 
 ### what-they-built
-Details on specific abilities or integrations that Pauldy has shipped are currently unavailable.
+Specific abilities or integrations that Pauldy has shipped are not detailed in the available information.
 
 ### grant-status
 none
@@ -21,10 +21,7 @@ none
 - X: Not specified
 
 ### connects-to
-[[builders]]
-[[community builders]]
-[[devkit]]
-[[user roles]]
+[[builders]] <!-- Please add relevant abilities if available -->
 
-<!-- synthesized: 2026-06-15T13:00:28Z -->
+<!-- synthesized: 2026-06-16T12:34:04Z -->
 ```

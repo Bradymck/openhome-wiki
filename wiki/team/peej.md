@@ -3,21 +3,22 @@
 title: team/peej
 entity_type: team
 status: stub
-last_updated: 2026-06-15
+last_updated: 2026-06-16
 ---
 
-### who-they-are
-Peej is a core member of the OpenHome team, holding an unspecified role within the organization. Relevant background information is currently not available.
+## who-they-are
+Daniel Titus, known as Peej, is a member of the OpenHome team. His roles primarily involve community engagement and support.
 
-### what-they-own
-Specific areas of the OpenHome platform that Peej leads have not been documented or are currently unknown.
+## what-they-own
+Peej is involved in nurturing community relationships within the OpenHome platform. Specific projects and areas of leadership are currently not documented.
 
-### how-to-reach
-Peej's contact information, including their Discord handle or presence on X/Twitter, has not been provided or is currently unavailable.
+## how-to-reach
+- Discord: Not specified
+- X/Twitter: @realdanieltitus
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-06-15T13:00:28Z -->
+<!-- synthesized: 2026-06-16T12:34:04Z -->
 ```
