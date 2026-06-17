@@ -1,29 +1,26 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: community builders
+entity_type: community builder
 status: stub
-last_updated: 2026-06-16
+last_updated: 2026-06-17
 ---
 
 ### who-they-are
-Emperormidas is a community builder within the devkit ecosystem, focusing on facilitating connections and integrations among users and developers.
+Emperor Midas is a community builder currently involved in enhancing the ecosystem for developers and users within the community. Details about their specific background and what they are building are not currently available.
 
 ### what-they-built
-As of the latest update, specific projects or abilities built by emperormidas have not been detailed. Future contributions may include software or integrations aimed at enhancing user engagement within the community.
+Information regarding the specific abilities or integrations that Emperor Midas has shipped is not available at this time.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+No current contact information is available for Emperor Midas, such as Discord handle, GitHub, or X.
 
 ### connects-to
 - [[builders]]
-- [[devkit]]
 - [[community builders]]
 
-<!-- synthesized: 2026-06-16T12:34:04Z -->
+<!-- synthesized: 2026-06-17T12:24:07Z -->
 ```

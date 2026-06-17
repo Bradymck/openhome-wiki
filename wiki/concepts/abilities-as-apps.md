@@ -2,18 +2,18 @@
 ---
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: stub
-last_updated: 2026-06-16
+status: live
+last_updated: 2026-06-17
 ---
 
 ### definition
-Abilities as apps refer to the concept where functionalities or features of a platform operate similarly to applications. Each ability acts as an independent module that can be activated or utilized as needed, enhancing user interaction.
+Abilities-as-apps refer to the representation of various skills and functionalities as distinct applications within the OpenHome ecosystem, enabling a modular approach to software capabilities.
 
 ### why-it-matters
-This concept is significant to OpenHome as it promotes modularity and flexibility, allowing users to customize their experience based on specific needs or preferences. It encourages a user-centric approach, making it easier for individuals to integrate functionalities into their lives.
+This concept is crucial for OpenHome as it allows users to customize their experience by selecting and integrating only the functionalities they need. By treating abilities as apps, OpenHome can provide flexibility and scalability, catering to diverse user needs and preferences.
 
 ### how-it-manifests
-In the OpenHome platform, abilities as apps can manifest as distinct features that users can interact with, each operating independently yet contributing to an overarching ecosystem. This allows for a tailored user experience, where individuals can choose which abilities to activate or prioritize based on their routines or requirements.
+Abilities-as-apps are integrated into the OpenHome platform through a customizable interface where users can add, modify, and remove abilities based on their requirements. This is often seen in user dashboards where different applications can be activated or deactivated, allowing for a tailored experience.
 
 ### connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ In the OpenHome platform, abilities as apps can manifest as distinct features th
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-16T12:34:04Z -->
+<!-- synthesized: 2026-06-17T12:24:07Z -->
 ```

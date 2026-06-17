@@ -1,25 +1,23 @@
-```markdown
----
+```yaml
 title: guides/voidsshadows
 entity_type: Community Guide
 status: stub
-last_updated: 2026-06-16
----
+last_updated: 2026-06-17
+```
 
 ### who-they-are
-VoidsShadows are a community guide recognized for their expertise in navigating various systems and providing valuable support to new users. They are known for their engaging presence within the community.
+Voidsshadows is a community guide known for their expertise in navigating various technical challenges, specifically within digital platforms.
 
 ### what-they-help-with
-VoidsShadows specialize in offering guidance on a range of topics including abilities, hardware, and APIs, helping users enhance their understanding and skills in these areas.
+They specialize in assisting users with software tools, troubleshooting common issues, and providing guidance on best practices for community engagement and utilization of available resources.
 
 ### how-to-reach
-Discord Handle: Not specified
+Discord handle: Voidsshadows
 
-## connects-to
+### connects-to
 [[guides]]
-[[community-support]]
-[[hardware]]
-[[APIs]]
+[[community guides]]
+[[technical support]]
+[[user engagement]]
 
-<!-- synthesized: 2026-06-16T12:34:04Z -->
-```
+<!-- synthesized: 2026-06-17T12:24:07Z -->

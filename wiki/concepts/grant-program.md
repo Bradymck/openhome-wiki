@@ -1,27 +1,22 @@
-```markdown
----
+```yaml
 title: Grant Program
 entity_type: concepts/grant-program
-status: stub
-last_updated: 2026-06-16
----
+status: live
+last_updated: 2026-06-17
+```
 
 ## definition
-A grant program is a financial aid initiative designed to support individuals, organizations, or projects that align with certain criteria established by the granting body.
+A grant program is a structured initiative that provides funding or resources to individuals or organizations to support specific projects or goals, often aligned with particular visions or missions.
 
 ## why-it-matters
-Grant programs are crucial for fostering innovation and providing resources for projects that might not have access to funding through traditional means. They enable recipients to pursue initiatives that align with the goals of a community or organization, thereby strengthening the ecosystem within which these initiatives operate.
+In the context of OpenHome, the grant program is crucial as it fosters innovation and development in the community. By funding new ideas and projects, it helps support a collaborative ecosystem that enhances the platform and its offerings.
 
 ## how-it-manifests
-In OpenHome, grant programs may be established to support developers, researchers, or community projects that contribute to the platform's growth and innovation. These grants can be offered for a variety of purposes including development of new features, research into community needs, or initiatives that enhance user engagement.
+The grant program appears in OpenHome as a mechanism through which developers and creators can apply for support to realize their projects. It may include financial assistance, resources, or mentorship to help bring concepts to fruition.
 
 ## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
+[[concepts/abilities-as-apps]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
 
-<!-- synthesized: 2026-06-16T12:34:04Z -->
-```
+<!-- synthesized: 2026-06-17T12:24:07Z -->

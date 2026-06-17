@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: Roadmap Planned
+title: roadmap/planned
 entity_type: roadmap
-status: live
-last_updated: 2026-06-16
+status: stub
+last_updated: 2026-06-17
 ---
 
 ### what-it-is
-A structured outline of features, milestones, and project updates for upcoming, ongoing, and completed initiatives.
+This page outlines the planned features and milestones for upcoming developments in the project.
 
 ### status
-In-progress
+stub
 
 ### why-it-matters
-Having a clear roadmap allows stakeholders and users to understand what developments are on the horizon, ensuring transparency and informed engagement with the ongoing projects.
+Having a clear roadmap is crucial for aligning team efforts, setting expectations, and communicating future developments effectively to stakeholders. This transparency builds trust and fosters a collaborative environment.
 
 ### eta
-No specific timelines are provided; updates regarding timelines will be communicated as progress is made.
+Rough timelines are currently not available.
 
-### connects-to
-[[roadmap]]
-[[features]]
-[[milestones]]
-
-<!-- synthesized: 2026-06-16T12:34:04Z -->
+## connects-to
+[[roadmap/in-progress]]
+[[roadmap/shipped]]
+[[project-updates]]
+<!-- synthesized: 2026-06-17T12:24:07Z -->
 ```

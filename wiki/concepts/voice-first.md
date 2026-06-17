@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: concepts/voice-first
 entity_type: concepts
 status: live
-last_updated: 2026-06-16
-```
+last_updated: 2026-06-17
+---
 
 ## definition
-Voice-first refers to a design approach that prioritizes voice interaction as the primary mode of communication with devices and applications. This paradigm shift emphasizes natural language processing (NLP) and speech recognition, allowing users to engage with technology through spoken commands rather than traditional interfaces such as screens or keyboards.
+Voice-first refers to the design and development approach that prioritizes voice interactions as the primary mode of user engagement. Instead of using screens or touch inputs, voice-first systems enable users to interact with applications and devices via spoken commands and responses.
 
 ## why-it-matters
-Voice-first technology is crucial for OpenHome as it enhances accessibility and user experience. By integrating voice interaction, OpenHome can cater to a broader audience, including those who may have difficulty using conventional input methods. It allows users to engage with the platform more intuitively, leading to increased adoption and user satisfaction.
+Voice-first technology is significant to OpenHome as it enhances accessibility and user experience by allowing natural, hands-free interactions. This approach aligns with the growing trend of integrating voice assistants in daily life, making OpenHome more intuitive and user-friendly for diverse audiences.
 
 ## how-it-manifests
-In the OpenHome platform, voice-first capabilities are implemented through various features such as voice-activated commands to control smart home devices, access information, and perform actions. The integration of virtual assistants and intelligent dialogue systems exemplifies how the platform harnesses voice-first functionality, creating a seamless interaction environment for users.
+In the OpenHome platform, voice-first capabilities may appear through integrated voice assistants, enabling users to perform tasks, ask questions, or control smart home devices using their voice. Features such as voice-activated commands for managing schedules, accessing information, and controlling home environments showcase the voice-first implementation.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ In the OpenHome platform, voice-first capabilities are implemented through vario
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-16T12:34:04Z -->
+<!-- synthesized: 2026-06-17T12:24:07Z -->
+```

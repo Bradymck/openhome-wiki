@@ -3,25 +3,23 @@
 title: builders/freshdelii
 entity_type: builder
 status: stub
-last_updated: 2026-06-16
+last_updated: 2026-06-17
 ---
 
 ### who-they-are
-FreshDelii is a community-focused builder within the [Homie](https://homie.wiki) ecosystem, dedicated to enhancing user engagement through innovative solutions.
+Freshdelii is an active community builder involved in shipping abilities for the devkit holders in the ecosystem. More detailed background information is currently not available.
 
 ### what-they-built
-Currently, there is no specific information available regarding the abilities or integrations shipped by FreshDelii.
+Specific shipped abilities or integrations created by Freshdelii have not been documented in the available data.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Currently, there are no available contact details for Freshdelii, such as a Discord handle, GitHub, or X account.
 
-### connects-to
-*No connections to other abilities have been established or documented yet.*
+## connects-to
+[[abilities]] <!-- Assuming abilities is a related topic, as specific integrations are not provided. -->
 
-<!-- synthesized: 2026-06-16T12:34:04Z -->
+<!-- synthesized: 2026-06-17T12:24:07Z -->
 ```

@@ -1,30 +1,29 @@
 ```markdown
 ---
-title: Builders/Shoompa
+title: builders/shoompa
 entity_type: builder
 status: stub
-last_updated: 2026-06-16
+last_updated: 2026-06-17
 ---
 
 ### who-they-are
-Shoompa is a community builder focused on developing innovative solutions within the ecosystem. They are engaged with users holding devkit and are actively working on shipping new abilities to enhance community interactions.
+Builders/shoompa is an active member of the community, recognized for their involvement with development kits and shipping abilities as part of the broader ecosystem.
 
 ### what-they-built
-Currently, there is no specific information available on what Shoompa has built or shipped in terms of abilities or integrations. More details may emerge as the community progresses.
+Detailed information about specific abilities or integrations that shoompa has shipped is currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Not available  
-GitHub: Not available  
-X: Not available  
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ### connects-to
-[[builders/]]
-[[community-building]]
-[[devkit]]
 [[abilities]]
+[[community]]
+[[development kits]]
 
-<!-- synthesized: 2026-06-16T12:34:04Z -->
+<!-- synthesized: 2026-06-17T12:24:07Z -->
 ```

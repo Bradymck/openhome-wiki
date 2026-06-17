@@ -1,27 +1,29 @@
 ```markdown
 ---
-title: builders/bradymck
-entity_type: builder
+title: Brady McK
+entity_type: builders
 status: stub
-last_updated: 2026-06-16
+last_updated: 2026-06-17
 ---
 
-## who-they-are
-Brady McK is an active member of the builder community, involved in projects that contribute to the development and enhancement of various integrations.
+### who-they-are
+Brady McK is a member of the active community of builders within the Homie and User roles, focused on shipping abilities as a devkit holder.
 
-## what-they-built
-Details regarding specific abilities or integrations that Brady McK has shipped are currently unavailable.
+### what-they-built
+No specific shipped abilities or integrations have been documented for Brady McK at this time.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Unknown
-- GitHub: Unknown
-- X: Unknown
+### how-to-reach
+- Discord handle: Not available
+- GitHub: Not available
+- X/Twitter: Not available
 
 ## connects-to
-[[wikilinks]]
+[[builders]]
+[[devkit holders]]
+[[shipping abilities]]
 
-<!-- synthesized: 2026-06-16T12:34:04Z -->
+<!-- synthesized: 2026-06-17T12:24:07Z -->
 ```
