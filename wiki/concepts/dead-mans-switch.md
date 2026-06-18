@@ -1,27 +1,25 @@
 ```markdown
 ---
-title: Dead Man's Switch
+title: concepts/dead-mans-switch
 entity_type: concepts
-status: live
-last_updated: 2026-06-17
+status: stub
+last_updated: 2026-06-18
 ---
 
-## definition
-A dead man's switch is a safety mechanism that automatically triggers a specific action or response in the event of a person's incapacitation or failure to perform a required task. It serves to ensure that a system remains operational or that necessary actions are taken without human intervention.
+### definition
+A dead man's switch is a safety mechanism that automatically performs a specified action if the operator becomes incapacitated or unable to perform their duties. This mechanism is often used to prevent accidents and ensure continuity in critical operations.
 
-## why-it-matters
-In the context of OpenHome, the dead man's switch concept is significant as it enhances user security and system reliability. It allows users to initiate automated responses or safety protocols when they are unable to engage with the platform due to unforeseen circumstances, thus ensuring continuous operation and safeguarding user interests.
+### why-it-matters
+In the context of OpenHome, a dead man's switch can enhance safety and reliability within the platform. It ensures that actions or systems continue to operate in the intended manner, even if a user is no longer able to manage them. This is particularly important for maintaining user trust and system integrity in decentralized environments.
 
-## how-it-manifests
-The dead man's switch may manifest in various forms within the OpenHome platform, such as automated notifications, alerts, or system actions that are triggered after a user has been inactive for a predetermined period. This can be particularly useful in managing smart home environments, where devices can be programmed to perform safety checks, security measures, or environmental controls in the absence of user activity.
+### how-it-manifests
+The concept of a dead man's switch may be implemented in various features of the OpenHome platform, such as automated responses to user commands, security protocols that activate if a user does not interact with the system within a certain timeframe, or contingency plans for asset management in case of user inactivity.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/local-first]]
-[[concepts/voice-first]]
 [[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-17T12:24:07Z -->
+<!-- synthesized: 2026-06-18T12:07:02Z -->
 ```

@@ -1,24 +1,28 @@
 ```markdown
 ---
 title: builders/pmckelvy
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-06-17
+last_updated: 2026-06-18
 ---
 
 ### who-they-are
-Information about pmckelvy's background and what they are building is currently unavailable.
+pmckelvy is an active member of the builders community who is focused on shipping innovative solutions and integrations within the development kit ecosystem.
 
 ### what-they-built
-Details regarding the abilities or integrations shipped by pmckelvy are not presently accessible.
+Details on specific shipped abilities or integrations have not been documented.
 
 ### grant-status
 none
 
 ### how-to-reach
-Information about pmckelvy's Discord handle, GitHub, and X (Twitter) is currently missing.
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-06-17T12:24:07Z -->
+[[builders]]
+[[community]]
+[[devkit]]
+<!-- synthesized: 2026-06-18T12:07:02Z -->
 ```

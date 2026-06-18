@@ -1,26 +1,26 @@
-```yaml
+```markdown
+---
 title: builders/nicholas3415
 entity_type: builder
 status: stub
-last_updated: 2026-06-17
-```
+last_updated: 2026-06-18
+---
 
-## who-they-are
-Nicholas3415 is an active member of the community, involved in building and developing various projects.
+### who-they-are
+Nicholas3415 is an active member of the development community, engaged in building innovative solutions and integrations utilizing a developer kit (devkit).
 
-## what-they-built
-Details on specific abilities or integrations that Nicholas3415 has shipped are currently unavailable.
+### what-they-built
+Details on specific abilities or integrations that Nicholas3415 has shipped are currently not available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X: Not specified
+- X/Twitter: Not specified
 
 ## connects-to
-[[builders]]
-[[community-builders]]
-
-<!-- synthesized: 2026-06-17T12:24:07Z -->
+[[abilities]]
+<!-- synthesized: 2026-06-18T12:07:02Z -->
+```

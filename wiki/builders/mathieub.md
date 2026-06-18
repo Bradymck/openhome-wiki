@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: mathieub
-entity_type: builders
+title: builders/mathieub
+entity_type: community builder
 status: stub
-last_updated: 2026-06-17
+last_updated: 2026-06-18
 ---
 
 ### who-they-are
-mathieub is a member of an active builder community, specifically recognized as a devkit holder shipping abilities.
+Mathieub is an active community builder and a devkit holder focused on shipping abilities that enhance community interactions.
 
 ### what-they-built
-As of the latest information, there are no specific details available regarding the abilities or integrations that mathieub has shipped.
+Details on specific abilities or integrations that Mathieub has shipped are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: TBD
-- GitHub: TBD
-- X: TBD
+Discord: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
-### connects-to
+## connects-to
 [[builders]]
+[[community builders]]
 [[devkit holders]]
-[[shipping abilities]]
 
-<!-- synthesized: 2026-06-17T12:24:07Z -->
+<!-- synthesized: 2026-06-18T12:07:02Z -->
 ```

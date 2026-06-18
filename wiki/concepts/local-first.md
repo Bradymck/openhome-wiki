@@ -2,20 +2,20 @@
 ---
 title: concepts/local-first
 entity_type: concepts
-status: planned
-last_updated: 2026-06-17
+status: stub
+last_updated: 2026-06-18
 ---
 
-## definition
-Local-first is an approach in application development that prioritizes data storage and processing on users' devices rather than relying on cloud-based services. This concept emphasizes the accessibility and autonomy of user data, allowing applications to work even when offline.
+### definition
+Local-first is an approach that emphasizes the importance of processing and storing data primarily on the client side, rather than relying on cloud servers. This concept prioritizes making local devices the main point of interaction and data management, ensuring that users have control over their data and experiences.
 
-## why-it-matters
-The local-first approach is important to OpenHome as it enhances user control over data while increasing resilience and privacy. By minimizing dependence on cloud infrastructure, platforms can provide better performance and reliability, especially in areas with limited internet connectivity.
+### why-it-matters
+In the context of OpenHome, adopting a local-first strategy enhances user privacy, boosts application performance, and ensures reliability regardless of internet connectivity. It aligns with the goal to provide seamless experiences for users by minimizing dependency on remote servers and enabling more resilient applications.
 
-## how-it-manifests
-In the OpenHome platform, local-first principles are integrated through features such as offline access to applications, local data storage capabilities, and synchronization processes that ensure data is consistent across devices when connected. This results in smoother user experiences and reduces the risk of data loss.
+### how-it-manifests
+The local-first concept is reflected in the OpenHome platform through features that allow applications to operate offline, with data synchronization occurring automatically when users reconnect. This manifests in user interfaces that are responsive and quick, as they often handle data directly on the device instead of waiting for cloud responses.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ In the OpenHome platform, local-first principles are integrated through features
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-17T12:24:07Z -->
+<!-- synthesized: 2026-06-18T12:07:02Z -->
 ```

@@ -1,23 +1,27 @@
-```yaml
-title: "Roadmap Current Sprint"
-entity_type: "roadmap"
-status: "stub"
-last_updated: 2026-06-17
-```
+```markdown
+---
+title: Roadmap Current Sprint
+entity_type: roadmap
+status: stub
+last_updated: 2026-06-18
+---
 
-## what-it-is
-Current sprint focused on enhancing product features and addressing key milestones in the development cycle.
+### what-it-is
+The current sprint is focused on various feature enhancements and milestones aimed at improving user experience and functionality.
 
-## status
-in-progress
+### status
+stub
 
-## why-it-matters
-This sprint is crucial for iterating product improvements and ensuring alignment with user needs, thereby enhancing overall user experience and engagement.
+### why-it-matters
+This sprint is crucial for iterating on current features based on user feedback, addressing any ongoing issues, and planning for future improvements. 
 
-## eta
-Rough timeline for completion is currently unspecified.
+### eta
+Rough timeline is currently unknown.
 
 ## connects-to
-[[roadmap]]
+[[roadmap/shipped]]
+[[roadmap/in-progress]]
+[[roadmap/planned]]
 
-<!-- synthesized: 2026-06-17T12:24:07Z -->
+<!-- synthesized: 2026-06-18T12:07:02Z -->
+```

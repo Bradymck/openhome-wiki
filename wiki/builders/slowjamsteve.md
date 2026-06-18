@@ -1,27 +1,23 @@
-```markdown
----
+```yaml
 title: builders/slowjamsteve
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-06-17
----
+last_updated: 2026-06-18
+```
 
-### who-they-are
-Slowjamsteve is an active member in the community of developers and creators who hold the devkit, contributing to various initiatives in the blockchain space.
+## who-they-are
+Slowjamsteve is an active community builder whose background and specific projects are currently not detailed in the available sources.
 
-### what-they-built
-Specific details about the abilities or integrations that Slowjamsteve has shipped are currently unavailable.
+## what-they-built
+There is no information available regarding the abilities or integrations that Slowjamsteve has shipped.
 
-### grant-status
-none
+## grant-status
+No grant status information is provided for Slowjamsteve.
 
-### how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified  
+## how-to-reach
+No contact details, such as Discord handle, GitHub, or X (Twitter), are available.
 
 ## connects-to
-[[builders/]]
+[[builders]]
 
-<!-- synthesized: 2026-06-17T12:24:07Z -->
-```
+<!-- synthesized: 2026-06-18T12:07:02Z -->
