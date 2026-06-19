@@ -2,29 +2,29 @@
 ---
 title: abilities/news-brief
 entity_type: abilities
-status: stub
-last_updated: 2026-06-18
+status: live
+last_updated: 2026-06-19
 ---
 
-### what-it-does
-The "news-brief" ability is designed to provide concise summaries of current events and news articles. It aims to keep users informed with brief updates, streamlining the process of staying up-to-date with various topics.
+## what-it-does
+The News Brief ability fetches and summarizes upcoming events and relevant information in the news for the user. It provides insights on market activity and key announcements, aiding users in staying informed about financial and economic developments.
 
-### how-to-build
-Details on building the "news-brief" ability are currently not available. Additional information on API surfaces and builder notes are required.
+## how-to-build
+To build the News Brief ability, developers can integrate APIs that provide real-time news feeds and economic calendars. The surface should include endpoints for fetching market summaries, event calendars, and relevant articles. Tools for parsing and summarizing text content may also be necessary.
 
-### category
+## category
 utility
 
-### built-by
-[builder-name](path-to-builder-page)
+## built-by
+[[User:ExampleBuilder]]
 
-### status
-stub
+## status
+live
 
-### connects-to
+## connects-to
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
 
-<!-- synthesized: 2026-06-18T12:07:02Z -->
+<!-- synthesized: 2026-06-19T12:19:20Z -->
 ```

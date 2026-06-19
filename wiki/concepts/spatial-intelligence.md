@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: concepts/spatial-intelligence
+title: spatial-intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-06-18
+last_updated: 2026-06-19
 ---
 
-## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and to understand the physical world in a three-dimensional context. It involves recognizing how objects relate to each other in space, imagining how they will look from different angles, and navigating environments effectively.
+### definition
+Spatial intelligence refers to the ability to visualize, manipulate, and interact with spatial relationships and environments. It encompasses skills related to navigation, map reading, and understanding the layout of physical and virtual spaces.
 
-## why-it-matters
-Spatial intelligence is crucial for enhancing user interactions within OpenHome. By leveraging spatial awareness, the platform can create more intuitive and context-aware environments that adapt to user actions and preferences, ultimately improving user experience and engagement.
+### why-it-matters
+Spatial intelligence is crucial for OpenHome as it enhances user interactions with the platform, allowing for more intuitive navigation, better organization of space-related information, and improved spatial reasoning capabilities. By leveraging this intelligence, OpenHome can create more engaging and user-friendly environments.
 
-## how-it-manifests
-While specific applications and features related to spatial intelligence in OpenHome are not detailed, this concept could potentially manifest in functionalities such as augmented reality (AR) interfaces, 3D navigation tools, and intelligent layouts that respond to user movements or preferences.
+### how-it-manifests
+While specific applications of spatial intelligence within the OpenHome platform are not detailed in the available data, it is likely to appear in features involving spatial navigation, layout design, and virtual environment creation, which are essential for both developers and users interacting with 3D spaces or augmented reality.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ While specific applications and features related to spatial intelligence in Open
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-18T12:07:02Z -->
+<!-- synthesized: 2026-06-19T12:19:20Z -->
 ```

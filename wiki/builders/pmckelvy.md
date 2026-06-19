@@ -1,28 +1,25 @@
-```markdown
----
-title: builders/pmckelvy
+```yaml
+title: pmckelvy
 entity_type: builders
 status: stub
-last_updated: 2026-06-18
----
+last_updated: 2026-06-19
+```
 
-### who-they-are
-pmckelvy is an active member of the builders community who is focused on shipping innovative solutions and integrations within the development kit ecosystem.
+## who-they-are
+Builders/pmckelvy is an active community builder associated with the devkit. Further specifics about their background and ongoing projects are currently not available.
 
-### what-they-built
-Details on specific shipped abilities or integrations have not been documented.
+## what-they-built
+The specific abilities or integrations that builders/pmckelvy has shipped have not been documented or are currently unknown.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord handle: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
-[[builders]]
-[[community]]
-[[devkit]]
-<!-- synthesized: 2026-06-18T12:07:02Z -->
-```
+No relevant links have been identified at this time.
+
+<!-- synthesized: 2026-06-19T12:19:20Z -->

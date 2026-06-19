@@ -1,25 +1,29 @@
-```yaml
-title: Builder: Emperormidas
-entity_type: builders/
+```markdown
+---
+title: builders/emperormidas
+entity_type: builders
 status: stub
-last_updated: 2026-06-18
-```
+last_updated: 2026-06-19
+---
 
-## who-they-are
-Emperormidas is an active community builder in the Homie and User roles, known for developing innovative tools and integrations within the ecosystem. Further details regarding their background or specific projects are currently unavailable.
+### who-they-are
+Emperor Midas is a community builder within the developer ecosystem, recognized as a Homie and User role holder. They are engaged in creating innovative solutions and enhancements for the platform, focusing on empowerment through technology.
 
-## what-they-built
-No specific abilities or integrations built by Emperormidas have been documented at this time.
+### what-they-built
+Details on specific abilities or integrations that Emperor Midas has shipped are currently not available. More information may be added as such details are disclosed.
 
-## grant-status
-none
+### grant-status
+unknown
 
-## how-to-reach
-- **Discord handle**: Not available
-- **GitHub**: Not available
-- **X (Twitter)**: Not available
+### how-to-reach
+Discord handle: Unknown  
+GitHub: Unknown  
+Twitter/X: Unknown
 
 ## connects-to
-[[wikilinks]]
+[[builders]]
+[[community builders]]
+[[developer ecosystem]]
 
-<!-- synthesized: 2026-06-18T12:07:02Z -->
+<!-- synthesized: 2026-06-19T12:19:20Z -->
+```
