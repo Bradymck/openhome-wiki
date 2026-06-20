@@ -1,26 +1,27 @@
-```yaml
-title: roadmap/current-sprint
-entity_type: roadmap
+```markdown
+---
+title: Current Sprint Roadmap
+entity_type: roadmap/current-sprint
 status: stub
-last_updated: 2026-06-19
-```
+last_updated: 2026-06-20
+---
 
-## what-it-is
-Current features and milestones in the ongoing development cycle.
+### what-it-is
+The current sprint involves ongoing efforts to enhance platform capabilities with a focus on various features or milestones. 
 
-## status
-stub
+### status
+in-progress
 
-## why-it-matters
-Providing context for upcoming features helps stakeholders understand development priorities and timelines.
+### why-it-matters
+This sprint aims to improve user experience and operational efficiency by addressing key performance areas and introducing essential features that support user needs.
 
-## eta
-Not available.
+### eta
+Rough timelines have not been specified for the completion of this sprint.
 
 ## connects-to
 [[roadmap]]
 [[sprint]]
-[[features]]
-[[milestones]]
+[[feature_enhancement]]
 
-<!-- synthesized: 2026-06-19T12:19:20Z -->
+<!-- synthesized: 2026-06-20T11:35:41Z -->
+```

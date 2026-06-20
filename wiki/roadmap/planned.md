@@ -3,27 +3,26 @@
 title: roadmap/planned
 entity_type: roadmap
 status: stub
-last_updated: 2026-06-19
+last_updated: 2026-06-20
 ---
 
 ### what-it-is
-This page outlines features and milestones that are either planned, in-progress, or shipped, specifically those related to upcoming releases and developments.
+The roadmap outlines upcoming features, milestones, and progress in development.
 
 ### status
-- **Planned:** No specific features or milestones have been explicitly detailed.
-- **In-Progress:** No current features or milestones are reported as in-progress.
-- **Shipped:** No completed features or milestones are listed.
+stub
 
 ### why-it-matters
-The roadmap is essential for transparency and communication regarding the direction of ongoing and upcoming developments. It allows stakeholders to understand what improvements or changes they can expect, aiding in planning and resource allocation.
+The roadmap serves as a guide for stakeholders and users to understand what enhancements and changes are forthcoming, providing clarity and direction for future developments.
 
 ### eta
-No specific timelines are provided at this time.
+No specific timelines available at this moment.
 
-### connects-to
-[[roadmap/shipped]]  
-[[roadmap/in-progress]]  
-[[roadmap/overview]]  
+## connects-to
+[[features]]
+[[milestones]]
+[[progress]]
+[[updates]]
 
-<!-- synthesized: 2026-06-19T12:19:20Z -->
+<!-- synthesized: 2026-06-20T11:35:41Z -->
 ```

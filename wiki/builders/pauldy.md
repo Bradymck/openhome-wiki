@@ -1,27 +1,28 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builder
+entity_type: community builder
 status: stub
-last_updated: 2026-06-19
+last_updated: 2026-06-20
 ---
 
 ### who-they-are
-Pauldy is an active community builder with a focus on developing abilities for the ecosystem, leveraging their background in technology and user community engagement.
+Pauldy is an active community builder involved in various development projects, focusing on enhancing functionalities within the devkit ecosystem. 
 
 ### what-they-built
-Details on specific abilities or integrations built by Pauldy are currently not available.
+Information regarding specific abilities or integrations shipped by Pauldy is currently unavailable. 
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: Not Available
+- GitHub: Not Available
+- X: Not Available
 
 ### connects-to
-N/A
+[[builders]]
+[[devkit]]
 
-<!-- synthesized: 2026-06-19T12:19:20Z -->
+<!-- synthesized: 2026-06-20T11:35:41Z -->
 ```

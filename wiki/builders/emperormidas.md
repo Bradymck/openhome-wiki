@@ -1,29 +1,30 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: builders
+entity_type: community builder
 status: stub
-last_updated: 2026-06-19
+last_updated: 2026-06-20
 ---
 
 ### who-they-are
-Emperor Midas is a community builder within the developer ecosystem, recognized as a Homie and User role holder. They are engaged in creating innovative solutions and enhancements for the platform, focusing on empowerment through technology.
+Emperor Midas is a community builder engaged in developing modern solutions within the evolving landscape of digital experiences. Their focus is on creating innovative living spaces that incorporate cutting-edge design and sustainability features.
 
 ### what-they-built
-Details on specific abilities or integrations that Emperor Midas has shipped are currently not available. More information may be added as such details are disclosed.
+Currently, there are no detailed records of specific abilities or integrations that Emperor Midas has shipped.
 
 ### grant-status
-unknown
+none
 
 ### how-to-reach
-Discord handle: Unknown  
-GitHub: Unknown  
-Twitter/X: Unknown
+- Discord handle: Unknown
+- GitHub: Unknown
+- X: Unknown
 
 ## connects-to
 [[builders]]
 [[community builders]]
-[[developer ecosystem]]
+[[modern design]]
+[[sustainability]]
 
-<!-- synthesized: 2026-06-19T12:19:20Z -->
+<!-- synthesized: 2026-06-20T11:35:41Z -->
 ```

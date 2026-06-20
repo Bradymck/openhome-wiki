@@ -1,22 +1,23 @@
-```yaml
-title: "Adam Dew's Guide"
-entity_type: "guides/"
-status: "stub"
-last_updated: "2026-06-19"
-```
+```markdown
+---
+title: guides/adamdew
+entity_type: Community Guide
+status: stub
+last_updated: 2026-06-20
+---
 
-## who-they-are
-Adam Dew is recognized as a Community Guide within the community, having a role that emphasizes helping users navigate and make the most of their experiences. His background includes extensive knowledge of various platforms and user engagement strategies.
+### who-they-are
+Information about Adam Dew's background and expertise is currently not available.
 
-## what-they-help-with
-Adam specializes in onboarding new users and providing assistance with community-related queries. His expertise may cover a range of topics including hardware recommendations, software solutions, and the use of different APIs, aimed at enhancing user interaction within the community.
+### what-they-help-with
+Details regarding Adam Dew's specialties, including abilities, hardware, or APIs they assist with, are not provided.
 
-## how-to-reach
-Discord Handle: `adamdew`
+### how-to-reach
+Adam Dew's Discord handle is not specified.
 
 ## connects-to
 [[guides]]
-[[community]]
-[[onboarding]]
+[[Community Guides]]
 
-<!-- synthesized: 2026-06-19T12:19:20Z -->
+<!-- synthesized: 2026-06-20T11:35:41Z -->
+```
