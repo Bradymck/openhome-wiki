@@ -1,25 +1,26 @@
-```yaml
+```markdown
+---
 title: builders/xtremegamer007
-entity_type: builder
+entity_type: community builder
 status: stub
-last_updated: 2026-06-20
-```
+last_updated: 2026-06-21
+---
 
-## who-they-are
-XtremeGamer007 is an active participant in the community, holding a devkit and focusing on building engaging integrations and abilities.
+### who-they-are
+XtremeGamer007 is an active community builder within the Homie + User roles, focusing on developing engaging tools and experiences for users.
 
-## what-they-built
-Information about specific abilities or integrations shipped by XtremeGamer007 is currently not available.
+### what-they-built
+Details regarding specific shipped abilities or integrations by XtremeGamer007 have not been documented.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: not provided
-- GitHub: not provided
-- X: not provided
+### how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
+- X/Twitter: Not provided
 
 ## connects-to
-[[builders]]
-
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+[[abilities]]
+<!-- synthesized: 2026-06-21T11:52:22Z -->
+```

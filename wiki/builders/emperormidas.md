@@ -1,30 +1,29 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: community builder
+entity_type: community_builder
 status: stub
-last_updated: 2026-06-20
+last_updated: 2026-06-21
 ---
 
 ### who-they-are
-Emperor Midas is a community builder engaged in developing modern solutions within the evolving landscape of digital experiences. Their focus is on creating innovative living spaces that incorporate cutting-edge design and sustainability features.
+Emperormidas is an active member of the community focused on building and enhancing various functionalities within the development ecosystem. They are involved in shipping abilities and integrations that leverage existing tools and frameworks.
 
 ### what-they-built
-Currently, there are no detailed records of specific abilities or integrations that Emperor Midas has shipped.
+Information about specific abilities or integrations shipped by Emperormidas is currently unavailable. However, they are noted for developing and testing agent systems with custom workflows.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Unknown
+- Discord: Unknown
 - GitHub: Unknown
-- X: Unknown
+- X (Twitter): Unknown
 
-## connects-to
-[[builders]]
-[[community builders]]
-[[modern design]]
-[[sustainability]]
+### connects-to
+[[devkit]]
+[[agent_development]]
+[[custom_workflows]]
 
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+<!-- synthesized: 2026-06-21T11:52:22Z -->
 ```

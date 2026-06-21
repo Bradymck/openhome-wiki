@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-06-20
-```
+last_updated: 2026-06-21
+---
 
 ### definition
-Abilities-as-apps refers to a concept where functionalities or features in a platform are available as discrete applications, allowing users to select and utilize them based on their needs.
+Abilities-as-apps refers to the design philosophy of treating capabilities and features within a platform as standalone applications that users can access and utilize independently.
 
 ### why-it-matters
-This concept is significant in OpenHome as it promotes customization and flexibility for users. By providing abilities as separate applications, users can tailor their experience, enabling greater user engagement and satisfaction.
+This concept is significant because it enhances user experience by promoting modularity and flexibility within the OpenHome ecosystem. Users can select and customize their interactions based on specific needs without being locked into a monolithic application.
 
 ### how-it-manifests
-In OpenHome, abilities-as-apps may manifest through a marketplace or repository of applications that users can access and integrate into their personalized environments. This feature empowers users to choose specific functionalities that enhance their interactions with the platform.
+In the OpenHome platform, abilities-as-apps appear as individual applications that users can install or invoke to perform specific tasks, such as controlling smart devices, accessing information, or managing personal schedules.
 
 ### connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+<!-- synthesized: 2026-06-21T11:52:22Z -->
+```

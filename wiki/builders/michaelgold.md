@@ -1,24 +1,28 @@
-```yaml
+```markdown
+---
 title: builders/michaelgold
 entity_type: builder
 status: stub
-last_updated: 2026-06-20
-```
+last_updated: 2026-06-21
+---
 
-# who-they-are
-Michael Gold is an active community builder and a holder of the DevKit. He is engaged in initiatives that involve developing capabilities and integrations for enhanced community engagement.
+### who-they-are
+Michael Gold is an active member of the builder community, participating in various projects and integrating new technology solutions. 
 
-# what-they-built
-Specific abilities or integrations that Michael Gold has shipped have not been detailed or documented.
+### what-they-built
+Michael has set up and is currently running a systemd service for LangGraph, as well as an Open WebUI. These projects indicate a focus on enhancing software usability and integration.
 
-# grant-status
+### grant-status
 none
 
-# how-to-reach
+### how-to-reach
 - Discord handle: Not specified
 - GitHub: Not specified
-- X (Twitter): Not specified
+- X: Not specified
 
 ## connects-to
-[[abilities]]
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+[[LangGraph]]
+[[Open WebUI]]
+
+<!-- synthesized: 2026-06-21T11:52:22Z -->
+```

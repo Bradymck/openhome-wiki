@@ -3,23 +3,22 @@
 title: guides/samuel35
 entity_type: Community Guide
 status: stub
-last_updated: 2026-06-20
+last_updated: 2026-06-21
 ---
 
 ### who-they-are
-Samuel35 is a community guide known for assisting with onboarding new users and providing support within the community.
+Samuel35 is a community member with expertise in developing and testing agents using custom workflows. 
 
 ### what-they-help-with
-Samuel35 specializes in various aspects of community engagement and support, notably focusing on guiding new and existing users in navigating the platform and utilizing its resources effectively.
+Samuel35 specializes in configuring and managing agent workflows, specifically with the use of langgraph and Open WebUI technologies.
 
 ### how-to-reach
-[Discord Handle: samuel35](https://discord.com)
+You can reach Samuel35 on Discord.
 
-### connects-to
+## connects-to
 [[guides]]
-[[community support]]
-[[onboarding]]
-[[user engagement]]
+[[langgraph]]
+[[Open WebUI]]
 
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+<!-- synthesized: 2026-06-21T11:52:22Z -->
 ```

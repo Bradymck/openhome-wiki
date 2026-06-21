@@ -1,26 +1,30 @@
-```yaml
-title: SlowJamSteve
-entity_type: builders
-status: stub
-last_updated: 2026-06-20
-```
+```markdown
+---
+title: builders/slowjamsteve
+entity_type: builder
+status: live
+last_updated: 2026-06-21
+---
 
 ## who-they-are
-SlowJamSteve is an active community builder associated with the devkit holders, focusing on creating new capabilities and integrations within the community.
+Slowjamsteve is an active community builder known for developing innovative solutions and capabilities within the ecosystem. They focus on enhancing user experiences and integrating new functionalities that benefit platform users.
 
 ## what-they-built
-Details regarding specific abilities or integrations built by SlowJamSteve are currently unavailable.
+Slowjamsteve has built several abilities and integrations, including a system that allows agents to develop and test custom workflows effectively. They have implemented langgraph, which is running as a systemd service alongside Open WebUI.
 
 ## grant-status
-unknown
+none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X (Twitter): Not specified
+- Discord handle: not specified
+- GitHub: not specified
+- X (Twitter): not specified
 
 ## connects-to
-[[builders/]]
-[[devkit holders]]
+[[abilities]]
+[[custom workflows]]
+[[langgraph]]
+[[Open WebUI]]
 
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+<!-- synthesized: 2026-06-21T11:52:22Z -->
+```

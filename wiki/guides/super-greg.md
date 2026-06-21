@@ -1,22 +1,26 @@
-```yaml
-title: super-greg
-entity_type: guides
+```markdown
+---
+title: guides/super-greg
+entity_type: Community Guide
 status: stub
-last_updated: 2026-06-20
-```
+last_updated: 2026-06-21
+---
 
-## who-they-are
-Super Greg is a community guide known for their deep involvement in assisting new users in various online platforms.
+### who-they-are
+Super Greg is a community guide who actively participates in technical discussions and provides support to users navigating various challenges.
 
-## what-they-help-with
-Super Greg specializes in onboarding users, providing guidance on best practices and navigating complex systems. They are equipped with a wealth of knowledge regarding community standards and user engagement strategies.
+### what-they-help-with
+Super Greg specializes in developing and testing custom workflows for agents, as well as utilizing tools such as Open WebUI and langgraph. His expertise is beneficial for users looking to implement systems and services for automation.
 
-## how-to-reach
-Discord handle: Super_Greg
+### how-to-reach
+Discord Handle: super-greg
 
 ## connects-to
 [[guides]]
-[[community]]
-[[onboarding]] 
+[[Open WebUI]]
+[[langgraph]]
+[[automation]]
+[[community-support]]
 
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+<!-- synthesized: 2026-06-21T11:52:22Z -->
+```

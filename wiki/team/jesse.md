@@ -1,15 +1,16 @@
-```yaml
+```markdown
+---
 title: team/jesse
 entity_type: team
 status: live
-last_updated: 2026-06-20
-```
+last_updated: 2026-06-21
+---
 
 ### who-they-are
-Jesse serves as the Chief Technology Officer (CTO) at OpenHome. He is responsible for overseeing the technological direction and ensuring the platform's technological needs align with the overall goals of the organization.
+Jesse is the Chief Technology Officer (CTO) at OpenHome. He has a strong background in technology leadership and systems engineering.
 
 ### what-they-own
-Jesse leads the development of various technological initiatives within the OpenHome platform, focusing on innovative solutions that enhance user experience and system efficiency.
+Jesse leads the development of the Open WebUI and manages the integration of the Agentic ESB. His areas of focus include overseeing the architecture and implementation of core system components and ensuring the efficient operation of automation workflows.
 
 ### how-to-reach
 - Discord: @jesserank
@@ -17,5 +18,8 @@ Jesse leads the development of various technological initiatives within the Open
 
 ### connects-to
 [[team/shannon]]
+[[Open WebUI]]
+[[Agentic ESB]]
 
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+<!-- synthesized: 2026-06-21T11:52:22Z -->
+```

@@ -3,23 +3,27 @@
 title: builders/pmckelvy
 entity_type: builders
 status: stub
-last_updated: 2026-06-20
+last_updated: 2026-06-21
 ---
 
 ### who-they-are
-No reliable information available about the background or what they are building.
+Details about pmckelvy's background and what they are building are currently unavailable.
 
 ### what-they-built
-There are currently no details provided regarding shipped abilities or integrations.
+Information about any shipped abilities or integrations by pmckelvy is not currently provided.
 
 ### grant-status
-No information on grant status.
+No grant status information available.
 
 ### how-to-reach
-Contact details are not available.
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[wikilinks]]
+- [[builders]]
+- [[shipping abilities]]
+- [[integrations]]
 
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+<!-- synthesized: 2026-06-21T11:52:22Z -->
 ```

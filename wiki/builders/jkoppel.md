@@ -1,25 +1,28 @@
 ```markdown
 ---
-title: builders/jkoppel
-entity_type: community builder
+title: jkoppel
+entity_type: builders
 status: stub
-last_updated: 2026-06-20
+last_updated: 2026-06-21
 ---
 
-## who-they-are
-Details about jkoppel's background and what they're building are not available in the provided sources.
+### who-they-are
+jkoppel is a community builder involved in developing and testing agents with custom workflows. They participate in the Homie community and hold devkit, contributing to various shipping abilities.
 
-## what-they-built
-Information on the specific abilities or integrations that jkoppel has shipped is not available in the provided sources.
+### what-they-built
+jkoppel is currently running langgraph as a systemd service and has integrated Open WebUI within their projects, allowing for enhanced user interactions and functionalities.
 
-## grant-status
-Grant status for jkoppel is not mentioned in the provided sources.
+### grant-status
+none
 
-## how-to-reach
-Contact information for jkoppel, including Discord handle, GitHub, or X (formerly Twitter), is not available in the provided sources.
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X/Twitter: Not specified
 
-## connects-to
-There are no related abilities or connections available in the provided sources.
+### connects-to
+[[langgraph]]
+[[Open WebUI]]
 
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+<!-- synthesized: 2026-06-21T11:52:22Z -->
 ```

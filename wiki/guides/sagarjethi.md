@@ -1,24 +1,25 @@
 ```markdown
 ---
-title: guides/sagarjethi
-entity_type: Community Guide
-status: stub
-last_updated: 2026-06-20
+title: "sagarjethi"
+entity_type: "guides/"
+status: "stub"
+last_updated: 2026-06-21
 ---
 
-### who-they-are
-Information about Sagarjethi’s background and expertise is currently unavailable.
+## who-they-are
+Sagarjethi is a community guide known for their contributions in onboarding new users within the community, leveraging their expertise in various technical workflows.
 
-### what-they-help-with
-Sagarjethi specializes in helping users with onboarding processes within the community, but specific details about their abilities or tools are not provided.
+## what-they-help-with
+Sagarjethi specializes in developing and testing agents with custom workflows, including running systems such as langgraph and Open WebUI as systemd services.
 
-### how-to-reach
-Sagarjethi can be reached on Discord. However, their handle is not specified.
+## how-to-reach
+Sagarjethi can be reached on Discord.
 
 ## connects-to
-[[Community Guides]]
-[[Onboarding]]
-[[User Support]]
+[[guides/]]
+[[API Development]]
+[[Systemd Services]]
+[[Workflow Automation]]
 
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+<!-- synthesized: 2026-06-21T11:52:22Z -->
 ```

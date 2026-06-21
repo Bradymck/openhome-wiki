@@ -1,27 +1,25 @@
-```markdown
----
-title: Current Sprint Roadmap
-entity_type: roadmap/current-sprint
+```yaml
+title: Roadmap Current Sprint
+entity_type: roadmap
 status: stub
-last_updated: 2026-06-20
----
+last_updated: 2026-06-21
+```
 
-### what-it-is
-The current sprint involves ongoing efforts to enhance platform capabilities with a focus on various features or milestones. 
+## what-it-is
+The current sprint focuses on enhancing the infrastructure for background processes, notably through the implementation of systemd services to streamline various components such as langgraph and Open WebUI.
 
-### status
-in-progress
+## status
+In-progress
 
-### why-it-matters
-This sprint aims to improve user experience and operational efficiency by addressing key performance areas and introducing essential features that support user needs.
+## why-it-matters
+This sprint is essential for improving the robustness and performance of the platform by ensuring that key services run autonomously and efficiently. The adoption of systemd for managing processes aids in resource optimization, reliability, and easier service management.
 
-### eta
-Rough timelines have not been specified for the completion of this sprint.
+## eta
+Rough timeline not specified.
 
 ## connects-to
-[[roadmap]]
-[[sprint]]
-[[feature_enhancement]]
+[[systemd]]
+[[langgraph]]
+[[Open WebUI]]
 
-<!-- synthesized: 2026-06-20T11:35:41Z -->
-```
+<!-- synthesized: 2026-06-21T11:52:22Z -->

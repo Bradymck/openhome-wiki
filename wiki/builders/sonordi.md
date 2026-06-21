@@ -1,28 +1,30 @@
 ```markdown
 ---
 title: builders/sonordi
-entity_type: Builders
+entity_type: builders
 status: stub
-last_updated: 2026-06-20
+last_updated: 2026-06-21
 ---
 
 ### who-they-are
-Sonordi is a community builder engaged in the development and enhancement of integrations and abilities within the tech ecosystem.
+Sonordi is an active community builder involved in developing integrations and enhancing the capabilities within the Homie environment. They are known for their innovative approaches to integrating various workflows and systems.
 
 ### what-they-built
-Information on the specific abilities or integrations shipped by Sonordi is currently not available.
+Details on the specific shipped abilities or integrations by Sonordi are currently not available. They have mentioned the use of a systemd service to run Langgraph and Open WebUI, indicating ongoing development and testing of custom workflows.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not available
-- GitHub: Not available
-- X/Twitter: Not available
+- Discord handle: Not provided
+- GitHub: Not provided
+- X (Twitter): Not provided
 
-## connects-to
+### connects-to
 [[builders]]
-[[integrations]]
-[[community]]
-<!-- synthesized: 2026-06-20T11:35:41Z -->
+[[Homie]]
+[[Langgraph]]
+[[Open WebUI]]
+
+<!-- synthesized: 2026-06-21T11:52:22Z -->
 ```
