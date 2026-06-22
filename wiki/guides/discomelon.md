@@ -1,26 +1,23 @@
 ```markdown
 ---
-title: guides/discomelon
-entity_type: Community Guide
+title: "Guides/Discomelon"
+entity_type: guides
 status: stub
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
-## who-they-are
-Discomelon is characterized as a power user within the community, actively engaged in helping onboard others through their expertise.
+### who-they-are
+Discomelon is a community guide recognized for their contributions in supporting newcomers and enhancing the user experience within the community.
 
-## what-they-help-with
-Discomelon specializes in developing and testing workflows with agents. Their knowledge appears to extend into systems management, including setting up and running services with systemd, as well as utilizing tools like Open WebUI and langgraph.
+### what-they-help-with
+Discomelon specializes in guidance related to community involvement and best practices for engagement, helping users to navigate various platforms effectively.
 
-## how-to-reach
-Discord handle: Not specified in the available information.
+### how-to-reach
+You can reach Discomelon on Discord, but no specific handle was provided.
 
 ## connects-to
 [[guides]]
-[[agents]]
-[[systemd]]
-[[Open WebUI]]
-[[langgraph]]
-
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+[[community guides]]
+[[Discord]]
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

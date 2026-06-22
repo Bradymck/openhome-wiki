@@ -3,23 +3,22 @@
 title: guides/brianchilders
 entity_type: Community Guide
 status: stub
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
-## who-they-are
-Brian Childers is a power user known for his expertise in managing complex workflows and systems integration, particularly in areas related to automation and custom setups.
+### who-they-are
+Brian Childers is a power user active in community support and onboarding new members into various platforms.
 
-## what-they-help-with
-Brian specializes in guiding users through the process of developing and testing agents with custom workflows. He has experience with various tools and technologies that facilitate this process, such as systemd services and Open WebUI.
+### what-they-help-with
+Brian specializes in guiding users through different functionalities of the platform, assisting with troubleshooting and effectively utilizing available tools. His expertise includes optimizing user experience in digital environments.
 
-## how-to-reach
-You can reach Brian on Discord at: brianchilders
+### how-to-reach
+Discord handle: brianchilders
 
 ## connects-to
 [[guides]]
-[[automation]]
-[[workflows]]
-[[Open WebUI]]
+[[community-support]]
+[[onboarding]]
 
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

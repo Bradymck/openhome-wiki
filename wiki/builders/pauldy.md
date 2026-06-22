@@ -1,27 +1,29 @@
 ```markdown
 ---
-title: Builders/Pauldy
-entity_type: builders
+title: builders/pauldy
+entity_type: Community Builder
 status: stub
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
 ### who-they-are
-Pauldy is an active member of the community focusing on building and developing new abilities for users leveraging devkit technology.
+PaulDy is a community builder involved in developing and shipping new capabilities and integrations within the Homie ecosystem. As an active member and devkit holder, PaulDy contributes to various projects aimed at enhancing user experience and functionality.
 
 ### what-they-built
-Pauldy has shipped multiple integrations, including setting up langgraph as a systemd service and contributing to the Open WebUI project.
+Information on specific abilities or integrations shipped by PaulDy is currently not available.
 
 ### grant-status
-none
+Applied
 
 ### how-to-reach
-- Discord handle: Not provided
+- Discord: Not provided
 - GitHub: Not provided
-- X/Twitter: Not provided
+- X: Not provided
 
-## connects-to
-[[langgraph]]
-[[Open WebUI]]
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+### connects-to
+[[builders]]
+[[Homie]]
+[[devkit]]
+
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

@@ -3,24 +3,22 @@
 title: guides/super-greg
 entity_type: Community Guide
 status: stub
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
-### who-they-are
-Super Greg is a community guide who actively participates in technical discussions and provides support to users navigating various challenges.
+## who-they-are
+Super Greg is a knowledgeable community member with expertise in guiding new users within various technical domains. They have established themselves as a significant resource for onboarding and helping users navigate complex systems.
 
-### what-they-help-with
-Super Greg specializes in developing and testing custom workflows for agents, as well as utilizing tools such as Open WebUI and langgraph. His expertise is beneficial for users looking to implement systems and services for automation.
+## what-they-help-with
+Super Greg specializes in providing assistance with community onboarding processes. They are proficient in various technical tools and software, which include but are not limited to guidance on APIs and hardware configurations. Their experience enables them to help users make informed decisions and troubleshoot issues effectively.
 
-### how-to-reach
-Discord Handle: super-greg
+## how-to-reach
+You can connect with Super Greg through Discord.
 
 ## connects-to
 [[guides]]
-[[Open WebUI]]
-[[langgraph]]
-[[automation]]
-[[community-support]]
-
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+[[community]]
+[[support]]
+[[onboarding]]
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

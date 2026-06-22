@@ -1,28 +1,27 @@
-```markdown
----
-title: builders/michaelgold
-entity_type: builder
-status: stub
-last_updated: 2026-06-21
----
+```yaml
+title: "builders/michaelgold"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-06-22
+```
 
-### who-they-are
-Michael Gold is an active member of the builder community, participating in various projects and integrating new technology solutions. 
+## who-they-are
+Michael Gold is a community builder actively involved in the development of new technologies and integrations aimed at enhancing user experiences within various ecosystems.
 
-### what-they-built
-Michael has set up and is currently running a systemd service for LangGraph, as well as an Open WebUI. These projects indicate a focus on enhancing software usability and integration.
+## what-they-built
+Details on specific abilities or integrations that Michael Gold has shipped are not available at this time.
 
-### grant-status
-none
+## grant-status
+Applied
 
-### how-to-reach
-- Discord handle: Not specified
+## how-to-reach
+- Discord: Not specified
 - GitHub: Not specified
-- X: Not specified
+- X/Twitter: Not specified
 
 ## connects-to
-[[LangGraph]]
-[[Open WebUI]]
+[[builders]]
+[[community builder]]
+[[developer integration]]
 
-<!-- synthesized: 2026-06-21T11:52:22Z -->
-```
+<!-- synthesized: 2026-06-22T12:56:07Z -->

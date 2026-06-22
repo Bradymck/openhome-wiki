@@ -2,29 +2,27 @@
 ---
 title: builders/slowjamsteve
 entity_type: builder
-status: live
-last_updated: 2026-06-21
+status: stub
+last_updated: 2026-06-22
 ---
 
-## who-they-are
-Slowjamsteve is an active community builder known for developing innovative solutions and capabilities within the ecosystem. They focus on enhancing user experiences and integrating new functionalities that benefit platform users.
+### who-they-are
+Slowjamsteve is an active community builder known for engaging and creating in the developer ecosystem. Details about their background and specific projects they are currently working on remain unclear.
 
-## what-they-built
-Slowjamsteve has built several abilities and integrations, including a system that allows agents to develop and test custom workflows effectively. They have implemented langgraph, which is running as a systemd service alongside Open WebUI.
+### what-they-built
+Information on the specific abilities or integrations that Slowjamsteve has shipped is not available.
 
-## grant-status
-none
+### grant-status
+The grant status for Slowjamsteve is currently unknown.
 
-## how-to-reach
-- Discord handle: not specified
-- GitHub: not specified
-- X (Twitter): not specified
+### how-to-reach
+- Discord handle: Not provided
+- GitHub: Not listed
+- X/Twitter: Not available
 
-## connects-to
+### connects-to
 [[abilities]]
-[[custom workflows]]
-[[langgraph]]
-[[Open WebUI]]
+[[community builders]]
 
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

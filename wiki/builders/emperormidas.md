@@ -1,29 +1,27 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: community_builder
+entity_type: community builder
 status: stub
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
 ### who-they-are
-Emperormidas is an active member of the community focused on building and enhancing various functionalities within the development ecosystem. They are involved in shipping abilities and integrations that leverage existing tools and frameworks.
+Emperormidas is a community builder within the devkit ecosystem, focusing on creating innovative tools and integrations for users and developers.
 
 ### what-they-built
-Information about specific abilities or integrations shipped by Emperormidas is currently unavailable. However, they are noted for developing and testing agent systems with custom workflows.
+Currently, there is no detailed information on specific abilities or integrations that Emperormidas has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Unknown
-- GitHub: Unknown
-- X (Twitter): Unknown
+- Discord handle: Not available
+- GitHub: Not available
+- X (Twitter): Not available
 
-### connects-to
-[[devkit]]
-[[agent_development]]
-[[custom_workflows]]
+## connects-to
+[[abilities]]
 
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

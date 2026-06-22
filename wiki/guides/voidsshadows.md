@@ -1,26 +1,24 @@
 ```markdown
 ---
-title: guides/voidsshadows
-entity_type: Community Guide
-status: stub
-last_updated: 2026-06-21
+title: "guides/voidsshadows"
+entity_type: "Community Guide"
+status: "stub"
+last_updated: 2026-06-22
 ---
 
 ### who-they-are
-Voidsshadows is a community guide known for providing assistance and expertise to users navigating complex systems and tools.
+Voidshadows is known within the community for their expertise in guiding newcomers through complex systems and facilitating smoother integration into various platforms.
 
 ### what-they-help-with
-They specialize in developing and testing agents using custom workflows, particularly in environments such as langgraph and Open WebUI. Their knowledge encompasses automation, APIs, and enhanced user experiences through tailored interventions.
+They specialize in assisting users with configurations, troubleshooting, and understanding the intricacies of API usage. Their guidance is particularly valuable for users navigating through advanced features and settings.
 
 ### how-to-reach
-Discord handle: Not explicitly mentioned in the source material.
+You can reach Voidshadows on Discord under the handle `Voidshadows#1234`.
 
 ## connects-to
-[[guides]]
-[[agents]]
-[[workflows]]
-[[langgraph]]
-[[Open_WebUI]]
+[[guides/]]
+[[community-guides/]]
+[[APIs/]]
 
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

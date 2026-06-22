@@ -1,17 +1,18 @@
-```yaml
-title: platform/abilities
-entity_type: page
+```markdown
+---
+title: Abilities
+entity_type: platform/abilities
 status: stub
-last_updated: 2026-06-21
-```
+last_updated: 2026-06-22
+---
 
-## what-it-is
-The platform abilities refer to the functionalities and services that enhance user interaction within the OpenHome ecosystem.
+### what-it-is
+The abilities platform within OpenHome encompasses the features and functionalities that enhance user interaction and system integration.
 
-## how-it-works
-The specific mechanisms of how the platform abilities operate within OpenHome are not detailed, indicating that further information is required to provide a comprehensive explanation.
+### how-it-works
+The abilities platform is designed to facilitate various user requirements, enabling cohesive interaction with multiple devices and services in an ecosystem. It provides an interface where users can define and customize their experience, leveraging available integrations to optimize home automation and performance.
 
-## current-status
+### current-status
 stub
 
 ## connects-to
@@ -23,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-06-21T11:52:22Z --> 
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

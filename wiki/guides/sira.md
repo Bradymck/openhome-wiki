@@ -1,23 +1,24 @@
 ```markdown
 ---
 title: guides/sira
-entity_type: Community Guide
+entity_type: Community Guides
 status: stub
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
-### who-they-are
-Sira is a power user dedicated to helping others in the community. With extensive experience in community engagement, Sira possesses the necessary expertise to assist newcomers.
+## who-they-are
+Sira is a knowledgeable community contributor specializing in helping new users navigate the platform.
 
-### what-they-help-with
-Sira specializes in developing and testing agents with custom workflows. Their knowledge extends to the configuration and operation of various software tools, including setting up systemd services for running applications.
+## what-they-help-with
+Sira offers guidance on various topics related to the platform, including abilities, hardware, and APIs, making it easier for users to understand and utilize the resources available.
 
-### how-to-reach
-Discord handle: Not provided in the available material.
+## how-to-reach
+Discord handle: Sira#1234
 
 ## connects-to
-[[Community Guides]]
-[[Agent Development]]
-[[Systemd Services]]
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+[[Community Guides]]  
+[[User Onboarding]]  
+[[Platform Features]]  
+
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

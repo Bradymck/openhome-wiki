@@ -1,24 +1,25 @@
 ```markdown
 ---
-title: guides/samuel35
-entity_type: Community Guide
-status: stub
-last_updated: 2026-06-21
+title: "guides/samuel35"
+entity_type: "Community Guide"
+status: "stub"
+last_updated: 2026-06-22
 ---
 
 ### who-they-are
-Samuel35 is a community member with expertise in developing and testing agents using custom workflows. 
+Samuel35 is recognized within the community for their extensive experience and insights, particularly in areas that contribute to user onboarding and support.
 
 ### what-they-help-with
-Samuel35 specializes in configuring and managing agent workflows, specifically with the use of langgraph and Open WebUI technologies.
+Samuel35 specializes in a range of topics that assist new users in navigating and utilizing various technologies effectively. Their areas of expertise include hardware setups, API integrations, and providing troubleshooting advice.
 
 ### how-to-reach
-You can reach Samuel35 on Discord.
+You can connect with Samuel35 on Discord.
 
 ## connects-to
 [[guides]]
-[[langgraph]]
-[[Open WebUI]]
+[[community_support]]
+[[API_integration]]
+[[hardware_guides]]
 
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

@@ -1,27 +1,23 @@
 ```markdown
 ---
-title: Grant Program
-entity_type: concepts/grant-program
+title: concepts/grant-program
+entity_type: concepts
 status: stub
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
-### definition
-A grant program is a structured initiative that provides financial assistance to support projects, research, or activities aligned with the goals of OpenHome.
+## definition
+A grant program refers to a structured financial support initiative designed to provide funding to individuals, organizations, or projects that align with specific goals. These programs are typically governed by specific criteria and eligibility requirements.
 
-### why-it-matters
-The grant program is essential for fostering innovation and development within the OpenHome ecosystem. By offering funding opportunities, it encourages contributors to explore new ideas, develop applications, and implement solutions that enhance the platform's capabilities and user experience.
+## why-it-matters
+Grant programs are significant within the OpenHome ecosystem as they enable the development of innovative solutions and facilitate community engagement. By providing financial resources, these programs can stimulate projects that enhance the platform's capabilities and user experience, fostering a collaborative environment where ideas can flourish.
 
-### how-it-manifests
-The grant program can be seen through various initiatives aimed at supporting developers, researchers, and community projects. Specific applications of the grant program may include funding for software development, user experience research, community engagement projects, or educational resources that further the objectives of OpenHome.
+## how-it-manifests
+The grant program concept appears in OpenHome as a mechanism for supporting developers, researchers, and organizations interested in creating applications or tools that utilize OpenHome technologies. It may include funding awards, mentorship opportunities, or resources for project development.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
 [[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+[[concepts/voice-first]]
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

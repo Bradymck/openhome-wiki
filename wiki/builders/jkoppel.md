@@ -3,26 +3,25 @@
 title: jkoppel
 entity_type: builders
 status: stub
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
 ### who-they-are
-jkoppel is a community builder involved in developing and testing agents with custom workflows. They participate in the Homie community and hold devkit, contributing to various shipping abilities.
+JKoppel is an active community builder engaged in developing capabilities within the platform. Further details about their specific background and projects are currently not available.
 
 ### what-they-built
-jkoppel is currently running langgraph as a systemd service and has integrated Open WebUI within their projects, allowing for enhanced user interactions and functionalities.
+Information on specific shipped abilities or integrations developed by JKoppel has not been provided at this time.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X/Twitter: Not specified
+No specific contact details such as Discord handle, GitHub, or X (Twitter) account have been found.
 
-### connects-to
-[[langgraph]]
-[[Open WebUI]]
+## connects-to
+[[abilities]]
+[[community builders]]
+[[integrations]]
 
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

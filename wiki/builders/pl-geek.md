@@ -3,27 +3,27 @@
 title: builders/pl-geek
 entity_type: builder
 status: stub
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
-## who-they-are
-pl-geek is an active member of the developer community, focused on building and enhancing various integrations and applications. They hold a devkit and are committed to creating new capabilities for users.
+### who-they-are
+pl-geek is a community builder and developer involved in creating innovative solutions within the tech space. Their focus revolves around leveraging existing tools and platforms to enhance user experience and streamline functionalities.
 
-## what-they-built
-Details of specific abilities or integrations that pl-geek has shipped are currently unavailable.
+### what-they-built
+Information on specific abilities or integrations that pl-geek has shipped is not available at this time.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X/Twitter: Not specified
+### how-to-reach
+Discord handle: Not specified  
+GitHub: Not specified  
+X/Twitter: Not specified
 
 ## connects-to
 [[builders]]
 [[community]]
-[[integrations]]
+[[tech_innovations]]
 
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

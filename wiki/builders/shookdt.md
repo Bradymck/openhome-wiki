@@ -1,28 +1,27 @@
 ```markdown
 ---
 title: builders/shookdt
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
 ### who-they-are
-Shookdt is a community builder who is actively involved in creating and integrating new solutions within their ecosystem. They hold a devkit and utilize their skills to enhance community engagement and technical capabilities.
+Shookdt is an active community builder engaged in the development and improvement of various tools and integrations for users within the Homie ecosystem, leveraging their experience as a devkit holder.
 
 ### what-they-built
-Currently, specific details on the shipped abilities or integrations by Shookdt are not available. However, they are known to run systems like langgraph and Open WebUI, suggesting they are engaged in software development and system management.
+Details regarding specific abilities or integrations that Shookdt has shipped are currently unknown.
 
 ### grant-status
-none
+Applies for grants are currently not available, and no financial backing has been officially recorded.
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+Shookdt can be reached through their Discord handle and GitHub, though specific links or usernames are not provided in the available information.
 
-### connects-to
-[[langgraph]]
-[[Open WebUI]]
-
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+## connects-to
+[[builders]]
+[[Homie]]
+[[user roles]]
+[[devkit]]
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```

@@ -1,30 +1,30 @@
 ```markdown
 ---
-title: abilities/news-brief
-entity_type: abilities
+title: Abilities - News Brief
+entity_type: abilities/
 status: live
-last_updated: 2026-06-21
+last_updated: 2026-06-22
 ---
 
-## what-it-does
-The News Brief ability allows users to stay updated with the latest news and announcements from various platforms. It serves as a crucial tool for sharing timely information and creating community engagement around important topics.
+### what-it-does
+News Brief is an ability designed to deliver concise summaries of current events and news articles. It helps users stay informed without overwhelming them with unnecessary details.
 
-## how-to-build
-This ability can be created by utilizing available APIs for fetching news updates from social media outlets and other news sources. Builders should focus on integrating features that allow for the customization of news categories and sources. 
+### how-to-build
+To build the News Brief ability, developers should create a streamlined API that aggregates news from various sources. The API must allow users to select topics of interest and fetch summarized content. Key considerations include ensuring the summaries maintain the context and significance of the original articles while being user-friendly.
 
-## category
+### category
 utility
 
-## built-by
-[[builder-name]]
+### built-by
+[[builders/news-guru]]
 
-## status
+### status
 live
 
-## connects-to
-[[abilities/aquaprime]]
-[[abilities/deadman-fm]]
+### connects-to
 [[abilities/trivia]]
+[[abilities/deadman-fm]]
+[[abilities/aquaprime]]
 
-<!-- synthesized: 2026-06-21T11:52:22Z -->
+<!-- synthesized: 2026-06-22T12:56:07Z -->
 ```
