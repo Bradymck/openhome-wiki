@@ -1,25 +1,25 @@
-```yaml
-title: pmckelvy
-entity_type: builders
+```markdown
+---
+title: builders/pmckelvy
+entity_type: builder
 status: stub
-last_updated: 2026-06-22
-```
+last_updated: 2026-06-23
+---
 
-## who-they-are
-pmckelvy is an active community builder focused on developing innovative solutions within the ecosystem. Although specific details regarding their background and ongoing projects have not been disclosed, they are recognized as part of a group of builders who are dedicated to improving the community through their contributions.
+### who-they-are
+Information about pmckelvy's background and what they are building is currently unavailable.
 
-## what-they-built
-No specific abilities or integrations that pmckelvy has shipped are currently documented. Further information is needed to detail their contributions to the community.
+### what-they-built
+Details on any shipped abilities or integrations by pmckelvy are not available at this time.
 
-## grant-status
-unknown
+### grant-status
+The grant status for pmckelvy has not been specified.
 
-## how-to-reach
-Currently, there is no known contact information available for pmckelvy, including their Discord handle, GitHub, or presence on X/Twitter.
+### how-to-reach
+No contact information such as Discord handle, GitHub, or X is available for pmckelvy.
 
 ## connects-to
-[[builders]]
-[[community_builders]]
-[[devkit]]
+[[wikilinks]]
 
-<!-- synthesized: 2026-06-22T12:56:07Z -->
+<!-- synthesized: 2026-06-23T11:59:28Z -->
+```
