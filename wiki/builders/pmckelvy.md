@@ -1,25 +1,27 @@
-```markdown
----
+```yaml
 title: builders/pmckelvy
 entity_type: builder
 status: stub
-last_updated: 2026-06-23
----
+last_updated: 2026-06-24
+```
 
-### who-they-are
-Information about pmckelvy's background and what they are building is currently unavailable.
+## who-they-are
+pmckelvy is a member of the active builder community engaged in developing solutions within the Ethereum ecosystem. 
 
-### what-they-built
-Details on any shipped abilities or integrations by pmckelvy are not available at this time.
+## what-they-built
+Detailed information about specific abilities or integrations that pmckelvy has shipped is currently unavailable.
 
-### grant-status
-The grant status for pmckelvy has not been specified.
+## grant-status
+stub
 
-### how-to-reach
-No contact information such as Discord handle, GitHub, or X is available for pmckelvy.
+## how-to-reach
+- Discord: Unknown
+- GitHub: Unknown
+- X (Twitter): Unknown
 
 ## connects-to
-[[wikilinks]]
+[[builders]]  
+[[Ethereum ecosystem]]  
+[[community builders]]  
 
-<!-- synthesized: 2026-06-23T11:59:28Z -->
-```
+<!-- synthesized: 2026-06-24T11:53:37Z -->

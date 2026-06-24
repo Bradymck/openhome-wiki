@@ -3,27 +3,26 @@
 title: builders/michaelgold
 entity_type: builder
 status: stub
-last_updated: 2026-06-23
+last_updated: 2026-06-24
 ---
 
 ### who-they-are
-Michael Gold is an active community builder within the Homie + User ecosystem. He is focused on leveraging devkit functionalities to create innovative solutions that enhance user experiences.
+Michael Gold is a community builder known for his contributions within the blockchain space, particularly focusing on Ethereum and its related technologies. There is limited available information regarding his specific endeavors or projects at this time.
 
 ### what-they-built
-Information on specific shipped abilities or integrations created by Michael Gold is currently unavailable.
+Details on specific abilities or integrations that Michael Gold has shipped are not currently available.
 
 ### grant-status
-Grant status is not listed or currently unknown.
+None
 
 ### how-to-reach
-- Discord handle: Unknown
-- GitHub: Unknown
-- X (Twitter): Unknown
+Discord handle: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
 ### connects-to
-[[devkit]]
+[[builders]]  
+[[Ethereum]]  
 [[community builders]]
-[[innovative solutions]]
-
-<!-- synthesized: 2026-06-23T11:59:28Z -->
+<!-- synthesized: 2026-06-24T11:53:37Z -->
 ```

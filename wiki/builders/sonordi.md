@@ -1,29 +1,27 @@
-```markdown
----
+```yaml
 title: builders/sonordi
-entity_type: builders
+entity_type: community builder
 status: stub
-last_updated: 2026-06-23
----
+last_updated: 2026-06-24
+```
 
-### who-they-are
-Sonordi is an active community builder engaged in developing and enhancing abilities within a tech ecosystem, though specific details about their background and ongoing projects are currently unavailable.
+## who-they-are
+Sonordi is a member of the builder community focused on developing innovative solutions and integrations in the Ethereum ecosystem. They actively participate in discussions and collaborate with other developers to enhance the platform's capabilities.
 
-### what-they-built
-Information regarding the specific abilities or integrations that Sonordi has shipped is not yet documented.
+## what-they-built
+Details regarding specific abilities or integrations that Sonordi has shipped are not available at this time.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not specified
+## how-to-reach
+- Discord: Not specified
 - GitHub: Not specified
 - X/Twitter: Not specified
 
 ## connects-to
-[[wikilink-1]]
-[[wikilink-2]]
-[[wikilink-3]]
+[[ability_1]]
+[[ability_2]]
+[[ability_3]]
 
-<!-- synthesized: 2026-06-23T11:59:28Z -->
-```
+<!-- synthesized: 2026-06-24T11:53:37Z -->

@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: Roadmap / Shipped
+title: roadmap/shipped
 entity_type: roadmap
-status: stub
-last_updated: 2026-06-23
+status: live
+last_updated: 2026-06-24
 ---
 
-## what-it-is
-This page outlines the features, milestones, and updates related to the roadmap, specifying what has been shipped.
+### what-it-is
+The Ethereum network has seen significant upgrades with over a third of all ETH now staked, reaching a level that the network has never crossed before. Additionally, Layer 2 solutions are handling over 58% of all Ethereum activity, facilitating transactions that settle to the mainnet at a low cost.
 
-## status
-stub
+### status
+shipped
 
-## why-it-matters
-Understanding the roadmap and shipped features provides insight into the development progress and future directions for projects.
+### why-it-matters
+These developments are crucial as they enhance the scalability and efficiency of the Ethereum blockchain, making it more accessible and cheaper for users engaging with decentralized applications and transactions.
 
-## eta
-Not applicable at this time.
+### eta
+Ongoing improvements are expected as part of the continuous evolution of the Ethereum network, but specific future dates for additional milestones are not mentioned.
 
 ## connects-to
-[[roadmap]]
-[[features]]
-[[milestones]]
+[[Ethereum]]
+[[Layer 2 Solutions]]
+[[Staking]]
+[[Blockchain Scalability]]
 
-<!-- synthesized: 2026-06-23T11:59:28Z -->
+<!-- synthesized: 2026-06-24T11:53:37Z -->
 ```

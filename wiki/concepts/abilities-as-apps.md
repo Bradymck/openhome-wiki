@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-06-23
----
+last_updated: 2026-06-24
+```
 
 ### definition
-Abilities-as-apps refer to the integration of modular capabilities within a platform that can be accessed and utilized as applications, allowing users to customize their experiences based on specific needs or preferences.
+Abilities-as-apps refer to the concept where distinct functionalities or features are treated as standalone applications or modules within a platform, allowing for greater customization and user-specific experiences.
 
 ### why-it-matters
-This concept is crucial for OpenHome as it promotes flexibility and personalization. Users can leverage various abilities to enhance their interaction with the platform, making it more user-centric and adaptable.
+This concept is important for OpenHome as it enhances flexibility and scalability, allowing users to select and utilize only those abilities that align with their individual needs or preferences. This modular approach fosters innovation and can lead to more targeted improvements and updates.
 
 ### how-it-manifests
-While specific implementations within the OpenHome platform have not been detailed, the concept of abilities-as-apps suggests that users may access distinct functionalities as separate applications, potentially leading to a more tailored user experience.
+Abilities-as-apps can be observed in the way OpenHome allows users to integrate various functionalities as separate applications, which can be independently managed and updated. This structure not only simplifies user interaction but also encourages third-party developers to create and contribute new abilities to the platform.
 
 ### connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-23T11:59:28Z -->
-```
+<!-- synthesized: 2026-06-24T11:53:37Z -->  

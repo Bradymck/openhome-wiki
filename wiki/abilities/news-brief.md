@@ -3,29 +3,27 @@
 title: abilities/news-brief
 entity_type: abilities
 status: stub
-last_updated: 2026-06-23
+last_updated: 2026-06-24
 ---
 
-## what-it-does
-The `abilities/news-brief` plugin serves as a summary tool that aggregates and presents news briefs from various sources, helping users stay updated with concise information.
+### what-it-does
+The news-brief ability aggregates and delivers brief summaries of current events and updates from various news sources, allowing users to stay informed quickly.
 
-## how-to-build
-Currently, specific builder notes and API surfaces for the `news-brief` ability are not provided. Further documentation may be required to understand the development protocols for this plugin.
+### how-to-build
+Details on building the news-brief ability are currently not documented. Builders are encouraged to share their insights and methodologies to facilitate community development.
 
-## category
+### category
 utility
 
-## built-by
-[[builder_name]]  <!-- Replace with the actual builder wikilink when available -->
+### built-by
+[[builders/page-not-found]]
 
-## status
+### status
 stub
 
-## connects-to
-[[abilities/aquaprime]]
-[[abilities/deadman-fm]]
+### connects-to
 [[abilities/trivia]]
-<!-- Additional links can be added as needed -->
+[[abilities/deadman-fm]]
 
-<!-- synthesized: 2026-06-23T11:59:28Z -->
+<!-- synthesized: 2026-06-24T11:53:37Z -->
 ```

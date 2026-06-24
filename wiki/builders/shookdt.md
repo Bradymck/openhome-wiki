@@ -1,30 +1,27 @@
-```markdown
----
+```yaml
 title: builders/shookdt
-entity_type: community builder
+entity_type: builder
 status: stub
-last_updated: 2026-06-23
----
+last_updated: 2026-06-24
+```
 
-### who-they-are
-Shookdt is a member of the active community builders, recognized for their contributions to developing integrated systems and shipping abilities within the Homie and User roles. They are engaged in fostering a collaborative environment among developers.
+## who-they-are
+Shookdt is part of the active community of builders within the Ethereum ecosystem, focusing on developing innovative solutions and integrations that leverage the capabilities of the Ethereum network.
 
-### what-they-built
-Details about specific abilities or integrations that Shookdt has built are currently not available.
+## what-they-built
+Details about specific abilities or integrations that Shookdt has shipped are currently unavailable.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not available
-- X/Twitter: Not available
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
+## connects-to
 [[builders]]
+[[Ethereum]]
 [[community builders]]
-[[Homie]]
-[[User roles]]
 
-<!-- synthesized: 2026-06-23T11:59:28Z -->
-```
+<!-- synthesized: 2026-06-24T11:53:37Z -->

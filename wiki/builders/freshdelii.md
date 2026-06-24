@@ -1,27 +1,27 @@
-```yaml
-title: FreshDelii
-entity_type: builders
+```markdown
+---
+title: builders/freshdelii
+entity_type: builder
 status: stub
-last_updated: 2026-06-23
-```
+last_updated: 2026-06-24
+---
 
-## who-they-are
-FreshDelii is an active community builder engaged in developing innovative solutions for the real estate and housing sector. They are focused on enhancing the experience of home buying and real estate transactions.
+### who-they-are
+Freshdelii is a community builder focused on shipping innovative solutions and integrations within the ecosystem. They aim to leverage their development skills to enhance user experiences through accessible and efficient technology.
 
-## what-they-built
-While specific abilities or integrations have not been detailed in the available information, FreshDelii is known for participating in community-driven initiatives that aim to streamline the real estate process.
+### what-they-built
+As of now, specific abilities or integrations that Freshdelii has shipped are not documented publicly. Further details on their contributions or integrations could be available as their projects evolve.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Unavailable
-- GitHub: Unavailable
-- X: Unavailable
+### how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
+- X (Twitter): Not provided
 
-## connects-to
-[[builders]]
-[[real-estate]]
-[[community-driven-initiatives]]
+### connects-to
+[[wikilinks]]
 
-<!-- synthesized: 2026-06-23T11:59:28Z -->
+<!-- synthesized: 2026-06-24T11:53:37Z -->
+```

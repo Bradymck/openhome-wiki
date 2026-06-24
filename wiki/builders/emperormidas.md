@@ -1,26 +1,27 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: community builder
+entity_type: community_builder
 status: stub
-last_updated: 2026-06-23
+last_updated: 2026-06-24
 ---
 
 ### who-they-are
-Emperormidas is a member of the active community focused on building and shipping abilities as a developer kit holder.
+Information regarding the background of emperormidas and what they are building is currently unavailable.
 
 ### what-they-built
-Currently, there are no specific details available on the abilities or integrations that Emperormidas has shipped.
+Details about abilities or integrations shipped by emperormidas are not provided in the available information.
 
 ### grant-status
-none
+Grant status is not applicable or unreported.
 
 ### how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified  
+Contact information for emperormidas is not available.
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-06-23T11:59:28Z -->
+[[builders]]
+[[community_builder]]
+[[devkit]]
+[[shipped_abilities]]
+<!-- synthesized: 2026-06-24T11:53:37Z -->
 ```

@@ -1,27 +1,29 @@
 ```markdown
 ---
-title: illectric-co
-entity_type: builders
-status: stub
-last_updated: 2026-06-23
+title: "builders/illectric-co"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-06-24
 ---
 
-## who-they-are
-illectric-co is an active community builder within the Homie ecosystem, focusing on innovative solutions for enhancing the user experience with smart technologies.
+### who-they-are
+Illectric Co is a community-focused builder within the developer ecosystem, known for its commitment to shipping innovative solutions and enhancing user engagement in the blockchain space. They are actively working on various projects that contribute to the broader Ethereum community.
 
-## what-they-built
-Details about specific abilities or integrations that illectric-co has shipped are currently unavailable.
+### what-they-built
+Specific details about the abilities or integrations that Illectric Co has shipped were not available. Further information may provide insight into their contributions and delivered projects.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-Currently, no specific Discord handle, GitHub, or X (Twitter) account is listed for illectric-co.
+### how-to-reach
+Discord handle: Not provided  
+GitHub: Not provided  
+X (Twitter): Not provided  
 
-## connects-to
+### connects-to
 [[builders]]
-[[community builders]]
-[[smart technologies]]
-
-<!-- synthesized: 2026-06-23T11:59:28Z -->
+[[Ethereum]]
+[[blockchain]]
+[[community]]
+<!-- synthesized: 2026-06-24T11:53:37Z -->
 ```

@@ -1,18 +1,19 @@
-```yaml
-title: web3-native
+```markdown
+---
+title: concepts/web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-06-23
-```
+last_updated: 2026-06-24
+---
 
 ## definition
-Web3-native refers to applications and services built on decentralized protocols and technologies that prioritize user autonomy, data ownership, and interoperability.
+Web3-native refers to applications, platforms, or protocols that are built specifically to leverage the capabilities of decentralized technologies like blockchain. These solutions are designed for a web environment that emphasizes decentralization, user empowerment, and privacy.
 
 ## why-it-matters
-Web3-native concepts are relevant to OpenHome as they enable individuals to interact with their digital environments in a more secure and decentralized manner. This approach aligns with the mission of OpenHome to enhance user control over data and interactions within their homes.
+Web3-native concepts are essential to the development of OpenHome as they align with the platform's goals of promoting user autonomy and fostering a more equitable digital ecosystem. By utilizing decentralized technologies, OpenHome aims to enhance user experiences and improve data ownership among its users.
 
 ## how-it-manifests
-In the OpenHome platform, web3-native principles can be seen in how users interact with their home automation systems, utilizing decentralized identities and permissions to manage devices and services securely. 
+In the context of OpenHome, web3-native elements may manifest through integrated decentralized applications (dApps), smart contracts, and community governance mechanisms. These features allow users to interact within a peer-to-peer network, ensuring greater transparency and security in transactions and data sharing.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ In the OpenHome platform, web3-native principles can be seen in how users intera
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-23T11:59:28Z -->
+<!-- synthesized: 2026-06-24T11:53:37Z -->
+```

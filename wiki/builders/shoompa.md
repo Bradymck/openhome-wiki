@@ -1,27 +1,25 @@
 ```markdown
 ---
-title: Builders Shoompa
-entity_type: builders
+title: Builders/Shoompa
+entity_type: builder
 status: stub
-last_updated: 2026-06-23
+last_updated: 2026-06-24
 ---
 
 ### who-they-are
-Shoompa is an active community builder involved in developing capabilities within the Homie + User roles framework as a devkit holder.
+Shoompa is an active community builder in the Ethereum ecosystem, focusing on developing innovative solutions that harness the power of blockchain technology.
 
 ### what-they-built
-Specific details regarding what Shoompa has built or integrated are currently unavailable.
+Currently, there are no specific details available regarding the particular abilities or integrations that Shoompa has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Not provided  
-GitHub: Not provided  
-X: Not provided  
+Currently, there is no publicly available information regarding Shoompa's contact details or social media presence.
 
-### connects-to
-[[abilities]]
-
-<!-- synthesized: 2026-06-23T11:59:28Z -->
+## connects-to
+[[builders]]
+[[ethereum]]
+<!-- synthesized: 2026-06-24T11:53:37Z -->
 ```
