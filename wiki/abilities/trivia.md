@@ -1,21 +1,21 @@
 ```yaml
-title: trivia
+title: abilities/trivia
 entity_type: abilities
 status: stub
-last_updated: 2026-06-24
+last_updated: 2026-06-25
 ```
 
 ## what-it-does
-The Trivia ability provides users with a fun and interactive way to test their knowledge on various topics through quiz questions and answers.
+Trivia abilities are designed to engage users through fun and informative questions, allowing for interactive learning and entertainment. They can be used in various contexts such as quizzes, games, or as informative chatbots to enhance social interactions.
 
 ## how-to-build
-Details on building the Trivia ability are currently not available. Further documentation and API specifications are required to assist prospective builders in creating their version of trivia.
+The trivia ability typically requires a set of questions and answers to pull from, along with a scoring or feedback system for user responses. Builders should consider integrating APIs for fetching trivia questions across different categories to diversify content.
 
 ## category
 entertainment
 
 ## built-by
-[Builder Name](#)  <!-- Replace with actual builder page link -->
+[builders/trivia-developer](builders/trivia-developer)
 
 ## status
 stub
@@ -25,5 +25,4 @@ stub
 [[abilities/deadman-fm]]
 [[abilities/news-brief]]
 
-<!-- synthesized: 2026-06-24T11:53:37Z --> 
-```
+<!-- synthesized: 2026-06-25T11:50:56Z -->

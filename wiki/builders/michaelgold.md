@@ -1,28 +1,29 @@
 ```markdown
 ---
 title: builders/michaelgold
-entity_type: builder
+entity_type: Community Builder
 status: stub
-last_updated: 2026-06-24
+last_updated: 2026-06-25
 ---
 
 ### who-they-are
-Michael Gold is a community builder known for his contributions within the blockchain space, particularly focusing on Ethereum and its related technologies. There is limited available information regarding his specific endeavors or projects at this time.
+Michael Gold is an active member of the Homie community and a holder of development kits. He is focused on enhancing community engagement and building tools that facilitate connections within the Homie ecosystem.
 
 ### what-they-built
-Details on specific abilities or integrations that Michael Gold has shipped are not currently available.
+Information regarding specific tools or abilities shipped by Michael Gold is currently unavailable.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified  
+- Discord: Not specified
+- GitHub: Not specified
+- X/Twitter: Not specified
 
 ### connects-to
-[[builders]]  
-[[Ethereum]]  
-[[community builders]]
-<!-- synthesized: 2026-06-24T11:53:37Z -->
+[[builders]]
+[[Homie]]
+[[devkit]]
+
+<!-- synthesized: 2026-06-25T11:50:56Z -->
 ```

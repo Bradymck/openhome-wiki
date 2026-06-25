@@ -1,29 +1,28 @@
 ```markdown
 ---
-title: "builders/illectric-co"
-entity_type: "builder"
-status: "stub"
-last_updated: 2026-06-24
+title: builders/illectric-co
+entity_type: builders
+status: stub
+last_updated: 2026-06-25
 ---
 
 ### who-they-are
-Illectric Co is a community-focused builder within the developer ecosystem, known for its commitment to shipping innovative solutions and enhancing user engagement in the blockchain space. They are actively working on various projects that contribute to the broader Ethereum community.
+Illectric Co is a community of developers focused on building innovative solutions and integrations within the IDEA ecosystem. They are actively engaged in fostering collaboration and development within their field.
 
 ### what-they-built
-Specific details about the abilities or integrations that Illectric Co has shipped were not available. Further information may provide insight into their contributions and delivered projects.
+Currently, there is no specific information available regarding the exact abilities or integrations that Illectric Co has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Not provided  
-GitHub: Not provided  
-X (Twitter): Not provided  
+Discord handle: Not available  
+GitHub: Not available  
+X: Not available  
 
 ### connects-to
 [[builders]]
-[[Ethereum]]
-[[blockchain]]
-[[community]]
-<!-- synthesized: 2026-06-24T11:53:37Z -->
+[[IDEA ecosystem]]
+
+<!-- synthesized: 2026-06-25T11:50:56Z -->
 ```

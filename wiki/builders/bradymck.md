@@ -1,25 +1,28 @@
-```yaml
-title: bradymck
-entity_type: builders
+```markdown
+---
+title: builders/bradymck
+entity_type: builder
 status: stub
-last_updated: 2026-06-24
-```
+last_updated: 2026-06-25
+---
 
-## who-they-are
-Brady McK is an active contributor and builder within the community, focused on developing tools and integrations for the Ethereum ecosystem. While specific information about their background and the projects they are currently building is limited, they are recognized as part of the Homie group and hold a developer kit.
+### who-they-are
+Brady McK is a community builder involved in the development of tools and integrations within the Homie ecosystem. Specific details regarding their background and the focus of their projects are limited at this time.
 
-## what-they-built
-Details on what Brady McK has specifically built or shipped are not provided in the available data.
+### what-they-built
+Information about specific abilities or integrations shipped by Brady McK is not currently available.
 
-## grant-status
-No grant status information is available for Brady McK.
+### grant-status
+none
 
-## how-to-reach
-Information to reach Brady McK is not currently available.
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X/Twitter: Not specified
 
 ## connects-to
 [[builders]]
-[[Ethereum]]
-[[Homie]]
-
-<!-- synthesized: 2026-06-24T11:53:37Z -->
+[[integration]]
+[[community]]
+<!-- synthesized: 2026-06-25T11:50:56Z -->
+```

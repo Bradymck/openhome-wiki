@@ -1,27 +1,28 @@
-```yaml
+```markdown
+---
 title: builders/shookdt
-entity_type: builder
+entity_type: Active Community Builder
 status: stub
-last_updated: 2026-06-24
-```
+last_updated: 2026-06-25
+---
 
-## who-they-are
-Shookdt is part of the active community of builders within the Ethereum ecosystem, focusing on developing innovative solutions and integrations that leverage the capabilities of the Ethereum network.
+### who-they-are
+Shookdt is an active community builder involved in developing and enhancing the capabilities within the IDEA ecosystem. They are focused on creating inclusive platforms that facilitate user engagement and foster community growth.
 
-## what-they-built
-Details about specific abilities or integrations that Shookdt has shipped are currently unavailable.
+### what-they-built
+Specific shipped abilities or integrations by Shookdt are not detailed in the available information. Further content may outline their contributions within the ecosystem.
 
-## grant-status
-none
+### grant-status
+None
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+Discord: Not specified  
+GitHub: Not specified  
+X: Not specified
 
-## connects-to
+### connects-to
 [[builders]]
-[[Ethereum]]
-[[community builders]]
-
-<!-- synthesized: 2026-06-24T11:53:37Z -->
+[[IDEA ecosystem]]
+[[community engagement]]
+<!-- synthesized: 2026-06-25T11:50:56Z -->
+```

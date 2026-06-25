@@ -1,27 +1,23 @@
 ```yaml
 title: builders/pl-geek
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-06-24
+last_updated: 2026-06-25
 ```
 
-### who-they-are
-pl-geek is a community builder involved in the development and improvement of abilities within the Homie and User roles framework. 
+## who-they-are
+Information about builders/pl-geek is currently insufficient to provide a comprehensive background or details about what they’re building.
 
-### what-they-built
-Information on specific shipped abilities or integrations created by pl-geek is currently unavailable.
+## what-they-built
+No specific abilities or integrations have been documented for builders/pl-geek.
 
-### grant-status
-none
+## grant-status
+Not available.
 
-### how-to-reach
-Discord handle: Not provided  
-GitHub: Not provided  
-X: Not provided  
+## how-to-reach
+Details regarding how to reach builders/pl-geek are not provided.
 
 ## connects-to
-[[builders]]  
-[[Homie]]  
-[[User roles]]  
+No connections to other abilities have been documented.
 
-<!-- synthesized: 2026-06-24T11:53:37Z -->
+<!-- synthesized: 2026-06-25T11:50:56Z -->

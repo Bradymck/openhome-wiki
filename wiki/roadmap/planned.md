@@ -1,26 +1,25 @@
 ```yaml
-title: Roadmap Overview
-entity_type: roadmap/planned
+title: Roadmap/Planned
+entity_type: roadmap
 status: stub
-last_updated: 2026-06-24
+last_updated: 2026-06-25
 ```
 
-## what-it-is
-This document outlines the current and future milestones related to ongoing developments.
+### what-it-is
+Details about upcoming features and milestones for the project.
 
-## status
+### status
 Stub
 
-## why-it-matters
-Understanding the roadmap is crucial for stakeholders to gauge the progress of features and improvements, especially in dynamic environments like Ethereum.
+### why-it-matters
+This page aims to provide transparency and insight into the project's future direction, facilitating community engagement and collaboration.
 
-## eta
-Currently, specific timelines are not available for upcoming features or milestones.
+### eta
+No specific timeline available.
 
-## connects-to
-[[Ethereum]]
-[[Layer_2s]]
-[[Community_Services]]
+### connects-to
+[[features]]  
+[[milestones]]  
+[[community]]  
 
-<!-- synthesized: 2026-06-24T11:53:37Z -->
-```
+<!-- synthesized: 2026-06-25T11:50:56Z -->

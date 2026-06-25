@@ -1,28 +1,25 @@
-```markdown
----
-title: roadmap/shipped
+```yaml
+title: Roadmap Shipped
 entity_type: roadmap
 status: live
-last_updated: 2026-06-24
----
+last_updated: 2026-06-25
+```
 
-### what-it-is
-The Ethereum network has seen significant upgrades with over a third of all ETH now staked, reaching a level that the network has never crossed before. Additionally, Layer 2 solutions are handling over 58% of all Ethereum activity, facilitating transactions that settle to the mainnet at a low cost.
+## what-it-is
+The roadmap includes features and milestones pertaining to community development in the economic field, emphasizing a global and democratically governed professional home.
 
-### status
+## status
 shipped
 
-### why-it-matters
-These developments are crucial as they enhance the scalability and efficiency of the Ethereum blockchain, making it more accessible and cheaper for users engaging with decentralized applications and transactions.
+## why-it-matters
+The initiative matters as it aims to create the first global community for development economists, fostering collaboration and shared knowledge across different regions and cultures.
 
-### eta
-Ongoing improvements are expected as part of the continuous evolution of the Ethereum network, but specific future dates for additional milestones are not mentioned.
+## eta
+No specific timeline is provided for related future developments.
 
 ## connects-to
-[[Ethereum]]
-[[Layer 2 Solutions]]
-[[Staking]]
-[[Blockchain Scalability]]
+[[community development]]
+[[economic governance]]
+[[global initiatives]]
 
-<!-- synthesized: 2026-06-24T11:53:37Z -->
-```
+<!-- synthesized: 2026-06-25T11:50:56Z -->

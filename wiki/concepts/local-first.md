@@ -3,24 +3,25 @@
 title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-06-24
+last_updated: 2026-06-25
 ---
 
-## definition
-Local-first refers to a design approach in software development where applications prioritize local data storage and processing before syncing with remote servers. This concept emphasizes maintaining usability and performance in local environments, even in scenarios where network connectivity may be limited or unreliable.
+### definition
+Local-first is a concept that emphasizes the importance of storing and processing data on the user's device (locally) rather than relying primarily on cloud-based systems. This approach aims to enhance user control and data accessibility while ensuring better performance and reliability.
 
-## why-it-matters
-In the context of OpenHome, local-first design supports user autonomy and enhances privacy by allowing users to control their data. This approach mitigates reliance on constant internet access, making the system more resilient and user-friendly.
+### why-it-matters
+Local-first is relevant to OpenHome as it aligns with the goal of empowering users to maintain control over their own data and digital environments. By adopting a local-first approach, OpenHome aims to provide a seamless and responsive experience that respects users' privacy and data ownership.
 
-## how-it-manifests
-Local-first principles in OpenHome can be observed through features that enable functionalities like offline access to personal data, local processing of requests, and the synchronization of changes made while offline once a connection is reestablished. This enhances user experience by providing seamless functionality regardless of network conditions.
+### how-it-manifests
+In the OpenHome platform, the local-first concept appears through functionalities that allow users to interact with their data directly on their devices. This may include features such as offline access, where users can store and manage their information without needing a constant internet connection, thereby optimizing their experience.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
 [[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-24T11:53:37Z -->
+<!-- synthesized: 2026-06-25T11:50:56Z -->
 ```
