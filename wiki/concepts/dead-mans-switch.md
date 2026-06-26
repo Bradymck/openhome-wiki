@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: concepts/dead-mans-switch
+title: Dead Man's Switch
 entity_type: concepts
-status: stub
-last_updated: 2026-06-25
+status: live
+last_updated: 2026-06-26
 ---
 
 ## definition
-A dead man's switch is a safety mechanism that activates when a device or system operator is incapacitated or fails to respond. This concept ensures that certain processes or protocols are maintained without human oversight, thereby preventing potential harm or unintentional outcomes.
+A dead man's switch is a safety mechanism that triggers an event if the user becomes incapacitated or fails to interact with the device within a specified timeframe. It serves as an automated fallback to ensure continuity or safety, such as notifying designated individuals or taking pre-defined actions.
 
 ## why-it-matters
-In the context of OpenHome, the dead man's switch is crucial for maintaining system reliability and safety. It allows for automated responses in case of user inactivity or emergencies, ensuring that users' homes remain secure and operational even if they are unable to manage them actively.
+In the context of OpenHome, a dead man's switch can enhance user security and provide peace of mind. It ensures that essential tasks are performed or that important information is communicated, particularly in scenarios where users may be unable to take action themselves. This concept is crucial for creating reliable home automation systems that prioritize user safety.
 
 ## how-it-manifests
-This concept can be implemented in various forms within the OpenHome platform, such as automated home systems that trigger safety responses in the event of detected inactivity by homeowners. Examples might include automatic locking of doors, adjusting security settings, or alerting emergency contacts if no activity is detected for a predefined period.
+This concept can manifest in various features of the OpenHome platform, such as automated alerts sent to family members or emergency services if a user fails to check in after a predetermined period. It may also be used in smart home devices that can lock themselves or disable functionality to prevent misuse when the primary user is unresponsive.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
 [[concepts/local-first]]
-[[concepts/web3-native]]
+[[concepts/voice-first]]
 [[concepts/spatial-intelligence]]
+[[concepts/web3-native]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-25T11:50:56Z -->
+<!-- synthesized: 2026-06-26T11:50:41Z -->
 ```

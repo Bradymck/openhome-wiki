@@ -1,27 +1,27 @@
-```markdown
----
+```yaml
 title: builders/slowjamsteve
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-06-25
----
+last_updated: 2026-06-26
+```
 
-### who-they-are
-SlowJamSteve is a community builder who is actively engaged in developing various integrations and abilities within the community.
+## who-they-are
+SlowjamSteve is an active member of the builders community, focusing on creating and enhancing user experiences within the development kit ecosystem. There is currently limited information about their background and specific projects they are involved in.
 
-### what-they-built
-Details about specific abilities or integrations that SlowJamSteve has shipped are currently not available.
+## what-they-built
+While details about specific abilities or integrations that SlowjamSteve has shipped are not available, they are recognized as a contributor to the builder community.
 
-### grant-status
-stub
+## grant-status
+none
 
-### how-to-reach
-Discord handle and other contact details for SlowJamSteve are not available.
+## how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[developers]]
-[[community builders]]
-[[integrations]]
+[[builders]]
+[[developer tools]]
+[[community contributions]]
 
-<!-- synthesized: 2026-06-25T11:50:56Z -->
-```
+<!-- synthesized: 2026-06-26T11:50:41Z -->

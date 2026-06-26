@@ -3,27 +3,27 @@
 title: builders/pauldy
 entity_type: community builder
 status: stub
-last_updated: 2026-06-25
+last_updated: 2026-06-26
 ---
 
-### who-they-are
-Pauldy is an active member of the builders' community, contributing to various projects with a focus on development and integration.
+## who-they-are
+Pauldy is an active member of the builders community, contributing as a Homie and utilizing devkit tools to create innovative solutions.
 
-### what-they-built
-Details on specific abilities or integrations shipped by Pauldy are currently unavailable.
+## what-they-built
+Information on specific abilities or integrations shipped by Pauldy is currently not available.
 
-### grant-status
-none
+## grant-status
+stub
 
-### how-to-reach
-- Discord handle: Not publicly available
-- GitHub: Not publicly available
-- X: Not publicly available
+## how-to-reach
+Discord handle: Not available  
+GitHub: Not available  
+X/Twitter: Not available  
 
-### connects-to
+## connects-to
 [[builders]]
-[[community]]
-[[integrations]]
-
-<!-- synthesized: 2026-06-25T11:50:56Z -->
+[[devkit]]
+[[community builders]]
+[[Homie]]
+<!-- synthesized: 2026-06-26T11:50:41Z -->
 ```

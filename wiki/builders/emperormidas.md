@@ -3,24 +3,26 @@
 title: builders/emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-06-25
+last_updated: 2026-06-26
 ---
 
 ### who-they-are
-Emperor Midas is part of the active community of builders within the devkit holders ecosystem. They are engaged in developing and shipping various abilities and integrations as part of their contributions to the community.
+Emperormidas is an active community builder engaged in developing capabilities within the application ecosystem, focusing on innovation and support for users in the community.
 
 ### what-they-built
-Currently, specific details about the abilities or integrations that Emperor Midas has shipped are not available.
+Currently, there is no specific information available on the abilities or integrations that Emperormidas has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-06-25T11:50:56Z -->
+### connects-to
+[[builders]]
+[[community builders]]
+
+<!-- synthesized: 2026-06-26T11:50:41Z -->
 ```

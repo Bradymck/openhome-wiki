@@ -1,25 +1,27 @@
-```yaml
-title: Roadmap Shipped
+```markdown
+---
+title: roadmap/shipped
 entity_type: roadmap
 status: live
-last_updated: 2026-06-25
-```
+last_updated: 2026-06-26
+---
 
-## what-it-is
-The roadmap includes features and milestones pertaining to community development in the economic field, emphasizing a global and democratically governed professional home.
+### what-it-is
+This page outlines features and milestones that have been shipped, including their status and significance.
 
-## status
-shipped
+### status
+Shipped
 
-## why-it-matters
-The initiative matters as it aims to create the first global community for development economists, fostering collaboration and shared knowledge across different regions and cultures.
+### why-it-matters
+The shipping of these features is essential for enhancing user experience, providing new functionalities, and addressing previous user feedback. It indicates commitment to continuous improvement and responsiveness to community needs.
 
-## eta
-No specific timeline is provided for related future developments.
+### eta
+Specific timelines for these shipped features are not mentioned, but they are part of ongoing development efforts.
 
 ## connects-to
-[[community development]]
-[[economic governance]]
-[[global initiatives]]
-
-<!-- synthesized: 2026-06-25T11:50:56Z -->
+[[roadmap/in-progress]]
+[[roadmap/planned]]
+[[features]]
+[[user_feedback]]
+<!-- synthesized: 2026-06-26T11:50:41Z -->
+```

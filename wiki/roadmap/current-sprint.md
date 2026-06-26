@@ -2,27 +2,25 @@
 title: roadmap/current-sprint
 entity_type: roadmap
 status: stub
-last_updated: 2026-06-25
+last_updated: 2026-06-26
 ```
 
 ## what-it-is
-Current sprint for the ongoing development and updates of the IDEA community platform.
+The current sprint roadmap outlines the features and milestones that are either in progress or planned for future releases.
 
 ## status
 stub
 
 ## why-it-matters
-The development and updates aim to enhance user engagement by fostering a global professional community for development economists, promoting collaboration and sharing of ideas across continents.
+Understanding the current sprint is crucial for stakeholders to gauge project progress, align expectations, and ensure that development is on track with overall strategic goals.
 
 ## eta
-No specific timeline currently available.
+Rough timeline information is currently unavailable.
 
 ## connects-to
 [[roadmap]]
-[[IDEA]]
-[[community]]
-[[development]]
 [[sprint]]
+[[features]]
+[[milestones]]
 
-<!-- synthesized: 2026-06-25T11:50:56Z -->
-```
+<!-- synthesized: 2026-06-26T11:50:41Z -->

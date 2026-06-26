@@ -1,28 +1,30 @@
 ```markdown
 ---
-title: builders/illectric-co
+title: illectric-co
 entity_type: builders
 status: stub
-last_updated: 2026-06-25
+last_updated: 2026-06-26
 ---
 
-### who-they-are
-Illectric Co is a community of developers focused on building innovative solutions and integrations within the IDEA ecosystem. They are actively engaged in fostering collaboration and development within their field.
+## who-they-are
+Illectric-co is an active builder within the community, focusing on enhancing functionalities and capabilities for developers and users within various tech ecosystems. As Devkit holders, they are engaged in shipping novel abilities aimed at improving user interactions and experiences.
 
-### what-they-built
-Currently, there is no specific information available regarding the exact abilities or integrations that Illectric Co has shipped.
+## what-they-built
+Currently, there are no specific shipped abilities or integrations listed for Illectric-co.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-Discord handle: Not available  
-GitHub: Not available  
-X: Not available  
+## how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X/Twitter: Not provided
 
-### connects-to
+## connects-to
 [[builders]]
-[[IDEA ecosystem]]
+[[devkit]]
+[[community]]
+[[user roles]]
 
-<!-- synthesized: 2026-06-25T11:50:56Z -->
+<!-- synthesized: 2026-06-26T11:50:41Z -->
 ```
