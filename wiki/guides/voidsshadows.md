@@ -3,23 +3,23 @@
 title: "guides/voidsshadows"
 entity_type: "Community Guide"
 status: "stub"
-last_updated: 2026-06-26
+last_updated: 2026-06-27
 ---
 
 ### who-they-are
-Voidsshadows is recognized as a knowledgeable power user within the community, contributing insights and support to fellow members.
+Voidsshadows is a community guide recognized for their expertise in distributed computing methods and open-source collaboration.
 
 ### what-they-help-with
-Their expertise lies in guiding newcomers through the various functionalities of the platform, including offering assistance with user interfaces and troubleshooting common issues.
+They specialize in helping users understand and implement distributed computing solutions, particularly for large-scale projects. Their guidance is particularly useful for individuals looking to leverage analogous systems like Folding@home and cryptocurrency for resource pooling.
 
 ### how-to-reach
-Discord handle: Unknown
+Discord handle: Not specified.
 
 ## connects-to
 [[guides]]
-[[community-support]]
-[[troubleshooting]]
-[[user-experience]]
+[[distributed computing]]
+[[open source]]
+[[community resources]]
 
-<!-- synthesized: 2026-06-26T11:50:41Z -->
+<!-- synthesized: 2026-06-27T11:28:21Z -->
 ```

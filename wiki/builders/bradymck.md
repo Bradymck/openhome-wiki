@@ -1,26 +1,28 @@
-```yaml
-title: builders/bradymck
-entity_type: builder
-status: stub
-last_updated: 2026-06-26
-```
+```markdown
+---
+title: "builders/bradymck"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-06-27
+---
 
-## who-they-are
-Brady McK is an active community builder in the devkit ecosystem, participating as a Homie and User role. They are focused on developing and enhancing user experiences within the platform.
+### who-they-are
+Brady McK is an active community builder associated with the Homie and User roles, focusing on developing distributed computing methods for open-source applications.
 
-## what-they-built
-Information on specific shipped abilities or integrations by Brady McK is currently unavailable.
+### what-they-built
+Details on specific abilities or integrations that Brady McK has shipped are not provided in the available data.
 
-## grant-status
-none
+### grant-status
+Grant status information is not available.
 
-## how-to-reach
-- Discord: Not specified
+### how-to-reach
+- Discord handle: Not specified
 - GitHub: Not specified
-- X/Twitter: Not specified
+- X (Twitter): Not specified
 
-## connects-to
+### connects-to
 [[builders]]
-[[devkits]]
-[[community]]
-<!-- synthesized: 2026-06-26T11:50:41Z -->
+[[distributed_computing]]
+
+<!-- synthesized: 2026-06-27T11:28:21Z -->
+```

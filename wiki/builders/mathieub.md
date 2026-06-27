@@ -1,29 +1,26 @@
 ```markdown
 ---
 title: builders/mathieub
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-06-26
+last_updated: 2026-06-27
 ---
 
-### who-they-are
-Mathieu B. is a community builder engaged in developing integrations and abilities within the ecosystem. As a devkit holder, he is actively contributing to the community by shipping useful functionalities.
+## who-they-are
+Mathieub is an active member of the builders community, focusing on developing innovative solutions and integrations within the ecosystem. Specific details about their background or current projects remain unspecified.
 
-### what-they-built
-Currently, there are no specific details available regarding the exact abilities or integrations that Mathieu B. has shipped.
+## what-they-built
+Information about specific shipped abilities or integrations by Mathieub has not been provided at this time.
 
-### grant-status
-none
+## grant-status
+None
 
-### how-to-reach
-- Discord: not available
-- GitHub: not available
-- X: [@RoyalFamily](https://twitter.com/RoyalFamily)
+## how-to-reach
+Currently, there are no available contact details for Mathieub.
 
-### connects-to
+## connects-to
 [[builders]]
-[[devkits]]
-[[community builders]]
-
-<!-- synthesized: 2026-06-26T11:50:41Z -->
+[[integrations]]
+[[community]]
+<!-- synthesized: 2026-06-27T11:28:21Z -->
 ```

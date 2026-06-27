@@ -1,29 +1,28 @@
 ```markdown
 ---
 title: builders/shookdt
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-06-26
+last_updated: 2026-06-27
 ---
 
-## who-they-are
-Shookdt is a builder in the active community, contributing to various projects and initiatives as a devkit holder.
+### who-they-are
+Shookdt is an active builder in the community focused on developing methods for distributed computing within open source frameworks. Their vision aligns with creating solutions akin to established projects like Folding@home and cryptocurrency systems, aiming to harness collective resources effectively.
 
-## what-they-built
-Details on specific abilities or integrations shipped by Shookdt are currently unavailable.
+### what-they-built
+Details regarding specific abilities or integrations that Shookdt has shipped are currently unavailable, as no specific projects or products have been documented.
 
-## grant-status
-None
+### grant-status
+none
 
-## how-to-reach
-Discord handle: Not provided  
-GitHub: Not provided  
-X/Twitter: Not provided  
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[ability-1]]  
-[[ability-2]]  
-[[ability-3]]  
-
-<!-- synthesized: 2026-06-26T11:50:41Z -->
+### connects-to
+[[builders]]
+[[distributed computing]]
+[[open source]]
+<!-- synthesized: 2026-06-27T11:28:21Z -->
 ```

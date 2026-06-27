@@ -3,21 +3,23 @@
 title: guides/samuel35
 entity_type: Community Guide
 status: stub
-last_updated: 2026-06-26
+last_updated: 2026-06-27
 ---
 
-### who-they-are
-Samuel35 is identified as a Community Guide, serving as a knowledgeable resource within the community, particularly for new users or individuals seeking assistance.
+## who-they-are
+Samuel35 is a member of the community recognized for their contributions to guiding new users. They possess expertise in areas related to distributed computing and open-source software development.
 
-### what-they-help-with
-While specific specialties are not provided, as a Community Guide, Samuel35 likely assists with various onboarding processes, providing insights and guidance on community tools, best practices, or technical aspects related to the platform.
+## what-they-help-with
+Samuel35 specializes in providing insight into distributed computing methods and open-source projects. Their knowledge extends to advocating for large-scale resource pooling methods, similar to platforms like Folding@Home or cryptocurrency mining.
 
-### how-to-reach
-Discord handle for contacting Samuel35 is not available in the provided material.
+## how-to-reach
+Discord handle: samuel35
 
-### connects-to
-[[guides]]
-[[Community Guides]]
+## connects-to
+[[distributed computing]]
+[[open source]]
+[[Folding@Home]]
+[[cryptocurrency]]
 
-<!-- synthesized: 2026-06-26T11:50:41Z -->
+<!-- synthesized: 2026-06-27T11:28:21Z -->
 ```

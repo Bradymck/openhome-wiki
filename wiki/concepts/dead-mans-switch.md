@@ -1,27 +1,25 @@
-```markdown
----
-title: Dead Man's Switch
+```yaml
+title: concepts/dead-mans-switch
 entity_type: concepts
-status: live
-last_updated: 2026-06-26
----
+status: stub
+last_updated: 2026-06-27
+```
 
 ## definition
-A dead man's switch is a safety mechanism that triggers an event if the user becomes incapacitated or fails to interact with the device within a specified timeframe. It serves as an automated fallback to ensure continuity or safety, such as notifying designated individuals or taking pre-defined actions.
+A dead man's switch is a safety mechanism that triggers an action when the operator is unable to continue their function, often due to incapacitation or death. In digital contexts, it can refer to a feature that ensures certain actions or notifications are executed if the user becomes inactive for a specified period.
 
 ## why-it-matters
-In the context of OpenHome, a dead man's switch can enhance user security and provide peace of mind. It ensures that essential tasks are performed or that important information is communicated, particularly in scenarios where users may be unable to take action themselves. This concept is crucial for creating reliable home automation systems that prioritize user safety.
+In the context of OpenHome, a dead man's switch can enhance user security and peace of mind. By providing assurances that certain actions will be taken if the user is not active, it aligns with the platform's focus on user autonomy and safety.
 
 ## how-it-manifests
-This concept can manifest in various features of the OpenHome platform, such as automated alerts sent to family members or emergency services if a user fails to check in after a predetermined period. It may also be used in smart home devices that can lock themselves or disable functionality to prevent misuse when the primary user is unresponsive.
+This concept may appear as a feature within the OpenHome platform that prompts automated actions for users. For instance, if a user does not interact with their home environment for an extended period, the system could automatically send notifications, alert emergency contacts, or trigger other safety protocols.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/local-first]]
 [[concepts/voice-first]]
-[[concepts/spatial-intelligence]]
+[[concepts/local-first]]
 [[concepts/web3-native]]
+[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-26T11:50:41Z -->
-```
+<!-- synthesized: 2026-06-27T11:28:21Z -->

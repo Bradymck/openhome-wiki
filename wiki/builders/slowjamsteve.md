@@ -2,26 +2,26 @@
 title: builders/slowjamsteve
 entity_type: builders
 status: stub
-last_updated: 2026-06-26
+last_updated: 2026-06-27
 ```
 
 ## who-they-are
-SlowjamSteve is an active member of the builders community, focusing on creating and enhancing user experiences within the development kit ecosystem. There is currently limited information about their background and specific projects they are involved in.
+Slowjamsteve is a community builder engaged in developing integrations and capabilities within the decentralized ecosystem. Specific details about their background and the nature of their current projects remain unspecified.
 
 ## what-they-built
-While details about specific abilities or integrations that SlowjamSteve has shipped are not available, they are recognized as a contributor to the builder community.
+There is currently no information available on any shipped abilities or integrations related to Slowjamsteve.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+Discord handle: unknown  
+GitHub: unknown  
+X: unknown
 
 ## connects-to
-[[builders]]
-[[developer tools]]
-[[community contributions]]
+[[builders]]  
+[[integrations]]  
+[[community builders]]
 
-<!-- synthesized: 2026-06-26T11:50:41Z -->
+<!-- synthesized: 2026-06-27T11:28:21Z -->
