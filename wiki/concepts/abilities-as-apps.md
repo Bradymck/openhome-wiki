@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-06-27
-```
+last_updated: 2026-06-28
+---
 
-## definition
-The concept of "abilities-as-apps" refers to the approach of treating various capabilities and functionalities within a platform as standalone applications or modules. This allows users to seamlessly access and manage different abilities as if they were individual applications, enhancing user experience and modularity.
+### definition
+Abilities-as-apps refers to the concept of encapsulating various functionalities and capabilities within modular applications that can be utilized independently or in conjunction with other applications. This approach offers flexibility and scalability in how users interact with technology.
 
-## why-it-matters
-In the context of OpenHome, this concept is significant because it promotes flexibility and customization for users, enabling them to tailor their interactions with the platform according to their specific needs. By adopting this model, OpenHome can improve user engagement and satisfaction, making it easier to integrate new functionalities and update existing ones.
+### why-it-matters
+This concept is relevant to OpenHome as it emphasizes interoperability and user-centered design. By allowing users to customize their experiences through selectable applications, OpenHome can cater to a diverse range of needs and preferences, enhancing user engagement and satisfaction.
 
-## how-it-manifests
-Abilities-as-apps manifest within OpenHome as distinct modules that can be activated or deactivated by users. This modular architecture allows for a more dynamic and user-centric approach to home automation and management, where each ability functions independently but can also interact with others when needed.
+### how-it-manifests
+Abilities-as-apps can be seen in OpenHome's platform through its modular application architecture, enabling users to select and activate various abilities as they see fit. This flexibility allows for tailored home automation experiences, where different functionalities can be activated or deactivated based on user needs.
 
-## connects-to
+### connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -22,4 +23,5 @@ Abilities-as-apps manifest within OpenHome as distinct modules that can be activ
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-27T11:28:21Z -->
+<!-- synthesized: 2026-06-28T11:30:52Z -->
+```

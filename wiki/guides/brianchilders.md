@@ -1,23 +1,23 @@
-```yaml
+```markdown
+---
 title: guides/brianchilders
-entity_type: Community Guide
+entity_type: guides
 status: stub
-last_updated: 2026-06-27
-```
+last_updated: 2026-06-28
+---
 
 ## who-they-are
-Brian Childers is a community guide known for his contributions to the open-source community and distributed computing methods.
+Brian Childers is a community guide known for his contributions to onboarding new users within the community. His background includes extensive involvement in various online platforms and tech-related discussions.
 
 ## what-they-help-with
-Brian specializes in onboarding new users, guiding them through the complexities of distributed computing, and employing methods similar to those used in projects like Folding@home and cryptocurrency mining.
+Brian specializes in supporting individuals navigating community tools and resources. He provides guidance on utilizing APIs, managing hardware, and maximizing the use of software applications beneficial to new users.
 
 ## how-to-reach
-Discord Handle: Not available
+Discord handle: @brianchilders
 
 ## connects-to
 [[guides]]
-[[distributed_computing]]
-[[open_source]]
-[[Folding@home]]
-
-<!-- synthesized: 2026-06-27T11:28:21Z -->
+[[community]]
+[[support]]
+<!-- synthesized: 2026-06-28T11:30:52Z -->
+```

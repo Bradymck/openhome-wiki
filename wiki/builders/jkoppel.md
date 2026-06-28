@@ -1,29 +1,26 @@
 ```markdown
 ---
-title: jkoppel
-entity_type: builders
+title: builders/jkoppel
+entity_type: builder
 status: stub
-last_updated: 2026-06-27
+last_updated: 2026-06-28
 ---
 
-### who-they-are
-jkoppel is an active community builder involved in the development and innovation of distributed computing methodologies, particularly for open-source applications.
+## who-they-are
+jkoppel is an active builder in the developer community, focusing on creating solutions using the available tools and technologies.
 
-### what-they-built
-No specific shipped abilities or integrations have been documented for jkoppel as of now.
+## what-they-built
+Details on specific abilities or integrations built by jkoppel are currently unavailable.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-[[builders]]
-[[distributed-computing]]
-[[open-source]]
-
-<!-- synthesized: 2026-06-27T11:28:21Z -->
+## connects-to
+[[abilities]]
+<!-- synthesized: 2026-06-28T11:30:52Z -->
 ```

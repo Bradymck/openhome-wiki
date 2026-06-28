@@ -3,21 +3,21 @@
 title: guides/skillstone
 entity_type: Community Guide
 status: stub
-last_updated: 2026-06-27
+last_updated: 2026-06-28
 ---
 
 ## who-they-are
-Information not available.
+Information about the background and expertise of the skillstone guides is currently unavailable.
 
 ## what-they-help-with
-Information not available.
+The specific specialties of the skillstone guides, including capabilities related to abilities, hardware, APIs, etc., are not detailed.
 
 ## how-to-reach
-Information not available.
+Contact information, including Discord handles, for the skillstone guides is not provided.
 
 ## connects-to
 [[guides]]
 [[skillstone]]
 
-<!-- synthesized: 2026-06-27T11:28:21Z -->
+<!-- synthesized: 2026-06-28T11:30:52Z -->
 ```

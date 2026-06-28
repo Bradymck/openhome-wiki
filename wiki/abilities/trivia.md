@@ -1,30 +1,28 @@
-```markdown
----
-title: Trivia
+```yaml
+title: abilities/trivia
 entity_type: abilities
 status: live
-last_updated: 2026-06-27
----
+last_updated: 2026-06-28
+```
 
 ### what-it-does
-The Trivia ability offers users the opportunity to engage in fun and challenging trivia questions across various topics. It provides an interactive experience that can be played solo or with friends, making it a versatile entertainment option.
+The trivia ability allows users to engage with a variety of trivia questions across multiple categories, enhancing knowledge and providing entertainment.
 
 ### how-to-build
-To create the Trivia ability, developers can utilize the trivia question API to fetch questions from a diverse range of categories. The ability can be built using a combination of JavaScript for logic handling and a backend server for managing the question database. It is recommended to implement a scoring system and multiplayer capabilities to enhance user engagement.
+To create the trivia ability, developers should utilize a trivia question API to fetch questions in real-time. Developers can create a customizable interface for users to select categories and difficulty levels for the trivia questions. Integration with chat platforms such as Discord or Slack can enhance user engagement.
 
 ### category
 entertainment
 
 ### built-by
-[[abilities/trivia-dev]]
+[[abilities/trivia]]
 
 ### status
 live
 
 ### connects-to
-[[abilities/news-brief]]
-[[abilities/deadman-fm]]
 [[abilities/aquaprime]]
+[[abilities/deadman-fm]]
+[[abilities/news-brief]]
 
-<!-- synthesized: 2026-06-27T11:28:21Z -->
-```
+<!-- synthesized: 2026-06-28T11:30:52Z -->
