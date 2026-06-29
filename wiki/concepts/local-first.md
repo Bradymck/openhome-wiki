@@ -1,19 +1,18 @@
-```markdown
----
+```yaml
 title: concepts/local-first
 entity_type: concepts
-status: live
-last_updated: 2026-06-28
----
+status: stub
+last_updated: 2026-06-29
+```
 
 ## definition
-The local-first concept emphasizes the importance of data and applications being primarily managed on local devices rather than depending on centralized cloud services. This allows for enhanced accessibility, performance, and control over one’s data.
+Local-first refers to a design approach where applications prioritize local data storage and processing, enabling seamless access and functionality even in the absence of internet connectivity.
 
 ## why-it-matters
-In the context of OpenHome, local-first ensures that users have a reliable and fast experience regardless of their internet connectivity. It promotes user autonomy and privacy by allowing individuals to keep their data on their personal devices rather than relying on potentially insecure external servers.
+This concept is crucial for OpenHome as it enhances user experience by providing reliable access to data and applications without requiring constant internet connectivity. It empowers users by ensuring their data remains accessible and functional locally, thus fostering autonomy and reducing dependency on centralized services.
 
 ## how-it-manifests
-This concept appears in OpenHome through features that facilitate local storage, enabling applications to function effectively without continuous internet access. Users can interact with their devices and access important information seamlessly, even in offline modes.
+In the OpenHome platform, local-first principles may appear through features that allow users to store their preferences, settings, or data locally on their devices. This can include offline capabilities for applications, caching frequently accessed content, and synchronization features that update local data once a connection is reestablished.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +22,4 @@ This concept appears in OpenHome through features that facilitate local storage,
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-28T11:30:52Z -->
-```
+<!-- synthesized: 2026-06-29T12:29:32Z -->

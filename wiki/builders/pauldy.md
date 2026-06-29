@@ -1,29 +1,26 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builder
+entity_type: community builder
 status: stub
-last_updated: 2026-06-28
+last_updated: 2026-06-29
 ---
 
-### who-they-are
-Pauldy is an active member of the builders community, known for their contributions as a Homie and User roles within the ecosystem. Further background information regarding their previous experience or specific projects they are working on is currently unavailable.
+## who-they-are
+Pauldy is an active community builder within the developers' ecosystem, known for their involvement with Homie and user roles. Details about their background and specific projects they are working on have not been provided.
 
-### what-they-built
-As of now, there are no documented abilities or integrations that Pauldy has shipped. Additional details on any potential projects or contributions are needed to provide a comprehensive overview.
+## what-they-built
+Information regarding the specific abilities or integrations that Pauldy has shipped is currently unavailable.
 
-### grant-status
-None
+## grant-status
+Information regarding any grants applied for or received is not currently available.
 
-### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+- Discord handle: Unknown
+- GitHub: Unknown
+- X (Twitter): Unknown
 
-### connects-to
-[[builders]]
-[[community]]
-[[devkit]]
-
-<!-- synthesized: 2026-06-28T11:30:52Z -->
+## connects-to
+[[abilities]]
+<!-- synthesized: 2026-06-29T12:29:32Z -->
 ```

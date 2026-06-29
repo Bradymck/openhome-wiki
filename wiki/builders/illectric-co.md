@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: builders/illectric-co
+title: illectric-co
 entity_type: builders
 status: stub
-last_updated: 2026-06-28
+last_updated: 2026-06-29
 ---
 
-## who-they-are
-Illectric Co. is a community-focused initiative aimed at fostering engagement and development within the tech ecosystem. They are recognized for their efforts in providing resources and support for developers and creators in the space.
+### who-they-are
+Illectric Co is a community-focused builder within the Homie ecosystem. They engage actively in the development of innovative solutions and applications, leveraging their expertise and resources to enhance community functionalities.
 
-## what-they-built
-Details on specific abilities or integrations shipped by Illectric Co. are currently not available.
+### what-they-built
+Specific projects and abilities that Illectric Co has built or shipped are currently not detailed or documented.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord handle: Not specified
 - GitHub: Not specified
 - X/Twitter: Not specified
 
-## connects-to
+### connects-to
 [[builders]]
-[[community-engagement]]
-[[developer-resources]]
+[[Homie]]
+[[community]]
 
-<!-- synthesized: 2026-06-28T11:30:52Z -->
+<!-- synthesized: 2026-06-29T12:29:32Z -->
 ```

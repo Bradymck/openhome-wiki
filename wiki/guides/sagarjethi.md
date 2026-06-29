@@ -1,23 +1,25 @@
 ```markdown
 ---
-title: guides/sagarjethi
-entity_type: Community Guide
+title: Sagarjethi
+entity_type: guides/sagarjethi
 status: stub
-last_updated: 2026-06-28
+last_updated: 2026-06-29
 ---
 
 ## who-they-are
-Sagarjethi is a recognized community member who has actively contributed to various discussions within the community, showcasing their expertise in navigating complex topics and providing insights.
+Sagarjethi is a community guide known for their extensive involvement and experience in various community discussions. They come from a background where engagement in sports and local games played a significant role in their upbringing, showcasing a strong connection to grassroots activities.
 
 ## what-they-help-with
-While specific details about their specialties, services, or technical skills are not available in the current sources, Sagarjethi is known for engaging with a range of topics that indicate a level of expertise in community interactions and assistance.
+Sagarjethi specializes in providing support and insights related to sports discussions, particularly in the context of football. They are familiar with community dynamics and can assist users in navigating community channels, best practices in engaging with others, and general advice related to sports and well-being.
 
 ## how-to-reach
-You can connect with Sagarjethi on Discord; their handle is not specified in the available sources.
+Discord handle: Sagarjethi
 
 ## connects-to
 [[guides]]
-[[community_guides]]
+[[community]]
+[[football]]
+[[sports]]
 [[Discord]]
-<!-- synthesized: 2026-06-28T11:30:52Z -->
+<!-- synthesized: 2026-06-29T12:29:32Z -->
 ```

@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: builders/bradymck
-entity_type: builder
+title: Brady McK
+entity_type: builders
 status: stub
-last_updated: 2026-06-28
+last_updated: 2026-06-29
 ---
 
 ### who-they-are
-Brady McK is a community builder active within the development ecosystem, focusing on enhancing integrations and features for users. While specific details about their background and the particular projects they are developing are not currently available, their involvement suggests a commitment to fostering community growth and innovation.
+Brady McK is a community builder and a holder of the devkit, actively engaged in developing and shipping capabilities within the community.
 
 ### what-they-built
-Information regarding specific abilities or integrations that Brady McK has shipped is not provided at this time. Further updates may reveal contributions that can enhance user experience or functionality within the community.
+Details about specific abilities or integrations that Brady McK has shipped are currently unavailable.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-Discord handle: Not available  
-GitHub: Not available  
-X (Twitter): Not available  
+- Discord handle: Unknown
+- GitHub: Unknown
+- X: @FIFAWorldCup
 
-### connects-to
-[[builders]]
+## connects-to
+[[abilities]]
 [[community builders]]
-[[developer integrations]]
+[[devkit holders]]
 
-<!-- synthesized: 2026-06-28T11:30:52Z -->
+<!-- synthesized: 2026-06-29T12:29:32Z -->
 ```

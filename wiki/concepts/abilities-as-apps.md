@@ -3,17 +3,17 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-06-28
+last_updated: 2026-06-29
 ---
 
 ### definition
-Abilities-as-apps refers to the concept of encapsulating various functionalities and capabilities within modular applications that can be utilized independently or in conjunction with other applications. This approach offers flexibility and scalability in how users interact with technology.
+Abilities-as-apps refers to the concept of encapsulating functionalities within applications that users can interact with. This allows for a modular approach where various abilities or features can be implemented as standalone apps, making them easily accessible and manageable.
 
 ### why-it-matters
-This concept is relevant to OpenHome as it emphasizes interoperability and user-centered design. By allowing users to customize their experiences through selectable applications, OpenHome can cater to a diverse range of needs and preferences, enhancing user engagement and satisfaction.
+This concept is vital to the OpenHome ecosystem as it promotes flexibility and user empowerment. By allowing users to customize their experience through the activation or deactivation of specific abilities, it enhances user satisfaction and engagement.
 
 ### how-it-manifests
-Abilities-as-apps can be seen in OpenHome's platform through its modular application architecture, enabling users to select and activate various abilities as they see fit. This flexibility allows for tailored home automation experiences, where different functionalities can be activated or deactivated based on user needs.
+Abilities-as-apps appear in the OpenHome platform as various applications that users can install or enable based on their needs. This modular architecture supports a range of functionalities, from basic to advanced features, tailored to individual user preferences.
 
 ### connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ Abilities-as-apps can be seen in OpenHome's platform through its modular applica
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-28T11:30:52Z -->
+<!-- synthesized: 2026-06-29T12:29:32Z -->
 ```

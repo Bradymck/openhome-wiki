@@ -2,24 +2,21 @@
 title: dead-mans-switch
 entity_type: concepts
 status: stub
-last_updated: 2026-06-28
+last_updated: 2026-06-29
 ```
 
 ## definition
-A dead man's switch is a safety mechanism that automatically triggers a specific action when the operator becomes incapacitated or unable to perform their duties. This concept can be applied in various contexts, including technology and personal safety.
+A dead man's switch is a safety mechanism designed to automatically trigger a specific action when the operator becomes incapacitated or unable to perform their duties. This concept ensures that a system or process continues to function or to be properly disabled in the absence of human intervention.
 
 ## why-it-matters
-In the context of OpenHome, a dead man's switch can enhance user control and privacy by ensuring that actions or permissions automatically reset or require re-authorization in cases of inactivity or loss of control. This mechanism can safeguard user data and prevent unauthorized access to personal assets or settings.
+In the context of OpenHome, dead man's switches can enhance security and reliability, ensuring that members are not left vulnerable if a key participant becomes inactive. This mechanism can safeguard user data and maintain flow within decentralized applications, contributing to a more robust and reliable ecosystem.
 
 ## how-it-manifests
-While specific implementations of a dead man's switch within the OpenHome platform are not detailed, it could manifest in features such as automated shutdowns of services, notifications to designated contacts when there is no activity for a period, or the temporary locking of user data until verification is performed.
+In OpenHome, dead man's switches could be integrated into various features where user activity is critical for functionality. For example, users might set conditions under which their account will automatically take actions, such as notifying contacts or dispersing assets, if they do not engage with the platform for a predetermined duration. 
 
 ## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-28T11:30:52Z -->
+<!-- synthesized: 2026-06-29T12:29:32Z -->
