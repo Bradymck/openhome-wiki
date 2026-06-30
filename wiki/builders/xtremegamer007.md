@@ -1,29 +1,27 @@
 ```markdown
 ---
 title: builders/xtremegamer007
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-06-29
+last_updated: 2026-06-30
 ---
 
-## who-they-are
-xtremegamer007 is a member of the active builders community, recognized for their involvement in projects that enhance user interactions within the gaming space. They have a strong interest in community-driven development and are focused on leveraging technology to create engaging experiences for gamers.
+### who-they-are
+Xtremegamer007 is an active member of the builders community, known for engaging in creating innovative digital experiences. They focus on developing interactive abilities within various platforms, leveraging their skills as a devkit holder.
 
-## what-they-built
-Currently, there are no specific shipped abilities or integrations documented under xtremegamer007. They are part of a growing community of developers and have the potential to contribute in various ways, but detailed project achievements are not yet available.
+### what-they-built
+Specific shipped abilities or integrations developed by Xtremegamer007 are currently not documented or available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X (Twitter): Not specified
+### how-to-reach
+- Discord: Not available
+- GitHub: Not available
+- X: Not available
 
-## connects-to
-[[builders]]
-[[gaming]]
-[[community]]
-[[development]]
-<!-- synthesized: 2026-06-29T12:29:32Z -->
+### connects-to
+[[abilities]]
+
+<!-- synthesized: 2026-06-30T11:50:49Z -->
 ```

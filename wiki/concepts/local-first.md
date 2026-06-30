@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-06-29
-```
+last_updated: 2026-06-30
+---
 
-## definition
-Local-first refers to a design approach where applications prioritize local data storage and processing, enabling seamless access and functionality even in the absence of internet connectivity.
+### definition
+Local-first is a software design approach that prioritizes the local experience of users and devices, ensuring that applications can function with reduced reliance on cloud services.
 
-## why-it-matters
-This concept is crucial for OpenHome as it enhances user experience by providing reliable access to data and applications without requiring constant internet connectivity. It empowers users by ensuring their data remains accessible and functional locally, thus fostering autonomy and reducing dependency on centralized services.
+### why-it-matters
+This approach is relevant to OpenHome as it enhances user autonomy, reduces latency, and enables functionality even in offline scenarios. By placing emphasis on local resources, it aligns with the ideals of user-centric platforms, promoting reliability and accessibility.
 
-## how-it-manifests
-In the OpenHome platform, local-first principles may appear through features that allow users to store their preferences, settings, or data locally on their devices. This can include offline capabilities for applications, caching frequently accessed content, and synchronization features that update local data once a connection is reestablished.
+### how-it-manifests
+In OpenHome, local-first principles may be observed in features that allow users to manage their data and preferences without needing constant internet connectivity. The platform may leverage local storage, enabling interactions and transactions to proceed even when offline, thereby ensuring a seamless user experience.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -22,4 +23,5 @@ In the OpenHome platform, local-first principles may appear through features tha
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-29T12:29:32Z -->
+<!-- synthesized: 2026-06-30T11:50:49Z -->
+```

@@ -1,28 +1,26 @@
-```markdown
----
-title: Voice AI
+```yaml
+title: platform/voice-ai
 entity_type: platform
-status: stub
-last_updated: 2026-06-29
----
-
-### what-it-is
-Voice AI refers to artificial intelligence technologies that enable devices to understand and respond to verbal commands. This includes natural language processing (NLP) capabilities allowing for human-like conversations and responses by the system.
-
-### how-it-works
-Voice AI systems utilize advanced algorithms to process spoken language, interpret user intent, and generate spoken or textual responses. They often integrate machine learning to improve performance over time by learning from user interactions. Voice AI can be embedded in various platforms and connected to other devices, enhancing user experience through seamless voice interactions.
-
-### current-status
-stub
-
-### connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
-
-<!-- synthesized: 2026-06-29T12:29:32Z -->
+status: planned
+last_updated: 2026-06-30
 ```
+
+## what-it-is
+Voice AI is an advanced technology that enables devices and applications to interpret and respond to human speech. It functions as a key component within the OpenHome platform, allowing users to interact with their home systems using natural language.
+
+## how-it-works
+Voice AI leverages sophisticated natural language processing (NLP) algorithms to convert spoken commands into actionable tasks. Users can issue commands or ask questions, and the system processes these inputs to provide appropriate responses or execute actions. The architecture typically includes a combination of speech recognition, machine learning models, and links to various home automation systems, thereby enabling seamless interaction with a range of devices.
+
+## current-status
+planned
+
+## connects-to
+- [[platform/openhome]]
+- [[platform/speakers]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/local-link]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
+
+<!-- synthesized: 2026-06-30T11:50:49Z -->

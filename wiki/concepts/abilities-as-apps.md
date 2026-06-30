@@ -3,17 +3,17 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-06-29
+last_updated: 2026-06-30
 ---
 
 ### definition
-Abilities-as-apps refers to the concept of encapsulating functionalities within applications that users can interact with. This allows for a modular approach where various abilities or features can be implemented as standalone apps, making them easily accessible and manageable.
+Abilities-as-apps refers to a modular approach where various functionalities within a platform are accessible and operable as standalone applications. This allows users to engage with specific features independently, enhancing personalization and usability.
 
 ### why-it-matters
-This concept is vital to the OpenHome ecosystem as it promotes flexibility and user empowerment. By allowing users to customize their experience through the activation or deactivation of specific abilities, it enhances user satisfaction and engagement.
+This concept is significant to OpenHome as it promotes flexibility and user choice, enabling individuals to select only the functionalities they need. This enhances user experience and encourages broader engagement with the platform.
 
 ### how-it-manifests
-Abilities-as-apps appear in the OpenHome platform as various applications that users can install or enable based on their needs. This modular architecture supports a range of functionalities, from basic to advanced features, tailored to individual user preferences.
+In OpenHome, abilities-as-apps are manifested through an array of independent applications that users can enable or disable based on their preferences. Each app delivers specific capabilities, allowing users to tailor their experience according to personal needs and contexts.
 
 ### connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ Abilities-as-apps appear in the OpenHome platform as various applications that u
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-06-29T12:29:32Z -->
+<!-- synthesized: 2026-06-30T11:50:49Z -->
 ```

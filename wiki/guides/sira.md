@@ -1,23 +1,25 @@
 ```markdown
 ---
-title: guides/sira
-entity_type: Community Guide
+title: Sira Community Guide
+entity_type: guides/sira
 status: stub
-last_updated: 2026-06-29
+last_updated: 2026-06-30
 ---
 
-### who-they-are
-Sira is a community guide known for their expertise in helping new users navigate complex systems and platforms within the gaming community.
+## who-they-are
+Sira is a community guide known for their expertise in helping users navigate various digital platforms. Their background includes significant experience as a power user within multiple online communities, allowing them to assist others with onboarding processes effectively.
 
-### what-they-help-with
-Sira specializes in onboarding new players, offering support related to gameplay strategies, hardware recommendations, and optimizing user experiences using APIs. Their knowledge encompasses various gaming genres and community engagement techniques.
+## what-they-help-with
+Sira specializes in providing guidance on using specific hardware, software, and APIs. They focus on making complex systems accessible, helping new users understand the functionalities and maximizing their experience.
 
-### how-to-reach
-Sira can be contacted through their Discord handle: Sira#1234.
+## how-to-reach
+You can reach Sira through their Discord handle: @sira.
 
 ## connects-to
-[[guides]]
-[[community-support]]
-[[gaming-strategies]]
-<!-- synthesized: 2026-06-29T12:29:32Z -->
+[[community guides]]
+[[onboarding]]
+[[hardware support]]
+[[API help]]
+
+<!-- synthesized: 2026-06-30T11:50:49Z -->
 ```
