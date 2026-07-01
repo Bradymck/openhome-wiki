@@ -1,25 +1,29 @@
-```yaml
-title: builders/mathieub
-entity_type: builder
-status: stub
-last_updated: 2026-06-30
-```
+```markdown
+---
+title: "builders/mathieub"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-07-01
+---
 
-## who-they-are
-Mathieu B. is an active community builder with a focus on developing innovative solutions and integrations within the ecosystem. They engage with other members and contribute as a devkit holder.
+### who-they-are
+Mathieu B. is a developer focused on building tools and integrations for the AI and tech community. Their expertise lies in harnessing AI technologies to improve accessibility and functionality in software applications.
 
-## what-they-built
-Information about specific abilities or integrations that Mathieu has shipped is currently not available.
+### what-they-built
+Details on specific shipped abilities or integrations are currently unavailable.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: N/A
-- GitHub: N/A
-- X (Twitter): N/A
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[wikilinks]]
+[[Home AI Inference Stack]]
+[[OSS Glasses]]
+[[Local Models]]
 
-<!-- synthesized: 2026-06-30T11:50:49Z -->
+<!-- synthesized: 2026-07-01T11:59:22Z -->
+```

@@ -1,25 +1,29 @@
 ```markdown
 ---
 title: builders/shookdt
-entity_type: builders
+entity_type: community builder
 status: stub
-last_updated: 2026-06-30
+last_updated: 2026-07-01
 ---
 
-### who-they-are
-Information about builders/shookdt is currently insufficient.
+## who-they-are
+Shookdt is an active community builder and devkit holder focused on integrating and enhancing personal AI capabilities.
 
-### what-they-built
-Specific details regarding the abilities or integrations shipped by builders/shookdt are not available at this time.
+## what-they-built
+Details on specific shipped abilities or integrations by Shookdt are currently unlisted.
 
-### grant-status
-The grant status for builders/shookdt is not known.
+## grant-status
+none
 
-### how-to-reach
-Contact information for builders/shookdt has not been provided.
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X (Twitter): Not specified
 
 ## connects-to
-No related pages are currently available for this entry.
-
-<!-- synthesized: 2026-06-30T11:50:49Z -->
+[[abilities]]
+[[integrations]]
+[[AI]]
+[[community builders]]
+<!-- synthesized: 2026-07-01T11:59:22Z -->
 ```

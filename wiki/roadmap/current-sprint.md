@@ -1,28 +1,25 @@
-```markdown
----
-title: roadmap/current-sprint
-entity_type: roadmap
-status: stub
-last_updated: 2026-06-30
----
+```yaml
+title: "roadmap/current-sprint"
+entity_type: "roadmap"
+status: "stub"
+last_updated: 2026-07-01
+```
 
-### what-it-is
-The "roadmap/current-sprint" refers to the ongoing development and iteration process for current projects and features within the organization.
+## what-it-is
+This page summarizes the current sprint within the development roadmap, including upcoming features, ongoing tasks, and recently shipped milestones.
 
-### status
+## status
 stub
 
-### why-it-matters
-This roadmap helps track the progress of features and milestones, enabling stakeholders to understand what is being developed, what is completed, and what to expect in the future.
+## why-it-matters
+The development roadmap is essential for tracking progress and establishing priorities in product updates, ensuring teams are aligned on objectives and timelines.
 
-### eta
-Rough timeline details are currently unspecified.
+## eta
+No specific timeline information available.
 
 ## connects-to
 [[roadmap]]
 [[sprint]]
-[[development]]
-[[features]]
+[[product-updates]]
 
-<!-- synthesized: 2026-06-30T11:50:49Z -->
-```
+<!-- synthesized: 2026-07-01T11:59:22Z -->

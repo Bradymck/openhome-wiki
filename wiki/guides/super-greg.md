@@ -3,22 +3,23 @@
 title: guides/super-greg
 entity_type: Community Guide
 status: stub
-last_updated: 2026-06-30
+last_updated: 2026-07-01
 ---
 
 ### who-they-are
-Super Greg is a community guide known for their extensive experience and knowledge within the community, providing support and mentorship to new users.
+Super Greg is a power user in the community, recognized for his expertise in various technologies and tools that support AI and local models.
 
 ### what-they-help-with
-Super Greg specializes in onboarding newcomers, helping them navigate the platform's features and functionalities. Their expertise includes guiding users through hardware installations, utilizing various APIs, and enhancing user experiences through practical tips and recommendations.
+Super Greg specializes in guiding users on how to jailbreak devices, make software open-source, and establish connections with home AI Inference Stacks. He offers insights into managing personal data through local/self-hosted frontier models.
 
 ### how-to-reach
-Discord Handle: SuperGreg#1234
+Discord handle: SuperGreg
 
-### connects-to
+## connects-to
 [[guides]]
-[[community-guides]]
-[[onboarding]]
+[[AI Inference]]
+[[open-source]]
+[[local models]]
 
-<!-- synthesized: 2026-06-30T11:50:49Z -->
+<!-- synthesized: 2026-07-01T11:59:22Z -->
 ```

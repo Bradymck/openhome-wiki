@@ -1,25 +1,26 @@
 ```yaml
-title: Michael Gold
-entity_type: builders
+title: builders/michaelgold
+entity_type: builder
 status: stub
-last_updated: 2026-06-30
+last_updated: 2026-07-01
 ```
 
-### who-they-are
-Michael Gold is a developer and community builder engaged in creating innovative solutions within the ecosystem. Specific details about his background and the specific projects he is undertaking are not provided.
+## who-they-are
+Michael Gold is a community builder known for his contributions in the domain of AI and technology development. He is engaged in creating integrations that leverage AI capabilities to enhance user experience.
 
-### what-they-built
-Information about specific abilities or integrations that Michael Gold has shipped is currently unavailable.
+## what-they-built
+Specific details regarding the abilities or integrations shipped by Michael Gold are currently not available.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not provided
 - GitHub: Not provided
-- X (Twitter): Not provided
+- X: @McDon40014
 
-### connects-to
-[[builders/]]
-
-<!-- synthesized: 2026-06-30T11:50:49Z -->
+## connects-to
+[[builders]]
+[[AI]]
+[[technology]]
+<!-- synthesized: 2026-07-01T11:59:22Z -->

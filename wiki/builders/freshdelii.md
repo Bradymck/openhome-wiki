@@ -1,29 +1,28 @@
 ```markdown
 ---
 title: builders/freshdelii
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-06-30
+last_updated: 2026-07-01
 ---
 
 ### who-they-are
-Freshdelii is an emerging community builder focused on creating innovative solutions for local markets. They are passionate about leveraging technology to enhance accessibility and improve services for community members.
+FreshDelii is an active community builder focused on enhancing the intersection of local models and open-source software (OSS). Their initiatives revolve around facilitating greater data interaction in daily life through innovative integrations.
 
 ### what-they-built
-Details about specific shipped abilities or integrations by Freshdelii are not currently available.
+Details on specific shipped abilities or integrations by FreshDelii are currently not available. However, their efforts suggest a focus on local AI model enhancements connected to personal data management.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
 
-### connects-to
-[[builders]]
-[[community initiatives]]
-[[local market solutions]]
-
-<!-- synthesized: 2026-06-30T11:50:49Z -->
+## connects-to
+[[local AI models]]
+[[open-source software]]
+[[data management]]
+<!-- synthesized: 2026-07-01T11:59:22Z -->
 ```

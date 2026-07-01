@@ -1,28 +1,30 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: community builder
+entity_type: builder
 status: stub
-last_updated: 2026-06-30
+last_updated: 2026-07-01
 ---
 
-## who-they-are
-Pauldy is an active member of the community involved in building innovative solutions within the development kit ecosystem. While specific details about their background and individual projects are not available, they are recognized as a contributor in the space.
+### who-they-are
+Pauldy is a community builder focusing on integrating local AI models and self-hosted solutions. They advocate for open-source technologies and emphasize the importance of personal data management through user-controlled systems.
 
-## what-they-built
-Currently, there is no specific information on the abilities or integrations that Pauldy has shipped. Details about their contributions and the technologies they are developing are not provided.
+### what-they-built
+No specific abilities or integrations have been officially documented at this time.
 
-## grant-status
-None
+### grant-status
+none
 
-## how-to-reach
-No contact information is available for Pauldy, including Discord handle, GitHub, or X/Twitter.
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X/Twitter: Not specified
 
 ## connects-to
-[[builders]]
-[[community builders]]
-[[devkits]]
-[[innovative solutions]]
+[[AI Integration]]  
+[[Open Source]]  
+[[Local Models]]  
+[[Community Building]]
 
-<!-- synthesized: 2026-06-30T11:50:49Z -->
+<!-- synthesized: 2026-07-01T11:59:22Z -->
 ```
