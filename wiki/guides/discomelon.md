@@ -3,23 +3,22 @@
 title: guides/discomelon
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 ---
 
 ### who-they-are
-Discomelon is a community guide specializing in onboarding users to various tools and technologies within the AI ecosystem. Their background includes extensive experience in machine learning techniques and community engagement.
+Discomelon is a community guide with a background in assisting users in navigating various tools and platforms used in digital environments. Their expertise lies in onboarding new users and providing insights into best practices.
 
 ### what-they-help-with
-Discomelon helps users navigate the complexities of AI tools and platforms, focusing on enhancing user understanding of local and self-hosted models. Their expertise includes various APIs and hardware relevant to AI applications.
+Discomelon specializes in helping users understand complex systems, particularly in digital tools and collaboration platforms. They may assist with hardware setups, software configurations, and troubleshooting common issues that users face when adapting to new technologies.
 
 ### how-to-reach
-Discord Handle: Discomelon#1234
+Discord handle: Discomelon#1234
 
 ### connects-to
 [[guides]]
-[[AI Tools]]
-[[community-support]]
-[[local-models]]
+[[support]]
+[[community-resources]]
 
-<!-- synthesized: 2026-07-01T11:59:22Z -->
+<!-- synthesized: 2026-07-02T11:45:20Z -->
 ```

@@ -2,18 +2,18 @@
 ---
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: planned
-last_updated: 2026-07-01
+status: live
+last_updated: 2026-07-02
 ---
 
 ## definition
-Abilities-as-apps refers to the concept of packaging individual capabilities or functionalities as applications that can be easily accessed and utilized within a given platform. This approach allows users to integrate specific features seamlessly into their environments, enhancing user experience and interaction.
+Abilities-as-apps refer to the concept of modular functionalities or skills within a platform that can be accessed as distinct applications. This paradigm allows users to utilize specific capabilities without having to engage with the entire system.
 
 ## why-it-matters
-In the context of OpenHome, abilities-as-apps play a crucial role in enabling personalized and modular experiences. Users can select and customize their interactions with technology, optimizing the platform to better fit their daily needs and preferences. This adaptability enhances user engagement and satisfaction.
+This concept is crucial for OpenHome as it enhances user experience by providing customization and flexibility. Users can select and utilize only the abilities that are pertinent to their needs, thereby streamlining their interaction with the platform and increasing efficiency.
 
 ## how-it-manifests
-This concept manifests within the OpenHome platform through various customizable applications that users can deploy. These applications may include smart home controls, personalized routines, or AI-driven assistants, allowing users to tailor their interactions based on their unique circumstances and preferences.
+In OpenHome, abilities-as-apps can appear in various ways, such as through customizable user interfaces where users can add or remove functionalities based on personal preferences. This modular approach allows for unique combinations of features tailored to individual user requirements.
 
 ## connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ This concept manifests within the OpenHome platform through various customizable
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-01T11:59:22Z -->
+<!-- synthesized: 2026-07-02T11:45:20Z -->
 ```

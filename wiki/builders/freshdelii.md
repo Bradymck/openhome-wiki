@@ -1,28 +1,27 @@
-```markdown
----
+```yaml
 title: builders/freshdelii
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-07-01
----
+last_updated: 2026-07-02
+```
 
-### who-they-are
-FreshDelii is an active community builder focused on enhancing the intersection of local models and open-source software (OSS). Their initiatives revolve around facilitating greater data interaction in daily life through innovative integrations.
+# who-they-are
+FreshDelii is an active community builder focused on enhancing the capabilities of digital platforms for users within the web3 ecosystem. They are known for their commitment to innovation and user engagement.
 
-### what-they-built
-Details on specific shipped abilities or integrations by FreshDelii are currently not available. However, their efforts suggest a focus on local AI model enhancements connected to personal data management.
+# what-they-built
+Details about specific shipped abilities or integrations are currently unavailable. Further information is needed to elaborate on their contributions.
 
-### grant-status
+# grant-status
 none
 
-### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+# how-to-reach
+- Discord handle: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
-[[local AI models]]
-[[open-source software]]
-[[data management]]
-<!-- synthesized: 2026-07-01T11:59:22Z -->
-```
+[[builders]]
+[[web3]]
+[[community]]
+
+<!-- synthesized: 2026-07-02T11:45:20Z -->

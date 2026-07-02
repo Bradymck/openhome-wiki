@@ -1,27 +1,27 @@
-```markdown
----
+```yaml
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-07-01
----
+last_updated: 2026-07-02
+```
 
 ## who-they-are
-Brady McK is an active community builder focused on the development of innovative technologies, particularly in the realm of AI and open-source software. No specific background or detailed information about his previous projects was available.
+bradymck is an active community builder involved in various projects that leverage developer kits (devkits) to create innovative abilities and integrations. Their focus is on enhancing user experiences within the community.
 
 ## what-they-built
-Information regarding specific abilities or integrations that Brady McK has shipped is currently unavailable.
+Details on specific abilities or integrations shipped by bradymck are currently not available.
 
 ## grant-status
-None
+none
 
 ## how-to-reach
-- Discord handle: Not available
-- GitHub: Not available
-- X (Twitter): Not available
+- Discord handle: Not specified
+- GitHub: Not specified
+- X (Twitter): Not specified
 
 ## connects-to
-[[builders/bradymck]]
+[[builders]]
+[[developer_kits]]
+[[community_initiatives]]
 
-<!-- synthesized: 2026-07-01T11:59:22Z -->
-```
+<!-- synthesized: 2026-07-02T11:45:20Z -->

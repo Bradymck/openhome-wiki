@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: "builders/jagatfx"
-entity_type: "builder"
-status: "stub"
-last_updated: 2026-07-01
+title: builders/jagatfx
+entity_type: builders
+status: stub
+last_updated: 2026-07-02
 ---
 
 ### who-they-are
-Jagatfx is part of the active community of builders focused on developing tools and integrations within the home AI and local inference model domain.
+Jagatfx is an emerging community builder focused on integrating innovative technologies into practical applications. Details about their background and specific projects they are working on are currently limited.
 
 ### what-they-built
-Currently, there is no specific information available on the abilities or integrations shipped by Jagatfx.
+As of now, there are no specific abilities or integrations listed that Jagatfx has shipped. More information may become available as they progress in their development journey.
 
 ### grant-status
 None
 
 ### how-to-reach
-- Discord: Not provided
+- Discord handle: Not provided
 - GitHub: Not provided
-- X/Twitter: Not provided
+- X: Not provided
 
-## connects-to
+### connects-to
 [[builders]]
-[[AI integrations]]
-[[local models]]
 [[community builders]]
-<!-- synthesized: 2026-07-01T11:59:22Z -->
+[[devkit holders]]
+
+<!-- synthesized: 2026-07-02T11:45:20Z -->
 ```

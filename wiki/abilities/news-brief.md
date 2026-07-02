@@ -3,28 +3,29 @@
 title: abilities/news-brief
 entity_type: abilities
 status: stub
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 ---
 
-### what-it-does
-The News Brief ability provides users with a concise summary of the most important developments in the AI ecosystem, featuring critical updates from the past 24 hours.
+## what-it-does
+The News Brief ability provides users with concise summaries of current events and news articles, enabling quick access to important information without overwhelming details.
 
-### how-to-build
-Builder notes and API surface documentation for creating the News Brief ability are currently not available.
+## how-to-build
+Details on the building process are currently unavailable. Additional resources may be sought to explore potential APIs or frameworks that could facilitate the development of a news summarization tool.
 
-### category
+## category
 utility
 
-### built-by
-[[builders/unknown]]
+## built-by
+[[abilities/unknown-builder]]
 
-### status
+## status
 stub
 
-### connects-to
+## connects-to
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
+[[abilities/unknown-connection]]
 
-<!-- synthesized: 2026-07-01T11:59:22Z -->
+<!-- synthesized: 2026-07-02T11:45:20Z -->
 ```

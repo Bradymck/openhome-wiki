@@ -1,26 +1,26 @@
-```yaml
+```markdown
+---
 title: builders/michaelgold
 entity_type: builder
 status: stub
-last_updated: 2026-07-01
-```
+last_updated: 2026-07-02
+---
 
-## who-they-are
-Michael Gold is a community builder known for his contributions in the domain of AI and technology development. He is engaged in creating integrations that leverage AI capabilities to enhance user experience.
+### who-they-are
+Michael Gold is an active community builder and holder of devkit, focusing on the development of various abilities within the community.
 
-## what-they-built
-Specific details regarding the abilities or integrations shipped by Michael Gold are currently not available.
+### what-they-built
+Details about specific abilities or integrations that Michael Gold has shipped are not currently available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: @McDon40014
+### how-to-reach
+- Discord: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
-[[builders]]
-[[AI]]
-[[technology]]
-<!-- synthesized: 2026-07-01T11:59:22Z -->
+[[abilities]]
+<!-- synthesized: 2026-07-02T11:45:20Z -->
+```

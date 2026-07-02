@@ -1,29 +1,25 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 ---
 
 ### who-they-are
-Emperormidas is a community builder engaged in developing open-source tools and integrations. They are active members in the Homie community and hold devkit assets, focusing on enhancing home AI and self-hosted models.
+Information about builders/emperormidas is currently limited. Specific background details are not available at this time.
 
 ### what-they-built
-Details on specific abilities or integrations shipped by Emperormidas are not currently available. They are known for their interest in creating solutions that connect various AI tools and support local model hosting.
+Details on what builders/emperormidas have built or shipped are not available as well.
 
 ### grant-status
-none
+No information is available regarding grant status.
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X (Twitter): Not specified
+No contact information such as Discord handle, GitHub, or social media links is available at this moment.
 
-### connects-to
-[[homie]]
-[[devkit]]
-[[open-source tools]]
+## connects-to
+No associated abilities or integrations have been identified for builders/emperormidas.
 
-<!-- synthesized: 2026-07-01T11:59:22Z -->
+<!-- synthesized: 2026-07-02T11:45:20Z -->
 ```

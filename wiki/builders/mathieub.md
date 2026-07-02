@@ -1,29 +1,28 @@
 ```markdown
 ---
-title: "builders/mathieub"
-entity_type: "builder"
-status: "stub"
-last_updated: 2026-07-01
+title: builders/mathieub
+entity_type: builder
+status: stub
+last_updated: 2026-07-02
 ---
 
 ### who-they-are
-Mathieu B. is a developer focused on building tools and integrations for the AI and tech community. Their expertise lies in harnessing AI technologies to improve accessibility and functionality in software applications.
+Mathieu is an active member of the community engaged in building and developing integrations for various projects. 
 
 ### what-they-built
-Details on specific shipped abilities or integrations are currently unavailable.
+Details regarding specific shipped abilities or integrations are not available at this time.
 
 ### grant-status
-none
+unknown
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Discord handle: Unknown  
+GitHub: Unknown  
+X: Unknown  
 
 ## connects-to
-[[Home AI Inference Stack]]
-[[OSS Glasses]]
-[[Local Models]]
+[[builders]]
+[[integrations]]
 
-<!-- synthesized: 2026-07-01T11:59:22Z -->
+<!-- synthesized: 2026-07-02T11:45:20Z -->
 ```

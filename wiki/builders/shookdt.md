@@ -3,27 +3,25 @@
 title: builders/shookdt
 entity_type: community builder
 status: stub
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 ---
 
-## who-they-are
-Shookdt is an active community builder and devkit holder focused on integrating and enhancing personal AI capabilities.
+### who-they-are
+Shookdt is a community builder focused on shipping abilities and integrations within the developer ecosystem. They are a holder of the Homie + User roles and engage actively in community projects.
 
-## what-they-built
-Details on specific shipped abilities or integrations by Shookdt are currently unlisted.
+### what-they-built
+As of now, there is no specific information available on the abilities or integrations that Shookdt has shipped.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X (Twitter): Not specified
+### how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[abilities]]
-[[integrations]]
-[[AI]]
+[[builders]]
 [[community builders]]
-<!-- synthesized: 2026-07-01T11:59:22Z -->
+<!-- synthesized: 2026-07-02T11:45:20Z -->
 ```

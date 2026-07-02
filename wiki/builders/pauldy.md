@@ -1,30 +1,29 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 ---
 
 ### who-they-are
-Pauldy is a community builder focusing on integrating local AI models and self-hosted solutions. They advocate for open-source technologies and emphasize the importance of personal data management through user-controlled systems.
+Pauldy is known within the community for their contributions and developments in the field.
 
 ### what-they-built
-No specific abilities or integrations have been officially documented at this time.
+Details on specific abilities or integrations shipped by Pauldy are currently unavailable.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X/Twitter: Not specified
+Discord handle: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
 ## connects-to
-[[AI Integration]]  
-[[Open Source]]  
-[[Local Models]]  
-[[Community Building]]
+[[developers]]
+[[community_builders]]
+[[integrations]]
 
-<!-- synthesized: 2026-07-01T11:59:22Z -->
+<!-- synthesized: 2026-07-02T11:45:20Z -->
 ```
