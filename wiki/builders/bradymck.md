@@ -1,27 +1,29 @@
-```yaml
-title: bradymck
+```markdown
+---
+title: builders/bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-07-02
-```
+last_updated: 2026-07-03
+---
 
-## who-they-are
-bradymck is an active community builder involved in various projects that leverage developer kits (devkits) to create innovative abilities and integrations. Their focus is on enhancing user experiences within the community.
+### who-they-are
+Brady McK is a community builder and developer actively involved in the Homie ecosystem. They hold a devkit and are focused on building tools and integrations that enhance user experiences within the community.
 
-## what-they-built
-Details on specific abilities or integrations shipped by bradymck are currently not available.
+### what-they-built
+Details on specific abilities or integrations shipped by Brady McK were not provided in the source material.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord handle: Not specified
 - GitHub: Not specified
-- X (Twitter): Not specified
+- X: Not specified
 
-## connects-to
+### connects-to
 [[builders]]
-[[developer_kits]]
-[[community_initiatives]]
+[[devkit holders]]
+[[Homie ecosystem]]
 
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+<!-- synthesized: 2026-07-03T12:50:06Z -->
+```

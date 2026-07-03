@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: builders/shoompa
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-07-02
-```
+last_updated: 2026-07-03
+---
 
 ### who-they-are
-Shoompa is an active community builder focused on leveraging developer kits to create and enhance digital experiences.
+Shoompa is focused on developing an at-home capsule endoscopy service, which aims to provide individuals with direct imaging data for their gut health. 
 
 ### what-they-built
-Information about specific abilities or integrations that Shoompa has shipped is currently unavailable.
+Currently, there are no specific details on features or shipped abilities from Shoompa. 
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Not provided  
-GitHub: Not provided  
-X: Not provided  
+- Discord: Not provided
+- GitHub: Not provided
+- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
 
-## connects-to
-[[builders/]]  
+### connects-to
+No relevant connections identified.
 
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+<!-- synthesized: 2026-07-03T12:50:06Z -->
+```

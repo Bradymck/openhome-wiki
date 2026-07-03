@@ -1,24 +1,25 @@
-```markdown
----
+```yaml
 title: roadmap/planned
 entity_type: roadmap
 status: stub
-last_updated: 2026-07-02
----
+last_updated: 2026-07-03
+```
 
 ## what-it-is
-This page outlines the planned features, milestones, and developments that are to be implemented in the upcoming phases.
+No relevant features or milestones were identified in the source material.
 
 ## status
 stub
 
 ## why-it-matters
-Understanding the roadmap is essential for users and stakeholders to anticipate future enhancements and to gauge the direction and growth of the platform.
+Understanding the planned roadmap is essential for stakeholders to anticipate upcoming developments and enhancements.
 
 ## eta
-Specific timelines for features and milestones have not yet been disclosed.
+No estimated timeline is available at this time.
 
 ## connects-to
-[[features]], [[milestones]], [[development]]
-<!-- synthesized: 2026-07-02T11:45:20Z -->
-```
+[[roadmap]]
+[[features]]
+[[milestones]]
+
+<!-- synthesized: 2026-07-03T12:50:06Z -->

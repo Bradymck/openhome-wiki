@@ -1,27 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/freshdelii
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-02
-```
+last_updated: 2026-07-03
+---
 
-# who-they-are
-FreshDelii is an active community builder focused on enhancing the capabilities of digital platforms for users within the web3 ecosystem. They are known for their commitment to innovation and user engagement.
+### who-they-are
+Freshdelii is focusing on developing an at-home capsule endoscopy service aimed at providing individuals with direct imaging data for their gut health.
 
-# what-they-built
-Details about specific shipped abilities or integrations are currently unavailable. Further information is needed to elaborate on their contributions.
+### what-they-built
+As of now, specific shipped abilities or integrations have not been detailed.
 
-# grant-status
+### grant-status
 none
 
-# how-to-reach
+### how-to-reach
 - Discord handle: Not available
 - GitHub: Not available
-- X: Not available
+- X: [@jack_schroder_](https://twitter.com/jack_schroder_)
 
 ## connects-to
 [[builders]]
-[[web3]]
-[[community]]
+[[healthtech]]
+[[imaging technologies]]
 
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+<!-- synthesized: 2026-07-03T12:50:06Z -->
+```

@@ -1,28 +1,26 @@
-```markdown
----
+```yaml
 title: builders/mathieub
 entity_type: builder
 status: stub
-last_updated: 2026-07-02
----
+last_updated: 2026-07-03
+```
 
-### who-they-are
-Mathieu is an active member of the community engaged in building and developing integrations for various projects. 
+## who-they-are
+Mathieu B. is involved in building innovative solutions in the health tech space, specifically focusing on at-home medical services that enhance user access to health data.
 
-### what-they-built
-Details regarding specific shipped abilities or integrations are not available at this time.
+## what-they-built
+Mathieu is working on an at-home capsule endoscopy service aimed at providing individuals with direct imaging data for gut health management. 
 
-### grant-status
-unknown
+## grant-status
+none
 
-### how-to-reach
-Discord handle: Unknown  
-GitHub: Unknown  
-X: Unknown  
+## how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
 
 ## connects-to
-[[builders]]
-[[integrations]]
+[[builders/health-tech]]  
+[[builders/capsule-endoscopy]]  
 
-<!-- synthesized: 2026-07-02T11:45:20Z -->
-```
+<!-- synthesized: 2026-07-03T12:50:06Z -->

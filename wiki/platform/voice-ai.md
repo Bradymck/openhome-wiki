@@ -1,21 +1,20 @@
-```markdown
----
-title: Voice AI
+```yaml
+title: platform/voice-ai
 entity_type: platform
 status: stub
-last_updated: 2026-07-02
----
+last_updated: 2026-07-03
+```
 
-### what-it-is
-Voice AI refers to artificial intelligence technologies that enable machines to understand, process, and respond to voice commands and queries. It is a fundamental component in various applications, particularly in smart home ecosystems.
+## what-it-is
+Voice AI is a component of the OpenHome platform that focuses on natural language processing and voice interaction capabilities, enabling users to control various smart devices and services through voice commands.
 
-### how-it-works
-Voice AI systems leverage natural language processing (NLP) and machine learning algorithms to interpret spoken language. When a user speaks a command, the system captures the audio input, converts it to text, and processes it to determine the appropriate action. This technology allows for hands-free interaction with devices and services, enhancing user experience in environments like smart speakers and home automation systems.
+## how-it-works
+Voice AI operates by leveraging advanced algorithms to interpret and respond to user voice commands. It integrates with a variety of smart devices and systems, allowing for seamless interaction and automation of tasks. By utilizing machine learning and speech recognition technologies, Voice AI can improve its accuracy and responsiveness over time, providing users with a more intuitive experience.
 
-### current-status
+## current-status
 stub
 
-### connects-to
+## connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/abilities]]
@@ -24,5 +23,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+<!-- synthesized: 2026-07-03T12:50:06Z -->
 ```

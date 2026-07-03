@@ -1,29 +1,28 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builders
+entity_type: community builder
 status: stub
-last_updated: 2026-07-02
+last_updated: 2026-07-03
 ---
 
-### who-they-are
-Pauldy is known within the community for their contributions and developments in the field.
+## who-they-are
+Pauldy is an active member of the community, working on innovative solutions to improve health services.
 
-### what-they-built
-Details on specific abilities or integrations shipped by Pauldy are currently unavailable.
+## what-they-built
+Details about Pauldy's shipped abilities or integrations are currently unavailable.
 
-### grant-status
-None
+## grant-status
+unknown
 
-### how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified  
+## how-to-reach
+- Discord: Unknown
+- GitHub: Unknown
+- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
 
 ## connects-to
-[[developers]]
-[[community_builders]]
-[[integrations]]
+[[capability-enhancements]]
+[[health-innovations]]
 
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+<!-- synthesized: 2026-07-03T12:50:06Z -->
 ```

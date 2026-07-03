@@ -1,27 +1,27 @@
-```yaml
-title: illectric-co
+```markdown
+---
+title: builders/illectric-co
 entity_type: builders
-status: stub
-last_updated: 2026-07-02
-```
+status: live
+last_updated: 2026-07-03
+---
 
 ## who-they-are
-Illectric-co is a community-focused builder involved in the development of innovative technology solutions. They are engaged in creating tools that leverage advanced algorithms for various applications, particularly in the healthcare space.
+Illectric Co. is focused on developing an at-home capsule endoscopy service that aims to provide individuals with direct imaging data for their gut health. The initiative is designed to enhance accessibility to important health diagnostics from the comfort of home.
 
 ## what-they-built
-Information on specific abilities or integrations that Illectric-co has shipped is currently not available.
+Illectric Co. is currently working on an endoscopy service which will allow users to receive direct imaging data related to their gastrointestinal health. Specific features and capabilities of the service are in the developmental phase and may include real-time data sharing and analysis.
 
 ## grant-status
 none
 
 ## how-to-reach
-Discord handle: Not provided  
-GitHub: Not provided  
-X/Twitter: Not provided
+- Discord handle: Not specified
+- GitHub: Not specified
+- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
 
 ## connects-to
-[[builders/]]  
-[[technology/]]  
-[[healthcare/]]
+[[health-tech]], [[telemedicine]], [[gastroenterology]], [[medical-devices]]
 
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+<!-- synthesized: 2026-07-03T12:50:06Z -->
+```

@@ -1,25 +1,29 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: builders
+entity_type: Active Community Builder
 status: stub
-last_updated: 2026-07-02
+last_updated: 2026-07-03
 ---
 
 ### who-they-are
-Information about builders/emperormidas is currently limited. Specific background details are not available at this time.
+Emperor Midas is a developer working on an at-home capsule endoscopy service designed to provide individuals with direct imaging data regarding their gut health. They are focused on making health-related data more accessible and user-friendly for consumers.
 
 ### what-they-built
-Details on what builders/emperormidas have built or shipped are not available as well.
+Currently, there are no publicly listed shipped abilities or integrations from Emperor Midas.
 
 ### grant-status
-No information is available regarding grant status.
+none
 
 ### how-to-reach
-No contact information such as Discord handle, GitHub, or social media links is available at this moment.
+- Discord: Not specified
+- GitHub: Not specified
+- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
 
 ## connects-to
-No associated abilities or integrations have been identified for builders/emperormidas.
+[[capstone-projects]]
+[[health-tech]]
+[[medical-innovations]]
 
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+<!-- synthesized: 2026-07-03T12:50:06Z -->
 ```

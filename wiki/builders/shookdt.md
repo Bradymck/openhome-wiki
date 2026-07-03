@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: builders/shookdt
-entity_type: community builder
+entity_type: builder
 status: stub
-last_updated: 2026-07-02
+last_updated: 2026-07-03
 ---
 
 ### who-they-are
-Shookdt is a community builder focused on shipping abilities and integrations within the developer ecosystem. They are a holder of the Homie + User roles and engage actively in community projects.
+Shookdt is focused on creating an at-home capsule endoscopy service. This service aims to provide individuals with direct imaging data for their gut health, emphasizing accessibility and convenience for users seeking insights into their digestive health.
 
 ### what-they-built
-As of now, there is no specific information available on the abilities or integrations that Shookdt has shipped.
+As of now, specific abilities or integrations shipped by Shookdt are not detailed. Their current project involves developing the capsule endoscopy service, which is in the outreach phase for potential users.
 
 ### grant-status
 none
@@ -18,10 +18,12 @@ none
 ### how-to-reach
 - Discord handle: Not provided
 - GitHub: Not provided
-- X: Not provided
+- X: [@jack_schroder_](https://twitter.com/jack_schroder_)
 
 ## connects-to
 [[builders]]
-[[community builders]]
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+[[health-tech]]
+[[innovative-medical-devices]]
+
+<!-- synthesized: 2026-07-03T12:50:06Z -->
 ```

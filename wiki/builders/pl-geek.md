@@ -3,23 +3,26 @@
 title: builders/pl-geek
 entity_type: builder
 status: stub
-last_updated: 2026-07-02
+last_updated: 2026-07-03
 ---
 
 ### who-they-are
-Information regarding the background and what builders/pl-geek are building is currently not available.
+pl-geek is working on an at-home capsule endoscopy service aimed at providing individuals with direct imaging data for their gut health.
 
 ### what-they-built
-Details on shipped abilities or integrations by builders/pl-geek are currently not available.
+Currently, there is no specific information available on shipped abilities or integrations by pl-geek.
 
 ### grant-status
-Grant status for builders/pl-geek is not available at this time.
+none
 
 ### how-to-reach
-Contact information such as Discord handle, GitHub, or Twitter for builders/pl-geek is not available.
+- Discord: Not provided
+- GitHub: Not provided
+- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
 
 ## connects-to
-No connections to related pages are currently available.
-
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+[[gastrointestinal-health]]
+[[health-technology]]
+[[capsule-endoscopy]]
+<!-- synthesized: 2026-07-03T12:50:06Z -->
 ```

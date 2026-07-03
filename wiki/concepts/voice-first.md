@@ -2,25 +2,26 @@
 ---
 title: concepts/voice-first
 entity_type: concepts
-status: live
-last_updated: 2026-07-02
+status: stub
+last_updated: 2026-07-03
 ---
 
 ## definition
-Voice-first refers to an interaction model where voice is the primary medium for communication with technology and digital services. This concept emphasizes the use of voice recognition and output to facilitate user engagement, allowing users to perform tasks, control devices, and access information through spoken commands rather than traditional input methods such as touch or typing.
+Voice-first refers to an interaction paradigm where voice commands are the primary means of engaging with technology, devices, and applications, prioritizing voice over traditional input methods like touchscreens or keyboards.
 
 ## why-it-matters
-Voice-first technology is significant to OpenHome as it enhances user accessibility and engagement within the platform. By prioritizing voice interactions, OpenHome can serve diverse user demographics and accommodate those who may have difficulties using conventional interfaces. This approach aligns with the increasing trend of incorporating voice technology into daily life, facilitating a more seamless and intuitive user experience.
+In the context of OpenHome, embracing a voice-first approach can enhance user experience by providing a more natural and intuitive way to interact with the platform. This is particularly significant as users increasingly seek seamless and effortless communication with their devices.
 
 ## how-it-manifests
-In the OpenHome platform, voice-first capabilities are integrated into various features, such as virtual assistants, smart home device control, and accessibility tools. Users can issue voice commands to interact with their personalized settings, manage home automation, and receive information, thereby streamlining the overall user experience.
+Voice-first technology is reflected in the design and functionality of OpenHome, enabling users to control their environments, access information, and perform tasks solely through voice commands, thereby streamlining interactions and making technology more accessible.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
-[[concepts/grant-program]]
+[[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+<!-- synthesized: 2026-07-03T12:50:06Z -->
 ```

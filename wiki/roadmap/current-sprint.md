@@ -1,23 +1,26 @@
 ```yaml
-title: Roadmap Current Sprint
+title: Roadmap - Current Sprint
 entity_type: roadmap
 status: stub
-last_updated: 2026-07-02
+last_updated: 2026-07-03
 ```
 
 ## what-it-is
-Current sprint details for ongoing development efforts in the roadmap.
+This page outlines the current activities in the development roadmap, specifically focusing on features and milestones that are either in progress or have been shipped.
 
 ## status
 stub
 
 ## why-it-matters
-Tracking the current sprint is essential for understanding the development focus and deployment timeline of new features and improvements.
+The development roadmap is critical for tracking progress and ensuring transparency about the features and milestones that contribute to the overall improvement and functionality of the project.
 
 ## eta
-Rough timeline not available.
+Rough timelines are not currently available.
 
 ## connects-to
 [[roadmap]]
-
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+[[features]]
+[[milestones]]
+[[development]]
+<!-- synthesized: 2026-07-03T12:50:06Z -->
+```

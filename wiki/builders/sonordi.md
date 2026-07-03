@@ -1,29 +1,29 @@
 ```markdown
 ---
 title: builders/sonordi
-entity_type: builder
+entity_type: Builder
 status: stub
-last_updated: 2026-07-02
+last_updated: 2026-07-03
 ---
 
 ### who-they-are
-Sonordi is a community builder engaged in creating and developing tools for the Homie platform. Their background includes experience in software development and community engagement.
+Sonordi is focused on developing an at-home capsule endoscopy service aimed at providing individuals with direct imaging data regarding their gut health.
 
 ### what-they-built
-Details on specific abilities or integrations that Sonordi have shipped are currently unspecified.
+As of now, specific shipped abilities or integrations have not been detailed.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
+- Discord handle: Not provided
 - GitHub: Not provided
-- X (Twitter): Not provided
+- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
 
 ## connects-to
-[[Homie]]
-[[Community Building]]
-[[Software Development]]
+[[builders]]
+[[health-tech]]
+[[medical-imaging]]
 
-<!-- synthesized: 2026-07-02T11:45:20Z -->
+<!-- synthesized: 2026-07-03T12:50:06Z -->
 ```
