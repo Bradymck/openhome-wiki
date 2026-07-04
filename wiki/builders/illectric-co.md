@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: builders/illectric-co
+title: Illectric Co
 entity_type: builders
-status: live
-last_updated: 2026-07-03
+status: stub
+last_updated: 2026-07-04
 ---
 
 ## who-they-are
-Illectric Co. is focused on developing an at-home capsule endoscopy service that aims to provide individuals with direct imaging data for their gut health. The initiative is designed to enhance accessibility to important health diagnostics from the comfort of home.
+Illectric Co is an active builder in the community, focused on creating innovative solutions and integrations using their development kit.
 
 ## what-they-built
-Illectric Co. is currently working on an endoscopy service which will allow users to receive direct imaging data related to their gastrointestinal health. Specific features and capabilities of the service are in the developmental phase and may include real-time data sharing and analysis.
+Detailed information on specific shipped abilities or integrations from Illectric Co is currently not available.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: Not specified
+- Discord: Not specified
 - GitHub: Not specified
-- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
+- X/Twitter: [@NancyIsime678](https://twitter.com/NancyIsime678)
 
 ## connects-to
-[[health-tech]], [[telemedicine]], [[gastroenterology]], [[medical-devices]]
+[[abilities]] 
+[[integrations]] 
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+<!-- synthesized: 2026-07-04T11:59:32Z -->
 ```

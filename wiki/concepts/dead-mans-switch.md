@@ -1,25 +1,22 @@
 ```yaml
-title: concepts/dead-mans-switch
+title: Dead Man's Switch
 entity_type: concepts
-status: stub
-last_updated: 2026-07-03
+status: beta
+last_updated: 2026-07-04
 ```
 
 ## definition
-A dead man's switch is a safety measure that is activated when a person is unable to operate it, typically used to ensure that a system continues to function safely and effectively in the absence of the operator.
+A dead man's switch is a safety mechanism designed to activate or deactivate a system if the operator becomes incapacitated. In various contexts, it serves to prevent accidents or ensure a certain level of functionality by triggering automatic responses when the user fails to continue operation.
 
 ## why-it-matters
-In the context of OpenHome, a dead man's switch can ensure that critical functions or automated systems remain secure and operational even when the primary user is incapacitated or unreachable. This concept emphasizes the importance of reliability and user safety within the platform.
+In the context of OpenHome, a dead man's switch is significant because it enhances user safety and data integrity. By ensuring that systems remain operative only when there is a conscious operator, it can protect sensitive information and prevent unintended actions that could lead to privacy breaches or data loss.
 
 ## how-it-manifests
-Although specific implementations within OpenHome may vary, the dead man's switch concept could manifest in scenarios involving automated systems, user prompts for actions, or functions that require monitoring to ensure continued user engagement or system functionality.
+This concept can manifest in OpenHome through features that automatically lock accounts or delete data if certain conditions are met, such as prolonged inactivity or user inability to access the system. It may also appear in applications that require user confirmation for critical actions, providing an additional safety layer.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+<!-- synthesized: 2026-07-04T11:59:32Z -->

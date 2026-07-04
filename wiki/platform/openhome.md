@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: OpenHome Platform
+title: OpenHome
 entity_type: platform
 status: stub
-last_updated: 2026-07-03
+last_updated: 2026-07-04
 ---
 
 ### what-it-is
-OpenHome is a platform designed to facilitate smart home integration, enabling various connected devices to communicate seamlessly within residential environments.
+OpenHome is a platform designed to facilitate seamless integration and communication between various home automation devices, enabling users to create customized smart home experiences.
 
 ### how-it-works
-OpenHome allows users to connect smart home devices through a unified interface, enabling the management and control of different functionalities, such as lighting, heating, and entertainment systems. By utilizing standardized protocols, the platform enables interoperability between devices from various manufacturers, streamlining user experiences and enhancing automation capabilities.
+OpenHome relies on a modular architecture that allows different devices and applications to connect and exchange data efficiently. The platform supports various protocols to ensure compatibility with a wide range of smart devices, enabling users to control and automate their home environment from a unified interface.
 
 ### current-status
 stub
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+<!-- synthesized: 2026-07-04T11:59:32Z -->
 ```

@@ -1,28 +1,29 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: builder
+entity_type: community builder
 status: stub
-last_updated: 2026-07-03
+last_updated: 2026-07-04
 ---
 
 ### who-they-are
-pl-geek is working on an at-home capsule endoscopy service aimed at providing individuals with direct imaging data for their gut health.
+pl-geek is an active community builder within the Homie structure, focusing on developing integrations and tools to enhance user experiences. They are engaged with a community of developers and users, leveraging their expertise in building novel applications and enhancements.
 
 ### what-they-built
-Currently, there is no specific information available on shipped abilities or integrations by pl-geek.
+Details regarding specific shipped abilities or integrations by pl-geek are currently unavailable. More information will be provided as it becomes accessible.
 
 ### grant-status
-none
+The grant status for pl-geek is currently noted as none.
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
+- Discord: Not specified
+- GitHub: Not specified
+- X (Twitter): Not specified
 
 ## connects-to
-[[gastrointestinal-health]]
-[[health-technology]]
-[[capsule-endoscopy]]
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+[[builders]]
+[[integrations]]
+[[community builders]]
+[[Homie]]
+<!-- synthesized: 2026-07-04T11:59:32Z -->
 ```

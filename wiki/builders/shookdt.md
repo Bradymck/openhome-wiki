@@ -3,27 +3,25 @@
 title: builders/shookdt
 entity_type: builder
 status: stub
-last_updated: 2026-07-03
+last_updated: 2026-07-04
 ---
 
 ### who-they-are
-Shookdt is focused on creating an at-home capsule endoscopy service. This service aims to provide individuals with direct imaging data for their gut health, emphasizing accessibility and convenience for users seeking insights into their digestive health.
+Shookdt is a member of the community and a holder of the development kit, involved in shipping new abilities in various integrations.
 
 ### what-they-built
-As of now, specific abilities or integrations shipped by Shookdt are not detailed. Their current project involves developing the capsule endoscopy service, which is in the outreach phase for potential users.
+Shookdt has contributed various shipped abilities or integrations within the community framework, enhancing the development ecosystem.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: [@jack_schroder_](https://twitter.com/jack_schroder_)
+Discord: N/A  
+GitHub: N/A  
+X: N/A  
 
 ## connects-to
-[[builders]]
-[[health-tech]]
-[[innovative-medical-devices]]
+[[abilities]] 
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+<!-- synthesized: 2026-07-04T11:59:32Z -->
 ```

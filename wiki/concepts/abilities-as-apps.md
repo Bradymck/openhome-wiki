@@ -1,25 +1,25 @@
 ```yaml
-title: concepts/abilities-as-apps
+title: abilities-as-apps
 entity_type: concepts
-status: planned
-last_updated: 2026-07-03
+status: live
+last_updated: 2026-07-04
 ```
 
 ## definition
-Abilities-as-apps refers to the concept of encapsulating specific functionalities or services into independent applications that can be accessed and utilized by users on the OpenHome platform. This model allows for modularity and flexibility in how users interact with various services and apps.
+Abilities-as-apps refers to the concept of representing various functionalities and features within an OpenHome platform as individual applications or modules. This approach allows users to access and utilize specific capabilities based on their needs, enhancing the overall usability and customization of the platform.
 
 ## why-it-matters
-This concept is significant for OpenHome as it enhances user experience by offering tailored functionalities through apps that can easily be integrated or removed based on user preferences. It encourages innovation, allowing developers to create specialized abilities that enhance the overall ecosystem and provide users with a more personalized interaction with technology.
+This concept is essential to OpenHome as it promotes modularity and flexibility, enabling users to tailor their digital environment according to personal preferences and requirements. By treating abilities as discrete apps, OpenHome can accommodate a wide range of user scenarios, improving user satisfaction and engagement.
 
 ## how-it-manifests
-Abilities-as-apps appears within the OpenHome platform through a variety of applications that can be downloaded or accessed to fulfill specific tasks. Users can activate and utilize these abilities as needed, creating a customized environment that caters to individual preferences and requirements.
+In the OpenHome platform, abilities-as-apps typically manifest through an app store or marketplace where users can browse, install, and manage different functionalities. This could include apps for home automation, social interactions, data management, or personal productivity, each functioning independently while contributing to a cohesive user experience.
 
 ## connects-to
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+<!-- synthesized: 2026-07-04T11:59:32Z -->

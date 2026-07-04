@@ -1,28 +1,27 @@
-```markdown
----
+```yaml
 title: builders/pauldy
-entity_type: community builder
+entity_type: builder
 status: stub
-last_updated: 2026-07-03
----
+last_updated: 2026-07-04
+```
 
 ## who-they-are
-Pauldy is an active member of the community, working on innovative solutions to improve health services.
+Pauldy is an active community builder in the Homie ecosystem. They are focused on developing tools and capabilities for users while leveraging insights from their experience in community engagement.
 
 ## what-they-built
-Details about Pauldy's shipped abilities or integrations are currently unavailable.
+Details about specific abilities or integrations that Pauldy has shipped are currently not available.
 
 ## grant-status
 unknown
 
 ## how-to-reach
-- Discord: Unknown
-- GitHub: Unknown
-- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[capability-enhancements]]
-[[health-innovations]]
+[[abilities]] 
+[[community builders]] 
+[[development tools]] 
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
-```
+<!-- synthesized: 2026-07-04T11:59:32Z -->

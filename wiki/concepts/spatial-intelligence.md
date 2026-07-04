@@ -3,25 +3,25 @@
 title: concepts/spatial-intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-07-03
+last_updated: 2026-07-04
 ---
 
-### definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and understand the three-dimensional world around us. It involves skills such as orientation, spatial reasoning, and the capacity to think in images.
+## definition
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and environments. It involves understanding how objects relate to one another in space and the ability to navigate through different spatial contexts.
 
-### why-it-matters
-In the context of OpenHome, spatial intelligence is crucial for enhancing user interactions within the platform. It enables users to intuitively navigate environments, manage spatial information, and engage with their settings more effectively. This proficiency helps in creating a seamless user experience, particularly in virtual and augmented reality applications.
+## why-it-matters
+Spatial intelligence is crucial for enhancing user interactions within OpenHome. It allows users to better understand their environments, making the platform more intuitive and responsive to their needs. This intelligence enriches user experiences by enabling accurate spatial reasoning in various applications, fostering seamless integration of physical and digital spaces.
 
-### how-it-manifests
-While specific applications of spatial intelligence within OpenHome are not detailed, it is expected to manifest in features that allow users to interact spatially with their digital homes, manage layouts, and visualize changes as they occur. This could include functionalities that enable the adjustment of virtual furniture or the organization of digital spaces based on user-defined criteria.
+## how-it-manifests
+In OpenHome, spatial intelligence may manifest through features that enhance navigation, such as augmented reality overlays, spatial mapping, and context-aware assistance based on the user's physical surroundings. These features leverage spatial reasoning to provide tailored services and facilitate efficient interactions.
 
-### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/grant-program]]  
+## connects-to
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+<!-- synthesized: 2026-07-04T11:59:32Z -->
 ```

@@ -1,22 +1,23 @@
-```yaml
-title: guides/brianchilders
-entity_type: community_guide
+```markdown
+---
+title: brianchilders
+entity_type: guides
 status: stub
-last_updated: 2026-07-03
-```
+last_updated: 2026-07-04
+---
 
 ## who-they-are
-Brian Childers is recognized for his involvement in community engagement and support within various online platforms, particularly Discord. His expertise lies in harnessing community resources to help onboard new users effectively.
+Brian Childers is known within the community for his expertise and contributions as a power user helping onboard new members.
 
 ## what-they-help-with
-Brian specializes in guiding newcomers in navigating community guidelines, understanding platform functionalities, and leveraging community tools for better engagement. He focuses on user assistance and knowledge sharing, making him a valuable resource for individuals looking to enhance their skills and connectivity within the community.
+Brian specializes in providing guidance on utilizing various hardware and APIs, assisting users to navigate technical challenges and optimize their setups.
 
 ## how-to-reach
-You can connect with Brian Childers on Discord by searching for his username.
+Discord handle: brianchilders
 
 ## connects-to
-[[guides]]  
-[[community_support]]  
-[[onboarding]]  
-
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+[[guides]]
+[[community]]
+[[support]]
+<!-- synthesized: 2026-07-04T11:59:32Z -->
+```

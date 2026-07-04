@@ -1,29 +1,29 @@
 ```markdown
 ---
 title: builders/jagatfx
-entity_type: community builder
+entity_type: builder
 status: stub
-last_updated: 2026-07-03
+last_updated: 2026-07-04
 ---
 
 ### who-they-are
-Jagatfx is an active community builder focused on developing innovative solutions within the healthcare sector. They are currently working on an at-home capsule endoscopy service aimed at providing direct imaging data for gut health.
+Jagatfx is an active community builder known for their contributions within the devkit ecosystem. They engage with other developers and users to foster a collaborative environment.
 
 ### what-they-built
-Jagatfx is in the process of building a service that allows individuals to perform capsule endoscopy at home, which will enhance access to important health data for users.
+Currently, specific details about the abilities or integrations Jagatfx has shipped are not available. Further information may be required to better document their contributions.
 
 ### grant-status
-none
+The grant status for Jagatfx is not documented at this time.
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
+- Discord Handle: Not specified
+- GitHub: Not specified
+- X (Twitter): Not specified
 
-## connects-to
-[[healthcare_innovation]]
-[[telemedicine]]
-[[capsule_endoscopy]]
+### connects-to
+[[builders]]
+[[devkit]]
+[[community builders]]
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+<!-- synthesized: 2026-07-04T11:59:32Z -->
 ```

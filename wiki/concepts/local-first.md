@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: concepts/local-first
+title: Local First
 entity_type: concepts
-status: live
-last_updated: 2026-07-03
+status: stub
+last_updated: 2026-07-04
 ---
 
 ## definition
-Local-first is a software development approach that prioritizes data storage and processing on local devices rather than relying primarily on central server infrastructures. This concept emphasizes the importance of local data access, immediacy, and responsiveness to user interactions.
+Local first is a concept that emphasizes the importance of storing and processing data locally on a user's device rather than relying solely on cloud-based solutions. This approach allows for greater user control, faster access times, and enhanced privacy.
 
 ## why-it-matters
-Within OpenHome, local-first is significant as it enhances user privacy, control over personal data, and enables offline functionality. By adopting a local-first strategy, OpenHome can reduce latency and enhance the overall user experience while aligning with the ethos of decentralized and user-centric design.
+Local first is relevant to OpenHome as it aligns with the platform's goals of empowering users and enhancing their experience by reducing dependency on constant internet connectivity. It promotes a sense of ownership over one's data and can increase responsiveness within applications, making user interactions more fluid and efficient.
 
 ## how-it-manifests
-This concept appears in various components of the OpenHome platform, where applications and services are designed to function independently on local devices. Features may include local data synchronization, enabling users to access and modify content without an ongoing internet connection, and seamless transitions to online modes when connectivity becomes available.
+On the OpenHome platform, local first can be seen in features that allow users to manage their data locally, enabling seamless offline access to applications and reducing latency. This might include local storage options, syncing capabilities, and user-friendly interfaces that emphasize local interactions.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ This concept appears in various components of the OpenHome platform, where appli
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+<!-- synthesized: 2026-07-04T11:59:32Z -->
 ```

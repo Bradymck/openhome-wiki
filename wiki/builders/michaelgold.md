@@ -1,27 +1,25 @@
-```markdown
----
-title: builders/michaelgold
-entity_type: builder
+```yaml
+title: Builders - Michael Gold
+entity_type: builders
 status: stub
-last_updated: 2026-07-03
----
+last_updated: 2026-07-04
+```
 
-### who-they-are
-Michael Gold is an active community builder who is involved in the development of innovative solutions related to health care, specifically focusing on providing direct imaging data for gut health.
+## who-they-are
+Michael Gold is an active community builder, recognized for his involvement in shipping digital capabilities and integrations within the developer community, particularly as a devkit holder.
 
-### what-they-built
-Currently, there is no detailed information available about specific abilities or integrations Michael Gold has shipped.
+## what-they-built
+Information regarding specific abilities or integrations that Michael Gold has shipped is not available at this time.
 
-### grant-status
-none
+## grant-status
+unknown
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
+- X/Twitter: Not specified
 
-### connects-to
-No specific abilities linked at this time.
+## connects-to
+[[wikilinks]]
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
-```
+<!-- synthesized: 2026-07-04T11:59:32Z -->

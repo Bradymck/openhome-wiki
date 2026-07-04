@@ -1,25 +1,26 @@
-```yaml
-title: web3-native
+```markdown
+---
+title: concepts/web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-07-03
-```
+last_updated: 2026-07-04
+---
 
 ## definition
-Web3-native refers to applications and platforms that are built on decentralized technologies, particularly those utilizing blockchain, smart contracts, and other distributed ledger technologies. These systems are designed to prioritize user ownership and control over data, as well as enable peer-to-peer interactions without the need for intermediaries.
+Web3-native refers to applications, platforms, or services that are built using decentralized web technologies and principles, leveraging blockchain, smart contracts, and other decentralized technologies to create a more user-centric and open internet experience.
 
 ## why-it-matters
-In the context of OpenHome, being web3-native means that the platform embraces decentralization and user empowerment, aligning with the ethos of transparency, privacy, and user agency. This approach is crucial for fostering trust and ensuring that users retain control over their personal information and digital assets.
+Web3-native applications are significant for OpenHome as they align with the platform's philosophy of decentralization, transparency, and user empowerment. By being web3-native, OpenHome can facilitate direct interactions between users without intermediaries, enhancing trust and security.
 
 ## how-it-manifests
-Web3-native principles can manifest in OpenHome through features such as decentralized identity verification, user-controlled data sharing, and community governance mechanisms. These features allow users to interact within the platform without relying on central authorities, thereby enhancing the overall user experience and ownership.
+In OpenHome, web3-native features may manifest as decentralized applications (dApps) that allow users to interact with property listings and transactions directly on the blockchain. This could involve features like smart contracts for automating sales agreements, or user-controlled data management that enhances privacy and data ownership.
 
 ## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
+[[concepts/abilities-as-apps]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+<!-- synthesized: 2026-07-04T11:59:32Z -->
+```

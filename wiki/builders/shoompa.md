@@ -1,27 +1,29 @@
 ```markdown
 ---
 title: builders/shoompa
-entity_type: builder
+entity_type: community builder
 status: stub
-last_updated: 2026-07-03
+last_updated: 2026-07-04
 ---
 
 ### who-they-are
-Shoompa is focused on developing an at-home capsule endoscopy service, which aims to provide individuals with direct imaging data for their gut health. 
+Shoompa is a community builder within the Homie + User ecosystem, focusing on leveraging Devkit tools to foster engagement and development among users. Details on their specific initiatives and background are currently limited.
 
 ### what-they-built
-Currently, there are no specific details on features or shipped abilities from Shoompa. 
+Information on specific abilities or integrations that Shoompa has shipped is not available at this time.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X/Twitter: [@jack_schroder_](https://twitter.com/jack_schroder_)
+Discord handle: Not provided  
+GitHub: Not provided  
+X: Not provided  
 
 ### connects-to
-No relevant connections identified.
+[[abilities]]  
+[[community builders]]  
+[[Devkit]]  
 
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+<!-- synthesized: 2026-07-04T11:59:32Z -->
 ```

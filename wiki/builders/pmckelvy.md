@@ -1,27 +1,27 @@
-```yaml
+```markdown
+---
 title: pmckelvy
-entity_type: builders
+entity_type: builders/
 status: stub
-last_updated: 2026-07-03
-```
+last_updated: 2026-07-04
+---
 
-## who-they-are
-pmckelvy is a community builder focused on developing innovative solutions related to health and well-being. Their current projects emphasize providing users with accessible imaging data to improve gut health.
+### who-they-are
+pmckelvy is an active community builder known for their involvement in the devkit ecosystem. They focus on fostering collaborations and creating tools that enhance user experiences.
 
-## what-they-built
-While specific abilities or integrations that pmckelvy has shipped are not detailed, their work centers around an at-home capsule endoscopy service aimed at delivering direct imaging data for gut health management.
+### what-they-built
+Information regarding specific abilities or integrations shipped by pmckelvy is not available at this time.
 
-## grant-status
-applied
+### grant-status
+none
 
-## how-to-reach
-- Discord: Not provided
+### how-to-reach
+- Discord handle: Not provided
 - GitHub: Not provided
-- X: [@jack_schroder_](https://twitter.com/jack_schroder_)
+- X (Twitter): Not provided
 
 ## connects-to
-[[health-tech]]
-[[community-builders]]
-[[innovative-health-solutions]]
-
-<!-- synthesized: 2026-07-03T12:50:06Z -->
+[[builders]]
+[[devkit]]
+<!-- synthesized: 2026-07-04T11:59:32Z -->
+```
