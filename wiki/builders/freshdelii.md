@@ -1,29 +1,25 @@
 ```markdown
 ---
-title: builders/freshdelii
+title: Builders/Freshdelii
 entity_type: builder
 status: stub
-last_updated: 2026-07-04
+last_updated: 2026-07-05
 ---
 
 ### who-they-are
-FreshDelii is an innovative community builder focused on enhancing the local food and grocery experience. They leverage technology to connect users with fresh produce and local vendors.
+Freshdelii is a community builder engaged in developing unique solutions and platforms presumably in the food or local services sector. Specific background details and development goals have not been disclosed.
 
 ### what-they-built
-Details on specific abilities or integrations built by FreshDelii are currently unavailable.
+While no specific abilities or integrations have been explicitly mentioned in the source material, it can be implied that Freshdelii is working towards something impactful in their community, potentially in food accessibility or local services. Details about what they have shipped remain unclear.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-- Discord handle: Not available
-- GitHub: Not available
-- X/Twitter: Not available
+No available contact information for Freshdelii.
 
-## connects-to
-[[Builders]]
-[[Community Initiatives]]
-[[Local Food Systems]]
+### connects-to
+No specific abilities or integrations are documented to create wikilinks.
 
-<!-- synthesized: 2026-07-04T11:59:32Z -->
+<!-- synthesized: 2026-07-05T12:06:55Z -->
 ```

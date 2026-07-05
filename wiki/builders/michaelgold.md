@@ -1,25 +1,26 @@
 ```yaml
-title: Builders - Michael Gold
-entity_type: builders
+title: builders/michaelgold
+entity_type: builder
 status: stub
-last_updated: 2026-07-04
+last_updated: 2026-07-05
 ```
 
 ## who-they-are
-Michael Gold is an active community builder, recognized for his involvement in shipping digital capabilities and integrations within the developer community, particularly as a devkit holder.
+Michael Gold is actively involved in the builder community, focusing on creating functional tools for home management. His work includes developing solutions that cater to everyday needs, particularly in organizing and simplifying tasks for better efficiency.
 
 ## what-they-built
-Information regarding specific abilities or integrations that Michael Gold has shipped is not available at this time.
+Michael Gold has built spreadsheet trackers designed for home administration. These trackers facilitate the management of warranties, vehicles, moving processes, and emergencies. They are particularly user-friendly, requiring no setup and enabling immediate use.
 
 ## grant-status
-unknown
+none
 
 ## how-to-reach
-- Discord: Not specified
+- Discord handle: Not specified
 - GitHub: Not specified
-- X/Twitter: Not specified
+- X: @Blahblah5000001
 
 ## connects-to
-[[wikilinks]]
+[[abilities/home-management-tools]]
+[[abilities/spreadsheet-trackers]]
 
-<!-- synthesized: 2026-07-04T11:59:32Z -->
+<!-- synthesized: 2026-07-05T12:06:55Z -->

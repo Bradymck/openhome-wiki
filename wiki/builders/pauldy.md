@@ -2,26 +2,25 @@
 title: builders/pauldy
 entity_type: builder
 status: stub
-last_updated: 2026-07-04
+last_updated: 2026-07-05
 ```
 
 ## who-they-are
-Pauldy is an active community builder in the Homie ecosystem. They are focused on developing tools and capabilities for users while leveraging insights from their experience in community engagement.
+Pauldy is an active member of the community, engaged in building various tools and capabilities. They are a holder of the development kit and focus on creating solutions that alleviate challenges in everyday life.
 
 ## what-they-built
-Details about specific abilities or integrations that Pauldy has shipped are currently not available.
+Details on specific abilities or integrations that Pauldy has shipped are not available at this time.
 
 ## grant-status
-unknown
+none
 
 ## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: [@BreitbartLondon](https://twitter.com/BreitbartLondon)
 
 ## connects-to
-[[abilities]] 
-[[community builders]] 
-[[development tools]] 
+[[builders]]
+[[abilities]]
 
-<!-- synthesized: 2026-07-04T11:59:32Z -->
+<!-- synthesized: 2026-07-05T12:06:55Z -->

@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Local First
+title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-07-04
+last_updated: 2026-07-05
 ---
 
 ## definition
-Local first is a concept that emphasizes the importance of storing and processing data locally on a user's device rather than relying solely on cloud-based solutions. This approach allows for greater user control, faster access times, and enhanced privacy.
+Local-first is a concept emphasizing the importance of working with and storing data locally on devices rather than relying solely on remote servers or cloud storage. It advocates for applications that prioritize local data access, enabling users to maintain control over their information and create more resilient systems.
 
 ## why-it-matters
-Local first is relevant to OpenHome as it aligns with the platform's goals of empowering users and enhancing their experience by reducing dependency on constant internet connectivity. It promotes a sense of ownership over one's data and can increase responsiveness within applications, making user interactions more fluid and efficient.
+In the context of OpenHome, local-first is crucial because it enhances user privacy, reduces dependency on internet connectivity, and improves application performance. By implementing local-first principles, OpenHome allows users to access their functionalities and data seamlessly, even in environments with limited or no network access.
 
 ## how-it-manifests
-On the OpenHome platform, local first can be seen in features that allow users to manage their data locally, enabling seamless offline access to applications and reducing latency. This might include local storage options, syncing capabilities, and user-friendly interfaces that emphasize local interactions.
+This concept appears in the OpenHome platform through applications that store user data locally on their devices while synchronizing with other devices or services when connectivity is available. Features may include local data management, offline capabilities, and user-controlled backups, which together create a more efficient and user-centric experience.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ On the OpenHome platform, local first can be seen in features that allow users t
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-04T11:59:32Z -->
+<!-- synthesized: 2026-07-05T12:06:55Z -->
 ```

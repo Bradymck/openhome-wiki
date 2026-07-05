@@ -1,27 +1,25 @@
-```markdown
----
-title: concepts/spatial-intelligence
+```yaml
+title: spatial-intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-07-04
----
+last_updated: 2026-07-05
+```
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and environments. It involves understanding how objects relate to one another in space and the ability to navigate through different spatial contexts.
+Spatial intelligence refers to the ability to visualize and manipulate two-dimensional and three-dimensional spaces. It encompasses skills such as spatial reasoning, the understanding of how objects relate in space, and the capability to navigate and recognize patterns in physical environments.
 
 ## why-it-matters
-Spatial intelligence is crucial for enhancing user interactions within OpenHome. It allows users to better understand their environments, making the platform more intuitive and responsive to their needs. This intelligence enriches user experiences by enabling accurate spatial reasoning in various applications, fostering seamless integration of physical and digital spaces.
+Spatial intelligence is essential for OpenHome as it enhances user interaction by allowing for intuitive navigation and visualization of spatial layouts. This intelligence enables users to understand their physical environment more effectively, thereby improving the overall user experience within the platform. Recognizing spatial relationships is critical for seamless integration and utilization of various features offered by OpenHome.
 
 ## how-it-manifests
-In OpenHome, spatial intelligence may manifest through features that enhance navigation, such as augmented reality overlays, spatial mapping, and context-aware assistance based on the user's physical surroundings. These features leverage spatial reasoning to provide tailored services and facilitate efficient interactions.
+In the OpenHome platform, spatial intelligence could manifest through features like 3D mapping, navigation tools, and augmented reality experiences. Users may encounter spatial intelligence in applications that require awareness of physical space, such as home automation interfaces or interactive environment mapping, providing them with contextual information and interactions based on their surroundings.
 
 ## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/grant-program]]
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-04T11:59:32Z -->
-```
+<!-- synthesized: 2026-07-05T12:06:55Z -->

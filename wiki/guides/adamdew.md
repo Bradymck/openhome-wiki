@@ -1,23 +1,23 @@
-```yaml
-title: guides/adamdew
-entity_type: Community Guide
+```markdown
+---
+title: Adam Dew
+entity_type: guides/
 status: stub
-last_updated: 2026-07-04
-```
+last_updated: 2026-07-05
+---
 
-## who-they-are
-Adam Dew is a power user and community guide known for his expertise in onboarding new members and providing support in various technology-related topics.
+### who-they-are
+Adam Dew is a community guide known for his contributions and expertise within the community. His background includes a strong focus on integrating user experiences and providing support for new members.
 
-## what-they-help-with
-Adam specializes in helping users navigate and utilize community resources, with a focus on AI developments, local/self-hosted models, and broader ecosystem signals. He provides guidance on deactivating features like WiFi-based motion sensing within apps and offers insights into critical developments in the AI sector.
+### what-they-help-with
+Adam specializes in onboarding new users to the community, assisting with troubleshooting common issues, and providing insights into effective usage of various tools available within the ecosystem.
 
-## how-to-reach
-Discord handle: AdamDew
+### how-to-reach
+Discord Handle: `@adamdew`
 
 ## connects-to
-[[Community Guides]]  
-[[AI Developments]]  
-[[Onboarding Resources]]  
-
-<!-- synthesized: 2026-07-04T11:59:32Z -->
+[[guides]]
+[[community]]
+[[support]]
+<!-- synthesized: 2026-07-05T12:06:55Z -->
 ```

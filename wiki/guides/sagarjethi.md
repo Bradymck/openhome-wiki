@@ -1,23 +1,21 @@
-```markdown
----
-title: guides/sagarjethi
-entity_type: Community Guide
-status: stub
-last_updated: 2026-07-04
----
+```yaml
+title: "Sagarjethi"
+entity_type: "guides/"
+status: "stub"
+last_updated: 2026-07-05
+```
 
-### who-they-are
-Sagarjethi is a power user within the community who specializes in various technical aspects, helping others navigate complex systems and tools.
+## who-they-are
+Sagarjethi is an emerging community guide known for their helpfulness in onboarding new users.
 
-### what-they-help-with
-Sagarjethi provides assistance with a variety of topics, including hardware configurations, software setup, and possibly API integrations, making them a valuable resource for users in need of technical support.
+## what-they-help-with
+Sagarjethi specializes in various community support functions, likely including best practices for open-world gaming setups and related technologies. They have not provided specific details about their areas of expertise or the tools they use.
 
-### how-to-reach
+## how-to-reach
 Discord handle: Sagarjethi
 
 ## connects-to
 [[guides]]
-[[community]]
-[[support]]
-<!-- synthesized: 2026-07-04T11:59:32Z -->
-```
+[[community-guides]]
+
+<!-- synthesized: 2026-07-05T12:06:55Z -->

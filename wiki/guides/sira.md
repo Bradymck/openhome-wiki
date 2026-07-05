@@ -1,25 +1,22 @@
-```markdown
----
-title: Guides/Sira
-entity_type: guides
+```yaml
+title: guides/sira
+entity_type: Community Guide
 status: stub
-last_updated: 2026-07-04
----
+last_updated: 2026-07-05
+```
 
-### who-they-are
-Sira is recognized as a community guide, serving as a pivotal resource for users seeking assistance.
+## who-they-are
+Background and expertise for the guide "sira" are not specified in the provided data.
 
-### what-they-help-with
-Sira specializes in onboarding new users by providing guidance on various technical aspects, including abilities, hardware configurations, and API integrations.
+## what-they-help-with
+The specialty of the guide "sira," including abilities, hardware, or APIs they assist with, is not mentioned in the provided data.
 
-### how-to-reach
-Discord handle: Sira's Discord handle is not provided in the available data.
+## how-to-reach
+The Discord handle for "sira" is not available in the provided data.
 
 ## connects-to
-[[guides]]
-[[community]]
-[[onboarding]]
-[[technical-support]]
+[[guides]]  
+[[community-guides]]  
+[[Discord]]  
 
-<!-- synthesized: 2026-07-04T11:59:32Z -->
-```
+<!-- synthesized: 2026-07-05T12:06:55Z -->

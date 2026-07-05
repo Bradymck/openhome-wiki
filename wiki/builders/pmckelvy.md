@@ -1,27 +1,29 @@
 ```markdown
 ---
-title: pmckelvy
-entity_type: builders/
+title: builders/pmckelvy
+entity_type: builder
 status: stub
-last_updated: 2026-07-04
+last_updated: 2026-07-05
 ---
 
 ### who-they-are
-pmckelvy is an active community builder known for their involvement in the devkit ecosystem. They focus on fostering collaborations and creating tools that enhance user experiences.
+Pmckelvy is a community builder engaged in various projects related to enhancing user experiences and operational efficiencies, particularly through innovative solutions for home management.
 
 ### what-they-built
-Information regarding specific abilities or integrations shipped by pmckelvy is not available at this time.
+They have developed and shared spreadsheet trackers designed for home administration tasks, covering areas such as warranties, vehicles, moving, and emergencies. Their goal is to create tools that can be used immediately without setup.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X (Twitter): Not provided
+- Discord: Not specified
+- GitHub: Not specified
+- X: [@Blahblah5000001](https://twitter.com/Blahblah5000001)
 
-## connects-to
-[[builders]]
-[[devkit]]
-<!-- synthesized: 2026-07-04T11:59:32Z -->
+### connects-to
+[[home administration tools]]  
+[[spreadsheet trackers]]  
+[[community builders]]  
+
+<!-- synthesized: 2026-07-05T12:06:55Z -->
 ```

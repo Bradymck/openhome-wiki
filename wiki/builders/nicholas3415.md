@@ -1,29 +1,27 @@
 ```markdown
 ---
-title: Builders/Nicholas3415
-entity_type: builders
+title: builders/nicholas3415
+entity_type: builder
 status: stub
-last_updated: 2026-07-04
+last_updated: 2026-07-05
 ---
 
 ### who-they-are
-Nicholas3415 is an active participant in the community known for engaging with the development and integration of AI technologies. Their focus includes advancements in local and self-hosted models within the AI ecosystem.
+Nicholas3415 is a community builder within the Homie ecosystem, holding a devkit that enables him to contribute various abilities and integrations.
 
 ### what-they-built
-As of the latest information, Nicholas3415 has not publicly documented specific shipped abilities or integrations.
+Details on specific shipped abilities or integrations have not been provided.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-- Discord: Nicholas3415
-- GitHub: Not provided
-- X: Not provided
+- Discord handle: Not specified
+- GitHub: Not specified
+- X (Twitter): Not specified
 
-### connects-to
-[[AI Development]] 
-[[Community Building]] 
-[[Integration Technologies]]
+## connects-to
+[[builders]] 
 
-<!-- synthesized: 2026-07-04T11:59:32Z -->
+<!-- synthesized: 2026-07-05T12:06:55Z -->
 ```
