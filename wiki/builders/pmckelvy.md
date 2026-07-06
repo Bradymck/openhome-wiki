@@ -1,29 +1,28 @@
 ```markdown
 ---
 title: builders/pmckelvy
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-05
+last_updated: 2026-07-06
 ---
 
 ### who-they-are
-Pmckelvy is a community builder engaged in various projects related to enhancing user experiences and operational efficiencies, particularly through innovative solutions for home management.
+pmckelvy is a community builder engaged in developing tools and integrations within the tech space. Little detailed information is available about their background or specific projects.
 
 ### what-they-built
-They have developed and shared spreadsheet trackers designed for home administration tasks, covering areas such as warranties, vehicles, moving, and emergencies. Their goal is to create tools that can be used immediately without setup.
+As of now, there is no documented information regarding specific abilities or integrations that pmckelvy has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: [@Blahblah5000001](https://twitter.com/Blahblah5000001)
+- Discord Handle: Not provided
+- GitHub: Not provided
+- X/Twitter: Not provided
 
-### connects-to
-[[home administration tools]]  
-[[spreadsheet trackers]]  
-[[community builders]]  
-
-<!-- synthesized: 2026-07-05T12:06:55Z -->
+## connects-to
+[[builders]]
+[[community builders]]
+[[integrations]]
+<!-- synthesized: 2026-07-06T14:17:40Z -->
 ```

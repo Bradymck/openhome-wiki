@@ -1,23 +1,24 @@
-```yaml
-title: Emperormidas
+```markdown
+---
+title: builders/emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-07-05
-```
+last_updated: 2026-07-06
+---
 
 ### who-they-are
-Emperormidas is a community builder involved in developing integrations and shipping abilities within the ecosystem of devkit holders. Details about their specific projects and background are currently not available.
+Emperor Midas is an active community builder in the developer and blockchain space. Specific background details and the projects they are working on are not available at this time.
 
 ### what-they-built
-Information regarding specific abilities or integrations that Emperormidas has shipped is unavailable at this time.
+Information regarding specific abilities or integrations that Emperor Midas has shipped is currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-No contact information such as Discord handle, GitHub, or X is provided for Emperormidas.
+Contact information for Emperor Midas is not provided.
 
 ## connects-to
-[[builders]]  
-
-<!-- synthesized: 2026-07-05T12:06:55Z -->
+[[wikilinks]]
+<!-- synthesized: 2026-07-06T14:17:40Z -->
+```

@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: platform/marketplace
-entity_type: platform/marketplace
-status: stub
-last_updated: 2026-07-05
+title: "Marketplace"
+entity_type: "platform/marketplace"
+status: "stub"
+last_updated: 2026-07-06
 ---
 
 ### what-it-is
-The OpenHome Marketplace is an online platform designed to facilitate the buying and selling of various smart home products and services, enhancing the integration of connected devices within the OpenHome ecosystem.
+The Marketplace is a component of the OpenHome platform that facilitates the buying, selling, and discovery of digital products and services related to home automation and smart home technologies.
 
 ### how-it-works
-Users can browse through a curated selection of smart home devices, which are compatible with the OpenHome platform, making it easier to enhance their living environments. The marketplace offers features such as product comparisons, user reviews, and direct purchasing options. It connects seamlessly with other components of the OpenHome system, allowing users to manage their smart home setups directly from the platform.
+While specific details on the operational mechanics of the Marketplace are currently limited, it generally serves as a hub where developers and users can engage with various smart home applications, tools, and integrations. Users can browse listings, purchase products, and access services that enhance their OpenHome experience. Developers can list their applications and provide users with the tools needed to integrate and expand their existing smart home setups.
 
 ### current-status
 stub
 
 ### connects-to
-- [[platform/openhome]]
-- [[platform/speakers]]
-- [[platform/abilities]]
-- [[platform/dashboard]]
-- [[platform/voice-ai]]
-- [[platform/local-link]]
-- [[platform/live-editor]]
+[[platform/openhome]]
+[[platform/dashboard]]
+[[platform/speakers]]
+[[platform/voice-ai]]
+[[platform/abilities]]
+[[platform/local-link]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-07-05T12:06:55Z -->
+<!-- synthesized: 2026-07-06T14:17:40Z -->
 ```
