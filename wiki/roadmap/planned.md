@@ -1,31 +1,25 @@
-```markdown
----
-title: Roadmap
-entity_type: roadmap/planned
-status: live
-last_updated: 2026-07-06
----
+```yaml
+title: roadmap/planned
+entity_type: roadmap
+status: stub
+last_updated: 2026-07-07
+```
 
-## what-it-is
-The roadmap outlines the upcoming features, milestones, and the current state of various initiatives within the organization.
+### what-it-is
+This page outlines the features, milestones, and developments that are intended to be implemented, currently being worked on, or have already been shipped.
 
-## status
-- **Shipped:** Features that have been fully implemented.
-- **In-progress:** Initiatives that are currently being developed or worked on.
-- **Planned:** Future features or milestones that are scheduled for development.
-- **Cancelled:** Initiatives that will not be pursued further.
+### status
+- Planned, In-progress, or Shipped milestones have not been identified from the current data.
 
-## why-it-matters
-The roadmap is crucial for providing clarity and direction to teams and stakeholders. It helps in understanding the timeline of feature releases and progress, ensuring alignment on goals and expectations across different parts of the organization.
+### why-it-matters
+Understanding the roadmap is crucial for stakeholders to anticipate upcoming features and changes, ensuring they are well-informed about the trajectory of the project.
 
-## eta
-A rough timeline for planned features is often provided, but specifics have not been detailed in the current context.
+### eta
+No specific timelines are currently available.
 
 ## connects-to
-[[features]]
-[[milestones]]
-[[XBOX restructuring]]
-[[development process]]
+[[roadmap/on-progress]]  
+[[roadmap/shipped]]  
+[[milestones]]  
 
-<!-- synthesized: 2026-07-06T14:17:40Z -->
-```
+<!-- synthesized: 2026-07-07T13:08:51Z -->

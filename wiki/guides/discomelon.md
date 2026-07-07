@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: guides/discomelon
-entity_type: community_guide
-status: stub
-last_updated: 2026-07-06
+title: "guides/discomelon"
+entity_type: "Community Guide"
+status: "stub"
+last_updated: 2026-07-07
 ---
 
 ## who-they-are
-Discomelon is a community guide specializing in onboarding new users in various technical environments, particularly focusing on user-friendly tools and setups.
+Discomelon is recognized within the community for their extensive knowledge and support in various aspects of technology and user engagement, particularly in the context of online platforms.
 
 ## what-they-help-with
-Discomelon assists users with understanding and implementing community-driven guides, particularly in the areas of self-hosting applications, utilizing various APIs, and establishing secure connections through VPN technologies.
+Discomelon specializes in guiding new users through the intricacies of online communities, helping with troubleshooting, and providing insights into best practices for engagement within these platforms.
 
 ## how-to-reach
-Discord handle: Discomelon#1234
+Connect with Discomelon on Discord at: `@Discomelon`
 
 ## connects-to
 [[guides]]
-[[VPN]]
-[[community_support]]
-[[self_hosting]]
-[[APIs]]
+[[community support]]
+[[onboarding]]
+[[troubleshooting]]
 
-<!-- synthesized: 2026-07-06T14:17:40Z -->
+<!-- synthesized: 2026-07-07T13:08:51Z -->
 ```

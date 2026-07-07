@@ -3,23 +3,23 @@
 title: builders/jkoppel
 entity_type: builder
 status: stub
-last_updated: 2026-07-06
+last_updated: 2026-07-07
 ---
 
 ### who-they-are
-Information about jkoppel's background and what they're building is currently unavailable.
+No specific background information or details about current building projects for jkoppel are available.
 
 ### what-they-built
-Details on any shipped abilities or integrations by jkoppel are not available at this time.
+No details on shipped abilities or integrations from jkoppel have been provided.
 
 ### grant-status
-No information on grant status is currently available.
+No information on grant status for jkoppel is available.
 
 ### how-to-reach
-Details on how to contact jkoppel, including Discord handle, GitHub, or X, are currently not provided.
+No contact information for jkoppel is available.
 
 ## connects-to
-[[wikilink to related abilities or builders]]
+No related pages or wikilinks are available.
 
-<!-- synthesized: 2026-07-06T14:17:40Z -->
+<!-- synthesized: 2026-07-07T13:08:51Z -->
 ```

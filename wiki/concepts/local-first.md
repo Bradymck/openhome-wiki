@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: concepts/local-first
-entity_type: concepts
-status: stub
-last_updated: 2026-07-06
+title: "local-first"
+entity_type: "concepts"
+status: "stub"
+last_updated: "2026-07-07"
 ---
 
 ## definition
-Local-first refers to a development approach and application design that prioritizes data and functionality residing on the user's device rather than relying solely on cloud-based services. This method enhances performance, decreases latency, and increases user control over data.
+Local-first is a design philosophy that prioritizes the local storage and processing of data on user devices over relying on constant internet connectivity. This approach emphasizes creating applications and services that function primarily offline, synchronizing data when a connection is available.
 
 ## why-it-matters
-In the context of OpenHome, local-first principles contribute to a more resilient and user-centered platform. By allowing data to be processed locally, users can maintain more autonomy and privacy, which aligns with OpenHome's ethos of empowering individuals in managing their digital lives.
+Local-first is relevant to OpenHome as it enhances user autonomy, privacy, and infrastructure resilience. By minimizing dependence on cloud services and unreliable internet connections, it allows users to have better control over their data, making the platform more robust and responsive.
 
 ## how-it-manifests
-While specific implementations of local-first in OpenHome are not detailed, this concept likely influences user interfaces, data management systems, and application interactions, ensuring that core functionalities operate independently of internet connectivity. This can help in scenarios where the internet is unreliable or unavailable.
+In the OpenHome platform, local-first principles can be observed in applications that leverage local data storage for user settings, preferences, and activities. When users interact with their devices, changes are stored locally and synchronized with other devices or the cloud later, ensuring that users can access and interact with their data even without an internet connection.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,6 +22,5 @@ While specific implementations of local-first in OpenHome are not detailed, this
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
-
-<!-- synthesized: 2026-07-06T14:17:40Z -->
+<!-- synthesized: 2026-07-07T13:08:51Z -->
 ```
