@@ -1,25 +1,32 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-07-07
+last_updated: 2026-07-08
 ---
 
 ### who-they-are
-Slowjamsteve is a community builder recognized for their contributions to the Homie ecosystem. Details regarding their background and personal history are currently not available.
+Slowjamsteve is involved in creating innovative solutions using AI and IoT technologies. One of the main projects includes developing an AI home security system, leveraging various programming languages and tools.
 
 ### what-they-built
-Information about specific abilities or integrations that Slowjamsteve has shipped is not disclosed at this time.
+Currently, Slowjamsteve is focused on shipping abilities related to building an AI home security system that integrates .NET, Python Semantic Kernel, Telegram, and Raspberry Pi 4.
 
 ### grant-status
-The grant status for Slowjamsteve is currently not available.
+none
 
 ### how-to-reach
-Contact information for Slowjamsteve, including Discord handle, GitHub, or X (formerly Twitter), is not provided.
+Discord handle: Not specified  
+GitHub: Not specified  
+X: @USAJOBS (presumably not related, unclear)
 
-## connects-to
-[[abilities]]
+### connects-to
+[[AI Home Security Systems]]  
+[[IoT Development]]  
+[[Telegram Bots]]  
+[[Raspberry Pi Projects]]  
+[[Programming with .NET]]  
+[[Python Semantic Kernel]]
 
-<!-- synthesized: 2026-07-07T13:08:51Z -->
+<!-- synthesized: 2026-07-08T12:11:05Z -->
 ```

@@ -1,27 +1,31 @@
 ```markdown
 ---
-title: builders/pauldy
-entity_type: builder
-status: stub
-last_updated: 2026-07-07
+title: "builders/pauldy"
+entity_type: "builders"
+status: "stub"
+last_updated: "2026-07-08"
 ---
 
-## who-they-are
-Pauldy is an active member of the builders community focused on creating impactful tools and integrations within the ecosystem. His background includes experience in community engagement and development, contributing to collaborative projects that enhance user experience.
+### who-they-are
+Pauldy is a developer involved in building innovative solutions, specifically focusing on integrating technology with everyday applications.
 
-## what-they-built
-Details about specific abilities or integrations built by Pauldy are not available at this time.
+### what-they-built
+Pauldy has described a project centered around creating an AI home security system using .NET, Python Semantic Kernel, a Telegram bot, Raspberry Pi 4, and OpenAI.
 
-## grant-status
-None
+### grant-status
+none
 
-## how-to-reach
-No contact information is available.
+### how-to-reach
+- Discord handle: Not documented
+- GitHub: Not documented
+- X: Not documented
 
 ## connects-to
-[[builders]]
-[[devkit]]
-[[community engagement]]
+[[AI Home Security]] 
+[[.NET Integrations]]
+[[Python Semantic Kernel]]
+[[Telegram Bots]]
+[[Raspberry Pi Projects]]
 
-<!-- synthesized: 2026-07-07T13:08:51Z -->
+<!-- synthesized: 2026-07-08T12:11:05Z -->
 ```

@@ -1,25 +1,25 @@
-```markdown
----
-title: concepts/dead-mans-switch
+```yaml
+title: Dead Man's Switch
 entity_type: concepts
 status: stub
-last_updated: 2026-07-07
----
-
-### definition
-A dead man's switch is a safety mechanism that automatically triggers a specific action when the operator is incapacitated or unable to perform the action themselves. This concept ensures that critical processes or systems do not remain unchecked in case the responsible person is no longer able to oversee them.
-
-### why-it-matters
-In the context of OpenHome, a dead man's switch is significant as it contributes to system reliability and user safety. It ensures that in cases of sudden disengagement from the user—whether due to health reasons or other emergencies—the system can take predefined actions to mitigate risks, protect user data, or maintain essential services.
-
-### how-it-manifests
-This concept may appear in various facets of the OpenHome platform, particularly in features related to user account security, automation routines, or notifications. For instance, a user might set up a dead man's switch to send alerts to designated contacts if they do not log in to their account for an extended period, or to trigger certain automated responses in their home environment.
-
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/grant-program]]
-
-<!-- synthesized: 2026-07-07T13:08:51Z -->
+last_updated: 2026-07-08
 ```
+
+## definition
+A dead man's switch is a safety mechanism that automatically triggers an action if a specific condition is not met, typically indicating that the operator is unable to perform their duties or has become incapacitated.
+
+## why-it-matters
+In the context of OpenHome, the dead man's switch is crucial for ensuring safety and continuity. It allows for automated responses in case of user unavailability, thereby enhancing security and operational reliability. This concept underpins trust in automated systems, ensuring that there are fail-safes in place.
+
+## how-it-manifests
+The concept of a dead man's switch may manifest in various forms within the OpenHome platform, including automated alerts sent to designated contacts if a user fails to interact with a system within a specified timeframe. It can also include features that execute commands when a user's availability status is unclear or unresponsive.
+
+## connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
+
+<!-- synthesized: 2026-07-08T12:11:05Z -->

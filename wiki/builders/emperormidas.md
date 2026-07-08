@@ -1,27 +1,28 @@
-```markdown
----
-title: emperormidas
-entity_type: builders
+```yaml
+title: builders/emperormidas
+entity_type: community builder
 status: stub
-last_updated: 2026-07-07
----
+last_updated: 2026-07-08
+```
 
-### who-they-are
-Emperormidas is part of the active community of builders focusing on developing innovative abilities and integrations for platform users, leveraging the Homie and User roles.
+## who-they-are
+Emperor Midas is an active community builder with a background in software development. They are involved in creating innovative solutions in the field of home automation and security.
 
-### what-they-built
-Details regarding specific shipped abilities or integrations by emperormidas are currently unavailable.
+## what-they-built
+Their current project includes the development of an AI home security system utilizing .NET, Python Semantic Kernel, a Telegram Bot, and Raspberry Pi 4. This project aims to integrate advanced technology for enhancing home security systems.
 
-### grant-status
-The grant status for emperormidas has not been specified.
+## grant-status
+none
 
-### how-to-reach
-Information on how to reach emperormidas, such as Discord handle, GitHub, or X (formerly Twitter), has not been provided.
+## how-to-reach
+- Discord handle: Not specified
+- GitHub: Not specified
+- X (Twitter): Not specified
 
 ## connects-to
-[[builders]]
-[[Homie]]
-[[User roles]]
+[[home automation]]  
+[[AI security systems]]  
+[[Telegram Bot development]]  
+[[Raspberry Pi projects]]  
 
-<!-- synthesized: 2026-07-07T13:08:51Z -->
-```
+<!-- synthesized: 2026-07-08T12:11:05Z -->

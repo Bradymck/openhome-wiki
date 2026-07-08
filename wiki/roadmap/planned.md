@@ -1,25 +1,26 @@
 ```yaml
-title: roadmap/planned
+title: Roadmap/Planned
 entity_type: roadmap
-status: stub
-last_updated: 2026-07-07
+status: live
+last_updated: 2026-07-08
 ```
 
-### what-it-is
-This page outlines the features, milestones, and developments that are intended to be implemented, currently being worked on, or have already been shipped.
+## what-it-is
+Roadmap detailing upcoming features, in-progress projects, and milestones for development.
 
-### status
-- Planned, In-progress, or Shipped milestones have not been identified from the current data.
+## status
+In-progress
 
-### why-it-matters
-Understanding the roadmap is crucial for stakeholders to anticipate upcoming features and changes, ensuring they are well-informed about the trajectory of the project.
+## why-it-matters
+This roadmap is critical for aligning development efforts with user expectations and guiding stakeholders about what to anticipate in future updates.
 
-### eta
-No specific timelines are currently available.
+## eta
+Rough timelines are not specified; future updates will clarify expected delivery dates.
 
 ## connects-to
-[[roadmap/on-progress]]  
-[[roadmap/shipped]]  
-[[milestones]]  
+[[roadmap/in-progress]]
+[[roadmap/shipped]]
+[[development/feature]]
+[[stakeholder-engagement]]
 
-<!-- synthesized: 2026-07-07T13:08:51Z -->
+<!-- synthesized: 2026-07-08T12:11:05Z -->

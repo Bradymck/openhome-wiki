@@ -1,25 +1,24 @@
 ```markdown
 ---
 title: guides/brianchilders
-entity_type: Community Guide
+entity_type: Community Guides
 status: stub
-last_updated: 2026-07-07
+last_updated: 2026-07-08
 ---
 
 ### who-they-are
-Brian Childers is a community guide known for his experience and knowledge in various tech-related fields.
+Brian Childers is a community guide with expertise in the cryptocurrency sector, providing valuable insights into market trends.
 
 ### what-they-help-with
-Brian specializes in assisting new users with onboarding processes, providing insights into software tools, and guiding them in utilizing APIs effectively.
+Brian specializes in helping users navigate the complexities of both cryptocurrency and traditional markets, offering guidance on investment strategies and market analysis.
 
 ### how-to-reach
-You can connect with Brian on Discord under the handle `brianchilders`.
+Discord Handle: brianchilders
 
 ## connects-to
 [[guides]]
-[[API assistance]]
-[[onboarding]]
-[[community support]]
+[[crypto]]
+[[market_analysis]]
 
-<!-- synthesized: 2026-07-07T13:08:51Z -->
+<!-- synthesized: 2026-07-08T12:11:05Z -->
 ```

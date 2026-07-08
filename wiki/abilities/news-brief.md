@@ -3,28 +3,28 @@
 title: abilities/news-brief
 entity_type: abilities
 status: live
-last_updated: 2026-07-07
+last_updated: 2026-07-08
 ---
 
 ### what-it-does
-The News Brief ability provides users with summarized news updates from various sources, allowing them to stay informed about current events in a concise format.
+The News Brief ability aggregates and summarizes breaking news and events in real-time, allowing users to stay informed about important happenings around the world.
 
 ### how-to-build
-To build the News Brief ability, developers should implement a system that aggregates news articles from multiple sources, processes the information, and generates brief summaries. Utilize APIs from news outlets and social media platforms to fetch live updates. Ensure the design supports easy navigation through different topics and sources.
+The ability can be constructed using data retrieval APIs, social media monitoring tools, and natural language processing for summarization. Builders can integrate news APIs from various sources, or utilize services like RSS feeds and social media channels to gather data. Key programming languages may include Python for backend services and JavaScript for front-end integration.
 
 ### category
 utility
 
 ### built-by
-[[User:NotSpecified]]
+[[User:builder-profile]]
 
 ### status
 live
 
 ### connects-to
+[[abilities/deadman-fm]]
 [[abilities/trivia]]
 [[abilities/aquaprime]]
-[[abilities/deadman-fm]]
 
-<!-- synthesized: 2026-07-07T13:08:51Z -->
+<!-- synthesized: 2026-07-08T12:11:05Z -->
 ```

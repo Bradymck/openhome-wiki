@@ -3,22 +3,22 @@
 title: guides/samuel35
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-07
+last_updated: 2026-07-08
 ---
 
-### who-they-are
-Samuel35 is a community guide known for their contributions to helping users navigate various platforms and technologies. Their experience and expertise within the community have made them a key resource for new and existing members.
+## who-they-are
+Samuel35 is recognized within the community as a knowledgeable guide, particularly in the realm of cryptocurrency. Their expertise spans various aspects of crypto markets, and they aim to assist users in navigating complexities associated with these digital assets.
 
-### what-they-help-with
-Samuel35 specializes in user onboarding, providing guidance on how to efficiently utilize tools and platforms. Their knowledge extends to various hardware, software, and API integrations, making them a versatile resource in the community.
+## what-they-help-with
+Samuel35 specializes in providing insights into cryptocurrency trends and market analysis. They emphasize the importance of monitoring not just crypto markets but also traditional markets, suggesting a holistic approach to investment opportunities. Their guidance can be particularly valuable for users looking to understand market dynamics, trading strategies, and potential investment paths.
 
-### how-to-reach
-You can reach Samuel35 on Discord through their handle, which is available upon request within community channels.
+## how-to-reach
+Discord Handle: samuel35
 
 ## connects-to
-[[community_guides]]
-[[user_onboarding]]
-[[technology_support]]
+[[guides]]
+[[crypto]]
+[[market_analysis]]
 
-<!-- synthesized: 2026-07-07T13:08:51Z -->
+<!-- synthesized: 2026-07-08T12:11:05Z -->
 ```

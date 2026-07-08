@@ -1,25 +1,26 @@
-```markdown
----
+```yaml
 title: builders/jkoppel
 entity_type: builder
 status: stub
-last_updated: 2026-07-07
----
+last_updated: 2026-07-08
+```
 
-### who-they-are
-No specific background information or details about current building projects for jkoppel are available.
+## who-they-are
+jkoppel is a community builder engaged in creating innovative solutions using technology, focusing on an AI home security system. Their development includes integrating various technologies to enhance home automation and security.
 
-### what-they-built
-No details on shipped abilities or integrations from jkoppel have been provided.
+## what-they-built
+jkoppel has worked on an AI home security system utilizing .NET, Python Semantic Kernel, Telegram, and Raspberry Pi 4. This project reflects their commitment to building useful and accessible technology solutions for home security.
 
-### grant-status
-No information on grant status for jkoppel is available.
+## grant-status
+none
 
-### how-to-reach
-No contact information for jkoppel is available.
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-No related pages or wikilinks are available.
+[[AI Home Security]]  
+[[Home Automation]]  
 
-<!-- synthesized: 2026-07-07T13:08:51Z -->
-```
+<!-- synthesized: 2026-07-08T12:11:05Z -->

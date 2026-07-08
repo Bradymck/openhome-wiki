@@ -1,25 +1,24 @@
 ```markdown
 ---
-title: "Super Greg"
-entity_type: "guides/"
-status: "stub"
-last_updated: 2026-07-07
+title: guides/super-greg
+entity_type: Community Guide
+status: stub
+last_updated: 2026-07-08
 ---
 
 ### who-they-are
-Super Greg is a community guide known for being an experienced and knowledgeable power user. His background includes extensive involvement in various community projects and a deep understanding of the tools and systems used within the community.
+Super Greg is a knowledgeable member of the community with a background in cryptocurrencies. They have experience in monitoring market trends and opportunities in both crypto and traditional markets.
 
 ### what-they-help-with
-Super Greg specializes in onboarding new users, offering insights into best practices and efficient use of community resources. His guidance covers a range of topics, including troubleshooting common issues, optimizing user workflows, and leveraging community APIs effectively.
+Super Greg specializes in providing insights and guidance related to cryptocurrencies, including market analysis and trading strategies. They are adept at navigating various platforms and understanding market dynamics, which positions them as a valuable resource for users looking to explore crypto investments.
 
 ### how-to-reach
-You can connect with Super Greg on Discord using his handle [SuperGreg#1234](https://discordapp.com/users/SuperGreg#1234).
+Discord Handle: SuperGreg#1234
 
 ## connects-to
-[[guides/community-guides]]
-[[guides/onboarding]]
-[[guides/troubleshooting]]
-[[guides/api-usage]]
+[[guides]]
+[[crypto]]
+[[market-analysis]]
 
-<!-- synthesized: 2026-07-07T13:08:51Z -->
+<!-- synthesized: 2026-07-08T12:11:05Z -->
 ```

@@ -1,27 +1,29 @@
 ```markdown
 ---
 title: builders/mathieub
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-07-07
+last_updated: 2026-07-08
 ---
 
-## who-they-are
-Mathieu B. is an active member of the community, focusing on building essential tools and capabilities for the ecosystem. 
+### who-they-are
+Mathieu B is a community builder focused on developing innovative technology solutions, particularly in the realms of home automation and security.
 
-## what-they-built
-Details on specific abilities or integrations built by Mathieu B. are currently not available.
+### what-they-built
+They are in the process of building an AI home security system utilizing .NET, Python, Semantic Kernel, Telegram, and Raspberry Pi 4.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-Discord handle: not provided  
-GitHub: not provided  
-X: not provided  
+### how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X/Twitter: Not provided
 
-## connects-to
-[[abilities]]
+### connects-to
+[[AI Home Security]]
+[[Home Automation]]
+[[Raspberry Pi Projects]]
 
-<!-- synthesized: 2026-07-07T13:08:51Z -->
+<!-- synthesized: 2026-07-08T12:11:05Z -->
 ```

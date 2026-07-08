@@ -1,24 +1,22 @@
 ```markdown
 ---
 title: guides/sira
-entity_type: Community Guide
+entity_type: Community Guides
 status: stub
-last_updated: 2026-07-07
+last_updated: 2026-07-08
 ---
 
-### who-they-are
-Information about the background or expertise of Sira is not available at this time.
+## who-they-are
+Information about who Sira is and their background is currently unavailable.
 
-### what-they-help-with
-Sira's specialties and the specific areas where they provide assistance are not detailed in the available sources.
+## what-they-help-with
+Details about Sira's specialty and the areas they assist with are not provided.
 
-### how-to-reach
-Sira's Discord handle is currently not provided.
+## how-to-reach
+Sira's Discord handle has not been specified.
 
 ## connects-to
-[[guides]]
-[[Community Guide]]
-[[Discord]] 
+[[wikilinks]]
 
-<!-- synthesized: 2026-07-07T13:08:51Z -->
+<!-- synthesized: 2026-07-08T12:11:05Z -->
 ```
