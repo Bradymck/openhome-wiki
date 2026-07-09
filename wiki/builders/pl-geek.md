@@ -1,30 +1,27 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-08
+last_updated: 2026-07-09
 ---
 
-### who-they-are
-pl-geek is an active member of the community focused on building innovative solutions involving AI and home automation.
+## who-they-are
+pl-geek is part of the active community of builders focused on developing and enhancing capabilities in the tech ecosystem.
 
-### what-they-built
-pl-geek has worked on an AI home security system utilizing .NET, Python Semantic Kernel, Telegram, and Raspberry Pi 4.
+## what-they-built
+Details about specific shipped abilities or integrations by pl-geek are currently unavailable.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: @pl_geek (assumed based on naming)
+## how-to-reach
+Discord handle: Unknown  
+GitHub: Unknown  
+X: Unknown  
 
-### connects-to
-[[AI Home Security]]
-[[Telegram Bot Integrations]]
-[[Raspberry Pi Projects]]
-[[Semantic Kernel Development]]
+## connects-to
+[[abilities]]  
 
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+<!-- synthesized: 2026-07-09T13:40:33Z -->
 ```

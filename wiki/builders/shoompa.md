@@ -1,32 +1,25 @@
 ```markdown
 ---
 title: builders/shoompa
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-08
+last_updated: 2026-07-09
 ---
 
 ### who-they-are
-Shoompa is an active community builder who focuses on developing innovative solutions leveraging AI technology. They are notable for their integration of various programming languages and tools in their projects.
+shoompa is part of the active community of builders focused on developing and shipping abilities within the ecosystem, especially for holders of devkits.
 
 ### what-they-built
-Shoompa is in the process of building an AI Home Security System using .NET, Python, the Semantic Kernel, a Telegram bot, and Raspberry Pi 4. This project aims to enhance home security through advanced AI capabilities.
+Information on specific abilities or integrations shipped by shoompa is currently not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not available
-- GitHub: Not available
-- X: Not available
+No specific contact details like Discord handle, GitHub, or X available at this time.
 
-## connects-to
-[[AI Home Security System]]
-[[.NET]]
-[[Python]]
-[[Raspberry Pi]]
-[[Telegram bot]]
-[[Semantic Kernel]]
+### connects-to
+No connections to abilities have been documented yet.
 
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+<!-- synthesized: 2026-07-09T13:40:33Z -->
 ```

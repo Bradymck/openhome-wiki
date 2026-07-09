@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: platform/abilities
-entity_type: platform
+entity_type: page
 status: stub
-last_updated: 2026-07-08
-```
+last_updated: 2026-07-09
+---
 
-## what-it-is
-The "platform/abilities" refers to the features and functionalities provided by the OpenHome platform, designed to enhance user interaction and device integration within home automation systems.
+### what-it-is
+The OpenHome platform abilities encompass the various features and functionalities that enhance the user experience by facilitating interactions with smart home devices.
 
-## how-it-works
-While specific details about the inner workings of the platform's abilities are not available, it is generally understood that these capabilities enable various devices to communicate and operate seamlessly together in a smart home environment. This involves the integration of voice control, automation routines, and compatibility with multiple device types, streamlining user experience.
+### how-it-works
+The platform's abilities allow for seamless integration and control of various smart home devices, making tasks easier for users. This includes the use of APIs and customizable settings to optimize device operations and interactions.
 
-## current-status
+### current-status
 stub
 
-## connects-to
+### connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/dashboard]]
@@ -23,4 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+<!-- synthesized: 2026-07-09T13:40:33Z -->
+```

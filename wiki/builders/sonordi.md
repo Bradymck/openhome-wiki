@@ -1,29 +1,28 @@
 ```markdown
 ---
 title: builders/sonordi
-entity_type: builder
-status: live
-last_updated: 2026-07-08
+entity_type: builders
+status: stub
+last_updated: 2026-07-09
 ---
 
-## who-they-are
-sonordi is an active community builder focused on developing innovative solutions in the smart home sector. Their work combines multiple technologies and platforms, primarily focusing on AI applications.
+### who-they-are
+Sonordi is an active member of the builders community, engaged in the development and integration of technologies aimed at enhancing digital capabilities.
 
-## what-they-built
-sonordi has shipped an AI home security system that integrates .NET, Python Semantic Kernel, a Telegram bot, and Raspberry Pi 4 technology. This system allows for enhanced monitoring and control of home security through advanced AI functionalities.
+### what-they-built
+Information on specific abilities or integrations shipped by Sonordi is currently unavailable.
 
-## grant-status
-none
+### grant-status
+None
 
-## how-to-reach
-- Discord: N/A
-- GitHub: N/A
-- X (Twitter): N/A
+### how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
+- X/Twitter: Not provided
 
 ## connects-to
-[[builders/ai-home-security]]  
-[[builders/raspberry-pi]]  
-[[builders/python-semantic-kernel]]  
-
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+[[digital_health]]
+[[AI_integration]]
+[[open_source]]
+<!-- synthesized: 2026-07-09T13:40:33Z -->
 ```

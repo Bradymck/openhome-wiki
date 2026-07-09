@@ -1,30 +1,29 @@
-```markdown
----
-title: Roadmap and Shipped Features
-entity_type: roadmap/shipped
+```yaml
+title: Roadmap/Shipped
+entity_type: roadmap
 status: live
-last_updated: 2026-07-08
----
+last_updated: 2026-07-09
+```
 
-### what-it-is
-This page aggregates the features or milestones that have either been shipped or are currently in progress, as well as those that are planned or cancelled.
+## what-it-is
+This page documents the features and milestones that have either shipped or are currently in progress within our roadmap.
 
-### status
-- Shipped: Successfully implemented features that are now available for use.
-- In-Progress: Features that are currently being developed or tested.
-- Planned: Features that are scheduled for future development.
-- Cancelled: Features that have been previously scheduled but are no longer in development.
+## status
+- **Shipped**: Completed features and milestones that are now available to users.
+- **In-Progress**: Features that are currently under development.
+- **Planned**: Features that are slated for future development but have not yet begun.
+- **Cancelled**: Features or initiatives that will no longer be pursued.
 
-### why-it-matters
-Providing transparency regarding what features are being worked on or have been completed helps users understand the ongoing development and direction of the project. This information is crucial for users to know what to expect and when they can anticipate new functionalities.
+## why-it-matters
+The roadmap provides clarity on our development priorities, enabling users to understand what enhancements and functionalities they can expect. It supports transparency and helps users engage more effectively with our platform.
 
-### eta
-A rough timeline for the availability of in-progress and planned features is generally provided but varies based on the complexity of the development and resources available.
+## eta
+Timeline details will be communicated for each feature as they progress through the roadmap stages.
 
 ## connects-to
-[[Features]]
-[[Development Roadmap]]
-[[Project Updates]]
+- [[roadmap/planned]]
+- [[roadmap/in-progress]]
+- [[features/shipped]]
 
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+<!-- synthesized: 2026-07-09T13:40:33Z -->
 ```

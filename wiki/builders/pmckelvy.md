@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: pmckelvy
-entity_type: builders/
+title: builders/pmckelvy
+entity_type: builder
 status: stub
-last_updated: 2026-07-08
+last_updated: 2026-07-09
 ---
 
 ### who-they-are
-pmckelvy is an active community builder focused on developing integrated solutions within the tech space. They are passionate about leveraging technology for progressive and intuitive home automation systems.
+Pmckelvy is an active community builder involved in developing innovative solutions in the tech space. Their background includes a focus on enhancing user experience and integrating community-driven projects.
 
 ### what-they-built
-pmckelvy has worked on an AI home security system using .NET, Python Semantic Kernel, Telegram, and Raspberry Pi 4. This project exemplifies their ability to combine various technologies to create practical solutions.
+Details about specific abilities or integrations that Pmckelvy has shipped are currently unknown.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: [pmckelvy](https://discord.com/)
-- GitHub: [pmckelvy](https://github.com/pmckelvy)
-- X/Twitter: [@pmckelvy](https://twitter.com/pmckelvy)
+- Discord: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
-[[AI Home Security System]]
-[[Home Automation]]
-[[Tech Integrations]]
+[[builders]]
+[[community]]
+[[tech_innovations]]
 
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+<!-- synthesized: 2026-07-09T13:40:33Z -->
 ```

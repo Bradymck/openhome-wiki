@@ -1,29 +1,27 @@
-```markdown
----
-title: builders/bradymck
-entity_type: builder
+```yaml
+title: bradymck
+entity_type: builders
 status: stub
-last_updated: 2026-07-08
----
-
-### who-they-are
-Brady McK is a member of the active community of builders focused on developing and enhancing tools and integrations in the crypto space. 
-
-### what-they-built
-Currently, detailed information about specific abilities or integrations shipped by Brady McK is not available.
-
-### grant-status
-none
-
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X/Twitter: Not specified
-
-### connects-to
-[[ability1]]
-[[ability2]]
-[[ability3]]
-
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+last_updated: 2026-07-09
 ```
+
+## who-they-are
+Brady McK is an active community builder focusing on developing capabilities within a decentralized environment. They are recognized for their contributions to the homie ecosystem, driving collaborative projects and fostering community engagement among users.
+
+## what-they-built
+Details regarding the specific abilities or integrations developed by Brady McK are currently not available.
+
+## grant-status
+unknown
+
+## how-to-reach
+Discord handle: not provided  
+GitHub: not provided  
+X: not provided  
+
+## connects-to
+[[builders]]  
+[[community builders]]  
+[[homie ecosystem]]
+
+<!-- synthesized: 2026-07-09T13:40:33Z -->

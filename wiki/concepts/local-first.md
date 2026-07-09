@@ -3,23 +3,25 @@
 title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-07-08
+last_updated: 2026-07-09
 ---
 
-### definition
-Local-first refers to a design philosophy that prioritizes data storage and processing on local devices rather than relying heavily on cloud infrastructure. This approach allows applications to function effectively even when offline, enabling users to maintain control over their data.
+## definition
+Local-first refers to a system design approach where the primary experience and data management occur on a user's local device rather than relying solely on cloud services.
 
-### why-it-matters
-Local-first is crucial to the OpenHome framework as it empowers users to interact with their home environments autonomously, enhancing privacy and reducing reliance on external servers. This aligns with OpenHome's vision of creating a user-centric ecosystem where control and security are paramount.
+## why-it-matters
+The local-first approach is crucial for OpenHome as it enhances user autonomy and data privacy, allowing users to maintain control over their data and engage with their environment without relying on constant internet connectivity or centralized servers.
 
-### how-it-manifests
-In the OpenHome platform, local-first can be observed in features that allow devices to communicate and function without constant internet connectivity. This includes smart home systems where data is processed and utilized locally, facilitating real-time responses and interactions that do not depend on external cloud services.
+## how-it-manifests
+In the OpenHome platform, local-first principles may manifest through applications that allow users to interact with their homes and data locally, with the ability to synchronize information to the cloud as needed, thereby ensuring a smoother and more responsive user experience.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+<!-- synthesized: 2026-07-09T13:40:33Z -->
 ```

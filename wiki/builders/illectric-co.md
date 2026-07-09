@@ -1,28 +1,29 @@
 ```markdown
 ---
-title: illectric-co
-entity_type: builders
-status: stub
-last_updated: 2026-07-08
+title: "Illectric Co"
+entity_type: "builders/"
+status: "stub"
+last_updated: 2026-07-09
 ---
 
-### who-they-are
-illectric-co is a community of developers focused on building innovative solutions that leverage artificial intelligence and IoT technologies. Currently, they are active in developing home automation systems and integrations.
+## who-they-are
+Illectric Co is a community of builders focusing on the development of open-source tools and solutions. Their mission revolves around enhancing digital infrastructure solutions.
 
-### what-they-built
-No specific shipped abilities or integrations by illectric-co have been detailed in the source material.
+## what-they-built
+Currently, there is no specific information available regarding the abilities or integrations that Illectric Co has shipped.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X/Twitter: Not provided
+## how-to-reach
+Discord handle: Not available  
+GitHub: Not available  
+X: Not available  
 
 ## connects-to
-[[artificial-intelligence]]
-[[home-automation]]
-[[IoT]]
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+[[builders]]
+[[open-source]]
+[[digital-tools]]
+
+<!-- synthesized: 2026-07-09T13:40:33Z -->
 ```

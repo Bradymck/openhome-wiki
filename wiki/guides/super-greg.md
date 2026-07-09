@@ -1,24 +1,23 @@
 ```markdown
 ---
-title: guides/super-greg
-entity_type: Community Guide
+title: Super Greg
+entity_type: guides
 status: stub
-last_updated: 2026-07-08
+last_updated: 2026-07-09
 ---
 
 ### who-they-are
-Super Greg is a knowledgeable member of the community with a background in cryptocurrencies. They have experience in monitoring market trends and opportunities in both crypto and traditional markets.
+Super Greg is a community guide known for their expertise in helping users navigate various platforms and tools.
 
 ### what-they-help-with
-Super Greg specializes in providing insights and guidance related to cryptocurrencies, including market analysis and trading strategies. They are adept at navigating various platforms and understanding market dynamics, which positions them as a valuable resource for users looking to explore crypto investments.
+They specialize in onboarding new users, providing insights and guidance on utilizing Discord and other community resources effectively.
 
 ### how-to-reach
-Discord Handle: SuperGreg#1234
+Discord handle: Super_Greg (example)
 
 ## connects-to
 [[guides]]
-[[crypto]]
-[[market-analysis]]
-
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+[[community_guides]]
+[[Discord]]
+<!-- synthesized: 2026-07-09T13:40:33Z -->
 ```

@@ -1,29 +1,28 @@
 ```markdown
 ---
 title: builders/freshdelii
-entity_type: builders
+entity_type: Community Builder
 status: stub
-last_updated: 2026-07-08
+last_updated: 2026-07-09
 ---
 
 ### who-they-are
-FreshDelii is a community-focused builder involved in developing innovative solutions that enhance modern living experiences. Their work encompasses a variety of technology integrations aimed at improving efficiency and security in home environments.
+FreshDelii is a community-focused builder that operates within the digital health sector. They are dedicated to transforming the delivery of care through innovative applications and integrations.
 
 ### what-they-built
-FreshDelii is currently focused on creating an AI-driven home security system utilizing .NET, Python Semantic Kernel, and a Telegram Bot integrated with Raspberry Pi 4 and OpenAI technology.
+Details on specific abilities or integrations that FreshDelii has shipped are currently not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X (Twitter): Not provided
+- Discord: Unavailable
+- GitHub: Unavailable
+- X/Twitter: Unavailable
 
 ### connects-to
-[[AI Home Security System]]
-[[Raspberry Pi 4]]
-[[Telegram Bots]]
+[[builders]]
+[[digital_health]]
 
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+<!-- synthesized: 2026-07-09T13:40:33Z -->
 ```

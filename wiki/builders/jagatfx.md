@@ -1,26 +1,29 @@
-```yaml
-title: JagatFX
-entity_type: builders
+```markdown
+---
+title: builders/jagatfx
+entity_type: builder
 status: stub
-last_updated: 2026-07-08
-```
+last_updated: 2026-07-09
+---
 
 ## who-they-are
-JagatFX is a community builder with a focus on creating innovative technology solutions. They are passionate about integrating various technologies, especially in the realm of home automation and AI systems.
+Jagatfx is an active community builder recognized for their involvement in the development of various tools and capabilities.
 
 ## what-they-built
-JagatFX has shipped an AI home security system, which utilizes .NET, Python Semantic Kernel, a Telegram bot, and Raspberry Pi 4. This integration aims to enhance home security through intelligent automation.
+Information regarding specific abilities or integrations shipped by Jagatfx is currently unavailable.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: [Information not available]
-- GitHub: [Information not available]
-- X: [Not provided]
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[builders/ai-home-security]]
-[[builders/rpi-projects]]
+[[builders]]
+[[community]]
+[[development]]
 
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+<!-- synthesized: 2026-07-09T13:40:33Z -->
+```

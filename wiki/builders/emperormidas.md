@@ -1,28 +1,30 @@
-```yaml
+```markdown
+---
 title: builders/emperormidas
-entity_type: community builder
+entity_type: builder
 status: stub
-last_updated: 2026-07-08
-```
+last_updated: 2026-07-09
+---
 
-## who-they-are
-Emperor Midas is an active community builder with a background in software development. They are involved in creating innovative solutions in the field of home automation and security.
+### who-they-are
+Emperor Midas is a community builder within the Homie ecosystem, known for their innovative contributions to the development of new technology solutions. They focus on enhancing user experiences and digital interactions through diverse projects.
 
-## what-they-built
-Their current project includes the development of an AI home security system utilizing .NET, Python Semantic Kernel, a Telegram Bot, and Raspberry Pi 4. This project aims to integrate advanced technology for enhancing home security systems.
+### what-they-built
+Details about specific abilities or integrations that Emperor Midas has shipped are currently unavailable.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X (Twitter): Not specified
+### how-to-reach
+- Discord: [EmperorMidas](https://discord.com)
+- GitHub: [EmperorMidas](https://github.com)
+- X/Twitter: [@EmperorMidas](https://twitter.com/EmperorMidas)
 
-## connects-to
-[[home automation]]  
-[[AI security systems]]  
-[[Telegram Bot development]]  
-[[Raspberry Pi projects]]  
-
-<!-- synthesized: 2026-07-08T12:11:05Z -->
+### connects-to
+[[builders]]
+[[Homie]]
+[[community]]
+[[technology]]
+[[digital interact]]
+<!-- synthesized: 2026-07-09T13:40:33Z -->
+```
