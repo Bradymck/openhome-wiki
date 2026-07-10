@@ -3,26 +3,26 @@
 title: builders/sonordi
 entity_type: builders
 status: stub
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 ---
 
-### who-they-are
-Sonordi is an active member of the builders community, engaged in the development and integration of technologies aimed at enhancing digital capabilities.
+## who-they-are
+Sonordi is an active community builder involved in developing tools and integrations within the ecosystem. Their focus is on enhancing user experiences through innovative solutions.
 
-### what-they-built
-Information on specific abilities or integrations shipped by Sonordi is currently unavailable.
+## what-they-built
+Details about specific abilities or integrations built by Sonordi are currently not available.
 
-### grant-status
-None
+## grant-status
+none
 
-### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X/Twitter: Not provided
+## how-to-reach
+Discord handle: Unknown  
+GitHub: Unknown  
+X: Unknown
 
 ## connects-to
-[[digital_health]]
-[[AI_integration]]
-[[open_source]]
-<!-- synthesized: 2026-07-09T13:40:33Z -->
+[[ability-1]]  
+[[ability-2]]  
+
+<!-- synthesized: 2026-07-10T13:01:37Z -->
 ```

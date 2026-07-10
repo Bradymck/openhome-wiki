@@ -1,30 +1,28 @@
-```markdown
----
+```yaml
 title: abilities/trivia
 entity_type: abilities
 status: stub
-last_updated: 2026-07-09
----
+last_updated: 2026-07-10
+```
 
-### what-it-does
-Provides users with fun and interesting trivia facts across various topics.
+## what-it-does
+Trivia is an ability that allows users to engage in various trivia games and quizzes, offering a fun way to test knowledge across different topics.
 
-### how-to-build
-To create a trivia ability, utilize a database of trivia questions and answers. Implement an API endpoint that can randomly select and deliver trivia to users upon request.
+## how-to-build
+Builder notes and specific API features related to creating a trivia capability have not been documented. Further details might include integrating trivia question databases, scoring systems, and user interaction mechanisms as part of the development process.
 
-### category
+## category
 entertainment
 
-### built-by
-[[builders/trivia-experts]]
+## built-by
+[[builders/trivia-builder]]
 
-### status
+## status
 stub
 
-### connects-to
-[[abilities/aquaprime]]
-[[abilities/deadman-fm]]
-[[abilities/news-brief]]
+## connects-to
+[[abilities/news-brief]]  
+[[abilities/deadman-fm]]  
+[[abilities/aquaprime]]  
 
-<!-- synthesized: 2026-07-09T13:40:33Z -->
-```
+<!-- synthesized: 2026-07-10T13:01:37Z -->

@@ -1,24 +1,25 @@
 ```markdown
 ---
-title: Sagar Jethi
+title: Sagarjethi Community Guide
 entity_type: guides/
 status: stub
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 ---
 
 ### who-they-are
-Sagar Jethi is a community guide who has experience and knowledge in various areas relevant to onboarding and assisting users.
+Sagarjethi is recognized as a Community Guide, specializing in supporting and onboarding users within various community platforms.
 
 ### what-they-help-with
-Sagar specializes in offering guidance and support for community members, working with tools, resources, and possibly APIs to facilitate their usage. More specific areas of expertise or assistance were not detailed in the available data.
+Sagarjethi offers assistance in navigating community resources and onboarding processes. Their expertise includes providing guidance on best practices for engaging with community support tools and platforms.
 
 ### how-to-reach
-You can reach Sagar Jethi via Discord, although the specific Discord handle was not provided.
+Discord handle: Sagarjethi
 
-## connects-to
-[[community guides]]
-[[onboarding]]
-[[user support]]
+### connects-to
+[[guides/]]
+[[community-support]]
+[[onboarding-expert]]
+[[community-resources]]
 
-<!-- synthesized: 2026-07-09T13:40:33Z -->
+<!-- synthesized: 2026-07-10T13:01:37Z -->
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: Voice AI
-entity_type: platform/voice-ai
+title: platform/voice-ai
+entity_type: platform
 status: stub
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 ---
 
 ### what-it-is
-Voice AI refers to the technology that enables devices to recognize, interpret, and respond to human voice commands. It is an integral part of modern smart home systems, enhancing user interaction through natural language processing and voice recognition.
+Voice AI refers to the artificial intelligence technology that enables devices to interpret and respond to voice commands, facilitating interaction through natural language processing.
 
 ### how-it-works
-Voice AI functions by utilizing advanced algorithms and machine learning to analyze audio input. When a user speaks a command, the system captures the sound, converts it into text, and then processes the meaning to perform an action or provide a response. Integration with other smart home devices allows for seamless control and automation.
+Voice AI systems typically function by using machine learning algorithms to analyze audio input from users. They process speech using techniques such as speech recognition and natural language understanding, which allows them to interpret user intents and execute corresponding commands or provide information.
 
 ### current-status
 stub
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-07-09T13:40:33Z -->
+<!-- synthesized: 2026-07-10T13:01:37Z -->
 ```

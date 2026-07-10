@@ -1,28 +1,25 @@
-```markdown
----
+```yaml
 title: builders/freshdelii
-entity_type: Community Builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-09
----
-
-### who-they-are
-FreshDelii is a community-focused builder that operates within the digital health sector. They are dedicated to transforming the delivery of care through innovative applications and integrations.
-
-### what-they-built
-Details on specific abilities or integrations that FreshDelii has shipped are currently not available.
-
-### grant-status
-none
-
-### how-to-reach
-- Discord: Unavailable
-- GitHub: Unavailable
-- X/Twitter: Unavailable
-
-### connects-to
-[[builders]]
-[[digital_health]]
-
-<!-- synthesized: 2026-07-09T13:40:33Z -->
+last_updated: 2026-07-10
 ```
+
+## who-they-are
+Freshdelii is a community builder involved in developing tools and integrations within the ecosystem. They focus on enhancing user experiences and providing valuable resources for devkit holders.
+
+## what-they-built
+Currently, specific shipped abilities or integrations by Freshdelii are not documented.
+
+## grant-status
+None
+
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X/Twitter: Not specified
+
+## connects-to
+[[wikilinks]]
+
+<!-- synthesized: 2026-07-10T13:01:37Z -->

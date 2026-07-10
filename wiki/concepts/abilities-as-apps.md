@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: stub
-last_updated: 2026-07-09
----
+status: live
+last_updated: 2026-07-10
+```
 
-### definition
-The concept of "abilities-as-apps" refers to the idea of modular capabilities or functions that can be integrated into various applications, enabling users to utilize specific features without needing a full software package. This allows for greater flexibility and customization in digital environments.
+## definition
+The concept of "abilities-as-apps" refers to the idea of packaging functional capabilities, or abilities, into discrete apps that can be easily accessed, utilized, and managed by users. This approach allows users to interact with various functionalities as distinct applications rather than monolithic systems, enhancing modularity and customization.
 
-### why-it-matters
-In the context of OpenHome, abilities-as-apps facilitate a user-centric approach to technology. By allowing users to select and integrate only the functionalities they need, OpenHome promotes efficiency, personalization, and an enhanced user experience.
+## why-it-matters
+"Abilities-as-apps" is relevant to OpenHome as it promotes user autonomy and flexibility, allowing individuals to select and customize the functionalities they want in their home environment. This granularity supports a user-friendly approach to technology integration, fostering a more personalized and intuitive experience.
 
-### how-it-manifests
-The abilities-as-apps concept can manifest in OpenHome through various modules or plugins that users can choose from, enabling them to tailor their digital home environment according to their preferences and requirements. This modular approach allows for innovation and adaptability in the platform.
+## how-it-manifests
+In the OpenHome platform, the "abilities-as-apps" concept appears through the availability of specialized applications that users can install to manage different aspects of their home. Each app provides specific functionalities, like controlling smart devices, managing energy consumption, or adjusting home settings, making the experience accessible and tailored to individual preferences.
 
-### connects-to
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
+## connects-to
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-09T13:40:33Z -->
-```
+<!-- synthesized: 2026-07-10T13:01:37Z -->

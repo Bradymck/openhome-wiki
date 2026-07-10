@@ -1,25 +1,25 @@
-```markdown
----
+```yaml
 title: builders/xtremegamer007
 entity_type: builder
 status: stub
-last_updated: 2026-07-09
----
+last_updated: 2026-07-10
+```
 
 ## who-they-are
-XtremeGamer007 is an active member of the community involved in building various projects and abilities that cater to users' needs.
+XtremeGamer007 is an active participant in the community, recognized for their engagement and contributions.
 
 ## what-they-built
-Details on shipped abilities or specific integrations by XtremeGamer007 are not available at this time.
+Information about specific shipped abilities or integrations is not available at this time.
 
 ## grant-status
-Stub status — grant information for XtremeGamer007 is not currently provided.
+none
 
 ## how-to-reach
-Currently, there are no known Discord handles, GitHub profiles, or X (formerly Twitter) accounts linked to XtremeGamer007.
+- Discord handle: Unknown
+- GitHub: Unknown
+- X: @TomRowan777
 
 ## connects-to
-[[builders]]
-[[community]]
-<!-- synthesized: 2026-07-09T13:40:33Z -->
-```
+[[abilities]]
+
+<!-- synthesized: 2026-07-10T13:01:37Z -->

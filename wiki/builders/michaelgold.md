@@ -3,28 +3,26 @@
 title: builders/michaelgold
 entity_type: builder
 status: stub
-last_updated: 2026-07-09
+last_updated: 2026-07-10
 ---
 
-## who-they-are
-Michael Gold is a community builder focused on integrating open-source tools within various domains, including cloud and AI technology. 
+### who-they-are
+Michael Gold is involved in an innovative project that aims to disrupt the traditional model of accessory production for camera gear. This project centers around allowing users to build and customize their own camera accessories, thereby giving them the flexibility that the standard retail market does not offer.
 
-## what-they-built
-Details about specific abilities or integrations shipped by Michael Gold are currently unavailable.
+### what-they-built
+Currently, there are no specific shipped abilities or integrations listed under Michael Gold. His initiative to enable users to create custom camera equipment suggests potential for future developments in user-generated accessory designs.
 
-## grant-status
-Grant status information is not provided.
+### grant-status
+none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X: Not specified
+- X/Twitter: [@TomRowan777](https://twitter.com/TomRowan777)
 
-## connects-to
-[[builders]]
-[[community builders]]
-[[open-source]]
-[[AI integrations]]
+### connects-to
+- [[camera gear]]
+- [[custom accessory design]]
 
-<!-- synthesized: 2026-07-09T13:40:33Z -->
+<!-- synthesized: 2026-07-10T13:01:37Z -->
 ```

@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: builders/shookdt
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-09
----
+last_updated: 2026-07-10
+```
 
-### who-they-are
-Shookdt is an active community builder and devkit holder known for their contributions in the development ecosystem. They are engaged in creating tools and integrations that facilitate user experiences.
+## who-they-are
+Shookdt is part of an active community of builders facilitating the creation of customized tools and accessories, particularly focused on camera gear development.
 
-### what-they-built
-Currently, there are no specific abilities or integrations attributed to Shookdt available in the data.
+## what-they-built
+Details on specific shipped abilities or integrations by Shookdt are not available at this time.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not provided
 - GitHub: Not provided
-- X/Twitter: Not provided
+- X: [@TomRowan777](https://twitter.com/TomRowan777)
 
-### connects-to
-[[builders]]
+## connects-to
+[[abilities]]
 
-<!-- synthesized: 2026-07-09T13:40:33Z -->
-```
+<!-- synthesized: 2026-07-10T13:01:37Z -->
