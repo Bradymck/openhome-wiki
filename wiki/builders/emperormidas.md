@@ -1,24 +1,27 @@
-```yaml
-title: "Emperor Midas"
-entity_type: builders
+```markdown
+---
+title: builders/emperormidas
+entity_type: builder
 status: stub
-last_updated: 2026-07-10
-```
+last_updated: 2026-07-11
+---
 
 ### who-they-are
-Emperor Midas is an active member of the community, known for contributing as a builder within the ecosystem. Further details on their background and specific projects are currently unavailable.
+Information regarding the background and specific projects of emperormidas is currently unavailable. There are no details about what they are building.
 
 ### what-they-built
-No specific shipped abilities or integrations attributed to Emperor Midas have been recorded. 
+No specific abilities or integrations that emperormidas has shipped are documented at this time.
 
 ### grant-status
 none
 
 ### how-to-reach
-Currently lacking information on their Discord handle, GitHub, or Twitter/X profiles.
+No contact information for emperormidas is available.
 
-### connects-to
+## connects-to
 [[builders]]
-[[community]]
+[[abilities]]
+[[integrations]]
 
-<!-- synthesized: 2026-07-10T13:01:37Z -->
+<!-- synthesized: 2026-07-11T11:41:11Z -->
+```

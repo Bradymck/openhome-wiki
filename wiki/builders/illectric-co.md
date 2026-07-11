@@ -1,29 +1,25 @@
-```markdown
----
-title: Illectric Co
+```yaml
+title: illectric-co
 entity_type: builders
 status: stub
-last_updated: 2026-07-10
----
+last_updated: 2026-07-11
+```
 
 ## who-they-are
-Illectric Co is a community of builders focused on creating innovative camera gear and accessories. They are dedicated to providing solutions that empower users to customize their gear according to their needs rather than relying solely on the products available on the market.
+Illectric-co is a team of developers and creators focused on building innovative solutions for various applications, aiming to enhance user experience and functionality in their respective domains.
 
 ## what-they-built
-Currently, specific shipped abilities or integrations from Illectric Co are not detailed in the available data. They are engaged in discussions about creating customizable camera gear.
+Details on specific abilities or integrations that Illectric-co has shipped are currently unavailable.
 
 ## grant-status
-none
+stub
 
 ## how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X: [@TomRowan777](https://twitter.com/TomRowan777)
+- X: Not specified
 
 ## connects-to
-[[camera gear]]
-[[accessories]]
-[[community builders]]
+[[abilities]]
 
-<!-- synthesized: 2026-07-10T13:01:37Z -->
-```
+<!-- synthesized: 2026-07-11T11:41:11Z -->

@@ -3,27 +3,22 @@
 title: builders/pl-geek
 entity_type: builders
 status: stub
-last_updated: 2026-07-10
+last_updated: 2026-07-11
 ---
 
 ### who-they-are
-pl-geek is a member of the community focusing on empowering individuals to build and customize their own camera gear, breaking away from conventional accessory limitations set by brands.
+Information about pl-geek's background and what they are building is currently not available.
 
 ### what-they-built
-Details about specific shipped abilities or integrations are currently unavailable.
+Details about the abilities or integrations shipped by pl-geek are currently not available.
 
 ### grant-status
-none
+Status of any grant application or received is currently not available.
 
 ### how-to-reach
-- Discord handle: not provided
-- GitHub: not provided
-- X: [@TomRowan777](https://twitter.com/TomRowan777)
+Contact details for pl-geek are currently not available.
 
-### connects-to
-[[camera gear customization]]
-[[community builders]]
-[[accessory integrations]]
-
-<!-- synthesized: 2026-07-10T13:01:37Z --> 
+## connects-to
+[[wikilinks]]
+<!-- synthesized: 2026-07-11T11:41:11Z -->
 ```

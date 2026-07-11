@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: builders/michaelgold
-entity_type: builder
+title: Builders - Michael Gold
+entity_type: builders
 status: stub
-last_updated: 2026-07-10
+last_updated: 2026-07-11
 ---
 
 ### who-they-are
-Michael Gold is involved in an innovative project that aims to disrupt the traditional model of accessory production for camera gear. This project centers around allowing users to build and customize their own camera accessories, thereby giving them the flexibility that the standard retail market does not offer.
+Michael Gold is an active community builder focused on inclusivity, particularly in relation to immigrant experiences. He advocates for creating welcoming environments where every immigrant feels at home.
 
 ### what-they-built
-Currently, there are no specific shipped abilities or integrations listed under Michael Gold. His initiative to enable users to create custom camera equipment suggests potential for future developments in user-generated accessory designs.
+Currently, there is no specific information available regarding the abilities or integrations that Michael Gold has shipped.
 
 ### grant-status
 none
@@ -18,11 +18,12 @@ none
 ### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X/Twitter: [@TomRowan777](https://twitter.com/TomRowan777)
+- X/Twitter: [@Mikecfpa](https://twitter.com/Mikecfpa)
 
 ### connects-to
-- [[camera gear]]
-- [[custom accessory design]]
+[[builders]]
+[[community inclusivity]]
+[[immigrant advocacy]]
 
-<!-- synthesized: 2026-07-10T13:01:37Z -->
+<!-- synthesized: 2026-07-11T11:41:11Z -->
 ```

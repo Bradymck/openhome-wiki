@@ -3,27 +3,28 @@
 title: builders/pauldy
 entity_type: community builder
 status: stub
-last_updated: 2026-07-10
+last_updated: 2026-07-11
 ---
 
-## who-they-are
-Pauldy is a member of the active builder community focused on creating innovative accessories and gear solutions for various technology applications. 
+### who-they-are
+Pauldy is a member of the active community of developers and builders within the Homie ecosystem. They hold devkit and are involved in shipping abilities.
 
-## what-they-built
-Details on specific abilities or integrations that Pauldy has shipped are currently unavailable. 
+### what-they-built
+Information on specific abilities or integrations that Pauldy has built is currently unavailable.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X/Twitter: [@TomRowan777](https://twitter.com/TomRowan777)
+### how-to-reach
+- Discord handle: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
 [[builders]]
-[[abilities]]
-[[integrations]]
+[[devkit]]
+[[community builders]]
+[[Homie ecosystem]]
 
-<!-- synthesized: 2026-07-10T13:01:37Z -->
+<!-- synthesized: 2026-07-11T11:41:11Z -->
 ```

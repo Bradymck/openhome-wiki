@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: Dead Man's Switch
 entity_type: concepts
 status: live
-last_updated: 2026-07-10
-```
+last_updated: 2026-07-11
+---
 
 ## definition
-A dead man's switch is a safety mechanism that ensures certain actions are triggered if a specific condition is met, particularly that a user becomes unable to continue their engagement or fails to manually acknowledge their status. This concept generally serves to enhance safety and security in various applications and systems.
+A dead man's switch is a safety mechanism that triggers an action if a person becomes incapacitated or unresponsive. It is often used in systems to ensure that a task or process continues in the absence of human oversight, providing a form of automatic fail-safe.
 
 ## why-it-matters
-In the context of OpenHome, a dead man's switch is significant because it can safeguard users' data and control over their home environment. This mechanism can prevent unauthorized access or automation failures that could occur if the user becomes incapacitated.
+In the context of OpenHome, dead man's switches play a crucial role in enhancing reliability and safety. By integrating such mechanisms, the platform can ensure continuity of operations and prevent potential failures due to user unavailability, thus improving user trust and system resilience.
 
 ## how-it-manifests
-Within the OpenHome platform, a dead man's switch might manifest as a feature that requires periodic interaction or confirmation from the user to maintain control over their system. If the user fails to respond within a predetermined timeframe, the system could automatically deactivate controls, ensure privacy, or trigger alerts to designated contacts.
+The dead man's switch concept can manifest in various forms within the OpenHome ecosystem, including automated alerts or responses when a user does not interact with the system within a specified timeframe. This may include pausing functions, issuing reminders, or triggering safety protocols to maintain system integrity.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ Within the OpenHome platform, a dead man's switch might manifest as a feature th
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-10T13:01:37Z -->
+<!-- synthesized: 2026-07-11T11:41:11Z -->
+```

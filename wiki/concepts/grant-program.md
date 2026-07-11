@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: concepts/grant-program
+title: Grant Program
 entity_type: concepts
-status: stub
-last_updated: 2026-07-10
+status: live
+last_updated: 2026-07-11
 ---
 
-### definition
-A grant program is an initiative that provides funding to individuals or organizations for specific projects or purposes, with the intention of supporting innovation, research, or community development.
+## definition
+A grant program is a structured initiative that provides financial assistance to individuals, organizations, or projects that align with specific goals or criteria within a broader framework, often aimed at fostering innovation, research, or development in designated areas.
 
-### why-it-matters
-Grant programs are essential in the OpenHome ecosystem as they empower creators and developers to explore new ideas, build applications, and enhance features that align with the platform's goals. By funding initiatives that promote innovation, OpenHome fosters a landscape of creativity and diversity.
+## why-it-matters
+In OpenHome, grant programs are pivotal for encouraging community engagement and supporting innovative ideas that can enhance the platform's capabilities. They help cultivate an ecosystem of creativity and collaboration, empowering developers, researchers, and users to contribute to the platform's growth and improvement.
 
-### how-it-manifests
-While specific examples of grant programs within the OpenHome ecosystem were not detailed, their presence likely involves offering financial resources, mentorship, and access to community networks, which could be accessed through OpenHome's developer resources or community forums.
+## how-it-manifests
+Grant programs within OpenHome appear as funding opportunities for projects that align with the platform's objectives. These may include financial support for development work, research initiatives, or community-driven projects that seek to enhance user experience or expand functionalities. The programs may also host competitions or calls for proposals, where participants submit ideas that could be funded if selected.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ While specific examples of grant programs within the OpenHome ecosystem were not
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-07-10T13:01:37Z -->
+<!-- synthesized: 2026-07-11T11:41:11Z -->
 ```
