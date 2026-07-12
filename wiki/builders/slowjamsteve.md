@@ -1,29 +1,27 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builder
+entity_type: community_builder
 status: stub
-last_updated: 2026-07-11
+last_updated: 2026-07-12
 ---
 
-## who-they-are
-Slowjamsteve is a community builder known for their relaxed and open-minded approach to fostering inclusion within digital environments. Their engagement with users emphasizes the importance of creating welcoming spaces for individuals, particularly immigrants.
+### who-they-are
+Slowjamsteve is a community builder and developer focused on creating inclusive digital spaces. They engage with the community, advocating for open interactions and emotional well-being through their activities.
 
-## what-they-built
-Currently, there are no specific shipped abilities or integrations attributed to Slowjamsteve. They appear to focus on community building and fostering inclusivity rather than developing distinct technical integrations.
+### what-they-built
+Currently, there are no detailed specifics on the particular abilities or integrations that Slowjamsteve has built. Further insights or projects may be revealed in future updates.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
-- X/Twitter: [@Slowjamsteve](https://twitter.com/Slowjamsteve)
+- X: [@Slowjamsteve](https://twitter.com/Slowjamsteve)
 
-## connects-to
-[[builders]]  
-[[community]]  
-[[inclusivity]]  
+### connects-to
+[[builders]], [[community_support]], [[digital_inclusion]]
 
-<!-- synthesized: 2026-07-11T11:41:11Z -->
+<!-- synthesized: 2026-07-12T11:48:54Z -->
 ```

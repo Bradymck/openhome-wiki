@@ -3,22 +3,21 @@
 title: guides/adamdew
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-11
+last_updated: 2026-07-12
 ---
 
 ### who-they-are
-Adam Dew is a community member known for his contributions and interactions on various platforms. His expertise lies in creating inclusive spaces for dialogue and sharing experiences, particularly relating to the immigrant community.
+Adam Dew is known in the community for his contributions as a power user, assisting others in onboarding processes.
 
 ### what-they-help-with
-Adam specializes in fostering open discussions that promote inclusion and understanding among diverse groups. He focuses on community building, particularly for marginalized groups, ensuring everyone feels welcome and at home.
+Adam specializes in helping users navigate various guides and provides support with community integration and user engagement.
 
 ### how-to-reach
-Discord handle: @adamdew
+You can reach Adam Dew on Discord at @adamdew.
 
-### connects-to
+## connects-to
 [[guides]]
-[[community]]
-[[inclusion]]
-
-<!-- synthesized: 2026-07-11T11:41:11Z -->
+[[Community Guide]]
+[[Discord]]
+<!-- synthesized: 2026-07-12T11:48:54Z -->
 ```

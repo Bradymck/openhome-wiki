@@ -1,29 +1,26 @@
 ```markdown
 ---
-title: builders/shoompa
-entity_type: builders
-status: stub
-last_updated: 2026-07-11
+title: "builders/shoompa"
+entity_type: "community builder"
+status: "stub"
+last_updated: 2026-07-12
 ---
 
 ### who-they-are
-Shoompa is a community builder focused on creating inclusive spaces where every immigrant feels at home. They actively participate in fostering an environment of openness and understanding.
+Shoompa is an active member of the community focusing on building within the blockchain ecosystem, particularly in projects that enhance user engagement and connectivity.
 
 ### what-they-built
-Information regarding specific abilities or integrations that Shoompa has shipped is currently unavailable.
+Currently, there are no specific shipped abilities or integrations publicly documented regarding Shoompa.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Unknown  
-GitHub: Unknown  
-X: @ImmigrantVoices 
+- Discord: Not specified
+- GitHub: Not specified
+- X/Twitter: Not specified
 
-### connects-to
-[[includes]]
-[[community-building]]
-[[inclusivity]]
-
-<!-- synthesized: 2026-07-11T11:41:11Z -->
+## connects-to
+[[wikilinks]]
+<!-- synthesized: 2026-07-12T11:48:54Z -->
 ```

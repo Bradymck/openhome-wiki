@@ -1,29 +1,31 @@
 ```markdown
 ---
-title: Builders - Michael Gold
-entity_type: builders
+title: builders/michaelgold
+entity_type: builder
 status: stub
-last_updated: 2026-07-11
+last_updated: 2026-07-12
 ---
 
-### who-they-are
-Michael Gold is an active community builder focused on inclusivity, particularly in relation to immigrant experiences. He advocates for creating welcoming environments where every immigrant feels at home.
+## who-they-are
+Michael Gold is part of the active community of builders within the Home ecosystem, focusing on creating inclusive environments and ensuring that all individuals feel at home in our world.
 
-### what-they-built
-Currently, there is no specific information available regarding the abilities or integrations that Michael Gold has shipped.
+## what-they-built
+Currently, there are no specific shipped abilities or integrations attributed to Michael Gold, as no information was found regarding his contributions or projects.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X/Twitter: [@Mikecfpa](https://twitter.com/Mikecfpa)
+## how-to-reach
+- Discord handle: Not available
+- GitHub: Not available
+- X: [@CNPYNetwork](https://twitter.com/CNPYNetwork)
 
-### connects-to
+## connects-to
 [[builders]]
-[[community inclusivity]]
-[[immigrant advocacy]]
+[[community]]
+[[inclusion]]
+[[Home]]
+[[CNPYNetwork]]
 
-<!-- synthesized: 2026-07-11T11:41:11Z -->
+<!-- synthesized: 2026-07-12T11:48:54Z -->
 ```

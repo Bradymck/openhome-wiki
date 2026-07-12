@@ -3,25 +3,25 @@
 title: builders/jagatfx
 entity_type: builder
 status: stub
-last_updated: 2026-07-11
+last_updated: 2026-07-12
 ---
 
 ### who-they-are
-Jagatfx is a community builder focused on creating inclusive environments and opportunities for immigrants. They emphasize the importance of welcoming all individuals into new spaces and fostering open communication.
+Jagatfx is a community builder with a focus on fostering engagement and collaboration within the blockchain space. They are associated with the Homie and User roles and are active participants in the development and utilization of decentralized applications.
 
 ### what-they-built
-Information on specific abilities or integrations that Jagatfx has shipped is not currently available.
+Details on specific abilities or integrations that Jagatfx has shipped are currently not available. 
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not provided
+- Discord: Not provided
 - GitHub: Not provided
-- X: Not provided
+- X/Twitter: Not provided
 
 ### connects-to
-[[wikilinks]]
+[Abilities related to blockchain development] 
 
-<!-- synthesized: 2026-07-11T11:41:11Z -->
+<!-- synthesized: 2026-07-12T11:48:54Z -->
 ```

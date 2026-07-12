@@ -1,25 +1,27 @@
 ```markdown
 ---
 title: builders/pmckelvy
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-11
+last_updated: 2026-07-12
 ---
 
 ### who-they-are
-Information about pmckelvy's background and what they are building is currently unavailable.
+Information about pmckelvy is currently limited. More details may be available through community channels.
 
 ### what-they-built
-Details on the abilities or integrations that pmckelvy has shipped are currently unavailable.
+No specific abilities or integrations have been documented for pmckelvy at this time.
 
 ### grant-status
-Unknown.
+None
 
 ### how-to-reach
-Currently, there are no available contact details such as Discord handle, GitHub, or X (Twitter) for pmckelvy.
+Currently, there are no listed contact methods for pmckelvy, including Discord handle, GitHub, or X (Twitter).
 
 ## connects-to
-No connections to other abilities or related pages have been established.
-
-<!-- synthesized: 2026-07-11T11:41:11Z -->
+[[builders]]
+[[Homie]]
+[[User Roles]]
+[[devkit]]
+<!-- synthesized: 2026-07-12T11:48:54Z -->
 ```
