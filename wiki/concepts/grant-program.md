@@ -1,25 +1,24 @@
-```yaml
-title: concepts/grant-program
-entity_type: concepts
+```markdown
+---
+title: Grant Program
+entity_type: concepts/grant-program
 status: stub
-last_updated: 2026-07-12
-```
+last_updated: 2026-07-13
+---
 
 ## definition
-A grant program is a financial assistance initiative designed to support projects or activities that align with specific goals or missions. It typically involves the allocation of funds to organizations or individuals who apply, demonstrating how their proposals align with the program's objectives.
+A grant program is a structured initiative designed to provide funding and resources to individuals or organizations for specific projects or purposes. In the context of OpenHome, grant programs may support development, community engagement, or innovation in line with the platform's values.
 
 ## why-it-matters
-Grant programs play a crucial role in sustaining innovation, supporting community initiatives, and fostering development within the OpenHome ecosystem. By providing financial resources, these programs enable participants to explore new ideas, enhance existing projects, and contribute to the overall mission of OpenHome.
+Grant programs are crucial for fostering creativity and supporting initiatives that align with OpenHome's goals. They ensure that a diverse range of ideas can be funded and developed, which can lead to a more vibrant and inclusive community, driving the overall mission of OpenHome.
 
 ## how-it-manifests
-The grant program is represented within the OpenHome platform through initiatives that offer funding opportunities for developers, researchers, and community organizers. These initiatives may focus on areas such as enhancing user experience, fostering technology development, or supporting sustainability projects that resonate with the OpenHome values.
+In OpenHome, grant programs can be seen in various forms, such as financial support for new projects, mentorship for developers, or resources for community-driven initiatives. This support often prioritizes local projects that enhance user engagement and promote the platform's open-source ethos.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/local-first]]
+- [[concepts/community-engagement]]
 
-<!-- synthesized: 2026-07-12T11:48:54Z -->
+<!-- synthesized: 2026-07-13T13:10:10Z -->
+```

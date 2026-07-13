@@ -1,27 +1,27 @@
-```markdown
----
+```yaml
 title: builders/jagatfx
-entity_type: builder
+entity_type: community builder
 status: stub
-last_updated: 2026-07-12
----
+last_updated: 2026-07-13
+```
 
-### who-they-are
-Jagatfx is a community builder with a focus on fostering engagement and collaboration within the blockchain space. They are associated with the Homie and User roles and are active participants in the development and utilization of decentralized applications.
+## who-they-are
+Jagatfx is an active community builder engaged in enhancing collaboration and innovation within their developer ecosystem. They are focused on creating tools and solutions that empower users and developers alike.
 
-### what-they-built
-Details on specific abilities or integrations that Jagatfx has shipped are currently not available. 
+## what-they-built
+Details regarding specific abilities or integrations shipped by Jagatfx are currently not available.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X/Twitter: Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: [@jagatfx](https://t.co/RPuwFJtvx7)
 
-### connects-to
-[Abilities related to blockchain development] 
-
-<!-- synthesized: 2026-07-12T11:48:54Z -->
+## connects-to
+[[builders]]
+[[community]]
+[[devkit]]
+<!-- synthesized: 2026-07-13T13:10:10Z -->
 ```

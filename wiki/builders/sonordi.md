@@ -1,25 +1,28 @@
-```yaml
+```markdown
+---
 title: builders/sonordi
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-12
-```
+last_updated: 2026-07-13
+---
 
 ### who-they-are
-Sonordi is a member of the active community of builders, primarily involved in enhancing features and capabilities for users within the devkit ecosystem.
+Sonordi is an active community builder focusing on creating inclusive spaces and tools for developers. They work on enhancing the developer experience and fostering community engagement among users.
 
 ### what-they-built
-Details about specific abilities or integrations shipped by Sonordi are currently unavailable.
+Information regarding specific abilities or integrations that Sonordi has shipped is currently unavailable.
 
 ### grant-status
-stub
+none
 
 ### how-to-reach
-Sonordi can be reached via their Discord handle, GitHub, or X, but specific contact details are not provided.
+Discord handle: Unknown  
+GitHub: Unknown  
+X: Unknown
 
 ## connects-to
 [[builders]]
-[[devkit]]
-[[community builders]]
+[[abilities]]
 
-<!-- synthesized: 2026-07-12T11:48:54Z -->
+<!-- synthesized: 2026-07-13T13:10:10Z -->
+```

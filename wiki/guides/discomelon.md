@@ -1,25 +1,22 @@
-```markdown
----
+```yaml
 title: guides/discomelon
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-12
----
+last_updated: 2026-07-13
+```
 
-### who-they-are
-Discomelon is a knowledgeable community member known for their expertise in various technical areas and community engagement. 
+## who-they-are
+DiscoMelon is a prominent member of the community recognized for their commitment to assisting others in onboarding processes.
 
-### what-they-help-with
-Discomelon specializes in providing onboarding support for new users, assisting with understanding software and hardware configurations, and offering guidance on using APIs effectively. They aim to create an inclusive environment for all users.
+## what-they-help-with
+They specialize in providing guidance around community involvement, particularly focusing on facilitating access to resources and support for newcomers.
 
-### how-to-reach
-Discord handle: Discomelon#1234
+## how-to-reach
+Discord handle: DiscoMelon#1234
 
 ## connects-to
 [[guides]]
-[[community engagement]]
-[[onboarding]]
-[[software and hardware support]]
+[[community support]]
+[[onboarding resources]]
 
-<!-- synthesized: 2026-07-12T11:48:54Z -->
-```
+<!-- synthesized: 2026-07-13T13:10:10Z -->

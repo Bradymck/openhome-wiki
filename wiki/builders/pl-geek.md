@@ -1,25 +1,26 @@
-```markdown
----
+```yaml
 title: builders/pl-geek
 entity_type: builders
 status: stub
-last_updated: 2026-07-12
----
+last_updated: 2026-07-13
+```
 
 ## who-they-are
-No specific background information is available about pl-geek or what they are building at this time.
+pl-geek is an active community builder, identified as a Homie and User role holder within the ecosystem. They are engaged in developing and shipping new abilities that leverage the platform's capabilities.
 
 ## what-they-built
-There is currently no information on any shipped abilities or integrations from pl-geek.
+Details on specific shipped abilities or integrations by pl-geek are not available from the current sources.
 
 ## grant-status
-No information is available regarding grant status for pl-geek.
+The grant status for pl-geek is currently unknown.
 
 ## how-to-reach
-No contact details such as Discord handle, GitHub, or X (Twitter) are available for pl-geek.
+- Discord: Not specified
+- GitHub: Not specified
+- X/Twitter: [https://t.co/RPuwFJtvx7](https://t.co/RPuwFJtvx7)
 
 ## connects-to
-No related abilities are documented to link pl-geek with.
+- [[community-builders]]
+- [[shipping-abilities]]
 
-<!-- synthesized: 2026-07-12T11:48:54Z -->
-```
+<!-- synthesized: 2026-07-13T13:10:10Z -->

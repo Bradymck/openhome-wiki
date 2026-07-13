@@ -1,30 +1,30 @@
 ```markdown
 ---
-title: News Brief Ability
-entity_type: abilities
-status: live
-last_updated: 2026-07-12
+title: News Brief
+entity_type: abilities/news-brief
+status: stub
+last_updated: 2026-07-13
 ---
 
 ### what-it-does
-The News Brief ability fetches and delivers updates from various social media platforms, primarily focusing on trending topics and events. It aims to keep users informed about recent developments, including community news and social discussions.
+The News Brief ability provides users with concise updates and summaries from various news sources. It is designed to inform users quickly on trending topics and current events, making it easy to stay updated without overwhelming them with too much information at once.
 
 ### how-to-build
-Developers can build the News Brief ability by leveraging APIs from social media and news aggregators. It involves fetching relevant messages and filtering through them to extract essential updates. Documentation for using APIs like Twitter API, Discord API, or similar services is crucial for implementation.
+Details on how to build the News Brief ability are currently unavailable, including the specific API surface and technical notes for developers looking to implement this feature.
 
 ### category
 utility
 
 ### built-by
-[[abilities/news-brief]]
+[[User:Unknown]]
 
 ### status
-live
+stub
 
-### connects-to
-[[abilities/aquaprime]]
+## connects-to
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
+[[abilities/aquaprime]]
 
-<!-- synthesized: 2026-07-12T11:48:54Z -->
+<!-- synthesized: 2026-07-13T13:10:10Z -->
 ```

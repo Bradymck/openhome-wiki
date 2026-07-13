@@ -3,22 +3,20 @@
 title: guides/sira
 entity_type: Community Guides
 status: stub
-last_updated: 2026-07-12
+last_updated: 2026-07-13
 ---
 
-### who-they-are
-Details about the individual known as Sira and their background or expertise are currently unavailable.
+## who-they-are
+Information not provided.
 
-### what-they-help-with
-Information on the specialty or areas in which Sira assists is not specified.
+## what-they-help-with
+Information not provided.
 
-### how-to-reach
-Contact details for Sira have not been provided.
+## how-to-reach
+Information not provided.
 
 ## connects-to
-[[Community Guides]]
-[[Discord]]
-[[Help Resources]]
+[[guides]], [[Community Guide]]
 
-<!-- synthesized: 2026-07-12T11:48:54Z -->
+<!-- synthesized: 2026-07-13T13:10:10Z -->
 ```

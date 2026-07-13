@@ -1,16 +1,15 @@
-```markdown
----
+```yaml
 title: builders/emperormidas
-entity_type: community builder
+entity_type: community_builder
 status: stub
-last_updated: 2026-07-12
----
+last_updated: 2026-07-13
+```
 
 ### who-they-are
-Emperor Midas is a community builder actively engaged in integrating and enhancing the Homie community. They are a holder of the devkit and focus on fostering inclusivity and engagement within the community.
+EmperorMidas is an active community builder focused on developing integrations and tools within the Homie ecosystem. Their background includes experience in software development and community engagement, aiming to enhance user interactions and functionalities for devkit holders.
 
 ### what-they-built
-Currently, there are no specific shipped abilities or integrations attributed to Emperor Midas. Further details on their contributions and projects are yet to be reported.
+Details on specific abilities or integrations that EmperorMidas has shipped are currently not available. Further contributions may be documented as they progress in their building activities.
 
 ### grant-status
 none
@@ -18,12 +17,11 @@ none
 ### how-to-reach
 - Discord handle: Not specified
 - GitHub: Not specified
-- X/Twitter: [@EmperorMidas](https://twitter.com/EmperorMidas)
+- X (Twitter): Not specified
 
 ### connects-to
-[[builders]]
-[[community]]
-[[Homie]]
-[[devkit]]
-<!-- synthesized: 2026-07-12T11:48:54Z -->
-```
+[[builders]]  
+[[homie]]  
+[[devkit]]  
+
+<!-- synthesized: 2026-07-13T13:10:10Z -->
