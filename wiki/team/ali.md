@@ -1,23 +1,21 @@
-```markdown
----
+```yaml
 title: team/ali
 entity_type: team
 status: stub
-last_updated: 2026-07-13
----
+last_updated: 2026-07-14
+```
 
-### who-they-are
-Ali is a member of the OpenHome core team, serving in an administrative capacity. Further details regarding their role and background are currently not available.
+## who-they-are
+Ali is a core member of the OpenHome team, although specific details about their role, background, and contributions are currently unavailable.
 
-### what-they-own
-Ali is responsible for managing specific areas of the OpenHome platform; however, the details regarding which areas they lead are not defined at this time.
+## what-they-own
+Information about the specific areas of the platform that Ali leads is not provided.
 
-### how-to-reach
-Ali's preferred contact methods through social media, including Discord handle and X/Twitter, have not been provided.
+## how-to-reach
+Details regarding how to contact Ali are not available.
 
-### connects-to
+## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-07-13T13:10:10Z -->
-```
+<!-- synthesized: 2026-07-14T12:03:21Z -->

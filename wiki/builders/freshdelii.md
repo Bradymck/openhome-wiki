@@ -2,24 +2,24 @@
 title: builders/freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-07-13
+last_updated: 2026-07-14
 ```
 
 ## who-they-are
-FreshDelii is an emerging builder within the community, focused on enhancing integration and capabilities for developers. They are building solutions that aim to streamline processes and foster better interactions in the digital ecosystem.
+FreshDelii is a community builder focused on enhancing the experience of its users by leveraging technological integrations and community engagement. They aim to create functionalities that support various user needs and improve overall interactivity.
 
 ## what-they-built
-Currently, specific details about what FreshDelii has built or shipped are not available. Further information on their abilities or integrations is needed.
+Details on specific abilities or integrations that FreshDelii has shipped are currently not available, indicating a need for more information regarding their completed projects.
 
 ## grant-status
 none
 
 ## how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified  
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[abilities]]
+[[wikilinks]]
 
-<!-- synthesized: 2026-07-13T13:10:10Z -->
+<!-- synthesized: 2026-07-14T12:03:21Z -->

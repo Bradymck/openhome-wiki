@@ -3,25 +3,24 @@
 title: Roadmap Current Sprint
 entity_type: roadmap
 status: stub
-last_updated: 2026-07-13
+last_updated: 2026-07-14
 ---
 
 ### what-it-is
-This section is intended to document the features and milestones currently being addressed in the roadmap's current sprint.
+Details about the current sprint in the roadmap are not available at this time.
 
 ### status
 stub
 
 ### why-it-matters
-Documenting the current sprint is crucial for tracking the progress of ongoing initiatives and ensuring transparency within the development process.
+The current roadmap and sprint details are crucial for understanding ongoing developments and priorities within the project.
 
 ### eta
-At this moment, no specific timeline information is available.
+No timeline is available as the details of the current sprint are not provided.
 
 ## connects-to
-[[roadmap]]
-[[feature]]
-[[milestone]]
+[[roadmap]]  
+[[sprint]]  
 
-<!-- synthesized: 2026-07-13T13:10:10Z -->
+<!-- synthesized: 2026-07-14T12:03:21Z -->
 ```

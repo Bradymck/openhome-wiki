@@ -1,30 +1,25 @@
-```markdown
----
+```yaml
 title: builders/bradymck
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-13
----
+last_updated: 2026-07-14
+```
 
-### who-they-are
-Brady McK is an active community builder within the Homie structure, recognized for their contributions to the development community. 
+## who-they-are
+Brady McK is an active member of the community known for their contributions and advocacy for inclusivity and support for immigrants within various social contexts.
 
-### what-they-built
-Specific details on abilities or integrations shipped by Brady McK are currently not available.
+## what-they-built
+Currently, there is no specific information available about any shipped abilities or integrations led by Brady McK.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
+## how-to-reach
+- Discord handle: Not specified
 - GitHub: Not specified
-- X/Twitter: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[Homie]]
-[[community]]
-[[developers]]
+[[builders]] 
 
-<!-- synthesized: 2026-07-13T13:10:10Z -->
-```
+<!-- synthesized: 2026-07-14T12:03:21Z -->

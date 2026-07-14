@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: concepts/web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-07-13
-```
+last_updated: 2026-07-14
+---
 
 ## definition
-Web3-native refers to applications, platforms, and technologies designed specifically for the decentralized web, emphasizing user ownership, privacy, and interoperability.
+Web3-native refers to applications, platforms, and systems that fully integrate decentralized technologies and principles inherent to the Web3 movement, emphasizing user ownership, blockchain technology, and decentralized networks.
 
 ## why-it-matters
-The relevance of web3-native concepts to OpenHome lies in their ability to empower users by providing a decentralized framework that fosters community governance and enhances user control over data and content. This can enhance user engagement and create trust within the OpenHome ecosystem.
+The Web3-native concept is crucial to OpenHome as it aligns with the platform's core values of transparency, user empowerment, and community-driven governance. By adopting Web3-native approaches, OpenHome aims to create a more equitable and decentralized user experience that enhances privacy and security.
 
 ## how-it-manifests
-In OpenHome, web3-native elements may manifest through features like decentralized identity management, blockchain-based transactions, and user-controlled data storage. This ensures that users retain ownership of their content and participate actively in the platform's development and governance processes.
+In OpenHome, Web3-native elements may manifest as decentralized identity management systems, smart contracts for governance, or blockchain-based applications that enable users to have complete ownership and control over their data. The integration of Web3 principles allows OpenHome to develop innovative features that prioritize user-centric design and community engagement.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ In OpenHome, web3-native elements may manifest through features like decentraliz
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-13T13:10:10Z -->
+<!-- synthesized: 2026-07-14T12:03:21Z -->
+```

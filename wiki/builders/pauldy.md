@@ -1,25 +1,29 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: active community builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-13
+last_updated: 2026-07-14
 ---
 
-### who-they-are
-Pauldy is an active community builder and devkit holder who engages with various projects and initiatives within the community. Details on their background and specific areas of focus are currently not available.
+## who-they-are
+Pauldy is involved in community-building initiatives, emphasizing themes of inclusion and support for immigrants. Their work revolves around fostering a sense of home for various communities.
 
-### what-they-built
-Information regarding specific abilities or integrations that Pauldy has shipped is not available at this time. More details will be updated as they become known.
+## what-they-built
+Detailed information regarding specific abilities or integrations shipped by Pauldy is not available at this time.
 
-### grant-status
-Grant status is currently unknown.
+## grant-status
+none
 
-### how-to-reach
-Pauldy's Discord handle, GitHub, and X (Twitter) profiles are not specified. 
+## how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X: [@TheWillOfGod](https://twitter.com/TheWillOfGod)
 
 ## connects-to
-No connections to abilities have been identified.
+[[ImmigrantVoices]]
+[[CommunitySupport]]
+[[InclusionEfforts]]
 
-<!-- synthesized: 2026-07-13T13:10:10Z -->
+<!-- synthesized: 2026-07-14T12:03:21Z -->
 ```

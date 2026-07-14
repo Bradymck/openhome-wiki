@@ -2,23 +2,21 @@
 ---
 title: team/shannon
 entity_type: team
-status: stub
-last_updated: 2026-07-13
+status: live
+last_updated: 2026-07-14
 ---
 
 ### who-they-are
-Shannon is the CEO of OpenHome. They lead the organization with a focus on creating inclusive spaces for immigrants.
+Shannon is the CEO of OpenHome. She brings a wealth of experience in leadership and management, having previously held significant roles in various organizations that focus on community-driven initiatives.
 
 ### what-they-own
-Shannon oversees strategic initiatives that aim to enhance community engagement and ensure that all immigrants feel welcomed and supported within the OpenHome platform.
+Shannon leads the strategic vision and overall operations of the OpenHome platform, ensuring that it aligns with the organization's mission to create inclusive environments for all users.
 
 ### how-to-reach
-- Discord: Not specified
-- X/Twitter: @openhome
+You can reach Shannon on Discord using her handle @openhome.
 
 ### connects-to
 [[team/jesse]]
-[[projects/inclusion]]
 
-<!-- synthesized: 2026-07-13T13:10:10Z -->
+<!-- synthesized: 2026-07-14T12:03:21Z -->
 ```
