@@ -1,26 +1,25 @@
 ```yaml
-title: "Emperor Midas"
-entity_type: builders/emperormidas
+title: Emperormidas
+entity_type: builders
 status: stub
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 ```
 
 ## who-they-are
-Emperor Midas is a community builder known for fostering inclusivity and engagement within various communities. While specific details on their background are limited, they demonstrate a deep commitment to creating welcoming spaces for diverse groups.
+Emperormidas is a community builder focused on creating innovative solutions within their ecosystem. They hold devkit abilities that enhance the functionality and user experience of the platforms they engage with.
 
 ## what-they-built
-Information on specific abilities or integrations built by Emperor Midas is currently unavailable. Further details may be provided as their projects develop.
+Information on specific abilities or integrations shipped by Emperormidas is not available at this time.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X (Twitter): 
-  - [@77Matrixx](https://twitter.com/77Matrixx)
+Discord handle: Not available  
+GitHub: Not available  
+X: Not available  
 
 ## connects-to
-[[builders]]
+[[abilities]]
 
-<!-- synthesized: 2026-07-14T12:03:21Z -->
+<!-- synthesized: 2026-07-15T12:08:14Z -->

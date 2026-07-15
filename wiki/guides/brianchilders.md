@@ -3,22 +3,21 @@
 title: guides/brianchilders
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 ---
 
 ### who-they-are
-Brian Childers is a community guide known for his expertise and dedication in helping individuals transition into new environments. He focuses on issues of inclusion and support, particularly for immigrants.
+Brian Childers is a knowledgeable member of the community recognized for their contributions and expertise as a Community Guide.
 
 ### what-they-help-with
-Brian specializes in creating inclusive spaces and ensuring that all community members feel welcomed and at home. His work may involve assisting with various community-building initiatives and providing support to individuals facing challenges in their integration.
+Brian specializes in onboarding new users and providing guidance on utilizing various community resources effectively.
 
 ### how-to-reach
-Discord handle: Not specified
+You can reach Brian on Discord at their handle: brianchilders.
 
 ## connects-to
 [[guides]]
-[[immigrant_support]]
-[[community_inclusion]]
-
-<!-- synthesized: 2026-07-14T12:03:21Z -->
+[[Community Guides]]
+[[Discord]]
+<!-- synthesized: 2026-07-15T12:08:14Z -->
 ```

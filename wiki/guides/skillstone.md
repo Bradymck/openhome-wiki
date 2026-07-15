@@ -1,21 +1,26 @@
-```yaml
-title: "guides/skillstone"
-entity_type: "Community Guide"
-status: "stub"
-last_updated: 2026-07-14
-```
+```markdown
+---
+title: guides/skillstone
+entity_type: Community Guide
+status: stub
+last_updated: 2026-07-15
+---
 
-## who-they-are
-Information about the background and expertise of the "guides/skillstone" community guide is currently unavailable.
+### who-they-are
+Skillstone is associated with community guides, who are power users dedicated to assisting others in onboarding processes.
 
-## what-they-help-with
-Details regarding the specific areas of specialty for the "guides/skillstone" community guide are currently not provided.
+### what-they-help-with
+The expertise of Skillstone includes providing guidance on various topics that may encompass abilities, hardware, APIs, and related information necessary for community members.
 
-## how-to-reach
-No contact information, such as a Discord handle, is available at this time.
+### how-to-reach
+Skillstone can be reached through Discord, although specific contact information was not retrieved.
 
 ## connects-to
 [[guides]]
-[[community-guide]]
+[[community-guides]]
+[[API]]
+[[hardware]]
+[[abilities]]
 
-<!-- synthesized: 2026-07-14T12:03:21Z -->
+<!-- synthesized: 2026-07-15T12:08:14Z -->
+```

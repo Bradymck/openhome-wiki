@@ -3,25 +3,26 @@
 title: builders/shookdt
 entity_type: builder
 status: stub
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 ---
 
 ### who-they-are
-shookdt is part of an active community focused on development and integration within the blockchain ecosystem. Their background involves contributions to community-based projects and fostering participation among users.
+Shookdt is a developer actively engaged in the community, contributing to the development of various integrations and abilities within the ecosystem.
 
 ### what-they-built
-Details regarding specific abilities or integrations built by shookdt are currently not available.
+Information on specific abilities or integrations that Shookdt has shipped is currently not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+Discord handle: Not specified  
+GitHub: Not specified  
+X (formerly Twitter): Not specified  
 
 ## connects-to
-[[builders]]
-[[community]]
-<!-- synthesized: 2026-07-14T12:03:21Z -->
+[[abilities]]
+[[integrations]]
+
+<!-- synthesized: 2026-07-15T12:08:14Z -->
 ```

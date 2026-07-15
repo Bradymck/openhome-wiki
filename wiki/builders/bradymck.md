@@ -1,25 +1,28 @@
-```yaml
+```markdown
+---
 title: builders/bradymck
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-07-14
-```
+last_updated: 2026-07-15
+---
 
-## who-they-are
-Brady McK is an active member of the community known for their contributions and advocacy for inclusivity and support for immigrants within various social contexts.
+### who-they-are
+Brady McK, known by the handle bradymck, is an active member of the development community focusing on building capabilities within the Homie ecosystem.
 
-## what-they-built
-Currently, there is no specific information available about any shipped abilities or integrations led by Brady McK.
+### what-they-built
+No specific abilities or integrations have been reported as shipped by Brady McK.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord: bradymck
+- GitHub: [bradymck](https://github.com/bradymck)
+- X: Not provided
 
 ## connects-to
-[[builders]] 
+[[builders]]
+[[Homie]]
 
-<!-- synthesized: 2026-07-14T12:03:21Z -->
+<!-- synthesized: 2026-07-15T12:08:14Z -->
+```

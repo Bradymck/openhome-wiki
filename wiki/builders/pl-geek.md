@@ -3,23 +3,25 @@
 title: builders/pl-geek
 entity_type: builders
 status: stub
-last_updated: 2026-07-14
+last_updated: 2026-07-15
 ---
 
-### who-they-are
-Information about the background and current projects of pl-geek is currently unavailable.
+## who-they-are
+Pl-geek is part of an active community of builders in the development kit space. They are focused on creating innovative solutions and improving existing capabilities within their ecosystem.
 
-### what-they-built
-Details regarding any shipped abilities or integrations by pl-geek are currently not available.
+## what-they-built
+Information on specific abilities or integrations shipped by pl-geek is currently not available.
 
-### grant-status
-Grant status for pl-geek is currently unknown.
+## grant-status
+none
 
-### how-to-reach
-Contact details for pl-geek are currently not accessible.
+## how-to-reach
+Information on how to reach pl-geek, including their Discord handle, GitHub, or X, is currently not available.
 
 ## connects-to
-[[wikilinks]]
+[[builders]]
+[[devkit]]
+[[community builders]]
 
-<!-- synthesized: 2026-07-14T12:03:21Z -->
+<!-- synthesized: 2026-07-15T12:08:14Z -->
 ```

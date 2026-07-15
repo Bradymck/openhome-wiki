@@ -1,27 +1,25 @@
-```yaml
-title: Illectric Co
+```markdown
+---
+title: Illectric Co.
 entity_type: builders
 status: stub
-last_updated: 2026-07-14
-```
+last_updated: 2026-07-15
+---
 
-## who-they-are
-Illectric Co is an active community builder focused on fostering inclusive environments and enhancing user interaction within digital spaces. They are dedicated to creating tools and solutions that emphasize community integration and support for all users, especially immigrants.
+### who-they-are
+Illectric Co. is a team of active community builders focused on developing innovative solutions and integrations for the tech ecosystem. They are engaged with the community, leveraging their skills as users and developers to enhance user experiences and capabilities within their projects.
 
-## what-they-built
-Details on specific abilities or integrations shipped by Illectric Co are currently unavailable.
+### what-they-built
+Details about specific shipped abilities or integrations by Illectric Co. are currently not available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+### how-to-reach
+While specific contact information is not provided, you may be able to reach out to them through common developer platforms. Their presence on Discord, GitHub, or X (Twitter) is noted but not detailed.
 
-## connects-to
-[[builders]]
-[[community inclusion]]
-[[digital tools]]
+### connects-to
+Currently, there are no specific abilities linked to Illectric Co. that can be referenced.
 
-<!-- synthesized: 2026-07-14T12:03:21Z -->
+<!-- synthesized: 2026-07-15T12:08:14Z -->
+```
