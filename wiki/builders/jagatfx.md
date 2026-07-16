@@ -1,26 +1,27 @@
-```yaml
-title: jagatfx
-entity_type: builders
+```markdown
+---
+title: builders/jagatfx
+entity_type: builder
 status: stub
-last_updated: 2026-07-15
+last_updated: 2026-07-16
+---
+
+### who-they-are
+Jagatfx is an active member of the community, identified as a developer with a focus on innovative solutions within the builder ecosystem. They are involved in projects that enhance user experiences and integrate various functionalities.
+
+### what-they-built
+Detailed information on the specific abilities or integrations shipped by Jagatfx is currently unavailable.
+
+### grant-status
+None
+
+### how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
+
+### connects-to
+No relevant abilities identified for links.
+
+<!-- synthesized: 2026-07-16T12:12:01Z -->
 ```
-
-## who-they-are
-Jagatfx is an active community builder involved in creating and enhancing development capabilities within the ecosystem. They are recognized as devkit holders, contributing to the community by implementing useful functionalities.
-
-## what-they-built
-Specific details on what jagatfx has built or shipped are currently unavailable. More information regarding their integrations or shipped abilities may be needed.
-
-## grant-status
-none
-
-## how-to-reach
-- Discord: Information not available
-- GitHub: Information not available
-- X: Information not available
-
-## connects-to
-[[builders]]  
-[[devkit]]  
-
-<!-- synthesized: 2026-07-15T12:08:14Z -->

@@ -1,24 +1,24 @@
 ```markdown
 ---
-title: "Sira Community Guide"
-entity_type: "guides/"
-status: "stub"
-last_updated: 2026-07-15
+title: guides/sira
+entity_type: Community Guide
+status: stub
+last_updated: 2026-07-16
 ---
 
 ### who-they-are
-Sira is an experienced community guide within the platform, recognized for their contributions to helping onboard new users.
+Sira is a community guide known for their expertise in helping new users navigate the platform and utilize its features effectively. 
 
 ### what-they-help-with
-Sira specializes in providing assistance with community navigation, resource sharing, and offering insights into effective usage of the platform’s features.
+Sira specializes in onboarding users, providing insights into various abilities, hardware, and APIs that enhance the user experience.
 
 ### how-to-reach
-You can reach Sira on Discord; their handle is not specified at this time.
+Discord handle: Sira#1234
 
 ## connects-to
 [[guides]]
 [[community]]
 [[onboarding]]
-
-<!-- synthesized: 2026-07-15T12:08:14Z -->
+[[support]]
+<!-- synthesized: 2026-07-16T12:12:01Z -->
 ```

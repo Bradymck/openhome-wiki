@@ -3,25 +3,25 @@
 title: builders/pauldy
 entity_type: builders
 status: stub
-last_updated: 2026-07-15
+last_updated: 2026-07-16
 ---
 
-### who-they-are
-Pauldy is a community builder involved in enhancing the capabilities of the Homie ecosystem. They are a holder of devkit and are focused on creating engaging and functional integrations that benefit the community.
+## who-they-are
+Pauldy is a member of the active community of builders, focused on creating innovative solutions utilizing the developer kit (devkit) capabilities within their ecosystem.
 
-### what-they-built
-Details on specific abilities or integrations shipped by Pauldy are currently not available.
+## what-they-built
+Specific projects or integrations built by Pauldy have not been detailed in the available information. 
 
-### grant-status
-Applied
+## grant-status
+None
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+Discord handle: Not provided  
+GitHub: Not provided  
+X: Not provided  
 
-### connects-to
-[[wikilinks]] related to their abilities are currently not available.
-
-<!-- synthesized: 2026-07-15T12:08:14Z -->
+## connects-to
+[[abilities]]
+[[integrations]]
+<!-- synthesized: 2026-07-16T12:12:01Z -->
 ```

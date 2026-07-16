@@ -1,25 +1,28 @@
 ```markdown
 ---
-title: Slowjamsteve
-entity_type: builders
+title: builders/slowjamsteve
+entity_type: builder
 status: stub
-last_updated: 2026-07-15
+last_updated: 2026-07-16
 ---
 
 ### who-they-are
-Slowjamsteve is an active community builder who is involved in developing innovative tools and integrations in the space. Their background and specific projects are not detailed in the current information.
+Slowjamsteve is an active member of the community focusing on building new integrations and features for developers within the ecosystem. Their contributions aim to enhance user experience and functionality across platforms.
 
 ### what-they-built
-There is no specific information available about the abilities or integrations that Slowjamsteve has shipped.
+As of now, specific shipped abilities or integrations by Slowjamsteve have not been documented. Further contributions and details may be forthcoming as they continue their work within the community.
 
 ### grant-status
 none
 
 ### how-to-reach
-Information regarding how to reach Slowjamsteve, including their Discord handle, GitHub profile, and X account, is not available.
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[community]]
-<!-- synthesized: 2026-07-15T12:08:14Z -->
+[[abilities]]
+[[community_builders]]
+[[integrations]]
+<!-- synthesized: 2026-07-16T12:12:01Z -->
 ```

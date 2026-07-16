@@ -1,26 +1,26 @@
-```yaml
-title: Roadmap and Shipping Information
+```markdown
+---
+title: roadmap/shipped
 entity_type: roadmap
-status: live
-last_updated: 2026-07-15
-```
+status: stub
+last_updated: 2026-07-16
+---
 
-# What it is
-This page outlines the features and milestones related to the roadmap, detailing their development statuses and motivations behind their implementation.
+### what-it-is
+This roadmap outlines the features and milestones that have been shipped, are in progress, or are planned for the future.
 
-# Status
-While specific features are not referenced in the source material, updates on the roadmap indicate that various elements are in different stages such as shipped, in-progress, or planned.
+### status
+- Current status is marked as stub due to insufficient information on specific features or milestones.
 
-# Why it matters
-The roadmap is essential to track progress on feature development and service improvements. It provides transparency to users and stakeholders about what functionalities are being prioritized and when they might expect new updates or changes.
+### why-it-matters
+Keeping track of shipped features and milestones is crucial for understanding the development progress and improvements made in a project. It helps stakeholders gauge the evolving capabilities and offerings of the platform.
 
-# ETA
-No specific timelines for future releases or updates are provided in the current source material.
+### eta
+No specific estimated timelines are currently available.
 
-## Connects to
+## connects-to
 [[roadmap/planned]]
 [[roadmap/in-progress]]
 [[roadmap/cancelled]]
-
-<!-- synthesized: 2026-07-15T12:08:14Z --> 
+<!-- synthesized: 2026-07-16T12:12:01Z -->
 ```

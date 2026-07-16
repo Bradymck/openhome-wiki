@@ -1,25 +1,27 @@
-```markdown
----
-title: Illectric Co.
+```yaml
+title: Illectric Co
 entity_type: builders
 status: stub
-last_updated: 2026-07-15
----
+last_updated: 2026-07-16
+```
 
-### who-they-are
-Illectric Co. is a team of active community builders focused on developing innovative solutions and integrations for the tech ecosystem. They are engaged with the community, leveraging their skills as users and developers to enhance user experiences and capabilities within their projects.
+## who-they-are
+Illectric Co is a community of builders focused on developing and shipping innovative abilities within the tech space. They are part of the active Homie ecosystem, collaborating with users who hold development kits.
 
-### what-they-built
-Details about specific shipped abilities or integrations by Illectric Co. are currently not available.
+## what-they-built
+As of now, specific shipped abilities or integrations by Illectric Co have not been documented or disclosed.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-While specific contact information is not provided, you may be able to reach out to them through common developer platforms. Their presence on Discord, GitHub, or X (Twitter) is noted but not detailed.
+## how-to-reach
+Discord handle: Not provided  
+GitHub: Not provided  
+X: Not provided  
 
-### connects-to
-Currently, there are no specific abilities linked to Illectric Co. that can be referenced.
+## connects-to
+[[builders]]
+[[community]]
+[[tech_innovations]]
 
-<!-- synthesized: 2026-07-15T12:08:14Z -->
-```
+<!-- synthesized: 2026-07-16T12:12:01Z -->

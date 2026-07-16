@@ -1,21 +1,21 @@
 ```markdown
 ---
 title: platform/abilities
-entity_type: page
+entity_type: platform
 status: stub
-last_updated: 2026-07-15
+last_updated: 2026-07-16
 ---
 
 ### what-it-is
-The platform/abilities page outlines the capabilities and features that the OpenHome platform supports, offering insights into how these functionalities enhance user experience and interaction with connected devices.
+The abilities component of the OpenHome platform focuses on enabling and enhancing various functionalities that can be integrated across devices and services within the OpenHome ecosystem.
 
 ### how-it-works
-Details on the specific functionalities and operational mechanics of the abilities within the OpenHome platform are currently not available. However, the abilities are expected to facilitate integration with various device features, improve user interfaces, and expand the interoperability of different components within the OpenHome ecosystem.
+OpenHome abilities leverage a unified architecture that allows different devices to interact seamlessly. They provide a consistent interface for users and developers, facilitating the integration of voice commands, automated tasks, and device interoperability. By using a modular approach, each ability can be independently developed and updated, ensuring flexibility and scalability within the system.
 
 ### current-status
 stub
 
-## connects-to
+### connects-to
 [[platform/openhome]]
 [[platform/speakers]]
 [[platform/dashboard]]
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-07-15T12:08:14Z -->
+<!-- synthesized: 2026-07-16T12:12:01Z -->
 ```

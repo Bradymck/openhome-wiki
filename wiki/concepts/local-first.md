@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: Local First
+title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-07-15
+last_updated: 2026-07-16
 ---
 
-## definition
-Local First refers to an approach in software design that prioritizes local data storage and processing. This means applications work primarily with data stored on the user's device, reducing dependency on external servers and enabling offline functionality.
+### definition
+Local-first refers to a design philosophy that emphasizes local data storage and processing, ensuring that applications can function effectively even when disconnected from the internet. This approach prioritizes performance, security, and user autonomy by keeping data close to the user.
 
-## why-it-matters
-This concept is significant to OpenHome because it enhances user autonomy, privacy, and control. By allowing users to manage their data locally, it fosters a more resilient and personal interaction with digital environments, aligning with the principles of user empowerment and decentralization.
+### why-it-matters
+Local-first is highly relevant to OpenHome as it aligns with the principles of user control and privacy. By enabling users to manage their own data locally, OpenHome can provide a more reliable and secure experience that minimizes dependency on cloud services, thereby reducing risks related to data breaches and latency.
 
-## how-it-manifests
-In the OpenHome platform, Local First can be seen in features that allow applications to function offline, synchronize data changes when online, and provide a seamless experience regardless of internet connectivity. This could include local data caches, client-side processing, or tools designed for personal data management.
+### how-it-manifests
+In the OpenHome platform, local-first principles may manifest through features that allow users to access and manipulate their data directly on their devices. This can involve applications that sync data locally and periodically connect to the cloud for backups or updates, ensuring that users always have access to their information, regardless of their internet connectivity.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
 [[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-15T12:08:14Z -->
+<!-- synthesized: 2026-07-16T12:12:01Z -->
 ```

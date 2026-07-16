@@ -1,28 +1,26 @@
-```markdown
----
-title: Voice AI
+```yaml
+title: platform/voice-ai
 entity_type: platform
 status: stub
-last_updated: 2026-07-15
----
+last_updated: 2026-07-16
+```
 
 ## what-it-is
-Voice AI is an artificial intelligence technology that enables devices to understand and process human voice commands, facilitating hands-free operation and enhancing user interaction with smart systems.
+Voice AI within the OpenHome platform refers to the technology that enables users to interact with their devices and services through voice commands, allowing for hands-free control and enhanced user experience.
 
 ## how-it-works
-Voice AI typically involves the use of natural language processing (NLP) and machine learning algorithms to interpret spoken language. Users interact with voice-enabled devices by issuing commands, to which the system responds through understanding the context, processing the language, and executing tasks or fetching information. This technology is often integrated into various platforms and devices, enhancing functionality and user experience.
+The Voice AI component functions by utilizing natural language processing (NLP) and machine learning algorithms to interpret and respond to user queries. Users can give commands to connected devices, which the system processes to perform specific actions, such as controlling smart home devices, retrieving information, or managing schedules. This functionality is often integrated into voice-activated speakers or other smart devices compatible with the OpenHome ecosystem.
 
 ## current-status
 stub
 
 ## connects-to
-[[platform/openhome]]  
-[[platform/speakers]]  
-[[platform/abilities]]  
-[[platform/dashboard]]  
-[[platform/local-link]]  
-[[platform/marketplace]]  
-[[platform/live-editor]]  
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-07-15T12:08:14Z -->
-```
+<!-- synthesized: 2026-07-16T12:12:01Z -->
