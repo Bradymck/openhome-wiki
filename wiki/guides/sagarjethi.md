@@ -1,23 +1,24 @@
 ```markdown
 ---
-title: "guides/sagarjethi"
-entity_type: "Community Guide"
-status: "stub"
-last_updated: 2026-07-16
+title: guides/sagarjethi
+entity_type: Community Guide
+status: stub
+last_updated: 2026-07-17
 ---
 
 ### who-they-are
-Sagarjethi is recognized for their expertise and contributions within the community, although specific background details are currently unavailable.
+Sagarjethi is recognized as a knowledgeable community guide who specializes in supporting users in the community.
 
 ### what-they-help-with
-They help with creative commissions, including but not limited to graphic design, business kits, and branding.
+Sagarjethi helps users with onboarding processes and provides assistance with various tools and resources available within the community.
 
 ### how-to-reach
-Discord handle: Not available.
+You can reach Sagarjethi on Discord through their handle.
 
 ## connects-to
-[[community_guides]]
-[[graphic_design]]
-[[branding]]
-<!-- synthesized: 2026-07-16T12:12:01Z -->
+[[guides]]
+[[community]]
+[[onboarding]]
+
+<!-- synthesized: 2026-07-17T12:00:49Z -->
 ```

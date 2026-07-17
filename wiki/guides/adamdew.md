@@ -1,24 +1,23 @@
 ```markdown
 ---
 title: guides/adamdew
-entity_type: community_guide
+entity_type: Community Guide
 status: stub
-last_updated: 2026-07-16
+last_updated: 2026-07-17
 ---
 
 ### who-they-are
-Adam Dew is recognized within the community as a power user who plays a pivotal role in onboarding new members. His background includes extensive experience in both graphic design and business branding.
+The community guide Adamdew is known for their extensive involvement in onboarding new users. Their background reflects a deep understanding of community dynamics and user engagement.
 
 ### what-they-help-with
-Adam specializes in graphic design services, business kits, and branding solutions. He is known for his ability to create compelling visual identities and support businesses in establishing their market presence.
+Adamdew specializes in providing support and guidance related to user onboarding processes, ensuring that new members can effectively navigate and utilize community resources.
 
 ### how-to-reach
-Discord handle: Not provided
+Discord handle: Adamdew
 
 ## connects-to
 [[guides]]
-[[graphic_design]]
-[[branding]]
-
-<!-- synthesized: 2026-07-16T12:12:01Z -->
+[[community]]
+[[onboarding]]
+<!-- synthesized: 2026-07-17T12:00:49Z -->
 ```

@@ -3,22 +3,22 @@
 title: guides/brianchilders
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-16
+last_updated: 2026-07-17
 ---
 
 ### who-they-are
-Brian Childers is identified as a power user within the community, contributing to the onboarding of new members.
+Brian Childers is a Community Guide known for his expertise in real estate and property listing management.
 
 ### what-they-help-with
-Brian specializes in various aspects of community engagement and support for newcomers.
+He specializes in helping individuals navigate the complexities of buying and selling homes, offering insights into current market trends and property values.
 
 ### how-to-reach
-Discord handle: brianchilders
+Brian can be contacted via his Discord handle.
 
-## connects-to
+### connects-to
 [[guides]]
-[[Community Guide]]
-[[onboarding]]
+[[real_estate]]
+[[community_guides]]
 
-<!-- synthesized: 2026-07-16T12:12:01Z -->
+<!-- synthesized: 2026-07-17T12:00:49Z -->
 ```

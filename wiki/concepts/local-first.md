@@ -3,24 +3,25 @@
 title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-07-16
+last_updated: 2026-07-17
 ---
 
-### definition
-Local-first refers to a design philosophy that emphasizes local data storage and processing, ensuring that applications can function effectively even when disconnected from the internet. This approach prioritizes performance, security, and user autonomy by keeping data close to the user.
+## definition
+Local-first is an approach that prioritizes data storage and processing on the user's device rather than relying primarily on cloud-based systems. This concept emphasizes the importance of having a local copy of data to ensure accessibility and control, even in the absence of internet connectivity.
 
-### why-it-matters
-Local-first is highly relevant to OpenHome as it aligns with the principles of user control and privacy. By enabling users to manage their own data locally, OpenHome can provide a more reliable and secure experience that minimizes dependency on cloud services, thereby reducing risks related to data breaches and latency.
+## why-it-matters
+The local-first paradigm is significant to OpenHome as it empowers users with more control over their data and interactions. By emphasizing local data management, OpenHome enhances user privacy, reduces latency, and ensures that services remain functional even when network connectivity is unreliable. This is particularly important for applications that need to work seamlessly in various environments, including those with limited internet access.
 
-### how-it-manifests
-In the OpenHome platform, local-first principles may manifest through features that allow users to access and manipulate their data directly on their devices. This can involve applications that sync data locally and periodically connect to the cloud for backups or updates, ensuring that users always have access to their information, regardless of their internet connectivity.
+## how-it-manifests
+In the OpenHome platform, the local-first concept is manifested through features that allow applications to store user data locally, synchronize seamlessly with remote servers when available, and maintain performance and responsiveness regardless of network conditions. This design choice can be seen in functionalities where data persistence and offline capabilities are prioritized.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
 [[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-16T12:12:01Z -->
+<!-- synthesized: 2026-07-17T12:00:49Z -->
 ```

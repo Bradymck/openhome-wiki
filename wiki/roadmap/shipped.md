@@ -1,26 +1,24 @@
-```markdown
----
-title: roadmap/shipped
+```yaml
+title: Roadmap - Shipped Features
 entity_type: roadmap
 status: stub
-last_updated: 2026-07-16
----
+last_updated: 2026-07-17
+```
 
 ### what-it-is
-This roadmap outlines the features and milestones that have been shipped, are in progress, or are planned for the future.
+A roadmap outlining features and milestones that have been shipped within the organization or project.
 
 ### status
-- Current status is marked as stub due to insufficient information on specific features or milestones.
+stub
 
 ### why-it-matters
-Keeping track of shipped features and milestones is crucial for understanding the development progress and improvements made in a project. It helps stakeholders gauge the evolving capabilities and offerings of the platform.
+Documenting shipped features is essential for tracking progress and communicating achievements to stakeholders. It helps evaluate the effectiveness of strategies and informs future planning.
 
 ### eta
-No specific estimated timelines are currently available.
+Not specified.
 
 ## connects-to
-[[roadmap/planned]]
+[[roadmap/planned]]  
 [[roadmap/in-progress]]
-[[roadmap/cancelled]]
-<!-- synthesized: 2026-07-16T12:12:01Z -->
-```
+
+<!-- synthesized: 2026-07-17T12:00:49Z -->

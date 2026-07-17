@@ -3,17 +3,17 @@
 title: concepts/spatial-intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-07-16
+last_updated: 2026-07-17
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and environments effectively. It encompasses skills like mental mapping, navigation, and understanding the spatial arrangement of objects.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relations in the environment. This includes understanding how objects relate to each other in space and how they can be transformed or moved.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is crucial because it enhances user interaction with their physical surroundings. By leveraging spatial intelligence, the platform can create more intuitive and engaging user experiences, enabling users to navigate and interact with their homes and local environments more efficiently.
+Spatial intelligence is important for OpenHome as it enhances user interaction within a digital environment. By utilizing spatial awareness, users can better navigate and utilize the platform, leading to improved usability and experience.
 
 ## how-it-manifests
-Spatial intelligence appears in OpenHome through features like geo-location services, virtual room layouts, and augmented reality (AR) applications. These functionalities enable users to visualize their spaces dynamically, aiding in home management and facilitating immersive interactions with the home environment.
+While specific implementations of spatial intelligence in OpenHome are not detailed, it can be expected to appear in features related to user navigation, augmented reality applications, or any interface that involves managing or visualizing spatial data.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ Spatial intelligence appears in OpenHome through features like geo-location serv
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-16T12:12:01Z -->
+<!-- synthesized: 2026-07-17T12:00:49Z -->
 ```

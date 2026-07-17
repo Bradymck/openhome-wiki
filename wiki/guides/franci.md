@@ -3,22 +3,22 @@
 title: guides/franci
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-16
+last_updated: 2026-07-17
 ---
 
-## who-they-are
-Franci is a community guide known for their insightful contributions and extensive knowledge within the community.
+### who-they-are
+Franci is a community guide who specializes in assisting new users within the community.
 
-## what-they-help-with
-Franci specializes in providing support and guidance on various topics, potentially including graphic design, business kits, and branding, based on their expertise in creative commissions.
+### what-they-help-with
+Franci helps with onboarding processes for new users, providing guidance on various tools and platforms available to them.
 
-## how-to-reach
-Franci can be reached on Discord, though their specific handle is not provided in the source material.
+### how-to-reach
+You can reach Franci on Discord via their handle: @franci.
 
 ## connects-to
 [[guides]]
-[[graphic_Design]]
-[[business_branding]]
+[[community]]
+[[onboarding]]
 
-<!-- synthesized: 2026-07-16T12:12:01Z -->
+<!-- synthesized: 2026-07-17T12:00:49Z -->
 ```
