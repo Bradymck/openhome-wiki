@@ -1,27 +1,25 @@
-```yaml
+```markdown
+---
 title: builders/pmckelvy
-entity_type: community builder
+entity_type: builder
 status: stub
-last_updated: 2026-07-17
-```
+last_updated: 2026-07-18
+---
 
-## who-they-are
-pmckelvy is a member of the active community of builders working with development kits, aiming to ship new abilities and integrations.
+### who-they-are
+No specific background information is available for pmckelvy.
 
-## what-they-built
-Currently, there is no specific information available regarding the abilities or integrations that pmckelvy has shipped.
+### what-they-built
+No shipped abilities or integrations are available for pmckelvy.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+### how-to-reach
+No contact information available.
 
 ## connects-to
-[[builders]]
-[[community builders]]
-[[development kits]]
+[[wikilinks]]
 
-<!-- synthesized: 2026-07-17T12:00:49Z -->
+<!-- synthesized: 2026-07-18T11:41:35Z -->
+```

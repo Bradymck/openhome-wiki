@@ -1,28 +1,28 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: community builder
+entity_type: community_builder
 status: stub
-last_updated: 2026-07-17
+last_updated: 2026-07-18
 ---
 
 ### who-they-are
-Pauldy is an active member of the community focused on building and enhancing integrations within the developer platform. As a devkit holder, Pauldy is dedicated to improving the overall user experience and facilitating development.
+Pauldy is an independent developer from the UK focused on building community-driven applications that enhance user experiences and promote engagement.
 
 ### what-they-built
-Details of specific abilities or integrations that Pauldy has shipped are not currently available.
+Currently, Pauldy is working on a science-backed nutrition recipe app that integrates peer-reviewed research from PubMed with each recipe. The app is designed to provide users with reliable nutritional information and is currently in private beta testing.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X (Twitter): Not provided
 
-## connects-to
-[[builders]]
-[[community building]]
-[[developer platform]]
-<!-- synthesized: 2026-07-17T12:00:49Z -->
+### connects-to
+[[nutrition]]
+[[app_development]]
+
+<!-- synthesized: 2026-07-18T11:41:35Z -->
 ```

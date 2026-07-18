@@ -1,23 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/sonordi
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-17
-```
+last_updated: 2026-07-18
+---
 
-## who-they-are
-Builders/Sonordi is an active community builder involved in creating and enhancing capabilities within the ecosystem by leveraging their development skills and innovations.
+### who-they-are
+Sonordi is an independent developer based in the UK, focused on creating tools and applications that prioritize user engagement and data integration.
 
-## what-they-built
-Details on specific abilities or integrations shipped by Builders/Sonordi are not provided in the available data.
+### what-they-built
+Currently, there are no specific details on the delivered projects or abilities, but Sonordi is in the development phase of a science-backed nutrition recipe app.
 
-## grant-status
-Not specified.
+### grant-status
+none
 
-## how-to-reach
-Information regarding how to reach Builders/Sonordi is not available in the provided data.
+### how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[abilities]]
+[[builders]]
+[[nutrition app]]
+[[science-backed applications]]
 
-<!-- synthesized: 2026-07-17T12:00:49Z -->
+<!-- synthesized: 2026-07-18T11:41:35Z -->
+```

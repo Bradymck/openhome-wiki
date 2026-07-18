@@ -1,28 +1,27 @@
-```markdown
----
-title: builders/jkoppel
-entity_type: builder
+```yaml
+title: jkoppel
+entity_type: builders
 status: stub
-last_updated: 2026-07-17
----
+last_updated: 2026-07-18
+```
 
-### who-they-are
-jkoppel is an active developer and member of the Homie community focused on creating innovative integrations and tools within the platform.
+## who-they-are
+jkoppel is an independent UK developer focusing on creating a science-backed nutrition recipe app. The app aims to connect each recipe to peer-reviewed research findings from PubMed and is currently in private beta.
 
-### what-they-built
-Information on specific abilities or integrations that jkoppel has shipped is not available.
+## what-they-built
+jkoppel has developed a nutrition recipe application that integrates scientific research into its recipes, enhancing the nutritional value and credibility of the content provided to users.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: N/A
-- GitHub: N/A
-- X/Twitter: N/A
+## how-to-reach
+Discord: Unknown  
+GitHub: Unknown  
+X: Unknown
 
 ## connects-to
-[[builders]]
-[[Homie]]
-[[integrations]]
-<!-- synthesized: 2026-07-17T12:00:49Z -->
-```
+[[nutrition apps]]  
+[[science-based applications]]  
+[[recipe integration]]  
+
+<!-- synthesized: 2026-07-18T11:41:35Z -->

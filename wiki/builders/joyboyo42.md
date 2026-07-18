@@ -1,23 +1,28 @@
-```yaml
+```markdown
+---
 title: builders/joyboyo42
-entity_type: builder
+entity_type: community_builder
 status: stub
-last_updated: 2026-07-17
-```
+last_updated: 2026-07-18
+---
 
-## who-they-are
-Joyboyo42 is an active community builder engaged in enhancing user experiences within their project. Details regarding their specific background and the initiatives they are building are currently not available.
+### who-they-are
+joyboyo42 is an independent developer based in the UK. They are focused on creating applications that bridge technology and scientific research, particularly in the area of nutrition.
 
-## what-they-built
-Information on the specific abilities or integrations that Joyboyo42 has shipped is not provided at this time.
+### what-they-built
+Currently, joyboyo42 is developing a science-backed nutrition recipe app that connects each recipe to peer-reviewed research sourced from PubMed. The app is in private beta.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-Currently, there are no known contact details for Joyboyo42, including Discord handle, GitHub, or X.
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[wikilinks]]
-
-<!-- synthesized: 2026-07-17T12:00:49Z -->
+### connects-to
+[[nutrition]]
+[[recipe_app]]
+[[PubMed]]
+<!-- synthesized: 2026-07-18T11:41:35Z -->
+```

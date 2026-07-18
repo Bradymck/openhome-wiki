@@ -1,28 +1,26 @@
-```markdown
----
+```yaml
 title: builders/shoompa
-entity_type: community builder
+entity_type: builder
 status: stub
-last_updated: 2026-07-17
----
+last_updated: 2026-07-18
+```
 
-### who-they-are
-Shoompa is an active community builder focused on fostering development within the ecosystem of Homie and User roles. They are known for being devkit holders and contributors to the community's growth.
+## who-they-are
+Shoompa is an independent UK developer focused on creating innovative applications. They are currently building a science-backed nutrition recipe app that connects each recipe to peer-reviewed research from PubMed. The app is built and currently in private beta.
 
-### what-they-built
-Details on specific abilities or integrations that Shoompa has shipped are currently unavailable.
+## what-they-built
+Shoompa has developed a nutrition recipe app designed to enhance the cooking experience by linking recipes to scientific research. The app is in the private beta testing phase.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified  
+## how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
-### connects-to
-[[abilities]]  
-[[community builders]]  
+## connects-to
+[[nutrition recipes]]  
+[[app development]]
 
-<!-- synthesized: 2026-07-17T12:00:49Z -->
-```
+<!-- synthesized: 2026-07-18T11:41:35Z -->

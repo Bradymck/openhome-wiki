@@ -1,27 +1,29 @@
 ```markdown
 ---
 title: builders/freshdelii
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-17
+last_updated: 2026-07-18
 ---
 
 ### who-they-are
-FreshDelii is a community builder engaged in the development and integration of innovative capabilities aimed at enhancing user experiences within the ecosystem. They hold devkit resources and are active participants in community collaboration.
+Freshdelii is an independent UK developer focused on building a science-backed nutrition recipe app that connects each recipe to peer-reviewed research from PubMed.
 
 ### what-they-built
-Details regarding specific abilities or integrations that FreshDelii has shipped are currently unavailable. More information may become available as they progress in their community-building efforts.
+Currently, Freshdelii is in the private beta phase of their nutrition recipe app, which aims to provide users with recipes supported by scientific research.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
+- Discord: Not specified
 - GitHub: Not specified
-- X/Twitter: Not specified
+- Twitter: Not specified
 
 ### connects-to
-[[wikilinks]] 
+[[nutrition]]
+[[recipes]]
+[[peer-reviewed research]]
 
-<!-- synthesized: 2026-07-17T12:00:49Z -->
+<!-- synthesized: 2026-07-18T11:41:35Z -->
 ```

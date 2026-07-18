@@ -3,22 +3,22 @@
 title: guides/sagarjethi
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-17
+last_updated: 2026-07-18
 ---
 
 ### who-they-are
-Sagarjethi is recognized as a knowledgeable community guide who specializes in supporting users in the community.
+Sagarjethi is an independent developer based in the UK, focusing on creating applications that benefit from extensive research and data-backed approaches.
 
 ### what-they-help-with
-Sagarjethi helps users with onboarding processes and provides assistance with various tools and resources available within the community.
+Sagarjethi specializes in developing applications related to nutrition, particularly those that connect recipes to peer-reviewed scientific research, providing users with credible information.
 
 ### how-to-reach
-You can reach Sagarjethi on Discord through their handle.
+Discord handle: Not provided in the sourced content.
 
 ## connects-to
 [[guides]]
-[[community]]
-[[onboarding]]
+[[nutrition]]
+[[app_development]]
 
-<!-- synthesized: 2026-07-17T12:00:49Z -->
+<!-- synthesized: 2026-07-18T11:41:35Z -->
 ```

@@ -1,29 +1,27 @@
-```markdown
----
-title: "builders/michaelgold"
-entity_type: "builder"
-status: "stub"
-last_updated: 2026-07-17
----
+```yaml
+title: builders/michaelgold
+entity_type: builder
+status: stub
+last_updated: 2026-07-18
+```
 
-### who-they-are
-Michael Gold is an active community builder associated with the Homie project and has a role that involves shipping developer toolkit (devkit) capabilities.
+## who-they-are
+Michael Gold is an independent developer based in the UK. He is focused on building a science-backed nutrition recipe app that links each recipe to peer-reviewed research from PubMed.
 
-### what-they-built
-Currently, there are no specific abilities or integrations listed that Michael Gold has shipped.
+## what-they-built
+Michael is currently working on a recipe app that is designed to be informative and research-oriented. The app is in the private beta stage, although specific shipped abilities or integrations have not been detailed.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X (Twitter): Not specified
+## how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[builders]]
-[[community builders]]
-[[Homie]]
-[[devkit]]
-<!-- synthesized: 2026-07-17T12:00:49Z -->
-```
+[[recipe app]]
+[[nutrition research]] 
+[[PubMed]]
+
+<!-- synthesized: 2026-07-18T11:41:35Z -->

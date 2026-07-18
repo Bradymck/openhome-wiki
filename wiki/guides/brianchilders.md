@@ -3,22 +3,21 @@
 title: guides/brianchilders
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-17
+last_updated: 2026-07-18
 ---
 
 ### who-they-are
-Brian Childers is a Community Guide known for his expertise in real estate and property listing management.
+Brian Childers is an independent developer based in the UK. He has expertise in creating applications that combine technology and scientific research, focusing particularly on nutrition.
 
 ### what-they-help-with
-He specializes in helping individuals navigate the complexities of buying and selling homes, offering insights into current market trends and property values.
+Brian specializes in developing science-backed applications, particularly in the nutrition domain. His current project is a recipe app that connects each recipe to peer-reviewed research, providing a unique resource for users looking for scientifically validated nutritional information.
 
 ### how-to-reach
-Brian can be contacted via his Discord handle.
+Brian can be reached on Discord for assistance or collaboration.
 
-### connects-to
+## connects-to
 [[guides]]
-[[real_estate]]
-[[community_guides]]
-
-<!-- synthesized: 2026-07-17T12:00:49Z -->
+[[nutrition]]
+[[application-development]]
+<!-- synthesized: 2026-07-18T11:41:35Z -->
 ```

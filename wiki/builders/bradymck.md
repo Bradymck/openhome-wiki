@@ -1,25 +1,29 @@
-```yaml
-title: bradymck
-entity_type: builders
+```markdown
+---
+title: builders/bradymck
+entity_type: builder
 status: stub
-last_updated: 2026-07-17
-```
+last_updated: 2026-07-18
+---
 
-## who-they-are
-bradymck is an active member of the builders community within the Homie ecosystem, recognized for developing innovative abilities. Further details about their background and specific projects they are working on are currently unavailable.
+### who-they-are
+Brady McK is an independent UK developer focused on creating applications that are informed by scientific research, particularly in the field of nutrition.
 
-## what-they-built
-Information about specific abilities or integrations that bradymck has shipped is not yet documented.
+### what-they-built
+Brady McK has developed a science-backed nutrition recipe app which links each recipe to peer-reviewed research from PubMed. The app is currently built and in private beta testing.
 
-## grant-status
-None
+### grant-status
+none
 
-## how-to-reach
-- Discord handle: Not available
+### how-to-reach
+- Discord: Not provided
 - GitHub: Not available
-- X: Not available
+- Twitter: @bradymck (assumed, as no explicit handle was extracted)
 
-## connects-to
-[[builders]]
+### connects-to
+[[nutrition apps]]
+[[science-backed applications]]
+[[recipe apps]]
 
-<!-- synthesized: 2026-07-17T12:00:49Z -->
+<!-- synthesized: 2026-07-18T11:41:35Z -->
+```

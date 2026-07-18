@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: mathieub
-entity_type: builders
+title: builders/mathieub
+entity_type: builder
 status: stub
-last_updated: 2026-07-17
+last_updated: 2026-07-18
 ---
 
 ### who-they-are
-Mathieub is an active member within the community of builders, identified as a devkit holder and involved in developing innovative integrations. Specific details about his background and the precise nature of his current projects are not available.
+Mathieu B. is an independent developer based in the UK focusing on building tech solutions that integrate scientific research with practical applications.
 
 ### what-they-built
-No specific shipped abilities or integrations have been documented regarding Mathieub at this time.
+Currently, Mathieu is developing a science-backed nutrition recipe app that links each recipe to peer-reviewed research from PubMed. The app is in private beta testing.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X/Twitter: Not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X (Twitter): Not provided
 
-### connects-to
-[[builders/mathieub]]
-
-<!-- synthesized: 2026-07-17T12:00:49Z -->
+## connects-to
+[[nutrition recipes]]
+[[research integration]]
+[[beta testing]]
+<!-- synthesized: 2026-07-18T11:41:35Z -->
 ```
