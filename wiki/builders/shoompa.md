@@ -1,26 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/shoompa
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-18
-```
+last_updated: 2026-07-19
+---
 
-## who-they-are
-Shoompa is an independent UK developer focused on creating innovative applications. They are currently building a science-backed nutrition recipe app that connects each recipe to peer-reviewed research from PubMed. The app is built and currently in private beta.
+### who-they-are
+Shoompa is involved in building community-focused solutions that leverage blockchain technology. They are recognized within the development community for their innovative approaches and contributions, engaging both Homie and User roles as devkit holders.
 
-## what-they-built
-Shoompa has developed a nutrition recipe app designed to enhance the cooking experience by linking recipes to scientific research. The app is in the private beta testing phase.
+### what-they-built
+Specific details about the abilities or integrations that Shoompa has shipped are currently unknown. 
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X/Twitter: Not specified
 
-## connects-to
-[[nutrition recipes]]  
-[[app development]]
+### connects-to
+[[Ability 1]]
+[[Ability 2]]
+[[Ability 3]]
 
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+<!-- synthesized: 2026-07-19T11:46:53Z -->
+```

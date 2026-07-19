@@ -1,27 +1,29 @@
-```yaml
-title: builders/michaelgold
-entity_type: builder
-status: stub
-last_updated: 2026-07-18
-```
+```markdown
+---
+title: "builders/michaelgold"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-07-19
+---
 
-## who-they-are
-Michael Gold is an independent developer based in the UK. He is focused on building a science-backed nutrition recipe app that links each recipe to peer-reviewed research from PubMed.
+### who-they-are
+Michael Gold is an active community builder within the development ecosystem. He is working on projects that aim to enhance user experience and engagement through innovative applications of technology.
 
-## what-they-built
-Michael is currently working on a recipe app that is designed to be informative and research-oriented. The app is in the private beta stage, although specific shipped abilities or integrations have not been detailed.
+### what-they-built
+Details on specific abilities or integrations that Michael has shipped are currently unavailable.
 
-## grant-status
-none
+### grant-status
+Grant status information has not been provided.
 
-## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+### how-to-reach
+- **Discord handle**: Not available
+- **GitHub**: Not available
+- **X/Twitter**: Not available
 
 ## connects-to
-[[recipe app]]
-[[nutrition research]] 
-[[PubMed]]
+[[ability_one]]
+[[ability_two]]
+[[ability_three]]
 
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+<!-- synthesized: 2026-07-19T11:46:53Z -->
+```

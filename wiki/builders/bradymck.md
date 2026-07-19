@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: builders/bradymck
-entity_type: builder
+title: bradymck
+entity_type: builders
 status: stub
-last_updated: 2026-07-18
+last_updated: 2026-07-19
 ---
 
 ### who-they-are
-Brady McK is an independent UK developer focused on creating applications that are informed by scientific research, particularly in the field of nutrition.
+Brady McK is an active community builder engaged in innovative projects within the decentralized finance space. While specific details about their background and current projects are limited, they are known for their involvement in leveraging real property for financing solutions.
 
 ### what-they-built
-Brady McK has developed a science-backed nutrition recipe app which links each recipe to peer-reviewed research from PubMed. The app is currently built and in private beta testing.
+Information regarding specific abilities or integrations that Brady McK has shipped is currently unavailable. 
 
 ### grant-status
-none
+stub
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not available
-- Twitter: @bradymck (assumed, as no explicit handle was extracted)
+- Discord: Not specified
+- GitHub: Not specified
+- X: [Twitter Handle](https://twitter.com/MarthaB83587119)
 
 ### connects-to
-[[nutrition apps]]
-[[science-backed applications]]
-[[recipe apps]]
+[[builders]]
+[[decentralized-finance]]
+[[real-estate-innovation]]
 
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+<!-- synthesized: 2026-07-19T11:46:53Z -->
 ```

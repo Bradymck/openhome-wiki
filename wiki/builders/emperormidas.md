@@ -1,27 +1,29 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-18
+last_updated: 2026-07-19
 ---
 
 ### who-they-are
-EmporerMidas is an independent developer based in the UK, focused on creating a science-backed nutrition recipe app. The app aims to connect each recipe to peer-reviewed research sourced from PubMed, enhancing the credibility and reliability of the nutritional information provided.
+Emperor Midas is an active community builder and a devkit holder. They are engaged in creating innovative financial solutions that draw on verified home liens to establish more stable lending practices.
 
 ### what-they-built
-Currently, EmporerMidas has developed the nutrition recipe app, which is built and in private beta. Specific features and integrations of the app have not been disclosed yet.
+Details on specific abilities or integrations that Emperor Midas has shipped are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X/Twitter: @rowan9sam
+- Discord: Not provided
+- GitHub: Not provided
+- X (Twitter): Not provided
 
-## connects-to
-[[builders/nutrition-app]]
-[[builders/science-backed-recipes]]
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+### connects-to
+[[builders]]
+[[assets]]
+[[finance]]
+[[community]]
+<!-- synthesized: 2026-07-19T11:46:53Z -->
 ```

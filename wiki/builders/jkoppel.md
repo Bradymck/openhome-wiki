@@ -1,27 +1,30 @@
-```yaml
-title: jkoppel
-entity_type: builders
+```markdown
+---
+title: builders/jkoppel
+entity_type: community builder
 status: stub
-last_updated: 2026-07-18
-```
+last_updated: 2026-07-19
+---
 
-## who-they-are
-jkoppel is an independent UK developer focusing on creating a science-backed nutrition recipe app. The app aims to connect each recipe to peer-reviewed research findings from PubMed and is currently in private beta.
+### who-they-are
+JKoppel is a member of the community builder network focused on leveraging real-world assets for innovative financial solutions. They are involved in building systems that aim to provide more stability and reliability in lending practices.
 
-## what-they-built
-jkoppel has developed a nutrition recipe application that integrates scientific research into its recipes, enhancing the nutritional value and credibility of the content provided to users.
+### what-they-built
+JKoppel has developed systems that draw credit against verified home liens, essentially integrating real property assets into the lending process to enhance cash flow stability. This initiative shifts away from reliance on volatile tokens to more secure assets.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-Discord: Unknown  
-GitHub: Unknown  
-X: Unknown
+### how-to-reach
+- Discord: Not available
+- GitHub: Not available
+- X/Twitter: [@JKoppel](https://twitter.com/JKoppel)
 
 ## connects-to
-[[nutrition apps]]  
-[[science-based applications]]  
-[[recipe integration]]  
+[[builders]]
+[[real-world-assets]]
+[[lending]]
+[[financial-solutions]]
 
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+<!-- synthesized: 2026-07-19T11:46:53Z -->
+```

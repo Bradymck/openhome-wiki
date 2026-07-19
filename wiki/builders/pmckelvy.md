@@ -1,25 +1,26 @@
 ```markdown
 ---
 title: builders/pmckelvy
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-18
+last_updated: 2026-07-19
 ---
 
 ### who-they-are
-No specific background information is available for pmckelvy.
+Not much is known about pmckelvy's background or specific projects. Further details would be needed to elaborate on their experience and focus areas in the community.
 
 ### what-they-built
-No shipped abilities or integrations are available for pmckelvy.
+Currently, there are no specific abilities or integrations recorded that pmckelvy has shipped. More information is required to detail their contributions.
 
 ### grant-status
 none
 
 ### how-to-reach
-No contact information available.
+No contact information is available at this time.
 
 ## connects-to
-[[wikilinks]]
-
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+[[builders]]
+[[homies]]
+[[devkit holders]]
+<!-- synthesized: 2026-07-19T11:46:53Z -->
 ```

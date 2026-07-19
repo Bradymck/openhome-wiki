@@ -1,28 +1,26 @@
-```markdown
----
+```yaml
 title: builders/pauldy
-entity_type: community_builder
+entity_type: builder
 status: stub
-last_updated: 2026-07-18
----
+last_updated: 2026-07-19
+```
 
-### who-they-are
-Pauldy is an independent developer from the UK focused on building community-driven applications that enhance user experiences and promote engagement.
+## who-they-are
+Pauldy is an active community builder within the Homie ecosystem, focusing on developing tools and integrations that enhance user interactions and experiences.
 
-### what-they-built
-Currently, Pauldy is working on a science-backed nutrition recipe app that integrates peer-reviewed research from PubMed with each recipe. The app is designed to provide users with reliable nutritional information and is currently in private beta testing.
+## what-they-built
+Currently, there is no specific information available regarding the abilities or integrations that Pauldy has shipped.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X (Twitter): Not provided
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X (Twitter): Not specified
 
-### connects-to
-[[nutrition]]
-[[app_development]]
+## connects-to
+[[builders]]
+[[integrations]]
 
-<!-- synthesized: 2026-07-18T11:41:35Z -->
-```
+<!-- synthesized: 2026-07-19T11:46:53Z -->

@@ -1,26 +1,24 @@
 ```markdown
 ---
-title: skillstone
-entity_type: guides
+title: guides/skillstone
+entity_type: Community Guide
 status: stub
-last_updated: 2026-07-18
+last_updated: 2026-07-19
 ---
 
-## who-they-are
-Information about the background and expertise of skillstone guides is not currently available.
+### who-they-are
+Information about the background and expertise of the guides in the "skillstone" community is currently unavailable.
 
-## what-they-help-with
-Details regarding the specific areas of specialty for skillstone guides have not been provided.
+### what-they-help-with
+Guides under "skillstone" help users with skills and knowledge related to various technical abilities, hardware, and APIs. Specific details on their specialty are not provided at this time.
 
-## how-to-reach
-No Discord handles for skillstone guides are available at this time.
+### how-to-reach
+Contact details for reaching guides in the "skillstone" community are not disclosed.
 
 ## connects-to
 [[guides]]
-[[Discord]]
-[[community]]
-[[skill]]
-[[resources]]
+[[skillstone]]
+[[community-guides]]
 
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+<!-- synthesized: 2026-07-19T11:46:53Z -->
 ```

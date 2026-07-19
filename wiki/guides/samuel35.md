@@ -1,24 +1,22 @@
-```markdown
----
+```yaml
 title: guides/samuel35
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-18
----
+last_updated: 2026-07-19
+```
 
-### who-they-are
-Samuel35 is an independent developer based in the UK with a focus on creating applications grounded in scientific research, particularly in the field of nutrition.
+## who-they-are
+Samuel35 is recognized as a power user within the community, contributing expertise that aids in the onboarding of new members.
 
-### what-they-help-with
-Samuel35 specializes in developing a science-backed nutrition recipe app that connects recipes to peer-reviewed research from PubMed. The app is currently in private beta testing and aims to provide users with evidence-based nutrition guidance.
+## what-they-help-with
+Samuel35 specializes in providing guidance on utilizing various community tools and best practices for new users, although specific abilities or hardware expertise are not detailed in the available information.
 
-### how-to-reach
-Discord handle: Not specified.
+## how-to-reach
+Samuel35 can be reached on Discord.
 
 ## connects-to
-[[Community Guides]]
-[[Nutrition Apps]]
-[[Scientific Research]]
-[[PubMed Research]]
-<!-- synthesized: 2026-07-18T11:41:35Z -->
-```
+[[guides]]
+[[community]]
+[[onboarding]]
+
+<!-- synthesized: 2026-07-19T11:46:53Z -->

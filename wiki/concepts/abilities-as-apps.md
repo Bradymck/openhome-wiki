@@ -1,25 +1,27 @@
-```yaml
-title: Abilities as Apps
+```markdown
+---
+title: concepts/abilities-as-apps
 entity_type: concepts
-status: live
-last_updated: 2026-07-18
-```
+status: stub
+last_updated: 2026-07-19
+---
 
 ### definition
-Abilities as Apps refers to the concept of modular functionalities within the OpenHome platform, allowing users to integrate specific capabilities as independent applications. This approach streamlines user interactions by enabling functionalities to be added or removed easily, similar to downloading apps on a smartphone.
+Abilities as apps refers to the concept of modular functionalities within the OpenHome platform that can be individually utilized, accessed, or customized by users as applications. These abilities allow for different capabilities to be integrated seamlessly into the user's environment.
 
 ### why-it-matters
-This concept is crucial for OpenHome as it enhances user customization and flexibility. By allowing users to choose and manage their own abilities, the platform becomes more adaptable to individual needs and preferences, fostering a more personalized user experience.
+This concept is crucial for OpenHome as it promotes flexibility and personalization, enabling users to tailor their experiences according to their specific needs and preferences. It supports a more dynamic interaction within the platform, allowing users to add or remove capabilities effortlessly, thus enhancing user engagement and satisfaction.
 
 ### how-it-manifests
-In practice, Abilities as Apps appears within the OpenHome platform as a user interface that allows individuals to explore, install, and manage various functionalities. Users can select from a library of abilities, turning them on or off based on their requirements, thereby customizing their experiences.
+Abilities as apps are manifested in various forms across the OpenHome platform, including but not limited to customizable tools, services, and functionalities that users can choose from a library of options. This allows users to create a unique interface that reflects their individual requirements.
 
 ### connects-to
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+<!-- synthesized: 2026-07-19T11:46:53Z -->
+```

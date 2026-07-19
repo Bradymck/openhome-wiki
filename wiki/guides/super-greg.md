@@ -1,24 +1,25 @@
 ```markdown
 ---
-title: guides/super-greg
-entity_type: Community Guide
+title: Super Greg
+entity_type: guides/super-greg
 status: stub
-last_updated: 2026-07-18
+last_updated: 2026-07-19
 ---
 
 ### who-they-are
-Super Greg is an independent developer based in the UK, known for creating applications that focus on science-backed nutrition.
+Super Greg is a community guide with expertise in helping new users navigate various platforms and tools effectively.
 
 ### what-they-help-with
-Super Greg specializes in developing nutrition-based apps, including a recipe application that connects each recipe to peer-reviewed research from PubMed. His expertise lies in integrating scientific research with practical recipes, making nutrition more accessible and understandable.
+Super Greg specializes in onboarding users, providing insights on best practices, and troubleshooting common issues related to community engagement and platform functionalities.
 
 ### how-to-reach
-Discord handle: Not specified
+Discord handle: Super_Greg
 
-## connects-to
+### connects-to
 [[guides]]
-[[nutrition]]
-[[app_development]]
+[[community-guides]]
+[[onboarding]]
+[[troubleshooting]]
 
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+<!-- synthesized: 2026-07-19T11:46:53Z -->
 ```

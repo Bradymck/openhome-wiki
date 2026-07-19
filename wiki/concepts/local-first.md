@@ -2,26 +2,25 @@
 ---
 title: concepts/local-first
 entity_type: concepts
-status: live
-last_updated: 2026-07-18
+status: stub
+last_updated: 2026-07-19
 ---
 
 ## definition
-Local-first refers to a design approach that prioritizes data and computation being handled locally on devices rather than relying solely on centralized servers. This allows for improved performance, enhanced privacy, and greater resilience, as users can continue to work with their data even without an internet connection.
+Local-first refers to a design philosophy where applications prioritize the use of local resources and data before relying on external services. It emphasizes functionality that is resilient, efficient, and can operate independently from a network connection.
 
 ## why-it-matters
-In the context of OpenHome, adopting a local-first strategy ensures that users have immediate access to their data, fostering a better user experience by reducing latency and increasing reliability. This approach aligns with the values of user autonomy and data ownership, making it an essential pillar of the platform.
+Local-first is significant to OpenHome as it enhances user experience by providing reliable access to applications and data even in low or no connectivity situations. This approach aligns with the goal of giving users more control over their data and how it is used, fostering trust and privacy.
 
 ## how-it-manifests
-The local-first concept is implemented throughout the OpenHome platform by enabling various functionalities that operate offline or with minimal connectivity. Examples include local data storage, real-time synchronization with cloud services when online, and applications that fully function without an internet connection.
+In the OpenHome platform, local-first principles may manifest in various features that allow data synchronization, offline access to applications, and local processing of user actions. This is particularly important in home automation and IoT scenarios, where reliable local operation can provide enhanced performance and security.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/web3-native]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+<!-- synthesized: 2026-07-19T11:46:53Z -->
 ```

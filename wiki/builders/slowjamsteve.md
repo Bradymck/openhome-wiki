@@ -1,27 +1,30 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-18
+last_updated: 2026-07-19
 ---
 
 ### who-they-are
-Slowjamsteve is an independent developer based in the UK. He has experience in creating applications and engaging with developer communities.
+Slowjamsteve is a community builder involved in developing innovative solutions in the blockchain and decentralized finance space. Their work primarily focuses on leveraging real-world assets to enhance financial products and lending processes.
 
 ### what-they-built
-As of now, there is no detailed information about specific abilities or integrations that Slowjamsteve has shipped.
+Details about specific shipped abilities or integrations by Slowjamsteve are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not provided
+- Discord: Not provided
 - GitHub: Not provided
-- X: Not provided
+- X (Twitter): Not provided
 
 ## connects-to
 [[builders]]
-[[abilities]]
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+[[blockchain]]
+[[decentralized finance]]
+[[real-world assets]]
+
+<!-- synthesized: 2026-07-19T11:46:53Z -->
 ```

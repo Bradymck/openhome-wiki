@@ -3,25 +3,28 @@
 title: builders/shookdt
 entity_type: builder
 status: stub
-last_updated: 2026-07-18
+last_updated: 2026-07-19
 ---
 
-## who-they-are
-Shookdt is an independent developer building technology solutions. 
+### who-they-are
+Shookdt is an active community builder focusing on developing innovative solutions within the ecosystem. They are engaged in creating applications that enhance user experiences and broaden the capabilities of existing platforms.
 
-## what-they-built
-Currently, there is no specific information regarding the abilities or integrations that Shookdt has shipped.
+### what-they-built
+Details of specific abilities or integrations that Shookdt has shipped are currently not available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-Currently, there is no known contact information for Shookdt.
+### how-to-reach
+Discord handle: Not available  
+GitHub: Not available  
+X: Not available  
 
 ## connects-to
-[[developers]]
-[[technology]]
-[[independent developers]]
+[[builders]]
+[[community]]
+[[development]]
+[[integrations]]
 
-<!-- synthesized: 2026-07-18T11:41:35Z -->
+<!-- synthesized: 2026-07-19T11:46:53Z -->
 ```
