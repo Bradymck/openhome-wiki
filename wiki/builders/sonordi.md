@@ -1,27 +1,27 @@
 ```yaml
 title: builders/sonordi
-entity_type: builder
+entity_type: community builder
 status: stub
-last_updated: 2026-07-19
+last_updated: 2026-07-20
 ```
 
 ## who-they-are
-Sonordi is a community builder involved in the development of innovative solutions using real property data and lending mechanisms. They focus on creating tools that leverage verified home liens to improve cash flow dynamics within the DeFi space.
+Sonordi is an active community builder known for their involvement in integrating technology with various applications. They have a background in real estate, leveraging their skills to enhance user experiences in different environments.
 
 ## what-they-built
-Information regarding specific abilities or integrations that Sonordi has shipped is currently unavailable.
+Currently, there is no specific information available about the abilities or integrations that Sonordi has shipped.
 
 ## grant-status
-None
+none
 
 ## how-to-reach
-- Discord handle: Not specified
+- Discord: Not specified
 - GitHub: Not specified
-- X/Twitter: Not specified
+- Twitter: [@fightclub2030](https://twitter.com/fightclub2030)
 
 ## connects-to
-[[cash flow]]
-[[DeFi]]
-[[real property lending]]
+[[builders]]  
+[[community builders]]  
+[[developer kit]]  
 
-<!-- synthesized: 2026-07-19T11:46:53Z -->
+<!-- synthesized: 2026-07-20T12:58:49Z -->

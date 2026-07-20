@@ -1,30 +1,29 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-07-19
+last_updated: 2026-07-20
 ---
 
 ### who-they-are
-Slowjamsteve is a community builder involved in developing innovative solutions in the blockchain and decentralized finance space. Their work primarily focuses on leveraging real-world assets to enhance financial products and lending processes.
+Slow Jam Steve is a professional realtor who also has experience in the field of technology. He enjoys leveraging his skills in various roles, balancing his work in real estate with a passion for tech applications.
 
 ### what-they-built
-Details about specific shipped abilities or integrations by Slowjamsteve are currently unavailable.
+Currently, there is no detailed information available on specific abilities or integrations that Slow Jam Steve has shipped. 
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X (Twitter): Not provided
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: [@fightclub2030](https://twitter.com/fightclub2030)
 
-## connects-to
+### connects-to
 [[builders]]
-[[blockchain]]
-[[decentralized finance]]
-[[real-world assets]]
+[[real estate]]
+[[technology integration]]
 
-<!-- synthesized: 2026-07-19T11:46:53Z -->
+<!-- synthesized: 2026-07-20T12:58:49Z -->
 ```

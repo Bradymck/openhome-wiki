@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Dead Man's Switch
-entity_type: concepts
-status: live
-last_updated: 2026-07-19
+title: "Dead Man's Switch"
+entity_type: "concepts/"
+status: "stub"
+last_updated: 2026-07-20
 ---
 
-### Definition
-A dead man's switch is a safety mechanism designed to prevent unwanted outcomes, typically by triggering an alert or action if the person responsible fails to act. This concept ensures that important processes or functions continue under specific circumstances or that certain information is shared posthumously.
+### definition
+A dead man's switch is a safety mechanism that triggers a specific action if a person becomes incapacitated or unable to perform their duties. It ensures that critical processes continue or that certain precautions are taken when someone is not able to respond.
 
-### Why It Matters
-In the context of OpenHome, a dead man's switch enhances users' control over their data and digital assets. It provides a safeguard that ensures that sensitive operations or resources are managed responsibly, especially in scenarios where a user's absence might lead to risks or lost access to critical information.
+### why-it-matters
+In the context of OpenHome, dead man's switches are relevant as they can enhance user security and automation, ensuring that systems remain functional or that safety protocols are enacted automatically if the user fails to interact with the system within a designated timeframe.
 
-### How It Manifests
-Within OpenHome, the dead man's switch can manifest as features that allow users to set up automated responses or alerts in case of inactivity. For instance, if a user has not engaged with their account for a certain period, the system might automatically notify designated contacts or execute specific protocols to secure their assets or data.
+### how-it-manifests
+The dead man's switch concept may manifest in various functionalities within the OpenHome platform, such as automated alerts, system shutdowns, or process continuations when a user is inactive for a certain period. These implementations help maintain operational integrity and user safety.
 
-### Connects To
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/spatial-intelligence]]  
+### connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-19T11:46:53Z -->
+<!-- synthesized: 2026-07-20T12:58:49Z -->
 ```

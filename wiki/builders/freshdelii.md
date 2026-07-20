@@ -3,26 +3,26 @@
 title: builders/freshdelii
 entity_type: community builder
 status: stub
-last_updated: 2026-07-19
+last_updated: 2026-07-20
 ---
 
 ### who-they-are
-Freshdelii is a community builder focusing on innovative solutions within decentralized finance, specifically through leveraging verified home liens to draw credit against real property assets.
+Freshdelii is a community builder involved in developing innovative solutions and integrations within their ecosystem.
 
 ### what-they-built
-Information regarding specific shipped abilities or integrations is currently unavailable.
+Currently, there are no specific abilities or integrations publicly listed or documented that Freshdelii has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: not provided
-- GitHub: not provided
-- X/Twitter: not provided
+- Discord handle: Not provided
+- GitHub: Not provided
+- X/Twitter: Not provided
 
 ## connects-to
 [[abilities]]
-[[decentralized finance]]
-[[property assets]]
-<!-- synthesized: 2026-07-19T11:46:53Z -->
+[[integrations]]
+[[community builders]]
+<!-- synthesized: 2026-07-20T12:58:49Z -->
 ```

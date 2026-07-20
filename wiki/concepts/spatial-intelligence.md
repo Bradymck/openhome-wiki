@@ -1,19 +1,18 @@
-```markdown
----
-title: concepts/spatial-intelligence
+```yaml
+title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-07-19
----
+last_updated: 2026-07-20
+```
 
 ## definition
-Spatial intelligence refers to the ability to think in three dimensions. It encompasses the capability to visualize and manipulate objects in space, interpret maps, and understand the physical layout of environments. This intelligence is crucial for navigation, architecture, and various design-related fields.
+Spatial intelligence refers to the capability to perceive and interpret spatial relationships among objects, allowing individuals to visualize and manipulate them in relation to one another in physical space.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is significant as it enhances user experiences through improved navigation and spatial understanding within virtual environments. It allows users to interact with spaces in intuitive ways, leading to more effective and engaging home management.
+In the context of OpenHome, spatial intelligence is crucial for enhancing user experience and interaction within digital and physical environments. It helps users navigate spaces, comprehend layouts, and make informed decisions about their living environments.
 
 ## how-it-manifests
-While specific applications of spatial intelligence within OpenHome are not detailed, it likely manifests in features that enable users to visualize their home spaces, manage spatial layouts, and navigate through virtual interfaces effectively.
+This concept appears within the OpenHome platform through features like spatial mapping, where users can visualize their living spaces, arrange furniture, and explore interior design options virtually. It is also instrumental in Augmented Reality applications, allowing users to interact with their homes in an intuitive manner.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +22,4 @@ While specific applications of spatial intelligence within OpenHome are not deta
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-19T11:46:53Z -->
-```
+<!-- synthesized: 2026-07-20T12:58:49Z -->

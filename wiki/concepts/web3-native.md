@@ -1,27 +1,25 @@
-```markdown
----
-title: concepts/web3-native
+```yaml
+title: Web3 Native
 entity_type: concepts
 status: live
-last_updated: 2026-07-19
----
+last_updated: 2026-07-20
+```
 
 ## definition
-Web3-native refers to applications, services, and ecosystems that leverage blockchain technology, decentralized protocols, and user empowerment as foundational principles. These applications prioritize user control, transparency, and trustless interactions, distinguishing themselves from traditional web models.
+Web3 native refers to a paradigm of internet applications and platforms built on decentralized technologies, primarily leveraging blockchain to enable user control of data, digital identities, and transactions without relying on centralized authorities or intermediary entities.
 
 ## why-it-matters
-Web3-native concepts are integral to OpenHome as they align with the platform's goals of decentralization and user sovereignty. By adopting a Web3-native approach, OpenHome can ensure that users retain control over their digital assets, data, and interactions, promoting greater trust and security in the ecosystem.
+In the context of OpenHome, embracing Web3 native principles is essential for creating an ecosystem that prioritizes user sovereignty, ensuring that individuals can maintain ownership and control over their personal information and digital assets. This structure aligns with the core mission of OpenHome to empower users in a digital landscape increasingly dominated by centralized entities.
 
 ## how-it-manifests
-In OpenHome, Web3-native features can be seen in functionalities such as decentralized identity management, peer-to-peer transactions, and the integration of smart contracts. These elements facilitate a more interactive and user-driven experience, allowing users to engage with the platform in innovative ways without relying on centralized authorities.
+Web3 native concepts appear in OpenHome through the implementation of smart contracts, decentralized identity protocols, and self-sovereign data management solutions. These elements enable users to engage with the platform securely and privately, facilitating transactions and interactions without intermediaries.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-19T11:46:53Z -->
-```
+<!-- synthesized: 2026-07-20T12:58:49Z -->

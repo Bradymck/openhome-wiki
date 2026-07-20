@@ -1,29 +1,28 @@
 ```markdown
 ---
-title: "builders/michaelgold"
-entity_type: "builder"
-status: "stub"
-last_updated: 2026-07-19
+title: builders/michaelgold
+entity_type: builders
+status: stub
+last_updated: 2026-07-20
 ---
 
 ### who-they-are
-Michael Gold is an active community builder within the development ecosystem. He is working on projects that aim to enhance user experience and engagement through innovative applications of technology.
+Michael Gold is a professional realtor with expertise in real estate, emphasizing the dual role of maintaining property while engaging in community building. He brings a unique perspective to his profession, blending traditional real estate practices with innovative community engagement.
 
 ### what-they-built
-Details on specific abilities or integrations that Michael has shipped are currently unavailable.
+Michael Gold has developed various community-focused initiatives, including a media platform involving a case for the MediaTek Genio 520/720 cyberdeck, targeting gaming, home automation, and educational uses. This project is positioned as an innovative blend of technology and community involvement.
 
 ### grant-status
-Grant status information has not been provided.
+none
 
 ### how-to-reach
-- **Discord handle**: Not available
-- **GitHub**: Not available
-- **X/Twitter**: Not available
+- Discord: Not provided
+- GitHub: Not provided
+- X (Twitter): [@fightclub2030](https://twitter.com/fightclub2030)
 
 ## connects-to
-[[ability_one]]
-[[ability_two]]
-[[ability_three]]
-
-<!-- synthesized: 2026-07-19T11:46:53Z -->
+[[gametech]]
+[[homeautomation]]
+[[education]]
+<!-- synthesized: 2026-07-20T12:58:49Z -->
 ```

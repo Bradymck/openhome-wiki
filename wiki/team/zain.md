@@ -3,21 +3,21 @@
 title: team/zain
 entity_type: team
 status: stub
-last_updated: 2026-07-19
+last_updated: 2026-07-20
 ---
 
 ### who-they-are
-Zain is a core member of the OpenHome team, holding the role of Server Admin. Their background and experience contribute to the stability and performance of the platform.
+Role at OpenHome and background information for Zain is not currently available.
 
 ### what-they-own
-Zain leads the server administration and maintenance of OpenHome’s infrastructure, ensuring optimal system performance and user accessibility.
+Areas of the platform that Zain leads are not specified at this time.
 
 ### how-to-reach
-Zain can be reached on Discord; username is not provided. No known Twitter or X handle is available.
+Contact details for Zain, including Discord handle and social media accounts, are not provided.
 
-### connects-to
+## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-07-19T11:46:53Z -->
+<!-- synthesized: 2026-07-20T12:58:49Z -->
 ```

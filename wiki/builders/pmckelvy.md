@@ -1,26 +1,27 @@
 ```markdown
 ---
 title: builders/pmckelvy
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-07-19
+last_updated: 2026-07-20
 ---
 
 ### who-they-are
-Not much is known about pmckelvy's background or specific projects. Further details would be needed to elaborate on their experience and focus areas in the community.
+Builders/pmckelvy is involved in real estate, working as a professional realtor. Their experience includes conducting open houses and property showings.
 
 ### what-they-built
-Currently, there are no specific abilities or integrations recorded that pmckelvy has shipped. More information is required to detail their contributions.
+Information on specific shipped abilities or integrations is not available at this time.
 
 ### grant-status
 none
 
 ### how-to-reach
-No contact information is available at this time.
+- Discord handle: Not provided
+- GitHub: Not provided
+- X (Twitter): [@fightclub2030](https://twitter.com/fightclub2030)
 
-## connects-to
+### connects-to
 [[builders]]
-[[homies]]
-[[devkit holders]]
-<!-- synthesized: 2026-07-19T11:46:53Z -->
+
+<!-- synthesized: 2026-07-20T12:58:49Z -->
 ```

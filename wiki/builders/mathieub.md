@@ -1,25 +1,29 @@
 ```markdown
 ---
-title: Builders: mathieub
-entity_type: builders
+title: builders/mathieub
+entity_type: builder
 status: stub
-last_updated: 2026-07-19
+last_updated: 2026-07-20
 ---
 
-### who-they-are
-mathieub is a member of the active community of builders, contributing to the development of innovative solutions and integrations in the tech sector. Specific details about their background and the focus of their building efforts are currently not available.
+## who-they-are
+Mathieu B. is a professional realtor who is also involved in community building and development projects, specifically focusing on technology and automation.
 
-### what-they-built
-Information regarding particular abilities or integrations that mathieub has shipped is not presently accessible.
+## what-they-built
+Mathieu is associated with Globalscale Case8 – a MediaTek Genio 520/720 cyberdeck intended for gaming, home automation, and education. This project aims to provide an accessible platform for users interested in tech integration into daily life.
 
-### grant-status
-The grant status for mathieub is not disclosed.
+## grant-status
+none
 
-### how-to-reach
-Currently, there are no known contact details available for mathieub, including Discord handle, GitHub, or X (Twitter) presence.
+## how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X (Twitter): [@fightclub2030](https://twitter.com/fightclub2030)
 
 ## connects-to
-Currently, there are no connections to other abilities available.
+[[builders/community]]
+[[builders/tech_integration]]
+[[projects/home_automation]]
 
-<!-- synthesized: 2026-07-19T11:46:53Z -->
+<!-- synthesized: 2026-07-20T12:58:49Z -->
 ```

@@ -1,30 +1,27 @@
 ```markdown
 ---
 title: builders/jkoppel
-entity_type: community builder
+entity_type: community_builder
 status: stub
-last_updated: 2026-07-19
+last_updated: 2026-07-20
 ---
 
-### who-they-are
-JKoppel is a member of the community builder network focused on leveraging real-world assets for innovative financial solutions. They are involved in building systems that aim to provide more stability and reliability in lending practices.
+## who-they-are
+jkoppel is a professional realtor who engages in community building activities and participates in various tech-related projects. They are currently working on a crowdfunding initiative involving a MediaTek Genio 520/720 cyberdeck meant for gaming, home automation, and education purposes.
 
-### what-they-built
-JKoppel has developed systems that draw credit against verified home liens, essentially integrating real property assets into the lending process to enhance cash flow stability. This initiative shifts away from reliance on volatile tokens to more secure assets.
+## what-they-built
+As of now, jkoppel is involved in the Globalscale Case8 project but specific details about shipped abilities or integrations have not been provided.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not available
-- GitHub: Not available
-- X/Twitter: [@JKoppel](https://twitter.com/JKoppel)
+## how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
+- X/Twitter: [@jkoppel](https://twitter.com/jkoppel)
 
 ## connects-to
-[[builders]]
-[[real-world-assets]]
-[[lending]]
-[[financial-solutions]]
+[[globalscale_case8]]
 
-<!-- synthesized: 2026-07-19T11:46:53Z -->
+<!-- synthesized: 2026-07-20T12:58:49Z -->
 ```

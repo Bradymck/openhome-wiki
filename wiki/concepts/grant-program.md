@@ -1,19 +1,18 @@
-```markdown
----
+```yaml
 title: concepts/grant-program
 entity_type: concepts
 status: stub
-last_updated: 2026-07-19
----
+last_updated: 2026-07-20
+```
 
 ## definition
-A grant program refers to a structured initiative that provides financial assistance to organizations, groups, or individuals to support specific projects or activities that align with broader goals, such as community development or innovation.
+A grant program is a financial assistance initiative designed to provide funding to individuals, organizations, or businesses for specific projects or purposes, often aimed at promoting innovation, research, or community development.
 
 ## why-it-matters
-In the context of OpenHome, grant programs are crucial for fostering innovation, supporting grassroots initiatives, and enabling users to create or improve services within the platform. They can provide the necessary funding for users to experiment with new ideas that enhance the overall ecosystem.
+In the context of OpenHome, grant programs play a crucial role in enabling developers and creators to bring their projects to life, helping to foster a vibrant ecosystem that supports diverse applications and enhances the platform's capabilities. They can serve as a catalyst for innovation, enabling participants to explore new ideas and contribute to the overall mission of OpenHome.
 
 ## how-it-manifests
-Grant programs may appear in OpenHome as financial opportunities for developers, creators, or community organizers who are looking to build new features, improve existing services, or conduct research that benefits the platform. This could include funding for projects that enhance user experience or increase platform accessibility.
+Grant programs may manifest on the OpenHome platform through structured funding opportunities that invite proposals from users, showcasing selected projects. These initiatives may be visible through specific calls for applications on the platform, highlighting the themes or areas of focus in alignment with OpenHome's objectives.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +22,4 @@ Grant programs may appear in OpenHome as financial opportunities for developers,
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-07-19T11:46:53Z -->
-```
+<!-- synthesized: 2026-07-20T12:58:49Z -->

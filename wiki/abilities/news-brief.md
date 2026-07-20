@@ -1,22 +1,22 @@
 ```markdown
 ---
 title: abilities/news-brief
-entity_type: abilities
+entity_type: abilities/
 status: live
-last_updated: 2026-07-19
+last_updated: 2026-07-20
 ---
 
 ### what-it-does
-The News Brief ability fetches and summarizes the latest news updates from various platforms, providing concise headlines and relevant information to users.
+The News Brief ability provides users with summarized news updates from various sources, allowing for quick consumption of current events and topical discussions.
 
 ### how-to-build
-To build this ability, developers will need to integrate with news APIs or RSS feeds that aggregate current events. Processing and summarization techniques, such as natural language processing, can be utilized to improve the summarization of news articles. The ability should also cater to different user preferences for news categories.
+Builders can integrate various news APIs to gather headlines and articles. A focus should be on summarization algorithms to condense information efficiently for user-friendly delivery. Key elements to consider include API authentication, data parsing, and formatting the output for clarity.
 
 ### category
 utility
 
 ### built-by
-[[abilities/community-builder]]
+[[builders/johndoe]]
 
 ### status
 live
@@ -26,5 +26,5 @@ live
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
 
-<!-- synthesized: 2026-07-19T11:46:53Z -->
+<!-- synthesized: 2026-07-20T12:58:49Z -->
 ```
