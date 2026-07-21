@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: Web3 Native
 entity_type: concepts
-status: live
-last_updated: 2026-07-20
-```
+status: stub
+last_updated: 2026-07-21
+---
 
-## definition
-Web3 native refers to a paradigm of internet applications and platforms built on decentralized technologies, primarily leveraging blockchain to enable user control of data, digital identities, and transactions without relying on centralized authorities or intermediary entities.
+### definition
+Web3 Native refers to applications and services that are built on decentralized technologies, primarily utilizing blockchain and Web3 principles. This concept emphasizes the importance of user ownership, transparency, and enhanced security, aligning with the vision of a decentralized internet.
 
-## why-it-matters
-In the context of OpenHome, embracing Web3 native principles is essential for creating an ecosystem that prioritizes user sovereignty, ensuring that individuals can maintain ownership and control over their personal information and digital assets. This structure aligns with the core mission of OpenHome to empower users in a digital landscape increasingly dominated by centralized entities.
+### why-it-matters
+The Web3 Native concept is significant for OpenHome as it represents a shift in how digital services are structured and accessed. By adopting Web3 principles, OpenHome can create a more equitable platform where users have ownership and agency over their data and interactions, fostering trust and engagement within the community.
 
-## how-it-manifests
-Web3 native concepts appear in OpenHome through the implementation of smart contracts, decentralized identity protocols, and self-sovereign data management solutions. These elements enable users to engage with the platform securely and privately, facilitating transactions and interactions without intermediaries.
+### how-it-manifests
+In OpenHome, the Web3 Native concept manifests through features such as decentralized identity verification, user-controlled data storage, and reward mechanisms for community contributions. These elements work together to create an ecosystem that empowers users while ensuring data integrity and security.
 
-## connects-to
+### connects-to
 - [[concepts/abilities-as-apps]]
 - [[concepts/voice-first]]
 - [[concepts/local-first]]
@@ -22,4 +23,5 @@ Web3 native concepts appear in OpenHome through the implementation of smart cont
 - [[concepts/spatial-intelligence]]
 - [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-20T12:58:49Z -->
+<!-- synthesized: 2026-07-21T12:16:37Z -->
+```

@@ -1,27 +1,25 @@
 ```yaml
-title: shoompa
+title: Shoompa
 entity_type: builders
 status: stub
-last_updated: 2026-07-20
+last_updated: 2026-07-21
 ```
 
 ## who-they-are
-Shoompa is a community builder involved in various integrations and applications, notably within the realms of technology and media.
+Shoompa is an active community builder within the ecosystem, focusing on developing new tools and integrations for users.
 
 ## what-they-built
-Details about specific abilities or integrations that shoompa has shipped are not available at this time.
+Details about specific abilities or integrations that Shoompa has shipped are currently not available.
 
 ## grant-status
-none
+None
 
 ## how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: @fightclub2030
+Discord handle: Information not available  
+GitHub: Information not available  
+X: Information not available  
 
 ## connects-to
-[[shipped abilities]]
-[[integrations]]
-[[community builders]]
-<!-- synthesized: 2026-07-20T12:58:49Z -->
-```
+[[wikilinks]]
+
+<!-- synthesized: 2026-07-21T12:16:37Z -->

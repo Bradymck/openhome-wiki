@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: "guides/adamdew"
-entity_type: "Community Guide"
-status: "stub"
-last_updated: 2026-07-20
+title: guides/adamdew
+entity_type: Community Guide
+status: stub
+last_updated: 2026-07-21
 ---
 
 ### who-they-are
-Adam Dew is a community guide known for helping others navigate various platforms and technologies. His contributions are especially valuable for onboarding new users.
+Adamdew is recognized as a community guide due to their involvement in supporting and onboarding new users.
 
 ### what-they-help-with
-Adam specializes in providing assistance with community-related inquiries, supporting users in understanding platform functionalities and navigating challenges they may encounter.
+Adamdew specializes in providing assistance with community-related queries, facilitating connections among users, and offering insights on community practices.
 
 ### how-to-reach
-Discord handle: @adamdew
+Discord Handle: adamdew
 
 ## connects-to
 [[guides]]
-[[community]]
+[[community-support]]
 [[onboarding]]
-<!-- synthesized: 2026-07-20T12:58:49Z -->
+<!-- synthesized: 2026-07-21T12:16:37Z -->
 ```

@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: concepts/local-first
+title: Local First
 entity_type: concepts
-status: live
-last_updated: 2026-07-20
+status: stub
+last_updated: 2026-07-21
 ---
 
-## definition
-Local-first refers to a methodology and design philosophy that prioritizes data and applications that operate primarily on the user's device, reducing reliance on constant internet connectivity and cloud infrastructure.
+### definition
+Local First refers to a design philosophy that prioritizes data being stored and processed locally on a user's device rather than relying on centralized cloud services. This approach enhances user control over their data and reduces dependence on continuous internet connectivity.
 
-## why-it-matters
-In the context of OpenHome, local-first is essential for enhancing user privacy, security, and control over personal data. It fosters a more resilient user experience by allowing access to functionalities and data management even in low-connectivity situations, aligning with the broader goals of user empowerment and autonomy.
+### why-it-matters
+The Local First concept is relevant to OpenHome as it aligns with the platform's commitment to user privacy and autonomy. By enabling users to manage their own data locally, OpenHome ensures that privacy and security concerns are addressed, fostering trust between the platform and its users.
 
-## how-it-manifests
-This concept manifests in OpenHome through features that allow users to store and manage their data locally on their devices. It may involve local databases, offline capabilities, and synchronization options that ensure data remains up-to-date while allowing users full control over their interactions without being entirely dependent on external servers.
+### how-it-manifests
+In the OpenHome platform, Local First appears in the way applications are developed to store user data directly on devices. This may include methods for syncing data across devices when connectivity is available, thereby allowing users to maintain a seamless experience while retaining control over their information.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ This concept manifests in OpenHome through features that allow users to store an
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-20T12:58:49Z -->
+<!-- synthesized: 2026-07-21T12:16:37Z -->
 ```

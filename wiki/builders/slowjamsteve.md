@@ -1,29 +1,26 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-07-20
+last_updated: 2026-07-21
 ---
 
 ### who-they-are
-Slow Jam Steve is a professional realtor who also has experience in the field of technology. He enjoys leveraging his skills in various roles, balancing his work in real estate with a passion for tech applications.
+Slowjamsteve is a member of the active community of builders, recognized for their contributions and involvement in developing tools and abilities within the {platform/technology} ecosystem.
 
 ### what-they-built
-Currently, there is no detailed information available on specific abilities or integrations that Slow Jam Steve has shipped. 
+Details regarding specific abilities or integrations that Slowjamsteve has shipped are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: [@fightclub2030](https://twitter.com/fightclub2030)
+Contact Slowjamsteve through their Discord handle or GitHub. Additional social media information is not available at this time.
 
-### connects-to
-[[builders]]
-[[real estate]]
-[[technology integration]]
+## connects-to
+[[abilities]]  
+[[integrations]]  
 
-<!-- synthesized: 2026-07-20T12:58:49Z -->
+<!-- synthesized: 2026-07-21T12:16:37Z -->
 ```

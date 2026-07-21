@@ -1,28 +1,24 @@
-```markdown
----
-title: builders/michaelgold
+```yaml
+title: Builders: Michael Gold
 entity_type: builders
 status: stub
-last_updated: 2026-07-20
----
+last_updated: 2026-07-21
+```
 
-### who-they-are
-Michael Gold is a professional realtor with expertise in real estate, emphasizing the dual role of maintaining property while engaging in community building. He brings a unique perspective to his profession, blending traditional real estate practices with innovative community engagement.
+## who-they-are
+Michael Gold is a community builder who is active in the Homie project and holds development kit (devkit) capabilities that facilitate shipping new abilities and integrations.
 
-### what-they-built
-Michael Gold has developed various community-focused initiatives, including a media platform involving a case for the MediaTek Genio 520/720 cyberdeck, targeting gaming, home automation, and educational uses. This project is positioned as an innovative blend of technology and community involvement.
+## what-they-built
+Details on specific abilities or integrations that Michael Gold has shipped are currently not available.
 
-### grant-status
-none
+## grant-status
+Not specified.
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X (Twitter): [@fightclub2030](https://twitter.com/fightclub2030)
+## how-to-reach
+Information regarding how to reach Michael Gold is currently not available.
 
 ## connects-to
-[[gametech]]
-[[homeautomation]]
-[[education]]
-<!-- synthesized: 2026-07-20T12:58:49Z -->
-```
+[[abilities]]  
+[[builders]]  
+
+<!-- synthesized: 2026-07-21T12:16:37Z -->

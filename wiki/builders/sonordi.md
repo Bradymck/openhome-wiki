@@ -1,27 +1,27 @@
-```yaml
-title: builders/sonordi
-entity_type: community builder
+```markdown
+---
+title: Builders/Sonordi
+entity_type: builders
 status: stub
-last_updated: 2026-07-20
-```
+last_updated: 2026-07-21
+---
 
-## who-they-are
-Sonordi is an active community builder known for their involvement in integrating technology with various applications. They have a background in real estate, leveraging their skills to enhance user experiences in different environments.
+### who-they-are
+Sonordi is part of an active community of builders who hold devkits and are focused on shipping various capabilities within the Homie ecosystem.
 
-## what-they-built
-Currently, there is no specific information available about the abilities or integrations that Sonordi has shipped.
+### what-they-built
+Details on specific abilities or integrations that Sonordi has shipped are currently not available.
 
-## grant-status
-none
+### grant-status
+The grant status for Sonordi is currently unknown.
 
-## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- Twitter: [@fightclub2030](https://twitter.com/fightclub2030)
+### how-to-reach
+- Discord handle: ??? 
+- GitHub: ???
+- X: ???
 
 ## connects-to
-[[builders]]  
-[[community builders]]  
-[[developer kit]]  
+[[wikilinks]]
 
-<!-- synthesized: 2026-07-20T12:58:49Z -->
+<!-- synthesized: 2026-07-21T12:16:37Z -->
+```

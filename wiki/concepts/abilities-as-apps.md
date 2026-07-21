@@ -2,20 +2,20 @@
 ---
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: stub
-last_updated: 2026-07-20
+status: live
+last_updated: 2026-07-21
 ---
 
-### definition
-Abilities-as-apps refer to the concept of encapsulating specific functionalities or skills within applications that users can easily access and utilize. This approach allows users to employ various abilities or services as needed, similar to how apps function on mobile devices.
+## definition
+The "abilities-as-apps" concept refers to the encapsulation of specific functionalities and features as modular applications within a platform. This approach allows users to access various capabilities independently, similar to how applications function on mobile and desktop devices.
 
-### why-it-matters
-This concept is crucial for OpenHome as it promotes modularity and user customization, enabling an enhanced user experience. By offering abilities through applications, OpenHome empowers users to tailor their interactions with the platform to their unique preferences and needs.
+## why-it-matters
+This concept is significant for OpenHome as it enhances user experience by enabling customizable and scalable interactions. Users can choose and use only the abilities they need, making the platform more versatile and user-friendly. Moreover, it fosters innovation, as developers can create and monetize their applications more efficiently.
 
-### how-it-manifests
-While specific implementations are not detailed in the available data, the idea of abilities-as-apps suggests that OpenHome would enable users to download or activate apps that provide distinct capabilities, likely enhancing task management, communication, and various services within the ecosystem.
+## how-it-manifests
+In the OpenHome platform, abilities are presented as distinct applications that users can integrate with their personal environments. This setup supports a wide range of functionalities, from simple tasks to more complex operations, allowing for a tailored experience that can adapt to individual user preferences.
 
-### connects-to
+## connects-to
 [[concepts/voice-first]]  
 [[concepts/local-first]]  
 [[concepts/web3-native]]  
@@ -23,5 +23,5 @@ While specific implementations are not detailed in the available data, the idea 
 [[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]  
 
-<!-- synthesized: 2026-07-20T12:58:49Z -->
+<!-- synthesized: 2026-07-21T12:16:37Z -->
 ```
