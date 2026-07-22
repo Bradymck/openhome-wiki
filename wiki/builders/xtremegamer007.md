@@ -1,28 +1,23 @@
 ```yaml
-title: "xtremegamer007"
-entity_type: builders
+title: builders/xtremegamer007
+entity_type: builder
 status: stub
-last_updated: 2026-07-21
+last_updated: 2026-07-22
 ```
 
 ## who-they-are
-xtremegamer007 is an active community builder in the Homie and User roles, known for their involvement with devkit initiatives and contributions to the building ecosystem.
+xtremegamer007 is a member of the active builder community, known primarily for engaging in projects within the development kit ecosystem.
 
 ## what-they-built
-Currently, no specific shipped abilities or integrations by xtremegamer007 have been documented.
+Currently, there is no detailed information available regarding specific abilities or integrations that xtremegamer007 has shipped.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+No contact information such as Discord handle, GitHub, or X is available at this time.
 
 ## connects-to
-[[builders]]  
-[[devkit]]  
-[[Homie]]  
-[[User roles]]  
+[[abilities]]
 
-<!-- synthesized: 2026-07-21T12:16:37Z -->
+<!-- synthesized: 2026-07-22T12:19:07Z -->

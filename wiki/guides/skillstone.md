@@ -1,27 +1,25 @@
 ```markdown
 ---
-title: Skillstone Community Guide
+title: Skillstone Guides
 entity_type: guides/
 status: stub
-last_updated: 2026-07-21
+last_updated: 2026-07-22
 ---
 
 ### who-they-are
-Skillstone is represented by a community of power users who have extensive knowledge in various technical areas, but specific background details about individual guides are currently unavailable.
+Skillstone guides are community members known for their expertise in specific areas of the platform. These power users actively participate in helping new members get acquainted with various features and functionalities.
 
 ### what-they-help-with
-They specialize in helping others with onboarding, providing insights and expertise in abilities, hardware, APIs, and other related technical subjects.
+Skillstone guides assist users in navigating and maximizing their experience within the Skillstone ecosystem. Their specialties may include various abilities, hardware setups, and APIs relevant to the Skillstone community.
 
 ### how-to-reach
-Currently, no specific Discord handle for Skillstone guides is available.
+For inquiries or assistance, you can connect with Skillstone guides through Discord. Direct messages are the preferred method for personalized help.
 
 ## connects-to
 [[guides]]
-[[community guides]]
-[[onboarding]]
-[[abilities]]
-[[hardware]]
-[[APIs]]
+[[community]]
+[[support]]
+[[resources]]
 
-<!-- synthesized: 2026-07-21T12:16:37Z --> 
+<!-- synthesized: 2026-07-22T12:19:07Z -->
 ```

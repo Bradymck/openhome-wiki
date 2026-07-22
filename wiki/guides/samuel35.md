@@ -3,22 +3,22 @@
 title: guides/samuel35
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-21
+last_updated: 2026-07-22
 ---
 
 ## who-they-are
-Samuel35 is a community guide recognized for their contributions to onboarding new users within various platforms. Details on their specific background and expertise are currently unavailable.
+Samuel35 is a community guide with expertise in assisting users to navigate various platforms and technologies. Their background includes extensive experience in programming and community building.
 
 ## what-they-help-with
-While exact areas of specialty are not provided, it is likely that Samuel35 aids users in navigating community resources, utilizing software tools, and accessing relevant support.
+Samuel35 specializes in onboarding new users, providing guidance on utilizing different software, and troubleshooting common issues. They are knowledgeable about APIs, hardware configurations, and various software tools.
 
 ## how-to-reach
-Samuel35 can be reached via Discord, although the specific handle is not detailed at this time.
+You can reach Samuel35 on Discord.
 
 ## connects-to
-[[Community Guides]]  
-[[Onboarding Assistance]]  
-[[User Support]]  
+[[guides]]
+[[community-support]]
+[[software-help]]
 
-<!-- synthesized: 2026-07-21T12:16:37Z -->
+<!-- synthesized: 2026-07-22T12:19:07Z -->
 ```

@@ -1,24 +1,26 @@
 ```markdown
 ---
-title: JKoppel
+title: "jkoppel"
 entity_type: builders
 status: stub
-last_updated: 2026-07-21
+last_updated: 2026-07-22
 ---
 
 ### who-they-are
-JKoppel is recognized as an active community builder within the development ecosystem, specifically involved with creating and enhancing tools that leverage DevKit capabilities.
+jkoppel is a community builder involved in developing tools and integrations within the ecosystem.
 
 ### what-they-built
-Currently, there is no detailed information available regarding specific abilities or integrations that JKoppel has shipped.
+Currently, there is no detailed information available about specific shipped abilities or integrations by jkoppel.
 
 ### grant-status
 none
 
 ### how-to-reach
-Contact information for JKoppel is not available at this time.
+No contact information such as Discord handle, GitHub, or X is available.
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-07-21T12:16:37Z -->
+[[builders]]
+[[community builders]]
+
+<!-- synthesized: 2026-07-22T12:19:07Z -->
 ```
