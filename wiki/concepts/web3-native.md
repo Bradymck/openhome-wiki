@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: web3-native
-entity_type: concepts
+title: Web3 Native
+entity_type: concepts/
 status: stub
-last_updated: 2026-07-22
+last_updated: 2026-07-23
 ---
 
-## definition
-Web3-native refers to technologies and applications built on decentralized networks, embracing principles of user ownership, transparency, and self-governance. It encompasses the Web3 ecosystem, which includes blockchain technology, smart contracts, and decentralized applications (dApps).
+### definition
+Web3 Native refers to applications, platforms, and technologies that utilize decentralized protocols and blockchain technology to create a more user-controlled and open internet experience.
 
-## why-it-matters
-In the context of OpenHome, being web3-native is crucial as it empowers users with greater control over their digital identities and assets. It fosters an environment of trust and community engagement, aligning with OpenHome's mission to create a more user-centric digital experience.
+### why-it-matters
+Web3 Native is significant to OpenHome because it encapsulates the vision of empowering users to own their data, identity, and interactions without relying on centralized authorities. This aligns with OpenHome's goal of fostering user agency and privacy in digital environments.
 
-## how-it-manifests
-The concept of web3-native manifests in OpenHome through decentralized identity solutions, allowing users to manage their profiles and personal data securely. It also appears in the integration of cryptocurrencies and tokens within the platform, enhancing the transactional capabilities without reliance on traditional banking systems. Furthermore, smart contracts are utilized to automate agreements and interactions within the OpenHome ecosystem.
+### how-it-manifests
+While specific implementations within OpenHome are not yet detailed, the principles of Web3 Native would likely manifest in features such as decentralized identity verification, user-controlled data storage, and smart contracts that facilitate peer-to-peer interactions without intermediaries.
 
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-07-22T12:19:07Z -->
+<!-- synthesized: 2026-07-23T12:16:56Z -->
 ```

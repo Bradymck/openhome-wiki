@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: concepts/local-first
-entity_type: concepts
-status: stub
-last_updated: 2026-07-22
+title: Local First
+entity_type: concepts/
+status: beta
+last_updated: 2026-07-23
 ---
 
-### definition
-Local-first refers to a design approach where applications prioritize local data storage and processing on user devices rather than relying on cloud infrastructure. This concept emphasizes the importance of maintaining data privacy and performance by minimizing dependency on remote servers.
+## definition
+Local first refers to an approach in software design and application development where the primary focus is on functionality and data accessibility on the user's device, prioritizing local operations over cloud dependency. This means that applications can work independently of internet connectivity, ensuring data availability and responsiveness.
 
-### why-it-matters
-Local-first is significant to OpenHome as it enhances user control over data, promotes data sovereignty, and improves application responsiveness. By leveraging local resources, users can experience faster performance and a more reliable interaction with apps, even without continuous internet access.
+## why-it-matters
+In the context of OpenHome, the local first approach enhances user privacy, security, and control over personal data. It ensures that users can interact with their applications without relying on constant connectivity, reducing latency and providing a more seamless experience. This is particularly important for users in areas with limited internet access or for those concerned with data sovereignty.
 
-### how-it-manifests
-While specific applications or features utilizing the local-first approach within the OpenHome platform are not detailed, the general ethos can be expected to influence application design, encouraging offline capabilities and efficient data handling on user devices.
+## how-it-manifests
+Local first principles appear in OpenHome through features that allow users to store and manage their information locally. This includes offline data synchronization, local computation, and minimal reliance on external servers for functionality. Applications built with this approach can function effectively autonomously, syncing with the cloud only when necessary and safe.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]  
 [[concepts/voice-first]]  
 [[concepts/web3-native]]  
@@ -23,5 +23,5 @@ While specific applications or features utilizing the local-first approach withi
 [[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]  
 
-<!-- synthesized: 2026-07-22T12:19:07Z -->
+<!-- synthesized: 2026-07-23T12:16:56Z -->
 ```

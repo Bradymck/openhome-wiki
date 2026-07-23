@@ -1,23 +1,28 @@
-```yaml
-title: builders/xtremegamer007
-entity_type: builder
+```markdown
+---
+title: xtremegamer007
+entity_type: builders/
 status: stub
-last_updated: 2026-07-22
-```
+last_updated: 2026-07-23
+---
 
-## who-they-are
-xtremegamer007 is a member of the active builder community, known primarily for engaging in projects within the development kit ecosystem.
+### who-they-are
+xtremegamer007 is a developer and member of the active community focused on building innovative abilities within the ecosystem. Their contributions are aimed at enhancing user engagement and functionality.
 
-## what-they-built
-Currently, there is no detailed information available regarding specific abilities or integrations that xtremegamer007 has shipped.
+### what-they-built
+Specific details regarding the exact abilities or integrations that xtremegamer007 has shipped are currently not available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-No contact information such as Discord handle, GitHub, or X is available at this time.
+### how-to-reach
+- Discord: [xtremegamer007](#)
+- GitHub: [xtremegamer007](#)
+- X: [xtremegamer007](#)
 
 ## connects-to
 [[abilities]]
-
-<!-- synthesized: 2026-07-22T12:19:07Z -->
+[[community]]
+[[developers]]
+<!-- synthesized: 2026-07-23T12:16:56Z -->
+```

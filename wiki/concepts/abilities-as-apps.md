@@ -1,27 +1,22 @@
 ```markdown
 ---
-title: Abilities as Apps
+title: concepts/abilities-as-apps
 entity_type: concepts
-status: live
-last_updated: 2026-07-22
+status: stub
+last_updated: 2026-07-23
 ---
 
-## definition
-Abilities as Apps refers to the concept of packaging various functionalities or skills into discrete applications that can be invoked and used independently by users within a platform. This paradigm allows users to interact with specific capabilities tailored to their needs without navigating through a monolithic system.
+### definition
+Abilities-as-Apps is a concept where various functional capabilities are packaged as distinct applications, allowing users to access and utilize specific features independently within a platform.
 
-## why-it-matters
-This concept is crucial for OpenHome as it enhances user experience by promoting modularity and flexibility. Users can easily access and utilize various abilities without needing to understand or manage the underlying complexity of the system. It empowers users to customize their environment according to their preferences and requirements, leading to increased engagement and satisfaction.
+### why-it-matters
+This concept is significant to OpenHome as it enables modular functionality, allowing users to customize their experience based on individual needs and preferences. By treating abilities as standalone applications, it enhances flexibility and promotes user engagement.
 
-## how-it-manifests
-In the OpenHome platform, Abilities as Apps appear as individual modules or features that users can interact with. Each app represents a specific ability, such as controlling smart home devices, managing personal schedules, or accessing information services. This modular approach enables quick updates, seamless integration of new features, and personalized user experiences.
+### how-it-manifests
+In the OpenHome platform, abilities-as-apps can be seen in the integration of different tools and features that users can select and manage according to their requirements, thereby fostering a personalized digital environment.
 
-## connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+### connects-to
+[[concepts/voice-first]], [[concepts/local-first]], [[concepts/web3-native]], [[concepts/dead-mans-switch]], [[concepts/spatial-intelligence]], [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-22T12:19:07Z -->
+<!-- synthesized: 2026-07-23T12:16:56Z -->
 ```

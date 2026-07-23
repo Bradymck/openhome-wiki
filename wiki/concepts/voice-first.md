@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Voice-First
+title: Voice First
 entity_type: concepts
-status: live
-last_updated: 2026-07-22
+status: stub
+last_updated: 2026-07-23
 ---
 
-### definition
-Voice-first refers to the design and implementation of technology that prioritizes voice interaction as the primary means of communication between users and devices. This approach leverages natural language processing, speech recognition, and voice synthesis to facilitate seamless verbal exchanges.
+## definition
+Voice First refers to a design and interaction paradigm that prioritizes voice-based interfaces as the primary means of engagement for users, enhancing accessibility and ease of use.
 
-### why-it-matters
-Voice-first technology is significant to OpenHome as it enhances user accessibility and engagement. By adopting a voice-first approach, OpenHome can create a more intuitive interface that caters to users' diverse needs, particularly benefiting those who may face challenges with traditional input methods like keyboards or touchscreens. This aligns with OpenHome’s mission to promote inclusive and user-friendly interactions.
+## why-it-matters
+Voice First is significant for OpenHome as it aligns with the platform's goal of creating more intuitive and user-friendly experiences. By integrating voice interactions, OpenHome can facilitate seamless communication and control within its ecosystem, catering to a broader audience.
 
-### how-it-manifests
-In the OpenHome platform, the voice-first concept manifests through various applications and features. Users can interact with their home environment using voice commands to control smart devices, access content, or manage tasks. Voice recognition capabilities allow the platform to understand and respond to user queries in real time, streamlining the user experience.
+## how-it-manifests
+This concept appears on OpenHome primarily through features that allow users to interact with the platform via voice commands. It supports various functions, such as managing smart home devices, retrieving information, or navigating the OpenHome interface without needing traditional input devices.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In the OpenHome platform, the voice-first concept manifests through various appl
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-22T12:19:07Z -->
+<!-- synthesized: 2026-07-23T12:16:56Z -->
 ```
