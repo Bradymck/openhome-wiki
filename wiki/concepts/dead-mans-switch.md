@@ -3,25 +3,23 @@
 title: Dead Man's Switch
 entity_type: concepts
 status: stub
-last_updated: 2026-07-23
+last_updated: 2026-07-24
 ---
 
-## definition
-A dead man's switch is a safety mechanism that automatically triggers an action if the operator becomes incapacitated or fails to respond. This can ensure continuity and security by activating a fallback protocol or alerting others when the primary user is unresponsive.
+### definition
+A dead man's switch is a safety mechanism that automatically activates an action if the user becomes incapacitated or is unable to perform a required task. It serves as a safeguard to prevent unintended consequences, ensuring that important functions continue or trigger alternative actions in the absence of the user.
 
-## why-it-matters
-In the context of OpenHome, a dead man's switch serves as a critical component for enhancing user safety and system reliability. It ensures that essential actions are taken in the event of user inaction, thereby protecting both users and the integrity of the platform. This concept is especially relevant in scenarios involving automated processes and remote management, where user oversight may be minimal.
+### why-it-matters
+In the context of OpenHome, a dead man's switch is crucial as it enhances user security and peace of mind. It ensures that essential tasks, like home automation or communication protocols, are maintained without user intervention, reducing the risk of failures and improving overall reliability of smart home operations.
 
-## how-it-manifests
-The dead man's switch concept may manifest in various features within the OpenHome platform, such as automated alerts or notifications that activate if a specified user activity is not detected over a certain period. This can include automatic locking of digital assets, alerts to designated contacts, or activation of backup systems to maintain functionality and security.
+### how-it-manifests
+This concept appears within the OpenHome platform through automated alerts and actions that can be set up by users. For instance, if a user fails to interact with their home system within a designated timeframe, the dead man's switch could trigger notifications to designated contacts or take predefined actions such as locking doors or turning off appliances.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
 [[concepts/local-first]]
-[[concepts/web3-native]]
+[[concepts/voice-first]]
 [[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-23T12:16:56Z -->
+<!-- synthesized: 2026-07-24T12:09:48Z -->
 ```

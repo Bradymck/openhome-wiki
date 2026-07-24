@@ -3,24 +3,25 @@
 title: roadmap/shipped
 entity_type: roadmap
 status: stub
-last_updated: 2026-07-23
+last_updated: 2026-07-24
 ---
 
-### what-it-is
-Currently, there is no specific information regarding features or milestones that have shipped.
+## what-it-is
+This section is currently under development with no specific features or milestones documented as shipped.
 
-### status
-stub
+## status
+Stub
 
-### why-it-matters
-Tracking what features or milestones have shipped is crucial for understanding the development progress and impact of the project.
+## why-it-matters
+The roadmap provides insight into the progression of features or milestones that are crucial for users and stakeholders to understand the direction and planning of the project.
 
-### eta
-Rough timeline is currently unknown.
+## eta
+No estimated timelines for shipped features are available at this time.
 
 ## connects-to
-[[roadmap/planned]]
-[[roadmap/in-progress]]
+[[roadmap]]
+[[features]]
+[[milestones]]
 
-<!-- synthesized: 2026-07-23T12:16:56Z -->
+<!-- synthesized: 2026-07-24T12:09:48Z -->
 ```
