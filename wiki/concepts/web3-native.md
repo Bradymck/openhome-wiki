@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: web3-native
+title: Web3 Native
 entity_type: concepts
 status: stub
-last_updated: 2026-07-24
+last_updated: 2026-07-25
 ---
 
 ### definition
-Web3-native refers to applications and platforms that are built on the principles and technologies of Web3, which emphasizes decentralization, blockchain technology, and user ownership of data.
+Web3 Native refers to a foundational concept in the decentralized web movement, emphasizing the integration of blockchain technology and decentralized systems into applications and platforms. It signifies a shift from traditional web paradigms to a more user-centric, radically open internet where users have control over their data and online interactions.
 
 ### why-it-matters
-Web3-native concepts are crucial to OpenHome as they promote user empowerment and data autonomy. By leveraging blockchain technologies, OpenHome can ensure that users have control over their interactions and assets on the platform, fostering trust and transparency.
+In the context of OpenHome, being Web3 Native means that the platform embraces decentralized principles, allowing for greater user autonomy and security. This approach aligns with the vision of providing a more equitable digital environment where users can manage their own identities and data without reliance on centralized authorities.
 
 ### how-it-manifests
-While specific instances of Web3-native applications within OpenHome are not detailed, the platform is designed to incorporate decentralized protocols that allow users to interact within a secure and open environment. This can manifest through user-controlled identities, decentralized storage, and smart contracts that facilitate trustless transactions.
+The Web3 Native concept manifests in OpenHome through mechanisms such as decentralized identity systems, blockchain-based data storage, and peer-to-peer interactions. These features enable users to engage with the platform in a way that mitigates privacy concerns and enhances the overall user experience by ensuring that data control remains in the hands of the users.
 
 ### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-07-24T12:09:48Z -->
+<!-- synthesized: 2026-07-25T11:54:52Z -->
 ```

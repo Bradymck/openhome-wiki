@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: Brady McKenzie
+title: Brady McK
 entity_type: team
 status: stub
-last_updated: 2026-07-24
+last_updated: 2026-07-25
 ---
 
 ### who-they-are
-Brady McKenzie serves as a key member of the OpenHome team. His role encompasses responsibilities that support the functioning and growth of the platform.
+Brady McK is a member of the OpenHome team. Specific details about their role and background have not been provided.
 
 ### what-they-own
-Brady leads several areas of the platform, though specific details on his ownership and projects are currently not available.
+Information regarding the areas of the platform that Brady McK leads is currently unavailable.
 
 ### how-to-reach
-Contact details for Brady McKenzie are not specified at this time.
+Contact details for Brady McK, including Discord handle or social media accounts, have not been shared.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-07-24T12:09:48Z -->
+<!-- synthesized: 2026-07-25T11:54:52Z -->
 ```

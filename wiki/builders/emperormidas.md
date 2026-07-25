@@ -1,25 +1,24 @@
-```yaml
+```markdown
+---
 title: Emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-07-24
-```
+last_updated: 2026-07-25
+---
 
-### who-they-are
-Emperormidas is an active community builder within the devkit holder ecosystem. They are recognized for their contributions and involvement in shipping abilities.
+## who-they-are
+Information about Emperormidas's background and what they are building is currently unavailable.
 
-### what-they-built
-Specific details about the abilities or integrations that Emperormidas has built are currently unavailable.
+## what-they-built
+Details about the abilities or integrations shipped by Emperormidas are not provided.
 
-### grant-status
-None
+## grant-status
+The grant status for Emperormidas is not specified.
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+Contact information for Emperormidas is not available.
 
 ## connects-to
-[[builders]]
-
-<!-- synthesized: 2026-07-24T12:09:48Z -->
+[[wikilinks]]
+<!-- synthesized: 2026-07-25T11:54:52Z -->
+```
