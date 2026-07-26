@@ -1,25 +1,24 @@
 ```markdown
 ---
-title: Franci Guide
-entity_type: guides/
+title: guides/franci
+entity_type: Community Guide
 status: stub
-last_updated: 2026-07-25
+last_updated: 2026-07-26
 ---
 
 ## who-they-are
-Franci is recognized within the community as a knowledgeable power user with a focus on helping others onboard to various systems and platforms.
+Franci is a community guide known for their experience and expertise in assisting new users in navigating community resources.
 
 ## what-they-help-with
-Franci specializes in providing assistance with onboarding processes, including navigating hardware setup, utilizing APIs, and enhancing user experiences.
+Franci specializes in helping users become familiar with the community’s tools and resources.
 
 ## how-to-reach
-Discord handle: Not specified
+You can reach Franci on Discord.
 
 ## connects-to
-[[Community Guides]]
-[[Onboarding Processes]]
-[[APIs]]
-[[Hardware Setup]]
+[[Community Guides]]  
+[[User Onboarding]]  
+[[Discord Channel Resources]]  
 
-<!-- synthesized: 2026-07-25T11:54:52Z -->
+<!-- synthesized: 2026-07-26T11:53:01Z -->
 ```

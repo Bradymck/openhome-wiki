@@ -1,26 +1,26 @@
 ```markdown
 ---
 title: builders/slowjamsteve
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-07-25
+last_updated: 2026-07-26
 ---
 
-### who-they-are
-SlowjamSteve is an active community builder engaged in developing innovative solutions within the blockchain ecosystem. They are dedicated to creating helpful integrations and capabilities that enhance user experience.
+## who-they-are
+Slowjamsteve is a community builder who is actively engaged in developing and enhancing capabilities within the ecosystem. Further details about their background and specific projects they are involved in are not available at this time.
 
-### what-they-built
-Currently, there is no specific information available about the abilities or integrations that SlowjamSteve has shipped.
+## what-they-built
+There is currently no specific information regarding the abilities or integrations that Slowjamsteve has shipped.
 
-### grant-status
-none
+## grant-status
+The grant status for Slowjamsteve is unknown.
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+## how-to-reach
+Information on how to reach Slowjamsteve, such as Discord handles or links to GitHub and X, is not currently available.
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-07-25T11:54:52Z -->
+[[builders]]
+[[community]]
+[[abilities]]
+<!-- synthesized: 2026-07-26T11:53:01Z -->
 ```

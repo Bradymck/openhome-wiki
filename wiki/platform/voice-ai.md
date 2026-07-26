@@ -1,26 +1,28 @@
-```yaml
+```markdown
+---
 title: Voice AI
 entity_type: platform
 status: stub
-last_updated: 2026-07-25
-```
+last_updated: 2026-07-26
+---
 
-## what-it-is
-Voice AI is an artificial intelligence system designed to process and respond to spoken language in a natural and interactive manner. It enables users to engage with various applications and devices through voice commands.
+### what-it-is
+Voice AI refers to the technology and systems that enable devices to understand and respond to spoken commands, facilitating hands-free interaction and communication with users.
 
-## how-it-works
-Voice AI utilizes advanced speech recognition and natural language processing technologies to understand user inputs and generate appropriate responses. It often works in conjunction with other platform components to provide seamless interaction across different devices, such as smart speakers, mobile applications, and more.
+### how-it-works
+Voice AI typically operates through a combination of natural language processing (NLP), voice recognition, and machine learning algorithms. These systems convert spoken language into text, analyze the text to comprehend user intent, and generate appropriate responses or actions. Voice AI can be integrated into various platforms and devices, such as smart speakers and mobile applications, allowing users to perform tasks through voice commands.
 
-## current-status
+### current-status
 stub
 
-## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+### connects-to
+- [[platform/openhome]]
+- [[platform/speakers]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/local-link]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-07-25T11:54:52Z -->
+<!-- synthesized: 2026-07-26T11:53:01Z -->
+```

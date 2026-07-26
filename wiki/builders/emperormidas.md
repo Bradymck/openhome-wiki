@@ -3,22 +3,26 @@
 title: Emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-07-25
+last_updated: 2026-07-26
 ---
 
-## who-they-are
-Information about Emperormidas's background and what they are building is currently unavailable.
+### who-they-are
+Emperormidas is an active community builder within the Homie ecosystem. They are involved in initiatives that focus on enhancing and fostering community engagement through various digital tools and platforms.
 
-## what-they-built
-Details about the abilities or integrations shipped by Emperormidas are not provided.
+### what-they-built
+Details regarding specific abilities or integrations that Emperormidas has built are currently unavailable.
 
-## grant-status
-The grant status for Emperormidas is not specified.
+### grant-status
+none
 
-## how-to-reach
-Contact information for Emperormidas is not available.
+### how-to-reach
+- Discord: Unknown
+- GitHub: Unknown
+- X: Unknown
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-07-25T11:54:52Z -->
+[[builders]]
+[[community engagement]]
+[[Homie]]
+<!-- synthesized: 2026-07-26T11:53:01Z -->
 ```

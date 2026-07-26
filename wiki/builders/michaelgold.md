@@ -1,26 +1,24 @@
 ```markdown
 ---
-title: Builders/MichaelGold
-entity_type: builder
+title: Michael Gold
+entity_type: builders/
 status: stub
-last_updated: 2026-07-25
+last_updated: 2026-07-26
 ---
 
-### who-they-are
-MichaelGold is a community builder involved in the development of various applications and enhancements in the tech space. Their focus includes utilizing Homie and the associated user roles to create innovative solutions.
+## who-they-are
+Michael Gold is a community builder actively engaged with the development and integration of various projects within the community. Further details regarding his specific background or the focus of his building endeavors are not provided in the available data.
 
-### what-they-built
-As of now, there are no detailed records of specific shipped abilities or integrations attributed to MichaelGold. Further information may emerge as their projects progress.
+## what-they-built
+Currently, there is no specific information available regarding the abilities or integrations that Michael Gold has shipped.
 
-### grant-status
-none
+## grant-status
+The grant status for Michael Gold is not specified in the available data.
 
-### how-to-reach
-No contact information is available at this time.
+## how-to-reach
+There is no contact information available for Michael Gold, such as a Discord handle, GitHub, or X account.
 
 ## connects-to
-[[builders]]
-[[Homie]]
-[[User roles]]
-<!-- synthesized: 2026-07-25T11:54:52Z -->
+[[wikilinks]]
+<!-- synthesized: 2026-07-26T11:53:01Z -->
 ```
