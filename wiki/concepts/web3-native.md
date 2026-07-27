@@ -2,26 +2,26 @@
 ---
 title: Web3 Native
 entity_type: concepts
-status: stub
-last_updated: 2026-07-26
+status: live
+last_updated: 2026-07-27
 ---
 
-### definition
-Web3 native refers to applications, platforms, and services that are built on decentralized technologies, particularly those that leverage blockchain and related protocols. These systems aim to empower users with greater control over their data, assets, and interactions without reliance on centralized authorities.
+## definition
+Web3 Native refers to applications, platforms, and technologies that are built on decentralized networks, utilizing blockchain and other peer-to-peer protocols. These systems operate without central authority and prioritize user control, transparency, and interoperability.
 
-### why-it-matters
-In the context of OpenHome, being web3 native is crucial as it aligns with the platform’s goals of decentralization, user empowerment, and enhanced privacy. By incorporating web3 principles, OpenHome seeks to create a more democratic and user-focused environment for digital interactions.
+## why-it-matters
+In the context of OpenHome, being Web3 Native aligns with the platform's mission to empower users with greater autonomy and privacy. This paradigm shift fosters a user-centric approach, where individuals have more control over their data, interactions, and digital identities. It also promotes a more equitable internet by reducing reliance on centralized entities.
 
-### how-it-manifests
-The web3 native framework appears in OpenHome through various features that utilize decentralized identity management, blockchain-enabled transactions, and peer-to-peer interactions. This allows users to engage with the platform while retaining ownership of their digital assets and personal information.
+## how-it-manifests
+Web3 Native concepts manifest within OpenHome through features like decentralized identity management, smart contracts for automating transactions, and community governance models. Users can interact directly with applications using their digital wallets, facilitating seamless and secure transactions without intermediaries. This integration enhances user experiences and fosters trust among participants in the ecosystem.
 
-### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-26T11:53:01Z --> 
+<!-- synthesized: 2026-07-27T13:30:32Z -->
 ```

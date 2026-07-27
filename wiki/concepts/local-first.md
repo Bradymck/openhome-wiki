@@ -2,26 +2,26 @@
 ---
 title: Local First
 entity_type: concepts
-status: live
-last_updated: 2026-07-26
+status: stub
+last_updated: 2026-07-27
 ---
 
-## definition
-Local First is an approach to software design that prioritizes the local storage of data and functionality on a user's device, ensuring that applications can operate effectively without constant reliance on internet connectivity. This results in a more resilient user experience, where applications are responsive and can function offline.
+### definition
+Local First refers to a design philosophy that prioritizes data storage and processing on local devices over reliance on cloud-based systems. This approach enables applications to function without constant internet connectivity, enhancing user experience and data privacy.
 
-## why-it-matters
-The Local First approach is crucial for OpenHome as it enhances user autonomy and data sovereignty. By enabling users to interact with their applications locally, it reduces dependence on centralized servers and infrastructure, promoting a more decentralized and resilient ecosystem. This also aligns with principles of privacy and user control, which are essential in modern digital environments.
+### why-it-matters
+Local First is significant for OpenHome as it fosters a more resilient and user-centric environment. By allowing applications to operate offline, it ensures that users maintain control over their data, thus enhancing privacy and security. This is particularly relevant in scenarios where internet connectivity may be unreliable or unavailable.
 
-## how-it-manifests
-In the OpenHome platform, Local First concepts are manifested through applications that store user data locally, synchronize changes when connectivity is available, and allow continued access to essential functionality without the need for a constant internet connection. This approach can be seen in various user-facing applications within the OpenHome ecosystem.
+### how-it-manifests
+In the OpenHome platform, the principles of Local First are embedded in app development practices that prioritize local data management and processing. This can be seen in features that allow users to store their information on their devices while still synchronizing with the cloud when necessary.
 
-## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+### connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-26T11:53:01Z -->
+<!-- synthesized: 2026-07-27T13:30:32Z -->
 ```

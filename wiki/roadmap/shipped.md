@@ -3,25 +3,25 @@
 title: roadmap/shipped
 entity_type: roadmap
 status: stub
-last_updated: 2026-07-26
+last_updated: 2026-07-27
 ---
 
 ### what-it-is
-This page outlines the features and milestones of the roadmap related to what has been shipped or is in progress.
+This page outlines the status of features and milestones related to the roadmap, specifically focusing on those that have been shipped.
 
 ### status
-Stub
+The current status of this page is categorized as a stub, indicating that further information is required about the shipped features and milestones.
 
 ### why-it-matters
-Understanding the roadmap is essential for stakeholders to keep track of development progress and to align expectations about new features or changes.
+Understanding what features have been shipped is crucial for users and stakeholders to keep track of the development progress and the impact of these updates on their experience and workflow.
 
 ### eta
-No specific timeline is available at this moment.
+Specific estimated timelines for shipped features are currently unknown.
 
 ## connects-to
 [[roadmap/in-progress]]
 [[roadmap/planned]]
 [[roadmap/cancelled]]
 
-<!-- synthesized: 2026-07-26T11:53:01Z -->
+<!-- synthesized: 2026-07-27T13:30:32Z -->
 ```

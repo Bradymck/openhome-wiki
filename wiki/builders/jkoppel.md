@@ -3,27 +3,26 @@
 title: builders/jkoppel
 entity_type: builder
 status: stub
-last_updated: 2026-07-26
+last_updated: 2026-07-27
 ---
 
 ### who-they-are
-jkoppel is an active community builder recognized for their contributions within the developer ecosystem. They are engaged in developing new integrations and features in alignment with the capabilities of the devkit.
+jkoppel is an active member of the community, engaged in developing new abilities and integrations within the ecosystem. 
 
 ### what-they-built
-As of now, specific details about the abilities or integrations shipped by jkoppel are not available. Further contributions might be anticipated as they continue their involvement in the community.
+Currently, there are no specific details available on the abilities or integrations that jkoppel has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified  
-- GitHub: Not specified  
-- X: Not specified  
+Discord handle: Unknown  
+GitHub: Unknown  
+X: Unknown  
 
-### connects-to
-[[builders]]
-[[devkit]]
-{{truncate}}
+## connects-to
+[[abilities]]
+[[integrations]]
 
-<!-- synthesized: 2026-07-26T11:53:01Z -->
+<!-- synthesized: 2026-07-27T13:30:32Z -->
 ```

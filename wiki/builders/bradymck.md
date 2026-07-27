@@ -1,29 +1,27 @@
 ```markdown
 ---
-title: bradymck
+title: Builders: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-07-26
+last_updated: 2026-07-27
 ---
 
 ### who-they-are
-Bradymck is a community builder involved in the development of tools and integrations within the Homey ecosystem. 
+Brady McK is an active member of the builders community, focusing on developing innovative solutions and building integrations within the ecosystem.
 
 ### what-they-built
-Currently, there is no specific information available regarding the abilities or integrations that Bradymck has shipped.
+Details on specific shipped abilities or integrations by bradymck are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[builders]]
-[[integrations]]
-[[community builders]]
+[[abilities]] 
 
-<!-- synthesized: 2026-07-26T11:53:01Z -->
+<!-- synthesized: 2026-07-27T13:30:32Z -->
 ```

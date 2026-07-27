@@ -3,25 +3,24 @@
 title: builders/pauldy
 entity_type: builders
 status: stub
-last_updated: 2026-07-26
+last_updated: 2026-07-27
 ---
 
 ### who-they-are
-Pauldy is an active community builder involved in various projects related to software development and integration. Specific details regarding their background and current projects are limited.
+Pauldy is an active community builder involved in the development of various integrations and capabilities within the Homie and User roles ecosystem.
 
 ### what-they-built
-Information on specific abilities or integrations that Pauldy has shipped is currently unavailable.
+Details on specific abilities or integrations that Pauldy has shipped are not currently available.
 
 ### grant-status
-none
+Stub
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+Direct contact details including Discord handle, GitHub, or X are not provided at this time.
 
 ## connects-to
 [[abilities]]
+[[integrations]]
 
-<!-- synthesized: 2026-07-26T11:53:01Z -->
+<!-- synthesized: 2026-07-27T13:30:32Z -->
 ```
