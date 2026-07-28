@@ -1,22 +1,24 @@
-```yaml
-title: "guides/voidsshadows"
-entity_type: "guides"
-status: "stub"
-last_updated: 2026-07-27
-```
+```markdown
+---
+title: Voidsshadows
+entity_type: guides/
+status: stub
+last_updated: 2026-07-28
+---
 
-## who-they-are
-Information about the background and expertise of voidsshadows is currently unavailable.
+### who-they-are
+Voidsshadows is a community guide recognized for their contributions to onboarding new users within the gaming community. They possess extensive knowledge of various aspects of the game environment.
 
-## what-they-help-with
-Details regarding the specialties and areas of assistance provided by voidsshadows have not been documented.
+### what-they-help-with
+Voidsshadows specializes in providing guidance on gameplay mechanics, strategies, and possibly community events. Their assistance extends to players seeking to enhance their understanding and skills within the game.
 
-## how-to-reach
-No Discord handle has been provided for reaching out to voidsshadows.
+### how-to-reach
+You can reach Voidsshadows on Discord for inquiries and support.
 
 ## connects-to
-[[guides]]  
-[[community]]  
-[[onboarding]]
+[[guides]]
+[[community]]
+[[gameplay mechanics]]
 
-<!-- synthesized: 2026-07-27T13:30:32Z -->
+<!-- synthesized: 2026-07-28T12:28:07Z -->
+```

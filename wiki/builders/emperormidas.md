@@ -1,28 +1,25 @@
 ```markdown
 ---
-title: Emperormidas
+title: builders/emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-07-27
+last_updated: 2026-07-28
 ---
 
 ### who-they-are
-Emperormidas is an active community builder, holding a devkit and engaging in the development of various capabilities within the community.
+Emperor Midas is an active community builder and a devkit holder who is engaged in shipping abilities within the ecosystem. Further background details are currently unprovided.
 
 ### what-they-built
-Currently, there is no specific information available regarding the abilities or integrations that Emperormidas has shipped.
+Specific shipped abilities or integrations by Emperor Midas have not been documented in the provided information.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+No contact details are available for Emperor Midas, including Discord handle, GitHub, or X.
 
 ## connects-to
-[[abilities]]
-[[community builders]]
+[[wikilink-to-related-abilities]]
 
-<!-- synthesized: 2026-07-27T13:30:32Z -->
+<!-- synthesized: 2026-07-28T12:28:07Z -->
 ```
