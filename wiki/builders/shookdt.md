@@ -3,25 +3,27 @@
 title: builders/shookdt
 entity_type: builders
 status: stub
-last_updated: 2026-07-28
+last_updated: 2026-07-29
 ---
 
 ### who-they-are
-Shookdt is a member of the community known for their active participation in building and developing skills related to their platform. Specific details about their background and the projects they are currently involved in have not been publicly documented.
+Shookdt is an active community builder, known for participating in the development of various integrations and shipping abilities within the community.
 
 ### what-they-built
-No specific abilities or integrations that Shookdt has shipped are currently available. Further documentation on their contributions and developments within the community is needed.
+Currently, there are no specific details available regarding the abilities or integrations that Shookdt has shipped.
 
 ### grant-status
-No grant status information is available for Shookdt as of now.
+none
 
 ### how-to-reach
-Information on how to reach Shookdt is not documented.
+Discord handle: Not provided  
+GitHub: Not provided  
+X: Not provided  
 
 ## connects-to
-[[builders]]
-[[abilities]]
-[[integrations]]
+[[builders]]  
+[[community]]  
+[[integrations]]  
 
-<!-- synthesized: 2026-07-28T12:28:07Z -->
+<!-- synthesized: 2026-07-29T12:52:49Z -->
 ```

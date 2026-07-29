@@ -1,25 +1,24 @@
-```yaml
+```markdown
+---
 title: Dead Man's Switch
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-07-28
-```
+last_updated: 2026-07-29
+---
 
 ### definition
-A dead man's switch is a safety mechanism that activates if the operator becomes incapacitated or unable to perform their duties. This concept is utilized to prevent further operations or actions that could lead to dangerous situations.
+A dead man's switch is a safety mechanism that automatically triggers an action when the operator becomes incapacitated or unable to maintain control. In the context of digital systems and applications, it serves as a way to ensure that certain processes continue or trigger alternative actions if the user cannot perform them.
 
 ### why-it-matters
-In the context of OpenHome, dead man's switches are significant for ensuring safety and reliability within the platform. They provide a method for safeguarding operations, particularly in applications that require constant human oversight. This helps in building trust with users as they can rely on the system to handle emergencies appropriately.
+Dead man's switches are critical in scenarios where user presence is essential for system operation. In OpenHome, this concept can enhance user security and control, as it allows the platform to respond appropriately in the event of user disablement or emergency situations. It can help in safeguarding users' data and ensuring continuity in their digital environments.
 
 ### how-it-manifests
-The dead man's switch concept might manifest within OpenHome in various applications where user activity is required for continuous operation. If a user becomes inactive or unresponsive, the system can automatically shut down operations or switch to a safe state to prevent unintended consequences.
+In the OpenHome platform, the dead man's switch might appear in various user interfaces, such as automated home systems that monitor user activity. If the system detects inactivity over a specified period, it could initiate safety protocols such as notifying emergency contacts, locking access, or shutting down certain functions. 
 
 ### connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-28T12:28:07Z -->
+<!-- synthesized: 2026-07-29T12:52:49Z -->
+```

@@ -1,25 +1,25 @@
 ```yaml
-title: Local-First
-entity_type: concepts/local-first
+title: Local First
+entity_type: concepts
 status: stub
-last_updated: 2026-07-28
+last_updated: 2026-07-29
 ```
 
 ## definition
-Local-First is a conceptual approach that prioritizes data processing and storage on local devices rather than relying on centralized servers. This approach emphasizes the importance of users having immediate access to their data and applications, ensuring that functionalities are available even in low connectivity scenarios.
+Local first refers to the paradigm in which applications prioritize local data and processing, ensuring that users can interact with and control their data primarily on their own devices, with minimal reliance on remote servers.
 
 ## why-it-matters
-Local-First is significant to OpenHome as it enhances user autonomy and privacy. By minimizing reliance on centralized infrastructures, users can maintain control over their data, which is critical in today's digital landscape where data privacy is paramount. This approach also improves performance and usability, as actions can be performed without waiting for server interactions.
+This concept is relevant to OpenHome as it enhances user autonomy and data sovereignty. By enabling local-first architectures, OpenHome promotes privacy and security for users, catering to the increasing demand for decentralized control over personal information.
 
 ## how-it-manifests
-In the OpenHome platform, Local-First principles are embodied through features that allow users to interact with their applications and data seamlessly, regardless of their internet connectivity. This includes offline capabilities for apps and the ability to sync data when connectivity is restored, providing a robust and uninterrupted user experience.
+Local-first principles can be observed in various tools and functionalities within OpenHome. Examples may include local data storage, offline capabilities, and seamless synchronization between devices, ensuring that users retain access to their data even in the absence of an internet connection.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-07-28T12:28:07Z -->
+<!-- synthesized: 2026-07-29T12:52:49Z -->
