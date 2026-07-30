@@ -1,18 +1,18 @@
 ```yaml
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: stub
-last_updated: 2026-07-29
+status: live
+last_updated: 2026-07-30
 ```
 
 ## definition
-Abilities-as-apps refers to a conceptual framework in which individual capabilities or functionalities are organized as discrete applications within a system, allowing users to employ them independently or in conjunction with other apps.
+Abilities-as-apps refer to the concept of modular functionalities or capabilities within a platform that can be accessed and utilized as separate applications. Each ability serves a specific purpose and can be integrated or triggered independently.
 
 ## why-it-matters
-This concept is crucial for OpenHome as it promotes modularity and flexibility, enabling users to customize their interactions and experiences. By treating abilities as standalone applications, it enhances user empowerment, making it easier for them to adapt services to their personal needs.
+In the context of OpenHome, abilities-as-apps facilitate a more flexible and customizable user experience. Users can select the functionalities that best suit their needs, allowing for a tailored interaction with the platform. This modularity enhances user engagement and adaptability.
 
 ## how-it-manifests
-In the OpenHome platform, this concept appears through various applications that can be integrated or used separately. Each application may provide different functionalities, allowing for a tailored user experience that can evolve over time based on user preferences and technological advancements.
+Abilities-as-apps are integrated throughout the OpenHome platform, allowing users to activate specific functionalities as needed. This might include features for home automation, security, or personal assistance that can be individually managed and customized without disrupting the entire system.
 
 ## connects-to
 [[concepts/voice-first]]  
@@ -22,4 +22,5 @@ In the OpenHome platform, this concept appears through various applications that
 [[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]  
 
-<!-- synthesized: 2026-07-29T12:52:49Z -->
+<!-- synthesized: 2026-07-30T12:20:22Z -->
+```

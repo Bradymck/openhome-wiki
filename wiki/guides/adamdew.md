@@ -1,21 +1,23 @@
-```yaml
+```markdown
+---
 title: guides/adamdew
 entity_type: Community Guide
 status: stub
-last_updated: 2026-07-29
-```
+last_updated: 2026-07-30
+---
 
 ## who-they-are
-Information about Adam Dew's background and expertise is currently unavailable.
+Information regarding the background and expertise of Adam Dew is currently unavailable.
 
 ## what-they-help-with
-Details regarding Adam Dew's specialties and the areas they assist with have not been provided.
+Adam Dew's specialties, abilities, hardware, or APIs are not explicitly documented at this time.
 
 ## how-to-reach
-Adam Dew’s Discord handle is not listed.
+Connect with Adam Dew on Discord; specific handle information is not available.
 
 ## connects-to
 [[guides]]
-[[community-guides]]
+[[Community Guides]]
 
-<!-- synthesized: 2026-07-29T12:52:49Z -->
+<!-- synthesized: 2026-07-30T12:20:22Z -->
+```

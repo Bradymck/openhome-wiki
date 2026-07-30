@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts
-status: stub
-last_updated: 2026-07-29
+entity_type: concepts/
+status: beta
+last_updated: 2026-07-30
 ---
 
 ## definition
-A grant program is a structured initiative that provides financial resources to individuals or organizations for specific projects, typically with a focus on innovation, research, or community development.
+A grant program is a structured initiative that provides financial resources or support to individuals, organizations, or projects that align with specific goals or objectives, often aiming to encourage research, development, or community projects.
 
 ## why-it-matters
-In the context of OpenHome, a grant program fosters innovation and supports the development of new ideas and projects that align with the platform's mission and values. It encourages participation and collaboration among community members, potentially leading to significant advancements in technology and community-driven projects.
+Grant programs are crucial for fostering innovation and supporting initiatives that align with the vision and goals of OpenHome. They enable the community to develop new features, enhance existing ones, and contribute to the overall ecosystem by providing necessary financial backing.
 
 ## how-it-manifests
-While specific details on the implementation of the grant program within OpenHome are not provided, such programs generally manifest through application processes where individuals or groups can submit proposals for funding, followed by evaluation and selection based on predetermined criteria.
+In the OpenHome platform, grant programs appear as initiatives that invite proposals from developers, researchers, and community members. These programs often include specific eligibility criteria, application processes, and support for selected projects that show potential for significant impact.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific details on the implementation of the grant program within OpenHom
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-07-29T12:52:49Z -->
+<!-- synthesized: 2026-07-30T12:20:22Z -->
 ```

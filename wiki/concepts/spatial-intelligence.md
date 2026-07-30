@@ -3,25 +3,25 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-07-29
+last_updated: 2026-07-30
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in a spatial context. It encompasses skills such as spatial reasoning, the mental rotation of objects, and understanding spatial relationships in the environment.
+Spatial intelligence refers to the ability to perceive and manipulate spatial relationships and understand the physical environment. It involves skills such as mental rotation, visualization of objects in different contexts, and the ability to navigate through physical spaces effectively.
 
 ## why-it-matters
-Spatial intelligence is crucial for OpenHome as it enhances user interaction with the platform. It allows users to navigate and interact with their digital environments intuitively, facilitating a more engaging and effective user experience. By leveraging spatial intelligence, OpenHome can create features that are more aligned with how people naturally perceive and interact with space.
+Spatial intelligence matters to OpenHome as it enhances user interaction by enabling more intuitive navigation and interaction within multi-dimensional spaces. This capability is essential for creating a seamless experience in virtual environments where users need to understand and interact with spatial arrangements.
 
 ## how-it-manifests
-While specific implementations of spatial intelligence within the OpenHome platform are not detailed, its principles can be expected to appear in features such as augmented reality (AR) interfaces, spatial mapping for device placement, and enhanced navigation tools that assist users in understanding their virtual spaces more effectively.
+While specific implementations of spatial intelligence within OpenHome are not detailed, it is likely to appear in features that involve 3D navigation, augmented reality, or any components that require visualization of spatial relations. These functionalities could improve user engagement and facilitate a more immersive experience.
 
 ## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/grant-program]]  
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-29T12:52:49Z -->
+<!-- synthesized: 2026-07-30T12:20:22Z -->
 ```
