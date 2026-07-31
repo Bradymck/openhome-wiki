@@ -1,25 +1,27 @@
-```yaml
-title: builders/joyboyo42
-entity_type: builders
+```markdown
+---
+title: joyboyo42
+entity_type: builders/
 status: stub
-last_updated: 2026-07-30
-```
+last_updated: 2026-07-31
+---
 
-## who-they-are
-Joyboyo42 is recognized as an active community builder and a devkit holder. Their contributions focus on shipping abilities within their community.
+### who-they-are
+joyboyo42 is an active member of the development community, engaged in building various tools and integrations aimed at enhancing user experiences within the platform. Details on their background and specific projects are currently limited.
 
-## what-they-built
-Specific abilities or integrations that Joyboyo42 has shipped are not documented in the available data.
+### what-they-built
+Information about specific abilities or integrations shipped by joyboyo42 is not available at this time.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+### how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X (Twitter): Not provided
 
-## connects-to
+### connects-to
 [[abilities]]
 
-<!-- synthesized: 2026-07-30T12:20:22Z -->
+<!-- synthesized: 2026-07-31T12:49:01Z -->
+```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: platform/abilities
-entity_type: wiki_page
-status: stub
-last_updated: 2026-07-30
+title: "platform/abilities"
+entity_type: "platform"
+status: "stub"
+last_updated: 2026-07-31
 ---
 
 ### what-it-is
-The platform/abilities section defines the various capabilities and functionalities that OpenHome supports, enhancing user experience and device interaction.
+The platform/abilities refers to the various features and functionalities that the OpenHome platform can provide, enhancing user interactions and experience across compatible devices.
 
 ### how-it-works
-This section outlines the features that OpenHome devices can leverage, allowing for seamless integration and operation across different environments and services. Specific abilities include voice control, multi-room audio management, and compatibility with third-party applications and services.
+The abilities of the OpenHome platform are designed to integrate seamlessly with a range of devices, providing users with customizable control and automation options. Although specific implementation details are not available, the notion of "abilities" suggests a modular approach where each device can support a unique set of operations or services that can be accessed through the platform's interface.
 
 ### current-status
 stub
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-07-30T12:20:22Z -->
+<!-- synthesized: 2026-07-31T12:49:01Z -->
 ```

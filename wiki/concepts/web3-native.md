@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: Web3-Native
-entity_type: concepts/
+title: web3-native
+entity_type: concepts
 status: stub
-last_updated: 2026-07-30
+last_updated: 2026-07-31
 ---
 
-## definition
-Web3-native refers to applications and platforms built on decentralized technologies, primarily leveraging blockchain and similar frameworks to empower users with control over their data and digital identities.
+### definition
+Web3-native refers to applications and systems that leverage decentralized technologies and protocols. This concept emphasizes principles such as decentralization, user ownership, and interoperability, enabling users to interact directly without intermediaries.
 
-## why-it-matters
-Web3-native concepts are pivotal for OpenHome as they promote user sovereignty and privacy, allowing individuals to own their information and engage in a decentralized ecosystem. This aligns with OpenHome's mission to create an inclusive digital space that prioritizes user empowerment.
+### why-it-matters
+The web3-native approach is relevant to OpenHome as it aligns with the platform's goal of creating a decentralized and user-empowered digital ecosystem. By integrating web3-native principles, OpenHome can enhance user control over their data and interactions, fostering a more democratic and accessible digital environment.
 
-## how-it-manifests
-In OpenHome, web3-native principles may manifest through functionalities like decentralized identity management, token-based governance systems, and other features that facilitate peer-to-peer interactions without relying on centralized server infrastructure.
+### how-it-manifests
+In OpenHome, web3-native features could be implemented through decentralized identity protocols, smart contracts for transactions, and user-governed content moderation systems. This integration enables users to manage their digital footprint with greater autonomy and security.
 
-## connects-to
+### connects-to
 - [[concepts/abilities-as-apps]]
 - [[concepts/voice-first]]
 - [[concepts/local-first]]
@@ -23,5 +23,5 @@ In OpenHome, web3-native principles may manifest through functionalities like de
 - [[concepts/spatial-intelligence]]
 - [[concepts/grant-program]]
 
-<!-- synthesized: 2026-07-30T12:20:22Z -->
+<!-- synthesized: 2026-07-31T12:49:01Z -->
 ```

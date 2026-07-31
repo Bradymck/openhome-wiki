@@ -1,24 +1,22 @@
 ```markdown
 ---
 title: guides/brianchilders
-entity_type: Community Guide
+entity_type: Community Guides
 status: stub
-last_updated: 2026-07-30
+last_updated: 2026-07-31
 ---
 
 ### who-they-are
-Information about brianchilders' background and expertise is not available.
+Information about brianchilders' background and expertise is currently unavailable.
 
 ### what-they-help-with
-Details regarding brianchilders' specialties or the areas in which they assist others are also not provided.
+brianchilders' specialties and areas of assistance are not documented at this time.
 
 ### how-to-reach
-The Discord handle for brianchilders is not specified.
+brianchilders' Discord handle is not provided.
 
 ## connects-to
-[[Community Guides]]
-[[Discord]]
-[[Onboarding]]
-
-<!-- synthesized: 2026-07-30T12:20:22Z -->
+[[guides|Community Guides]]
+[[Discord|Discord]]
+<!-- synthesized: 2026-07-31T12:49:01Z -->
 ```

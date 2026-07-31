@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: guides/discomelon
-entity_type: Community Guide
-status: stub
-last_updated: 2026-07-30
+title: "discomelon"
+entity_type: "guides/"
+status: "stub"
+last_updated: 2026-07-31
 ---
 
 ### who-they-are
-Discomelon is a community member with experience in various platforms and services, assisting others in navigating technical challenges and onboarding processes.
+Discomelon is a community guide with expertise in various aspects of community engagement and support within Discord. 
 
 ### what-they-help-with
-Discomelon specializes in helping users with community integration and providing guidance on utilizing different external tools and libraries effectively.
+Discomelon specializes in onboarding new users, providing assistance with Discord functionalities, and sharing best practices for community management.
 
 ### how-to-reach
-You can reach Discomelon on Discord via their handle (not specified in the source material).
+You can reach Discomelon on Discord, although specific handle information is not available at this time.
 
 ## connects-to
 [[guides]]
-[[community-helpers]]
-[[discord-support]]
-<!-- synthesized: 2026-07-30T12:20:22Z -->
+[[community-support]]
+[[discord-help]]
+<!-- synthesized: 2026-07-31T12:49:01Z -->
 ```
