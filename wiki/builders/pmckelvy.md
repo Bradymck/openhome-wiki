@@ -1,27 +1,29 @@
 ```markdown
 ---
-title: builders/pmckelvy
+title: pmckelvy
 entity_type: builders
 status: stub
-last_updated: 2026-07-31
+last_updated: 2026-08-01
 ---
 
 ### who-they-are
-pmckelvy is a community builder with a focus on developing innovative solutions using the capabilities of the Homie framework. They are actively working on projects that enhance the user experience for developers and end-users alike.
+pmckelvy is an active community builder within the developer ecosystem, focusing on creating integrations and shipping abilities for platform enhancements.
 
 ### what-they-built
-Currently, details on specific abilities or integrations shipped by pmckelvy are not available.
+Details about specific shipped abilities or integrations are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: N/A
-- GitHub: N/A
-- X: N/A
+Discord: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
 ## connects-to
-[[wikilink-to-abilities]] 
+[[builders]]
+[[integrations]]
+[[community_development]]
 
-<!-- synthesized: 2026-07-31T12:49:01Z -->
+<!-- synthesized: 2026-08-01T11:52:56Z -->
 ```

@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: joyboyo42
-entity_type: builders/
+title: builders/joyboyo42
+entity_type: builders
 status: stub
-last_updated: 2026-07-31
+last_updated: 2026-08-01
 ---
 
 ### who-they-are
-joyboyo42 is an active member of the development community, engaged in building various tools and integrations aimed at enhancing user experiences within the platform. Details on their background and specific projects are currently limited.
+joyboyo42 is an active community builder engaged in developing tools and integrations within the ecosystem.
 
 ### what-they-built
-Information about specific abilities or integrations shipped by joyboyo42 is not available at this time.
+Details on specific abilities or integrations shipped by joyboyo42 are currently not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X (Twitter): Not provided
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
+## connects-to
 [[abilities]]
 
-<!-- synthesized: 2026-07-31T12:49:01Z -->
+<!-- synthesized: 2026-08-01T11:52:56Z -->
 ```
