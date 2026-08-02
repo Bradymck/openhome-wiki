@@ -1,27 +1,24 @@
 ```markdown
 ---
 title: Spatial Intelligence
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-08-01
+last_updated: 2026-08-02
 ---
 
-### definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships in the environment. It encompasses skills related to understanding the positions, distances, and dimensions of objects in space, as well as the ability to interpret and create maps or visual representations of these spatial relationships.
+## definition
+Spatial intelligence is the ability to visualize and manipulate spatial relationships in the environment. It involves understanding how objects relate to one another in three-dimensional space and in the context of movement and navigation.
 
-### why-it-matters
-In the context of OpenHome, spatial intelligence is crucial as it enhances user interactions with their physical and digital spaces. By incorporating spatial awareness, OpenHome can create more intuitive and efficient user experiences, allowing for better navigation, organization, and interaction within the platform.
+## why-it-matters
+In the context of OpenHome, spatial intelligence is relevant because it enhances user interactions with physical spaces. By integrating spatial awareness into the platform, OpenHome can create more intuitive interfaces and experiences for users, particularly in contexts such as augmented reality, navigation, and environment mapping.
 
-### how-it-manifests
-While specific manifestations of spatial intelligence within OpenHome are not detailed in the available data, it can be inferred that this concept may appear in features related to mapping, navigation, or augmented reality elements. These features would leverage users' spatial understanding to improve usability and engagement.
+## how-it-manifests
+While specific instances of spatial intelligence in OpenHome are not documented, it is expected to manifest through features that allow users to interact with their space effectively. This could include navigation features, augmented reality interfaces, or spatial organization tools that leverage the platform's capabilities.
 
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/grant-program]]
+## connects-to
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
 
-<!-- synthesized: 2026-08-01T11:52:56Z -->
+<!-- synthesized: 2026-08-02T11:50:35Z -->
 ```

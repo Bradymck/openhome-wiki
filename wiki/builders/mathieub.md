@@ -1,24 +1,25 @@
-```markdown
----
-title: mathieub
+```yaml
+title: builders/mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-08-01
----
+last_updated: 2026-08-02
+```
 
-### who-they-are
-No specific background information available about mathieub, including their current projects or area of expertise.
+## who-they-are
+Mathieu B. is a community builder involved in various projects and integrations within the Homie ecosystem. Details regarding their background and the specific projects they are building are currently unclear.
 
-### what-they-built
-No specific details available regarding abilities or integrations that mathieub has built or shipped.
+## what-they-built
+There is no information available on the specific abilities or integrations that Mathieu B. has shipped.
 
-### grant-status
-No grant status information available.
+## grant-status
+Applied
 
-### how-to-reach
-No contact information available.
+## how-to-reach
+Discord handle: Not available  
+GitHub: Not available  
+X: Not available  
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-08-01T11:52:56Z -->
-```
+[[homie]]  
+
+<!-- synthesized: 2026-08-02T11:50:35Z -->

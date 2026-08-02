@@ -3,22 +3,26 @@
 title: builders/pauldy
 entity_type: builders
 status: stub
-last_updated: 2026-08-01
+last_updated: 2026-08-02
 ---
 
-### who-they-are
-Pauldy is an active member of the community involved in building and shipping capabilities as a devkit holder. Specific background details about Pauldy and the projects they are working on are currently unspecified.
+## who-they-are
+Pauldy is a member of the active community of builders, specifically within the Homie and User roles. They are focused on leveraging devkit capabilities to create and share innovative solutions.
 
-### what-they-built
-Information regarding specific abilities or integrations that Pauldy has shipped is not available at this time.
+## what-they-built
+Details regarding specific abilities or integrations that Pauldy has shipped are currently unavailable.
 
-### grant-status
-The grant status for Pauldy is currently unknown.
+## grant-status
+none
 
-### how-to-reach
-Details on how to reach Pauldy, including their Discord handle, GitHub, or X profile, are not provided.
+## how-to-reach
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-08-01T11:52:56Z -->
+[[abilities]]
+[[integrations]]
+
+<!-- synthesized: 2026-08-02T11:50:35Z -->
 ```
