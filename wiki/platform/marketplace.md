@@ -1,28 +1,26 @@
-```markdown
----
-title: platform/marketplace
-entity_type: platform
+```yaml
+title: Platform Marketplace
+entity_type: platform/marketplace
 status: stub
-last_updated: 2026-08-02
----
+last_updated: 2026-08-03
+```
 
-### what-it-is
-The platform marketplace is an integrated component of the OpenHome ecosystem designed to facilitate the discovery and acquisition of various digital assets, applications, and services related to home automation and smart home technologies.
+## what-it-is
+The platform marketplace is a digital environment where users can discover, purchase, and manage various applications and services related to the OpenHome ecosystem.
 
-### how-it-works
-The marketplace operates as a digital storefront accessible through the OpenHome platform. Users can browse, purchase, and download applications and services that enhance the functionality and interoperability of their smart home devices. The marketplace supports various payment methods and ensures security and reliability in transactions. Additionally, developers can submit their applications to the marketplace, allowing them to reach a wider audience and integrate with the OpenHome system.
+## how-it-works
+Users can access the marketplace through the OpenHome platform to browse a selection of compatible products and features that augment their home experience. The marketplace enables seamless transactions, user reviews, and recommends abilities tailored to user preferences, enhancing utility and engagement within the OpenHome software environment.
 
-### current-status
+## current-status
 stub
 
 ## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/live-editor]]
+- [[platform/openhome]]
+- [[platform/speakers]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/voice-ai]]
+- [[platform/local-link]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-08-02T11:50:35Z -->
-```
+<!-- synthesized: 2026-08-03T13:31:32Z -->

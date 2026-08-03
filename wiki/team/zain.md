@@ -3,21 +3,21 @@
 title: team/zain
 entity_type: team
 status: stub
-last_updated: 2026-08-02
+last_updated: 2026-08-03
 ---
 
 ### who-they-are
-Zain is a member of the OpenHome team, holding a role that contributes to the development and management of the platform. Further details regarding their specific position and background are not available.
+Zain is a core team member at OpenHome, particularly involved in administrative functions. Background details are currently not available.
 
 ### what-they-own
-Information regarding the specific areas of the platform that Zain leads is not currently available.
+Zain's specific areas of leadership within the OpenHome platform are yet to be defined.
 
 ### how-to-reach
-Zain's preferred contact methods, including Discord handle and social media presence, have not been provided.
+Contact information for Zain is currently unavailable.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-02T11:50:35Z -->
+<!-- synthesized: 2026-08-03T13:31:32Z -->
 ```

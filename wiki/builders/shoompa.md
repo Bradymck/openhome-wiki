@@ -1,28 +1,24 @@
 ```markdown
 ---
-title: builders/shoompa
+title: Shoompa
 entity_type: builders
 status: stub
-last_updated: 2026-08-02
+last_updated: 2026-08-03
 ---
 
 ### who-they-are
-Shoompa is part of an active community of builders focused on developing abilities within the Homie ecosystem. They are known for their commitment to innovation and collaboration among devkit holders.
+Shoompa is a community builder known for being active in the Homie and User roles, particularly among devkit holders who are focused on shipping new capabilities.
 
 ### what-they-built
-Specific details about abilities or integrations that Shoompa has shipped are currently not available.
+Details about specific abilities or integrations that Shoompa has shipped are currently not available.
 
 ### grant-status
-none
+unknown
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+Currently unclear; specific contact details such as Discord handle, GitHub, or X are not available.
 
 ## connects-to
 [[abilities]]
-[[homie ecosystem]]
-[[devkit]]
-<!-- synthesized: 2026-08-02T11:50:35Z -->
+<!-- synthesized: 2026-08-03T13:31:32Z -->
 ```
