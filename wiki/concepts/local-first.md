@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: Local First
+title: Local-First
 entity_type: concepts
 status: stub
-last_updated: 2026-08-03
+last_updated: 2026-08-04
 ---
 
 ### definition
-Local First refers to a design philosophy that prioritizes local data processing and storage, ensuring that applications function independently of internet connectivity. It emphasizes the importance of maintaining user control over their data and minimizing reliance on cloud services.
+Local-first is a design principle emphasizing that applications prioritize local data storage and processing on users' devices before relying on cloud services. This approach ensures that users have immediate access to their data, reducing latency and enabling offline functionality.
 
 ### why-it-matters
-In the context of OpenHome, Local First enhances user privacy and control by reducing the need for real-time data transmission to external servers. This approach aligns with OpenHome's commitment to decentralization, empowering users to maintain ownership of their data while ensuring accessibility and performance.
+Local-first is relevant to OpenHome as it enhances user control and privacy. By enabling users to manage their data locally, the platform fosters trust and empowers individuals with greater autonomy over their personal information.
 
 ### how-it-manifests
-While specific implementations within the OpenHome platform are not detailed, the Local First concept is expected to inform various applications and services, potentially appearing in features that allow local data storage, offline functionality, and synchronized access across devices without continuous internet connectivity.
+This concept appears in OpenHome through features that allow users to store their data locally on their devices. It can facilitate enhanced performance, such as faster load times and uninterrupted access to services, even when connectivity to the internet is limited.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ While specific implementations within the OpenHome platform are not detailed, th
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-03T13:31:32Z -->
+<!-- synthesized: 2026-08-04T12:50:57Z -->
 ```
