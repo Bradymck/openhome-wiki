@@ -1,28 +1,27 @@
-```markdown
----
-title: joyboyo42
+```yaml
+title: builders/joyboyo42
 entity_type: builders
 status: stub
-last_updated: 2026-08-04
----
+last_updated: 2026-08-05
+```
 
-### who-they-are
-joyboyo42 is an active member of the community known for their involvement in various blockchain-related projects. They hold a devkit and are focused on building innovative capabilities within the ecosystem.
+## who-they-are
+Joyboyo42 is an active community builder and a holder of devkits, focusing on creating engaging experiences within their community.
 
-### what-they-built
-Currently, there is no specific information available regarding the abilities or integrations that joyboyo42 has shipped.
+## what-they-built
+Details regarding specific abilities or integrations built by joyboyo42 are currently not available.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not provided
-- GitHub: Not available
+## how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
 - X: Not provided
 
 ## connects-to
-[[builders]]
-[[devkit]]
-[[community]]
-<!-- synthesized: 2026-08-04T12:50:57Z -->
-```
+[[wikilink1]]  
+[[wikilink2]]  
+[[wikilink3]]  
+
+<!-- synthesized: 2026-08-05T12:30:00Z -->

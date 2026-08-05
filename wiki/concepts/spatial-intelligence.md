@@ -3,25 +3,25 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-08-04
+last_updated: 2026-08-05
 ---
 
 ## definition
-Spatial intelligence refers to the ability to recognize and manipulate the spatial relationships between objects, which includes a person's understanding of the environment's layout and how different elements interact within that space.
+Spatial intelligence refers to the ability to visualize and manipulate two-dimensional and three-dimensional spaces, enabling individuals and systems to understand and navigate environments effectively.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is crucial as it enhances user interactions and engagements with digital environments. It allows users to navigate and utilize spaces more effectively, fostering a more intuitive experience with smart home technologies.
+Spatial intelligence is crucial in the context of OpenHome as it enhances user experiences by allowing for better interaction with physical and digital spaces. This capability supports intuitive navigation and personalization within the platform, which is increasingly essential in an interconnected world.
 
 ## how-it-manifests
-While specific applications of spatial intelligence within the OpenHome platform are not detailed, it is anticipated that features involving navigation, environment mapping, and integration of devices within physical spaces would utilize principles of spatial intelligence.
+While specific implementations of spatial intelligence within the OpenHome platform are not detailed in the available material, the concept could manifest in features that involve augmented reality, spatial mapping, and user interface design that leverages the user's understanding of space.
 
 ## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/grant-program]]  
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-04T12:50:57Z -->
+<!-- synthesized: 2026-08-05T12:30:00Z -->
 ```

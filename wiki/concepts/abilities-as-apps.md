@@ -3,25 +3,25 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-08-04
+last_updated: 2026-08-05
 ---
 
-### definition
-Abilities-as-apps refers to the concept of encapsulating specific functionalities or capabilities as standalone applications within the OpenHome ecosystem. This approach allows users to access and utilize individual abilities in a modular fashion, resembling the way traditional apps operate on mobile devices.
+## definition
+Abilities-as-apps refers to the concept of modular functionalities that can be integrated into the OpenHome platform, similar to how applications are used on mobile devices. Each "ability" acts as an independent component that users can add or remove based on their needs, enhancing personalization and flexibility.
 
-### why-it-matters
-This concept is significant to OpenHome because it enhances user experience by providing flexibility and customization. Users can choose which abilities they wish to engage with, tailoring their interactions and optimizing the functionalities they require from the platform. This modularity fosters innovation and encourages developers to create diverse and specialized applications.
+## why-it-matters
+This concept is crucial to OpenHome as it allows users to tailor their experience by choosing specific abilities that suit their lifestyle. It promotes user autonomy and adaptability, ensuring that the platform can evolve with individual preferences and technological advancements.
 
-### how-it-manifests
-In the OpenHome platform, abilities-as-apps appear as discrete modules that users can install, configure, and utilize according to their needs. Each ability operates independently, allowing for a streamlined integration into users' everyday routines. This can include functionalities such as managing smart home devices, accessing personal finance management tools, or engaging with social media interfaces, among others.
+## how-it-manifests
+Abilities-as-apps appear in OpenHome as customizable features or integrations that users can select through a user-friendly interface. Users can activate, deactivate, or modify these abilities easily, fostering a dynamic interaction with the platform and keeping the experience fresh and relevant.
 
-### connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+## connects-to
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-04T12:50:57Z -->
+<!-- synthesized: 2026-08-05T12:30:00Z -->
 ```

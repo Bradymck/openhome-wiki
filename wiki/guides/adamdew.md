@@ -1,24 +1,23 @@
 ```markdown
 ---
-title: Adam Dew
-entity_type: guides/
-status: stub
-last_updated: 2026-08-04
+title: "guides/adamdew"
+entity_type: "Community Guide"
+status: "stub"
+last_updated: 2026-08-05
 ---
 
 ### who-they-are
-Adam Dew is a community member recognized for their engagement and support within the Discord server.
+Adam Dew is a community guide known for assisting new users in navigating the platform. Details about their specific background and expertise are not provided.
 
 ### what-they-help-with
-Adam specializes in onboarding new users to the community, providing guidance and resources that facilitate a smoother integration into the community.
+Adam specializes in onboarding other users, helping them understand the functionalities and capabilities available within the community. Specific abilities, hardware, or APIs that they focus on have not been detailed.
 
 ### how-to-reach
-Discord Handle: AdamDew#1234
+You can reach Adam Dew on Discord, although their specific handle is not provided.
 
 ## connects-to
-[[guides]]
-[[community]]
-[[onboarding]]
+[[guides]]  
+[[community-guides]]  
 
-<!-- synthesized: 2026-08-04T12:50:57Z -->
+<!-- synthesized: 2026-08-05T12:30:00Z -->
 ```

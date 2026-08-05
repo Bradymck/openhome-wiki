@@ -3,25 +3,23 @@
 title: builders/pl-geek
 entity_type: builders
 status: stub
-last_updated: 2026-08-04
+last_updated: 2026-08-05
 ---
 
 ### who-they-are
-Information about Pl-Geeks' background and what they are building is currently unavailable.
+No specific background information or what they're building was found for builders/pl-geek.
 
 ### what-they-built
-No specific shipped abilities or integrations have been provided.
+No shipped abilities or integrations were documented for builders/pl-geek.
 
 ### grant-status
 None
 
 ### how-to-reach
-No contact information is available.
+No contact information is available for builders/pl-geek.
 
 ## connects-to
-[[wikilink1]]
-[[wikilink2]]
-[[wikilink3]]
+[[wikilinks]]
 
-<!-- synthesized: 2026-08-04T12:50:57Z -->
+<!-- synthesized: 2026-08-05T12:30:00Z -->
 ```

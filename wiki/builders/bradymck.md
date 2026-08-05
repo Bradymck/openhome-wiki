@@ -3,27 +3,26 @@
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-08-04
+last_updated: 2026-08-05
 ---
 
 ### who-they-are
-bradymck is an active community builder part of the Homie and User roles, focused on contributing to the development ecosystem.
+Brady McK is a community builder known for their involvement in developing and enhancing user experiences within decentralized platforms. They have engaged in various projects that leverage the capabilities of the devkit.
 
 ### what-they-built
-Currently, there is no specific information available regarding the abilities or integrations that bradymck has shipped.
+Details on specific abilities or integrations that Brady McK has shipped are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Discord: Unknown  
+GitHub: Unknown  
+X: Unknown  
 
 ## connects-to
-[[builders]]
-[[community builders]]
-[[devkit holders]]
+[[builders]]  
+[[devkit]]  
 
-<!-- synthesized: 2026-08-04T12:50:57Z -->
+<!-- synthesized: 2026-08-05T12:30:00Z -->
 ```
