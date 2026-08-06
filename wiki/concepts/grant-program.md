@@ -1,27 +1,24 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts
+entity_type: concepts/
 status: stub
-last_updated: 2026-08-05
+last_updated: 2026-08-06
 ---
 
-### definition
-A grant program is a structured initiative that allocates funding to individuals or organizations for specific projects, activities, or research that align with defined objectives.
+## definition
+A grant program is a structured initiative through which funds are allocated to support specific projects or research. These programs typically aim to foster innovation, creativity, and advancement in particular fields or sectors.
 
-### why-it-matters
-Grant programs are essential to OpenHome as they facilitate innovation, support community-driven initiatives, and foster the development of solutions that align with the platform's goals. By providing financial resources, these programs enable developers and contributors to bring new ideas to life, enhancing the overall ecosystem.
+## why-it-matters
+The grant program is relevant to OpenHome as it encourages community-driven development and supports the creation of diverse applications and services within the platform. By providing financial assistance, it enables developers and creators to experiment and implement their ideas, thereby enhancing the ecosystem.
 
-### how-it-manifests
-In the OpenHome platform, grant programs may be implemented through various funding opportunities available for developers, researchers, and content creators. These could include calls for proposals, funding cycles, and collaborative projects aimed at advancing the platform's mission and enhancing user experience.
+## how-it-manifests
+In OpenHome, the grant program may manifest through various funding opportunities, support for developer projects, and initiatives aimed at promoting innovation among users. It serves as a catalyst for new ideas and projects that align with the goals of OpenHome.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-08-05T12:30:00Z -->
+<!-- synthesized: 2026-08-06T12:47:55Z -->
 ```
