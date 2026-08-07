@@ -1,27 +1,28 @@
-```yaml
-title: Emperormidas
+```markdown
+---
+title: builders/emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-08-06
-```
+last_updated: 2026-08-07
+---
 
 ### who-they-are
-Emperormidas is a community builder who holds a devkit and is actively involved in the Homie and User roles. They are dedicated to fostering development and innovation within the community.
+emperormidas is an active community builder in the blockchain space, involved with releasing development tools and fostering collaboration among developers and enthusiasts.
 
 ### what-they-built
-Specific details regarding the abilities or integrations that Emperormidas has shipped are not currently available.
+Currently, there is no detailed information available regarding specific abilities or integrations that emperormidas has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord: Not provided  
-GitHub: Not provided  
-X: Not provided  
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
 [[builders]]
-[[devkits]]
 [[community builders]]
-
-<!-- synthesized: 2026-08-06T12:47:55Z -->
+[[development tools]]
+<!-- synthesized: 2026-08-07T11:35:29Z -->
+```

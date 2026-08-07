@@ -1,28 +1,27 @@
 ```markdown
 ---
-title: Roadmap Planned
+title: Roadmap
 entity_type: roadmap/planned
 status: stub
-last_updated: 2026-08-06
+last_updated: 2026-08-07
 ---
 
 ### what-it-is
-This page outlines the upcoming features, milestones, and updates that are planned for future release.
+The roadmap outlines upcoming features, milestones, and improvements planned for future releases.
 
 ### status
 stub
 
 ### why-it-matters
-Understanding the planned roadmap helps users and contributors anticipate changes and improvements, align their efforts with ongoing development, and provide feedback on anticipated features.
+Understanding the roadmap is crucial for users and stakeholders to anticipate changes, improvements, and enhancements, ensuring alignment with their needs and expectations.
 
 ### eta
-Rough timeline information is currently not available.
+Rough timeline is currently unknown as details are not available.
 
 ## connects-to
-[[roadmap/in-progress]]
-[[roadmap/shipped]]
 [[features]]
 [[milestones]]
+[[updates]]
 
-<!-- synthesized: 2026-08-06T12:47:55Z -->
+<!-- synthesized: 2026-08-07T11:35:29Z -->
 ```

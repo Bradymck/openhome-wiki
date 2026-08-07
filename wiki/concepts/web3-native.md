@@ -1,20 +1,21 @@
-```yaml
-title: web3-native
+```markdown
+---
+title: Web3 Native
 entity_type: concepts
 status: stub
-last_updated: 2026-08-06
-```
+last_updated: 2026-08-07
+---
 
-## definition
-Web3-native refers to applications, services, and protocols that are built on decentralized blockchain technologies, emphasizing user ownership, privacy, and peer-to-peer interactions. These systems prioritize transparency and security through decentralized networks, as opposed to traditional web applications that rely on centralized servers and third-party intermediaries.
+### definition
+Web3 Native refers to applications and services that are built specifically to operate on decentralized web infrastructure, leveraging blockchain technology and decentralized protocols to enhance user ownership, privacy, and security.
 
-## why-it-matters
-In the context of OpenHome, web3-native elements are significant because they align with the platform's commitment to decentralization and user empowerment. By leveraging web3 technologies, OpenHome enhances user control over personal data, fosters trust through decentralized trust models, and supports innovative use cases that traditional web environments may not accommodate.
+### why-it-matters
+In the context of OpenHome, being Web3 Native is crucial as it aligns with the platform's goals of decentralization and user empowerment. It allows users to maintain control over their own data, interact without intermediaries, and benefit from transparent systems. Embracing this concept enhances the overall ownership experience for users.
 
-## how-it-manifests
-Web3-native characteristics manifest in OpenHome through features such as decentralized identity management, where users maintain ownership of their personal information. Additionally, smart contracts may be utilized within the platform to facilitate transparent transactions and interactions among users without the need for centralized authorities.
+### how-it-manifests
+The Web3 Native approach is expected to manifest across OpenHome through the integration of decentralized applications (dApps) that users can access and utilize without centralized control. Features such as user-owned data, transparent governance models, and peer-to-peer interactions are typical signs of this manifestation within the platform.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -22,4 +23,5 @@ Web3-native characteristics manifest in OpenHome through features such as decent
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-06T12:47:55Z -->
+<!-- synthesized: 2026-08-07T11:35:29Z -->
+```
