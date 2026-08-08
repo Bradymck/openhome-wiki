@@ -1,26 +1,27 @@
-```yaml
+```markdown
+---
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-08-07
-```
+last_updated: 2026-08-08
+---
 
-## definition
-Abilities-as-apps is a conceptual framework that allows software capabilities or functionalities to be delivered as independent, modular applications. This approach enables users to activate and use specific abilities on demand, similar to how applications are installed and used on mobile devices.
+### definition
+Abilities-as-apps refers to a design approach where specific functionalities or services are separated into distinct applications, allowing users to manage, install, and utilize them as needed within a broader system.
 
-## why-it-matters
-This concept is significant within the OpenHome ecosystem as it promotes flexibility and user empowerment. By treating abilities as apps, users can customize their experience, selecting only the functionalities they need at any given time. This modular approach enhances user engagement and can lead to increased satisfaction by minimizing unnecessary complexity.
+### why-it-matters
+This concept is significant to OpenHome as it promotes flexibility and customization for users. By treating abilities as individual apps, it allows for greater adaptability and personalization, enabling users to pick and choose the functionalities they want to engage with in their environment.
 
-## how-it-manifests
-In the OpenHome platform, abilities-as-apps are presented through an intuitive interface where users can browse, install, and manage various abilities. These might include integrations with home automation systems, personalized settings for voice interactions, or other smart functionalities that improve the user experience. Each ability operates independently yet contributes to the cohesive functionality of the platform.
+### how-it-manifests
+Within the OpenHome platform, abilities-as-apps can manifest as modular components that users can add or remove based on their preferences. This modularity facilitates easier updates and improvements to specific capabilities without affecting the entire system.
 
-## connects-to
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+### connects-to
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-07T11:35:29Z -->  
+<!-- synthesized: 2026-08-08T11:17:20Z -->
 ```

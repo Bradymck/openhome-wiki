@@ -3,25 +3,26 @@
 title: jagatfx
 entity_type: builders
 status: stub
-last_updated: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 ### who-they-are
-Information about the background of jagatfx and what they are building is currently unavailable.
+Jagatfx is an active community builder involved in the development of projects utilizing the Homie + User roles framework. They are engaged in building innovative features that enhance user experience within the community.
 
 ### what-they-built
-There are no details available regarding the abilities or integrations shipped by jagatfx.
+Information about specific abilities or integrations that jagatfx has shipped is currently unavailable.
 
 ### grant-status
-The grant status for jagatfx is currently unknown.
+none
 
 ### how-to-reach
-Contact information for jagatfx is not available.
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
 [[builders]]
-[[devkit]]
-[[homies]]
+[[Homie + User roles]]
 
-<!-- synthesized: 2026-08-07T11:35:29Z -->
+<!-- synthesized: 2026-08-08T11:17:20Z -->
 ```

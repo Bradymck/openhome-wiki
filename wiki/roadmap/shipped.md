@@ -2,27 +2,27 @@
 ---
 title: Roadmap
 entity_type: roadmap/shipped
-status: live
-last_updated: 2026-08-07
+status: stub
+last_updated: 2026-08-08
 ---
 
 ### what-it-is
-The roadmap provides an overview of features and milestones for a product or service.
+The roadmap outlines the features and milestones related to the ongoing development and updates of the system. 
 
 ### status
-Shipped
+Stub
 
 ### why-it-matters
-Understanding the roadmap is crucial for stakeholders to track the progress of developments, assess the impact of new features, and anticipate future updates.
+It serves as an overview for users and developers to understand what elements are either in development, planned for the future, or have been fully deployed, ensuring transparency in the development process.
 
 ### eta
-No specific timeline is provided for new features or milestones.
+Rough timeline is not known at this time.
 
 ## connects-to
 [[features]]
 [[milestones]]
+[[development]]
 [[updates]]
-[[progress]]
 
-<!-- synthesized: 2026-08-07T11:35:29Z -->
+<!-- synthesized: 2026-08-08T11:17:20Z -->
 ```

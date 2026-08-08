@@ -1,23 +1,27 @@
-```yaml
-title: jkoppel
-entity_type: builders
+```markdown
+---
+title: builders/jkoppel
+entity_type: builder
 status: stub
-last_updated: 2026-08-07
-```
+last_updated: 2026-08-08
+---
 
-## who-they-are
-jkoppel is an active community builder involved in various development projects. 
+### who-they-are
+jkoppel is an active community builder and a holder of the development kit. They are focused on creating innovative solutions and integrations within the community.
 
-## what-they-built
-Details on specific abilities or integrations shipped by jkoppel are not available at this time.
+### what-they-built
+No specific shipped abilities or integrations have been detailed for jkoppel at this time.
 
-## grant-status
-unknown
+### grant-status
+none
 
-## how-to-reach
-Information regarding how to reach jkoppel, such as Discord handle, GitHub, or social media accounts, is not currently accessible.
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[abilities]] 
-
-<!-- synthesized: 2026-08-07T11:35:29Z -->
+[[abilities]]
+[[community builders]]
+<!-- synthesized: 2026-08-08T11:17:20Z -->
+```

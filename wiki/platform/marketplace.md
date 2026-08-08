@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: platform/marketplace
-entity_type: platform
+title: "Marketplace"
+entity_type: platform/marketplace
 status: stub
-last_updated: 2026-08-07
+last_updated: 2026-08-08
 ---
 
 ### what-it-is
-The OpenHome marketplace is a digital platform that facilitates the discovery, purchase, and integration of various smart home products and services, enhancing the user experience within the OpenHome ecosystem.
+The Marketplace is a digital platform designed to facilitate the buying and selling of various products and services within the OpenHome ecosystem.
 
 ### how-it-works
-While specific technical details regarding the marketplace are not provided, it is designed to connect users with a range of products compatible with OpenHome, allowing for seamless integration and functionality across smart home devices. Users can browse offerings, read reviews, and make purchases directly through the marketplace.
+The Marketplace allows users to explore, purchase, and manage products aligned with OpenHome standards. It integrates with user devices to provide a seamless experience for acquiring smart home products, custom abilities, and other digital services. Sellers can list their products, and buyers can browse through an organized interface, complete transactions, and receive updates on their purchases.
 
 ### current-status
 stub
@@ -24,5 +24,5 @@ stub
 [[platform/local-link]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-08-07T11:35:29Z -->
+<!-- synthesized: 2026-08-08T11:17:20Z -->
 ```
