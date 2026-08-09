@@ -1,22 +1,23 @@
 ```markdown
 ---
-title: guides/samuel35
-entity_type: Community Guide
+title: Samuel35
+entity_type: guides/
 status: stub
-last_updated: 2026-08-08
+last_updated: 2026-08-09
 ---
 
 ### who-they-are
-Samuel35 is a community guide recognized for their contributions in assisting users within the Discord community. Details about their background and expertise remain currently unspecified.
+Information about Samuel35's background and expertise is currently not available.
 
 ### what-they-help-with
-The specific areas of expertise in which Samuel35 helps others are not documented at this time. Their specialty and the tools or applications they are knowledgeable about remain unclear.
+Samuel35's specialties, abilities, hardware knowledge, or APIs are currently not accessible.
 
 ### how-to-reach
-Samuel35 can be reached through their Discord handle, which is not provided here.
+Information on how to reach Samuel35 via Discord is not available.
 
 ## connects-to
-[[guides]]
-[[Community Guides]]
-<!-- synthesized: 2026-08-08T11:17:20Z -->
+[[guides/]]
+[[guides/community-guide]]
+
+<!-- synthesized: 2026-08-09T11:17:45Z -->
 ```

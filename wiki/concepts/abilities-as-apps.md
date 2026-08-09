@@ -3,25 +3,25 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-08-08
+last_updated: 2026-08-09
 ---
 
 ### definition
-Abilities-as-apps refers to a design approach where specific functionalities or services are separated into distinct applications, allowing users to manage, install, and utilize them as needed within a broader system.
+Abilities-as-apps refers to the concept of modular functionalities that can be developed, integrated, and utilized independently within the OpenHome ecosystem. Each ability represents a specific function or set of capabilities that users can access as applications, enhancing their overall experience.
 
 ### why-it-matters
-This concept is significant to OpenHome as it promotes flexibility and customization for users. By treating abilities as individual apps, it allows for greater adaptability and personalization, enabling users to pick and choose the functionalities they want to engage with in their environment.
+This concept is significant for OpenHome as it enables flexibility and customization in user interactions. By treating abilities as distinct applications, users can choose and configure the functionalities that best meet their needs, leading to a more personalized and efficient use of the platform.
 
 ### how-it-manifests
-Within the OpenHome platform, abilities-as-apps can manifest as modular components that users can add or remove based on their preferences. This modularity facilitates easier updates and improvements to specific capabilities without affecting the entire system.
+Abilities-as-apps manifests within OpenHome as downloadable or integratable applications that users can implement to extend their environment's functionality. Users can activate or deactivate these abilities based on their preferences, allowing for a dynamic and user-centric experience.
 
 ### connects-to
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-08T11:17:20Z -->
+<!-- synthesized: 2026-08-09T11:17:45Z -->
 ```

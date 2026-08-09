@@ -3,29 +3,24 @@
 title: pmckelvy
 entity_type: builders
 status: stub
-last_updated: 2026-08-08
+last_updated: 2026-08-09
 ---
 
 ### who-they-are
-pmckelvy is an active community builder known for engaging with the developer ecosystem and actively participating in community initiatives.
+pmckelvy is a community builder involved in developing capabilities within the Homie + User roles framework. Details regarding their background and specific projects they are focusing on are currently not available.
 
 ### what-they-built
-No specific abilities or integrations have been documented as shipped by pmckelvy.
+Information about the abilities or integrations that pmckelvy has shipped is not yet accessible.
 
 ### grant-status
-none
+The grant status for pmckelvy is currently unknown.
 
 ### how-to-reach
-Discord: Not specified  
-GitHub: Not specified  
-X: Not specified  
+pmckelvy's contact information, including their Discord handle, GitHub profile, or presence on X, has not been provided.
 
 ## connects-to
-[[builders]]
-[[community]]
-[[developer]]
-[[shipped abilities]]
-[[integrations]]
-
-<!-- synthesized: 2026-08-08T11:17:20Z -->
+[[Homie Roles]]
+[[User Roles]]
+[[Community Builders]]
+<!-- synthesized: 2026-08-09T11:17:45Z -->
 ```

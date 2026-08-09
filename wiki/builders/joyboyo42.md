@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: builders/joyboyo42
+title: joyboyo42
 entity_type: builders
 status: stub
-last_updated: 2026-08-08
+last_updated: 2026-08-09
 ---
 
 ### who-they-are
-Joyboyo42 is a community builder involved in developing capabilities for the Homie platform. They are recognized for their contributions within the community and their active participation in various projects.
+joyboyo42 is an active member of the builders community focused on developing applications and integrations within the ecosystem. They hold a devkit and are dedicated to shipping innovative solutions that enhance user experience.
 
 ### what-they-built
-Details about specific abilities or integrations that Joyboyo42 has shipped are currently unavailable.
+Currently, specific details on the abilities or integrations joyboyo42 has shipped are not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: Unavailable
+- GitHub: Unavailable
+- X: Unavailable
 
 ## connects-to
-[[abilities]]
-[[Homie]]
-[[community builders]]
-<!-- synthesized: 2026-08-08T11:17:20Z -->
+[[ability1]]
+[[ability2]]
+[[ability3]]
+<!-- synthesized: 2026-08-09T11:17:45Z -->
 ```

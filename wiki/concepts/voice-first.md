@@ -1,21 +1,20 @@
-```markdown
----
-title: Voice-First
+```yaml
+title: concepts/voice-first
 entity_type: concepts
 status: stub
-last_updated: 2026-08-08
----
+last_updated: 2026-08-09
+```
 
-### definition
-Voice-first refers to a design paradigm where voice interactions serve as the primary mode of user engagement, prioritizing voice commands and responses over traditional graphical user interfaces.
+## definition
+Voice-first refers to an interaction paradigm where voice commands are the primary means of engaging with technology or software, prioritizing vocal interactions over physical inputs like touch or keyboard.
 
-### why-it-matters
-Voice-first is relevant to OpenHome as it aligns with the growing trend of incorporating natural language processing and voice recognition technologies to enhance user experience, making interactions more intuitive and accessible.
+## why-it-matters
+This concept is significant to OpenHome as it allows for more natural and intuitive user experiences. By embracing voice-first technologies, OpenHome can enhance accessibility, simplify interactions, and cater to users who may prefer or require hands-free control. 
 
-### how-it-manifests
-In the OpenHome platform, voice-first elements may include features like voice-activated commands for controlling various applications, querying information using natural language, and enabling hands-free interactions to improve accessibility and user engagement.
+## how-it-manifests
+Voice-first interactions may be implemented in various components of the OpenHome platform, allowing users to control devices, access services, and manipulate applications solely through verbal commands, thereby streamlining user engagement and enhancing functionality.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -23,5 +22,4 @@ In the OpenHome platform, voice-first elements may include features like voice-a
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-08T11:17:20Z -->
-```
+<!-- synthesized: 2026-08-09T11:17:45Z -->

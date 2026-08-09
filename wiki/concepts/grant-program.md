@@ -1,21 +1,21 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts
+entity_type: concepts/grant-program
 status: stub
-last_updated: 2026-08-08
+last_updated: 2026-08-09
 ---
 
-## definition
-A grant program is a structured initiative that provides funding or resources to individuals, organizations, or projects to support specific objectives or advancements.
+### Definition
+A grant program provides financial support and resources to individuals or organizations for specific projects or initiatives that align with the goals of OpenHome.
 
-## why-it-matters
-The grant program is crucial for OpenHome as it fosters innovation, encourages participation, and enables the development of projects that align with OpenHome's goals and values. By providing resources to external contributors, OpenHome can expand its ecosystem and enhance its offerings.
+### Why it Matters
+The grant program is crucial for fostering innovation and supporting community-driven projects within the OpenHome ecosystem. By providing funding, it encourages collaboration and participation, which are essential for the platform's growth and development.
 
-## how-it-manifests
-While specific implementations of the grant program within OpenHome are not detailed, it generally appears through funding opportunities, calls for proposals, or partnerships with developers and organizations looking to innovate within the platform.
+### How it Manifests
+The grant program manifests as a structured opportunity for developers, researchers, and community members to apply for funding to advance initiatives that enhance the OpenHome platform. It may include application guidelines, eligibility criteria, and evaluation metrics to assess proposals.
 
-## connects-to
+## Connects to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ While specific implementations of the grant program within OpenHome are not deta
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-08-08T11:17:20Z -->
+<!-- synthesized: 2026-08-09T11:17:45Z -->
 ```
