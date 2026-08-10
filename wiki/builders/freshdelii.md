@@ -1,29 +1,28 @@
 ```markdown
 ---
-title: builders/freshdelii
+title: FreshDelii
 entity_type: builders
 status: stub
-last_updated: 2026-08-09
+last_updated: 2026-08-10
 ---
 
 ### who-they-are
-FreshDelii is a community-driven initiative focused on enhancing the user experience in digital transactions and delivery services. They are actively engaged in building tools and integrations that streamline these processes for developers and end-users.
+FreshDelii is a community builder operating within the Homie ecosystem, focusing on innovating and enhancing user interactions and experiences.
 
 ### what-they-built
-Currently, specific details about the abilities or integrations that FreshDelii has shipped are not available. They may be involved in developing applications or features that facilitate seamless delivery and digital interaction.
+Details on the specific abilities or integrations that FreshDelii has shipped are currently unavailable.
 
 ### grant-status
-unknown
+none
 
 ### how-to-reach
-Discord: not available  
-GitHub: not available  
-X: not available
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[digital_transactions]]
-[[delivery_services]]
+[[abilities]]
+[[integrations]]
 
-<!-- synthesized: 2026-08-09T11:17:45Z -->
+<!-- synthesized: 2026-08-10T11:39:14Z -->
 ```

@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: Dead Man's Switch
 entity_type: concepts
 status: stub
-last_updated: 2026-08-09
----
-
-### Definition
-A dead man's switch is a safety mechanism that automatically triggers a certain action if the operator becomes incapacitated or fails to respond. This concept is often used in technology and systems to ensure safety and continuity.
-
-### Why It Matters
-In the context of OpenHome, a dead man's switch is vital for maintaining secure and reliable operations. It ensures that, in the event of a user's inactivity or incapacitation, critical actions can still be taken to protect data integrity and user interests.
-
-### How It Manifests
-While specific implementations of a dead man's switch within the OpenHome platform have not been detailed, it can manifest in the form of automated alert systems, recovery protocols, or transactional safeguards that activate when a user does not confirm their activity within a specified timeframe.
-
-### Connects To
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
-
-<!-- synthesized: 2026-08-09T11:17:45Z -->
+last_updated: 2026-08-10
 ```
+
+## definition
+A dead man's switch is a safety mechanism that automatically triggers a certain action if the operator becomes incapacitated, unable to continue. In the context of digital systems, this concept often refers to a feature that ensures data is not lost or that certain commands are executed if a user does not respond or interact within a specified timeframe.
+
+## why-it-matters
+In OpenHome, the implementation of a dead man’s switch is crucial for maintaining user safety and content integrity. It ensures that the user has control over the platform's actions and can prevent unwanted activities if they become unresponsive. This function is particularly relevant for applications dealing with automated systems or critical communications.
+
+## how-it-manifests
+Within the OpenHome platform, the dead man's switch may be found in various applications that require user verification or engagement to function properly. This could include messaging apps, automated scheduling features, or any service that necessitates user interaction to prevent unintended consequences or to manage data responsibly.
+
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+
+<!-- synthesized: 2026-08-10T11:39:14Z -->

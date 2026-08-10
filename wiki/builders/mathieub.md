@@ -3,23 +3,25 @@
 title: builders/mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-08-09
+last_updated: 2026-08-10
 ---
 
-## who-they-are
-Mathieu B is an active community builder engaged in the development of various projects and integrations within the ecosystem. Details about his background and specific projects he is associated with are currently unavailable.
+### who-they-are
+Mathieu B. is an active member of the community, known for their involvement in various development projects as a devkit holder. They are focused on building innovative solutions within the ecosystem, although specific details about their background and projects are currently limited.
 
-## what-they-built
-Specific abilities or integrations that Mathieu B has shipped are not listed. Further information on his contributions can be updated as it becomes available.
+### what-they-built
+Information regarding specific abilities or integrations that Mathieu B. has shipped is not available at this time. Further contributions to the community are anticipated.
 
-## grant-status
-Grant status for Mathieu B is currently unspecified.
+### grant-status
+none
 
-## how-to-reach
-Communication details for Mathieu B are not provided at this time, including his Discord handle, GitHub profile, or other social media links.
+### how-to-reach
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
-## connects-to
-No direct connections to other abilities or projects are currently documented.
+### connects-to
+None available at this time.
 
-<!-- synthesized: 2026-08-09T11:17:45Z -->
+<!-- synthesized: 2026-08-10T11:39:14Z -->
 ```

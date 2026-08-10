@@ -1,26 +1,28 @@
-```yaml
-title: Voice AI
+```markdown
+---
+title: platform/voice-ai
 entity_type: platform
 status: stub
-last_updated: 2026-08-09
-```
+last_updated: 2026-08-10
+---
 
-## what-it-is
-Voice AI is a component of the OpenHome platform that facilitates human-computer interaction through voice recognition and natural language processing technologies, enabling users to interact with devices and applications using spoken commands.
+### what-it-is
+Voice AI refers to the technology that enables interaction with devices using voice commands, allowing users to control platforms and features using natural language.
 
-## how-it-works
-Voice AI operates by interpreting spoken language and converting it into actionable commands. It utilizes advanced algorithms to process audio input, recognize speech patterns, and generate responses. By leveraging machine learning techniques, Voice AI continually improves its understanding of various accents, languages, and contextual inquiries, making user interactions more seamless and natural.
+### how-it-works
+Voice AI technology processes spoken inputs through speech recognition systems, converting audio into text. This text is then interpreted by natural language understanding (NLU) systems, which determine the intent behind the user's request. Once the intent is identified, the system executes appropriate actions or provides responses. This process typically involves cloud-based services that enhance learning and adapt to user preferences over time.
 
-## current-status
+### current-status
 stub
 
-## connects-to
-[[platform/openhome]]  
-[[platform/speakers]]  
-[[platform/abilities]]  
-[[platform/dashboard]]  
-[[platform/local-link]]  
-[[platform/marketplace]]  
-[[platform/live-editor]]  
+### connects-to
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-08-09T11:17:45Z -->
+<!-- synthesized: 2026-08-10T11:39:14Z -->
+```

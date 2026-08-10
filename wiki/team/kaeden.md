@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: team/kaeden
+title: Team Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-08-09
+last_updated: 2026-08-10
 ---
 
 ### who-they-are
-Role at OpenHome: Team member. Background information is currently unavailable.
+Role at OpenHome, background information is currently unavailable.
 
 ### what-they-own
-Areas of the platform they lead are not specified at this time.
+Areas of the platform they lead are currently unspecified.
 
 ### how-to-reach
-Preferred contact methods are not provided. No Discord handle or X/Twitter information available.
+Contact information is not available at this time.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-09T11:17:45Z -->
+<!-- synthesized: 2026-08-10T11:39:14Z -->
 ```

@@ -1,21 +1,20 @@
-```markdown
----
+```yaml
 title: Grant Program
 entity_type: concepts/grant-program
 status: stub
-last_updated: 2026-08-09
----
+last_updated: 2026-08-10
+```
 
-### Definition
-A grant program provides financial support and resources to individuals or organizations for specific projects or initiatives that align with the goals of OpenHome.
+## definition
+A grant program is a structured funding initiative that provides financial support to individuals or organizations for specific projects or innovations. These grants typically require applicants to submit proposals outlining their project's goals, methodologies, and potential impact.
 
-### Why it Matters
-The grant program is crucial for fostering innovation and supporting community-driven projects within the OpenHome ecosystem. By providing funding, it encourages collaboration and participation, which are essential for the platform's growth and development.
+## why-it-matters
+In the context of OpenHome, grant programs are essential for fostering innovation and encouraging the development of new features or improvements within the platform. They help stimulate growth, engage the community, and incentivize contributions that align with the vision and objectives of OpenHome.
 
-### How it Manifests
-The grant program manifests as a structured opportunity for developers, researchers, and community members to apply for funding to advance initiatives that enhance the OpenHome platform. It may include application guidelines, eligibility criteria, and evaluation metrics to assess proposals.
+## how-it-manifests
+Grant programs within OpenHome may manifest as periodic funding contests or calls for applications, where developers and creators can pitch their ideas. The outcomes are often publicized, showcasing funded projects and their contributions to the ecosystem.
 
-## Connects to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +22,4 @@ The grant program manifests as a structured opportunity for developers, research
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-08-09T11:17:45Z -->
-```
+<!-- synthesized: 2026-08-10T11:39:14Z -->

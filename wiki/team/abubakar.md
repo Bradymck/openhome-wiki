@@ -1,26 +1,21 @@
-```markdown
----
+```yaml
 title: Abubakar
 entity_type: team
 status: stub
-last_updated: 2026-08-09
----
+last_updated: 2026-08-10
+```
 
 ### who-they-are
-Role at OpenHome: Unknown  
-Background: Unknown
+Role at OpenHome: Not specified. Background: Not provided.
 
 ### what-they-own
-Areas of the platform they lead: Unknown
+Areas of the platform they lead: Not specified.
 
 ### how-to-reach
-Discord handle: Unknown  
-X/Twitter: Unknown  
-Preferred contact: Unknown
+Contact information: Not provided.
 
 ## connects-to
-[[team/jesse]]  
+[[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-09T11:17:45Z -->
-```
+<!-- synthesized: 2026-08-10T11:39:14Z -->
