@@ -1,28 +1,26 @@
-```markdown
----
-title: Platform Dashboard
-entity_type: platform/dashboard
+```yaml
+title: platform/dashboard
+entity_type: platform
 status: stub
-last_updated: 2026-08-10
----
+last_updated: 2026-08-11
+```
 
-## what-it-is
-The Platform Dashboard is a management interface within the OpenHome ecosystem that allows users to monitor and control various aspects of their connected devices and services.
+# what-it-is
+The platform/dashboard serves as a central hub for users to manage and interact with various components of the OpenHome ecosystem. It provides a user-friendly interface that aggregates data and controls for different functionalities offered by the platform.
 
-## how-it-works
-The Platform Dashboard provides a user-friendly interface that aggregates information and controls for the devices connected to the OpenHome network. Users can view performance metrics, configure device settings, and manage integrations with other services from a centralized location. It serves as a visual representation of the system’s capabilities and connected components, making it easier for users to interact with various functionalities in the OpenHome environment.
+# how-it-works
+The dashboard enables users to visualize and manipulate their settings and preferences across different applications of OpenHome. Users can access metrics, control their devices, and customize configurations through intuitive navigation and interactive elements. While specific functionalities may vary based on user roles and connected devices, the dashboard is designed to enhance user engagement and streamline the experience.
 
-## current-status
+# current-status
 stub
 
 ## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+- [[platform/openhome]]
+- [[platform/speakers]]
+- [[platform/abilities]]
+- [[platform/voice-ai]]
+- [[platform/local-link]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-08-10T11:39:14Z -->
-```
+<!-- synthesized: 2026-08-11T11:35:00Z -->
