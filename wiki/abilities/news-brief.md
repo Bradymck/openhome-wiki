@@ -1,21 +1,21 @@
 ```yaml
-title: Abilities News Brief
+title: abilities/news-brief
 entity_type: abilities
 status: stub
-last_updated: 2026-08-11
+last_updated: 2026-08-12
 ```
 
 ## what-it-does
-The "News Brief" ability is designed to provide users with concise updates and summaries on current events and news topics.
+The news-brief ability provides users with curated updates and highlights, allowing them to stay informed about recent news easily.
 
 ## how-to-build
-Builder notes and API surface details are currently unavailable as the ability is still in a developmental phase.
+Details on building this ability are currently not available. Further documentation is needed to outline the API surface and construction methods.
 
 ## category
 utility
 
 ## built-by
-[[builder-page]]
+[[builder-name]]
 
 ## status
 stub
@@ -25,4 +25,4 @@ stub
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
 
-<!-- synthesized: 2026-08-11T11:35:00Z -->
+<!-- synthesized: 2026-08-12T11:36:23Z -->

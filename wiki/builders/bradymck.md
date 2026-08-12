@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: builders/bradymck
-entity_type: builders
-status: stub
-last_updated: 2026-08-11
+title: "builders/bradymck"
+entity_type: "builders"
+status: "stub"
+last_updated: 2026-08-12
 ---
 
 ### who-they-are
-Brady McK is an active community builder and a Devkit holder. They are engaged in developing and shipping various abilities within the tech ecosystem.
+bradymck is an active community member in the builders' ecosystem, engaged in developing innovative solutions and integrations within the platform.
 
 ### what-they-built
-Information regarding specific abilities or integrations that Brady McK has shipped is not currently available.
+Currently, there is no specific information available about the abilities or integrations that bradymck has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
 [[abilities]]
 
-<!-- synthesized: 2026-08-11T11:35:00Z -->
+<!-- synthesized: 2026-08-12T11:36:23Z -->
 ```

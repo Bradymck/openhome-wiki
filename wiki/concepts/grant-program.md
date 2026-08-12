@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-08-11
+last_updated: 2026-08-12
 ---
 
 ### definition
-A grant program is a method of providing financial support to initiatives or projects that align with specific goals or teachings of an organization, aimed at fostering innovation, research, and development.
+A grant program is a structured initiative that provides funding to support specific projects, organizations, or individuals in the OpenHome ecosystem. It typically involves an application process where applicants must outline their proposals and demonstrate how their projects align with the program's objectives.
 
 ### why-it-matters
-In the context of OpenHome, grant programs play a crucial role in supporting emerging ideas and projects that can enhance the platform's ecosystem. They facilitate community engagement by providing resources to developers, researchers, and content creators who can contribute towards the platform's growth and versatility.
+The grant program is vital to OpenHome as it fosters innovation and encourages community engagement. By providing financial support, it allows creators and developers to experiment with new ideas and technologies, ultimately enhancing the overall platform and its offerings.
 
 ### how-it-manifests
-The grant program may manifest as funding cycles or applications where individuals and organizations can submit proposals for financial support. Successful applicants can receive funding to develop new features, improve existing functionalities, or explore innovative uses of the platform. Details about the operational structure, eligibility, and application procedures can vary, but the overarching goal remains to bolster OpenHome through collaborative efforts.
+In OpenHome, the grant program may manifest through various channels such as calls for proposals, funding opportunities posted on the platform, and collaborative events or workshops designed to facilitate the application process and connect applicants with resources.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ The grant program may manifest as funding cycles or applications where individua
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-08-11T11:35:00Z -->
+<!-- synthesized: 2026-08-12T11:36:23Z -->
 ```

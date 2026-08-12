@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: Roadmap Planned Features
+title: Roadmap - Planned Features
 entity_type: roadmap/planned
-status: stub
-last_updated: 2026-08-11
+status: live
+last_updated: 2026-08-12
 ---
 
 ### what-it-is
-A comprehensive list of upcoming features and milestones planned for development.
+This document outlines the features and milestones that are planned for development, detailing what is in the pipeline for the upcoming updates.
 
 ### status
-stub
+The current status of the features is categorized as either shipped, in-progress, planned, or cancelled. Specific details regarding individual items are yet to be included as the roadmap evolves.
 
 ### why-it-matters
-This roadmap will guide users and developers alike by providing insights into future enhancements, the status of current projects, and important milestones that are set to release, fostering better collaboration and expectation management within the community.
+Understanding what is planned helps stakeholders, including users and developers, remain informed about the future direction and priorities of the project. This transparency fosters community engagement and prepares users for upcoming functionality improvements or changes.
 
 ### eta
-No specific timeline is currently available.
+There are no specific timelines or estimated arrival dates (ETA) provided at this phase in the planning process. As features progress through planning and into development, timelines will be updated accordingly.
 
 ## connects-to
-[[Discord]]
 [[features]]
 [[milestones]]
+[[development]]
+[[updates]]
 
-<!-- synthesized: 2026-08-11T11:35:00Z --> 
+<!-- synthesized: 2026-08-12T11:36:23Z -->
 ```
