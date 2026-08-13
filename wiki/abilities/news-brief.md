@@ -1,28 +1,30 @@
-```yaml
-title: abilities/news-brief
+```markdown
+---
+title: Abilities - News Brief
 entity_type: abilities
 status: stub
-last_updated: 2026-08-12
-```
+last_updated: 2026-08-13
+---
 
-## what-it-does
-The news-brief ability provides users with curated updates and highlights, allowing them to stay informed about recent news easily.
+### what-it-does
+The News Brief ability is designed to fetch and summarize news updates from various sources, providing users with concise information about current events.
 
-## how-to-build
-Details on building this ability are currently not available. Further documentation is needed to outline the API surface and construction methods.
+### how-to-build
+Details on building the News Brief ability are currently unspecified. Developers interested in creating similar abilities may look into existing APIs that aggregate news feeds for potential integration.
 
-## category
+### category
 utility
 
-## built-by
-[[builder-name]]
+### built-by
+[[abilities/news-brief]] (Builder page not yet created)
 
-## status
+### status
 stub
 
 ## connects-to
-[[abilities/aquaprime]]
-[[abilities/deadman-fm]]
 [[abilities/trivia]]
+[[abilities/deadman-fm]]
+[[abilities/aquaprime]]
 
-<!-- synthesized: 2026-08-12T11:36:23Z -->
+<!-- synthesized: 2026-08-13T11:36:21Z -->
+```
