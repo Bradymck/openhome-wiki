@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: Mathieu B.
-entity_type: builders/
+title: builders/mathieub
+entity_type: builder
 status: stub
-last_updated: 2026-08-13
+last_updated: 2026-08-14
 ---
 
 ### who-they-are
-Mathieu B. is an active member of the community, engaging as a builder and devkit holder. Details about his background or specific projects he is currently working on are not available.
+Mathieu B. is an active community member involved in building and developing within the ecosystem. Specific details about his background and the projects he is focusing on are currently unavailable.
 
 ### what-they-built
-Information regarding actual integrations or shipped abilities created by Mathieu B. is not currently available.
+Information regarding the specific abilities or integrations that Mathieu B. has shipped is not provided at this time.
 
 ### grant-status
-The grant status for Mathieu B. remains unclear as there is no information regarding any applications or grants received.
+none
 
 ### how-to-reach
-Contact details for Mathieu B. are not provided, including Discord handle, GitHub, or Twitter.
+Discord: Unknown  
+GitHub: Unknown  
+X: Unknown  
 
-## connects-to
-[[builders/]]
-[[devkits]]
-[[community-builders]]
+### connects-to
+[[builders]]
+[[abilities]]
 
-<!-- synthesized: 2026-08-13T11:36:21Z -->
+<!-- synthesized: 2026-08-14T11:34:02Z -->
 ```

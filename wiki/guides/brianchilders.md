@@ -1,22 +1,26 @@
 ```markdown
 ---
-title: Brianchilders
-entity_type: guides/
+title: guides/brianchilders
+entity_type: Community Guide
 status: stub
-last_updated: 2026-08-13
+last_updated: 2026-08-14
 ---
 
 ### who-they-are
-Brianchilders is known within the community but specific details about their background and expertise are currently unavailable. 
+Brian Childers is recognized as a power user within the community, contributing to the onboarding process for new members.
 
 ### what-they-help-with
-The specialties or areas of support provided by Brianchilders have not been outlined in the available data.
+Their expertise lies in guiding users through various functionalities, helping with hardware setups, APIs, and general troubleshooting within the platform.
 
 ### how-to-reach
-Brianchilders can be reached on Discord; however, their specific Discord handle is not provided in the available data.
+You can reach Brian Childers on Discord via their handle: brianchilders.
 
 ## connects-to
-[[guides/]]
+* [[guides]]
+* [[community-guides]]
+* [[onboarding]]
+* [[hardware-support]]
+* [[API-help]]
 
-<!-- synthesized: 2026-08-13T11:36:21Z -->
+<!-- synthesized: 2026-08-14T11:34:02Z --> 
 ```
