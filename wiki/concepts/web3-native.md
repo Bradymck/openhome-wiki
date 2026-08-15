@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: web3-native
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-08-14
+last_updated: 2026-08-15
 ---
 
 ### definition
-Web3-native refers to platforms, applications, and systems that are built on decentralized web technologies, emphasizing user empowerment, privacy, and ownership of data. It represents a shift from traditional web paradigms to models that prioritize community governance and user control over digital assets.
+Web3-native refers to applications, protocols, and platforms that are built on decentralized technologies, primarily using blockchain, to enable user control, peer-to-peer interactions, and interoperability. These applications typically prioritize transparency, privacy, and security while eliminating reliance on centralized entities.
 
 ### why-it-matters
-Web3-native concepts are crucial for OpenHome as they align with the platform's goals of decentralization and user autonomy. Implementing these principles fosters trust among users and enhances the overall collaborative experience within the ecosystem.
+The web3-native approach is crucial for OpenHome as it embodies the principles of decentralization, providing users with greater control over their data and interactions. This paradigm supports the vision of an open, community-driven ecosystem where users can participate in building and owning their digital experiences without the boundaries set by traditional, centralized models.
 
 ### how-it-manifests
-In the OpenHome platform, web3-native features may be reflected in decentralized identity management, peer-to-peer interactions, and the implementation of blockchain technologies that enable users to have direct ownership of their data. These functionalities support an ecosystem that encourages transparency and user-led governance.
+In the OpenHome platform, the web3-native concept manifests through its integration of decentralized identity solutions, peer-to-peer transactions, and community governance mechanisms. By leveraging blockchain technology, OpenHome enables users to manage their interactions and data safely and transparently, allowing for a more user-centric experience.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In the OpenHome platform, web3-native features may be reflected in decentralized
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-14T11:34:02Z -->
+<!-- synthesized: 2026-08-15T11:08:16Z -->
 ```

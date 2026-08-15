@@ -1,21 +1,20 @@
-```markdown
----
+```yaml
 title: Dead Man's Switch
 entity_type: concepts
 status: stub
-last_updated: 2026-08-14
----
+last_updated: 2026-08-15
+```
 
-### definition
-A dead man's switch is a safety mechanism that ensures certain actions are taken or certain conditions are met in the absence of active input from a user. This concept is often employed to automate tasks or services that require user engagement, providing a safeguard in situations where the user may become incapacitated or unavailable.
+## definition
+A dead man's switch is a mechanism or protocol that automatically triggers certain actions or notifications when the user is unable to perform them due to incapacitation, inaction, or death. It essentially acts as a safeguard to ensure that critical actions are taken in the absence of an individual.
 
-### why-it-matters
-In the context of OpenHome, a dead man's switch is crucial as it enhances user safety and security. It can serve as a mechanism to verify that systems are functioning as intended, thereby ensuring that they can perform essential tasks or alert designated individuals in emergency situations. This concept aligns with OpenHome’s goals of creating robust and user-friendly environments.
+## why-it-matters
+In the context of OpenHome, a dead man's switch is significant for enhancing security and user control. It allows users to set up contingencies that ensure their preferences and data are handled appropriately even if they are no longer able to manage their accounts or settings. This concept aligns with the focus on user autonomy and safety, which is pivotal in decentralized and user-driven environments like OpenHome.
 
-### how-it-manifests
-Currently, the specifics of how a dead man's switch manifests within the OpenHome platform are not detailed. However, it may appear in various applications, particularly those involving automation and user-dependent processes. For example, it could manage tasks like publishing updates, sending alerts, or executing backup procedures based on user engagement levels.
+## how-it-manifests
+The dead man's switch can appear in various features of the OpenHome platform, such as account management settings, automated notifications, and transaction approvals. Users might set it up to allow certain actions to be executed (e.g., asset transfer, account deletion) after a specified period of inactivity or lack of acknowledgment from the user.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +22,4 @@ Currently, the specifics of how a dead man's switch manifests within the OpenHom
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-14T11:34:02Z -->
-```
+<!-- synthesized: 2026-08-15T11:08:16Z -->

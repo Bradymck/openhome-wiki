@@ -1,25 +1,29 @@
-```yaml
-title: Illectric Co
+```markdown
+---
+title: illectric-co
 entity_type: builders
 status: stub
-last_updated: 2026-08-14
-```
+last_updated: 2026-08-15
+---
 
-## who-they-are
-Illectric Co is an active community builder involved in developing innovative solutions with a focus on enhancing user experiences.
+### who-they-are
+illectric-co is a community of builders focused on creating innovative solutions within their domain. They are part of a larger community of developers and users engaged in shipping abilities using various technologies.
 
-## what-they-built
-Details on specific shipped abilities or integrations are currently unavailable.
+### what-they-built
+Currently, specific abilities or integrations developed by illectric-co have not been documented or detailed.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-Discord handle, GitHub, and X information are currently not specified.
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
 [[builders]]
 [[community builders]]
-[[user roles]]
+[[devkit holders]]
 
-<!-- synthesized: 2026-08-14T11:34:02Z -->
+<!-- synthesized: 2026-08-15T11:08:16Z -->
+```
