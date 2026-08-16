@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: live
-last_updated: 2026-08-15
-```
+status: stub
+last_updated: 2026-08-16
+---
 
-## definition
-Abilities-as-apps is a conceptual framework in OpenHome that allows users to access various functionalities and services as discrete applications. This approach streamlines interactions and enables personalized experiences by allowing users to engage with specific capabilities on demand.
+### definition
+Abilities-as-apps refers to the approach of encapsulating specific functionalities or skills within applications in a modular fashion. This allows users to access and utilize various abilities across different contexts and devices without relying on a single monolithic application.
 
-## why-it-matters
-This concept is crucial for OpenHome as it empowers users to customize their interactions with the platform. By treating abilities as individual apps, users can tailor their environment to suit their needs and preferences, leading to increased satisfaction and efficiency in using the platform.
+### why-it-matters
+This concept is significant to OpenHome as it fosters flexibility and personalization for users. By enabling abilities to function as separate applications, individuals can tailor their experiences according to their preferences and needs, promoting engagement and usability in the OpenHome ecosystem.
 
-## how-it-manifests
-Abilities-as-apps are implemented within the OpenHome ecosystem by providing users with a selection of applications that represent different functionalities, such as home automation controls, personal assistants, and entertainment options. This manifestation allows for a modular and intuitive user experience, where users can easily add or remove abilities based on their requirements.
+### how-it-manifests
+While detailed examples are not currently available, the concept of abilities-as-apps is expected to emerge through various integrations within the OpenHome platform. This could manifest in the form of downloadable skills or services that users can easily add or remove as per their requirements.
 
-## connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
+### connects-to
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-15T11:08:16Z -->
+<!-- synthesized: 2026-08-16T11:08:37Z -->
+```

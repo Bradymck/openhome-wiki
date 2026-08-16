@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: Current Sprint Roadmap
-entity_type: roadmap
-status: stub
-last_updated: 2026-08-15
+title: Current Sprint Overview
+entity_type: roadmap/current-sprint
+status: live
+last_updated: 2026-08-16
 ---
 
 ### what-it-is
-Currently, there are no specific features or milestones described for the current sprint.
+The current sprint focuses on active developments aimed at enhancing user engagement within our platform.
 
 ### status
-In-progress
+in-progress
 
 ### why-it-matters
-Understanding the progress of the current sprint is crucial for stakeholders to grasp what is being prioritized and worked on. The insights into ongoing developments help manage expectations and align project goals.
+This sprint is crucial for improving interaction and retention among users, which directly impacts our growth and sustainability.
 
 ### eta
-Rough timeline is not available.
+Details on the estimated time of arrival for specific features have not been disclosed.
 
 ## connects-to
 [[roadmap]]
-[[sprint planning]]
-[[feature updates]]
+[[sprint-planning]]
+[[user-engagement]]
+[[feature-development]]
 
-<!-- synthesized: 2026-08-15T11:08:16Z -->
+<!-- synthesized: 2026-08-16T11:08:37Z -->
 ```
