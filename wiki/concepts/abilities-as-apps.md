@@ -2,26 +2,26 @@
 ---
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: stub
-last_updated: 2026-08-16
+status: live
+last_updated: 2026-08-17
 ---
 
 ### definition
-Abilities-as-apps refers to the approach of encapsulating specific functionalities or skills within applications in a modular fashion. This allows users to access and utilize various abilities across different contexts and devices without relying on a single monolithic application.
+Abilities-as-apps refer to the modular design paradigm within OpenHome, where individual capabilities or functions are encapsulated and delivered as separate applications. This approach enables users to select and utilize specific abilities tailored to their needs.
 
 ### why-it-matters
-This concept is significant to OpenHome as it fosters flexibility and personalization for users. By enabling abilities to function as separate applications, individuals can tailor their experiences according to their preferences and needs, promoting engagement and usability in the OpenHome ecosystem.
+This concept is pivotal to OpenHome as it enhances user flexibility and personalization. Users can combine different abilities to create a unique, customized experience that meets their specific requirements without being tied to a monolithic application.
 
 ### how-it-manifests
-While detailed examples are not currently available, the concept of abilities-as-apps is expected to emerge through various integrations within the OpenHome platform. This could manifest in the form of downloadable skills or services that users can easily add or remove as per their requirements.
+Abilities-as-apps manifest in OpenHome through a diverse ecosystem of applications that users can integrate and manage seamlessly. Each app provides distinct functionalities, allowing for easy addition, removal, and combination based on user preference and context.
 
-### connects-to
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
+## connects-to
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-16T11:08:37Z -->
+<!-- synthesized: 2026-08-17T11:13:38Z -->
 ```

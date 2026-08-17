@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Local First
+title: concepts/local-first
 entity_type: concepts
-status: live
-last_updated: 2026-08-16
+status: stub
+last_updated: 2026-08-17
 ---
 
 ## definition
-Local First is an approach to application design that prioritizes local data storage and processing on user devices. This means that applications can function without a constant internet connection, ensuring data accessibility and responsiveness.
+Local-first is a concept that emphasizes data and application functionality being primarily stored and processed on a user's local device rather than relying on cloud-based systems. This approach provides users with greater control, faster access, and enhanced privacy.
 
 ## why-it-matters
-This concept is crucial to OpenHome as it enhances user autonomy and data sovereignty. By allowing users to interact with their data locally, it reduces reliance on central servers, mitigates privacy concerns, and improves performance in situations with limited connectivity.
+The local-first approach is relevant to OpenHome as it aligns with the platform's principles of user autonomy and data ownership. By prioritizing local resources, OpenHome enhances user experience through improved response times and reduces dependence on internet connectivity.
 
 ## how-it-manifests
-In the OpenHome platform, Local First principles are embedded in various applications that allow users to manage their data on their devices. This includes functionalities such as offline access, local caching, and synchronization when connectivity is restored. The platform ensures that user experiences remain smooth and reliable regardless of their network status.
+In the OpenHome platform, local-first features may manifest through applications that can operate fully offline, synchronizing data seamlessly when connectivity is restored. This capability ensures that users can continue to interact with their homes and environments without disruption, fostering a more resilient and responsive home automation experience.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In the OpenHome platform, Local First principles are embedded in various applica
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-16T11:08:37Z -->
+<!-- synthesized: 2026-08-17T11:13:38Z -->
 ```

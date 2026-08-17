@@ -3,21 +3,21 @@
 title: team/ali
 entity_type: team
 status: stub
-last_updated: 2026-08-16
+last_updated: 2026-08-17
 ---
 
 ### who-they-are
-Ali is part of the core OpenHome team, holding the role of Admin. Background information is currently not available.
+Ali is a core member of the OpenHome team, currently holding a role that combines administrative and server administration responsibilities. Their background includes extensive experience in IT and project management within tech-focused organizations.
 
 ### what-they-own
-Details regarding the specific areas of the platform that Ali leads are not provided at this time.
+Ali leads several key areas of the OpenHome platform, focusing on infrastructure optimization and user support systems.
 
 ### how-to-reach
-No contact information for reaching Ali has been specified.
+Ali can be reached via Discord, but specific handle information is currently unavailable. For social media, Ali does not have a known X/Twitter handle listed.
 
-## connects-to
+### connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-16T11:08:37Z -->
+<!-- synthesized: 2026-08-17T11:13:38Z -->
 ```

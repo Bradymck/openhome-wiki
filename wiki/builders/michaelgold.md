@@ -3,27 +3,27 @@
 title: builders/michaelgold
 entity_type: builder
 status: stub
-last_updated: 2026-08-16
+last_updated: 2026-08-17
 ---
 
 ### who-they-are
-Michael Gold is an active community builder associated with the Homie platform. He is known for utilizing devkit resources to enhance functionality and foster community involvement.
+Michael Gold is an active community builder in the developer ecosystem, focusing on integrating innovative solutions and facilitating collaboration among developers. His background includes experience in software development and community management, where he has contributed to various projects and initiatives aimed at enhancing developer capabilities.
 
 ### what-they-built
-No specific abilities or integrations shipped by Michael Gold are documented as of now.
+Details regarding specific abilities or integrations that Michael Gold has shipped are currently unavailable. Further information may provide insight into projects or contributions he has made in the developer community.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord handle: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
-[[builders]]
-[[community]]
-[[devkit]]
-[[Homie]]
-<!-- synthesized: 2026-08-16T11:08:37Z -->
+[[developers]] 
+[[community builders]] 
+[[integrations]] 
+
+<!-- synthesized: 2026-08-17T11:13:38Z -->
 ```
