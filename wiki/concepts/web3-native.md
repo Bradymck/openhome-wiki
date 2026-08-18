@@ -1,27 +1,26 @@
 ```markdown
 ---
 title: Web3 Native
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 ---
 
-### definition
-Web3 native refers to applications and platforms built on decentralized protocols that leverage blockchain technology to create a more open and user-centric internet. This concept emphasizes user ownership, control over data, and the ability to interact directly without intermediaries.
+## definition
+Web3 Native refers to applications and services that are built using decentralized technologies and protocols specific to Web3, which represents the next generation of the internet focused on decentralized ownership, user sovereignty, and blockchain integration.
 
-### why-it-matters
-Web3 native systems are significant to OpenHome as they align with the mission of enabling decentralization and empowering users. By integrating web3 principles, OpenHome aims to enhance privacy, security, and user agency, allowing individuals to control their digital interactions and assets.
+## why-it-matters
+The importance of Web3 Native applications in OpenHome lies in their ability to empower users with ownership of their data and digital identities, fostering a more equitable and user-centric platform. This aligns with the overall vision of OpenHome to create an open and decentralized ecosystem.
 
-### how-it-manifests
-While specific implementations of web3 native principles within OpenHome are not detailed, they are expected to influence various aspects of the platform, including user identity management, data security, and transaction processes, ensuring that users retain ownership of their information and interactions.
+## how-it-manifests
+In OpenHome, the Web3 Native concept can be observed through features that enable users to interact with decentralized applications (dApps), manage their digital assets, and utilize smart contracts that enforce rules without the need for centralized intermediaries. This enhances user autonomy and security.
 
-### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
-
-<!-- synthesized: 2026-08-17T11:13:38Z -->
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+<!-- synthesized: 2026-08-18T11:13:37Z -->
 ```

@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: Team Kaeden
+title: team/kaeden
 entity_type: team
 status: stub
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 ---
 
 ### who-they-are
-Bailey Kaeden is a key member of the OpenHome team, contributing in an administrative capacity. Information regarding their specific background is currently unavailable.
+Role at OpenHome: Not specified in the source material.
 
 ### what-they-own
-Kaeden leads various operational aspects within the OpenHome platform, although specific areas of ownership have not been detailed.
+Areas of the platform they lead: Not specified in the source material.
 
 ### how-to-reach
-Contact information for Kaeden is not yet available.
+Contact information: Not specified in the source material.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-17T11:13:38Z -->
+<!-- synthesized: 2026-08-18T11:13:37Z -->
 ```

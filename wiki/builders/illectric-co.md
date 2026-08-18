@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: Illectric Co
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 ---
 
 ### who-they-are
-Illectric Co is a community of builders focused on developing innovative solutions in the tech space. They prioritize collaboration and the sharing of ideas among developers and users.
+Illectric Co is a community of builders focusing on innovative projects within the development kit ecosystem. They are actively engaged in shipping capabilities that enhance user experiences.
 
 ### what-they-built
-Details on specific products or tools that Illectric Co may have shipped are currently unavailable.
+As of now, specific shipped abilities or integrations from Illectric Co have not been detailed.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Not available  
-GitHub: Not available  
-X: Not available  
+- Discord: Not provided
+- GitHub: Not provided
+- X (formerly Twitter): Not provided
 
 ## connects-to
-[[builders/]]
+[[wikilink-to-abilities]]
 
-<!-- synthesized: 2026-08-17T11:13:38Z -->
+<!-- synthesized: 2026-08-18T11:13:37Z -->
 ```

@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: jagatfx
-entity_type: builders
+title: builders/jagatfx
+entity_type: builder
 status: stub
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 ---
 
 ### who-they-are
-Jagatfx is a community builder and developer focused on creating innovative solutions within the blockchain space. They are active participants in the development community, leveraging their expertise to ship abilities that enhance user engagement and functionality.
+Jagatfx is a community builder and active participant in the development ecosystem, focusing on creating and shipping tools and integrations for developers. 
 
 ### what-they-built
-Currently, there are no specific details available about the abilities or integrations that Jagatfx has shipped. Further information may be required to provide a complete overview of their contributions.
+As of now, specific abilities or integrations that jagatfx has built have not been detailed.
 
 ### grant-status
-none
+Unknown
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
 [[abilities]]
-[[community]]
-[[blockchain]]
-<!-- synthesized: 2026-08-17T11:13:38Z -->
+[[integrations]]
+
+<!-- synthesized: 2026-08-18T11:13:37Z -->
 ```

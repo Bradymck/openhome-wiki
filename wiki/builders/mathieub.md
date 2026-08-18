@@ -1,25 +1,27 @@
 ```markdown
 ---
-title: builders/mathieub
+title: Mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-08-17
+last_updated: 2026-08-18
 ---
 
 ### who-they-are
-Mathieu B. is a member of the community who holds development kit abilities. Further details about their background or specific projects they are working on are not available.
+Mathieub is an active member of the community associated with building and enhancing capabilities within the ecosystem. Details about their background and specific projects remain limited.
 
 ### what-they-built
-Currently, there is no information on specific abilities or integrations that Mathieu B. has shipped.
+Information regarding the specific abilities or integrations Mathieub has shipped is currently unavailable.
 
 ### grant-status
-none
+Status of grant applications or received grants for Mathieub is not disclosed.
 
 ### how-to-reach
-Currently, no contact information such as Discord handle, GitHub, or X (formerly Twitter) has been provided.
+Connecting with Mathieub can be done through the following channels: Discord handle, GitHub, and social platforms (detailed handles not provided).
 
 ## connects-to
-[[abilities]]
+[[builders]]
+[[community]]
+[[devkits]]
 
-<!-- synthesized: 2026-08-17T11:13:38Z -->
+<!-- synthesized: 2026-08-18T11:13:37Z -->
 ```
