@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Spatial Intelligence  
-entity_type: concepts  
-status: stub  
-last_updated: 2026-08-18  
+title: Spatial Intelligence
+entity_type: concepts
+status: stub
+last_updated: 2026-08-19
 ---
 
-### definition
-Spatial intelligence refers to the ability to visualize, manipulate, and interact with spatial relationships in one's environment. It encompasses skills such as understanding maps, navigating spaces, and recognizing the orientation of objects.
+## definition
+Spatial intelligence refers to the ability to visualize and manipulate spatial concepts, understanding how different objects and spaces interact with each other.
 
-### why-it-matters
-In the context of OpenHome, spatial intelligence plays a crucial role in enhancing user interactions with physical environments. Leveraging spatial awareness allows users to engage more intuitively with the interface, thereby improving user experience and accessibility within various home settings.
+## why-it-matters
+Spatial intelligence is crucial for enhancing user experience in OpenHome, as it allows for more intuitive navigation and interaction within spatial environments. Improving spatial awareness can lead to better user engagement and satisfaction.
 
-### how-it-manifests
-Spatial intelligence may manifest in OpenHome through features that utilize augmented reality (AR) or virtual reality (VR) to create immersive environments. For instance, users might visualize smart home layouts, navigate through rooms using spatial mapping, or interact with digital objects as if they existed in the real space.
+## how-it-manifests
+While the specific implementations of spatial intelligence within the OpenHome platform are yet to be detailed, it is expected to influence features such as navigation, layout design, and augmented reality interactions that enhance the user's spatial comprehension.
 
-### connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/grant-program]]
+## connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-08-18T11:13:37Z -->
+<!-- synthesized: 2026-08-19T11:12:50Z -->  
 ```

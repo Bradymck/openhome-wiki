@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: "Abilities as Apps"
+title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-08-18
+last_updated: 2026-08-19
 ---
 
-### definition
-Abilities as Apps refers to the framework in OpenHome that allows various functionalities—such as skills, tasks, or utilities—to be encapsulated as individual applications. This modular approach enables users to easily access and integrate specific capabilities as needed.
+## definition
+Abilities-as-apps refer to the modular approach of integrating specific functionalities or capabilities into the OpenHome platform, allowing users to access and utilize a variety of features in a seamless way, akin to using applications on a mobile device.
 
-### why-it-matters
-This concept is significant to OpenHome because it promotes flexibility and personalization. Users can choose and install only the abilities they require, fostering an environment that caters to individual preferences and enhances user experience.
+## why-it-matters
+This concept is significant to OpenHome because it empowers users to choose and employ only the abilities they need, enhancing personalization and flexibility. By treating abilities as discrete applications, the platform can evolve rapidly, enabling developers to create and share new functionalities without overhauling the existing ecosystem.
 
-### how-it-manifests
-Abilities as Apps are integrated throughout the OpenHome platform, seen in features where users can download, manage, and utilize various applications tailored to specific tasks, such as smart home management, productivity tools, or entertainment options.
+## how-it-manifests
+In practice, abilities-as-apps are showcased within the OpenHome platform through an app store-like interface, where users can browse, install, and manage different abilities that cater to their specific requirements. This modular architecture supports ease of updates and integration of new features by various developers.
 
-### connects-to
+## connects-to
 [[concepts/voice-first]]  
 [[concepts/local-first]]  
 [[concepts/web3-native]]  
@@ -23,5 +23,5 @@ Abilities as Apps are integrated throughout the OpenHome platform, seen in featu
 [[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]  
 
-<!-- synthesized: 2026-08-18T11:13:37Z -->
+<!-- synthesized: 2026-08-19T11:12:50Z -->
 ```

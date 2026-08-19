@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: builders/jkoppel
-entity_type: builder
+title: jkoppel
+entity_type: builders
 status: stub
-last_updated: 2026-08-18
+last_updated: 2026-08-19
 ---
 
 ### who-they-are
-Jack Koppel is a community builder engaged in developing innovative solutions within the Homie ecosystem. His focus is on enhancing user experiences and expanding the capabilities of the developer kit.
+jkoppel is a community builder actively participating in the Homie ecosystem. Their focus is on creating innovative solutions that enhance user interaction and functionalities within the platform.
 
 ### what-they-built
-Details about specific abilities or integrations that Jack Koppel has shipped are currently not available.
+Currently, there is no publicly available information on specific abilities or integrations that jkoppel has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: [Not specified]
+- GitHub: [Not specified]
+- X: [Not specified]
 
 ## connects-to
-[[wikilinks]]
-
-<!-- synthesized: 2026-08-18T11:13:37Z -->
+[[abilities]]
+<!-- synthesized: 2026-08-19T11:12:50Z -->
 ```

@@ -1,27 +1,25 @@
-```markdown
----
-title: Current Sprint Roadmap
+```yaml
+title: Roadmap Current Sprint
 entity_type: roadmap
 status: stub
-last_updated: 2026-08-18
----
+last_updated: 2026-08-19
+```
 
-### what-it-is
-The current sprint roadmap outlines the features and milestones that are in development, with specific focus on the phases of work being executed in the current sprint.
+## what-it-is
+Details regarding the current sprint in the roadmap are not available.
 
-### status
-stub
+## status
+Status of features or milestones in the current sprint is currently untracked; no relevant information could be retrieved.
 
-### why-it-matters
-This roadmap serves as a guide to understand what features are being worked on, their progress, and future developments, ensuring that stakeholders are aligned on priorities and expectations.
+## why-it-matters
+Understanding the current sprint is crucial for stakeholders to assess ongoing development and track the progress of features and milestones.
 
-### eta
-Not available at this time.
+## eta
+No estimated timelines are available at this time.
 
 ## connects-to
-[[roadmap]]
-[[features]]
-[[milestones]]
+[[roadmap]]  
+[[features]]  
+[[milestones]]  
 
-<!-- synthesized: 2026-08-18T11:13:37Z -->
-```
+<!-- synthesized: 2026-08-19T11:12:50Z -->

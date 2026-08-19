@@ -1,22 +1,24 @@
-```yaml
+```markdown
+---
 title: guides/brianchilders
 entity_type: Community Guide
 status: stub
-last_updated: 2026-08-18
-```
+last_updated: 2026-08-19
+---
 
-## who-they-are
-BrianChilders is a community guide known for their expertise in various onboarding processes for users within the community. Detailed background information is currently unavailable.
+### who-they-are
+Brian Childers is a power user recognized for their contributions and expertise within the community. Specific details about their background are currently limited.
 
-## what-they-help-with
-BrianChilders specializes in assisting new members by providing guidance on navigating community resources and tools. Their specific areas of expertise, including abilities or hardware, are not detailed at this time.
+### what-they-help-with
+Brian specializes in providing assistance with an array of community-related queries and onboarding processes, particularly helping new users navigate the platform effectively. Their expertise encompasses various tools and resources available to community members.
 
-## how-to-reach
-Discord Handle: Not specified.
+### how-to-reach
+Discord handle: Not provided.
 
 ## connects-to
-[[guides]]
-[[community]]
-[[onboarding]]
-
-<!-- synthesized: 2026-08-18T11:13:37Z -->
+[[Community Guides]]
+[[Onboarding Resources]]
+[[Power Users]]
+[[User Assistance]]
+<!-- synthesized: 2026-08-19T11:12:50Z -->
+```

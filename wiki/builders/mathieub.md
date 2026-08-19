@@ -3,25 +3,25 @@
 title: Mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-08-18
+last_updated: 2026-08-19
 ---
 
 ### who-they-are
-Mathieub is an active member of the community associated with building and enhancing capabilities within the ecosystem. Details about their background and specific projects remain limited.
+Mathieub is an active member of the community, involved in building software and capabilities as part of the development toolkit ecosystem.
 
 ### what-they-built
-Information regarding the specific abilities or integrations Mathieub has shipped is currently unavailable.
+Details regarding the specific abilities or integrations that Mathieub has shipped have not been documented.
 
 ### grant-status
-Status of grant applications or received grants for Mathieub is not disclosed.
+none
 
 ### how-to-reach
-Connecting with Mathieub can be done through the following channels: Discord handle, GitHub, and social platforms (detailed handles not provided).
+- Discord: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
-[[builders]]
-[[community]]
-[[devkits]]
+[[abilities]]
 
-<!-- synthesized: 2026-08-18T11:13:37Z -->
+<!-- synthesized: 2026-08-19T11:12:50Z -->
 ```
