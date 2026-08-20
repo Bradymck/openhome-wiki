@@ -1,23 +1,24 @@
 ```markdown
 ---
-title: discomelon
-entity_type: guides
+title: Discomelon Community Guide
+entity_type: guides/
 status: stub
-last_updated: 2026-08-19
+last_updated: 2026-08-20
 ---
 
 ### who-they-are
-No specific background or expertise information is available for Discomelon.
+Discomelon is recognized within the community, but specific background and expertise details are currently unavailable.
 
 ### what-they-help-with
-Discomelon’s specialty or area of help is not detailed in the available data.
+Details regarding Discomelon's specialty, abilities, hardware, and APIs have not been provided yet.
 
 ### how-to-reach
-Contact details for Discomelon are not provided.
+The Discord handle for Discomelon is not available.
 
 ## connects-to
-[[guides]]
-[[Discord]]
-[[community]]
-<!-- synthesized: 2026-08-19T11:12:50Z -->
+[[guides/]]
+[[community-guides/]]
+[[Discord/]]
+
+<!-- synthesized: 2026-08-20T11:14:51Z -->
 ```

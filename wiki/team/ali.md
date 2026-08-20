@@ -1,23 +1,26 @@
 ```markdown
 ---
-title: team/ali
+title: "Ali"
 entity_type: team
 status: stub
-last_updated: 2026-08-19
+last_updated: 2026-08-20
 ---
 
 ### who-they-are
-Ali is a core team member at OpenHome with a focus on administration and server management. Information on Ali's background is currently not available.
+Role at OpenHome: Unknown  
+Background: Unknown
 
 ### what-they-own
-Ali is responsible for overseeing specific areas of the OpenHome platform, though details about these areas have not been disclosed.
+Areas of the platform they lead: Unknown
 
 ### how-to-reach
-Ali's preferred contact methods and social media handles are not listed at this time.
+Discord handle: Unknown  
+X/Twitter: Unknown  
+Preferred contact: Unknown
 
 ## connects-to
-[[team/jesse]]
+[[team/jesse]]  
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-19T11:12:50Z -->
+<!-- synthesized: 2026-08-20T11:14:51Z -->
 ```

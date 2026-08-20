@@ -1,26 +1,21 @@
-```markdown
----
+```yaml
 title: Peej
 entity_type: team
 status: stub
-last_updated: 2026-08-19
----
+last_updated: 2026-08-20
+```
 
-### who-they-are
-Role at OpenHome: Not specified  
-Background: Not specified
+## who-they-are
+Role at OpenHome is currently unknown. No background information is available.
 
-### what-they-own
-Areas of the platform they lead: Not specified
+## what-they-own
+Areas of the platform they lead are currently unknown.
 
-### how-to-reach
-Discord handle: Not specified  
-X/Twitter: Not specified  
-Preferred contact: Not specified
+## how-to-reach
+Contact details such as Discord handle or X/Twitter are currently unknown.
 
 ## connects-to
-[[team/jesse]]  
+[[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-19T11:12:50Z -->
-```
+<!-- synthesized: 2026-08-20T11:14:51Z -->

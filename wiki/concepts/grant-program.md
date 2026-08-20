@@ -1,25 +1,25 @@
-```markdown
----
+```yaml
 title: Grant Program
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-08-19
----
-
-### definition
-A grant program is a structured initiative that provides funding to project developers, organizations, or individuals for specific purposes, typically to support innovation, research, or development within a certain framework or community.
-
-### why-it-matters
-Grant programs are essential for fostering growth and encouraging experimentation within the OpenHome ecosystem. They enable participants to explore new ideas, drive innovation, and create solutions that align with the platform's goals, benefiting the wider community.
-
-### how-it-manifests
-While specific details of the grant program's implementation within OpenHome are not provided, such programs typically manifest as application opportunities for funding, guidelines for project proposals, and criteria for selecting recipients. This initiative supports grassroots development and nurtures projects that contribute to the ecosystem.
-
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-
-<!-- synthesized: 2026-08-19T11:12:50Z -->
+last_updated: 2026-08-20
 ```
+
+# Definition
+A grant program is a funding initiative that provides financial support to individuals, organizations, or projects that align with specific goals or criteria set by a funding body. 
+
+# Why it Matters
+In the context of OpenHome, the grant program is crucial for fostering innovation and supporting projects that enhance the platform's capabilities. It allows communities and developers to access necessary resources to contribute to the ecosystem, thereby promoting development and improvement of OpenHome functionalities.
+
+# How it Manifests
+The grant program appears within OpenHome as a structured initiative that allocates funds for various projects. This may include promoting research, developing new applications, or enhancing existing features that resonate with OpenHome's vision and mission. Specific applications and call-for-proposals may be announced periodically to source innovative ideas from the community.
+
+## Connects to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+
+<!-- synthesized: 2026-08-20T11:14:51Z -->
