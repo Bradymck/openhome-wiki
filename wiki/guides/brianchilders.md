@@ -1,23 +1,24 @@
 ```markdown
 ---
-title: guides/brianchilders
-entity_type: Community Guide
+title: brianchilders
+entity_type: guides/
 status: stub
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 ---
 
 ### who-they-are
-brianchilders is a power user within the community, recognized for their dedication to helping onboard new users.
+Information about the background and expertise of brianchilders is currently unavailable.
 
 ### what-they-help-with
-brianchilders specializes in providing assistance with community-related queries, offering guidance on best practices and tools available to users.
+Details regarding what brianchilders specializes in are not provided.
 
 ### how-to-reach
-You can reach brianchilders on Discord.
+The Discord handle for brianchilders has not been supplied.
 
 ## connects-to
-[[guides]]
-[[community]]
-[[onboarding]]
-<!-- synthesized: 2026-08-20T11:14:51Z -->
+[[guides/]]
+[[guides/]]
+[[community guides/]]
+[[Discord]]
+<!-- synthesized: 2026-08-21T11:14:35Z -->
 ```

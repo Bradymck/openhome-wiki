@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: OpenHome Platform
+title: OpenHome
 entity_type: platform
-status: stub
-last_updated: 2026-08-20
+status: live
+last_updated: 2026-08-21
 ---
 
-### what-it-is
-OpenHome is a software platform designed to enable seamless interoperability among various connected devices, particularly in home automation and audio streaming. It provides protocols and services that facilitate communication and functionality across different manufacturers' products.
+## what-it-is
+OpenHome is an integrated platform designed for smart home audio systems, allowing different devices and applications to work together seamlessly to create a unified audio experience.
 
-### how-it-works
-The OpenHome platform integrates with a range of devices by utilizing standard protocols for data exchange and control. It focuses on enhancing user experience by ensuring that different devices, such as speakers and smart home appliances, can communicate with one another without compatibility issues. The architecture typically includes a hierarchy of services that manage device discovery, control, and data handling, allowing users to operate multiple devices from a unified interface.
+## how-it-works
+OpenHome operates by utilizing a set of protocols and standards that ensure interoperability between various audio devices, such as speakers, streamers, and control interfaces. It provides a framework that facilitates the sharing of audio content across a network, enabling users to manage and control their audio devices from a single interface. The platform supports multiple audio formats and provides features like multi-room audio playback and device discovery, ensuring that all compatible devices can communicate effectively.
 
-### current-status
-stub
+## current-status
+live
 
 ## connects-to
 [[platform/speakers]]
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-08-20T11:14:51Z -->
+<!-- synthesized: 2026-08-21T11:14:35Z -->
 ```

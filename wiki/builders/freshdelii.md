@@ -1,25 +1,27 @@
-```yaml
-title: freshdelii
+```markdown
+---
+title: builders/freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-08-20
-```
+last_updated: 2026-08-21
+---
 
-## who-they-are
-Freshdelii is a community of builders focused on creating innovative solutions within the developer ecosystem. They are engaged in developing and shipping unique capabilities to enhance user experiences.
+### who-they-are
+Freshdelii is an active builder in the community, focusing on developing and shipping various abilities.
 
-## what-they-built
-Information regarding specific abilities or integrations that Freshdelii has shipped is currently unavailable.
+### what-they-built
+Information regarding specific abilities or integrations built by Freshdelii is currently not available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
+### how-to-reach
 Discord handle: Not specified  
 GitHub: Not specified  
-X (formerly Twitter): Not specified  
+X: Not specified  
 
 ## connects-to
-[[builders]]
+[[abilities]]
 
-<!-- synthesized: 2026-08-20T11:14:51Z -->
+<!-- synthesized: 2026-08-21T11:14:35Z -->
+```

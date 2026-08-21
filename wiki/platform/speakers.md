@@ -1,17 +1,17 @@
 ```yaml
-title: platform/speakers
+title: Speakers
 entity_type: platform
 status: stub
-last_updated: 2026-08-20
+last_updated: 2026-08-21
 ```
 
-## what-it-is
-The speakers component of the OpenHome platform refers to the networked audio devices that allow users to play and control music and audio content seamlessly within a home environment.
+### what-it-is
+Speakers are devices designed to reproduce sound, often utilized in conjunction with various audio sources within a platform.
 
-## how-it-works
-While specific technical details on how the speakers function were not provided, in a general sense, OpenHome speakers are integrated into a larger ecosystem where they can receive and transmit audio data over a local network. This allows them to interact with other devices, such as controllers and servers, providing a synchronized listening experience across multiple locations.
+### how-it-works
+Speakers typically receive audio signals from connected devices or systems, converting these electronic signals into audible sound through a series of mechanical movements in the speaker's diaphragm. Speakers may connect to various audio sources, including but not limited to computers, mobile devices, and smart home systems. 
 
-## current-status
+### current-status
 stub
 
 ## connects-to
@@ -23,4 +23,4 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-08-20T11:14:51Z -->
+<!-- synthesized: 2026-08-21T11:14:35Z -->
