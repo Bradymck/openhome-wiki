@@ -3,14 +3,14 @@
 title: platform/live-editor
 entity_type: platform
 status: stub
-last_updated: 2026-08-21
+last_updated: 2026-08-22
 ---
 
 ### what-it-is
-The live editor is a feature within the OpenHome platform that enables real-time editing and configuration of devices and settings in a user-friendly interface.
+The platform/live-editor is a component of the OpenHome ecosystem that allows users to edit and customize their experiences in real-time.
 
 ### how-it-works
-The live editor allows users to interactively modify settings and layouts for various connected devices within the OpenHome ecosystem. It is designed to provide a seamless experience for managing configurations, making it easier to customize the functionality of speakers, automation rules, and more without the need for extensive technical knowledge.
+The live-editor serves as an interactive interface where users can modify settings and configurations for their OpenHome-enabled devices. It is designed to be user-friendly, enabling quick changes without the need for extensive technical knowledge.
 
 ### current-status
 stub
@@ -24,5 +24,5 @@ stub
 [[platform/local-link]]
 [[platform/marketplace]]
 
-<!-- synthesized: 2026-08-21T11:14:35Z --> 
+<!-- synthesized: 2026-08-22T11:09:21Z -->
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: platform/abilities
-entity_type: documentation
+title: Platform Abilities
+entity_type: platform/abilities
 status: stub
-last_updated: 2026-08-21
+last_updated: 2026-08-22
 ---
 
 ### what-it-is
-OpenHome abilities refer to the various functionalities and features that enhance user interaction and device performance within the OpenHome ecosystem.
+Platform abilities refer to the features and functionalities provided by the OpenHome platform that enhance its usability and interactivity across different devices and applications.
 
 ### how-it-works
-While specific details on how OpenHome abilities function are limited, they generally encompass a range of capabilities that can be integrated into various devices, allowing for a more enriched user experience. These abilities may include control over media playback, environmental settings, and compatibility with voice assistants among other functionalities.
+The abilities within the OpenHome platform are designed to facilitate seamless integration and communication between various devices and services. Users can leverage these abilities to customize their experience, enabling capabilities such as voice assistance, device control, and content sharing.
 
 ### current-status
 stub
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-08-21T11:14:35Z -->
+<!-- synthesized: 2026-08-22T11:09:21Z --> 
 ```

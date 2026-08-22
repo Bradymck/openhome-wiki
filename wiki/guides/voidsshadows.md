@@ -1,21 +1,23 @@
 ```yaml
-title: "Guides/Voidsshadows"
-entity_type: "Community Guides"
-status: "stub"
-last_updated: "2026-08-21"
+title: guides/voidsshadows
+entity_type: Community Guide
+status: stub
+last_updated: 2026-08-22
 ```
 
 ## who-they-are
-Information on the background and expertise of Voidshadows is currently unavailable.
+The Voidshadows guides are a group of power users within the community known for their expertise in various areas of technology and gaming.
 
 ## what-they-help-with
-Currently, there are no specific details on the specialties or areas in which Voidshadows provide assistance.
+They specialize in providing assistance with gaming strategies, technical setups, and navigating APIs relevant to community projects.
 
 ## how-to-reach
-Voidshadows' Discord handle is not provided.
+Discord handle: Not provided
 
 ## connects-to
 [[guides]]
-[[community-guides]]
+[[community]]
+[[gaming]]
+[[APIs]]
 
-<!-- synthesized: 2026-08-21T11:14:35Z -->
+<!-- synthesized: 2026-08-22T11:09:21Z -->

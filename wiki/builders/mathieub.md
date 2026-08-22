@@ -1,29 +1,26 @@
 ```markdown
 ---
 title: builders/mathieub
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-08-21
+last_updated: 2026-08-22
 ---
 
 ### who-they-are
-Mathieu B. is an active member of the builders community, engaging in the development of various integrations and enhancements within the ecosystem.
+Mathieub is an active community builder associated with the Homie project. They are a devkit holder and are engaged in creating tools or capabilities that enhance the community experience.
 
 ### what-they-built
-Detailed information about specific abilities or integrations that Mathieu B. has shipped is currently unavailable. 
+Information on specific shipped abilities or integrations has not been provided.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-Discord handle: Not provided  
-GitHub: Not provided  
-X: Not provided  
+Currently, specific contact details such as a Discord handle, GitHub, or X (Twitter) account are not available.
 
 ## connects-to
-[[abilities]]
-[[community]]
-[[integrations]]
+[[builders]]
+[[Homie]]
 
-<!-- synthesized: 2026-08-21T11:14:35Z -->
+<!-- synthesized: 2026-08-22T11:09:21Z -->
 ```

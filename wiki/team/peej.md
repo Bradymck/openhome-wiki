@@ -3,21 +3,21 @@
 title: team/peej
 entity_type: team
 status: stub
-last_updated: 2026-08-21
+last_updated: 2026-08-22
 ---
 
 ### who-they-are
-Peej is a member of the OpenHome team. Further details about their specific role and background are currently not available.
+Peej is a valued member of the OpenHome team, contributing expertise in various capacities, although specific role details are currently unavailable.
 
 ### what-they-own
-Peej's areas of ownership within the OpenHome platform have not been specified.
+Details regarding areas of the platform that Peej leads are not available at this time.
 
 ### how-to-reach
-Contact details for Peej have not been provided.
+Currently, there is no information provided regarding how to reach Peej through Discord or other platforms.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-21T11:14:35Z -->
+<!-- synthesized: 2026-08-22T11:09:21Z -->
 ```

@@ -1,29 +1,25 @@
-```markdown
----
+```yaml
 title: builders/jkoppel
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-08-21
----
+last_updated: 2026-08-22
+```
 
 ## who-they-are
-jkoppel is a community builder involved in the Homie initiative. They hold development kit abilities and are actively participating in the growth of the ecosystem.
+jkoppel is a community builder engaged in developing capabilities within the Homie ecosystem, leveraging their expertise as a devkit holder.
 
 ## what-they-built
-No specific details on shipped abilities or integrations have been recorded yet.
+Information on specific shipped abilities or integrations by jkoppel is not currently available.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+Discord: Not provided  
+GitHub: Not provided  
+X: Not provided  
 
 ## connects-to
 [[Homie]]
-[[Community Builders]]
-[[Development Kit]]
 
-<!-- synthesized: 2026-08-21T11:14:35Z -->
-```
+<!-- synthesized: 2026-08-22T11:09:21Z -->

@@ -3,17 +3,17 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-08-21
+last_updated: 2026-08-22
 ---
 
 ### definition
-Abilities-as-apps refers to the concept of treating individual capabilities or features as independent applications within the OpenHome ecosystem. This allows users to access and utilize various functionalities seamlessly across the platform.
+Abilities-as-apps refer to the framework or model in which various capabilities or functionalities are encapsulated as individual applications within the OpenHome environment. This structure allows for modular usage of different abilities tailored to user needs.
 
 ### why-it-matters
-This approach enhances flexibility and user experience, as it allows for the customization and modularity of services. Users can choose and combine different abilities according to their needs, promoting a more personalized and efficient interaction with the OpenHome environment.
+This concept is crucial to OpenHome as it promotes flexibility and customization. Users can select and deploy specific abilities relevant to their requirements, enhancing the overall user experience and ensuring that the platform remains dynamic and adaptable to diverse needs.
 
 ### how-it-manifests
-Abilities-as-apps can be observed in the OpenHome platform through distinct functionalities that users can activate or interact with as separate applications. Each ability can operate independently while still contributing to the overall integrated experience of the platform.
+Abilities-as-apps are likely to be integrated within the OpenHome platform as standalone applications that users can activate, configure, and modify. This modular approach encourages users to explore and utilize various functionalities without the encumbrance of a monolithic application structure.
 
 ### connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ Abilities-as-apps can be observed in the OpenHome platform through distinct func
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-21T11:14:35Z -->
+<!-- synthesized: 2026-08-22T11:09:21Z -->
 ```
