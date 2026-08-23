@@ -3,28 +3,28 @@
 title: Trivia
 entity_type: abilities
 status: stub
-last_updated: 2026-08-22
+last_updated: 2026-08-23
 ---
 
 ### what-it-does
-The Trivia ability provides users with engaging questions and answers, typically used for entertainment and knowledge enhancement.
+Trivia is an interactive ability that engages users by providing fun and interesting trivia questions across various topics, allowing for both entertainment and education.
 
 ### how-to-build
-Builder notes and API surface details are currently unavailable for this ability.
+Details on how to create the trivia ability are currently unspecified.
 
 ### category
 entertainment
 
 ### built-by
-[[builder_name]]
+[[abilities/trivia-builder]]
 
 ### status
 stub
 
 ## connects-to
-[[abilities/news-brief]]  
-[[abilities/aquaprime]]  
-[[abilities/deadman-fm]]  
+[[abilities/aquaprime]]
+[[abilities/deadman-fm]]
+[[abilities/news-brief]]
 
-<!-- synthesized: 2026-08-22T11:09:21Z -->
+<!-- synthesized: 2026-08-23T11:09:49Z -->
 ```

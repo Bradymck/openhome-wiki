@@ -1,27 +1,24 @@
 ```markdown
 ---
-title: Dead Man's Switch
-entity_type: concepts/
+title: concepts/dead-mans-switch
+entity_type: concepts
 status: stub
-last_updated: 2026-08-22
+last_updated: 2026-08-23
 ---
 
-## definition
-A dead man's switch is a safety mechanism that automatically triggers an action if the operator becomes incapacitated or fails to take specific actions within a set timeframe. It is commonly used in various systems to ensure that certain tasks are completed, mitigating risk when the user is no longer able to respond.
+### definition
+A dead man's switch is a safety mechanism that initiates a specific action when the operator is unable to perform it. Typically, this applies to situations where the failure to act could lead to significant negative consequences.
 
-## why-it-matters
-In the context of OpenHome, a dead man's switch serves as a crucial feature to enhance user safety and ensure system reliability. This mechanism can help prevent loss of control over critical processes or data in scenarios where user engagement is diminished or ceases entirely. By implementing this concept, OpenHome can provide peace of mind to users regarding their digital presence and control.
+### why-it-matters
+In the context of OpenHome, a dead man's switch adds a layer of security and assurance for users. It ensures that actions or transactions are reversible or can be paused if the user becomes incapacitated or unresponsive, thereby enhancing trust in the system.
 
-## how-it-manifests
-The dead man's switch concept may manifest in OpenHome through features that require periodic user engagement, such as authentication checks or automated processes that activate when user interaction stops. These mechanisms ensure that actions being performed are continually monitored and that safeguards are in place should the user be unable to maintain their engagement.
+### how-it-manifests
+While specific implementations within OpenHome may vary, the concept of a dead man's switch could manifest in features that allow users to set triggers for automated responses if certain conditions are met, such as inactivity or failure to complete a transaction. This could be particularly significant in scenarios involving sensitive data or critical operations.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
 [[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-22T11:09:21Z -->
+<!-- synthesized: 2026-08-23T11:09:49Z -->
 ```

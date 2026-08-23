@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: web3-native
-entity_type: concepts
+title: Web3 Native
+entity_type: concepts/web3-native
 status: stub
-last_updated: 2026-08-22
+last_updated: 2026-08-23
 ---
 
-## definition
-Web3-native refers to applications, technologies, and systems that are built specifically to operate within the decentralized web (Web3) ecosystem. This involves leveraging blockchain technology, smart contracts, and decentralized protocols to enhance user control, security, and privacy.
+### definition
+Web3 Native refers to applications and platforms that are built on decentralized blockchain technology, emphasizing user ownership, privacy, and permissionless access. It represents a shift from traditional web applications to a model where users have more control over their data and interactions.
 
-## why-it-matters
-Web3-native concepts are fundamental to OpenHome as they align with the platform's vision of empowering users through decentralization. By adopting web3-native principles, OpenHome aims to create a more equitable environment where users can interact without intermediaries, ensuring that they retain ownership of their data and digital identities.
+### why-it-matters
+Web3 Native concepts align with the goals of OpenHome by promoting decentralized governance and user empowerment. This approach enhances privacy and security, fostering a more equitable digital ecosystem where individuals can engage with technology directly and without intermediaries.
 
-## how-it-manifests
-In the OpenHome platform, web3-native elements can be seen in various features such as user-driven governance, token-based incentives, and seamless integration with decentralized applications (dApps). These functionalities allow users to engage with the platform in a way that reflects the core ethos of Web3, fostering a community-oriented approach to digital services.
+### how-it-manifests
+While specific manifestations of Web3 Native principles within the OpenHome platform have not been detailed, such concepts may influence how applications interact, ensure user ownership of data, and create trustworthy environments for digital collaboration.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ In the OpenHome platform, web3-native elements can be seen in various features s
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-22T11:09:21Z -->
+<!-- synthesized: 2026-08-23T11:09:49Z -->
 ```

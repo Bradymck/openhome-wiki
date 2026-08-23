@@ -1,21 +1,21 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/grant-program
+entity_type: concepts
 status: stub
-last_updated: 2026-08-22
+last_updated: 2026-08-23
 ---
 
 ### definition
-A grant program is a structured initiative designed to provide financial support or resources to individuals, organizations, or projects that align with specific criteria or goals.
+A grant program is a structured initiative designed to fund projects, research, or activities that align with specific goals or criteria set by an organization or institution.
 
 ### why-it-matters
-Grant programs are crucial for fostering innovation, encouraging community engagement, and supporting research and development efforts within the OpenHome ecosystem. They enable participants to access necessary resources to develop and implement initiatives that align with the platform's vision and objectives.
+Grant programs are essential for fostering innovation, supporting research, and promoting community development within the OpenHome ecosystem. They provide financial resources and incentives for individuals and groups to pursue initiatives that can enhance the platform and its functionalities.
 
 ### how-it-manifests
-The grant program can manifest as various funding opportunities offered to developers, community members, or organizations seeking to build applications, tools, or projects that enhance the OpenHome platform. These programs may also include mentorship, training, and networking opportunities to support grantees throughout their projects.
+The grant program appears as one of the strategic mechanisms within OpenHome to solicit proposals from developers and creators. Participants may apply for funding to work on projects that enhance the platform's features, contribute to community-based initiatives, or develop applications that utilize OpenHome's underlying technologies.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ The grant program can manifest as various funding opportunities offered to devel
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-08-22T11:09:21Z -->
+<!-- synthesized: 2026-08-23T11:09:49Z -->
 ```
