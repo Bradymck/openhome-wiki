@@ -3,27 +3,25 @@
 title: builders/mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-08-23
+last_updated: 2026-08-24
 ---
 
 ### who-they-are
-Mathieub is part of the active community of builders focusing on developing applications and integrations leveraging the devkit. They are engaged in creating innovative solutions within the ecosystem.
+Mathieub is an active member of the community focused on leveraging development kits to create innovative solutions and build integrations.
 
 ### what-they-built
-Information on specific shipped abilities or integrations by Mathieub is currently unavailable.
+Details on specific abilities or integrations built by Mathieub are currently not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[builders]]
-[[devkit]]
-[[community-builders]]
+[[abilities]]
 
-<!-- synthesized: 2026-08-23T11:09:49Z -->
+<!-- synthesized: 2026-08-24T11:15:55Z -->
 ```

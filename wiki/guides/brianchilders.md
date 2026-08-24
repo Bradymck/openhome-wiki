@@ -1,23 +1,23 @@
 ```markdown
 ---
 title: brianchilders
-entity_type: guides/
+entity_type: guides
 status: stub
-last_updated: 2026-08-23
+last_updated: 2026-08-24
 ---
 
-### who-they-are
-Information about the background and expertise of brianchilders is currently not available.
+## who-they-are
+Information about brianchilders is currently limited. No specific background or expertise details have been provided.
 
-### what-they-help-with
-The specific areas of specialty and abilities of brianchilders have not been detailed.
+## what-they-help-with
+Details on the specialties and areas of assistance offered by brianchilders are not available at this time.
 
-### how-to-reach
-Contact brianchilders via Discord. Specific handle information is currently not available.
+## how-to-reach
+No contact information, including Discord handle, has been provided for brianchilders.
 
 ## connects-to
-[[guides]]
-[[community guides]]
+[[Community Guides]]
 [[Discord]]
-<!-- synthesized: 2026-08-23T11:09:49Z -->
+[[Power Users]]
+<!-- synthesized: 2026-08-24T11:15:55Z -->
 ```

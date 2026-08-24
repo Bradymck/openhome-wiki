@@ -1,24 +1,24 @@
 ```markdown
 ---
-title: concepts/dead-mans-switch
+title: Dead Man's Switch
 entity_type: concepts
 status: stub
-last_updated: 2026-08-23
+last_updated: 2026-08-24
 ---
 
 ### definition
-A dead man's switch is a safety mechanism that initiates a specific action when the operator is unable to perform it. Typically, this applies to situations where the failure to act could lead to significant negative consequences.
+A dead man's switch is a safety mechanism designed to trigger a specific function or alert if the user becomes incapacitated or unresponsive. In the context of software and digital platforms, it ensures that certain processes continue only under specific conditions, typically requiring a regular input from the user to maintain functionality.
 
 ### why-it-matters
-In the context of OpenHome, a dead man's switch adds a layer of security and assurance for users. It ensures that actions or transactions are reversible or can be paused if the user becomes incapacitated or unresponsive, thereby enhancing trust in the system.
+The dead man's switch concept is crucial for maintaining security and ensuring accountability within OpenHome. It can be particularly relevant in systems where user consent is essential for ongoing operations, preventing unauthorized or unintended actions in the user's absence.
 
 ### how-it-manifests
-While specific implementations within OpenHome may vary, the concept of a dead man's switch could manifest in features that allow users to set triggers for automated responses if certain conditions are met, such as inactivity or failure to complete a transaction. This could be particularly significant in scenarios involving sensitive data or critical operations.
+In the OpenHome platform, the dead man's switch might manifest as a feature that requires periodic user interaction to keep services active. This could include functionalities related to automated processes, security systems, or any application that must confirm user presence to continue operating safely and reliably.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/web3-native]]
+[[concepts/local-first]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-23T11:09:49Z -->
+<!-- synthesized: 2026-08-24T11:15:55Z -->
 ```
