@@ -1,23 +1,29 @@
-```yaml
-title: freshdelii
+```markdown
+---
+title: FreshDelii
 entity_type: builders
 status: stub
-last_updated: 2026-08-24
-```
+last_updated: 2026-08-25
+---
 
-## who-they-are
-Freshdelii is part of an active community of builders focusing on creating innovative solutions and integrations within the ecosystem. They engage with Homie and user roles to leverage their devkit capabilities.
+### who-they-are
+FreshDelii is an active community builder focused on enhancing user interactions within the ecosystem. They leverage their technical expertise to develop community-driven applications and integrations.
 
-## what-they-built
-Details regarding specific abilities or integrations shipped by freshdelii are currently unavailable.
+### what-they-built
+Details on specific abilities or integrations shipped by FreshDelii are not available at this time.
 
-## grant-status
-none
+### grant-status
+None
 
-## how-to-reach
-Discord handle, GitHub, and other contact methods are not specified at this time.
+### how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[wikilinks]]
+[[builders]]
+[[community]]
+[[integrations]]
 
-<!-- synthesized: 2026-08-24T11:15:55Z -->
+<!-- synthesized: 2026-08-25T11:14:51Z -->
+```

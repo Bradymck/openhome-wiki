@@ -3,21 +3,21 @@
 title: Brady McK
 entity_type: team
 status: stub
-last_updated: 2026-08-24
+last_updated: 2026-08-25
 ---
 
 ### who-they-are
-Brady McK holds a role at OpenHome. Further information about their background and specific role is currently unavailable.
+Brady McK is a member of the OpenHome team, holding a significant administrative role within the organization.
 
 ### what-they-own
-Brady McK is responsible for leading specific areas of the OpenHome platform. However, details on the exact domains they oversee are not provided at this time.
+At OpenHome, Brady focuses on leading initiatives and overseeing various projects relevant to platform development, although specific areas of ownership are not detailed.
 
 ### how-to-reach
-Contact details for Brady McK, including their Discord handle or social media accounts, have not been made available.
+Brady can be reached on Discord, but specific contact details like a handle or additional social media presence are not available at this time.
 
-## connects-to
+### connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-24T11:15:55Z -->
+<!-- synthesized: 2026-08-25T11:14:51Z -->
 ```
