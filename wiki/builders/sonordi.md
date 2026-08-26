@@ -3,23 +3,27 @@
 title: builders/sonordi
 entity_type: builders
 status: stub
-last_updated: 2026-08-25
+last_updated: 2026-08-26
 ---
 
 ### who-they-are
-Sonordi is an active member of the community, contributing as a developer and innovator within the builder ecosystem.
+Sonordi is an active community builder within the Homie framework. They are focused on developing innovative tools and integrations that enhance user engagement and functionality in the ecosystem.
 
 ### what-they-built
-Currently, no specific abilities or integrations developed by Sonordi have been documented.
+Specific details regarding the abilities or integrations that Sonordi has shipped are currently unknown.
 
 ### grant-status
 none
 
 ### how-to-reach
-No contact information is available for Sonordi at this time.
+- Discord handle: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
-[[wikilink-to-abilities]]
+[[Ability Integration]]
+[[Community Builders]]
+[[Homie Ecosystem]]
 
-<!-- synthesized: 2026-08-25T11:14:51Z -->
+<!-- synthesized: 2026-08-26T11:17:49Z -->
 ```

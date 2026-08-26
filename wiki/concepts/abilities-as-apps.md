@@ -3,17 +3,17 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-08-25
+last_updated: 2026-08-26
 ---
 
 ### definition
-Abilities-as-apps is a conceptual framework within OpenHome that allows for the integration of functionalities as distinct applications, enabling users to customize their experience by selecting and combining various capabilities.
+Abilities-as-apps refer to the concept of encapsulating functional capabilities within standalone applications, allowing users to activate and utilize them as needed in various contexts.
 
 ### why-it-matters
-This concept is significant to OpenHome as it promotes user autonomy and personalization, allowing individuals to tailor the system's functionalities to meet their specific needs and preferences. It enhances user engagement and satisfaction by providing a flexible and modular approach to interactions with technology.
+This concept is significant to OpenHome because it promotes modularity and flexibility, enabling users to customize their experience by selecting and integrating specific abilities that cater to their individual needs or preferences.
 
 ### how-it-manifests
-Abilities-as-apps can be observed in the way users interact with the OpenHome platform, where they can add or remove different abilities or applications based on their preferences. This modularity facilitates a more user-centric experience, making it easier for people to adapt the platform to suit their lifestyles.
+In the OpenHome platform, abilities-as-apps can be observed in the way users interact with different application modules. Each ability serves as an independent app that can be accessed and utilized to perform specific tasks or functions within a user’s environment.
 
 ### connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ Abilities-as-apps can be observed in the way users interact with the OpenHome pl
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-25T11:14:51Z -->
+<!-- synthesized: 2026-08-26T11:17:49Z -->
 ```

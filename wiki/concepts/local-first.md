@@ -1,19 +1,18 @@
-```markdown
----
+```yaml
 title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-08-25
----
+last_updated: 2026-08-26
+```
 
 ## definition
-Local-first is an approach that prioritizes the use of local resources and capabilities within a system before relying on external services. It emphasizes leveraging local data and processing power to enhance performance and reliability.
+Local-first is a design philosophy that emphasizes the importance of local data storage and processing over centralized or remote solutions. It aims to provide users with better performance, increased privacy, and enhanced reliability by prioritizing data accessibility and usage on the user's local device.
 
 ## why-it-matters
-In the context of OpenHome, local-first strategies can significantly improve user experience by ensuring faster access to data and services without always depending on a stable internet connection. This is particularly relevant for applications that require constant availability and responsiveness.
+Local-first is relevant to OpenHome as it ensures that users can access and interact with their data seamlessly, regardless of their internet connectivity. This approach enhances user experience by allowing applications to function smoothly offline and sync changes when connectivity is restored. It is crucial for fostering a resilient ecosystem where users have more control over their data.
 
 ## how-it-manifests
-This concept may manifest within the OpenHome platform through features that allow users to operate and interact with applications offline or with minimal connectivity, ensuring that core functionalities remain accessible regardless of external network conditions.
+In the OpenHome platform, local-first principles could be implemented in various applications, enabling functionalities that operate independently of a constant internet connection. Users may store their preferences, settings, and personal data locally, ensuring that their experience remains uninterrupted. Additionally, any changes made while offline would later sync with the server once online access is re-established.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +22,4 @@ This concept may manifest within the OpenHome platform through features that all
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-25T11:14:51Z -->
-```
+<!-- synthesized: 2026-08-26T11:17:49Z -->

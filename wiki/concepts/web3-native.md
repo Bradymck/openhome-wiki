@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: Web3 Native
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-08-25
+last_updated: 2026-08-26
 ---
 
 ### definition
-Web3 Native refers to applications, services, and platforms that are built on decentralized protocols and blockchain technology. This development paradigm emphasizes user ownership, transparency, and interconnectivity within digital ecosystems.
+Web3 Native refers to applications and platforms that are built on decentralized technologies, particularly those leveraging blockchain, to create a more open and user-centric internet. This concept embodies the transition from traditional web applications to decentralized alternatives that empower users with control over their data and interactions.
 
 ### why-it-matters
-Web3 Native technologies are crucial to OpenHome because they empower users to maintain control over their data and identities. By leveraging blockchain, OpenHome can foster a more democratic and user-centric environment, enabling individuals to have autonomy over their contributions and interactions within the platform.
+Web3 Native is crucial for OpenHome because it aligns with the platform's mission to create a decentralized ecosystem. By adopting Web3 principles, OpenHome can enhance user autonomy, improve privacy, and foster community-driven governance. This approach also supports a more resilient digital infrastructure, countering centralized control by large corporations.
 
 ### how-it-manifests
-In the OpenHome platform, web3-native concepts are likely to manifest through features such as decentralized identity verification, peer-to-peer interactions, and smart contracts that facilitate trustless transactions. These capabilities would enhance user experience by promoting security and reducing reliance on intermediaries.
+In the OpenHome platform, Web3 Native concept manifests through features that allow users to manage their own data, participate in decentralized governance, and utilize decentralized finance (DeFi) functionalities. The integration of smart contracts facilitates trustless interactions and ensures transparency in all transactions within the ecosystem.
 
 ### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+[[concepts/abilities-as-apps]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/grant-program]]  
+[[concepts/local-first]]  
+[[concepts/voice-first]]  
+[[concepts/spatial-intelligence]]  
 
-<!-- synthesized: 2026-08-25T11:14:51Z -->
+<!-- synthesized: 2026-08-26T11:17:49Z -->
 ```
