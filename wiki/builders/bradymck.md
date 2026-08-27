@@ -3,25 +3,26 @@
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-08-26
+last_updated: 2026-08-27
 ---
 
-### who-they-are
-bradymck is an active community builder involved in development and integration efforts within the technology space, particularly focusing on devkit functionalities.
+## who-they-are
+Bradymck is a community builder and devkit holder engaged in the development of various integrations and abilities within the Homie ecosystem.
 
-### what-they-built
-No specific abilities or integrations by bradymck are documented at this time.
+## what-they-built
+Details about the specific abilities or integrations that bradymck has built are currently not available.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-Discord: Unknown  
-GitHub: Unknown  
-X: Unknown  
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[abilities]]  
+[[abilities]]
+[[integrations]]
 
-<!-- synthesized: 2026-08-26T11:17:49Z -->
+<!-- synthesized: 2026-08-27T20:49:57Z -->
 ```

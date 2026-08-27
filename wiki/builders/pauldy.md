@@ -1,26 +1,27 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-08-26
+last_updated: 2026-08-27
 ---
 
 ### who-they-are
-Pauldy is an active member of the builders community focused on developing and integrating new capabilities within the project. Further specific details about their background or the exact projects they are engaged with have not been disclosed.
+Pauldy is an active member of the community, recognized for their contributions to building within the platform. They hold the Devkit and are engaged in developing new abilities for users.
 
 ### what-they-built
-Information regarding the specific abilities or integrations that Pauldy has shipped is currently unavailable.
+As of the last update, there are no specific shipped abilities or integrations documented for Pauldy. 
 
 ### grant-status
-The grant status information for Pauldy has not been provided.
+none
 
 ### how-to-reach
-Details on how to contact Pauldy, including Discord handle, GitHub, or X account, have not been supplied.
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[devkit]]
-[[integrations]]
-<!-- synthesized: 2026-08-26T11:17:49Z -->
+[[abilities]]
+
+<!-- synthesized: 2026-08-27T20:49:57Z -->
 ```

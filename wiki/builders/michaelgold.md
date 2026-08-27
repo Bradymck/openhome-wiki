@@ -1,30 +1,28 @@
 ```markdown
 ---
-title: Michael Gold
+title: builders/michaelgold
 entity_type: builders
 status: stub
-last_updated: 2026-08-26
+last_updated: 2026-08-27
 ---
 
 ### who-they-are
-Michael Gold is an active community builder within the developer ecosystem and holds a devkit. He is involved in various projects aimed at enhancing user engagement and developer experiences.
+Michael Gold is an active community builder in the Homie project, focusing on developing tools and integrations for its ecosystem.
 
 ### what-they-built
-Details about specific abilities or integrations that Michael Gold has shipped are currently unavailable.
+Details on specific abilities or integrations shipped by Michael Gold are currently unavailable.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-Discord: Not specified  
-GitHub: Not specified  
-X: Not specified  
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[builders]]
-[[community_builders]]
-[[devkit]]
-[[user_roles]]
-
-<!-- synthesized: 2026-08-26T11:17:49Z -->
+[[homie]]
+[[community builders]]
+[[integrations]]
+<!-- synthesized: 2026-08-27T20:49:57Z -->
 ```
