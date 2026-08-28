@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/grant-program
+entity_type: concepts/
 status: stub
-last_updated: 2026-08-27
+last_updated: 2026-08-28
 ---
 
 ### definition
-A grant program is a structured initiative designed to provide financial support or resources to individuals, organizations, or projects that align with specific goals or research areas.
+A grant program is a structured initiative designed to provide funding, resources, and support to projects or individuals that align with specific objectives or values of the OpenHome ecosystem.
 
 ### why-it-matters
-Grant programs are essential within the OpenHome ecosystem as they promote innovation, encourage collaboration, and support projects that enhance the platform's capabilities. By funding creative and impactful initiatives, the program helps to cultivate a vibrant community that can drive the evolution of OpenHome.
+Grant programs are crucial for fostering innovation and development within the OpenHome community. They encourage the creation of new applications, services, and enhancements that contribute to the platform's overall goals and capabilities, empowering individuals and organizations to explore ideas that might not be viable through traditional funding avenues.
 
 ### how-it-manifests
-While specific details about the operational structure of the grant program within OpenHome are not provided, it likely appears in various forms, such as funding opportunities for developers, researchers, and organizations looking to build or improve applications that utilize the OpenHome framework.
+While specific details about the manifestation of grant programs within OpenHome are not provided, they typically encompass calls for proposals, funding rounds, and partnerships with developers and creators. This can involve collaborative projects, research initiatives, or community engagement activities supported through financial grants.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific details about the operational structure of the grant program with
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-08-27T20:49:57Z -->
+<!-- synthesized: 2026-08-28T21:16:14Z -->
 ```

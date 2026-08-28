@@ -1,20 +1,21 @@
-```yaml
+```markdown
+---
 title: Local First
-entity_type: concepts/local-first
+entity_type: concepts
 status: stub
-last_updated: 2026-08-27
-```
+last_updated: 2026-08-28
+---
 
-## definition
-Local First is a foundational concept that emphasizes the importance of data and application functionality residing primarily on local devices rather than relying heavily on cloud infrastructure. This approach aims to enhance user control, improve responsiveness, and ensure data availability even in the absence of internet connectivity.
+### definition
+Local First is an approach prioritizing data storage and processing on the user's device rather than relying heavily on cloud services. It emphasizes offline functionality and data sovereignty, allowing users to interact with their applications and data even without an internet connection.
 
-## why-it-matters
-Local First is significant to OpenHome as it aligns with the principles of user sovereignty and privacy. By prioritizing local data management, it empowers users to maintain control over their information, facilitating more secure interactions and reducing dependency on centralized systems. This concept also enables a more resilient and consistent user experience.
+### why-it-matters
+This concept is particularly relevant to OpenHome as it fosters user empowerment and control over personal data. By enabling local data management, OpenHome can enhance user privacy and provide seamless experiences regardless of connectivity, ensuring reliability and resilience.
 
-## how-it-manifests
-In the OpenHome platform, Local First can be seen in various applications and services that store data on users' devices while providing functionality that can operate offline. Features such as local caching, synchronization upon reconnection, and user-driven data management showcase the practical implementation of this concept. 
+### how-it-manifests
+In the OpenHome platform, the Local First concept manifests through applications that allow users to create, manage, and access their data directly on their devices. Features may include offline capabilities, data synchronization upon connectivity restoration, and user-friendly data sharing options that don't compromise privacy.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]  
 [[concepts/voice-first]]  
 [[concepts/web3-native]]  
@@ -22,4 +23,5 @@ In the OpenHome platform, Local First can be seen in various applications and se
 [[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]  
 
-<!-- synthesized: 2026-08-27T20:49:57Z -->
+<!-- synthesized: 2026-08-28T21:16:14Z -->
+```

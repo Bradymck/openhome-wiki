@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Roadmap / Planned
-entity_type: roadmap
-status: planned
-last_updated: 2026-08-27
+title: Roadmap Planned Features
+entity_type: roadmap/planned
+status: live
+last_updated: 2026-08-28
 ---
 
-## what-it-is
-The roadmap outlines features and milestones that are planned for future development within the project.
+### what-it-is
+This page outlines the planned features and milestones for our roadmap, detailing what is on the horizon for development and deployment.
 
-## status
-planned
+### status
+Currently, no specific planned features or milestones have been documented or are in progress.
 
-## why-it-matters
-Having a clear roadmap provides transparency to users and stakeholders about what advancements to expect, how development priorities are set, and encourages community engagement and feedback.
+### why-it-matters
+Creating a clear roadmap for future features helps users anticipate upcoming changes and improvements, ensuring transparency in development. It aligns team efforts and prioritizes user needs.
 
-## eta
-Timeline for specific features or milestones is currently not available.
+### eta
+No estimated times of arrival (ETA) for planned features have been provided.
 
 ## connects-to
 [[roadmap]]
-[[features]]
-[[milestones]]
+[[feature requests]]
+[[development updates]]
 
-<!-- synthesized: 2026-08-27T20:49:57Z -->
+<!-- synthesized: 2026-08-28T21:16:14Z -->
 ```

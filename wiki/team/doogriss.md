@@ -3,21 +3,21 @@
 title: Doogriss
 entity_type: team
 status: stub
-last_updated: 2026-08-27
+last_updated: 2026-08-28
 ---
 
 ### who-they-are
-Doogriss is a member of the OpenHome team, holding an unspecified role. Further details about their background and contributions are currently unavailable.
+Doogriss is a member of the OpenHome team, holding a role related to the administration of platforms within the organization. Specific background information is currently unavailable.
 
 ### what-they-own
-As of now, there is no specific information regarding the areas of the platform that Doogriss leads or manages.
+The specific areas of the platform that Doogriss leads or oversees have not been detailed in the available information.
 
 ### how-to-reach
-Contact information for Doogriss is not currently available.
+No contact information or social media handles have been provided for Doogriss.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-27T20:49:57Z -->
+<!-- synthesized: 2026-08-28T21:16:14Z -->
 ```
