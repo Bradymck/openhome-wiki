@@ -1,27 +1,25 @@
-```markdown
----
-title: Roadmap Planned Features
+```yaml
+title: Roadmap/Planned
 entity_type: roadmap/planned
-status: live
-last_updated: 2026-08-28
----
+status: stub
+last_updated: 2026-08-29
+```
 
-### what-it-is
-This page outlines the planned features and milestones for our roadmap, detailing what is on the horizon for development and deployment.
+## what-it-is
+This section is reserved for future features or milestones that are being considered or planned for development.
 
-### status
-Currently, no specific planned features or milestones have been documented or are in progress.
+## status
+Currently, there is no specific information available regarding the status of features or milestones in the roadmap. 
 
-### why-it-matters
-Creating a clear roadmap for future features helps users anticipate upcoming changes and improvements, ensuring transparency in development. It aligns team efforts and prioritizes user needs.
+## why-it-matters
+Understanding the roadmap is crucial for users and stakeholders to have insights into upcoming features, improvements, and developments. It helps in setting expectations and preparing for future functionalities.
 
-### eta
-No estimated times of arrival (ETA) for planned features have been provided.
+## eta
+No estimated timelines for upcoming features or milestones are currently available.
 
 ## connects-to
-[[roadmap]]
-[[feature requests]]
-[[development updates]]
+[[roadmap]]  
+[[features]]  
+[[milestones]]  
 
-<!-- synthesized: 2026-08-28T21:16:14Z -->
-```
+<!-- synthesized: 2026-08-29T15:21:18Z -->

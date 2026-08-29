@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Voice-First
+title: concepts/voice-first
 entity_type: concepts
 status: stub
-last_updated: 2026-08-28
+last_updated: 2026-08-29
 ---
 
 ### definition
-Voice-first is a design and interaction paradigm that prioritizes voice as the primary mode of communication and engagement with technology. This approach emphasizes voice commands, audio outputs, and conversational interfaces, enabling users to interact through natural language.
+Voice-first is a design paradigm where voice interaction is prioritized as the primary method of user engagement, typically through voice-enabled devices or applications.
 
 ### why-it-matters
-Voice-first technology is significant to OpenHome as it enhances accessibility and user experience by allowing users to engage with their devices in a more intuitive way. It aligns with the increasing trend of hands-free interaction, making technology more inclusive and user-friendly.
+Voice-first technology is significant to OpenHome as it enhances user accessibility and engagement, allowing users to interact with the platform in an intuitive, hands-free manner. This aligns with the broader goal of creating a user-friendly ecosystem that emphasizes natural interactions between users and technology.
 
 ### how-it-manifests
-In the OpenHome platform, voice-first can manifest in various features, including voice-activated commands, automated responses, and conversational interfaces that facilitate user engagement. These functionalities are designed to streamline interactions and make the platform easier to navigate without requiring physical interaction.
+Within the OpenHome platform, voice-first concepts may appear as features that enable voice commands for navigation, control, and interaction with various services and applications. This includes integrations with voice assistants and other voice recognition technologies.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In the OpenHome platform, voice-first can manifest in various features, includin
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-28T21:16:14Z -->
+<!-- synthesized: 2026-08-29T15:21:18Z -->
 ```

@@ -3,26 +3,23 @@
 title: builders/pl-geek
 entity_type: builders
 status: stub
-last_updated: 2026-08-28
+last_updated: 2026-08-29
 ---
 
 ### who-they-are
-pl-geek is a member of the Homie community and a user role holder focused on developing and enhancing various integrations and capabilities within the platform.
+pl-geek is an active member of the development community, involved in building various integrations and capabilities within the platform.
 
 ### what-they-built
-As of now, there are no specifics available regarding the abilities or integrations pl-geek has shipped.
+Specific abilities or integrations shipped by pl-geek are not documented in the available sources.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Not available  
-GitHub: Not available  
-X: Not available  
+No contact information available from the sources.
 
 ## connects-to
-[[Homie]]
-[[User roles]]
-[[Integrations]]
-<!-- synthesized: 2026-08-28T21:16:14Z -->
+[[wikilinks]]
+
+<!-- synthesized: 2026-08-29T15:21:18Z -->
 ```

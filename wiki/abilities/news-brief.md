@@ -3,22 +3,22 @@
 title: abilities/news-brief
 entity_type: abilities
 status: stub
-last_updated: 2026-08-28
+last_updated: 2026-08-29
 ---
 
-### what-it-does
-The News Brief ability provides users with summarized content from various news sources, enabling quick consumption of current events and headlines.
+## what-it-does
+The News Brief ability is designed to provide users with concise updates and summaries of current events or topics of interest. It aims to deliver relevant information in a straightforward manner, making it easier for users to stay informed.
 
-### how-to-build
-Builder notes and API surface documentation for creating this ability are currently unavailable.
+## how-to-build
+This section is currently lacking detailed information on the construction and underlying API of the News Brief ability.
 
-### category
+## category
 utility
 
-### built-by
-[[builder_page_placeholder]]
+## built-by
+[[builder-name]]
 
-### status
+## status
 stub
 
 ## connects-to
@@ -26,5 +26,5 @@ stub
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
 
-<!-- synthesized: 2026-08-28T21:16:14Z -->
+<!-- synthesized: 2026-08-29T15:21:18Z -->
 ```

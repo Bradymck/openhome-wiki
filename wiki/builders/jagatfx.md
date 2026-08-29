@@ -1,25 +1,28 @@
-```yaml
-title: jagatfx
-entity_type: builders
+```markdown
+---
+title: builders/jagatfx
+entity_type: builder
 status: stub
-last_updated: 2026-08-28
-```
+last_updated: 2026-08-29
+---
 
-## who-they-are
-Jagatfx is an active community builder focused on developing capabilities for the Homie ecosystem. Their expertise includes shipping innovative tools and features that enhance user experience within the community.
+### who-they-are
+Jagatfx is an active community builder who is involved with the development of innovative abilities and integrations within the ecosystem.
 
-## what-they-built
-Details on specific abilities or integrations built by jagatfx are currently unavailable. 
+### what-they-built
+Details regarding the specific abilities or integrations that Jagatfx has shipped are not currently available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-Information regarding contact methods for jagatfx, such as Discord handle, GitHub, or X, has not been provided. 
+### how-to-reach
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[Homie]]
-[[devkit]]
+[[abilities]]
+[[integrations]]
 
-<!-- synthesized: 2026-08-28T21:16:14Z -->
+<!-- synthesized: 2026-08-29T15:21:18Z -->
+```

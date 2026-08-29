@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: Web3 Native
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-08-28
+last_updated: 2026-08-29
 ---
 
-## Definition
-Web3 native refers to applications, services, and platforms that fundamentally leverage blockchain technology, decentralized networks, and cryptocurrency principles to operate and deliver functionalities without reliance on traditional, centralized infrastructures.
+### definition
+Web3 Native refers to applications, platforms, and technologies that are built on decentralized web protocols. This concept replaces traditional web2 structures with blockchain and distributed ledger technology, allowing for greater user control, transparency, and peer-to-peer interactions.
 
-## Why It Matters
-The concept of being web3 native is crucial to OpenHome as it aligns with the platform's mission to empower users with ownership of their data and identities in a decentralized manner. Adopting web3 principles enables innovative ways of interaction and ensures that users have control over their digital experiences.
+### why-it-matters
+The Web3 Native approach is crucial to OpenHome because it aligns with the principles of decentralization, empowering users to own their data and engage in transactions without intermediaries. This contributes to a more inclusive and equitable digital environment.
 
-## How It Manifests
-While specific implementations within OpenHome are not detailed, being web3 native would imply features such as decentralized identity verification, peer-to-peer transactions, and user governance. These elements would empower users to interact within the platform without intermediaries, enhancing privacy and security.
+### how-it-manifests
+Within the OpenHome platform, the principles of being Web3 Native manifest through features such as user-owned data, decentralized applications (dApps), and transparent governance mechanisms. These elements enhance user privacy, security, and foster a sense of community.
 
-## Connects To
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-08-28T21:16:14Z -->
+<!-- synthesized: 2026-08-29T15:21:18Z -->
 ```
