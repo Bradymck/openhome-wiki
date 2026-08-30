@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Local First
+title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-08-29
+last_updated: 2026-08-30
 ---
 
 ## definition
-Local First is a principle emphasizing the importance of operating primarily on local devices before any data is sent to the cloud or remote servers. This approach aims to enhance user experience by ensuring that applications remain functional and fast, regardless of internet connectivity.
+Local-first is an approach to software design that prioritizes local data storage and user autonomy over reliance on cloud services. This concept emphasizes that applications should primarily function on users' devices, enabling them to have full control over their data.
 
 ## why-it-matters
-Local First is relevant to OpenHome as it aligns with the goals of creating a seamless, user-centric experience. By prioritizing local operations, OpenHome can ensure that users have reliable access to functionality, even in low-connectivity situations. This enhances user trust and satisfaction.
+The local-first paradigm is particularly relevant to OpenHome as it supports user privacy and ownership. By allowing users to maintain control of their data locally, OpenHome fosters a more secure environment where individuals are not solely dependent on external servers, thereby enhancing trust and resilience in digital interactions.
 
 ## how-it-manifests
-In the OpenHome platform, Local First manifests through applications and features that allow data storage and processing on users' devices. This includes offline capabilities and synchronization mechanisms that ensure data integrity and coherence when connectivity is restored, making the user experience smooth and uninterrupted.
+In the OpenHome platform, local-first principles may be reflected through features that enable users to access and manage their data directly from their devices without mandatory connectivity to the internet. This could manifest in functionalities such as offline mode, data synchronization, and user-controlled data sharing mechanisms.
 
 ## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-29T15:21:18Z -->
+<!-- synthesized: 2026-08-30T15:05:39Z -->
 ```

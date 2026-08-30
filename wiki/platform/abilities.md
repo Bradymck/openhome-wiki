@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: Platform Abilities
-entity_type: platform/abilities
+title: platform/abilities
+entity_type: page
 status: stub
-last_updated: 2026-08-29
+last_updated: 2026-08-30
 ---
 
 ### what-it-is
-The Platform Abilities page outlines the various capabilities that the OpenHome platform provides to enhance user interaction and functionality.
+The platform/abilities page outlines the functionality and features available within the OpenHome environment, which enhances user experience and device interactivity.
 
 ### how-it-works
-Details about how these abilities integrate into the overall OpenHome architecture, including potential user-facing elements and technical specifications, are currently not available. Further information is needed to provide a comprehensive overview of the specific functionalities offered by the platform.
+The specifics of how the abilities feature integrates and operates within the OpenHome platform are currently not detailed in the available information. Generally, abilities can refer to the various functionalities that devices or services within the OpenHome ecosystem can perform, potentially enhancing automation and user interface interactions.
 
 ### current-status
 stub
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]  
 [[platform/live-editor]]  
 
-<!-- synthesized: 2026-08-29T15:21:18Z -->
+<!-- synthesized: 2026-08-30T15:05:39Z -->
 ```

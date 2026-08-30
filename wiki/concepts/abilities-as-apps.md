@@ -3,17 +3,17 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-08-29
+last_updated: 2026-08-30
 ---
 
 ### definition
-Abilities-as-apps refer to the concept of treating various functionalities and features within the OpenHome platform as standalone applications. This allows users to selectively enable or disable specific abilities according to their needs, enhancing customization and flexibility.
+Abilities-as-apps is a concept where functionalities or skills are packaged as independent applications that can be easily integrated into broader systems, enabling flexible and modular user experiences.
 
 ### why-it-matters
-This approach is pivotal for OpenHome as it empowers users to tailor their experiences without being restricted to a predetermined set of functionalities. By allowing abilities to function as individual applications, OpenHome can cater to diverse user preferences and evolving needs, fostering a more user-centric environment.
+This concept is relevant to OpenHome as it supports the platform's goal of creating highly customizable and user-centered environments. By treating abilities as separate applications, users can select and combine various functionalities to create tailored experiences that suit their specific needs and preferences.
 
 ### how-it-manifests
-Currently, the specific implementation details or instances of abilities-as-apps within the OpenHome platform are not provided. This concept is linked to the way functionalities may be modularized and presented to users, potentially allowing for easy management of different applications representing distinct abilities.
+In the OpenHome platform, abilities-as-apps may appear in the form of modular features that users can enable or disable according to their requirements, enhancing the overall interactivity and usability of the system. This approach fosters innovation by allowing developers to create and share new abilities without altering the core framework of OpenHome.
 
 ### connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ Currently, the specific implementation details or instances of abilities-as-apps
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-08-29T15:21:18Z -->
+<!-- synthesized: 2026-08-30T15:05:39Z -->
 ```

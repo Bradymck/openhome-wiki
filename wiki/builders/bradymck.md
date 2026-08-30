@@ -1,29 +1,29 @@
 ```markdown
 ---
-title: builders/bradymck
-entity_type: builders
-status: stub
-last_updated: 2026-08-29
+title: "builders/bradymck"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-08-30
 ---
 
 ### who-they-are
-Brady McK is an active member of the community, recognized as a builder and developer within the Homie + User roles. Details about his background and specific projects he is working on were not found.
+Brady McK is a community builder actively engaged in the development of decentralized applications and integrations within the blockchain landscape.
 
 ### what-they-built
-Information regarding specific shipped abilities or integrations created by Brady McK is currently not available.
+Currently, no specific abilities or integrations have been documented as shipped by Brady McK.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord: Not Available
+- GitHub: Not Available
+- X: Not Available
 
 ## connects-to
-[[builders]]
-[[community members]]
-[[Homie + User roles]]
+[[builders/]]
+[[community builders]]
+[[blockchain integrations]]
 
-<!-- synthesized: 2026-08-29T15:21:18Z -->
+<!-- synthesized: 2026-08-30T15:05:39Z -->
 ```

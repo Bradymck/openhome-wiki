@@ -1,26 +1,27 @@
-```yaml
-title: mathieub
+```markdown
+---
+title: builders/mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-08-29
-```
+last_updated: 2026-08-30
+---
 
-## who-they-are
-Mathieub is an active member of the community, engaged in building innovative solutions and integrations within the platform.
+### who-they-are
+Mathieu B. is an active member of the builder community focusing on creating innovative integrations and tools related to the development kit offerings.
 
-## what-they-built
-Currently, there is no detailed information available regarding specific abilities or integrations that mathieub has shipped.
+### what-they-built
+Information on specific abilities or integrations shipped by Mathieu B. is currently not available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord: Not available
-- GitHub: Not available
-- X: Not available
+### how-to-reach
+Discord handle: Not available  
+GitHub: Not available  
+X: Not available  
 
 ## connects-to
 [[builders]]
-[[integrations]]
 
-<!-- synthesized: 2026-08-29T15:21:18Z -->
+<!-- synthesized: 2026-08-30T15:05:39Z -->
+```
