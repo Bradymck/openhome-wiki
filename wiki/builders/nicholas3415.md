@@ -1,28 +1,29 @@
 ```markdown
 ---
 title: builders/nicholas3415
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-08-30
+last_updated: 2026-08-31
 ---
 
 ### who-they-are
-Nicholas3415 is an active community builder with a focus on creating innovative integrations and shipping abilities within the developer community.
+Nicholas3415 is an active member of the builders community, known for engaging in various development initiatives.
 
 ### what-they-built
-Currently, there are no specific details available regarding the abilities or integrations that Nicholas3415 has shipped.
+There is currently no specific information available regarding the abilities or integrations that Nicholas3415 has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not available
-- GitHub: Not available
-- X: Not available
+- Discord handle: Unknown
+- GitHub: Unknown
+- X: Unknown
 
 ## connects-to
-[[abilities]]
-[[integrations]]
+[[builders]]
+[[devkit]]
+[[community builders]]
 
-<!-- synthesized: 2026-08-30T15:05:39Z --> 
+<!-- synthesized: 2026-08-31T17:44:07Z -->
 ```

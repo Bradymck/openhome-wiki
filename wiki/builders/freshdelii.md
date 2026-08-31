@@ -1,27 +1,25 @@
 ```markdown
 ---
-title: builders/freshdelii
+title: FreshDelii
 entity_type: builders
 status: stub
-last_updated: 2026-08-30
+last_updated: 2026-08-31
 ---
 
 ### who-they-are
-FreshDelii is a community-driven initiative with a focus on building innovative solutions in the food delivery sector. They are working on integrating technology to enhance user experiences and streamline the logistics of food delivery services.
+FreshDelii is a community builder involved with creating innovative solutions within the development ecosystem. Specific details about their background and ongoing projects are currently limited.
 
 ### what-they-built
-As of now, specific details on the abilities or integrations that FreshDelii has shipped are not available.
+Information on the specific abilities or integrations that FreshDelii has shipped is not available at this time.
 
 ### grant-status
 none
 
 ### how-to-reach
-Currently, no contact information such as Discord handle or social media links is provided for FreshDelii.
+Currently, there is no available information regarding FreshDelii's communication handles, such as Discord, GitHub, or social media.
 
 ## connects-to
-[[builders]]
-[[food delivery innovations]]
-[[community initiatives]]
+[[wikilinks]]
 
-<!-- synthesized: 2026-08-30T15:05:39Z -->
+<!-- synthesized: 2026-08-31T17:44:07Z -->
 ```

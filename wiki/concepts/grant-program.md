@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: Grant Program
-entity_type: concepts/grant-program
+entity_type: concepts/
 status: stub
-last_updated: 2026-08-30
-```
+last_updated: 2026-08-31
+---
 
 ## definition
-A grant program is a structured initiative that provides funding or resources to individuals, organizations, or projects that align with specific goals or criteria set by a host organization.
+A grant program is a structured financial assistance initiative intended to support specific projects, research, or activities that align with the goals of OpenHome.
 
 ## why-it-matters
-In the context of OpenHome, a grant program is significant as it encourages innovation and development within its ecosystem. By providing financial support, it fosters new ideas and solutions that benefit the community and enhance the overall functionality of the platform.
+Grant programs are essential for fostering innovation and collaboration within the OpenHome ecosystem. They provide individuals and organizations with the necessary resources to explore new ideas, develop solutions, and address challenges that benefit the community and its users.
 
 ## how-it-manifests
-The grant program may appear in OpenHome in various forms, such as project funding, community initiatives, or support for developers and researchers working on projects that advance the platform's objectives. It may also be linked to specific themes or challenges that the community is encouraged to tackle.
+In the OpenHome platform, grant programs may be represented through dedicated funding initiatives, application processes, and project showcases. These programs invite proposals from users and developers, and successful applicants receive funding or resources to implement their projects, which may include new features or enhancements to the platform.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,4 +23,5 @@ The grant program may appear in OpenHome in various forms, such as project fundi
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-08-30T15:05:39Z -->
+<!-- synthesized: 2026-08-31T17:44:07Z -->
+```

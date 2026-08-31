@@ -3,23 +3,20 @@
 title: Sagarjethi
 entity_type: guides/
 status: stub
-last_updated: 2026-08-30
+last_updated: 2026-08-31
 ---
 
 ### who-they-are
-Sagarjethi is recognized as a community guide with a track record of helping users navigate through various challenges in the community.
+Sagarjethi is recognized within the community for their expertise in providing guidance and support to other users.
 
 ### what-they-help-with
-Sagarjethi specializes in onboarding new community members, providing insights, and assisting with technical queries related to the platform. However, specific details about their areas of expertise are not available.
+Their specialty encompasses onboarding processes, assisting users in navigating platforms and tools effectively.
 
 ### how-to-reach
-Sagarjethi can be reached on Discord; however, the specific handle is currently unavailable.
+Sagarjethi can be reached via Discord.
 
 ## connects-to
-[[guides]]
-[[community_help]]
-[[onboarding]]
-[[technical_support]]
-
-<!-- synthesized: 2026-08-30T15:05:39Z -->  
+[[guides/]]
+[[Community Guide role]]
+<!-- synthesized: 2026-08-31T17:44:07Z -->
 ```
