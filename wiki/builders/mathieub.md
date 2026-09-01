@@ -1,26 +1,23 @@
-```markdown
----
+```yaml
 title: builders/mathieub
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-08-31
----
+last_updated: 2026-09-01
+```
 
 ### who-they-are
-Mathieub is an active member of the community, holding a devkit and engaging in building shipping abilities.
+Mathieu is a developer engaged in building community-driven projects within the tech ecosystem. Specific details about their background and expertise are limited.
 
 ### what-they-built
-Details on specific shipped abilities or integrations are currently unavailable.
+Information about specific abilities or integrations that Mathieu has shipped is currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-Further information on how to reach Mathieub is not provided.
+Currently, there are no available contact points for Mathieu on Discord, GitHub, or X.
 
 ## connects-to
-[[builders]]
-[[devkit]]
-[[shipping]]
-<!-- synthesized: 2026-08-31T17:44:07Z -->
-```
+[[builders/mathieub]]
+
+<!-- synthesized: 2026-09-01T15:15:38Z -->

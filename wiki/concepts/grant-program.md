@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Grant Program
-entity_type: concepts/
+title: concepts/grant-program
+entity_type: concepts
 status: stub
-last_updated: 2026-08-31
+last_updated: 2026-09-01
 ---
 
 ## definition
-A grant program is a structured financial assistance initiative intended to support specific projects, research, or activities that align with the goals of OpenHome.
+A grant program is a structured initiative that provides funding and resources to support innovative projects, organizations, or individuals aligned with specific goals or missions.
 
 ## why-it-matters
-Grant programs are essential for fostering innovation and collaboration within the OpenHome ecosystem. They provide individuals and organizations with the necessary resources to explore new ideas, develop solutions, and address challenges that benefit the community and its users.
+In the context of OpenHome, a grant program can help foster innovation and community development by enabling projects that enhance the platform’s capabilities, promote user engagement, and advance shared objectives. It encourages collaboration and the creation of applications that support the overall vision of OpenHome.
 
 ## how-it-manifests
-In the OpenHome platform, grant programs may be represented through dedicated funding initiatives, application processes, and project showcases. These programs invite proposals from users and developers, and successful applicants receive funding or resources to implement their projects, which may include new features or enhancements to the platform.
+While specific details about how the grant program operates within OpenHome are not provided, such programs typically include mechanisms for application submission, funding allocation, and project evaluation. They could manifest through designated funding rounds or partnerships that align with the platform’s goals.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In the OpenHome platform, grant programs may be represented through dedicated fu
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-08-31T17:44:07Z -->
+<!-- synthesized: 2026-09-01T15:15:38Z -->
 ```

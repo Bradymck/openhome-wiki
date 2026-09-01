@@ -1,23 +1,21 @@
-```markdown
----
+```yaml
 title: Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-08-31
----
+last_updated: 2026-09-01
+```
 
-### who-they-are
-Kaeden's role at OpenHome and background information are currently not available.
+## who-they-are
+No specific information available regarding Kaeden's role or background at OpenHome.
 
-### what-they-own
-The areas of the platform that Kaeden leads are currently not specified.
+## what-they-own
+No information available regarding the areas of the platform Kaeden leads.
 
-### how-to-reach
-Contact information for Kaeden is currently not available.
+## how-to-reach
+No contact information available for Kaeden.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-31T17:44:07Z -->
-```
+<!-- synthesized: 2026-09-01T15:15:38Z -->

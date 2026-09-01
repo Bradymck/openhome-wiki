@@ -1,9 +1,9 @@
 ```markdown
 ---
-title: Abubakar
+title: Team Abubakar
 entity_type: team
 status: stub
-last_updated: 2026-08-31
+last_updated: 2026-09-01
 ---
 
 ### who-they-are
@@ -22,5 +22,5 @@ Preferred contact: Not specified
 [[team/jesse]]  
 [[team/shannon]]
 
-<!-- synthesized: 2026-08-31T17:44:07Z -->
+<!-- synthesized: 2026-09-01T15:15:38Z -->
 ```
