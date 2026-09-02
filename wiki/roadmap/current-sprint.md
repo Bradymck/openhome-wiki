@@ -1,27 +1,25 @@
 ```markdown
 ---
-title: Roadmap - Current Sprint
+title: Roadmap Current Sprint
 entity_type: roadmap
 status: stub
-last_updated: 2026-09-01
+last_updated: 2026-09-02
 ---
 
 ### what-it-is
-This section will outline features or milestones related to the current sprint.
+Information about the current sprint within the overall roadmap framework.
 
 ### status
-Stub - no detailed information available.
+stub
 
 ### why-it-matters
-Understanding the current sprint is essential for tracking ongoing development efforts and aligning expectations with users and stakeholders.
+Understanding the current sprint helps stakeholders and team members stay informed about ongoing efforts and next steps in the project.
 
 ### eta
-Rough timeline is not currently available.
+No specific timeline provided.
 
 ## connects-to
-[[roadmap/planned]]
-[[roadmap/shipped]]
-[[roadmap/in-progress]]
+[[roadmap]], [[sprints]], [[project_management]]
 
-<!-- synthesized: 2026-09-01T15:15:38Z -->
+<!-- synthesized: 2026-09-02T14:46:26Z -->
 ```
