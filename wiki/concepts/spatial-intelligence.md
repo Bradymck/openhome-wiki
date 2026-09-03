@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-09-02
+last_updated: 2026-09-03
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It involves skills in understanding spatial relationships, problem-solving in spatial contexts, and navigating environments effectively.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships in the environment. This encompasses skills such as understanding maps, recognizing patterns in space, and visualizing transformations in three-dimensional space.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is crucial as it enhances user interactions with the platform by enabling more intuitive and immersive spatial experiences. This capability allows users to navigate virtual spaces and understand their environment in a way that feels natural and engaging.
+Spatial intelligence is crucial for creating immersive and interactive experiences, especially in applications that require navigation or the arrangement of elements in a physical or virtual environment. In the context of OpenHome, it enhances user engagement and the intuitiveness of the platform’s features.
 
 ## how-it-manifests
-Spatial intelligence can manifest in OpenHome through features such as 3D navigation tools, augmented reality interfaces, and spatial mapping capabilities. These features allow users to manipulate virtual objects and navigate through digital environments seamlessly.
+While specific instances of spatial intelligence within OpenHome remain undocumented, it is expected to manifest in features that involve geographic positioning, augmented reality components, or any applications that facilitate user interactions in a spatial context.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ Spatial intelligence can manifest in OpenHome through features such as 3D naviga
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-02T14:46:26Z -->
+<!-- synthesized: 2026-09-03T14:45:11Z -->
 ```

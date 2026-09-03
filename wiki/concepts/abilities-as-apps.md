@@ -2,20 +2,20 @@
 ---
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: stub
-last_updated: 2026-09-02
+status: live
+last_updated: 2026-09-03
 ---
 
 ### definition
-Abilities-as-apps refer to a framework where applications are designed to perform specific functionalities or tasks as discrete capabilities, akin to apps on a smartphone.
+Abilities-as-apps refer to the concept of encapsulating functionality or skills as discrete applications within the OpenHome ecosystem, enabling modular and flexible enhancements to user experiences.
 
 ### why-it-matters
-This concept is significant to OpenHome as it allows for modular and dynamic functionality. By treating abilities as individual applications, users can customize their experience and add specific capabilities as needed, enhancing user engagement and satisfaction.
+This concept is essential to OpenHome as it democratizes access to capabilities, allowing users to easily add, remove, or upgrade functionalities according to their needs. It supports a customizable and tailored approach to home management and interaction, enhancing user satisfaction and engagement.
 
 ### how-it-manifests
-Within the OpenHome platform, abilities-as-apps can appear as distinct features that users can activate or deactivate based on their preferences. This modular approach promotes flexibility and adaptability in how users interact with the platform.
+The abilities-as-apps concept manifests in the OpenHome platform through the integration of various applications that can be accessed and managed by users. Each app corresponds to a specific ability, such as controlling home appliances, managing security settings, or automating tasks, all of which can be configured based on user preferences.
 
-### connects-to
+## connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ Within the OpenHome platform, abilities-as-apps can appear as distinct features 
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-02T14:46:26Z -->
+<!-- synthesized: 2026-09-03T14:45:11Z -->
 ```

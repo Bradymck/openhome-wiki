@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Web3 Native
-entity_type: concepts/
+title: web3-native
+entity_type: concepts
 status: stub
-last_updated: 2026-09-02
+last_updated: 2026-09-03
 ---
 
 ### definition
-Web3 Native refers to applications, services, or platforms built on decentralized technologies, epitomizing the principles of Web3, which include decentralization, user ownership, and interoperability.
+Web3-native refers to applications, platforms, and technologies that are built on decentralized protocols and leverage blockchain technology. These solutions typically promote transparency, user control over data, and peer-to-peer interactions without relying on traditional intermediaries.
 
 ### why-it-matters
-The concept is crucial to OpenHome as it aligns with the platform’s goal of creating a user-centric environment where individuals maintain control over their digital identities and assets, fostering a more democratic and transparent internet ecosystem.
+The concept of web3-native is fundamentally important to OpenHome as it enables a decentralized and user-centric ecosystem. By embracing web3 principles, OpenHome can foster greater trust and community ownership, which aligns with the platform's goals of empowerment and autonomy for users.
 
 ### how-it-manifests
-In OpenHome, Web3 Native principles may be reflected in features such as decentralized identity verification, user-controlled data sharing, and the integration of blockchain technologies for secure transactions and interactions between users.
+While specific implementations within OpenHome may not be detailed, the web3-native concept likely appears in features such as decentralized identity management, data ownership frameworks, and integration with cryptocurrency for transactions and rewards. These characteristics shape user experiences and interactions on the platform.
 
 ### connects-to
 [[concepts/abilities-as-apps]]  
@@ -23,5 +23,5 @@ In OpenHome, Web3 Native principles may be reflected in features such as decentr
 [[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-02T14:46:26Z -->
+<!-- synthesized: 2026-09-03T14:45:11Z -->
 ```
