@@ -3,25 +3,25 @@
 title: web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-09-03
+last_updated: 2026-09-04
 ---
 
-### definition
-Web3-native refers to applications, platforms, and technologies that are built on decentralized protocols and leverage blockchain technology. These solutions typically promote transparency, user control over data, and peer-to-peer interactions without relying on traditional intermediaries.
+## definition
+Web3-native refers to applications and services built on decentralized protocols and technologies, primarily utilizing blockchain for enhanced user control and ownership over data, digital identities, and assets.
 
-### why-it-matters
-The concept of web3-native is fundamentally important to OpenHome as it enables a decentralized and user-centric ecosystem. By embracing web3 principles, OpenHome can foster greater trust and community ownership, which aligns with the platform's goals of empowerment and autonomy for users.
+## why-it-matters
+Web3-native concepts are significant for OpenHome as they align with the platform’s vision of decentralization and empowering users. By leveraging web3 technologies, OpenHome can offer a more transparent and user-centric environment, fostering trust and innovation among its community members.
 
-### how-it-manifests
-While specific implementations within OpenHome may not be detailed, the web3-native concept likely appears in features such as decentralized identity management, data ownership frameworks, and integration with cryptocurrency for transactions and rewards. These characteristics shape user experiences and interactions on the platform.
+## how-it-manifests
+While specific implementations of web3-native concepts within OpenHome are not detailed, it could potentially manifest in features that include decentralized identity verification, peer-to-peer transactions, and community governance mechanisms. Additionally, the integration of blockchain technology for secure data management and ownership rights can also characterize its web3-native approach.
 
-### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-03T14:45:11Z -->
+<!-- synthesized: 2026-09-04T14:35:44Z -->
 ```

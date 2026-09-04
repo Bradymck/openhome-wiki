@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: Platform Abilities
-entity_type: platform/abilities
+title: platform/abilities
+entity_type: page
 status: stub
-last_updated: 2026-09-03
+last_updated: 2026-09-04
 ---
 
 ### what-it-is
-The Platform Abilities section describes the various functionalities and features available across different components of the OpenHome platform.
+Platform abilities are the functionalities and features available within the OpenHome ecosystem, facilitating interactions and enhancing user experiences.
 
 ### how-it-works
-Platform Abilities encompass a range of tools and integrations that enhance user interactions with the OpenHome ecosystem. Details on the specific abilities are currently limited, but they are designed to optimize the user experience, facilitate connectivity between devices, and enable enhanced functionality within the OpenHome framework.
+The platform abilities allow users and developers to leverage various functionalities, such as controlling smart home devices, integrating voice assistance, and accessing marketplace features. These abilities serve as an interface for interaction with the OpenHome platform, enabling seamless control and automation of compatible devices.
 
 ### current-status
 stub
 
 ## connects-to
-[[platform/openhome]]  
-[[platform/speakers]]  
-[[platform/dashboard]]  
-[[platform/voice-ai]]  
-[[platform/local-link]]  
-[[platform/marketplace]]  
-[[platform/live-editor]]  
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/dashboard]]
+[[platform/voice-ai]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-09-03T14:45:11Z -->
+<!-- synthesized: 2026-09-04T14:35:44Z -->
 ```

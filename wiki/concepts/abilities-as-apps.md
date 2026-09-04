@@ -2,20 +2,20 @@
 ---
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: live
-last_updated: 2026-09-03
+status: stub
+last_updated: 2026-09-04
 ---
 
 ### definition
-Abilities-as-apps refer to the concept of encapsulating functionality or skills as discrete applications within the OpenHome ecosystem, enabling modular and flexible enhancements to user experiences.
+Abilities-as-apps refers to the approach of encapsulating specific functionalities or capabilities within individual applications or modules that can be easily deployed and interacted with in a system.
 
 ### why-it-matters
-This concept is essential to OpenHome as it democratizes access to capabilities, allowing users to easily add, remove, or upgrade functionalities according to their needs. It supports a customizable and tailored approach to home management and interaction, enhancing user satisfaction and engagement.
+This concept promotes flexibility and modularity within the OpenHome platform, allowing users to customize their experience by choosing which capabilities they want to activate or integrate. It enhances user engagement by providing tailored solutions that meet individual needs.
 
 ### how-it-manifests
-The abilities-as-apps concept manifests in the OpenHome platform through the integration of various applications that can be accessed and managed by users. Each app corresponds to a specific ability, such as controlling home appliances, managing security settings, or automating tasks, all of which can be configured based on user preferences.
+Abilities-as-apps can be found within OpenHome as modular applications that serve distinct purposes, enabling users to combine various functionalities to create a personalized environment. This can lead to innovative uses and diverse applications that reflect individual or community preferences.
 
-## connects-to
+### connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ The abilities-as-apps concept manifests in the OpenHome platform through the int
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-03T14:45:11Z -->
+<!-- synthesized: 2026-09-04T14:35:44Z -->
 ```

@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-09-03
+last_updated: 2026-09-04
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships in the environment. This encompasses skills such as understanding maps, recognizing patterns in space, and visualizing transformations in three-dimensional space.
+Spatial intelligence refers to the ability to understand and interact with spatial relationships in the environment. It includes skills such as visualizing and manipulating objects in three-dimensional space and navigating through physical spaces.
 
 ## why-it-matters
-Spatial intelligence is crucial for creating immersive and interactive experiences, especially in applications that require navigation or the arrangement of elements in a physical or virtual environment. In the context of OpenHome, it enhances user engagement and the intuitiveness of the platform’s features.
+Spatial intelligence is crucial to OpenHome as it enhances user engagement by allowing individuals to intuitively navigate and interact with their environments. This intelligence supports features that require an understanding of physical space and can lead to more effective decision-making and creativity.
 
 ## how-it-manifests
-While specific instances of spatial intelligence within OpenHome remain undocumented, it is expected to manifest in features that involve geographic positioning, augmented reality components, or any applications that facilitate user interactions in a spatial context.
+While specific manifestations of spatial intelligence in the OpenHome platform are not detailed, it may appear in functionalities that involve mapping, layout customization, and augmented reality features that rely on spatial awareness. These functions enable users to visualize their home environments in a more interactive and spatially awareness-enhanced manner.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific instances of spatial intelligence within OpenHome remain undocume
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-03T14:45:11Z -->
+<!-- synthesized: 2026-09-04T14:35:44Z -->
 ```

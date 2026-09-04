@@ -1,26 +1,27 @@
 ```markdown
 ---
-title: builders/freshdelii
-entity_type: builder
+title: Freshdelii
+entity_type: builders/
 status: stub
-last_updated: 2026-09-03
+last_updated: 2026-09-04
 ---
 
 ### who-they-are
-Freshdelii is an active member of the community known for engaging in development efforts. However, specific details about their background and the particular projects they are working on are currently unavailable.
+Freshdelii is a community builder involved in developing innovative solutions for enhanced user experiences within the Web3 ecosystem. More specific details about their background and initiatives are currently unavailable.
 
 ### what-they-built
-Information on the specific abilities or integrations that Freshdelii has shipped is not provided at this time.
+Information about the specific abilities or integrations that Freshdelii has shipped is not available at this time.
 
 ### grant-status
-The grant status for Freshdelii is currently unknown.
+None
 
 ### how-to-reach
-Details on how to reach Freshdelii, including their Discord handle, GitHub, and social media links, have not been disclosed.
+Details regarding Freshdelii's communication channels, including Discord handle, GitHub, or X, have not been provided.
 
 ## connects-to
-[[abilities]] 
-[[community]] 
+[[wikilink-to-related-ability-1]]
+[[wikilink-to-related-ability-2]]
+[[wikilink-to-related-ability-3]]
 
-<!-- synthesized: 2026-09-03T14:45:11Z -->
+<!-- synthesized: 2026-09-04T14:35:44Z -->
 ```
