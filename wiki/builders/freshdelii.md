@@ -1,27 +1,23 @@
-```markdown
----
-title: Freshdelii
-entity_type: builders/
+```yaml
+title: builders/freshdelii
+entity_type: builders
 status: stub
-last_updated: 2026-09-04
----
+last_updated: 2026-09-05
+```
 
 ### who-they-are
-Freshdelii is a community builder involved in developing innovative solutions for enhanced user experiences within the Web3 ecosystem. More specific details about their background and initiatives are currently unavailable.
+Background information and current projects for Freshdelii are currently unavailable.
 
 ### what-they-built
-Information about the specific abilities or integrations that Freshdelii has shipped is not available at this time.
+There is no information on any shipped abilities or integrations from Freshdelii at this time.
 
 ### grant-status
-None
+No grant status information is available for Freshdelii.
 
 ### how-to-reach
-Details regarding Freshdelii's communication channels, including Discord handle, GitHub, or X, have not been provided.
+No contact details such as Discord handle, GitHub, or X are currently provided for Freshdelii.
 
 ## connects-to
-[[wikilink-to-related-ability-1]]
-[[wikilink-to-related-ability-2]]
-[[wikilink-to-related-ability-3]]
+No related pages or wikilinks exist for Freshdelii.
 
-<!-- synthesized: 2026-09-04T14:35:44Z -->
-```
+<!-- synthesized: 2026-09-05T13:35:00Z -->

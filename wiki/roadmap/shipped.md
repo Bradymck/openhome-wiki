@@ -2,25 +2,26 @@
 ---
 title: Roadmap
 entity_type: roadmap/shipped
-status: stub
-last_updated: 2026-09-04
+status: live
+last_updated: 2026-09-05
 ---
 
 ### what-it-is
-This page outlines the features and milestones related to the roadmap, including what is planned, in progress, or has been shipped.
+The roadmap outlines features or milestones related to ongoing and upcoming developments, as well as those that have been completed.
 
 ### status
-Currently, there are no specific features or milestones documented as shipped.
+Shipped
 
 ### why-it-matters
-Tracking the roadmap is essential for understanding the development progress and future direction of features that can enhance user experience and functionality.
+The roadmap provides transparency regarding project progress and helps stakeholders to understand what features are currently available, what is under development, and what future enhancements can be expected.
 
 ### eta
-No estimated timelines available at this time.
+Not specified.
 
 ## connects-to
 [[features]]
 [[milestones]]
-[[development]]
-<!-- synthesized: 2026-09-04T14:35:44Z -->
+[[updates]]
+
+<!-- synthesized: 2026-09-05T13:35:00Z --> 
 ```
