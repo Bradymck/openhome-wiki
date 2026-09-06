@@ -1,28 +1,25 @@
 ```markdown
 ---
-title: Builders/Sonordi
-entity_type: builders
+title: builders/sonordi
+entity_type: builder
 status: stub
-last_updated: 2026-09-05
+last_updated: 2026-09-06
 ---
 
 ### who-they-are
-Sonordi is a community builder active in the builder ecosystem, focusing on creating and implementing innovative solutions. Specific details about their background and the exact nature of their projects are currently unavailable.
+Sonordi is a developer engaged in building various integration capabilities for platforms, but specific background details and projects currently under development are not available.
 
 ### what-they-built
-Information regarding specific abilities or integrations that Sonordi has shipped is not yet documented.
+As of now, there is no recorded information on specific abilities or integrations that Sonordi has shipped.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-- Discord: N/A
-- GitHub: N/A
-- X: N/A
+No contact details such as Discord handle, GitHub, or X have been provided.
 
 ## connects-to
-[[builders]]
-[[community builders]]
+[[wikilink-to-abilities]]
 
-<!-- synthesized: 2026-09-05T13:35:00Z -->
+<!-- synthesized: 2026-09-06T13:49:58Z -->
 ```

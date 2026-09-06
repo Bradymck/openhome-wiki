@@ -1,26 +1,26 @@
 ```markdown
 ---
-title: Jagatfx
-entity_type: builders
+title: jagatfx
+entity_type: builders/
 status: stub
-last_updated: 2026-09-05
+last_updated: 2026-09-06
 ---
 
 ### who-they-are
-Jagatfx is a community builder associated with the development of various integrations and abilities within the devkit ecosystem. They are active in engaging with the community and contributing to ongoing projects.
+Jagatfx is part of an active community of builders within the developer ecosystem. They are recognized as a Homie and hold devkit, which positions them to contribute significantly to various projects and integrations.
 
 ### what-they-built
-Details on specific abilities or integrations shipped by Jagatfx are currently not available.
+Currently, there is no specific information available regarding the abilities or integrations that jagatfx has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
 [[wikilinks]]
-<!-- synthesized: 2026-09-05T13:35:00Z -->
+<!-- synthesized: 2026-09-06T13:49:58Z -->
 ```
