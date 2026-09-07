@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: builders/michaelgold
+title: Michael Gold
 entity_type: builders
 status: stub
-last_updated: 2026-09-06
+last_updated: 2026-09-07
 ---
 
-### who-they-are
-Michael Gold is an active community builder and a holder of development kits, engaged in building various projects within the community.
+## who-they-are
+Michael Gold is a community builder who is actively involved in creating and developing innovative solutions within the builder ecosystem.
 
-### what-they-built
-Specific details on the abilities or integrations that Michael has shipped are currently unavailable.
+## what-they-built
+Details on specific abilities or integrations that Michael Gold has shipped are currently unavailable.
 
-### grant-status
-none
+## grant-status
+unknown
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+Currently, there are no publicly available contact details for Michael Gold, such as Discord handle, GitHub, or X.
 
 ## connects-to
-[[abilities]]
-[[integrations]]
-<!-- synthesized: 2026-09-06T13:49:58Z -->
+[[builders]]
+[[community builders]]
+
+<!-- synthesized: 2026-09-07T16:08:57Z -->
 ```

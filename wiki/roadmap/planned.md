@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: roadmap/planned
+title: Roadmap Planned
 entity_type: roadmap
 status: stub
-last_updated: 2026-09-06
+last_updated: 2026-09-07
 ---
 
 ### what-it-is
-Details regarding features or milestones that are planned for future development.
+Information regarding upcoming features or milestones.
 
 ### status
 stub
 
 ### why-it-matters
-Understanding the roadmap is important for stakeholders to remain informed about upcoming features, enhancements, or shifts in project direction.
+Understanding the planned roadmap is important for users to anticipate future developments and enhancements.
 
 ### eta
-Rough timeline for planned features is currently unknown, as there is no specific information available.
+Not available at this time.
 
 ## connects-to
 [[roadmap]]
 [[features]]
 [[milestones]]
 
-<!-- synthesized: 2026-09-06T13:49:58Z -->
+<!-- synthesized: 2026-09-07T16:08:57Z -->
 ```

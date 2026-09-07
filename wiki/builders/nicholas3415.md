@@ -1,27 +1,29 @@
 ```markdown
 ---
-title: Builders/Nicholas3415
-entity_type: builders
+title: builders/nicholas3415
+entity_type: builder
 status: stub
-last_updated: 2026-09-06
+last_updated: 2026-09-07
 ---
 
 ### who-they-are
-Nicholas3415 is an active member of the community, engaged in building innovative solutions. Additional details about their background and specific endeavors are not provided.
+Nicholas3415 is a member of the active community of builders, engaging with the Homie + User roles. They are associated with the development of various capabilities within the community ecosystem.
 
 ### what-they-built
-There is currently no information available regarding any abilities or integrations that Nicholas3415 has shipped.
+Information about specific abilities or integrations that Nicholas3415 has shipped is currently not available.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-There are no connections to abilities to list at this time.
+[[builders]]
+[[homie]]
+[[user roles]]
 
-<!-- synthesized: 2026-09-06T13:49:58Z -->
+<!-- synthesized: 2026-09-07T16:08:57Z -->
 ```

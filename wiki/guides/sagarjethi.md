@@ -1,22 +1,23 @@
 ```markdown
 ---
-title: guides/sagarjethi
-entity_type: Community Guide
+title: Sagarjethi
+entity_type: guides/
 status: stub
-last_updated: 2026-09-06
+last_updated: 2026-09-07
 ---
 
 ### who-they-are
-Information about Sagarjethi's background and expertise is not currently available.
+Sagarjethi is identified as a Community Guide within the user community.
 
 ### what-they-help-with
-Their specialty and the areas in which Sagarjethi offers assistance are not documented at this time.
+Specific areas of expertise and the topics they assist with are not currently available.
 
 ### how-to-reach
-Sagarjethi's Discord handle is not provided.
+Further contact details, such as the Discord handle, are not currently available.
 
 ## connects-to
-[[guides]]
-[[Discord]]
-<!-- synthesized: 2026-09-06T13:49:58Z -->
+[[guides]]  
+[[Community Guide]]  
+
+<!-- synthesized: 2026-09-07T16:08:57Z -->
 ```

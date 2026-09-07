@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: Voice First
+title: concepts/voice-first
 entity_type: concepts
 status: stub
-last_updated: 2026-09-06
+last_updated: 2026-09-07
 ---
 
 ### definition
-Voice First refers to the design and development approach where voice interaction is prioritized as the primary mode of engagement with software and devices.
+Voice-first is a design philosophy and interaction model that prioritizes voice as the primary mode of communication between users and technology.
 
 ### why-it-matters
-In the context of OpenHome, embracing a Voice First strategy aligns with the growing trend of integrating voice commands into everyday activities, enhancing user experience and accessibility. This approach allows users to interact hands-free, facilitating seamless integration of technology into daily routines.
+The voice-first concept is essential for OpenHome as it enhances user accessibility and interaction efficiency, allowing users to engage with their environment in a more natural and intuitive manner.
 
 ### how-it-manifests
-While specific implementations within the OpenHome platform are not detailed in the current context, Voice First principles can be expected to appear in functionalities like voice-activated controls, voice search capabilities, and conversational interfaces, enabling easier and more natural user interactions.
+In the OpenHome platform, voice-first capabilities may be integrated into various applications and services, enabling users to control devices, access information, and perform tasks using voice commands.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ While specific implementations within the OpenHome platform are not detailed in 
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-06T13:49:58Z -->
+<!-- synthesized: 2026-09-07T16:08:57Z -->
 ```

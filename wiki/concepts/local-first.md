@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: concepts/local-first
+title: Local First
 entity_type: concepts
 status: stub
-last_updated: 2026-09-06
+last_updated: 2026-09-07
 ---
 
 ### definition
-Local-first refers to a design approach emphasizing the importance of local data storage and processing. It allows applications to function primarily on a device without needing constant internet connectivity, while still enabling data synchronization when online.
+Local First refers to a design philosophy in which applications prioritize local data storage and processing over cloud-based solutions. This approach allows for seamless interaction, even in environments with limited or no internet connectivity.
 
 ### why-it-matters
-This concept is crucial to OpenHome as it promotes user autonomy and control over their data. By prioritizing local data, users can experience faster performance and improved privacy, as their information is not continuously transmitted to the cloud. This aligns with OpenHome's goal of enabling decentralized interactions.
+Local First is significant to OpenHome as it enhances user experience by ensuring accessibility and reliability of applications. By allowing data to be operated locally, users can continue to interact with their applications without dependency on internet availability, thus promoting autonomy and resilience.
 
 ### how-it-manifests
-Currently, the application of local-first can be seen in various components of the OpenHome platform where data is stored directly on user devices, facilitating offline usability and enhanced privacy measures. The synchronization features ensure that when devices reconnect to the internet, changes are seamlessly updated and managed.
+This concept manifests in the OpenHome platform through applications that provide offline functionality, allowing users to store and manage their data locally. The architecture may include synchronization features that allow data to be updated across devices once connectivity is restored.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ Currently, the application of local-first can be seen in various components of t
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-06T13:49:58Z -->
+<!-- synthesized: 2026-09-07T16:08:57Z -->
 ```
