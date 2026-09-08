@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Web3 Native
+title: web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-09-07
+last_updated: 2026-09-08
 ---
 
 ### definition
-Web3-native refers to applications and platforms that leverage decentralized technologies, such as blockchain, to operate in a peer-to-peer environment. These systems prioritize user ownership and control over data and assets, distinguishing them from traditional Web2 models that rely on centralized intermediaries.
+Web3-native refers to applications and systems designed to leverage the decentralized web architecture, emphasizing blockchain technology, user sovereignty, and interoperability.
 
 ### why-it-matters
-Understanding Web3-native concepts is essential for OpenHome as it aligns with the platform's vision of decentralization, user empowerment, and innovative technological integration. By embracing Web3 principles, OpenHome can enhance user engagement and establish trust through transparent practices.
+Web3-native concepts are essential for OpenHome as they promote a new paradigm of digital ownership and user control. By integrating these principles, OpenHome can empower users through decentralized applications (dApps) that prioritize privacy, security, and transparency.
 
 ### how-it-manifests
-In OpenHome, the Web3-native approach could manifest through user-controlled data stores, decentralized identity management, and asset ownership mechanisms that utilize smart contracts. This ensures that users have a direct relationship with their data and services without the interference of central authorities.
+In the OpenHome platform, web3-native aspects may appear in the form of decentralized identity management, user-controlled data storage, and smart contracts that automate interactions. These elements enhance user trust and facilitate a wide range of innovative interactions within the OpenHome ecosystem.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In OpenHome, the Web3-native approach could manifest through user-controlled dat
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-07T16:08:57Z -->
+<!-- synthesized: 2026-09-08T14:48:03Z -->
 ```

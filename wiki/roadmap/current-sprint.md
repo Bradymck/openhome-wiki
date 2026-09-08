@@ -3,25 +3,25 @@
 title: Roadmap Current Sprint
 entity_type: roadmap
 status: stub
-last_updated: 2026-09-07
+last_updated: 2026-09-08
 ---
 
 ### what-it-is
-The current sprint focuses on ongoing development efforts; however, specific features or milestones are not detailed at this time.
+This section is intended to provide an overview of the features or milestones currently in the roadmap's current sprint.
 
 ### status
 In-progress
 
 ### why-it-matters
-Tracking the current sprint is essential for understanding the development cycle and prioritizing features that enhance user experience and functionality.
+Understanding the current sprint is vital for stakeholders to track ongoing developments and anticipate future enhancements in the product roadmap.
 
 ### eta
-Rough timeline is currently unknown as specific details have not been provided.
+Rough timeline is not available at this moment.
 
 ## connects-to
 [[roadmap]]
-[[current-features]]
-[[development-sprints]]
+[[current-development]]
+[[sprint-overview]]
 
-<!-- synthesized: 2026-09-07T16:08:57Z -->
+<!-- synthesized: 2026-09-08T14:48:03Z -->
 ```

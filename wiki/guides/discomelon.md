@@ -1,24 +1,21 @@
-```markdown
----
+```yaml
 title: Discomelon
-entity_type: guides
+entity_type: guides/
 status: stub
-last_updated: 2026-09-07
----
+last_updated: 2026-09-08
+```
 
-### who-they-are
-Discomelon is a community guide known for their contributions to assisting new users with various aspects of the platform.
+## who-they-are
+Discomelon is a community guide specializing in onboarding new users and providing assistance within the platform.
 
-### what-they-help-with
-Discomelon specializes in helping users navigate community guidelines and best practices, providing insights into effective engagement on the platform.
+## what-they-help-with
+They offer support related to user engagement and community activities, facilitating a welcoming environment for newcomers.
 
-### how-to-reach
-You can reach Discomelon on Discord. 
+## how-to-reach
+Discord handle: Not specified.
 
 ## connects-to
 [[guides]]
-[[community guidelines]]
-[[new user onboarding]]
+[[community guides]]
 
-<!-- synthesized: 2026-09-07T16:08:57Z -->
-```
+<!-- synthesized: 2026-09-08T14:48:03Z -->

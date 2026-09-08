@@ -3,25 +3,23 @@
 title: builders/shookdt
 entity_type: builders
 status: stub
-last_updated: 2026-09-07
+last_updated: 2026-09-08
 ---
 
 ## who-they-are
-Shookdt is an active community builder involved with the development of various integrations and functionalities within the Home community. Details regarding their background and specific projects currently remain scarce.
+Shookdt is a member of the builders community and a holder of the devkit. Details about their background and specific projects they are focusing on are currently unavailable.
 
 ## what-they-built
-Information on specific abilities or integrations that Shookdt has shipped is not available at this time.
+Information regarding the abilities or integrations that Shookdt has shipped is not provided at this time.
 
 ## grant-status
-The grant status for Shookdt is currently unknown.
+none
 
 ## how-to-reach
-Details on how to reach Shookdt, including Discord handle, GitHub, and X accounts, have not been provided.
+Information on Shookdt's contact details such as Discord handle, GitHub, or X is currently not available.
 
 ## connects-to
-[[builders]]
-[[community builders]]
-[[integrations]]
+[[wikilinks]]
 
-<!-- synthesized: 2026-09-07T16:08:57Z -->
+<!-- synthesized: 2026-09-08T14:48:03Z -->
 ```

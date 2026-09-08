@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: illectric-co
+title: Illectric Co
 entity_type: builders
 status: stub
-last_updated: 2026-09-07
+last_updated: 2026-09-08
 ---
 
 ### who-they-are
-illectric-co is a group of active community builders focused on developing innovative solutions within the tech space. Their specific initiatives and projects remain largely unspecified, but they are known for their participation in collaborative development.
+Illectric Co is an active community builder focused on developing innovative solutions within the tech space.
 
 ### what-they-built
-No specific shipped abilities or integrations have been documented at this time. Further details may emerge as their projects develop.
+Details on specific abilities or integrations that Illectric Co has shipped are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-No specific contact information is available. 
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[builders]]
-[[community builders]]
-[[project collaborations]]
+### connects-to
+[[wikilinks]]
 
-<!-- synthesized: 2026-09-07T16:08:57Z -->
+<!-- synthesized: 2026-09-08T14:48:03Z -->
 ```

@@ -3,23 +3,22 @@
 title: builders/sonordi
 entity_type: builders
 status: stub
-last_updated: 2026-09-07
+last_updated: 2026-09-08
 ---
 
 ### who-they-are
-Sonordi is part of the active community focused on building integrations and abilities within the devkit ecosystem. Their background and specific endeavors are not detailed in the available data.
+Sonordi is a developer actively engaged in building innovative capabilities within the community. Detailed information about their background and specific projects they are currently working on is not available.
 
 ### what-they-built
-Information regarding specific shipped abilities or integrations developed by Sonordi is not available in the current data.
+Information regarding the specific abilities or integrations that Sonordi has shipped is currently unavailable.
 
 ### grant-status
-The grant status for Sonordi is not specified in the available information.
+The grant status for Sonordi is not documented.
 
 ### how-to-reach
-Details on how to reach Sonordi, including Discord handle, GitHub, or other social media links, are not provided.
+Contact information for Sonordi is not provided.
 
 ## connects-to
 [[wikilinks]]
-
-<!-- synthesized: 2026-09-07T16:08:57Z -->
+<!-- synthesized: 2026-09-08T14:48:03Z -->
 ```

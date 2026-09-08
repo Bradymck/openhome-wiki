@@ -1,27 +1,24 @@
 ```markdown
 ---
-title: Dead Man's Switch
-entity_type: concepts
-status: stub
-last_updated: 2026-09-07
+title: "dead-man's switch"
+entity_type: "concepts"
+status: "stub"
+last_updated: 2026-09-08
 ---
 
 ### definition
-A dead man's switch is a safety mechanism that automatically triggers an action if the operator becomes incapacitated or fails to respond within a certain timeframe. This can apply to various contexts, including technology and personal safety.
+A dead-man's switch is a safety mechanism designed to prevent accidental or harmful actions when a user is incapacitated. It typically requires regular input from the user; if the input is not received, the system assumes the user is unable to continue and triggers a predetermined safety response.
 
 ### why-it-matters
-In the context of OpenHome, a dead man's switch can ensure continuous operation of critical features and services by automatically transferring control or deactivating them in case the primary user is no longer able to manage them. This enhances user safety and system reliability.
+In the context of OpenHome, a dead-man's switch can enhance security and reliability by ensuring that critical actions or processes are paused or halted when the user can no longer verify them. This is particularly important in decentralized environments, where user agency and control are paramount.
 
 ### how-it-manifests
-While specific implementations of dead man's switches within the OpenHome platform are not detailed, the concept likely appears in features meant to secure user control and safeguard automated processes. It may be relevant in scenarios like user settings, access controls, or automated services that require constant oversight or interaction from a user.
+Within the OpenHome platform, the dead-man's switch concept may be implemented in various applications and features that require constant user engagement or oversight. For example, it could be utilized in automated home systems that need to ensure user presence before executing potentially hazardous actions.
 
-## connects-to
-[[concepts/abilities-as-apps]]
+### connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-07T16:08:57Z -->
+<!-- synthesized: 2026-09-08T14:48:03Z -->
 ```

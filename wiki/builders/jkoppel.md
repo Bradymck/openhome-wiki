@@ -1,25 +1,29 @@
 ```markdown
 ---
-title: "jkoppel"
-entity_type: "builders/"
-status: "stub"
-last_updated: 2026-09-07
+title: builders/jkoppel
+entity_type: builder
+status: stub
+last_updated: 2026-09-08
 ---
 
-## who-they-are
-jkoppel is a member of the community focused on building within the devkit ecosystem. Specific details about their background and the types of projects they are working on are currently unavailable.
+### who-they-are
+jkoppel is an active community builder and a holder of a devkit, engaged in developing innovative solutions within the platform.
 
-## what-they-built
-Information regarding specific abilities or integrations that jkoppel has shipped is not currently accessible.
+### what-they-built
+Currently, there is no specific information available regarding the abilities or integrations that jkoppel has shipped.
 
-## grant-status
-Grant status information for jkoppel is not provided.
+### grant-status
+none
 
-## how-to-reach
-Details on how to reach jkoppel, such as Discord handle, GitHub, or X, are not available.
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/jkoppel]] 
+[[builders]] 
+[[devkits]]
+[[community_builders]]
 
-<!-- synthesized: 2026-09-07T16:08:57Z -->
+<!-- synthesized: 2026-09-08T14:48:03Z -->
 ```

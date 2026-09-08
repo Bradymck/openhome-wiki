@@ -1,26 +1,25 @@
 ```markdown
 ---
-title: FreshDelii
-entity_type: builders/
+title: builders/freshdelii
+entity_type: builders
 status: stub
-last_updated: 2026-09-07
+last_updated: 2026-09-08
 ---
 
 ### who-they-are
-FreshDelii is part of an active community of builders focused on creating innovative solutions within the realm of food delivery and management. They are engaged in using their skills and resources to improve the efficiency and accessibility of food services.
+Freshdelii is a community builder involved in the development of innovative solutions within the Homie ecosystem. Further information on their background and specific contributions is not available at this time.
 
 ### what-they-built
-Currently, no specific abilities or integrations built by FreshDelii have been documented.
+Details regarding the specific abilities or integrations that Freshdelii has shipped are currently unknown.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not available
-- GitHub: Not available
-- X: Not available
+No specific contact information, such as Discord handle or other social media links, has been provided for Freshdelii.
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-09-07T16:08:57Z -->
+[[abilities]]
+
+<!-- synthesized: 2026-09-08T14:48:03Z -->
 ```

@@ -1,26 +1,26 @@
 ```yaml
-title: Voice AI
-entity_type: platform/voice-ai
+title: platform/voice-ai
+entity_type: platform
 status: stub
-last_updated: 2026-09-07
+last_updated: 2026-09-08
 ```
 
 ## what-it-is
-Voice AI refers to the integration of artificial intelligence technologies that enable devices to recognize, interpret, and respond to human voice commands. This technology enhances user interactions with platforms by allowing for hands-free control and natural language processing, making it a key component of modern smart home ecosystems.
+The platform/voice-ai refers to the advanced voice recognition and response technology integrated within the OpenHome ecosystem, enabling users to interact with devices through natural language.
 
 ## how-it-works
-Voice AI functions by utilizing advanced algorithms and machine learning models to process audio input, decipher spoken language, and execute the corresponding actions. Through the use of natural language understanding (NLU), it is capable of interpreting user requests and providing responses or executing commands. Voice AI systems often have a backend infrastructure that connects to various services, enabling features such as information retrieval, device control, and integration with other platforms.
+Voice AI functionalities utilize machine learning algorithms to process and understand spoken commands, allowing for seamless communication between users and smart devices. The system likely involves audio input processing, language understanding, and response generation to facilitate interactive voice experiences, though detailed technical specifications may not be available.
 
 ## current-status
 stub
 
 ## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+[[platform/openhome]]  
+[[platform/speakers]]  
+[[platform/abilities]]  
+[[platform/dashboard]]  
+[[platform/local-link]]  
+[[platform/marketplace]]  
+[[platform/live-editor]]  
 
-<!-- synthesized: 2026-09-07T16:08:57Z -->
+<!-- synthesized: 2026-09-08T14:48:03Z -->
