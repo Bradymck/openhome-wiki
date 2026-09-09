@@ -1,24 +1,25 @@
-```markdown
----
+```yaml
 title: Local First
 entity_type: concepts
 status: stub
-last_updated: 2026-09-08
----
-
-### definition
-Local First is a design philosophy that emphasizes local data storage and processing, allowing applications to function with minimal reliance on remote servers. It prioritizes user control and offline capabilities by ensuring that data is accessible even when disconnected from the internet.
-
-### why-it-matters
-This concept is highly relevant to OpenHome as it promotes user autonomy and enhances the experience of using applications in environments with unreliable connectivity. By allowing applications to operate locally, users can maintain privacy, reduce latency, and foster a more resilient user experience.
-
-### how-it-manifests
-Local First may manifest in OpenHome applications by utilizing local databases and caching mechanisms, ensuring that user interactions remain uninterrupted regardless of network status. This approach allows applications to synchronize data when connectivity is restored, providing a seamless user experience.
-
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
-
-<!-- synthesized: 2026-09-08T14:48:03Z -->
+last_updated: 2026-09-09
 ```
+
+## definition
+Local First is a design philosophy that emphasizes the importance of having applications operate primarily on local devices or networks rather than relying on constant connectivity to remote servers. This approach prioritizes user autonomy, data sovereignty, and responsiveness in application design.
+
+## why-it-matters
+In the context of OpenHome, Local First is significant because it enables users to maintain control over their own data and interactions, even in situations where internet access is limited or unreliable. This aligns with OpenHome's mission to create a more user-centric and resilient platform.
+
+## how-it-manifests
+Local First appears in the OpenHome platform through features that allow users to store data locally, manage applications offline, and ensure that interactions remain seamless regardless of availability of an internet connection. This can include client-side storage solutions, offline data syncing, and lightweight local application environments.
+
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+
+<!-- synthesized: 2026-09-09T14:50:58Z -->

@@ -3,24 +3,23 @@
 title: pmckelvy
 entity_type: builders
 status: stub
-last_updated: 2026-09-08
+last_updated: 2026-09-09
 ---
 
 ### who-they-are
-pmckelvy is an active member of the builders community, engaged in developing capabilities for the community. Further personal or project-specific background details are not provided.
+Details about pmckelvy's background and what they are currently building are not available.
 
 ### what-they-built
-Currently, there is no specific information available regarding the abilities or integrations shipped by pmckelvy.
+Information regarding the specific abilities or integrations shipped by pmckelvy is currently unavailable.
 
 ### grant-status
-none
+The grant status for pmckelvy is not specified.
 
 ### how-to-reach
-Currently, there are no provided links for Discord handle, GitHub, or X for pmckelvy.
+No contact information, such as Discord handle, GitHub, or X, has been provided for pmckelvy.
 
 ## connects-to
-[[builders]]
-[[homie]]
-[[devkit]]
-<!-- synthesized: 2026-09-08T14:48:03Z -->
+No related abilities are currently documented.
+
+<!-- synthesized: 2026-09-09T14:50:58Z -->
 ```

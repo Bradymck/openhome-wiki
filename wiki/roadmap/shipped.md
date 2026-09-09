@@ -1,25 +1,27 @@
 ```markdown
 ---
-title: roadmap/shipped
+title: Roadmap Shipped
 entity_type: roadmap
 status: stub
-last_updated: 2026-09-08
+last_updated: 2026-09-09
 ---
 
 ### what-it-is
-This section is currently not populated with specific features or milestones.
+Documentation for the features and milestones related to the roadmap.
 
 ### status
-The status of the roadmap entries is undetermined as there are no specific shipped features or milestones documented.
+stub
 
 ### why-it-matters
-Understanding the roadmap is crucial for stakeholders to align their expectations and strategies around upcoming features and development progress. Without detailed information, it is challenging to grasp what enhancements or changes are being implemented.
+Understanding the roadmap is crucial for stakeholders to anticipate development timelines and feature releases.
 
 ### eta
-There is no estimated timeline available for any shipped items or features in the roadmap.
+Not available.
 
 ## connects-to
-[[roadmap]], [[features]], [[milestones]]
+[[roadmap/planned]]
+[[roadmap/in-progress]]
+[[roadmap/cancelled]]
 
-<!-- synthesized: 2026-09-08T14:48:03Z -->
+<!-- synthesized: 2026-09-09T14:50:58Z -->
 ```

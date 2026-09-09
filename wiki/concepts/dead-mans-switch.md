@@ -1,24 +1,26 @@
 ```markdown
 ---
-title: "dead-man's switch"
-entity_type: "concepts"
-status: "stub"
-last_updated: 2026-09-08
+title: Dead Man's Switch
+entity_type: concepts
+status: stub
+last_updated: 2026-09-09
 ---
 
 ### definition
-A dead-man's switch is a safety mechanism designed to prevent accidental or harmful actions when a user is incapacitated. It typically requires regular input from the user; if the input is not received, the system assumes the user is unable to continue and triggers a predetermined safety response.
+A dead man's switch is a safety mechanism designed to trigger an action if the user becomes incapacitated or fails to react in a given timeframe. In the context of digital systems, it typically refers to a feature that ensures continuity of service or communication when a user is no longer able to provide input.
 
 ### why-it-matters
-In the context of OpenHome, a dead-man's switch can enhance security and reliability by ensuring that critical actions or processes are paused or halted when the user can no longer verify them. This is particularly important in decentralized environments, where user agency and control are paramount.
+The dead man's switch is significant in OpenHome as it enhances user control and security. It ensures that critical services or tasks do not cease unexpectedly, providing a safeguard for both user data and operational integrity within the platform.
 
 ### how-it-manifests
-Within the OpenHome platform, the dead-man's switch concept may be implemented in various applications and features that require constant user engagement or oversight. For example, it could be utilized in automated home systems that need to ensure user presence before executing potentially hazardous actions.
+Within OpenHome, dead man's switch functionality may be integrated into features that involve ongoing tasks or automated services. For example, if a user is managing a smart home system, a dead man's switch could ensure that specific actions are taken (like notifying emergency contacts) if the user does not respond to prompts in a specified time frame.
 
 ### connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/local-first]]
+- [[concepts/voice-first]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/web3-native]]
 
-<!-- synthesized: 2026-09-08T14:48:03Z -->
+<!-- synthesized: 2026-09-09T14:50:58Z -->
 ```
