@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: web3-native
+title: Web3 Native
 entity_type: concepts
 status: stub
-last_updated: 2026-09-09
+last_updated: 2026-09-10
 ---
 
-### definition
-Web3-native refers to applications, platforms, and services that are built using decentralized web technologies and principles, emphasizing user control, transparency, and the integration of blockchain.
+## definition
+Web3 Native refers to applications, services, and systems that are built to operate within the decentralized web environment characterized by blockchain technology. These solutions leverage decentralization, user ownership, and transparency as core principles.
 
-### why-it-matters
-Web3-native concepts are crucial to OpenHome as they align with the platform's vision of creating a decentralized ecosystem that empowers users by giving them full control over their data and interactions. This enables the development of applications that prioritize user agency and trust, which are foundational to the OpenHome experience.
+## why-it-matters
+Web3 Native is essential to OpenHome as it aligns with the platform's goals of decentralization and empowering users with control over their data. By fostering a Web3 Native environment, OpenHome enhances user privacy and the overall trust in digital interactions.
 
-### how-it-manifests
-While specific applications or features of web3-native technologies within OpenHome are not detailed, this concept manifests in the platform's emphasis on infrastructure that supports decentralization and community governance. The aim is to create an environment where users can engage without intermediaries, making it easier to share, collaborate, and innovate.
+## how-it-manifests
+While specific implementations within OpenHome are not detailed in the available sources, the principles of being Web3 Native should manifest in features that allow users to manage their own identities, data, and interactions without reliance on centralized authorities. This could include smart contracts, decentralized applications (dApps), and community governance mechanisms.
 
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+## connects-to
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-09T14:50:58Z -->
+<!-- synthesized: 2026-09-10T14:40:30Z -->
 ```

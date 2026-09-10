@@ -3,27 +3,24 @@
 title: Michael Gold
 entity_type: builders
 status: stub
-last_updated: 2026-09-09
+last_updated: 2026-09-10
 ---
 
 ### who-they-are
-Michael Gold is an active community builder in the [Homie](https://example.com/homie) ecosystem. He is a devkit holder focused on developing shipping capabilities and integrating new features within the platform.
+Michael Gold is a community builder involved in the development of various integrations and abilities within the platform. Details regarding his specific background and the projects he is currently working on are not available.
 
 ### what-they-built
-Information on specific shipped abilities or integrations by Michael Gold is currently not available.
+There is no information available about the specific abilities or integrations that Michael Gold has shipped.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+No contact information is available for Michael Gold at this time.
 
 ## connects-to
 [[builders]]
-[[Homie]]
-[[devkit]]
-[[community]]
-<!-- synthesized: 2026-09-09T14:50:58Z -->
+[[integrations]]
+
+<!-- synthesized: 2026-09-10T14:40:30Z -->
 ```

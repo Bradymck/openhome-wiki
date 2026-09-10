@@ -1,20 +1,21 @@
-```yaml
-title: Local First
+```markdown
+---
+title: Local-First
 entity_type: concepts
 status: stub
-last_updated: 2026-09-09
-```
+last_updated: 2026-09-10
+---
 
-## definition
-Local First is a design philosophy that emphasizes the importance of having applications operate primarily on local devices or networks rather than relying on constant connectivity to remote servers. This approach prioritizes user autonomy, data sovereignty, and responsiveness in application design.
+### definition
+Local-first is a design approach that prioritizes users' local data and interactions on their devices before syncing with the cloud or other remote services. This concept emphasizes that applications should function effectively with local data, ensuring they remain usable even without an internet connection.
 
-## why-it-matters
-In the context of OpenHome, Local First is significant because it enables users to maintain control over their own data and interactions, even in situations where internet access is limited or unreliable. This aligns with OpenHome's mission to create a more user-centric and resilient platform.
+### why-it-matters
+In the context of OpenHome, local-first is crucial as it enhances user autonomy, privacy, and accessibility. By allowing applications to operate predominantly with locally stored data, users have more control over their information while also ensuring that their experiences are resilient to network failures.
 
-## how-it-manifests
-Local First appears in the OpenHome platform through features that allow users to store data locally, manage applications offline, and ensure that interactions remain seamless regardless of availability of an internet connection. This can include client-side storage solutions, offline data syncing, and lightweight local application environments.
+### how-it-manifests
+This concept is reflected within the OpenHome platform by enabling applications to store data locally, providing seamless access and functionality irrespective of online connectivity. Features such as offline-first caching and local data processing exemplify this approach.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -22,4 +23,5 @@ Local First appears in the OpenHome platform through features that allow users t
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-09T14:50:58Z -->
+<!-- synthesized: 2026-09-10T14:40:30Z -->
+```

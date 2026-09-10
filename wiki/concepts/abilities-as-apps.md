@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: concepts/abilities-as-apps
+title: Abilities as Apps
 entity_type: concepts
 status: live
-last_updated: 2026-09-09
+last_updated: 2026-09-10
 ---
 
 ## definition
-Abilities-as-apps is a conceptual framework where specific functionalities or skills are treated as discrete applications that can be accessed and utilized within a larger platform. This allows for modular deployment and interaction, enabling users to leverage various capabilities as needed.
+"Abilities as Apps" is a concept in OpenHome where individual capabilities or functionalities of the platform are encapsulated and delivered as distinct applications. This allows users to access and utilize specific abilities independently, providing a modular experience.
 
 ## why-it-matters
-This concept is integral to OpenHome as it enhances user experience by providing flexibility and customization. Users can select from a range of abilities that serve their specific needs, improving engagement and satisfaction. It simplifies the integration of diverse functionalities, making the platform more approachable and versatile for various applications.
+This concept enhances user experience by allowing greater customization and personalization within the OpenHome ecosystem. Users can select the abilities they want to use, making the platform more flexible and adaptable to individual needs. This approach can lead to improved user engagement and satisfaction.
 
 ## how-it-manifests
-Abilities-as-apps manifest within OpenHome as individual features or services that users can activate or deactivate based on their preferences. This modular approach allows developers to create and maintain abilities independently, leading to a more dynamic and robust ecosystem. Users can access these abilities through a unified interface, making it easier to switch between or combine different functionalities seamlessly.
+In the OpenHome platform, "Abilities as Apps" appears as a collection of distinct applications that can be installed, activated, or deactivated by the users. Each app represents a specific functionality—such as controlling smart home devices, accessing social media, or managing daily tasks—allowing users to tailor their experience according to their preferences.
 
 ## connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ Abilities-as-apps manifest within OpenHome as individual features or services th
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-09T14:50:58Z -->
+<!-- synthesized: 2026-09-10T14:40:30Z -->
 ```
