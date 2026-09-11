@@ -1,27 +1,26 @@
 ```markdown
 ---
 title: builders/freshdelii
-entity_type: community builder
+entity_type: builders
 status: stub
-last_updated: 2026-09-10
+last_updated: 2026-09-11
 ---
 
 ### who-they-are
-FreshDelii is a community builder actively engaged in creating innovative solutions within their domain. They focus on enhancing the user experience and interaction through their developments.
+FreshDelii is an active community builder engaged in developing innovative solutions within the digital landscape. They focus on creating seamless integrations and improving user experiences.
 
 ### what-they-built
-No specific abilities or integrations have been documented for FreshDelii yet.
+Information on specific shipped abilities or integrations by FreshDelii is currently unavailable.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified  
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
 [[abilities]]
-
-<!-- synthesized: 2026-09-10T14:40:30Z -->
+<!-- synthesized: 2026-09-11T14:39:45Z -->
 ```

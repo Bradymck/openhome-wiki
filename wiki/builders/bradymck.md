@@ -3,14 +3,14 @@
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-09-10
+last_updated: 2026-09-11
 ---
 
 ### who-they-are
-bradymck is an active community builder focused on enhancing the developer experience within the ecosystem. Their work often revolves around providing innovative tools and integrations to improve user engagement and productivity.
+Brady McK is an active community builder engaged in developing applications within the ecosystem. Specific details about his background and the particular areas he focuses on are currently not available.
 
 ### what-they-built
-Details about specific abilities or integrations that bradymck has shipped are currently not available.
+As of now, there are no specific abilities or integrations that have been attributed to Brady McK.
 
 ### grant-status
 none
@@ -22,7 +22,8 @@ none
 
 ## connects-to
 [[builders]]
-[[community builders]]
 [[developer tools]]
-<!-- synthesized: 2026-09-10T14:40:30Z -->
+[[community engagement]]
+
+<!-- synthesized: 2026-09-11T14:39:45Z -->
 ```

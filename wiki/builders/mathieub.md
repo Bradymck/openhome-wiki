@@ -1,29 +1,27 @@
 ```markdown
 ---
-title: mathieub
+title: builders/mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-09-10
+last_updated: 2026-09-11
 ---
 
 ### who-they-are
-Mathieub is an active community builder involved in developing innovative integrations and abilities for the platform. Their background and specific focus areas have not been detailed in the available information.
+Mathieu is a community builder within the Homie ecosystem, focusing on creating tools and integrations that leverage the capabilities of the Homie platform.
 
 ### what-they-built
-Details about the specific abilities or integrations built by mathieub have not been provided.
+Information on specific abilities or integrations that Mathieu has shipped is not currently available.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-- Discord: Not available
-- GitHub: Not available
-- X: Not available
+Discord: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
 ## connects-to
 [[builders]]
-[[integrations]]
-[[abilities]]
 
-<!-- synthesized: 2026-09-10T14:40:30Z -->
+<!-- synthesized: 2026-09-11T14:39:45Z -->
 ```

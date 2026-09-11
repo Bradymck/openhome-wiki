@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Abilities as Apps
+title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-09-10
+last_updated: 2026-09-11
 ---
 
 ## definition
-"Abilities as Apps" is a concept in OpenHome where individual capabilities or functionalities of the platform are encapsulated and delivered as distinct applications. This allows users to access and utilize specific abilities independently, providing a modular experience.
+Abilities-as-apps refers to the concept of encapsulating functional capabilities as distinct applications within a broader platform. This approach allows for modular use of specific functionalities without the need to engage with the entire system.
 
 ## why-it-matters
-This concept enhances user experience by allowing greater customization and personalization within the OpenHome ecosystem. Users can select the abilities they want to use, making the platform more flexible and adaptable to individual needs. This approach can lead to improved user engagement and satisfaction.
+This concept is significant to OpenHome as it promotes flexibility and customization for users. By allowing functionalities to be accessed as individual applications, users can tailor their experience according to their specific needs and preferences, enhancing user engagement and utility.
 
 ## how-it-manifests
-In the OpenHome platform, "Abilities as Apps" appears as a collection of distinct applications that can be installed, activated, or deactivated by the users. Each app represents a specific functionality—such as controlling smart home devices, accessing social media, or managing daily tasks—allowing users to tailor their experience according to their preferences.
+In the OpenHome platform, abilities-as-apps appear as standalone features that can be integrated or used independently. Users can select from a variety of applications that serve different functions, fostering a more personalized and efficient interaction with the platform.
 
 ## connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ In the OpenHome platform, "Abilities as Apps" appears as a collection of distinc
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-10T14:40:30Z -->
+<!-- synthesized: 2026-09-11T14:39:45Z -->
 ```
