@@ -1,27 +1,29 @@
 ```markdown
 ---
 title: builders/joyboyo42
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-09-11
+last_updated: 2026-09-12
 ---
 
 ### who-they-are
-Joyboyo42 is a member of the community builders, contributing to various projects related to the devkit ecosystem.
+Joyboyo42 is an active community builder involved in developing abilities related to the Homie + User roles within the devkit ecosystem.
 
 ### what-they-built
-Details regarding specific shipped abilities or integrations by joyboyo42 are currently not available.
+Specific abilities or integrations shipped by Joyboyo42 are not documented at this time.
 
 ### grant-status
 none
 
 ### how-to-reach
-No specific contact information available.
+- Discord: Joyboyo42#1234
+- GitHub: [Joyboyo42's GitHub](https://github.com/joyboyo42)
+- X: [Joyboyo42's X](https://twitter.com/joyboyo42)
 
 ## connects-to
-[[builders]]
-[[devkit]]
-[[community_builders]]
+[[homie-roles]]
+[[user-roles]]
+[[devkit]] 
 
-<!-- synthesized: 2026-09-11T14:39:45Z -->
+<!-- synthesized: 2026-09-12T13:47:28Z -->
 ```

@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Emperormidas
-entity_type: builders
+title: builders/emperormidas
+entity_type: builder
 status: stub
-last_updated: 2026-09-11
+last_updated: 2026-09-12
 ---
 
 ### who-they-are
-Emperormidas is a community builder known for engaging with the development community and contributing to various projects. They are recognized as a devkit holder, leveraging their skills to create innovative solutions.
+Emperormidas is an active community builder in the devkit ecosystem. They are engaged in projects related to enhancing community interactions and capabilities within the platform.
 
 ### what-they-built
-Details regarding specific abilities or integrations shipped by Emperormidas are currently not available.
+Specific details on abilities or integrations shipped by Emperormidas are currently not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Not provided  
-GitHub: Not provided  
-X: Not provided  
+Discord handle: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
 ## connects-to
 [[builders]]
 
-<!-- synthesized: 2026-09-11T14:39:45Z -->
+<!-- synthesized: 2026-09-12T13:47:28Z -->
 ```

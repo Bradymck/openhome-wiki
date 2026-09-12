@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-09-11
+last_updated: 2026-09-12
 ---
 
 ### definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships between objects or environments, often leading to enhanced understanding of geographical and physical contexts.
+Spatial intelligence is the ability to visualize and manipulate objects in a three-dimensional space. It involves understanding how objects relate to each other in terms of distance, direction, and association.
 
 ### why-it-matters
-In the context of OpenHome, spatial intelligence is crucial for developing interactive environments that respond to the user's physical space. It enables the platform to create more immersive and intuitive experiences, allowing users to engage with content in a way that feels natural and aligned with their surroundings.
+Spatial intelligence is crucial for enhancing user interactions within OpenHome. By integrating spatial awareness into the platform, it can improve navigation, organization of information, and user experience, making systems more intuitive and responsive to users' needs.
 
 ### how-it-manifests
-While specific implementations of spatial intelligence within OpenHome are still under development, it is expected to influence features such as augmented reality interactions, spatial navigation tools, and context-aware functionalities that adapt to the user's location and movements.
+The manifestation of spatial intelligence in OpenHome can be seen in features that enable users to interact with their environment and digital content in a three-dimensional context. This includes elements such as augmented reality, 3D map views, and spatial arrangements of data.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific implementations of spatial intelligence within OpenHome are still
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-11T14:39:45Z -->
+<!-- synthesized: 2026-09-12T13:47:28Z -->
 ```
