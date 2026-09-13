@@ -1,22 +1,22 @@
 ```markdown
 ---
-title: trivia
+title: Trivia
 entity_type: abilities
 status: stub
-last_updated: 2026-09-12
+last_updated: 2026-09-13
 ---
 
 ### what-it-does
-The trivia ability allows users to engage in various trivia games and quizzes, testing their knowledge across multiple categories.
+The Trivia ability provides users with random trivia questions and facts, allowing for an engaging and educational experience.
 
 ### how-to-build
-Builder notes for the trivia ability have not been detailed in this source. 
+Details on the API surface and builder notes are currently not available.
 
 ### category
 entertainment
 
 ### built-by
-[builder-name](builder-name)
+[[abilities/trivia]]
 
 ### status
 stub
@@ -26,5 +26,5 @@ stub
 [[abilities/deadman-fm]]
 [[abilities/news-brief]]
 
-<!-- synthesized: 2026-09-12T13:47:28Z -->
+<!-- synthesized: 2026-09-13T14:43:31Z -->
 ```

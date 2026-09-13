@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: Michael Gold
-entity_type: builders/
-status: stub
-last_updated: 2026-09-12
+title: "builders/michaelgold"
+entity_type: "builder"
+status: "stub"
+last_updated: 2026-09-13
 ---
 
 ### who-they-are
-Michael Gold is a member of the builders community, actively engaged in creating and enhancing tools within the ecosystem.
+Michael Gold is an active community builder known for his involvement in development initiatives. He holds devkit assets and is focused on creating innovative solutions within the community.
 
 ### what-they-built
-Details on specific abilities or integrations built by Michael Gold are currently unavailable.
+Information regarding specific abilities or integrations that Michael Gold has shipped is currently unavailable.
 
 ### grant-status
 none
@@ -21,9 +21,7 @@ none
 - X: Not specified
 
 ## connects-to
-[[builders]]
-[[devkit]]
-[[community builders]]
+[[abilities]] <!-- assuming abilities is a related page; update with actual links if available -->
 
-<!-- synthesized: 2026-09-12T13:47:28Z -->
+<!-- synthesized: 2026-09-13T14:43:31Z -->
 ```

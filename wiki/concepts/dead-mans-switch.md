@@ -1,21 +1,20 @@
-```markdown
----
+```yaml
 title: Dead Man's Switch
 entity_type: concepts
 status: stub
-last_updated: 2026-09-12
----
+last_updated: 2026-09-13
+```
 
-### definition
-A dead man's switch is a safety mechanism or feature designed to trigger an action or alert an event if a designated operator becomes incapacitated or fails to perform a specific action within a predetermined timeframe.
+## definition
+A dead man's switch is a safety mechanism that operates when a user is inactive or unresponsive, triggering a predefined action to ensure continuity or prevent negative outcomes. 
 
-### why-it-matters
-In the context of OpenHome, a dead man's switch serves as a crucial safety and security feature. It helps ensure that systems remain active and accountable, particularly in automated or remote-operated scenarios. This concept is important for maintaining operational integrity and provides peace of mind for users, knowing that actions can be taken automatically in case of unforeseen circumstances.
+## why-it-matters
+In the context of OpenHome, a dead man's switch is significant as it enhances user security and ensures that critical services remain operational even in unforeseen circumstances. This concept promotes resilience, aiding in maintaining user control and safety.
 
-### how-it-manifests
-The dead man's switch may be implemented in various features within the OpenHome platform, allowing users to automate tasks that will trigger alerts or shutdown processes if specific criteria are not met. This might include scenarios like automated home management systems where, if the primary user does not interact with the system for a set period, safety protocols are initiated.
+## how-it-manifests
+In OpenHome, the dead man's switch can be implemented in various ways, such as ensuring that critical tasks are automatically handed off to designated parties if the primary user fails to interact with the system for a specified duration or in situations of inactivity.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +22,4 @@ The dead man's switch may be implemented in various features within the OpenHome
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-12T13:47:28Z -->
-```
+<!-- synthesized: 2026-09-13T14:43:31Z -->

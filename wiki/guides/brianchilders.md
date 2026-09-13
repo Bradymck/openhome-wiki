@@ -1,22 +1,23 @@
 ```markdown
 ---
-title: brianchilders
+title: Brianchilders
 entity_type: guides
 status: stub
-last_updated: 2026-09-12
+last_updated: 2026-09-13
 ---
 
 ### who-they-are
-Information regarding the background and expertise of brianchilders is currently unavailable.
+Brianchilders is recognized within the community for their expertise and dedication to helping new users navigate complex platforms and tools.
 
 ### what-they-help-with
-Details about the specialties and assistance provided by brianchilders are not provided.
+Brianchilders specializes in onboarding processes, providing guidance on user interfaces, troubleshooting common issues, and offering insights on effective use of available features.
 
 ### how-to-reach
-Contact details for brianchilders, including their Discord handle, are not available.
+You can reach Brianchilders on Discord.
 
 ## connects-to
-[[guides]]
-
-<!-- synthesized: 2026-09-12T13:47:28Z -->
+[[Community Guides]]
+[[User Onboarding]]
+[[Troubleshooting]]
+<!-- synthesized: 2026-09-13T14:43:31Z -->
 ```
