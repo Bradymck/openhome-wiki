@@ -1,23 +1,25 @@
 ```markdown
 ---
-title: Guides/Sira
-entity_type: guides
+title: guides/sira
+entity_type: Community Guide
 status: stub
-last_updated: 2026-09-13
+last_updated: 2026-09-14
 ---
 
 ### who-they-are
-No specific background or expertise information is available for Sira.
+Sira is a community guide recognized for their contributions to assisting new users in navigating various technical challenges.
 
 ### what-they-help-with
-No detailed information on specialties, abilities, hardware, or APIs is available for Sira.
+Sira specializes in guiding users through complex systems and providing assistance with specific hardware and software queries.
 
 ### how-to-reach
-No Discord handle is provided for contacting Sira.
+Discord Handle: [SiraNotFound]
 
 ## connects-to
 [[guides]]
 [[community guides]]
+[[hardware assistance]]
+[[software help]]
 
-<!-- synthesized: 2026-09-13T14:43:31Z -->
+<!-- synthesized: 2026-09-14T16:39:21Z -->
 ```

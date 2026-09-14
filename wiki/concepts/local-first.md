@@ -1,27 +1,25 @@
-```markdown
----
-title: Local First
-entity_type: concepts/
+```yaml
+title: concepts/local-first
+entity_type: concepts
 status: stub
-last_updated: 2026-09-13
----
+last_updated: 2026-09-14
+```
 
 ## definition
-Local First refers to a design philosophy where applications prioritize local data storage and processing, enabling offline access and faster performance by minimizing reliance on remote servers.
+Local-first is a development approach emphasizing the prioritization of local data storage and processing on user devices. It aims to ensure that applications can function seamlessly even without an internet connection, maintaining user autonomy and control over their data.
 
 ## why-it-matters
-In the context of OpenHome, Local First is significant because it enhances user experience by ensuring that applications remain functional even when internet connectivity is unreliable. This concept aligns with a user-centric approach, promoting autonomy and reducing latency.
+Local-first is significant to OpenHome as it enhances user experience by ensuring reliability and performance. It allows users to interact with their data quickly and provides a level of privacy and security since data does not always rely on cloud storage. This approach is aligned with OpenHome's mission to empower users through decentralized and user-centric technologies.
 
 ## how-it-manifests
-Local First appears in OpenHome through features that allow data to be stored on users' devices, enabling seamless interactions and offline capabilities. This may include applications that sync data when connectivity is restored while maintaining functionality without constant internet access.
+This concept appears in the OpenHome platform through features that support offline capabilities, local data synchronization, and tools that allow users to manage their data directly from their devices. Applications built on OpenHome strive to deliver functionalities that do not depend entirely on continuous internet access, thereby promoting a smoother interaction with the platform.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-13T14:43:31Z -->
-```
+<!-- synthesized: 2026-09-14T16:39:21Z -->

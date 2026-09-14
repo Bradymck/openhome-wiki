@@ -3,25 +3,24 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-09-13
+last_updated: 2026-09-14
 ---
 
 ### definition
-Abilities-as-apps refers to the approach of encapsulating specific functionalities or capabilities within applications, allowing users to access and utilize diverse skills or actions seamlessly.
+Abilities-as-apps refers to the conceptualization and presentation of functionalities and features within the OpenHome platform as individual applications or services, enabling modular access and interaction.
 
 ### why-it-matters
-This concept is crucial to OpenHome as it promotes modularity and flexibility, enabling users to customize their home environment with various functionalities tailored to their specific needs. It enhances user experience by making complex systems easier to interact with, fostering an ecosystem where diverse applications can coexist and operate harmoniously.
+This concept is significant to OpenHome as it fosters a flexible ecosystem where users can easily deploy, update, and manage different capabilities. By treating abilities as separate apps, it allows for greater customization and adaptability to user needs.
 
 ### how-it-manifests
-Abilities-as-apps can be found throughout the OpenHome platform, where different apps present specialized features that users can activate. This modular approach allows for easy integration of new capabilities, as well as the ability to personalize and extend functionalities based on user preferences.
+In the OpenHome platform, abilities-as-apps can be seen through the interface where users can select and integrate different functionalities based on their preferences. Each ability may operate independently, yet collectively contribute to the overall user experience.
 
 ### connects-to
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
-
-<!-- synthesized: 2026-09-13T14:43:31Z -->
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+<!-- synthesized: 2026-09-14T16:39:21Z -->
 ```

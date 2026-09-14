@@ -1,28 +1,23 @@
-```markdown
----
-title: Roadmap Overview
-entity_type: roadmap/shipped
-status: live
-last_updated: 2026-09-13
----
+```yaml
+title: roadmap/shipped
+entity_type: roadmap
+status: stub
+last_updated: 2026-09-14
+```
 
 ### what-it-is
-This page provides an overview of the roadmap for features and milestones related to product development.
+Information about features or milestones that have been shipped as part of the roadmap.
 
 ### status
-Live.
+stub
 
 ### why-it-matters
-Understanding the current status of features and milestones is crucial for stakeholders to plan and prioritize their efforts effectively.
+Understanding what features have been completed is crucial for users to track improvements and new functionalities being integrated into the system.
 
 ### eta
-Rough timelines for future features or milestones are not available at this time. 
+Rough timelines for shipped features are currently not available.
 
 ## connects-to
-[[feature development]]  
-[[milestones]]  
-[[product updates]]  
-[[stakeholder engagement]]  
+[[roadmap]], [[shipped features]], [[future improvements]]
 
-<!-- synthesized: 2026-09-13T14:43:31Z -->
-```
+<!-- synthesized: 2026-09-14T16:39:21Z -->
