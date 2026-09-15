@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: Voice-First
+title: concepts/voice-first
 entity_type: concepts
 status: stub
-last_updated: 2026-09-14
+last_updated: 2026-09-15
 ---
 
 ### definition
-Voice-first is a design philosophy that prioritizes voice interactions as the primary mode of communication between users and technology. This approach emphasizes the use of voice commands and responses as the main interface, allowing for a more natural and intuitive user experience.
+Voice-first refers to the prioritization of voice interactions as the primary mode of communication between users and digital systems, such as applications and devices.
 
 ### why-it-matters
-Voice-first interactions are crucial for enhancing accessibility and convenience in the OpenHome ecosystem. By allowing users to engage with the platform using their voice, it caters to diverse user needs and preferences, removing barriers that traditional interfaces may impose.
+In the context of OpenHome, voice-first interactions enhance user accessibility and engagement by allowing for hands-free operation and more natural communication with technology. This approach caters to diverse user needs and promotes inclusivity, making it an essential aspect of modern interactive experiences.
 
 ### how-it-manifests
-In the OpenHome platform, voice-first capabilities are integrated across various functionalities, enabling users to perform tasks, control devices, and access information through voice commands. This results in a seamless and engaging user experience that aligns with contemporary trends in technology interaction.
+Voice-first features can appear within the OpenHome platform through voice-activated commands, enabling users to control applications, access information, and perform tasks using spoken language rather than traditional input methods. This integration is critical for creating a seamless and intuitive user experience.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-14T16:39:21Z -->
+<!-- synthesized: 2026-09-15T15:18:29Z -->
 ```

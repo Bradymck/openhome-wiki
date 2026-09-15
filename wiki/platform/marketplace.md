@@ -1,28 +1,28 @@
 ```markdown
 ---
-title: Marketplace
+title: platform/marketplace
 entity_type: platform
 status: stub
-last_updated: 2026-09-14
+last_updated: 2026-09-15
 ---
 
 ### what-it-is
-The marketplace is a component of the OpenHome platform that facilitates the distribution and discovery of applications, services, and compatible devices that enhance user experience within the OpenHome ecosystem.
+The OpenHome marketplace is an online platform designed to connect users with a variety of services, products, and applications that enhance the functionality of OpenHome-enabled devices.
 
 ### how-it-works
-The marketplace enables users to browse and install a variety of tools and applications designed for OpenHome. It serves as a centralized hub where developers can publish their offerings, and users can search for and discover new functionalities that can be integrated into their existing OpenHome setup. The marketplace supports both free and commercial products, making it accessible to a wide range of users and developers.
+The marketplace functions as a central hub where developers can publish and distribute their applications or services tailored for OpenHome platforms. Users can browse through different offerings, purchase, and install them directly onto their OpenHome devices. The platform typically integrates user reviews, ratings, and descriptions to help users make informed decisions.
 
 ### current-status
 stub
 
 ## connects-to
 [[platform/openhome]]
+[[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
-[[platform/speakers]]
 [[platform/voice-ai]]
 [[platform/local-link]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-09-14T16:39:21Z -->
+<!-- synthesized: 2026-09-15T15:18:29Z -->
 ```

@@ -1,21 +1,21 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts
+entity_type: concepts/grant-program
 status: stub
-last_updated: 2026-09-14
+last_updated: 2026-09-15
 ---
 
-## definition
-A grant program is a structured initiative that allocates funds or resources to support specific projects or objectives aligned with the goals of OpenHome.
+### Definition
+A grant program is a structured initiative designed to provide financial assistance and support to individuals, organizations, or projects that align with specific goals or values. 
 
-## why-it-matters
-Grant programs are crucial for fostering innovation, encouraging community participation, and driving the development of new tools and solutions within the OpenHome ecosystem. They serve as a means to promote collaboration and empower users and developers to contribute to the platform.
+### Why it Matters
+The grant program is significant to OpenHome as it fosters innovation and collaboration within the community. By providing funding and resources, it helps individuals or teams to develop projects that enhance the platform's capabilities and overall user experience.
 
-## how-it-manifests
-The grant program may appear in OpenHome in various forms, such as application rounds for project funding, support for community-driven initiatives, or dedicated funds for specific technological developments. Details on eligibility criteria, application processes, and project outcomes are typically shared through OpenHome's communication channels.
+### How it Manifests
+In OpenHome, the grant program may take the form of funded initiatives, competitions, or scholarships that encourage developers to create applications or features that resonate with the platform's ethos and objectives.
 
-## connects-to
+## Connects to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ The grant program may appear in OpenHome in various forms, such as application r
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-09-14T16:39:21Z -->
+<!-- synthesized: 2026-09-15T15:18:29Z -->
 ```

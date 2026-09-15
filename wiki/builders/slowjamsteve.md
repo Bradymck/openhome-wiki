@@ -1,23 +1,29 @@
-```yaml
-title: Builders: SlowJamSteve
+```markdown
+---
+title: builders/slowjamsteve
 entity_type: builders
 status: stub
-last_updated: 2026-09-14
-```
+last_updated: 2026-09-15
+---
 
-## who-they-are
-SlowJamSteve is a community builder known for their contributions within the developer ecosystem. Specific background details and current projects are not documented.
+### who-they-are
+Slowjamsteve is a community builder in the blockchain and developer space, known for engaging with users and contributing to the development environment.
 
-## what-they-built
-No shipped abilities or integrations have been detailed or documented at this time.
+### what-they-built
+Information about specific abilities or integrations shipped by Slowjamsteve is currently unavailable.
 
-## grant-status
-Not available.
+### grant-status
+none
 
-## how-to-reach
-No contact information such as Discord handle, GitHub, or X has been provided.
+### how-to-reach
+- Discord: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
-[[wikilinks]]
+[[abilities]]
+[[community builders]]
+[[integrations]]
 
-<!-- synthesized: 2026-09-14T16:39:21Z -->
+<!-- synthesized: 2026-09-15T15:18:29Z -->
+```
