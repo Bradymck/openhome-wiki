@@ -1,26 +1,27 @@
 ```markdown
 ---
-title: Roadmap
-entity_type: roadmap/shipped
-status: stub
-last_updated: 2026-09-15
+title: roadmap/shipped
+entity_type: roadmap
+status: live
+last_updated: 2026-09-16
 ---
 
-## what-it-is
-The roadmap provides an overview of features and milestones related to the development and release of various projects or services. 
+### what-it-is
+The roadmap documents the features and milestones related to ongoing and completed developments in the project.
 
-## status
-Stub
+### status
+Shipped
 
-## why-it-matters
-Understanding the roadmap is essential for stakeholders and users to know what features are being developed, which are currently in progress, and what has already been shipped. This transparency helps in managing expectations and planning for future adoption of new features.
+### why-it-matters
+Keeping track of shipped features and milestones allows the team and users to understand progress, the current status of development, and future directions.
 
-## eta
-Rough timelines for specific features and milestones are not provided in the existing data.
+### eta
+No specific timeline is available.
 
 ## connects-to
-[[project_milestones]]
-[[feature_development]]
-[[user_feedback]]
-<!-- synthesized: 2026-09-15T15:18:29Z -->
+[[roadmap]]
+[[features]]
+[[milestones]]
+
+<!-- synthesized: 2026-09-16T15:11:24Z -->
 ```

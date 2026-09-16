@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: Peej
-entity_type: team
-status: stub
-last_updated: 2026-09-15
+title: "team/peej"
+entity_type: "team"
+status: "stub"
+last_updated: 2026-09-16
 ---
 
 ### who-they-are
-Peej is a core member of the OpenHome team, holding an Admin role. Further details regarding their background are currently unavailable.
+Peej is a core team member at OpenHome, serving in an unspecified role. Their background details are currently unknown.
 
 ### what-they-own
-Peej leads specific areas within the OpenHome platform, though exact details of their ownership and responsibilities are not provided.
+Peej leads unspecified areas of the OpenHome platform. Specific responsibilities and ownership areas are not documented.
 
 ### how-to-reach
-Peej's contact information, such as Discord handle or X/Twitter, has not been disclosed.
+Peej's contact information, including Discord handle or X/Twitter, is not available.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-09-15T15:18:29Z -->
+<!-- synthesized: 2026-09-16T15:11:24Z -->
 ```

@@ -3,25 +3,25 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-09-15
+last_updated: 2026-09-16
 ---
 
-### definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships in the environment. It involves understanding how objects relate to each other in space and applying this knowledge to navigate or design spatially complex tasks.
+## definition
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships in the environment. It encompasses the skills to understand and solve problems related to space, dimensions, and environments.
 
-### why-it-matters
-In the context of OpenHome, spatial intelligence is crucial as it enhances user interaction with the environment. It allows for more intuitive and efficient navigation, improving user experience and engagement within the platform. By leveraging spatial intelligence, OpenHome can create more immersive and responsive environments that adapt to users' needs.
+## why-it-matters
+Spatial intelligence is essential in OpenHome as it enhances users’ interactions and navigation within virtual and physical spaces. By incorporating spatial intelligence, OpenHome can facilitate a more intuitive and immersive experience for users, allowing them to better understand and manipulate their surroundings.
 
-### how-it-manifests
-While specific implementations of spatial intelligence within the OpenHome platform are not detailed, this concept could manifest through features such as augmented reality (AR) interfaces, layout customization tools, or spatial mapping functionalities that allow users to visualize data and objects in a three-dimensional space.
+## how-it-manifests
+While specific applications of spatial intelligence within the OpenHome platform are not detailed, it can be envisioned in functionalities that allow users to visualize data spatially, navigate environments, and interact with elements based on their location and orientation. This could be represented in features like spatial mapping, augmented reality applications, or other immersive tools which leverage spatial awareness.
 
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/grant-program]]
+## connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-15T15:18:29Z -->
+<!-- synthesized: 2026-09-16T15:11:24Z -->
 ```

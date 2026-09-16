@@ -1,29 +1,25 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-09-15
+last_updated: 2026-09-16
 ---
 
 ### who-they-are
-Pauldy is an active community builder involved in the Homie project. They hold a devkit and are participating in the development of various blockchain-based applications.
+Pauldy is an active member of the builders community, engaged in integrating various features and functionalities into the existing ecosystem.
 
 ### what-they-built
-Information regarding specific abilities or integrations that Pauldy has shipped is currently unavailable.
+Information on specific abilities or integrations that Pauldy has shipped is currently unavailable.
 
 ### grant-status
-stub
+none
 
 ### how-to-reach
-- Discord: Not available
-- GitHub: Not available
-- X: Not available
+Pauldy can be reached through their Discord handle, GitHub, or X. Specific contact information is not provided.
 
 ## connects-to
-[[abilities]]
-[[Homie]]
-[[devkit]]
+[[wikilinks]]
 
-<!-- synthesized: 2026-09-15T15:18:29Z -->
+<!-- synthesized: 2026-09-16T15:11:24Z -->
 ```

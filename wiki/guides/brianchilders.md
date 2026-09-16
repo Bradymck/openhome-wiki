@@ -1,23 +1,23 @@
 ```markdown
 ---
 title: brianchilders
-entity_type: guides
+entity_type: guides/
 status: stub
-last_updated: 2026-09-15
+last_updated: 2026-09-16
 ---
 
 ### who-they-are
-Information about brianchilders' background and expertise is not available at this time.
+Brian Childers is a community guide known for assisting users in various capacities. Their background and expertise details are not specified.
 
 ### what-they-help-with
-Details regarding brianchilders' specialty, including their abilities, hardware, or APIs they are knowledgeable about, are currently not provided.
+Brian specializes in onboarding users and providing guidance within the community. The specifics of their abilities, hardware, or APIs are currently unavailable.
 
 ### how-to-reach
-brianchilders' Discord handle is not listed in the available data.
+You can reach Brian on Discord; however, the specific Discord handle is not provided.
 
 ## connects-to
 [[guides]]
-[[community-guides]]
+[[community guides]]
 
-<!-- synthesized: 2026-09-15T15:18:29Z -->
+<!-- synthesized: 2026-09-16T15:11:24Z -->
 ```
