@@ -1,26 +1,27 @@
-```yaml
-title: PL Geek
+```markdown
+---
+title: builders/pl-geek
 entity_type: builders
 status: stub
-last_updated: 2026-09-16
-```
+last_updated: 2026-09-17
+---
 
-## who-they-are
-PL Geek is an active community builder within the Homie ecosystem, focusing on creating innovative solutions and integrations leveraging their expertise. They are committed to advancing technology and enhancing the capabilities of the development kit holders.
+### who-they-are
+pl-geek is an active community builder focused on developing innovative solutions and integrations for the ecosystem. As a Homie and devkit holder, they are engaged in collaborative development.
 
-## what-they-built
-Currently, there is no detailed information available regarding specific abilities or integrations that PL Geek has shipped.
+### what-they-built
+Details about specific abilities or integrations that pl-geek has shipped are currently unavailable.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-- Discord handle: Unknown
-- GitHub: Unknown
-- X: Unknown
+### how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[homie]]  
-[[devkit]]  
+[[abilities]] 
 
-<!-- synthesized: 2026-09-16T15:11:24Z -->
+<!-- synthesized: 2026-09-17T15:20:32Z -->
+```
