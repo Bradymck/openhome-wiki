@@ -3,25 +3,24 @@
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-09-17
+last_updated: 2026-09-18
 ---
 
 ### who-they-are
-bradymck is an active community builder associated with the development of abilities within the ecosystem.
+Brady McK, known as bradymck, is an active member of the community involved in building and developing capabilities within the platform. 
 
 ### what-they-built
-Details about specific abilities or integrations shipped by bradymck are currently unavailable.
+Currently, there is no information available on specific abilities or integrations that bradymck has shipped.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-Discord: bradymck
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[builders]]
-[[abilities]]
-[[integrations]]
-
-<!-- synthesized: 2026-09-17T15:20:32Z -->
+[[wikilinks]]
+<!-- synthesized: 2026-09-18T14:40:40Z -->
 ```

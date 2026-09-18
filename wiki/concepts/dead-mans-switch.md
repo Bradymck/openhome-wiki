@@ -1,25 +1,27 @@
 ```markdown
 ---
-title: Dead Man's Switch
+title: concepts/dead-mans-switch
 entity_type: concepts
 status: stub
-last_updated: 2026-09-17
+last_updated: 2026-09-18
 ---
 
 ### definition
-A dead man's switch is a safety mechanism that automatically executes a preset action when a specific condition is met, particularly when the person responsible for an operation fails to fulfill a duty or becomes incapacitated. It is commonly used to ensure that critical tasks are completed or that information is securely handled in the absence of the individual.
+A dead man's switch is a safety mechanism that automatically triggers a specific action if the user becomes incapacitated or fails to respond within a set timeframe. This concept is often used in various technologies to ensure that important tasks are still managed or completed even if the primary user is unable to continue.
 
 ### why-it-matters
-In the context of OpenHome, the dead man's switch concept is crucial as it promotes autonomy and reliability within the platform. It ensures that systems continue to function as intended even when a user is unavailable, thus enhancing user trust and system resilience.
+In the context of OpenHome, a dead man's switch is relevant as it enhances user reliability and safety. It ensures that critical functions or tasks are maintained and allows for a seamless transition or handover in scenarios where the user can no longer operate the system effectively.
 
 ### how-it-manifests
-The dead man's switch can manifest in various ways within OpenHome, such as automated processes that kick in when a user has not engaged with the platform for a designated period. This could involve notifications, security protocols, or alternative action plans that are automatically enacted to maintain system integrity and user safety.
+While specific implementations of a dead man's switch in OpenHome are not detailed, this concept may be applied within user interfaces or networked applications that require continuous human oversight. For instance, it could manifest in features that ensure backup operations or alerts if a user has not engaged with the system for a designated period.
 
 ### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/grant-program]]
-[[concepts/web3-native]]
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-17T15:20:32Z -->
+<!-- synthesized: 2026-09-18T14:40:40Z -->
 ```
