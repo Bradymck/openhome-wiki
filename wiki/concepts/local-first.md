@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: Local First
+title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-09-19
+last_updated: 2026-09-20
 ---
 
-## definition
-Local First is an approach that emphasizes the use of local data processing and storage in applications, enabling users to maintain control over their own data and interactions, regardless of internet connectivity.
+### definition
+Local-first is a design approach that prioritizes operating primarily on local devices while ensuring data synchronization and accessibility across various devices and environments.
 
-## why-it-matters
-Local First is relevant to OpenHome because it enhances user privacy and data sovereignty. By allowing applications to operate locally, users can experience faster interactions and greater reliability, particularly in environments with intermittent internet access. This philosophy aligns with OpenHome's goals of creating a user-centric platform that values personal agency and data control.
+### why-it-matters
+Local-first is relevant to OpenHome because it empowers users to maintain control over their data and improves performance by reducing dependency on constant internet connectivity. This approach can enhance user experience by enabling applications to function seamlessly and responsively, even when offline.
 
-## how-it-manifests
-While specific manifestations of Local First within OpenHome are not detailed, it can be inferred that applications designed under this paradigm would prioritize local data management and processing capabilities. This could involve using local databases, offline functionality, and synchronization mechanisms that respect user data without necessitating constant internet connectivity.
+### how-it-manifests
+The local-first concept appears in OpenHome through features that allow applications to operate independently of the cloud, focusing on local storage and processing. Users can access and manage their data directly on their devices, with intelligent synchronization occurring when connectivity is re-established.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ While specific manifestations of Local First within OpenHome are not detailed, i
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-19T14:01:04Z -->
+<!-- synthesized: 2026-09-20T14:22:13Z -->
 ```

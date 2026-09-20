@@ -1,17 +1,18 @@
-```yaml
-title: "platform/dashboard"
-entity_type: "platform"
-status: "stub"
-last_updated: "2026-09-19"
-```
+```markdown
+---
+title: Platform Dashboard
+entity_type: platform/dashboard
+status: stub
+last_updated: 2026-09-20
+---
 
-### what-it-is
-The platform/dashboard is an interface component of the OpenHome ecosystem that provides users with an overview and control of connected devices and applications.
+## what-it-is
+The platform dashboard is a user interface that provides an overview of the OpenHome platform's functionalities and capabilities, allowing users to manage and visualize various platform components and settings.
 
-### how-it-works
-The dashboard aggregates data from various devices and services within the OpenHome platform, allowing users to monitor the status, adjust settings, and manage functionalities through a unified interface. It leverages real-time data to update users on device performance and system health.
+## how-it-works
+Details on how the platform dashboard operates or its user experience are currently unavailable. More information is needed to elaborate on the specific features and functionalities of the dashboard.
 
-### current-status
+## current-status
 stub
 
 ## connects-to
@@ -23,4 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-09-19T14:01:04Z -->
+<!-- synthesized: 2026-09-20T14:22:13Z -->
+```

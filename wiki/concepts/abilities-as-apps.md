@@ -3,17 +3,17 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-09-19
+last_updated: 2026-09-20
 ---
 
 ## definition
-Abilities-as-apps refer to the conceptual framework within OpenHome where individual capabilities and functionalities of the platform are encapsulated as distinct applications. This allows users to leverage specific features as modular components rather than as part of a monolithic system.
+Abilities-as-apps refers to the conceptual framework where various functionalities and features of an application are modularized and offered as independent, self-contained units, similar to apps. This approach allows users to integrate and utilize specific functions without requiring access to the entire platform.
 
 ## why-it-matters
-This concept is vital to OpenHome as it enhances user flexibility and personalization. By treating abilities as standalone applications, users can tailor their experience to fit their unique needs and preferences, fostering an environment of creativity and innovation where users can mix and match various abilities.
+This concept is relevant to OpenHome as it promotes flexibility and customization. Users can tailor their experience by selecting only the abilities they need, leading to increased efficiency and user satisfaction. It also encourages innovation, as developers can create and deploy new functions independently.
 
 ## how-it-manifests
-Abilities-as-apps manifest throughout the OpenHome platform in the form of various specialized applications or modules that users can enable or customize. Each app represents a unique ability, allowing users to interact with the platform in diverse ways. This modular approach can be seen in user interfaces, dashboards, and application libraries within OpenHome.
+In the OpenHome platform, abilities-as-apps appear as interchangeable modules or plugins that users can activate or deactivate as needed. This modularity allows for a more personalized user experience and the ability to expand capabilities effortlessly. It enables the ecosystem to grow dynamically as new abilities are developed and integrated.
 
 ## connects-to
 [[concepts/voice-first]]  
@@ -21,7 +21,7 @@ Abilities-as-apps manifest throughout the OpenHome platform in the form of vario
 [[concepts/web3-native]]  
 [[concepts/dead-mans-switch]]  
 [[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-19T14:01:04Z -->
+<!-- synthesized: 2026-09-20T14:22:13Z -->
 ```

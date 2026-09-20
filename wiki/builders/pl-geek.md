@@ -1,24 +1,27 @@
 ```markdown
 ---
 title: PL Geek
-entity_type: builders/
+entity_type: builders/pl-geek
 status: stub
-last_updated: 2026-09-19
+last_updated: 2026-09-20
 ---
 
 ### who-they-are
-PL Geek is known within the community of builders for their contributions and involvement in various projects. However, specific details regarding their background or current endeavors are not available at this time.
+PL Geek is an active member of the builders community, recognized for their involvement in developing innovative solutions and integrations within the ecosystem.
 
 ### what-they-built
-There is currently no recorded information about specific abilities or integrations that PL Geek has shipped.
+Details about specific shipped abilities or integrations are currently unavailable.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-No contact information or handles on Discord, GitHub, or X have been found.
+No contact information found.
 
 ## connects-to
-[[wikilink to relevant abilities or integrations if available]]
-<!-- synthesized: 2026-09-19T14:01:04Z -->
+[[abilities]]
+[[community]]
+[[integrations]]
+
+<!-- synthesized: 2026-09-20T14:22:13Z -->
 ```

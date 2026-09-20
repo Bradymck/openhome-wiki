@@ -1,25 +1,24 @@
 ```markdown
 ---
-title: "Voidsshadows"
-entity_type: "guides/"
-status: "stub"
-last_updated: 2026-09-19
+title: Voidshadows Community Guide
+entity_type: guides/
+status: stub
+last_updated: 2026-09-20
 ---
 
 ### who-they-are
-Voidsshadows is recognized as a community guide within the platform, contributing to the onboarding of users and sharing specialized knowledge.
+Voidshadows is a community guide known for their expertise in various technical domains within the community. 
 
 ### what-they-help-with
-Voidsshadows specializes in various community guide functions, leveraging their expertise to assist other users in navigating the platform effectively.
+They specialize in assisting new users with understanding complex technical abilities, hardware configurations, and working with APIs effectively.
 
 ### how-to-reach
-Discord handle for Voidsshadows is currently unavailable.
+You can reach Voidshadows on Discord for inquiries and support.
 
 ## connects-to
 [[guides]]
-[[community-guides]]
-[[onboarding]]
-[[user-assistance]]
+[[community]]
+[[technical_support]]
 
-<!-- synthesized: 2026-09-19T14:01:04Z -->
+<!-- synthesized: 2026-09-20T14:22:13Z -->
 ```
