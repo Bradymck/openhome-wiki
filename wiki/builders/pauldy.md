@@ -3,14 +3,14 @@
 title: builders/pauldy
 entity_type: builder
 status: stub
-last_updated: 2026-09-20
+last_updated: 2026-09-21
 ---
 
 ### who-they-are
-Pauldy is an active community builder within the Homie ecosystem. Details about their background and specific projects they are working on are currently limited.
+Pauldy is an active community builder within the Homie ecosystem. They are involved in various developmental initiatives and are dedicated to expanding the capabilities of the platform through innovative projects.
 
 ### what-they-built
-Information about specific shipped abilities or integrations developed by Pauldy is not available at this time.
+Currently, specific details about the abilities or integrations that Pauldy has shipped are not available. Further contributions may be documented in the future as projects develop.
 
 ### grant-status
 none
@@ -21,7 +21,10 @@ none
 - X: Not specified
 
 ## connects-to
-[[abilities]]
+[[builders]]
+[[homie]]
+[[devkit]]
+[[community builders]]
 
-<!-- synthesized: 2026-09-20T14:22:13Z -->
+<!-- synthesized: 2026-09-21T16:40:02Z -->
 ```

@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: concepts/local-first
+title: Local First
 entity_type: concepts
 status: stub
-last_updated: 2026-09-20
+last_updated: 2026-09-21
 ---
 
-### definition
-Local-first is a design approach that prioritizes operating primarily on local devices while ensuring data synchronization and accessibility across various devices and environments.
+## definition
+Local-first refers to a design philosophy that prioritizes local data storage and processing on user devices over reliance on centralized cloud services. This approach emphasizes the importance of user privacy, offline functionality, and enhanced performance by keeping data close to where it is used.
 
-### why-it-matters
-Local-first is relevant to OpenHome because it empowers users to maintain control over their data and improves performance by reducing dependency on constant internet connectivity. This approach can enhance user experience by enabling applications to function seamlessly and responsively, even when offline.
+## why-it-matters
+In the context of OpenHome, local-first is crucial for creating a more user-centered experience. It aligns with principles of data sovereignty and empowers users by giving them control over their data. This approach boosts reliability and responsiveness, making applications more usable in low-connectivity environments.
 
-### how-it-manifests
-The local-first concept appears in OpenHome through features that allow applications to operate independently of the cloud, focusing on local storage and processing. Users can access and manage their data directly on their devices, with intelligent synchronization occurring when connectivity is re-established.
+## how-it-manifests
+Local-first can be observed in features that allow user applications to function without an internet connection, such as offline data sync capabilities, local caching of data, and client-side processing tasks. These functionalities enhance user experience and ensure continuous access regardless of network conditions.
 
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+## connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-20T14:22:13Z -->
+<!-- synthesized: 2026-09-21T16:40:02Z -->
 ```
