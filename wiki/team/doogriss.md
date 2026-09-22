@@ -3,7 +3,7 @@
 title: Doogriss
 entity_type: team
 status: stub
-last_updated: 2026-09-21
+last_updated: 2026-09-22
 ---
 
 ### who-they-are
@@ -19,5 +19,5 @@ Discord handle: Not specified. X/Twitter: Not specified. Preferred contact: Not 
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-09-21T16:40:02Z -->
+<!-- synthesized: 2026-09-22T15:12:47Z -->
 ```

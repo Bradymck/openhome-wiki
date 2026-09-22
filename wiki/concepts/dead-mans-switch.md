@@ -1,27 +1,24 @@
 ```markdown
 ---
-title: Dead Man's Switch
-entity_type: concepts/
+title: concepts/dead-mans-switch
+entity_type: concepts
 status: stub
-last_updated: 2026-09-21
+last_updated: 2026-09-22
 ---
 
-### definition
-A dead man's switch is a safety mechanism designed to prevent unwanted outcomes by requiring user input or action to continue functioning. If the user fails to interact with the system within a designated timeframe, the switch activates a predetermined response, often to mitigate harm or provide alerts.
+## definition
+A dead man's switch is a safety mechanism that automatically performs a specified action when the operator becomes incapacitated or unresponsive. This concept is often used in various systems to ensure that certain conditions are met or that specific tasks are completed even if the primary user is unable to continue.
 
-### why-it-matters
-In the context of OpenHome, a dead man's switch can enhance user safety and control. By ensuring that critical functions require ongoing user interaction, it helps mitigate risks associated with automated processes or unattended scenarios, fostering trust in the system.
+## why-it-matters
+In the context of OpenHome, the dead man's switch is significant as it enhances system reliability and user safety by providing a fail-safe that can prevent unintended outcomes during critical operations. This is particularly relevant for applications that require continuous monitoring or operation.
 
-### how-it-manifests
-The concept of a dead man's switch may be implemented in OpenHome to oversee various automated tasks that need user confirmation to keep running. For instance, it could regulate home automation systems, ensuring that certain actions are not conducted without user validation, thus preventing potential hazards or unwanted operations.
+## how-it-manifests
+The dead man's switch may be integrated into various components of the OpenHome platform to safeguard against potential failures. For example, it could be applied in automated workflows or as a part of home automation systems, ensuring actions are taken if the user is not available to intervene.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
 [[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-21T16:40:02Z -->
+<!-- synthesized: 2026-09-22T15:12:47Z -->
 ```

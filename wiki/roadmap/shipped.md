@@ -3,25 +3,25 @@
 title: roadmap/shipped
 entity_type: roadmap
 status: stub
-last_updated: 2026-09-21
+last_updated: 2026-09-22
 ---
 
 ### what-it-is
-This section is currently undeclared as there are no relevant features or milestones documented.
+The current status of features or milestones related to the roadmap.
 
 ### status
 Stub
 
 ### why-it-matters
-Understanding the roadmap is crucial for planning and aligning with future developments. However, there are currently no specifics available regarding any milestones or features.
+Understanding the roadmap provides insight into what has been accomplished and what remains in development, which is essential for planning and user expectations.
 
 ### eta
-No estimated timeline is provided as there is insufficient information.
+Not available
 
 ## connects-to
-[[roadmap/planned]]
 [[roadmap/in-progress]]
+[[roadmap/planned]]
 [[roadmap/cancelled]]
 
-<!-- synthesized: 2026-09-21T16:40:02Z -->
+<!-- synthesized: 2026-09-22T15:12:47Z -->
 ```
