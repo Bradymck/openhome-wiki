@@ -3,17 +3,17 @@
 title: Local First
 entity_type: concepts
 status: stub
-last_updated: 2026-09-22
+last_updated: 2026-09-23
 ---
 
 ## definition
-Local First is a design philosophy that emphasizes data being stored and processed locally on a user's device rather than relying on cloud services. This approach prioritizes user autonomy, privacy, and performance by enabling applications to function independently of internet connectivity.
+Local First is a design philosophy that prioritizes local data storage and processing on devices rather than relying solely on cloud-based resources. This approach ensures that data can be accessed and manipulated without continuous internet connectivity.
 
 ## why-it-matters
-Local First is crucial for OpenHome as it aligns with the platform's goals of enhancing user control over personal data and ensuring seamless operation in low-connectivity scenarios. By adopting this philosophy, OpenHome can empower users to manage their environments more effectively while maintaining privacy and security.
+Local First matters to OpenHome because it enhances user control over personal data and increases privacy. By keeping data local, users can maintain ownership and mitigate concerns related to data breaches and dependency on external service providers.
 
 ## how-it-manifests
-In the OpenHome platform, the Local First concept is reflected in features that allow applications to operate offline, sync data when connectivity is available, and prioritize user data storage on local devices. This can enhance responsiveness and create a more personalized user experience.
+In the OpenHome platform, Local First appears in various applications that allow users to perform tasks and access their data offline. This could include features that sync data with the cloud only when the device is online, or that allow for seamless interaction with their data regardless of internet connectivity.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In the OpenHome platform, the Local First concept is reflected in features that 
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-22T15:12:47Z -->
+<!-- synthesized: 2026-09-23T15:12:28Z -->
 ```

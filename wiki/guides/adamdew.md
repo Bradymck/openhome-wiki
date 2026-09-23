@@ -3,21 +3,21 @@
 title: guides/adamdew
 entity_type: Community Guide
 status: stub
-last_updated: 2026-09-22
+last_updated: 2026-09-23
 ---
 
-### who-they-are
-No specific background or expertise information found for Adamdew.
+## who-they-are
+Information about Adam Dew's background and expertise is not available.
 
-### what-they-help-with
-No specific specialties or areas of assistance identified for Adamdew.
+## what-they-help-with
+Adam Dew's specialties or areas of assistance are currently unknown.
 
-### how-to-reach
-No Discord handle information available for Adamdew.
+## how-to-reach
+Contact information for Adam Dew via Discord is not provided.
 
 ## connects-to
 [[guides]]
-[[Community Guide role]]
-[[Discord]]
-<!-- synthesized: 2026-09-22T15:12:47Z -->
+[[Community Guides]]
+
+<!-- synthesized: 2026-09-23T15:12:28Z -->
 ```

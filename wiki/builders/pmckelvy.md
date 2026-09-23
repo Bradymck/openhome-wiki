@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: builders/pmckelvy
-entity_type: builders
+title: pmckelvy
+entity_type: builders/
 status: stub
-last_updated: 2026-09-22
+last_updated: 2026-09-23
 ---
 
 ### who-they-are
-Pmckelvy is an active community builder within the [Homie](https://homie.xyz) framework, focusing on enhancing the capabilities and collaboration among devkit holders.
+pmckelvy is an active community builder participating in the development of decentralized applications and tools. Details about their background and specific initiatives are currently limited.
 
 ### what-they-built
-Currently, there is no specific information available regarding the abilities or integrations that Pmckelvy has shipped.
+Information regarding specific abilities or integrations that pmckelvy has shipped is not available at this time.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
+- Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-- [[Homie]]
-- [[devkit]]
-<!-- synthesized: 2026-09-22T15:12:47Z -->
+[[builders]]
+[[community]]
+[[decentralized applications]]
+<!-- synthesized: 2026-09-23T15:12:28Z -->
 ```

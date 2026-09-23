@@ -1,25 +1,25 @@
 ```markdown
 ---
-title: Builders/Jkoppel
-entity_type: builder
+title: jkoppel
+entity_type: builders
 status: stub
-last_updated: 2026-09-22
+last_updated: 2026-09-23
 ---
 
 ### who-they-are
-Jkoppel is an active community builder focused on developing innovative solutions within the ecosystem.
+Information about jkoppel's background and what they are currently building is not available.
 
 ### what-they-built
-Details regarding specific abilities or integrations that Jkoppel has shipped are currently unavailable.
+No shipped abilities or integrations have been documented for jkoppel.
 
 ### grant-status
-None
+No grant status information is available for jkoppel.
 
 ### how-to-reach
-No specific Discord handle, GitHub, or X information is available at this time.
+Contact details for jkoppel, such as Discord handle, GitHub, or X, are not provided.
 
 ## connects-to
 [[abilities]]
 
-<!-- synthesized: 2026-09-22T15:12:47Z -->
+<!-- synthesized: 2026-09-23T15:12:28Z -->
 ```

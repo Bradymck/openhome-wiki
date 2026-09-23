@@ -1,21 +1,20 @@
-```markdown
----
+```yaml
 title: Web3 Native
-entity_type: concepts/web3-native
+entity_type: concepts
 status: stub
-last_updated: 2026-09-22
----
+last_updated: 2026-09-23
+```
 
-### definition
-Web3 Native refers to applications and services that are built on decentralized technologies, leveraging blockchain functionality and principles for improved security, transparency, and user control.
+## definition
+Web3 native refers to applications, platforms, and technologies designed to operate within a decentralized web framework, utilizing blockchain, smart contracts, and peer-to-peer networking.
 
-### why-it-matters
-The concept of being Web3 Native is significant for OpenHome as it aligns with the platform's goals of decentralization and user empowerment. By incorporating Web3 principles, OpenHome can enhance user trust and foster a more democratic ecosystem where users retain ownership of their data and digital interactions.
+## why-it-matters
+The concept of being Web3 native is crucial for OpenHome as it embodies the principles of decentralization, user ownership, and data sovereignty. Embracing this model allows OpenHome to leverage transparency, security, and trust through decentralized technologies.
 
-### how-it-manifests
-While specific implementations within OpenHome are not detailed, the notion of Web3 Native may manifest through features that prioritize user sovereignty, like smart contract integrations, decentralized identity management, and peer-to-peer interactions. These elements can provide users with greater control over their online experience and facilitate seamless interactions within the OpenHome ecosystem.
+## how-it-manifests
+Web3 native components within OpenHome are expected to manifest through decentralized identity management systems, smart contracts for transactions and agreements, and user-owned data storage solutions. This architecture supports an ecosystem where users can interact with applications directly, without intermediaries.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +22,4 @@ While specific implementations within OpenHome are not detailed, the notion of W
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-22T15:12:47Z -->
-```
+<!-- synthesized: 2026-09-23T15:12:28Z -->

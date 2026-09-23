@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Voice-First
+title: concepts/voice-first
 entity_type: concepts
 status: stub
-last_updated: 2026-09-22
+last_updated: 2026-09-23
 ---
 
-## definition
-Voice-first refers to a design approach where voice interactions take priority over other input methods, such as touch or keyboard inputs. It emphasizes conversational interfaces and enables users to engage with technology primarily through spoken commands.
+### definition
+Voice-first refers to the prioritization of voice interactions as the primary means of communication between users and technology, emphasizing voice commands and responses over traditional text-based inputs.
 
-## why-it-matters
-Voice-first technology is significant for OpenHome as it enhances accessibility and user experience. By leveraging voice interactions, OpenHome can provide more intuitive ways for users to interact with their home automation systems, making technology more inclusive and user-friendly.
+### why-it-matters
+In the context of OpenHome, voice-first enhances user experience by providing a more intuitive and accessible way to interact with the platform. It supports a hands-free and natural interface, making technology more approachable for a wider range of users, including those who may have difficulties with traditional interfaces.
 
-## how-it-manifests
-While specific examples of voice-first implementations within OpenHome are not detailed, this concept could manifest in features such as voice-controlled home automation, virtual assistants that manage tasks through natural language processing, and integrations with voice-activated devices.
+### how-it-manifests
+This concept is reflected in OpenHome through features such as voice-activated controls, conversational agents, and interactive voice response systems that facilitate seamless user interactions without reliance on visual interfaces.
 
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-22T15:12:47Z -->
+<!-- synthesized: 2026-09-23T15:12:28Z -->
 ```
