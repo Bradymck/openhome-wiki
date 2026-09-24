@@ -3,25 +3,26 @@
 title: mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-09-23
+last_updated: 2026-09-24
 ---
 
 ### who-they-are
-mathieub is recognized as a member of the builders community, associated with the Homie and User roles. Further details about their background or specific projects they are working on are currently not available.
+Mathieub is an active member of the community involved in building tools and capabilities for platform users, focusing on enhancing the developer experience.
 
 ### what-they-built
-Information regarding specific shipped abilities or integrations by mathieub is not available at this time. 
+Details about specific abilities or integrations built by Mathieub are currently not available.
 
 ### grant-status
-The grant status for mathieub is currently unknown.
+none
 
 ### how-to-reach
-Details on how to reach mathieub, including their Discord handle, GitHub, or X, have not been provided.
+Discord handle: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
 ## connects-to
 [[builders]]
-[[Homie]]
-[[User roles]]
-
-<!-- synthesized: 2026-09-23T15:12:28Z -->
+[[community]]  
+[[devkit]]
+<!-- synthesized: 2026-09-24T15:32:51Z -->
 ```

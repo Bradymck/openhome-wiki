@@ -1,25 +1,23 @@
-```markdown
----
+```yaml
 title: builders/pl-geek
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-09-23
----
+last_updated: 2026-09-24
+```
 
-### who-they-are
-Information about the background and what they are building is currently not available.
+## who-they-are
+pl-geek is a member of the active community of builders focused on shipping abilities and integrations related to developer kits.
 
-### what-they-built
-Details on the shipped abilities or integrations have not been provided.
+## what-they-built
+Specific abilities or integrations developed by pl-geek are not detailed in the available information.
 
-### grant-status
-Grant status information is not available.
+## grant-status
+none
 
-### how-to-reach
-Contact details, including Discord handle, GitHub, and X, are currently not provided.
+## how-to-reach
+Discord handle, GitHub, and X information are not available.
 
 ## connects-to
-No connections to other abilities have been identified.
+[[abilities]]
 
-<!-- synthesized: 2026-09-23T15:12:28Z -->
-```
+<!-- synthesized: 2026-09-24T15:32:51Z -->

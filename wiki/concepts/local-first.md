@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Local First
+title: Local-First
 entity_type: concepts
 status: stub
-last_updated: 2026-09-23
+last_updated: 2026-09-24
 ---
 
 ## definition
-Local First is a design philosophy that prioritizes local data storage and processing on devices rather than relying solely on cloud-based resources. This approach ensures that data can be accessed and manipulated without continuous internet connectivity.
+Local-First describes a development and operational philosophy where applications prioritize local data storage and processing on user devices, ensuring that user experiences remain fast and responsive even when offline.
 
 ## why-it-matters
-Local First matters to OpenHome because it enhances user control over personal data and increases privacy. By keeping data local, users can maintain ownership and mitigate concerns related to data breaches and dependency on external service providers.
+Local-First is relevant to OpenHome as it enables users to have greater control over their data, enhancing privacy and reducing dependency on constant internet connectivity. This approach supports offline accessibility, making applications more resilient and user-friendly in diverse environments.
 
 ## how-it-manifests
-In the OpenHome platform, Local First appears in various applications that allow users to perform tasks and access their data offline. This could include features that sync data with the cloud only when the device is online, or that allow for seamless interaction with their data regardless of internet connectivity.
+In the OpenHome platform, Local-First principles can be seen in applications that utilize local storage solutions for user data, enabling seamless operation without requiring real-time connection to a central server. This manifests in various features, such as caching, local state management, and synchronization mechanisms when the connection is available.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In the OpenHome platform, Local First appears in various applications that allow
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-23T15:12:28Z -->
+<!-- synthesized: 2026-09-24T15:32:51Z -->
 ```

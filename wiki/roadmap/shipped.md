@@ -1,27 +1,25 @@
-```markdown
----
-title: Roadmap/Shipped
-entity_type: roadmap/shipped
-status: live
-last_updated: 2026-09-23
----
+```yaml
+title: Roadmap/Shipping 
+entity_type: roadmap 
+status: stub 
+last_updated: 2026-09-24 
+```
 
-### what-it-is
-This page outlines the features and milestones related to our development roadmap, specifically those that have been shipped.
+## what-it-is
+Roadmap/Shipping is a documentation section that outlines features and milestones regarding product development, highlighting what has been completed, what is currently underway, and what is planned for the future.
 
-### status
-Shipped
+## status
+stub
 
-### why-it-matters
-By documenting what has been delivered, stakeholders can understand the progress made and the functionality currently available. This transparency fosters trust and informs users about the features they can utilize.
+## why-it-matters
+Understanding the current state of features and milestones helps users and stakeholders to track progress, anticipate upcoming changes, and manage expectations regarding the product's development lifecycle.
 
-### eta
-N/A
+## eta
+No specific timelines have been provided as the roadmap details are currently insufficient.
 
 ## connects-to
 [[roadmap/planned]]  
 [[roadmap/in-progress]]  
-[[roadmap/cancelled]]  
+[[roadmap/cancelled]]
 
-<!-- synthesized: 2026-09-23T15:12:28Z -->
-```
+<!-- synthesized: 2026-09-24T15:32:51Z -->

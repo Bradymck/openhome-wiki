@@ -2,21 +2,20 @@
 ---
 title: team/jesse
 entity_type: team
-status: live
-last_updated: 2026-09-23
+status: stub
+last_updated: 2026-09-24
 ---
 
-## who-they-are
-Jesse is the Chief Technology Officer (CTO) at OpenHome. With a strong background in technology development and leadership, Jesse plays a pivotal role in driving the technological vision of the organization.
+### who-they-are
+Jesse serves as the Chief Technology Officer (CTO) at OpenHome. He is responsible for overseeing the technological development and innovation within the platform.
 
-## what-they-own
-Jesse leads various areas of the OpenHome platform, focusing on technology strategy, product development, and technical operations.
+### what-they-own
+As CTO, Jesse leads the technical direction and development of OpenHome's software and infrastructure, ensuring the platform remains competitive and efficient.
 
-## how-to-reach
-Discord: @jesserank
+### how-to-reach
+You can reach Jesse on Discord at @jesserank.
 
 ## connects-to
 [[team/shannon]]
-
-<!-- synthesized: 2026-09-23T15:12:28Z -->
+<!-- synthesized: 2026-09-24T15:32:51Z -->
 ```
