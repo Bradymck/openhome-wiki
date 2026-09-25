@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: Abubakar
+title: team/abubakar
 entity_type: team
 status: stub
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 ---
 
 ### who-they-are
-Abubakar is a member of the OpenHome team, holding a role that contributes towards the growth and management of the platform. There is limited information available about their background.
+Abubakar is a core member of the OpenHome team, holding a significant role that contributes to the overall development and management of the platform.
 
 ### what-they-own
-Abubakar leads specific areas of the OpenHome platform; however, the details of these responsibilities are not currently available.
+Currently, specific areas of the platform that Abubakar leads are not documented.
 
 ### how-to-reach
-Contact details for Abubakar, including Discord handle and social media presence, are not provided.
+Preferred contact details for Abubakar have not been provided.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-09-24T15:32:51Z -->
+<!-- synthesized: 2026-09-25T15:36:47Z -->
 ```

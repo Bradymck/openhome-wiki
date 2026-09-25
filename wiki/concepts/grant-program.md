@@ -1,21 +1,21 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/grant-program
+entity_type: concepts/
 status: stub
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 ---
 
-### definition
-A grant program is an initiative designed to provide funding and resources to individuals or organizations for specific projects or purposes aligned with the objectives of OpenHome.
+## definition
+A grant program in the context of OpenHome is a structured initiative that provides funding or resources to support projects or individuals that align with the mission and goals of the OpenHome ecosystem.
 
-### why-it-matters
-Grant programs are crucial for fostering innovation, encouraging collaboration, and supporting the development of new ideas or technologies within the OpenHome ecosystem. By providing financial support, these programs empower participants to explore and implement solutions that align with the platform's goals.
+## why-it-matters
+Grant programs are critical for fostering innovation and supporting developers, researchers, and organizations that contribute to the growth and sustainability of OpenHome. They enable the creation of diverse applications and solutions that enhance the user experience and broaden the platform's capabilities.
 
-### how-it-manifests
-While specific examples of the grant program's implementation on the OpenHome platform are currently unavailable, it is anticipated that such programs will feature prominently in calls for proposals, funding announcements, and project showcase events. Future iterations may include open calls for applications, demonstrable success stories from grant recipients, and partnerships with academic or research institutions.
+## how-it-manifests
+While specifics regarding the grant program in OpenHome are not detailed, it may manifest through application processes, funding announcements, and project showcases within community forums or events aimed at encouraging participation and collaboration in the development of OpenHome technologies.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ While specific examples of the grant program's implementation on the OpenHome pl
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-09-24T15:32:51Z -->
+<!-- synthesized: 2026-09-25T15:36:47Z -->
 ```

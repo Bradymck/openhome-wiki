@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Web3-Native
+title: web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 ---
 
 ## definition
-Web3-native refers to applications and platforms that are built specifically for the decentralized web, utilizing blockchain technology and decentralized protocols to empower users and enhance data ownership.
+Web3-native refers to applications and services that are built on decentralized web technologies, often leveraging blockchain technology and smart contracts. These applications prioritize user ownership, data privacy, and decentralized governance.
 
 ## why-it-matters
-Web3-native concepts are critical for OpenHome as they align with the principles of decentralization, user sovereignty, and enhanced privacy. By implementing Web3 technologies, OpenHome can foster a more secure and user-governed environment, ensuring that users have full control over their data and interactions.
+In the context of OpenHome, being web3-native is essential as it aligns with the principles of decentralization and user empowerment. It supports the vision of creating an open and collaborative platform where users have control over their interactions and data.
 
 ## how-it-manifests
-In OpenHome, Web3-native features could manifest as decentralized identity solutions, smart contracts for automated transactions, and community governance mechanisms that enable users to have a direct say in the development and operational direction of the platform. These features increase trust and engagement within the community.
+While specific implementations of web3-native aspects in OpenHome may need further detail, it is anticipated that features leveraging smart contracts and decentralized identity will be part of the platform, providing users with more control and security.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In OpenHome, Web3-native features could manifest as decentralized identity solut
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-24T15:32:51Z -->
+<!-- synthesized: 2026-09-25T15:36:47Z -->
 ```

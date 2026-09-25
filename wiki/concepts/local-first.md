@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Local-First
-entity_type: concepts
-status: stub
-last_updated: 2026-09-24
+title: Local First
+entity_type: concepts/
+status: live
+last_updated: 2026-09-25
 ---
 
 ## definition
-Local-First describes a development and operational philosophy where applications prioritize local data storage and processing on user devices, ensuring that user experiences remain fast and responsive even when offline.
+Local-first is an approach to software design that prioritizes data accessibility and performance on the user's device, enabling offline functionality and minimizing reliance on central servers.
 
 ## why-it-matters
-Local-First is relevant to OpenHome as it enables users to have greater control over their data, enhancing privacy and reducing dependency on constant internet connectivity. This approach supports offline accessibility, making applications more resilient and user-friendly in diverse environments.
+Local-first is significant to OpenHome as it enhances user autonomy and data ownership. By prioritizing local data management, users can access their information without the constraints of internet connectivity, ensuring persistence and flexibility in how they use the platform.
 
 ## how-it-manifests
-In the OpenHome platform, Local-First principles can be seen in applications that utilize local storage solutions for user data, enabling seamless operation without requiring real-time connection to a central server. This manifests in various features, such as caching, local state management, and synchronization mechanisms when the connection is available.
+In the OpenHome platform, local-first principles manifest through features that allow applications to operate effectively offline. Users can create, manage, and interact with their data locally, with seamless synchronization that occurs when they reconnect to the internet. This architecture allows for a responsive user experience and enhances privacy by limiting the data shared with central services.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-24T15:32:51Z -->
+<!-- synthesized: 2026-09-25T15:36:47Z -->
 ```

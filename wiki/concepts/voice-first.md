@@ -1,25 +1,27 @@
-```yaml
-title: Voice First
-entity_type: concepts
-status: live
-last_updated: 2026-09-24
+```markdown
+---
+title: "Voice-First"
+entity_type: "concepts"
+status: "stub"
+last_updated: "2026-09-25"
+---
+
+### definition
+Voice-first is a design philosophy and approach that prioritizes voice interactions over traditional graphical interfaces. This means that users can engage with technology primarily through voice commands, making it more accessible and fostering a more natural way of human-computer interaction.
+
+### why-it-matters
+Voice-first concepts are critically relevant to OpenHome as they simplify user engagement with the platform, enhance accessibility for users with disabilities, and allow for multitasking in various environments. This focus aligns with modern user preferences for intuitive and hands-free control.
+
+### how-it-manifests
+While specific implementations within OpenHome related to voice-first are not detailed, the concept would likely appear in features that support voice commands for navigation, task execution, and interaction with apps or services on the platform.
+
+### connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+
+<!-- synthesized: 2026-09-25T15:36:47Z -->
 ```
-
-## definition
-Voice-first refers to an approach to user interaction that prioritizes voice as the primary medium for communication and commands, rather than traditional methods like touch or keyboard inputs. This concept leverages natural language processing and voice recognition technology to enable seamless interaction between users and devices.
-
-## why-it-matters
-Voice-first technology is becoming increasingly critical as it aligns with the growing trend of smart devices and the Internet of Things (IoT). In the context of OpenHome, embracing a voice-first approach enhances accessibility and convenience, allowing users to engage with their digital environment in a more intuitive manner. It also supports hands-free control, which can be essential in various scenarios such as multitasking or for individuals with disabilities.
-
-## how-it-manifests
-In OpenHome, the voice-first concept is integrated through various features including voice-activated commands for controlling home automation systems, interactive voice responses in user interfaces, and supporting conversational agents that assist users in accessing information or managing tasks. This makes it easier for users to interact with the platform without being tethered to traditional input devices.
-
-## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
-
-<!-- synthesized: 2026-09-24T15:32:51Z -->
