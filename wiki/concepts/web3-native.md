@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: web3-native
+title: Web3 Native
 entity_type: concepts
 status: stub
-last_updated: 2026-09-25
+last_updated: 2026-09-26
 ---
 
-## definition
-Web3-native refers to applications and services that are built on decentralized web technologies, often leveraging blockchain technology and smart contracts. These applications prioritize user ownership, data privacy, and decentralized governance.
+### definition
+Web3 native refers to applications and platforms built on decentralized technologies, primarily using blockchain, which empower users with greater control over their data and digital interactions. It emphasizes peer-to-peer interactions, transparency, and autonomy in the digital ecosystem.
 
-## why-it-matters
-In the context of OpenHome, being web3-native is essential as it aligns with the principles of decentralization and user empowerment. It supports the vision of creating an open and collaborative platform where users have control over their interactions and data.
+### why-it-matters
+Web3 native technologies are crucial to OpenHome as they align with the platform's mission to decentralize control, ensuring users have ownership over their data and experiences. This approach fosters trust and enhances user engagement by providing tools that operate outside traditional centralized systems.
 
-## how-it-manifests
-While specific implementations of web3-native aspects in OpenHome may need further detail, it is anticipated that features leveraging smart contracts and decentralized identity will be part of the platform, providing users with more control and security.
+### how-it-manifests
+While specific implementations of Web3 native technologies in OpenHome are not detailed, the concept likely manifests through features enabling user ownership, decentralized application functionalities, and integration with blockchain-based protocols. These elements would support OpenHome's vision of creating a user-first, community-oriented environment.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ While specific implementations of web3-native aspects in OpenHome may need furth
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-25T15:36:47Z -->
+<!-- synthesized: 2026-09-26T14:47:32Z -->
 ```

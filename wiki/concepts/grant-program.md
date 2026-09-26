@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/
+entity_type: concepts/grant-program
 status: stub
-last_updated: 2026-09-25
+last_updated: 2026-09-26
 ---
 
 ## definition
-A grant program in the context of OpenHome is a structured initiative that provides funding or resources to support projects or individuals that align with the mission and goals of the OpenHome ecosystem.
+A grant program is a structured initiative that provides funding or resources to support projects, research, or community activities that align with the goals of OpenHome.
 
 ## why-it-matters
-Grant programs are critical for fostering innovation and supporting developers, researchers, and organizations that contribute to the growth and sustainability of OpenHome. They enable the creation of diverse applications and solutions that enhance the user experience and broaden the platform's capabilities.
+Grant programs are crucial for fostering innovation and development within the OpenHome ecosystem. They enable individuals and organizations to turn ideas into reality, thus enhancing the platform's overall capabilities and user engagement.
 
 ## how-it-manifests
-While specifics regarding the grant program in OpenHome are not detailed, it may manifest through application processes, funding announcements, and project showcases within community forums or events aimed at encouraging participation and collaboration in the development of OpenHome technologies.
+While specific details about the implementation of grant programs within OpenHome are not yet fully established, the concept typically manifests as a call for proposals where applicants can submit their projects for review and funding based on criteria set by OpenHome.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-09-25T15:36:47Z -->
+<!-- synthesized: 2026-09-26T14:47:32Z -->
 ```

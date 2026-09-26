@@ -1,29 +1,27 @@
 ```markdown
 ---
-title: "builders/illectric-co"
+title: illectric-co
 entity_type: builders
 status: stub
-last_updated: 2026-09-25
+last_updated: 2026-09-26
 ---
 
-### who-they-are
-Illectric Co. is a community-focused builder known for their contributions to the developer ecosystem. They are working on various innovative projects aimed at enhancing user experience.
+## who-they-are
+Illectric-co is a community of builders involved in developing innovative solutions within the digital ecosystem. They focus on leveraging emerging technologies and community engagement to create impactful tools.
 
-### what-they-built
-Details on specific shipped abilities or integrations by Illectric Co. are currently unavailable.
+## what-they-built
+Details regarding specific shipped abilities or integrations from Illectric-co are currently unavailable.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+Currently, there is no specific Discord handle, GitHub, or X (formerly Twitter) information available for reaching out to Illectric-co.
 
 ## connects-to
 [[builders]]
-[[devkit]]
+[[grants]]
 [[community]]
-
-<!-- synthesized: 2026-09-25T15:36:47Z -->
+[[technology]]
+<!-- synthesized: 2026-09-26T14:47:32Z -->
 ```

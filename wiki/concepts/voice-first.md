@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: "Voice-First"
-entity_type: "concepts"
-status: "stub"
-last_updated: "2026-09-25"
+title: Voice First
+entity_type: concepts
+status: stub
+last_updated: 2026-09-26
 ---
 
 ### definition
-Voice-first is a design philosophy and approach that prioritizes voice interactions over traditional graphical interfaces. This means that users can engage with technology primarily through voice commands, making it more accessible and fostering a more natural way of human-computer interaction.
+Voice first refers to a design philosophy that prioritizes voice interactions as the primary mode of engagement with technology, placing voice commands and verbal communication at the forefront of user experience.
 
 ### why-it-matters
-Voice-first concepts are critically relevant to OpenHome as they simplify user engagement with the platform, enhance accessibility for users with disabilities, and allow for multitasking in various environments. This focus aligns with modern user preferences for intuitive and hands-free control.
+This concept is crucial for OpenHome as it enhances accessibility and provides a more natural way for users to interact with the platform. By prioritizing voice engagement, OpenHome can cater to a wider audience, including those who may have difficulties with traditional input methods.
 
 ### how-it-manifests
-While specific implementations within OpenHome related to voice-first are not detailed, the concept would likely appear in features that support voice commands for navigation, task execution, and interaction with apps or services on the platform.
+Voice first can manifest in OpenHome through various features such as voice-activated commands, responsive voice interfaces, and seamless integration with voice-activated devices. These tools allow users to navigate, control, and interact with the OpenHome ecosystem using their voice, creating a more intuitive experience.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific implementations within OpenHome related to voice-first are not de
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-25T15:36:47Z -->
+<!-- synthesized: 2026-09-26T14:47:32Z -->
 ```

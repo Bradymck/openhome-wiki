@@ -3,14 +3,14 @@
 title: jagatfx
 entity_type: builders
 status: stub
-last_updated: 2026-09-25
+last_updated: 2026-09-26
 ---
 
 ### who-they-are
-Jagatfx is a builder in the active community of developers holding the Homie & User roles. They are focused on creating integrations and abilities for various platforms.
+Jagatfx is a community builder involved in the development of various technical integrations within the community. Details on their background and specific projects are currently not available.
 
 ### what-they-built
-Details on their shipped abilities or integrations are currently unavailable.
+Information regarding the abilities or integrations that Jagatfx has shipped is not yet provided.
 
 ### grant-status
 none
@@ -21,9 +21,8 @@ none
 - X: Not specified
 
 ## connects-to
-[[builders]]
-[[integrations]]
 [[abilities]]
+[[integrations]]
 
-<!-- synthesized: 2026-09-25T15:36:47Z -->
+<!-- synthesized: 2026-09-26T14:47:32Z -->
 ```
