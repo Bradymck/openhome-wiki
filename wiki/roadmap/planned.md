@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: Roadmap Planned
-entity_type: roadmap
+title: Roadmap
+entity_type: roadmap/planned
 status: stub
-last_updated: 2026-09-26
+last_updated: 2026-09-27
 ---
 
-### what-it-is
-This page is intended to outline the planned features and milestones within the roadmap framework, detailing upcoming developments.
+## what-it-is
+The roadmap outlines the planned features and milestones for future development. It details what is coming, what is currently in progress, and what has been shipped.
 
-### status
-stub
+## status
+The status of the roadmap features includes categories such as shipped, in-progress, planned, and cancelled. However, specific details about these features are not available at this time.
 
-### why-it-matters
-Providing visibility into what features are planned helps stakeholders understand the future direction and priorities of the project.
+## why-it-matters
+Understanding the roadmap is crucial as it provides insight into the development trajectory and priorities of the project. Knowing what is being planned or worked on can help stakeholders and users align their expectations and prepare for upcoming changes.
 
-### eta
-Specific timelines for planned features are currently unavailable.
+## eta
+No specific timelines have been provided for any planned features or milestones, so the ETA remains unknown.
 
 ## connects-to
-[[roadmap/current]]
-[[roadmap/shipped]]
-[[roadmap/in-progress]]
+[[features]]
+[[milestones]]
+[[development]]
+[[release_notes]]
 
-<!-- synthesized: 2026-09-26T14:47:32Z -->
+<!-- synthesized: 2026-09-27T15:24:49Z -->
 ```

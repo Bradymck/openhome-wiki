@@ -3,19 +3,19 @@
 title: Local-First
 entity_type: concepts
 status: stub
-last_updated: 2026-09-26
+last_updated: 2026-09-27
 ---
 
-## definition
-Local-first refers to an approach in software design where applications prioritize local data storage and processing on the user's device. This allows for quick access, offline capabilities, and reduced latency, fostering an improved user experience.
+### definition
+Local-First refers to an approach where applications prioritize local data storage and processing as the primary means of functionality, ensuring that users can access and interact with their data offline, with synchronization capabilities when they reconnect to the internet.
 
-## why-it-matters
-The local-first concept is relevant to OpenHome as it enhances user control, privacy, and data sovereignty. By processing data locally rather than relying exclusively on cloud services, users have greater ownership of their data and can access their applications without constant internet connectivity.
+### why-it-matters
+This concept is crucial for OpenHome as it enhances user autonomy and privacy by allowing users to retain control over their personal data. Local-First applications can improve performance by reducing reliance on network connectivity, making them more resilient and accessible, especially in areas with poor internet.
 
-## how-it-manifests
-While specific applications or features of OpenHome utilizing a local-first approach are not detailed, the philosophy is likely integrated into the development of user-facing applications to ensure they perform efficiently and effectively, especially in environments with variable internet connectivity.
+### how-it-manifests
+In the OpenHome platform, Local-First can be seen in applications that allow users to perform actions and store data locally on their devices. When a connection is available, these applications synchronize with cloud services or other devices, ensuring that updates are reflected across all platforms without losing data integrity.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ While specific applications or features of OpenHome utilizing a local-first appr
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-26T14:47:32Z -->
+<!-- synthesized: 2026-09-27T15:24:49Z -->
 ```

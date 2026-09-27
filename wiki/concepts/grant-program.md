@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/grant-program
+entity_type: concepts/
 status: stub
-last_updated: 2026-09-26
+last_updated: 2026-09-27
 ---
 
-## definition
-A grant program is a structured initiative that provides funding or resources to support projects, research, or community activities that align with the goals of OpenHome.
+### definition
+A grant program is a structured initiative that provides financial support to individuals, organizations, or projects that align with specific goals or criteria.
 
-## why-it-matters
-Grant programs are crucial for fostering innovation and development within the OpenHome ecosystem. They enable individuals and organizations to turn ideas into reality, thus enhancing the platform's overall capabilities and user engagement.
+### why-it-matters
+Grant programs are essential for fostering innovation and growth within the OpenHome ecosystem. They enable the development of new ideas and solutions that can enhance the functionalities and offerings of the platform.
 
-## how-it-manifests
-While specific details about the implementation of grant programs within OpenHome are not yet fully established, the concept typically manifests as a call for proposals where applicants can submit their projects for review and funding based on criteria set by OpenHome.
+### how-it-manifests
+While specific details on how the grant program is implemented within OpenHome are not yet available, it typically involves the allocation of resources to selected projects, encouraging collaboration and development within the community.
 
 ## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-09-26T14:47:32Z -->
+<!-- synthesized: 2026-09-27T15:24:49Z -->
 ```

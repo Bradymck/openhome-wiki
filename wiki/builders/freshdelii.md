@@ -1,29 +1,27 @@
 ```markdown
 ---
-title: builders/freshdelii
+title: Builders Freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-09-26
+last_updated: 2026-09-27
 ---
 
 ### who-they-are
-Freshdelii is an active member of the community engaged in building integrations and tools. As a devkit holder, they are focused on enhancing user experiences within the ecosystem.
+Freshdelii is part of the active community of builders holding devkit roles within their ecosystem. They are focusing on collaborative tools and features that enhance user interaction and overall experience.
 
 ### what-they-built
-Details on specific abilities or integrations that Freshdelii has shipped are currently not available.
+As of now, there are no publicly available details on specific abilities or integrations that Freshdelii has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+Information on how to contact Freshdelii via Discord or other platforms is currently unavailable.
 
 ## connects-to
-[[wikilink1]] 
-[[wikilink2]] 
-[[wikilink3]]
+[[builders]]
+[[devkit]]
+[[community tools]]
 
-<!-- synthesized: 2026-09-26T14:47:32Z -->
+<!-- synthesized: 2026-09-27T15:24:49Z -->
 ```

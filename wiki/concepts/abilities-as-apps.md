@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: concepts/abilities-as-apps
+title: abilities-as-apps
 entity_type: concepts
-status: stub
-last_updated: 2026-09-26
+status: live
+last_updated: 2026-09-27
 ---
 
 ## definition
-Abilities-as-apps refers to a modular approach where distinct functionalities or capabilities within a platform are treated as standalone applications. This concept allows users to access and deploy various abilities independently, enhancing flexibility and personalization.
+Abilities-as-apps refers to the concept of modular functionalities or features within the OpenHome platform that can be treated as standalone applications. Each ability serves a specific purpose and can be easily integrated or utilized without requiring a deep understanding of the underlying code.
 
 ## why-it-matters
-In the context of OpenHome, abilities-as-apps empower users to customize their experiences by selecting specific functionalities that cater to their individual needs and preferences. This promotes a more user-centric approach and encourages innovation by allowing developers to create diverse applications that expand the ecosystem.
+This concept is crucial for enhancing user experience and accessibility within OpenHome, as it allows users to customize their home environments effortlessly. By viewing abilities as discrete applications, developers can innovate and iterate more quickly, leading to a richer ecosystem of interconnected functions.
 
 ## how-it-manifests
-While specific implementations are yet to be detailed within the platform, the abilities-as-apps concept may appear through features that allow users to add, remove, or modify capabilities directly via an application interface. This could include integrations with third-party apps or the ability to enable certain functionalities on demand.
+Abilities-as-apps are implemented throughout the OpenHome platform in various ways, including customizable user interfaces, integration with smart devices, and interoperability among different applications. Users can enable or disable specific abilities based on their needs, tailoring their experience to suit individual preferences.
 
 ## connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-26T14:47:32Z -->
+<!-- synthesized: 2026-09-27T15:24:49Z -->
 ```
