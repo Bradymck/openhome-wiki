@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: roadmap/shipped
+title: Roadmap Shipped
 entity_type: roadmap
 status: live
-last_updated: 2026-09-27
+last_updated: 2026-09-28
 ---
 
 ### what-it-is
-This section outlines features or milestones that have been shipped as part of the roadmap.
+This page outlines the features and milestones that have been shipped as part of the development roadmap.
 
 ### status
-Currently, there are no specific features or milestones listed as shipped in the provided data.
+shipped
 
 ### why-it-matters
-Understanding shipped features is essential for tracking progress, informing stakeholders, and planning future developments. These features typically enhance user experience or provide critical functionality.
+Tracking shipped features is essential for understanding the progress of development and the improvements made in products or services over time.
 
 ### eta
-No estimated timelines are available for the shipped features since none have been specified in the provided material.
+No specific timeline is provided.
 
 ## connects-to
-[[roadmap/planned]]
 [[roadmap/in-progress]]
-[[features]]
-[[milestones]]
-<!-- synthesized: 2026-09-27T15:24:49Z -->
+[[roadmap/planned]]
+[[roadmap/cancelled]]
+<!-- synthesized: 2026-09-28T18:17:03Z -->
 ```

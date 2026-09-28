@@ -3,25 +3,25 @@
 title: builders/pauldy
 entity_type: builder
 status: stub
-last_updated: 2026-09-27
+last_updated: 2026-09-28
 ---
 
 ### who-they-are
-Pauldy is an active community builder engaged in developing innovative solutions within the ecosystem, leveraging their skills and experience as a devkit holder.
+Pauldy is an active member of the developer community, engaging with various projects and initiatives. As a holder of the devkit, Pauldy is focused on building innovative solutions within the ecosystem.
 
 ### what-they-built
-Details on specific abilities or integrations that Pauldy has shipped are currently unavailable.
+Information about specific abilities or integrations that Pauldy has shipped is currently not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-Pauldy's contact information including Discord handle, GitHub, or X is not provided.
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[devkit holders]]
-[[community builders]]
+[[abilities]]
 
-<!-- synthesized: 2026-09-27T15:24:49Z --> 
+<!-- synthesized: 2026-09-28T18:17:03Z -->
 ```

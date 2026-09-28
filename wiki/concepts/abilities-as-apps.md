@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: abilities-as-apps
+title: concepts/abilities-as-apps
 entity_type: concepts
 status: live
-last_updated: 2026-09-27
+last_updated: 2026-09-28
 ---
 
-## definition
-Abilities-as-apps refers to the concept of modular functionalities or features within the OpenHome platform that can be treated as standalone applications. Each ability serves a specific purpose and can be easily integrated or utilized without requiring a deep understanding of the underlying code.
+### definition
+The concept of "abilities-as-apps" refers to the modularization of functionalities or skills into standalone applications that can be easily integrated and utilized within a larger platform. Each ability can be thought of as an independent app that performs a specific task or set of tasks.
 
-## why-it-matters
-This concept is crucial for enhancing user experience and accessibility within OpenHome, as it allows users to customize their home environments effortlessly. By viewing abilities as discrete applications, developers can innovate and iterate more quickly, leading to a richer ecosystem of interconnected functions.
+### why-it-matters
+This concept is significant for OpenHome as it allows users to customize their experiences by selecting and integrating only the applications or abilities they need. By treating capabilities as apps, OpenHome promotes flexibility, adaptability, and user-centric design, paving the way for a more personalized and efficient interaction with the platform.
 
-## how-it-manifests
-Abilities-as-apps are implemented throughout the OpenHome platform in various ways, including customizable user interfaces, integration with smart devices, and interoperability among different applications. Users can enable or disable specific abilities based on their needs, tailoring their experience to suit individual preferences.
+### how-it-manifests
+"Abilities-as-apps" is evident on the OpenHome platform through its interface, where users can browse, install, and manage various applications that enhance their experience. Each app corresponds to a particular ability, such as home automation, security monitoring, or environmental control, facilitating a tailored user experience.
 
 ## connects-to
 [[concepts/voice-first]]  
@@ -23,5 +23,5 @@ Abilities-as-apps are implemented throughout the OpenHome platform in various wa
 [[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-27T15:24:49Z -->
+<!-- synthesized: 2026-09-28T18:17:03Z -->
 ```

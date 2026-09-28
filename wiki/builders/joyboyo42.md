@@ -3,27 +3,25 @@
 title: builders/joyboyo42
 entity_type: builders
 status: stub
-last_updated: 2026-09-27
+last_updated: 2026-09-28
 ---
 
 ### who-they-are
-Joyboyo42 is an active member of the community, recognized for their contributions and engagement within the builder space. They hold a devkit and are focused on developing new abilities and integrations that enhance the user experience.
+Joyboyo42 is an active community builder associated with the Homie + User roles, engaging with the devkit to explore shipping capabilities and fostering collaborations within the community.
 
 ### what-they-built
-Specific details on the abilities or integrations that Joyboyo42 has shipped are currently unavailable.
+Currently, there are no specific details available regarding the abilities or integrations that Joyboyo42 has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: not specified
-- GitHub: not specified
-- X: not specified
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[builders]]
-[[devkit]]
-[[community builders]]
+### connects-to
+[[wikilinks]]
 
-<!-- synthesized: 2026-09-27T15:24:49Z -->
+<!-- synthesized: 2026-09-28T18:17:03Z -->
 ```

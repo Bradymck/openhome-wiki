@@ -1,24 +1,24 @@
 ```markdown
 ---
-title: Discomelon
+title: Discomelon Community Guide
 entity_type: guides/
 status: stub
-last_updated: 2026-09-27
+last_updated: 2026-09-28
 ---
 
 ### who-they-are
-Details about the individual or group known as Discomelon are currently not available. No specific background or expertise information has been documented.
+Discomelon is a community guide within the Discord server known for helping users navigate various aspects of the platform.
 
 ### what-they-help-with
-The specialties or capabilities of Discomelon have not been specified. There is no information on what they assist users with, including any abilities, hardware, or APIs.
+Discomelon specializes in onboarding new users, providing assistance with community guidelines, and offering support related to Discord functionalities.
 
 ### how-to-reach
-No Discord handle or contact information for reaching Discomelon is provided.
+You can reach Discomelon via Discord with their handle.
 
 ## connects-to
-[[guides]]  
-[[Discord]]  
-[[community-guide]]  
+[[guides/]]
+[[Discord]]
+[[community_guides/]]
 
-<!-- synthesized: 2026-09-27T15:24:49Z -->
+<!-- synthesized: 2026-09-28T18:17:03Z -->
 ```

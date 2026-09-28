@@ -1,21 +1,21 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-09-27
+last_updated: 2026-09-28
 ---
 
 ### definition
-A grant program is a structured initiative that provides financial support to individuals, organizations, or projects that align with specific goals or criteria.
+A grant program is a structured initiative that provides financial aid or resources to individuals, organizations, or communities to support specific projects, innovations, or research that align with certain goals or missions.
 
 ### why-it-matters
-Grant programs are essential for fostering innovation and growth within the OpenHome ecosystem. They enable the development of new ideas and solutions that can enhance the functionalities and offerings of the platform.
+In the context of OpenHome, grant programs are crucial for fostering innovation, supporting developers, and enabling users to create applications that are aligned with the vision of a decentralized, user-controlled platform. They promote community engagement and incentivize contributions that enhance the platform's capabilities.
 
 ### how-it-manifests
-While specific details on how the grant program is implemented within OpenHome are not yet available, it typically involves the allocation of resources to selected projects, encouraging collaboration and development within the community.
+The grant program within OpenHome may include opportunities for developers and organizations to apply for funding, mentorship, or resources to build new features, tools, or applications. It typically manifests through calls for proposals, application processes, and the allocation of funds or resources to select projects based on criteria established by OpenHome.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ While specific details on how the grant program is implemented within OpenHome a
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-09-27T15:24:49Z -->
+<!-- synthesized: 2026-09-28T18:17:03Z -->
 ```

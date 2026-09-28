@@ -1,25 +1,27 @@
-```yaml
-title: concepts/voice-first
+```markdown
+---
+title: Voice-First
 entity_type: concepts
 status: stub
-last_updated: 2026-09-27
-```
+last_updated: 2026-09-28
+---
 
-## definition
-Voice-first refers to a user interface design approach that prioritizes voice interactions as the primary means of communication with digital systems, rather than traditional visual interfaces. This concept emphasizes the use of natural language processing and speech recognition technologies to facilitate user interactions.
+### definition
+Voice-first refers to a design approach where voice commands are the primary mode of interaction, emphasizing the use of spoken language to control devices and access information.
 
-## why-it-matters
-Voice-first technology is crucial for OpenHome as it enables more intuitive and accessible user experiences. By focusing on voice interactions, OpenHome can cater to a broader audience, including those who may have difficulty using conventional interfaces. It also aligns with the growing trend of smart home devices and virtual assistants, positioning OpenHome at the forefront of technological advancements.
+### why-it-matters
+The voice-first paradigm is significant to OpenHome as it enhances user experience by offering hands-free, intuitive interaction with digital platforms. It allows for accessibility and convenience, making technology more inclusively available.
 
-## how-it-manifests
-In the OpenHome platform, voice-first capabilities may appear through features that allow users to control home devices, access information, or perform tasks using voice commands. This can include integration with virtual assistants or standalone voice recognition functionality within the platform, making it easier for users to engage with their home environment effortlessly.
+### how-it-manifests
+In the OpenHome platform, voice-first capabilities may appear in various applications, allowing users to navigate, execute commands, and retrieve information through voice inputs. It can be integrated with smart home devices, enabling seamless management using voice rather than traditional input methods.
 
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-09-27T15:24:49Z -->
+<!-- synthesized: 2026-09-28T18:17:03Z -->
+```

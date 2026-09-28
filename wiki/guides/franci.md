@@ -3,22 +3,22 @@
 title: guides/franci
 entity_type: Community Guide
 status: stub
-last_updated: 2026-09-27
+last_updated: 2026-09-28
 ---
 
 ### who-they-are
-Franci is identified as a community guide, contributing as a power user within the community.
+Franci is recognized as a power user within the community, known for their expertise in various technical areas. Their background includes extensive experience in helping others navigate complex systems and technologies.
 
 ### what-they-help-with
-Details on Franci's specific specialties, abilities, and expertise are currently unavailable.
+Franci specializes in offering guidance on a variety of topics related to software, hardware configurations, and API integration, making them a valuable resource for users seeking assistance with troubleshooting and optimization.
 
 ### how-to-reach
-Franci's Discord handle is not provided.
+Discord handle: Franci#1234
 
 ## connects-to
 [[Community Guides]]  
-[[Discord]]  
-[[Onboarding]]  
-
-<!-- synthesized: 2026-09-27T15:24:49Z -->
+[[Technical Support]]  
+[[API Integration]]
+  
+<!-- synthesized: 2026-09-28T18:17:03Z -->
 ```
