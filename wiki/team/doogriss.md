@@ -1,9 +1,9 @@
 ```markdown
 ---
-title: Team Doogriss
+title: Doogriss
 entity_type: team
 status: stub
-last_updated: 2026-09-28
+last_updated: 2026-09-29
 ---
 
 ### who-they-are
@@ -19,5 +19,5 @@ Discord handle: Information not available. X/Twitter: Information not available.
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-09-28T18:17:03Z -->
+<!-- synthesized: 2026-09-29T16:39:51Z -->
 ```

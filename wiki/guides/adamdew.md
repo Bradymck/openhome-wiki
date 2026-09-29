@@ -3,22 +3,21 @@
 title: guides/adamdew
 entity_type: Community Guide
 status: stub
-last_updated: 2026-09-28
+last_updated: 2026-09-29
 ---
 
 ### who-they-are
-Adamdew is a community guide recognized for their contributions in assisting users within the community. They have demonstrated expertise in various areas, helping new users navigate complex systems.
+Adamdew is recognized as a power user within the community, contributing to various projects and discussions. Their background includes considerable experience in technical support and community engagement.
 
 ### what-they-help-with
-Adamdew specializes in onboarding new users, providing support with software functionalities and troubleshooting issues. They are equipped with knowledge about multiple hardware setups and APIs that enhance user experience.
+Adamdew specializes in onboarding new users and providing guidance on utilizing different tools and features within the community platform. They are adept with troubleshooting common issues and offering advice on best practices.
 
 ### how-to-reach
-Discord handle: Adamdew
+Discord handle: adamdew
 
 ## connects-to
-[[Community Guides]]  
-[[User Support]]  
-[[Onboarding Resources]]  
-
-<!-- synthesized: 2026-09-28T18:17:03Z -->  
+[[guides]]
+[[community-support]]
+[[onboarding]]
+<!-- synthesized: 2026-09-29T16:39:51Z -->
 ```

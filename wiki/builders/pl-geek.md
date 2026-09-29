@@ -1,26 +1,25 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-09-28
+last_updated: 2026-09-29
 ---
 
 ### who-they-are
-Pl-geek is a member of the active community of builders, recognized for their involvement with devkit projects and contributions to the ecosystem.
+Information about the background of pl-geek and what they are building is currently unavailable.
 
 ### what-they-built
-Details on specific abilities or integrations shipped by pl-geek are currently unavailable.
+Details on what pl-geek has shipped or any integrations they have developed are currently unavailable.
 
 ### grant-status
-none
+Unknown
 
 ### how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified  
+Information on how to contact pl-geek is currently unavailable.
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-09-28T18:17:03Z -->
+[[Abilities]]
+[[Integrations]]
+<!-- synthesized: 2026-09-29T16:39:51Z -->
 ```

@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: concepts/local-first
+title: Local First
 entity_type: concepts
 status: stub
-last_updated: 2026-09-28
+last_updated: 2026-09-29
 ---
 
 ## definition
-Local-first refers to a design philosophy that prioritizes the local storage and processing of data on a user's device, ensuring that applications continue to function seamlessly without constant reliance on cloud services or internet connectivity.
+Local First refers to the principle of prioritizing local resources and processes, enabling applications to function with much of their logic and storage occurring directly on the user's device, even in the absence of an internet connection.
 
 ## why-it-matters
-Local-first is significant to OpenHome as it enhances user autonomy and data sovereignty. By enabling users to manage their data locally, OpenHome promotes privacy and security, reducing the risks associated with data breaches and ensuring that user experiences remain uninterrupted.
+In the context of OpenHome, adopting a Local First approach enhances user autonomy, reduces latency, and ensures data privacy. By allowing users to interact with their applications locally, they can maintain control over their digital interactions and data.
 
 ## how-it-manifests
-While specific instances of local-first implementation within the platform are not detailed, it is expected to manifest in features that allow offline functionality and local data management in OpenHome applications, providing users with sustainable and reliable tools for their daily activities.
+While specific implementations of Local First within OpenHome are not detailed, the concept suggests that user experiences might be designed to work without persistent connectivity, relying on local processing and storage to deliver functionality.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,6 +22,5 @@ While specific instances of local-first implementation within the platform are n
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
-
-<!-- synthesized: 2026-09-28T18:17:03Z -->
+<!-- synthesized: 2026-09-29T16:39:51Z -->
 ```
