@@ -3,25 +3,25 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-09-29
+last_updated: 2026-09-30
 ---
 
-## definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in space, understanding the relationships and dimensions between them. It encapsulates skills such as navigating environments, recognizing patterns, and interpreting spatial layouts.
+### definition
+Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It encompasses skills such as spatial reasoning, navigation, and understanding spatial relationships among objects.
 
-## why-it-matters
-In the context of OpenHome, spatial intelligence enhances user interactions by enabling more intuitive navigation and spatial reasoning. This capability is critical for creating immersive environments where users can interact more naturally with digital elements and understand their spatial relationships.
+### why-it-matters
+In the context of OpenHome, spatial intelligence is crucial for enhancing user interactions with the platform. It allows users to interact more naturally with their environment, creating a more immersive and intuitive experience as they navigate and customize their smart home settings.
 
-## how-it-manifests
-While specific implementations of spatial intelligence within OpenHome are not detailed, it is likely to appear in applications involving augmented reality (AR), virtual environments, and location-based services. Users may experience features that allow for dynamic spatial arrangements, visual mapping, and other functions that leverage spatial reasoning to improve usability and engagement.
+### how-it-manifests
+Although specific implementations of spatial intelligence within OpenHome are not detailed, it is expected to manifest in features that involve augmented reality (AR) or virtual reality (VR), enabling users to visualize their smart home layouts and automate settings based on spatial awareness. This could include features such as 3D room mapping, intuitive control interfaces, or location-based services that automate functions depending on where users are within their home environment.
 
-## connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/grant-program]]
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-29T16:39:51Z -->
+<!-- synthesized: 2026-09-30T16:31:48Z -->
 ```

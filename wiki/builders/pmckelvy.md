@@ -3,26 +3,23 @@
 title: builders/pmckelvy
 entity_type: builders
 status: stub
-last_updated: 2026-09-29
+last_updated: 2026-09-30
 ---
 
 ### who-they-are
-pmckelvy is an active member of the community, identified as a builder with a background in software development and a focus on shipping innovative capabilities within decentralized platforms.
+Details about pmckelvy's background and what they are currently building are not available.
 
 ### what-they-built
-Information on specific abilities or integrations shipped by pmckelvy is currently unavailable.
+Information on what pmckelvy has shipped in terms of abilities or integrations is not detailed.
 
 ### grant-status
-none
+No grant status information is available.
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Contact details for pmckelvy, including Discord handle, GitHub, or X account, are currently not provided.
 
 ## connects-to
-[[wikilink-to-ability1]]
-[[wikilink-to-ability2]]
+[[wikilink to abilities]]
 
-<!-- synthesized: 2026-09-29T16:39:51Z -->
+<!-- synthesized: 2026-09-30T16:31:48Z -->
 ```

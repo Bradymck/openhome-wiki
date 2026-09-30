@@ -2,25 +2,23 @@
 ---
 title: Roadmap
 entity_type: roadmap/planned
-status: stub
-last_updated: 2026-09-29
+status: planned
+last_updated: 2026-09-30
 ---
 
-### what-it-is
-The roadmap outlines features and milestones planned for future implementation.
+## what-it-is
+The roadmap outlines the features and milestones that are upcoming, in progress, or have shipped.
 
-### status
-Stub
+## status
+- Planned
 
-### why-it-matters
-Understanding the roadmap is crucial for stakeholders to anticipate upcoming changes, developments, and enhancements. It provides transparency and sets expectations regarding the direction and priorities of the project.
+## why-it-matters
+The roadmap serves as a guide for stakeholders, helping them understand the direction of development and what to expect in future updates.
 
-### eta
-No specific timeline is provided.
+## eta
+No specific timelines are provided.
 
 ## connects-to
-[[features]]
-[[milestones]]
-[[updates]]
-<!-- synthesized: 2026-09-29T16:39:51Z -->
+[[features]], [[milestones]], [[development]]
+<!-- synthesized: 2026-09-30T16:31:48Z -->
 ```
