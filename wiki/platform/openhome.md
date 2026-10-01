@@ -1,20 +1,21 @@
-```yaml
-title: OpenHome
+```markdown
+---
+title: OpenHome Platform
 entity_type: platform
-status: live
-last_updated: 2026-09-30
-```
+status: stub
+last_updated: 2026-10-01
+---
 
-## what-it-is
-OpenHome is an open-source platform designed to create a seamless integrated audio experience across a variety of devices, enabling users to easily stream and control multimedia content.
+### what-it-is
+OpenHome is a software platform designed to facilitate connected home experiences through integration with various smart devices, offering users seamless interaction and control over their home environments.
 
-## how-it-works
-OpenHome works by providing a set of standardized services for media playback, control, and device discovery. Devices that support OpenHome can communicate over a local network, allowing users to access audio content from various sources, such as local files, network shares, or streaming services. It typically utilizes protocols such as UPnP (Universal Plug and Play) for device discovery and control, enabling a flexible and dynamic multimedia ecosystem. Developers have the ability to extend the OpenHome functionality through customizable features, which can allow for integration with smart home devices and voice control systems.
+### how-it-works
+OpenHome operates by creating a cohesive ecosystem of devices that communicate and collaborate with each other. This platform enables users to command and automate devices through a unified interface, leveraging cloud and local network connections to enhance usability and functionality.
 
-## current-status
-live
+### current-status
+stub
 
-## connects-to
+### connects-to
 [[platform/speakers]]
 [[platform/abilities]]
 [[platform/dashboard]]
@@ -23,4 +24,5 @@ live
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-09-30T16:31:48Z -->
+<!-- synthesized: 2026-10-01T17:09:40Z -->
+```

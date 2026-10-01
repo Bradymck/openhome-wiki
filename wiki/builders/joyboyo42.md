@@ -1,29 +1,27 @@
 ```markdown
 ---
-title: joyboyo42
-entity_type: builders/
+title: builders/joyboyo42
+entity_type: builder
 status: stub
-last_updated: 2026-09-30
+last_updated: 2026-10-01
 ---
 
 ### who-they-are
-Joyboyo42 is an active community builder holding a devkit and engaging in the development of various abilities within the ecosystem.
+Joyboyo42 is a community builder and a devkit holder actively involved in developing various integrations and abilities within the community.
 
 ### what-they-built
-No specific shipped abilities or integrations have been documented for joyboyo42 at this time.
+Specific details about the abilities or integrations that Joyboyo42 has shipped are not currently available.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[abilities]]
-[[community builders]]
-[[devkit holders]]
+[[abilities]] <!-- Assuming there's a page for abilities, if not adjust accordingly -->
 
-<!-- synthesized: 2026-09-30T16:31:48Z -->
+<!-- synthesized: 2026-10-01T17:09:40Z -->
 ```

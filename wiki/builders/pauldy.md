@@ -1,25 +1,29 @@
-```yaml
+```markdown
+---
 title: builders/pauldy
 entity_type: builders
 status: stub
-last_updated: 2026-09-30
-```
+last_updated: 2026-10-01
+---
 
-## who-they-are
-Pauldy is an active member of the community, involved in building various projects and integrations as a devkit holder.
+### who-they-are
+Pauldy is an active community builder engaged in developing applications or tools within the emerging technology space.
 
-## what-they-built
-Currently, there is no specific information about the abilities or integrations Pauldy has shipped.
+### what-they-built
+Details regarding specific abilities or integrations that Pauldy has shipped are currently unavailable.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-Discord handle: Not available  
-GitHub: Not available  
-X: Not available  
+### how-to-reach
+- Discord: Unknown
+- GitHub: Unknown
+- X: Unknown
 
 ## connects-to
-[[wikilinks]]
+[[builders]]
+[[community builders]]
+[[devkit holders]]
 
-<!-- synthesized: 2026-09-30T16:31:48Z -->
+<!-- synthesized: 2026-10-01T17:09:40Z -->
+```

@@ -1,27 +1,25 @@
-```markdown
----
-title: concepts/voice-first
+```yaml
+title: Voice-First
 entity_type: concepts
-status: live
-last_updated: 2026-09-30
----
+status: stub
+last_updated: 2026-10-01
+```
 
 ## definition
-Voice-first refers to a design philosophy and technology approach that prioritizes voice as the primary interface for interactions with devices, applications, and services. In this paradigm, users engage primarily through spoken commands rather than traditional input methods like keyboards or touch screens.
+Voice-first refers to an interaction design paradigm where voice is the primary mode of communication between users and devices, prioritizing spoken input over other methods like typing or tapping.
 
 ## why-it-matters
-Voice-first technology is significant to OpenHome because it enhances user accessibility and engagement, allowing individuals to interact with the platform in a more intuitive manner. By leveraging voice commands, OpenHome can cater to a diverse set of users, including those with disabilities or those in situations where hands-free interaction is beneficial. This approach aligns with the goal of making digital interactions more seamless and natural.
+In the context of OpenHome, voice-first technology enhances user accessibility and engagement by allowing users to interact with the platform in a more natural and intuitive manner. It aligns with the increasing demand for hands-free control and usability, particularly in environments where typed input may not be feasible.
 
 ## how-it-manifests
-In the OpenHome platform, voice-first capabilities are integrated into various features and services. Users can perform tasks such as controlling home automation systems, querying information, and accessing apps simply by speaking. This functionality is evident in the development of voice assistants and services that facilitate smooth and efficient user experiences across devices.
+Voice-first concepts appear in various features of the OpenHome platform, such as voice-activated commands, conversational interfaces, and integration with smart assistant technologies. These elements enable users to perform tasks, retrieve information, and interact with other features using their voice alone, streamlining the user experience.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+[[concepts/abilities-as-apps]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-09-30T16:31:48Z -->
-```
+<!-- synthesized: 2026-10-01T17:09:40Z -->
