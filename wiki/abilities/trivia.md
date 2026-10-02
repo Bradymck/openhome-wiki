@@ -1,30 +1,30 @@
 ```markdown
 ---
-title: Trivia
+title: abilities/trivia
 entity_type: abilities
 status: stub
-last_updated: 2026-10-01
+last_updated: 2026-10-02
 ---
 
 ### what-it-does
-The Trivia ability provides users with entertaining and engaging trivia questions and answers, facilitating fun interactions and knowledge enhancement.
+The Trivia ability presents users with fun facts and challenging questions across various topics, allowing for both entertainment and learning.
 
 ### how-to-build
-Information on how to build the Trivia ability is currently unavailable.
+To create the Trivia ability, developers can utilize a trivia API that supplies a diverse array of questions and answers. A random selection mechanism should be implemented to ensure variety, and users should be able to request hints or explanations for answers.
 
 ### category
 entertainment
 
 ### built-by
-[[abilities/trivia-builder]]
+[[User/BuilderName]]
 
 ### status
-stub
+planned
 
 ## connects-to
-[[abilities/aquaprime]]
 [[abilities/deadman-fm]]
 [[abilities/news-brief]]
+[[abilities/aquaprime]]
 
-<!-- synthesized: 2026-10-01T17:09:40Z -->
+<!-- synthesized: 2026-10-02T16:23:24Z -->
 ```

@@ -1,23 +1,25 @@
-```yaml
-title: Michael Gold
-entity_type: builders
+```markdown
+---
+title: builders/michaelgold
+entity_type: builder
 status: stub
-last_updated: 2026-10-01
-```
+last_updated: 2026-10-02
+---
 
-## who-they-are
-Michael Gold is an active community builder in the devkit ecosystem. Details regarding his specific background and the projects he is focusing on are currently unavailable.
+### who-they-are
+Michael Gold is an active member of the builders community, participating in various development initiatives. Specific details regarding his background or the projects he is currently working on have not been provided.
 
-## what-they-built
-As of now, there is no documented information regarding any specific abilities or integrations that Michael Gold has shipped.
+### what-they-built
+Information on any specific abilities or integrations that Michael Gold has shipped is currently unavailable.
 
-## grant-status
-Unknown
+### grant-status
+Unknown.
 
-## how-to-reach
-Currently, there is no available information about Michael Gold's contact details, including Discord handle, GitHub, or X.
+### how-to-reach
+Discord handle, GitHub, and X (Twitter) contact information have not been specified.
 
 ## connects-to
-[[wikilinks]]
+[[abilities]]
 
-<!-- synthesized: 2026-10-01T17:09:40Z -->
+<!-- synthesized: 2026-10-02T16:23:24Z -->
+```

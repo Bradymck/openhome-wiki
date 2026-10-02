@@ -1,20 +1,21 @@
-```yaml
-title: Local First
+```markdown
+---
+title: Local-First
 entity_type: concepts
 status: stub
-last_updated: 2026-10-01
-```
+last_updated: 2026-10-02
+---
 
-## definition
-Local First is a design philosophy emphasizing the value of applications and systems that prioritize local data handling and offline functionality. This approach ensures that interaction with software is seamless, even in the absence of an internet connection.
+### definition
+Local-first is an approach to software development that emphasizes the importance of local data storage and processing, allowing applications to function seamlessly without constant reliance on remote servers.
 
-## why-it-matters
-In the context of OpenHome, Local First is crucial as it enhances user autonomy and control over their data. By enabling applications to function effectively offline, this concept supports privacy and provides a more resilient user experience that is less reliant on constant internet connectivity.
+### why-it-matters
+In the context of OpenHome, local-first is crucial for enhancing user privacy, reducing latency, and enabling offline capabilities. It aligns with the principles of decentralization and empowers users to own and control their data.
 
-## how-it-manifests
-Local First appears within the OpenHome platform through applications designed to operate primarily on local devices. These applications utilize local data storage and processing, allowing users to access their information and perform actions without the need for continuous online access. This can enhance responsiveness and reduce latency in user interactions.
+### how-it-manifests
+This concept appears in the OpenHome platform by allowing applications to manage data locally on user devices. Features may include local data synchronization, offline access, and user-centric data management practices that prioritize local processing over cloud dependency.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -22,4 +23,5 @@ Local First appears within the OpenHome platform through applications designed t
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-01T17:09:40Z -->
+<!-- synthesized: 2026-10-02T16:23:24Z -->
+```

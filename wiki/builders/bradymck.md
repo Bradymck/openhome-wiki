@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: bradymck
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-10-01
+last_updated: 2026-10-02
 ---
 
 ### who-they-are
-bradymck is an active community builder in the [Homie](https://homie.com) ecosystem. They focus on enhancing capabilities within the platform and contributing to community-driven projects.
+bradymck is a community builder within the ecosystem, focused on leveraging their skills to enhance the capabilities available through devkit integrations.
 
 ### what-they-built
-As of now, there are no specific details available about the abilities or integrations that bradymck has shipped.
+No specific abilities or integrations have been detailed for bradymck at this time.
 
 ### grant-status
 none
@@ -22,7 +22,6 @@ none
 
 ## connects-to
 [[builders]]
-[[Homie]]
-
-<!-- synthesized: 2026-10-01T17:09:40Z -->
+[[devkit]]
+<!-- synthesized: 2026-10-02T16:23:24Z -->
 ```
