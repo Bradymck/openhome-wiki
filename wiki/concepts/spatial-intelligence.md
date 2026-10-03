@@ -1,21 +1,21 @@
 ```markdown
 ---
 title: Spatial Intelligence
-entity_type: concepts
+entity_type: concepts/
 status: stub
-last_updated: 2026-10-02
+last_updated: 2026-10-03
 ---
 
-## definition
-Spatial intelligence is the ability to visualize and manipulate spatial relationships in the environment. It involves understanding how objects relate to one another in space and is crucial for tasks requiring navigation and physical orientation.
+### definition
+Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It encompasses skills such as spatial reasoning, mental mapping, and the understanding of how objects relate to one another in physical space.
 
-## why-it-matters
-In the context of OpenHome, spatial intelligence is essential for enhancing user interactions within the platform. It supports the creation of more intuitive and effective navigation systems, allowing users to engage with virtual environments in a seamless manner.
+### why-it-matters
+Spatial intelligence is crucial for enhancing user interaction within the OpenHome platform. By leveraging this intelligence, OpenHome can create more intuitive and user-friendly environments, facilitating better navigation and interaction with digital content.
 
-## how-it-manifests
-While specific applications of spatial intelligence within the OpenHome platform are not detailed, it is likely to manifest in features related to augmented reality, 3D visualization, and user interfaces that depend on spatial reasoning. These functionalities would enhance user experience by making interactions more natural and context-aware.
+### how-it-manifests
+The concept of spatial intelligence manifests within OpenHome through features that utilize spatial reasoning, such as navigation tools, user interface layouts that reflect physical spaces, and augmented reality (AR) experiences. These elements aim to create a more immersive and engaging user experience.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ While specific applications of spatial intelligence within the OpenHome platform
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-02T16:23:24Z -->
+<!-- synthesized: 2026-10-03T14:57:54Z -->
 ```

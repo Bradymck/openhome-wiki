@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: Local-First
+title: Local First
 entity_type: concepts
-status: stub
-last_updated: 2026-10-02
+status: live
+last_updated: 2026-10-03
 ---
 
-### definition
-Local-first is an approach to software development that emphasizes the importance of local data storage and processing, allowing applications to function seamlessly without constant reliance on remote servers.
+## definition
+Local first refers to a design philosophy that prioritizes data and application functionality stored and executed locally on users' devices, ensuring that applications remain functional even without an active internet connection.
 
-### why-it-matters
-In the context of OpenHome, local-first is crucial for enhancing user privacy, reducing latency, and enabling offline capabilities. It aligns with the principles of decentralization and empowers users to own and control their data.
+## why-it-matters
+This approach is crucial to OpenHome as it enhances user autonomy, privacy, and resilience. By allowing users to access and manage their applications and data locally, OpenHome empowers individuals to maintain control over their digital experiences while reducing dependency on central servers.
 
-### how-it-manifests
-This concept appears in the OpenHome platform by allowing applications to manage data locally on user devices. Features may include local data synchronization, offline access, and user-centric data management practices that prioritize local processing over cloud dependency.
+## how-it-manifests
+In the OpenHome platform, the local-first concept is realized through features that enable offline access to applications, data synchronization when online, and enhanced performance due to local data processing. Users can interact with their applications seamlessly, regardless of their internet connectivity status.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ This concept appears in the OpenHome platform by allowing applications to manage
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-02T16:23:24Z -->
+<!-- synthesized: 2026-10-03T14:57:54Z -->
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: platform/local-link
-entity_type: wiki_page
+entity_type: platform
 status: stub
-last_updated: 2026-10-02
+last_updated: 2026-10-03
 ---
 
 ### what-it-is
-The Local Link platform is a feature within the OpenHome ecosystem that enables seamless connectivity and interaction between local devices.
+The Local Link platform feature facilitates direct connections between devices within a localized network environment, enhancing communication and interactions among compatible devices.
 
 ### how-it-works
-Local Link operates by facilitating communication among devices in a localized network, allowing for efficient data exchange and functionality enhancement. This may include features such as device discovery, interoperability, and real-time communication, enabling users to manage and control their local devices effortlessly.
+Local Link operates by enabling devices on the same network to discover each other and establish peer-to-peer connections. This setup allows for efficient data exchange and control commands to be sent among devices, promoting seamless integration within home automation systems and avoiding the need for cloud-based services.
 
 ### current-status
 stub
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-10-02T16:23:24Z -->
+<!-- synthesized: 2026-10-03T14:57:54Z -->  
 ```
