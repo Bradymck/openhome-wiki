@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: Spatial Intelligence
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-10-03
+last_updated: 2026-10-04
 ---
 
-### definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It encompasses skills such as spatial reasoning, mental mapping, and the understanding of how objects relate to one another in physical space.
+## definition
+Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It involves understanding how objects relate to each other in physical dimensions and is crucial for problem-solving in environments where spatial understanding is essential.
 
-### why-it-matters
-Spatial intelligence is crucial for enhancing user interaction within the OpenHome platform. By leveraging this intelligence, OpenHome can create more intuitive and user-friendly environments, facilitating better navigation and interaction with digital content.
+## why-it-matters
+In the context of OpenHome, spatial intelligence is significant as it enhances user interactions with the platform, allowing for intuitive navigation and efficient interface design. By leveraging spatial intelligence, users can better understand and manipulate their living environments, promoting a more seamless experience in utilizing home technology.
 
-### how-it-manifests
-The concept of spatial intelligence manifests within OpenHome through features that utilize spatial reasoning, such as navigation tools, user interface layouts that reflect physical spaces, and augmented reality (AR) experiences. These elements aim to create a more immersive and engaging user experience.
+## how-it-manifests
+The concept of spatial intelligence can be observed in various aspects of the OpenHome platform, including features that utilize 3D modeling for home layouts, augmented reality applications for spatial mapping, and interface designs that prioritize user spatial awareness. This encourages users to engage with their space in a more informed manner.
 
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/grant-program]]
+## connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-10-03T14:57:54Z -->
+<!-- synthesized: 2026-10-04T15:31:41Z -->
 ```

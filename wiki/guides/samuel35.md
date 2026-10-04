@@ -1,24 +1,24 @@
 ```markdown
 ---
-title: guides/samuel35
-entity_type: Community Guide
+title: samuel35
+entity_type: guides
 status: stub
-last_updated: 2026-10-03
+last_updated: 2026-10-04
 ---
 
 ### who-they-are
-Samuel35 is recognized as a knowledgeable member within the community, contributing to the onboarding and support of other users.
+Information about samuel35's background and expertise is currently unknown.
 
 ### what-they-help-with
-Samuel35 specializes in guiding users through various community resources and tools, helping them effectively utilize available platforms and services.
+Currently, samuel35's specialty and the specific areas they assist with are not documented.
 
 ### how-to-reach
-Discord handle: not specified
+The Discord handle for samuel35 is not available.
 
 ## connects-to
 [[guides]]
-[[community]]
-[[onboarding]]
+[[Discord]]
+[[community guide]]
 
-<!-- synthesized: 2026-10-03T14:57:54Z -->
+<!-- synthesized: 2026-10-04T15:31:41Z -->
 ```
