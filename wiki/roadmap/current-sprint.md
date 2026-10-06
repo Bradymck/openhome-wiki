@@ -3,25 +3,25 @@
 title: Roadmap Current Sprint
 entity_type: roadmap
 status: live
-last_updated: 2026-10-04
+last_updated: 2026-10-06
 ---
 
-## what-it-is
-The current sprint focuses on finalizing a series of features and milestones that are integral to the development roadmap.
+### what-it-is
+The current sprint in the roadmap focuses on ongoing development efforts to implement and enhance features that align with the project’s goals.
 
-## status
+### status
 In-progress
 
-## why-it-matters
-This sprint is crucial for ensuring that key features are developed and delivered on time, maintaining the momentum of the overall project and meeting user expectations.
+### why-it-matters
+The current sprint is crucial for maintaining the momentum of feature development and ensuring that the project continues to evolve, addressing user needs and responding to feedback.
 
-## eta
-An estimated timeline has not been provided; further updates will likely clarify the completion timeframe.
+### eta
+A specific timeline is not provided; however, it is a part of ongoing development efforts.
 
 ## connects-to
-[[roadmap]]
-[[sprint]]
-[[feature development]]
+[[roadmap/planned]]
+[[roadmap/shipped]]
+[[roadmap/milestones]]
 
-<!-- synthesized: 2026-10-04T15:31:41Z -->
+<!-- synthesized: 2026-10-06T16:57:55Z -->
 ```

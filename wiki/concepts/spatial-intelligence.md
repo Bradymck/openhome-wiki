@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-10-04
----
+last_updated: 2026-10-06
+```
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It involves understanding how objects relate to each other in physical dimensions and is crucial for problem-solving in environments where spatial understanding is essential.
+Spatial intelligence refers to the ability to visualize and manipulate objects in a spatial context. It encompasses understanding how different elements relate to one another in space, which is crucial for effective interaction and navigation within a digital environment.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is significant as it enhances user interactions with the platform, allowing for intuitive navigation and efficient interface design. By leveraging spatial intelligence, users can better understand and manipulate their living environments, promoting a more seamless experience in utilizing home technology.
+In the context of OpenHome, spatial intelligence is vital for enhancing user experience and enabling intuitive navigation within various spaces. As users interact with spatial data and environments, fostering spatial intelligence allows for improved decision-making and engagement in these digital contexts.
 
 ## how-it-manifests
-The concept of spatial intelligence can be observed in various aspects of the OpenHome platform, including features that utilize 3D modeling for home layouts, augmented reality applications for spatial mapping, and interface designs that prioritize user spatial awareness. This encourages users to engage with their space in a more informed manner.
+While specific applications of spatial intelligence within the OpenHome platform are currently unspecified, it is expected to play a role in the development of features that involve spatial awareness, such as augmented reality (AR) applications, interactive mapping, and 3D visualizations. These applications leverage the user's ability to understand spatial relationships, improving the overall interaction with OpenHome's offerings.
 
 ## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/grant-program]]  
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-04T15:31:41Z -->
-```
+<!-- synthesized: 2026-10-06T16:57:55Z -->
