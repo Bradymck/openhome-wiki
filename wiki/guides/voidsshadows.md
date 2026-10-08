@@ -1,23 +1,24 @@
 ```markdown
 ---
 title: guides/voidsshadows
-entity_type: Community Guides
+entity_type: Community Guide
 status: stub
-last_updated: 2026-10-07
+last_updated: 2026-10-08
 ---
 
 ### who-they-are
-Information regarding the expertise or background of the voidsshadows guide is currently unavailable.
+Information about who Voidsshadow is and their background or expertise is currently unavailable.
 
 ### what-they-help-with
-The specific areas in which the voidsshadows guide provides assistance are not documented.
+Voidsshadow's areas of specialty, including their abilities, hardware knowledge, or use of APIs, are not specified.
 
 ### how-to-reach
-Discord handle for reaching voidsshadows is not provided.
+Voidsshadow's Discord handle is not provided.
 
 ## connects-to
-[[guides]]  
-[[community-guides]]  
+[[guides]]
+[[community-guides]]
+[[discord-handles]]
 
-<!-- synthesized: 2026-10-07T17:34:02Z -->
+<!-- synthesized: 2026-10-08T17:37:18Z -->
 ```

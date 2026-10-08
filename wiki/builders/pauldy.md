@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: Builders/Pauldy
+title: builders/pauldy
 entity_type: builders
 status: stub
-last_updated: 2026-10-07
+last_updated: 2026-10-08
 ---
 
 ### who-they-are
-Pauldy is a community builder involved in developing and enhancing tools and abilities within the DevKit ecosystem. Their contributions focus on shipping integrations that enhance user experiences.
+Pauldy is a member of the active builders community, focusing on integrating various technologies and enhancing the development experience for users.
 
 ### what-they-built
-Specific details about the abilities or integrations that Pauldy has shipped were not located in the available data. Further information may be needed to elaborate on their contributions.
+Currently, there are no specific shipped abilities or integrations attributed to Pauldy in the available data.
 
 ### grant-status
 none
@@ -21,6 +21,7 @@ none
 - X: Not specified
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-10-07T17:34:02Z -->
+[[abilities]]
+
+<!-- synthesized: 2026-10-08T17:37:18Z -->
 ```
