@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: guides/skillstone
-entity_type: community_guides
+title: Skillstone Guides
+entity_type: guides/
 status: stub
-last_updated: 2026-10-08
+last_updated: 2026-10-09
 ---
 
-## who-they-are
-There is currently no specific information available about the individuals behind "guides/skillstone." 
+### who-they-are
+Information regarding the individuals offering Skillstone guides is currently not available.
 
-## what-they-help-with
-The details regarding the specific areas of expertise or the types of support provided by "guides/skillstone" are not explicitly outlined.
+### what-they-help-with
+Skillstone guides are intended to assist users in navigating the Skillstone platform. Specific areas of expertise have not been detailed in the available data.
 
-## how-to-reach
-No contact information, such as a Discord handle, has been provided.
+### how-to-reach
+Contact details such as Discord handles for Skillstone guides have not been provided.
 
 ## connects-to
 [[guides]]
 [[skillstone]]
 
-<!-- synthesized: 2026-10-08T17:37:18Z -->
+<!-- synthesized: 2026-10-09T17:13:21Z -->
 ```

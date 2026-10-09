@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/grant-program
+entity_type: concepts
 status: stub
-last_updated: 2026-10-08
+last_updated: 2026-10-09
 ---
 
 ### definition
-A grant program is a financial initiative designed to provide funding for specific projects or research that aligns with the goals and values of the organization administering the program.
+A grant program is a structured initiative designed to provide funding or resources to individuals, organizations, or projects that align with specific goals or values.
 
 ### why-it-matters
-The grant program is crucial for supporting innovation and development within the OpenHome community, enabling projects that can enhance the platform's capabilities and reach. By funding diverse ideas, the program helps foster a vibrant ecosystem of developers and creators.
+Grant programs are significant to OpenHome as they foster innovation, support community initiatives, and enhance the overall ecosystem by enabling projects that may not have access to traditional funding sources. They help in nurturing talent and fostering collaborations within the community.
 
 ### how-it-manifests
-While specific details regarding the structure and function of the grant program within OpenHome are limited, it generally includes calls for proposals, application processes, and selection criteria that focus on projects benefiting the OpenHome platform. This could involve initiatives aimed at enhancing user experience, integrating new technologies, or addressing community needs.
+The grant program manifests in OpenHome as a mechanism to encourage development and implementation of new ideas, technologies, or community projects. By offering grants, OpenHome supports contributors and projects that aim to advance its mission and vision.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific details regarding the structure and function of the grant program
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-10-08T17:37:18Z -->
+<!-- synthesized: 2026-10-09T17:13:21Z -->
 ```
