@@ -1,20 +1,20 @@
 ```yaml
-title: Local First
+title: concepts/local-first
 entity_type: concepts
 status: stub
-last_updated: 2026-10-09
+last_updated: 2026-10-10
 ```
 
-### definition
-Local First refers to a design philosophy in applications and services that prioritize local data storage and processing on user devices, ensuring functionality even without a constant internet connection.
+## definition
+Local-first refers to the approach of prioritizing local data storage and processing within applications, ensuring that users can access and interact with their data even without a constant internet connection.
 
-### why-it-matters
-The Local First approach is significant for OpenHome as it enhances user autonomy and privacy, allowing users to retain control over their data. This can lead to improved user experience by providing faster access to information and reduced reliance on external servers.
+## why-it-matters
+This concept is crucial to OpenHome as it provides users with greater control and privacy over their data. By enabling applications to function locally, users can maintain their workflows regardless of connectivity issues, thereby enhancing the overall user experience and reliability of the platform.
 
-### how-it-manifests
-In the OpenHome platform, Local First can be seen in applications that operate smoothly offline, synchronizing with cloud services when connectivity is restored. This enables users to continue interacting with their data seamlessly, regardless of internet availability.
+## how-it-manifests
+In OpenHome, local-first may appear in features that allow data to be cached or stored on users' devices. This could include functionalities like offline access to applications, data synchronization when connectivity is restored, or the ability to perform actions without immediately relying on cloud services.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -22,4 +22,4 @@ In the OpenHome platform, Local First can be seen in applications that operate s
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-09T17:13:21Z -->
+<!-- synthesized: 2026-10-10T15:58:14Z -->
