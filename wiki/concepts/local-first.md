@@ -1,25 +1,27 @@
-```yaml
-title: concepts/local-first
+```markdown
+---
+title: Local First
 entity_type: concepts
 status: stub
-last_updated: 2026-10-10
+last_updated: 2026-10-11
+---
+
+### definition
+Local First refers to an approach in software design that prioritizes using local data storage and processing before utilizing remote servers or cloud services. This concept emphasizes the importance of operating effectively even without constant internet connectivity.
+
+### why-it-matters
+Local First is crucial for OpenHome as it enhances user autonomy and ensures that applications remain functional in offline scenarios. This approach supports data privacy by reducing reliance on remote servers and can improve performance by minimizing latency.
+
+### how-it-manifests
+This concept appears in the OpenHome platform through applications that enable users to manage their data locally on their devices. Features might include local data synchronization, offline capabilities, and minimal server dependence, allowing users to maintain control over their information.
+
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
+
+<!-- synthesized: 2026-10-11T16:26:09Z -->
 ```
-
-## definition
-Local-first refers to the approach of prioritizing local data storage and processing within applications, ensuring that users can access and interact with their data even without a constant internet connection.
-
-## why-it-matters
-This concept is crucial to OpenHome as it provides users with greater control and privacy over their data. By enabling applications to function locally, users can maintain their workflows regardless of connectivity issues, thereby enhancing the overall user experience and reliability of the platform.
-
-## how-it-manifests
-In OpenHome, local-first may appear in features that allow data to be cached or stored on users' devices. This could include functionalities like offline access to applications, data synchronization when connectivity is restored, or the ability to perform actions without immediately relying on cloud services.
-
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
-
-<!-- synthesized: 2026-10-10T15:58:14Z -->

@@ -1,28 +1,27 @@
 ```markdown
 ---
-title: "builders/bradymck"
-entity_type: "builders"
-status: "stub"
-last_updated: 2026-10-10
+title: bradymck
+entity_type: builders
+status: stub
+last_updated: 2026-10-11
 ---
 
 ### who-they-are
-Brady McK is an active community builder holding a devkit, focused on creating and shipping functional abilities within the community.
+bradymck is an active community builder who holds a devkit and is involved in shipping various abilities within the community.
 
 ### what-they-built
-Information regarding specific abilities or integrations that Brady McK has shipped is currently not available.
+Information about specific abilities or integrations that bradymck has built is not available at this time.
 
 ### grant-status
-none
+unknown
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: unknown
+- GitHub: unknown
+- X: unknown
 
 ## connects-to
 [[abilities]]
-[[integrations]]
 
-<!-- synthesized: 2026-10-10T15:58:14Z -->
+<!-- synthesized: 2026-10-11T16:26:09Z -->
 ```

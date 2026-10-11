@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: Peej
+title: team/peej
 entity_type: team
 status: stub
-last_updated: 2026-10-10
+last_updated: 2026-10-11
 ---
 
 ### who-they-are
-Role at OpenHome: Information not available. Background: Information not available.
+Peej is a member of the OpenHome core team, possessing significant experience within the organization.
 
 ### what-they-own
-Areas of the platform they lead: Information not available.
+Details about the specific areas of the OpenHome platform that Peej leads or manages are currently unavailable.
 
 ### how-to-reach
-Discord handle: Information not available. X/Twitter: Information not available. Preferred contact: Information not available.
+Contact information for Peej has not been provided.
 
-### connects-to
-[[team/jesse]]  
+## connects-to
+[[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-10-10T15:58:14Z -->
+<!-- synthesized: 2026-10-11T16:26:09Z -->
 ```

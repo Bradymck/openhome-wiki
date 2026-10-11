@@ -1,28 +1,26 @@
-```markdown
----
-title: Voice AI
-entity_type: platform
-status: planned
-last_updated: 2026-10-10
----
+```yaml
+title: Voice AI Platform
+entity_type: platform/voice-ai
+status: stub
+last_updated: 2026-10-11
+```
 
 ## what-it-is
-Voice AI is an advanced platform component designed to facilitate natural language processing and voice recognition capabilities in user interactions. It enables devices to understand and respond to spoken commands, enhancing user experience and accessibility.
+Voice AI is a component of the OpenHome platform, designed to provide voice recognition and natural language processing capabilities for a variety of applications and devices. It enables users to interact with technology using spoken commands, enhancing user experience through intuitive interfaces.
 
 ## how-it-works
-Voice AI operates through a combination of machine learning models and natural language processing algorithms. It captures audio input, processes the spoken language in real-time, and generates appropriate responses or actions based on user commands. The architecture typically includes a voice recognition engine, data processing modules, and integration with various devices to enable seamless communication.
+Voice AI utilizes advanced algorithms for voice recognition, converting spoken language into text and understanding user intent. This process often includes machine learning models trained on large datasets to support multiple languages and dialects. Voice AI integrates seamlessly with devices and services within the OpenHome ecosystem, allowing users to control smart devices, access information, and perform tasks via voice commands.
 
 ## current-status
-planned
+stub
 
 ## connects-to
-[[platform/openhome]]  
-[[platform/speakers]]  
-[[platform/abilities]]  
-[[platform/dashboard]]  
-[[platform/local-link]]  
-[[platform/marketplace]]  
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/abilities]]
+[[platform/dashboard]]
+[[platform/local-link]]
+[[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-10-10T15:58:14Z -->
-```
+<!-- synthesized: 2026-10-11T16:26:09Z -->

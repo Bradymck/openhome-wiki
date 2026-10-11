@@ -1,24 +1,24 @@
 ```markdown
 ---
-title: Sagarjethi
-entity_type: guides/
+title: guides/sagarjethi
+entity_type: Community Guide
 status: stub
-last_updated: 2026-10-10
+last_updated: 2026-10-11
 ---
 
 ### who-they-are
-Sagarjethi is a community guide known for their contributions to onboarding new users in various technical domains. Their expertise and familiarity with community tools make them a valuable resource for users seeking assistance.
+Sagarjethi is a community guide recognized for their expertise in various technical domains. Their experience involves helping users navigate complex systems.
 
 ### what-they-help-with
-Sagarjethi specializes in guiding users through the complexities of community platforms and software, helping them understand features, functionalities, and best practices.
+Sagarjethi specializes in onboarding new users by providing guidance on effective usage of tools and systems. They assist with hardware setups, API interactions, and provide troubleshooting support.
 
 ### how-to-reach
-You can reach Sagarjethi on Discord for assistance and guidance.
+You can reach Sagarjethi on Discord.
 
 ## connects-to
-[[Community Guides]]
-[[Onboarding Resources]]
-[[Technical Support]]
+[[guides]]
+[[community-support]]
+[[technical-assistance]]
 
-<!-- synthesized: 2026-10-10T15:58:14Z -->
+<!-- synthesized: 2026-10-11T16:26:09Z -->
 ```
