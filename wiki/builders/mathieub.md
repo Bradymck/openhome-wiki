@@ -3,25 +3,25 @@
 title: builders/mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-10-11
+last_updated: 2026-10-12
 ---
 
 ### who-they-are
-Mathieu B. is a community builder known for their active involvement in various projects within the community. They hold developer kits and are engaged in shipping abilities to enhance user experience.
+Mathieu B. is an active member of the developer community focused on building innovative solutions using various development kits.
 
 ### what-they-built
-Currently, there is no specific information available regarding the specific abilities or integrations that Mathieu B. has shipped.
+Information regarding specific abilities or integrations that Mathieu has shipped is currently unavailable.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
-### connects-to
-[[wikilinks]]
+## connects-to
+[[abilities]] 
 
-<!-- synthesized: 2026-10-11T16:26:09Z -->
+<!-- synthesized: 2026-10-12T20:01:04Z -->
 ```

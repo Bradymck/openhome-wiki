@@ -1,25 +1,25 @@
 ```yaml
 title: Grant Program
-entity_type: concepts/grant-program
+entity_type: concepts
 status: stub
-last_updated: 2026-10-11
+last_updated: 2026-10-12
 ```
 
-### definition
-A grant program is a structured financial support initiative that provides funding to individuals, organizations, or projects in order to promote innovation, development, and research within a specific domain.
+## definition
+The grant program is an initiative designed to provide funding and resources for projects that align with the goals and values of OpenHome.
 
-### why-it-matters
-In the context of OpenHome, grant programs are vital as they encourage the development of new technologies and solutions within the platform ecosystem. They foster creativity and enable participants to experiment with ideas that could enhance the community and improve overall user experience.
+## why-it-matters
+This program plays a crucial role in fostering innovation within the OpenHome ecosystem by supporting developers and creators in building applications and solutions that enrich the platform. It encourages collaboration and experimentation, enabling new ideas to flourish.
 
-### how-it-manifests
-Grant programs within OpenHome may be manifested through specific funding opportunities announced by the organization, where applicants can submit proposals for projects that align with the platform's mission and objectives. Successful applicants receive financial backing along with mentorship and resources to help realize their projects.
+## how-it-manifests
+The grant program manifests through various funding opportunities, application processes, and support initiatives aimed at developers and projects. It may include workshops, mentorship, and resources to help applicants successfully implement their ideas.
 
-### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-10-11T16:26:09Z -->
+<!-- synthesized: 2026-10-12T20:01:04Z -->

@@ -1,28 +1,25 @@
 ```markdown
 ---
-title: "builders/michaelgold"
-entity_type: "builder"
-status: "stub"
-last_updated: 2026-10-11
+title: Builders - Michael Gold
+entity_type: builders
+status: stub
+last_updated: 2026-10-12
 ---
 
 ### who-they-are
-Michael Gold is an active community builder within the Homie ecosystem, focusing on enhancing user roles and developer tools.
+Michael Gold is a community builder involved in the development of various projects. Specific details about his background and the nature of what he is building are currently unavailable.
 
 ### what-they-built
-Details about specific abilities or integrations that Michael Gold has shipped are currently not available.
+Information regarding the specific abilities or integrations that Michael Gold has shipped is not present.
 
 ### grant-status
-Applied
+The grant status for Michael Gold is currently unknown.
 
 ### how-to-reach
-Discord: Not specified  
-GitHub: Not specified  
-X: Not specified  
+No contact information, including Discord handle, GitHub, or X, has been provided.
 
 ## connects-to
-[[Homie]]  
-[[User roles]]  
-[[devkit]]
-<!-- synthesized: 2026-10-11T16:26:09Z -->
+[[wikilinks]]
+
+<!-- synthesized: 2026-10-12T20:01:04Z -->
 ```
