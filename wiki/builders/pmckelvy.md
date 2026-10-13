@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: pmckelvy
+title: builders/pmckelvy
 entity_type: builders
 status: stub
-last_updated: 2026-10-12
+last_updated: 2026-10-13
 ---
 
 ### who-they-are
-pmckelvy is an active member of the community, involved in building and contributing to projects aimed at enhancing capabilities within the ecosystem.
+pmckelvy is an active community builder associated with the Homie and User roles. They are involved in the development of various capabilities within the ecosystem.
 
 ### what-they-built
-Details regarding specific abilities or integrations shipped by pmckelvy are currently unavailable.
+Information on specific shipped abilities or integrations by pmckelvy is currently not available.
 
 ### grant-status
 none
@@ -22,7 +22,8 @@ X: Not specified
 
 ## connects-to
 [[abilities]]
-[[community]] 
+[[Homie roles]]
+[[User roles]]
 
-<!-- synthesized: 2026-10-12T20:01:04Z -->
+<!-- synthesized: 2026-10-13T17:49:58Z -->
 ```

@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Current Sprint Overview
-entity_type: roadmap/current-sprint
+title: Roadmap Current Sprint
+entity_type: roadmap
 status: stub
-last_updated: 2026-10-12
+last_updated: 2026-10-13
 ---
 
 ### what-it-is
-The current sprint encapsulates the ongoing development initiatives aimed at enhancing the platform’s features and overall user experience.
+Current sprint status regarding ongoing development efforts.
 
 ### status
 in-progress
 
 ### why-it-matters
-This phase is crucial for iterative development, as it enables the team to address immediate issues, refine existing features, and prepare for forthcoming releases, ensuring the platform remains competitive and meets user needs.
+Understanding the current sprint helps stakeholders gauge the progress of feature development and milestone achievements.
 
 ### eta
-Rough timeline for completion is not specified.
+Rough timeline is not specified.
 
 ## connects-to
-[[roadmap]]  
-[[features]]  
-[[milestones]]  
-
-<!-- synthesized: 2026-10-12T20:01:04Z -->
+[[roadmap]]
+[[sprint]]
+[[features]]
+[[milestones]]
+<!-- synthesized: 2026-10-13T17:49:58Z -->
 ```

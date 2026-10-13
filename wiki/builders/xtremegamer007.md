@@ -1,29 +1,26 @@
 ```markdown
 ---
-title: builders/xtremegamer007
-entity_type: builders
+title: xtremegamer007
+entity_type: builders/
 status: stub
-last_updated: 2026-10-12
+last_updated: 2026-10-13
 ---
 
 ### who-they-are
-xtremegamer007 is an active community builder within the devkit ecosystem, known for their engagement and contributions to the community.
+xtremegamer007 is a builder in the active developer community known for holding a devkit. They are engaged in creating various integrations and abilities for users within the community.
 
 ### what-they-built
-There is currently no specific information available regarding abilities or integrations that xtremegamer007 has shipped.
+Specific details about what xtremegamer007 has built or shipped are not currently available.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Not available  
-GitHub: Not available  
-X: Not available  
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[developer-tools]]
-[[community-engagement]]
-
-<!-- synthesized: 2026-10-12T20:01:04Z -->
+[[abilities]]
+<!-- synthesized: 2026-10-13T17:49:58Z -->
 ```
