@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: "Franci"
-entity_type: "guides/"
-status: "stub"
-last_updated: 2026-10-13
+title: guides/franci
+entity_type: Community Guide
+status: stub
+last_updated: 2026-10-15
 ---
 
 ### who-they-are
-Franci is a community guide known for their participation in online support and onboarding efforts.
+Franci is a community guide known for their expertise in various technical areas and online community support.
 
 ### what-they-help-with
-Franci specializes in assisting users with understanding community resources and navigating the available tools and platforms.
+Franci specializes in onboarding new users to community tools and platforms, providing guidance on best practices and troubleshooting common issues.
 
 ### how-to-reach
-Discord handle: Not specified.
+You can reach Franci through their Discord handle.
 
 ## connects-to
-[[Community Guides]]
-[[Onboarding Resources]]
-[[User Support]]
-<!-- synthesized: 2026-10-13T17:49:58Z -->
+[[guides]]
+[[community support]]
+[[onboarding]]
+<!-- synthesized: 2026-10-15T15:22:23Z -->
 ```

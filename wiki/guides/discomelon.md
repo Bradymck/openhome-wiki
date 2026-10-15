@@ -1,24 +1,23 @@
 ```markdown
 ---
-title: guides/discomelon
-entity_type: Community Guide
+title: Discomelon Guide
+entity_type: guides/
 status: stub
-last_updated: 2026-10-13
+last_updated: 2026-10-15
 ---
 
 ### who-they-are
-Discomelon is a member of the community who focuses on providing support and guidance to new users. Information about specific background or expertise is not currently available.
+Information about the creator or maintainer of the Discomelon guide is currently unavailable.
 
 ### what-they-help-with
-Discomelon specializes in assisting users with navigating community tools and platforms. Specific areas of expertise, abilities, hardware, or APIs have not been outlined.
+The specifics of what the Discomelon guide helps with are not provided.
 
 ### how-to-reach
-Discord handle: Not available
+Details concerning how to reach the guide author via Discord are not available.
 
 ## connects-to
-[[guides]]  
-[[community]]  
-[[support]]  
+[[guides]]
+[[community-guide]]
 
-<!-- synthesized: 2026-10-13T17:49:58Z -->
+<!-- synthesized: 2026-10-15T15:22:23Z -->
 ```

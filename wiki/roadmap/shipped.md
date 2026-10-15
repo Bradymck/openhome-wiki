@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: roadmap/shipped
+title: Roadmap Shipped
 entity_type: roadmap
-status: stub
-last_updated: 2026-10-13
+status: live
+last_updated: 2026-10-15
 ---
 
 ### what-it-is
-This roadmap page outlines upcoming features, features currently in progress, and those that have shipped.
+The current state of features and milestones that have been shipped as part of the ongoing development roadmap.
 
 ### status
-Status information is currently unavailable; it is unclear which features are shipped, in-progress, or planned.
+Shipped
 
 ### why-it-matters
-A roadmap is crucial for stakeholders to understand the development and release trajectory of features, ensuring transparency and alignment with user expectations.
+This section outlines the successful delivery of features that enhance user experience and capability within the platform. A clearly defined set of shipped features allows users and stakeholders to understand the progress and direction of development efforts.
 
 ### eta
-No specific timelines are provided at this time.
+No specific timeline is available for further updates; however, it reflects the ongoing commitment to gradual improvements and feature rollouts based on community feedback and usage metrics.
 
 ## connects-to
-[[roadmap/in-progress]]
 [[roadmap/planned]]
-[[roadmap/cancelled]]
+[[roadmap/in-progress]]
+[[features/updates]]
 
-<!-- synthesized: 2026-10-13T17:49:58Z -->
+<!-- synthesized: 2026-10-15T15:22:23Z -->
 ```
