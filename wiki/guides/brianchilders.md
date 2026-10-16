@@ -1,25 +1,24 @@
 ```markdown
 ---
-title: Brianchilders
-entity_type: guides
+title: guides/brianchilders
+entity_type: Community Guide
 status: stub
-last_updated: 2026-10-15
+last_updated: 2026-10-16
 ---
 
 ### who-they-are
-Brianchilders is a community guide recognized for their expertise in various technical areas relevant to the community.
+Information about brianchilders' background and expertise is currently unavailable.
 
 ### what-they-help-with
-Brianchilders specializes in onboarding new users, providing guidance on hardware setups, APIs, and community best practices.
+brianchilders' specialty and the specific areas they assist with have not been documented.
 
 ### how-to-reach
-Discord handle: Not specified
+Details regarding brianchilders' Discord handle are not provided.
 
 ## connects-to
-[[guides]]
-[[community]]
-[[hardware]]
-[[APIs]]
+[[Community Guides]]  
+[[Onboarding]]  
+[[Discord]]  
 
-<!-- synthesized: 2026-10-15T15:22:23Z -->
+<!-- synthesized: 2026-10-16T15:02:26Z -->
 ```

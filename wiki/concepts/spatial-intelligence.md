@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-10-15
+last_updated: 2026-10-16
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in a spatial context. It involves understanding dimensions, spatial relationships, and the capacity to navigate through environments.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relations, understanding how objects relate to one another in space. It encompasses skills such as spatial reasoning, navigation, and the ability to perceive and interpret visual information.
 
 ## why-it-matters
-Spatial intelligence is crucial for OpenHome as it enhances user interactions with the platform through a more intuitive interface. It allows users to better comprehend their spatial environment and improves the overall user experience, particularly in applications that rely on navigation and spatial awareness.
+Spatial intelligence is relevant to OpenHome as it enhances user experience by facilitating effective navigation and interaction within the platform. Understanding spatial relationships supports intuitive design and user interface strategies that improve accessibility and functionality.
 
 ## how-it-manifests
-In OpenHome, spatial intelligence may manifest in features such as augmented reality interfaces, spatial mapping tools, or features that allow users to arrange and interact with virtual environments intuitively. The platform may also leverage spatial data to improve functionality and ease of use.
+In the OpenHome platform, spatial intelligence may appear in various ways, such as in the layout of user interfaces, the organization of information, and navigation tools that allow users to interact with digital environments seamlessly. 
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In OpenHome, spatial intelligence may manifest in features such as augmented rea
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-15T15:22:23Z -->
+<!-- synthesized: 2026-10-16T15:02:26Z -->
 ```
