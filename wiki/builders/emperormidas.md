@@ -1,25 +1,26 @@
-```yaml
+```markdown
+---
 title: Emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-10-16
-```
+last_updated: 2026-10-17
+---
 
-## who-they-are
-Emperormidas is a member of an active community focused on building and developing projects within the blockchain and decentralized application space. As a devkit holder, they engage with the community to enhance collaborative efforts and innovate within the ecosystem.
+### who-they-are
+Emperormidas is an active member of the community known for their contributions as a builder. They play a role in leveraging devkit capabilities to enhance community engagement and technical integrations.
 
-## what-they-built
-Details about specific shipped abilities or integrations by Emperormidas are not available at this time.
+### what-they-built
+Information about specific abilities or integrations shipped by Emperormidas is currently unavailable.
 
-## grant-status
-unknown
+### grant-status
+none
 
-## how-to-reach
-No specific contact information for Emperormidas has been provided.
+### how-to-reach
+Information on how to reach Emperormidas is currently unavailable.
 
 ## connects-to
-[[builders]]
-[[devkit holders]]
-[[community projects]]
-
-<!-- synthesized: 2026-10-16T15:02:26Z -->
+[[Abilities]]
+[[Integrations]]
+[[Community Builders]]
+<!-- synthesized: 2026-10-17T13:58:32Z -->
+```

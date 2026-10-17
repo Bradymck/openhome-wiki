@@ -1,27 +1,25 @@
-```markdown
----
+```yaml
 title: Dead Man's Switch
 entity_type: concepts
-status: live
-last_updated: 2026-10-16
----
+status: stub
+last_updated: 2026-10-17
+```
 
 ## definition
-A dead man's switch is a safety mechanism that automatically triggers an action if a person becomes incapacitated or fails to perform a specified task within a certain timeframe. This concept is commonly used to ensure important processes continue to operate smoothly in the absence of active oversight or control.
+A dead man's switch is a safety mechanism that triggers an action if the user becomes incapacitated or unresponsive. Typically, it serves as a safeguard to ensure that processes or systems remain secure, functioning, or controlled, even in the absence of the operator.
 
 ## why-it-matters
-In the context of OpenHome, the dead man's switch concept is crucial for ensuring user engagement and platform reliability. It provides a framework for handling situations where users may not be able to interact with the system, thus safeguarding data, transactions, and other automated processes from being unnecessarily stalled or compromised.
+In the context of OpenHome, the dead man's switch concept is crucial for ensuring that user privacy and control over personal data are maintained. It serves to prevent unauthorized access in cases where the user is unable to manage their digital assets independently. This concept aligns with the broader goal of empowering users in a decentralized ecosystem.
 
 ## how-it-manifests
-In the OpenHome platform, the dead man's switch may manifest as automated alerts or actions that trigger if a user has not engaged with their account or completed necessary tasks for a specified period. This could apply to various user activities, including managing account settings, authorizing transactions, or any other critical interactions that require ongoing participation.
+The dead man's switch may be integrated into OpenHome as part of user account security features. It can manifest as a mechanism that requires periodic verification from users to maintain access to their data or systems, ensuring that only active and engaged users can control sensitive information.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/web3-native]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-16T15:02:26Z -->
-```
+<!-- synthesized: 2026-10-17T13:58:32Z -->

@@ -1,26 +1,25 @@
-```markdown
----
+```yaml
 title: builders/sonordi
 entity_type: builders
 status: stub
-last_updated: 2026-10-16
----
+last_updated: 2026-10-17
+```
 
-### who-they-are
-Sonordi is part of an active community of builders who hold developer kits and are engaged in creating innovative abilities and integrations. They are recognized for their contributions and active participation in the ecosystem.
+## who-they-are
+Sonordi is an active community builder within the Homie ecosystem, engaging with users who hold development kits (devkits) and are focused on creating new abilities and integrations.
 
-### what-they-built
-Information on specific abilities or integrations that Sonordi has shipped is currently unavailable.
+## what-they-built
+Details about what Sonordi has specifically built or shipped are currently unavailable.
 
-### grant-status
-Grant status information for Sonordi has not been provided.
+## grant-status
+None
 
-### how-to-reach
-Details on how to contact Sonordi, including Discord handle, GitHub, or X (formerly Twitter), are not available.
+## how-to-reach
+Information regarding how to reach Sonordi is not provided.
 
 ## connects-to
-[[abilities]]
+[[builders/homie]]
+[[developers]]
 [[integrations]]
 
-<!-- synthesized: 2026-10-16T15:02:26Z -->
-```
+<!-- synthesized: 2026-10-17T13:58:32Z -->

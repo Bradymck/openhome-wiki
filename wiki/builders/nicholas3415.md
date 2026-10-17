@@ -1,24 +1,27 @@
-```yaml
+```markdown
+---
 title: builders/nicholas3415
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-10-16
-```
+last_updated: 2026-10-17
+---
 
 ### who-they-are
-Nicholas3415 is an active member of the builders community, known for engaging in development and integration tasks within the ecosystem. Currently, there is limited availability of specific details about their background and the projects they are involved in.
+Nicholas3415 is an active community builder holding a devkit. They are involved in developing various integrations and enhancements within their community environment.
 
 ### what-they-built
-There is no recorded information regarding any specific abilities or integrations that Nicholas3415 has shipped.
+Currently, there are no specific details available regarding the shipped abilities or integrations that Nicholas3415 has developed.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-Information on how to reach Nicholas3415 is currently unavailable.
+- Discord: Not provided
+- GitHub: Not provided
+- X (formerly Twitter): Not provided
 
-## connects-to
-[[wikilink to relevant abilities or integrations]]
+### connects-to
+There are no specific abilities or integrations to link to at this time.
 
-<!-- synthesized: 2026-10-16T15:02:26Z -->
+<!-- synthesized: 2026-10-17T13:58:32Z -->
 ```
