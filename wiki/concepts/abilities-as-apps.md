@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: abilities-as-apps
+title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-10-17
+last_updated: 2026-10-18
 ---
 
 ### definition
-Abilities-as-apps refer to the concept of encapsulating functionalities or skills as standalone applications that can be accessed and utilized within a broader platform. This approach allows for modular development and integration of various capabilities that enhance user experience.
+Abilities-as-apps refer to a concept where individual capabilities or features within a platform are organized and accessed as standalone applications. This approach allows users to engage specific functionalities without needing to navigate through a larger, more complex system.
 
 ### why-it-matters
-The relevance of abilities-as-apps to OpenHome lies in the flexibility and scalability it provides. By treating each ability as an independent app, developers can create, update, and deploy new functionalities without needing to overhaul the entire system. This modularity promotes innovation and responsiveness to user needs, enabling a more tailored experience.
+This concept is significant to OpenHome as it promotes modularity and personalization, enabling users to customize their interactions with the platform. By allowing abilities to exist as separate applications, users can select the tools they need based on their individual preferences and workflows, streamlining their overall experience.
 
 ### how-it-manifests
-This concept is manifested in OpenHome through a variety of applications that users can install and interact with, each designed to perform specific tasks or provide unique features. These apps are not only accessible to users but can also be integrated with one another, creating a dynamic environment where abilities can be combined to achieve more complex objectives.
+In the OpenHome platform, abilities-as-apps may appear as distinct modules that users can activate or deactivate according to their needs. This modular structure allows for easier updates, scalability, and the integration of new features, thereby enhancing user engagement and satisfaction.
 
 ### connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ This concept is manifested in OpenHome through a variety of applications that us
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-17T13:58:32Z -->
+<!-- synthesized: 2026-10-18T14:10:57Z -->
 ```

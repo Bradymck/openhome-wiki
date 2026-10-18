@@ -1,25 +1,25 @@
-```yaml
+```markdown
+---
 title: pmckelvy
 entity_type: builders
 status: stub
-last_updated: 2026-10-17
-```
+last_updated: 2026-10-18
+---
 
 ### who-they-are
-pmckelvy is a builder in the community, known for their involvement in developing and shipping capabilities within the ecosystem.
+Information about pmckelvy's background and what they are currently building is not available.
 
 ### what-they-built
-Details regarding specific abilities or integrations that pmckelvy has shipped are currently unavailable.
+Details on any shipped abilities or integrations by pmckelvy are currently unknown.
 
 ### grant-status
-none
+Unknown
 
 ### how-to-reach
-Discord handle: Unknown  
-GitHub: Unknown  
-X: Unknown  
+Information on pmckelvy's Discord handle, GitHub, or X is not currently available.
 
 ## connects-to
-[[wikilinks]]
+[[abilities]]
 
-<!-- synthesized: 2026-10-17T13:58:32Z -->
+<!-- synthesized: 2026-10-18T14:10:57Z -->
+```

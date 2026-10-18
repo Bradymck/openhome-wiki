@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Voice First
+title: Voice-First
 entity_type: concepts
 status: stub
-last_updated: 2026-10-17
+last_updated: 2026-10-18
 ---
 
 ### definition
-Voice first is a design philosophy that prioritizes voice interactions as the primary mode of user engagement with technology, particularly in the context of smart devices and applications.
+Voice-first refers to a design philosophy that prioritizes voice interaction as the primary mode of user engagement with technology, emphasizing the convenience and naturalness of voice communication over traditional input methods like touch or keyboard.
 
 ### why-it-matters
-Voice first is relevant to OpenHome as it enhances user accessibility and interaction, allowing for a more intuitive user experience. By leveraging voice commands, users can engage with their environments seamlessly, which is essential in the growing trend of voice-activated technology.
+In the context of OpenHome, voice-first technology is increasingly relevant as it enhances accessibility and user experience. By integrating voice interfaces, OpenHome aims to create a more intuitive and approachable environment for users, allowing for seamless interaction without the need for physical interface tools.
 
 ### how-it-manifests
-In the OpenHome platform, voice first appears in applications that allow users to control devices, retrieve information, or interact with services using voice commands. This includes integrations with voice-activated assistants and the development of features that support hands-free operation.
+Voice-first concepts appear in various features of the OpenHome platform, such as virtual assistants that respond to voice commands, smart home integration for voice control of devices, and conversational interfaces that facilitate easier navigation and task execution.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In the OpenHome platform, voice first appears in applications that allow users t
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-17T13:58:32Z -->
+<!-- synthesized: 2026-10-18T14:10:57Z -->
 ```

@@ -1,26 +1,29 @@
 ```markdown
 ---
-title: Emperormidas
+title: emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-10-17
+last_updated: 2026-10-18
 ---
 
 ### who-they-are
-Emperormidas is an active member of the community known for their contributions as a builder. They play a role in leveraging devkit capabilities to enhance community engagement and technical integrations.
+Emperormidas is an active community builder who is involved in developing projects using the capabilities offered by the Homie platform. Their specific background and the details of what they're building are currently unclear, as no further information has been provided.
 
 ### what-they-built
-Information about specific abilities or integrations shipped by Emperormidas is currently unavailable.
+There are no documented abilities or integrations that emperormidas has shipped to date.
 
 ### grant-status
 none
 
 ### how-to-reach
-Information on how to reach Emperormidas is currently unavailable.
+- Discord handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[Abilities]]
-[[Integrations]]
-[[Community Builders]]
-<!-- synthesized: 2026-10-17T13:58:32Z -->
+[[abilities]]
+[[integrations]]
+[[community builders]]
+
+<!-- synthesized: 2026-10-18T14:10:57Z -->
 ```
