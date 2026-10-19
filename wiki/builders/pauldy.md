@@ -1,25 +1,29 @@
 ```markdown
 ---
-title: Pauldy
-entity_type: builders
+title: builders/pauldy
+entity_type: builder
 status: stub
-last_updated: 2026-10-18
+last_updated: 2026-10-19
 ---
 
 ### who-they-are
-Pauldy is recognized as an active community builder within the Homie ecosystem. Specific background information and the details of what they are currently building are not available.
+Pauldy is an active community builder involved in creating and enhancing decentralized applications. They are a holder of development kits and are focused on building user-friendly tools for the community.
 
 ### what-they-built
-As of now, there is no documented information on the abilities or integrations that Pauldy has shipped.
+Details about specific abilities or integrations that Pauldy has shipped are currently not available.
 
 ### grant-status
-Status of grant application or funding is currently unknown.
+none
 
 ### how-to-reach
-Contact information for Pauldy is not available, including Discord handle, GitHub, or any social media profiles such as X.
+- Discord Handle: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-### connects-to
-No specific abilities or integrations connected to Pauldy are available at this time.
+## connects-to
+[[builders]]
+[[community builders]]
+[[development kits]]
 
-<!-- synthesized: 2026-10-18T14:10:57Z -->
+<!-- synthesized: 2026-10-19T17:13:01Z -->
 ```

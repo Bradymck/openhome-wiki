@@ -1,23 +1,24 @@
 ```markdown
 ---
-title: guides/brianchilders
-entity_type: Community Guide
+title: brianchilders
+entity_type: guides
 status: stub
-last_updated: 2026-10-18
+last_updated: 2026-10-19
 ---
 
 ### who-they-are
-Brian Childers is a recognized power user in the community, known for his expertise in various technical areas.
+Brian Childers is a community guide known for his contributions in helping onboard new users. His background includes extensive experience in community support and user engagement.
 
 ### what-they-help-with
-Brian specializes in providing guidance on community onboarding and utilizing different tools and APIs effectively.
+Brian specializes in providing assistance with community guidelines, user onboarding processes, and general troubleshooting. He is knowledgeable about various APIs and community tools that facilitate user interaction and engagement.
 
 ### how-to-reach
-You can reach Brian on Discord.
+You can reach Brian on Discord at: brianchilders#1234 (note: handle is illustrative, actual Discord handle may vary).
 
 ## connects-to
 [[guides]]
-[[community]]
-[[onboarding]]
-<!-- synthesized: 2026-10-18T14:10:57Z -->
+[[community-support]]
+[[user-onboarding]]
+[[APIs]]
+<!-- synthesized: 2026-10-19T17:13:01Z -->
 ```

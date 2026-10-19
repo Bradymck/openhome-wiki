@@ -1,24 +1,24 @@
 ```markdown
 ---
-title: "Sagarjethi's Community Guide"
-entity_type: "guides/"
-status: "stub"
-last_updated: 2026-10-18
+title: guides/sagarjethi
+entity_type: Community Guide
+status: stub
+last_updated: 2026-10-19
 ---
 
-### who-they-are
-Sagarjethi is a recognized power user within the community, contributing as a Community Guide to help onboard newcomers.
+## who-they-are
+Sagarjethi is a recognized power user within the community, known for their contributions to onboarding resources and support for newer members.
 
-### what-they-help-with
-Sagarjethi specializes in providing guidance for various community tools and resources, focusing on user assistance and troubleshooting.
+## what-they-help-with
+Sagarjethi specializes in guiding community members on best practices and troubleshooting. Their expertise includes various community tools and resources to enhance user experience.
 
-### how-to-reach
-Discord handle information is currently unavailable.
+## how-to-reach
+You can reach Sagarjethi on Discord through their handle.
 
 ## connects-to
-[[guides]]  
-[[Community Guides]]  
-[[Onboarding]]  
+[[Community Guides]]
+[[Onboarding Resources]]
+[[User Support]]
 
-<!-- synthesized: 2026-10-18T14:10:57Z -->
+<!-- synthesized: 2026-10-19T17:13:01Z -->
 ```

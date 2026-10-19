@@ -1,26 +1,28 @@
-```yaml
-title: OpenHome Platform
+```markdown
+---
+title: OpenHome
 entity_type: platform
 status: live
-last_updated: 2026-10-18
-```
+last_updated: 2026-10-19
+---
 
-### what-it-is
-OpenHome is a platform designed for managing interconnected smart home devices, enabling seamless interaction and automation between various hardware components within a household ecosystem.
+## what-it-is
+OpenHome is a multi-platform framework designed to facilitate the integration of smart home devices and services, enabling seamless interoperability among various devices.
 
-### how-it-works
-OpenHome operates by establishing a network where compatible devices can communicate with each other, allowing users to control their smart home setup through a centralized interface. The platform supports multiple device types, such as speakers, lights, and sensors, facilitating an integrated environment that responds to user commands or automates tasks based on predefined conditions. Users interact with OpenHome primarily through a dashboard that provides visibility and control over the connected devices.
+## how-it-works
+OpenHome operates by providing a set of protocols and standards that devices can use to communicate and share information. This allows users to control their smart home devices through a unified interface, regardless of manufacturer. The architecture supports both local and cloud-based services, allowing for flexible device management and automation. It is designed to be user-friendly, providing easy setup and interaction across different platforms.
 
-### current-status
+## current-status
 live
 
 ## connects-to
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+[[platform/speakers]]  
+[[platform/abilities]]  
+[[platform/dashboard]]  
+[[platform/voice-ai]]  
+[[platform/local-link]]  
+[[platform/marketplace]]  
+[[platform/live-editor]]  
 
-<!-- synthesized: 2026-10-18T14:10:57Z -->
+<!-- synthesized: 2026-10-19T17:13:01Z -->
+```

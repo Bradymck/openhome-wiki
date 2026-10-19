@@ -3,14 +3,14 @@
 title: platform/local-link
 entity_type: page
 status: stub
-last_updated: 2026-10-18
+last_updated: 2026-10-19
 ---
 
 ### what-it-is
-`platform/local-link` is a feature of OpenHome that enables seamless communication and interaction between devices within a local network, enhancing the user experience by allowing easy access to shared resources.
+The `platform/local-link` refers to a functionality within the OpenHome ecosystem that facilitates local networking and device linking.
 
 ### how-it-works
-`platform/local-link` facilitates the connectivity of compatible devices in a local ecosystem, allowing users to link their speakers and other home devices. By utilizing local network protocols, it establishes a direct line for data exchange, which can include audio streaming, device control, and real-time status updates. This feature is designed to minimize latency and increase reliability as devices communicate directly rather than relying on cloud services.
+Specific operational details about how `platform/local-link` functions are currently unavailable. It is designed to enable seamless connections between devices on a local network, enhancing user interaction with the OpenHome platform.
 
 ### current-status
 stub
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-10-18T14:10:57Z --> 
+<!-- synthesized: 2026-10-19T17:13:01Z --> 
 ```
