@@ -1,23 +1,25 @@
-```yaml
-title: pmckelvy
-entity_type: builders/
+```markdown
+---
+title: builders/pmckelvy
+entity_type: builders
 status: stub
-last_updated: 2026-10-19
-```
+last_updated: 2026-10-20
+---
 
 ### who-they-are
-Not much is known about pmckelvy, including their background and the specific projects they are involved in building.
+Information about pmckelvy's background and what they are building is currently unavailable.
 
 ### what-they-built
-Details regarding abilities or integrations that pmckelvy has shipped are currently unavailable.
+Details regarding the abilities or integrations shipped by pmckelvy are not available at this time.
 
 ### grant-status
-none
+The grant status of pmckelvy is not specified.
 
 ### how-to-reach
-No contact information such as Discord handle, GitHub, or X is provided.
+Contact information for pmckelvy is currently not provided.
 
 ## connects-to
-[[wikilinks]]
+[[abilities]]
 
-<!-- synthesized: 2026-10-19T17:13:01Z -->
+<!-- synthesized: 2026-10-20T15:24:26Z -->
+```

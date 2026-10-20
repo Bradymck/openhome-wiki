@@ -2,20 +2,20 @@
 ---
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: live
-last_updated: 2026-10-19
+status: stub
+last_updated: 2026-10-20
 ---
 
-## definition
-Abilities-as-apps is a conceptual framework in OpenHome that treats various functionalities and capabilities as discrete applications or modules. This approach allows for greater flexibility and customization, enabling users to activate and integrate specific abilities as needed.
+### definition
+Abilities-as-Apps refers to a framework where functionalities or capabilities within a platform are treated like applications that can be independently developed, deployed, and integrated.
 
-## why-it-matters
-This concept is important to OpenHome because it enhances user control and personalization. By allowing users to select and configure abilities in a modular fashion, it streamlines interactions and improves the overall user experience. It supports the growth of a diverse ecosystem of applications within the OpenHome platform.
+### why-it-matters
+This concept is significant to OpenHome as it simplifies the addition and management of new functionalities. By framing abilities as standalone apps, developers can innovate and enhance user experiences more effectively without disrupting existing features.
 
-## how-it-manifests
-Abilities-as-apps appears in the OpenHome platform through its modular architecture, where each ability can be developed, deployed, and used independently. Users can add or remove functionalities based on their preferences, facilitating a tailored experience that adapts to individual needs and circumstances.
+### how-it-manifests
+The abilities-as-apps framework is likely to manifest in OpenHome through modular components, enabling users to customize their experience by selecting and integrating various capabilities. This modularity allows for a diverse range of applications, serving different user needs and preferences.
 
-## connects-to
+### connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ Abilities-as-apps appears in the OpenHome platform through its modular architect
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-19T17:13:01Z -->
+<!-- synthesized: 2026-10-20T15:24:26Z -->
 ```

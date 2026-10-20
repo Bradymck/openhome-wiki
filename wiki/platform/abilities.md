@@ -1,28 +1,26 @@
-```markdown
----
+```yaml
 title: platform/abilities
-entity_type: page
+entity_type: wiki_page
 status: stub
-last_updated: 2026-10-19
----
+last_updated: 2026-10-20
+```
 
 ## what-it-is
-The platform/abilities page outlines the various capabilities and functionalities offered by the OpenHome platform, enabling integration and performance enhancement across different devices and applications.
+The "platform/abilities" page describes the functional capabilities and features provided by the OpenHome ecosystem.
 
 ## how-it-works
-While specific details on how the abilities within the platform function are not currently available, it is expected that they facilitate communication, control, and customization options for connected devices within the OpenHome ecosystem.
+Details on how the abilities integrate and function within the OpenHome platform are currently not available.
 
 ## current-status
 stub
 
 ## connects-to
-[[platform/openhome]]  
-[[platform/speakers]]  
-[[platform/dashboard]]  
-[[platform/voice-ai]]  
-[[platform/local-link]]  
-[[platform/marketplace]]  
-[[platform/live-editor]]  
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/dashboard]]
+[[platform/voice-ai]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-10-19T17:13:01Z -->
-```
+<!-- synthesized: 2026-10-20T15:24:26Z -->

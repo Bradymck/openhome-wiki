@@ -1,25 +1,25 @@
-```markdown
----
-title: Local First
+```yaml
+title: Local-First
 entity_type: concepts
 status: stub
-last_updated: 2026-10-19
----
+last_updated: 2026-10-20
+```
 
-### definition
-Local First refers to a design philosophy where applications prioritize local data storage and processing on the user’s device, minimizing reliance on cloud connectivity and remote servers.
+## definition
+Local-First is an approach to software design that prioritizes local data storage and processing, ensuring that applications remain functional even without an internet connection. It emphasizes the importance of user autonomy and data ownership by keeping data on the user's device.
 
-### why-it-matters
-This concept is significant for OpenHome as it enhances user privacy, reduces latency, and ensures that applications remain functional even in the absence of an internet connection. By empowering users with control over their own data, Local First aligns with the principles of autonomy and security that are foundational to OpenHome.
+## why-it-matters
+Local-First is relevant to OpenHome as it supports user empowerment by giving individuals control over their data. This aligns with OpenHome's goal of fostering a decentralized ecosystem where users are not reliant on centralized servers. By allowing access to applications and data without constant internet connectivity, it enhances user experience and privacy.
 
-### how-it-manifests
-While specific instances of Local First implementation within the OpenHome platform are not detailed, this concept typically appears in applications that allow offline data access, local editing capabilities, and synchronization features that update the cloud when connectivity is restored.
+## how-it-manifests
+In the OpenHome platform, Local-First might be seen in applications that allow users to work offline with their data and sync changes when connectivity is restored. This approach also ensures that users can operate seamlessly across different devices while maintaining consistent access to their information.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
 [[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-19T17:13:01Z -->
-```
+<!-- synthesized: 2026-10-20T15:24:26Z -->

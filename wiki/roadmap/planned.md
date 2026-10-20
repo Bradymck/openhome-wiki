@@ -1,27 +1,24 @@
-```markdown
----
-title: Roadmap Plans
-entity_type: roadmap/planned
+```yaml
+title: Roadmap / Planned
+entity_type: roadmap
 status: stub
-last_updated: 2026-10-19
----
+last_updated: 2026-10-20
+```
 
 ### what-it-is
-The roadmap outlines upcoming features, milestones, and plans for future developments.
+This section is currently under development and does not contain specific features or milestones.
 
 ### status
 stub
 
 ### why-it-matters
-Understanding the roadmap is crucial for stakeholders and users to anticipate and prepare for new functionalities and improvements.
+Understanding the roadmap helps stakeholders anticipate upcoming features and improvements.
 
 ### eta
-Rough timeline for individual features is not available at this time.
+No specific timeline is available at this time.
 
 ## connects-to
-[[roadmap/in-progress]]
-[[roadmap/shipped]]
-[[plans]]
-[[features]]
-<!-- synthesized: 2026-10-19T17:13:01Z -->
-```
+[[roadmap/shipped]]  
+[[roadmap/in-progress]]  
+
+<!-- synthesized: 2026-10-20T15:24:26Z -->

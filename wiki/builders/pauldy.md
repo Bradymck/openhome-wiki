@@ -1,29 +1,29 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-10-19
+last_updated: 2026-10-20
 ---
 
 ### who-they-are
-Pauldy is an active community builder involved in creating and enhancing decentralized applications. They are a holder of development kits and are focused on building user-friendly tools for the community.
+Pauldy is an active community builder involved in the development and integration of various abilities within the ecosystem. 
 
 ### what-they-built
-Details about specific abilities or integrations that Pauldy has shipped are currently not available.
+Details on specific abilities or integrations that Pauldy has shipped are currently not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord Handle: Not specified
+- Discord handle: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[builders]]
-[[community builders]]
-[[development kits]]
+[[builders]]  
+[[abilities]]  
+[[community_builders]]
 
-<!-- synthesized: 2026-10-19T17:13:01Z -->
+<!-- synthesized: 2026-10-20T15:24:26Z -->
 ```

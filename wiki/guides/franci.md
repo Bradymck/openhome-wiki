@@ -1,22 +1,24 @@
-```yaml
+```markdown
+---
 title: Franci
-entity_type: guides
+entity_type: guides/
 status: stub
-last_updated: 2026-10-19
-```
+last_updated: 2026-10-20
+---
 
-## who-they-are
-Franci is a community guide recognized for their contributions in helping onboard new users into the community. 
+### who-they-are
+Franci is a power user within the community, recognized for their contributions and expertise in helping onboard new users.
 
-## what-they-help-with
-Franci specializes in sharing knowledge regarding community practices and tools, although specific abilities or areas of hardware and APIs they assist with are not detailed.
+### what-they-help-with
+Franci specializes in guiding users through various software tools and best practices, particularly in navigating community resources and documentation.
 
-## how-to-reach
-Franci can be reached on Discord, but their specific Discord handle is currently unknown.
+### how-to-reach
+Franci can be reached on Discord. Their handle is currently not provided.
 
 ## connects-to
-[[community_guides]]
+[[community guides]]
 [[onboarding]]
-[[user_support]]
+[[user support]]
 
-<!-- synthesized: 2026-10-19T17:13:01Z -->
+<!-- synthesized: 2026-10-20T15:24:26Z -->
+```

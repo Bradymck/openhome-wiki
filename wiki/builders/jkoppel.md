@@ -1,25 +1,27 @@
 ```markdown
 ---
-title: jkoppel
-entity_type: builders
-status: stub
-last_updated: 2026-10-19
+title: "builders/jkoppel"
+entity_type: "builders"
+status: "stub"
+last_updated: 2026-10-20
 ---
 
 ### who-they-are
-jkoppel is an active community builder involved in developing integrations and capabilities within the ecosystem.
+jkoppel is an active community builder within the Homie ecosystem, focused on developing tools and integrations that enhance user experience and functionality.
 
 ### what-they-built
-Details regarding specific abilities or integrations shipped by jkoppel are currently unknown.
+Details about specific abilities or integrations shipped by jkoppel are currently not available.
 
 ### grant-status
-unknown
+none
 
 ### how-to-reach
-Information on how to reach jkoppel is currently unavailable.
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders/jkoppel]] <!-- This is a stub, no additional connects available. -->
+[[abilities]] <!-- Link to any related abilities or integrations once available -->
 
-<!-- synthesized: 2026-10-19T17:13:01Z -->
+<!-- synthesized: 2026-10-20T15:24:26Z -->
 ```

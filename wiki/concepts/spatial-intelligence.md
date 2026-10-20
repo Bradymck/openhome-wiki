@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-10-19
+last_updated: 2026-10-20
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in a given space. It encompasses skills such as navigation, understanding spatial relationships, and visualizing transformations. In the context of technology and platforms like OpenHome, spatial intelligence can enable users to interact with digital environments in intuitive ways.
+Spatial intelligence refers to the ability to recognize and manipulate patterns in space, both in the physical world and in abstract environments. This includes skills related to navigation, spatial reasoning, and the capacity to visualize objects and their transformations.
 
 ## why-it-matters
-Spatial intelligence is crucial for improving user experience within OpenHome. By leveraging spatial awareness, users can navigate their home environments more effectively and intuitively interact with various digital interfaces. This concept supports the overall goal of creating a more immersive and interconnected home experience.
+Spatial intelligence is crucial for creating user experiences that leverage the physical environment, enabling intuitive interactions and enhancing functionality. In the context of OpenHome, it allows for a seamless integration between physical spaces and digital interfaces, promoting users' understanding and control over their home environment.
 
 ## how-it-manifests
-In OpenHome, spatial intelligence may manifest through features that allow users to visualize spatial data, facilitate navigation within digital environments, or enhance interaction with connected devices based on their physical location within a space. These applications aim to simplify complex tasks and make technology more accessible to users.
+While there is a lack of specific examples detailing the manifestation of spatial intelligence within the OpenHome platform, it is likely to influence features that involve home automation and user interactions within physical spaces. This could include navigation tools, augmented reality applications, and visual data representations that support spatial reasoning.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In OpenHome, spatial intelligence may manifest through features that allow users
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-19T17:13:01Z -->
+<!-- synthesized: 2026-10-20T15:24:26Z -->
 ```
