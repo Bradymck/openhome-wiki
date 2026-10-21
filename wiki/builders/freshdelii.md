@@ -3,14 +3,14 @@
 title: builders/freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-10-20
+last_updated: 2026-10-21
 ---
 
 ### who-they-are
-FreshDelii is an emerging builder in the active community, focusing on innovative shipping abilities and integrations.
+Freshdelii is a community of active builders engaging in software development with a focus on shipping innovative functionalities and integrations within their ecosystem.
 
 ### what-they-built
-Details on specific shipped abilities or integrations are currently not available.
+Details about specific abilities or integrations built by Freshdelii are currently unavailable.
 
 ### grant-status
 none
@@ -22,5 +22,7 @@ none
 
 ## connects-to
 [[abilities]]
-<!-- synthesized: 2026-10-20T15:24:26Z -->
+[[integrations]]
+[[community]]
+<!-- synthesized: 2026-10-21T15:41:38Z -->
 ```

@@ -3,25 +3,25 @@
 title: web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-10-20
+last_updated: 2026-10-21
 ---
 
-### definition
-Web3-native refers to applications, platforms, and technologies built on decentralized networks which leverage blockchain and other distributed systems, aiming to give users more control over their data and online interactions.
+## definition
+Web3-native refers to applications, platforms, and systems that are built upon and fundamentally integrated with decentralized web technologies, emphasizing user ownership, privacy, and interoperability.
 
-### why-it-matters
-As OpenHome integrates with decentralized technologies, adopting a web3-native approach is essential for ensuring user sovereignty, privacy, and security. It aligns with the broader goal of creating an internet where users directly own and manage their digital identities and assets.
+## why-it-matters
+In the context of OpenHome, the web3-native concept signifies a shift towards more transparent and user-centric digital experiences. This approach aligns with the goal of empowering individuals through decentralized technologies, enhancing user trust and control over their data.
 
-### how-it-manifests
-While specific implementations within OpenHome are not detailed, the concept of being web3-native suggests potential features such as decentralized user authentication, data ownership through blockchain, and community governance models leveraging smart contracts. These functionalities would enhance user trust and engagement within the platform.
+## how-it-manifests
+While specific manifestations of web3-native concepts within OpenHome are not detailed, such tools typically involve decentralized applications (dApps) that allow users to manage their own resources, engage in peer-to-peer transactions, and contribute to community governance.
 
-### connects-to
-- [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-20T15:24:26Z -->
+<!-- synthesized: 2026-10-21T15:41:38Z -->
 ```

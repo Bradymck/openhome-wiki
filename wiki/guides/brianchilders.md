@@ -3,21 +3,23 @@
 title: guides/brianchilders
 entity_type: Community Guide
 status: stub
-last_updated: 2026-10-20
+last_updated: 2026-10-21
 ---
 
 ### who-they-are
-Brianchilders is a community guide known for their engagement and support within the community. Specific background and expertise details are currently not available.
+brianchilders has a background in community support and user onboarding, specializing in helping new users navigate complex systems and tools.
 
 ### what-they-help-with
-Brianchilders specializes in assisting new users with onboarding processes and providing guidance on community best practices. Their exact abilities, hardware, and APIs they work with are not detailed at this time.
+They assist with a variety of specialties, focusing on user queries related to APIs and hardware configurations.
 
 ### how-to-reach
-Brianchilders can be reached on Discord.
+Discord handle: brianchilders
 
 ## connects-to
-[[guides]]
-[[community guides]]
-[[onboarding]]
-<!-- synthesized: 2026-10-20T15:24:26Z -->
+[[Community Guides]]
+[[User Onboarding]]
+[[API Support]]
+[[Hardware Configuration]]
+
+<!-- synthesized: 2026-10-21T15:41:38Z -->
 ```

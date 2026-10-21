@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: "Guides/Sira"
-entity_type: "guides/"
-status: "stub"
-last_updated: 2026-10-20
+title: guides/sira
+entity_type: Community Guide
+status: stub
+last_updated: 2026-10-21
 ---
 
 ### who-they-are
-No specific background or expertise details are currently available for Sira.
+No information available regarding the background or expertise of Sira.
 
 ### what-they-help-with
-Sira's specialty areas are not defined based on the available information.
+No specific details are available about Sira's specialty or areas of assistance.
 
 ### how-to-reach
-Contact Sira on Discord using their handle, which is currently unspecified.
+No contact information is available for reaching Sira.
 
 ## connects-to
 [[guides]]
-[[Discord]]
-[[community]]
-<!-- synthesized: 2026-10-20T15:24:26Z -->
+[[community-guides]]
+
+<!-- synthesized: 2026-10-21T15:41:38Z -->
 ```
