@@ -3,25 +3,24 @@
 title: Roadmap/Planned
 entity_type: roadmap
 status: stub
-last_updated: 2026-10-21
+last_updated: 2026-10-22
 ---
 
 ### what-it-is
-This section will provide details on features or milestones that are planned for future development.
+This page documents the features or milestones that are planned for future development.
 
 ### status
-Planned
+stub
 
 ### why-it-matters
-Understanding the planned features and milestones helps stakeholders align expectations and track the progress of developments.
+Understanding the planned features and milestones is crucial for users and stakeholders to anticipate future improvements and to align their expectations with the development team’s objectives.
 
 ### eta
-A rough timeline for the planned developments is currently unknown.
+No specific timelines or estimates currently available.
 
 ## connects-to
-[[roadmap]]
-[[features]]
-[[milestones]]
+[[roadmap/in-progress]]
+[[roadmap/shipped]]
 
-<!-- synthesized: 2026-10-21T15:41:38Z -->
+<!-- synthesized: 2026-10-22T15:42:21Z -->
 ```

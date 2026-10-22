@@ -1,30 +1,30 @@
 ```markdown
 ---
-title: Abilities: News Brief
-entity_type: abilities
+title: abilities/news-brief
+entity_type: ability
 status: stub
-last_updated: 2026-10-21
+last_updated: 2026-10-22
 ---
 
 ### what-it-does
-The News Brief ability fetches and provides summaries of news articles and updates, allowing users to stay informed with concise information.
+The "News Brief" ability aggregates current news headlines and provides concise summaries, allowing users to stay informed with minimal effort.
 
 ### how-to-build
-Details about the specific API surface and builder notes for creating this ability are currently unavailable.
+This ability can be developed using APIs from various news outlets. Developers should utilize a consistent format for fetching and displaying news items. Integration with channels such as Discord may enhance user interaction.
 
 ### category
 utility
 
 ### built-by
-[[builders/unknown]]
+[[User:BuilderName]]
 
 ### status
 stub
 
 ## connects-to
-[[abilities/trivia]]
 [[abilities/aquaprime]]
 [[abilities/deadman-fm]]
+[[abilities/trivia]]
 
-<!-- synthesized: 2026-10-21T15:41:38Z -->
+<!-- synthesized: 2026-10-22T15:42:21Z --> 
 ```

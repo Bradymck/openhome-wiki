@@ -1,24 +1,28 @@
 ```markdown
 ---
-title: Shookdt
-entity_type: builders
+title: builders/shookdt
+entity_type: builder
 status: stub
-last_updated: 2026-10-21
+last_updated: 2026-10-22
 ---
 
 ### who-they-are
-Shookdt is part of a community of active builders within the developer ecosystem. While specific details about their background and what they are currently constructing are not available, they are recognized as a holder of devkit, enabling them to contribute to community projects.
+Shookdt is a builder within the active community of developers and users working on shipping various abilities and integrations. They are involved in the development and enhancement of tools and features that support overall project goals.
 
 ### what-they-built
-Information on the specific abilities or integrations that Shookdt has shipped is currently not available.
+As of the current information, there are no specific details on the abilities or integrations that Shookdt has built or shipped. 
 
 ### grant-status
-Grant status for Shookdt is unknown.
+unknown
 
 ### how-to-reach
-Details for reaching Shookdt, including Discord handle, GitHub, or social media platforms, are not provided.
+- Discord: Unknown
+- GitHub: Unknown
+- X: Unknown
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-10-21T15:41:38Z -->
+[[builders]]
+[[community builders]]
+
+<!-- synthesized: 2026-10-22T15:42:21Z -->
 ```
