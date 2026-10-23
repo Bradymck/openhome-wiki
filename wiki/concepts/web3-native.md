@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: web3-native
-entity_type: concepts
+title: Web3 Native
+entity_type: concepts/
 status: stub
-last_updated: 2026-10-22
+last_updated: 2026-10-23
 ---
 
 ### definition
-Web3-native refers to applications, services, and ecosystems built on decentralized protocols and blockchain technology, emphasizing user empowerment and ownership of data.
+Web3 Native refers to applications and platforms that are built using blockchain technology and decentralized protocols, harnessing the principles of Web3 to empower users with control over their data and interactions in the digital space.
 
 ### why-it-matters
-Web3-native concepts are crucial to OpenHome because they promote a more equitable digital environment where users have agency over their information and interactions. This paradigm shift helps to reduce dependence on centralized entities, aligning with the principles of transparency and decentralization that OpenHome values.
+This concept is crucial for OpenHome as it aligns with the vision of creating a decentralized ecosystem where users have ownership and agency over their digital experiences, enabling innovative interactions and services without reliance on centralized entities.
 
 ### how-it-manifests
-In the OpenHome platform, the web3-native ethos might manifest through features that enable users to maintain control over their personal data, engage in peer-to-peer interactions, and transact securely through decentralized applications (dApps). This approach enhances user trust and fosters a community-driven ecosystem aligned with Web3 principles.
+Though specific implementations within OpenHome are not detailed, Web3 Native principles are expected to manifest in features like decentralized identity management, smart contracts for transaction automation, and dApps (decentralized applications) that foster peer-to-peer interactions among users.
 
 ### connects-to
 [[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
 [[concepts/local-first]]  
 [[concepts/dead-mans-switch]]  
 [[concepts/spatial-intelligence]]  
 [[concepts/grant-program]]  
 
-<!-- synthesized: 2026-10-22T15:42:21Z -->
+<!-- synthesized: 2026-10-23T15:29:38Z -->
 ```

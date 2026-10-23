@@ -3,25 +3,26 @@
 title: pmckelvy
 entity_type: builders/
 status: stub
-last_updated: 2026-10-22
+last_updated: 2026-10-23
 ---
 
 ### who-they-are
-The entity "pmckelvy" is recognized as a community builder within the active builders' network, potentially involved in various projects or initiatives.
+pmckelvy is a community builder active in the Homie and User roles. They hold devkit and are involved in developing and shipping new capabilities within the community.
 
 ### what-they-built
-Information about specific ships or integrations developed by pmckelvy is currently not available.
+Specific details about the abilities or integrations that pmckelvy has shipped are currently unknown.
 
 ### grant-status
-The grant status for pmckelvy is not specified or known.
+none
 
 ### how-to-reach
-Contact details for pmckelvy are not available at this time.
+- Discord: pmckelvy
+- GitHub: Unknown
+- X: Unknown
 
 ## connects-to
-[[builders/]]
-[[community builders]]
-[[devkit holders]]
-
-<!-- synthesized: 2026-10-22T15:42:21Z -->
+[[abilities]]
+[[community]]
+[[devkit]]
+<!-- synthesized: 2026-10-23T15:29:38Z -->
 ```

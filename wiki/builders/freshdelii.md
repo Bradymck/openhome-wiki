@@ -1,23 +1,28 @@
-```yaml
-title: FreshDelii
+```markdown
+---
+title: builders/freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-10-22
+last_updated: 2026-10-23
+---
+
+### who-they-are
+Freshdelii is an active community builder involved in developing solutions within the platform. Further details about their background and specific focus are not available.
+
+### what-they-built
+As of now, there isn't specific information regarding the abilities or integrations that Freshdelii has shipped.
+
+### grant-status
+The grant status for Freshdelii is currently unknown.
+
+### how-to-reach
+- Discord: Not available
+- GitHub: Not available
+- X: Not available
+
+### connects-to
+[[wikilink1]]  
+[[wikilink2]]  
+
+<!-- synthesized: 2026-10-23T15:29:38Z -->
 ```
-
-## who-they-are
-FreshDelii is a community builder involved in developing capabilities for the Homie ecosystem. The background and specifics of what they are constructing are currently limited.
-
-## what-they-built
-Information regarding specific abilities or integrations shipped by FreshDelii is not available at this time.
-
-## grant-status
-Grant application status has not been specified.
-
-## how-to-reach
-Contact information for FreshDelii has not been provided.
-
-## connects-to
-[[builders]]
-
-<!-- synthesized: 2026-10-22T15:42:21Z -->

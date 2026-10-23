@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: Roadmap Shipped
-entity_type: roadmap
+title: Roadmap
+entity_type: roadmap/shipped
 status: live
-last_updated: 2026-10-22
+last_updated: 2026-10-23
 ---
 
 ### what-it-is
-The roadmap outlines features and milestones that have been completed and shipped as part of ongoing development.
+The roadmap outlines the features and milestones related to upcoming developments, ongoing projects, and completed tasks. 
 
 ### status
-shipped
+Shipped
 
 ### why-it-matters
-Having a clear roadmap highlights the progress made, fosters transparency, and allows users and stakeholders to understand the direction of the project and the features that have been successfully implemented.
+The roadmap is essential for providing users with insight into the progress of various projects, helping to manage expectations and ensuring transparency regarding feature availability and updates.
 
 ### eta
-N/A
+Specific timelines for future developments are currently unspecified.
 
 ## connects-to
-[[roadmap]]
 [[features]]
 [[milestones]]
+[[progress]]
+[[updates]]
 
-<!-- synthesized: 2026-10-22T15:42:21Z -->
+<!-- synthesized: 2026-10-23T15:29:38Z -->
 ```

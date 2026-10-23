@@ -1,27 +1,26 @@
-```markdown
----
+```yaml
 title: platform/marketplace
-entity_type: platform/marketplace
+entity_type: platform
 status: stub
-last_updated: 2026-10-22
----
+last_updated: 2026-10-23
+```
 
 ### what-it-is
-The platform marketplace is a digital store designed for users to access, buy, and sell various digital goods and services related to the OpenHome ecosystem.
+The platform marketplace is a digital environment where users can explore, buy, and sell various digital products and services related to the OpenHome ecosystem.
 
 ### how-it-works
-The platform marketplace connects users with developers and content creators, allowing them to list products, services, or features that enhance the overall functionality of OpenHome. It facilitates transactions and may include features like user ratings, reviews, and secure payment processing, thereby creating a vibrant community marketplace for applications and enhancements tailored to OpenHome users.
+The marketplace operates as a centralized hub, enabling users to browse a catalog of offerings, including applications, integrations, and digital content tailored for OpenHome devices. Users can access the marketplace through the OpenHome dashboard or a designated app interface. Purchases typically involve a straightforward transaction process, allowing sellers to list their products and manage sales while providing seamless access for buyers.
 
 ### current-status
 stub
 
 ## connects-to
 [[platform/openhome]]
-[[platform/abilities]]
 [[platform/dashboard]]
+[[platform/abilities]]
 [[platform/voice-ai]]
 [[platform/local-link]]
 [[platform/live-editor]]
+[[platform/speakers]]
 
-<!-- synthesized: 2026-10-22T15:42:21Z -->
-```
+<!-- synthesized: 2026-10-23T15:29:38Z -->

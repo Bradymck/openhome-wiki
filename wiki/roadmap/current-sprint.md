@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Roadmap Current Sprint
-entity_type: roadmap/current-sprint
+title: Roadmap - Current Sprint
+entity_type: roadmap
 status: stub
-last_updated: 2026-10-22
+last_updated: 2026-10-23
 ---
 
 ### what-it-is
-This page documents the current sprint in the roadmap, detailing features and milestones that are either in progress or planned for completion.
+This section is intended to detail the features or milestones currently in the sprint, however, no specific information is available at this time.
 
 ### status
-Stub
+Stub - Information regarding the current sprint is not yet documented.
 
 ### why-it-matters
-Understanding the current sprint aids in tracking development progress and aligns stakeholders with the upcoming features and improvements.
+Understanding what is currently in progress is crucial for stakeholders and team members to align expectations and track development efforts.
 
 ### eta
-No estimated timeline available.
+No estimated timeline is available as details regarding the current sprint remain undisclosed.
 
-## connects-to
+### connects-to
 [[roadmap]]
 [[sprint planning]]
 [[feature development]]
 
-<!-- synthesized: 2026-10-22T15:42:21Z -->
+<!-- synthesized: 2026-10-23T15:29:38Z -->
 ```

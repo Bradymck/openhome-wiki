@@ -1,27 +1,25 @@
-```markdown
----
-title: Voice-First
+```yaml
+title: concepts/voice-first
 entity_type: concepts
 status: stub
-last_updated: 2026-10-22
----
-
-### definition
-Voice-first refers to a design philosophy and user interface paradigm where voice commands and interactions are prioritized over traditional input methods, such as typing or tapping on screens. This approach centers around the use of voice as the primary means of communication with digital devices.
-
-### why-it-matters
-Voice-first is particularly relevant to OpenHome as it aligns with the growing trend of integrating voice technology into daily life. Emphasizing voice interactions enables a more intuitive and accessible user experience, catering to users who may prefer or require hands-free operation. This not only enhances user engagement but also opens new avenues for innovation within the platform.
-
-### how-it-manifests
-On the OpenHome platform, the voice-first concept manifests in various ways, including voice-activated commands for controlling devices, managing tasks, and accessing information. Features may include voice recognition for executing user requests, as well as integration with smart home technologies that respond to spoken instructions.
-
-### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
-
-<!-- synthesized: 2026-10-22T15:42:21Z -->
+last_updated: 2026-10-23
 ```
+
+## definition
+Voice-first is a design paradigm that prioritizes voice interaction as the primary means of communication with technology, emphasizing natural language processing and speech recognition.
+
+## why-it-matters
+In the context of OpenHome, voice-first is crucial as it enhances user engagement and accessibility, allowing for hands-free interaction and catering to users who may prefer speaking over typing or navigating through traditional interfaces.
+
+## how-it-manifests
+On the OpenHome platform, voice-first functionalities are integrated into various applications, enabling tasks such as controlling smart home devices, accessing information, and navigating interfaces solely through voice commands. This can include features like voice-activated assistants and voice-driven navigation in the user experience.
+
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/spatial-intelligence]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/grant-program]]
+
+<!-- synthesized: 2026-10-23T15:29:38Z -->
