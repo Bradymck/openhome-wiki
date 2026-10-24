@@ -1,26 +1,25 @@
-```markdown
----
-title: Web3 Native
-entity_type: concepts/
-status: stub
-last_updated: 2026-10-23
----
-
-### definition
-Web3 Native refers to applications and platforms that are built using blockchain technology and decentralized protocols, harnessing the principles of Web3 to empower users with control over their data and interactions in the digital space.
-
-### why-it-matters
-This concept is crucial for OpenHome as it aligns with the vision of creating a decentralized ecosystem where users have ownership and agency over their digital experiences, enabling innovative interactions and services without reliance on centralized entities.
-
-### how-it-manifests
-Though specific implementations within OpenHome are not detailed, Web3 Native principles are expected to manifest in features like decentralized identity management, smart contracts for transaction automation, and dApps (decentralized applications) that foster peer-to-peer interactions among users.
-
-### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/local-first]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
-
-<!-- synthesized: 2026-10-23T15:29:38Z -->
+```yaml
+title: "Web3 Native"
+entity_type: "concepts/"
+status: "stub"
+last_updated: "2026-10-24"
 ```
+
+## definition
+Web3 native describes applications and platforms that are built from the ground up to leverage decentralized technologies, particularly blockchain systems. These applications prioritize user control, data ownership, and interoperability within a decentralized environment.
+
+## why-it-matters
+Web3 native concepts are essential to OpenHome as they promote a transparent, user-centric model of interaction. This approach aligns with the principles of decentralization that are foundational to the platform, allowing users to have more control over their data and digital assets.
+
+## how-it-manifests
+The principles of Web3 native can manifest in OpenHome through initiatives such as decentralized identity management, smart contracts for transactions between users, and community governance models where user input directly influences platform decisions and developments.
+
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+
+<!-- synthesized: 2026-10-24T14:08:39Z -->

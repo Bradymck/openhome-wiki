@@ -1,24 +1,25 @@
 ```markdown
 ---
 title: guides/discomelon
-entity_type: guides
+entity_type: Community Guide
 status: stub
-last_updated: 2026-10-23
+last_updated: 2026-10-24
 ---
 
 ### who-they-are
-Information about Discomelon and their background or expertise is currently unavailable.
+Discomelon is a member of the community known for their expertise in specific domains that aid in onboarding new users. Further details regarding their professional background and expertise are currently unavailable.
 
 ### what-they-help-with
-Details on what Discomelon specializes in, including specific abilities, hardware, or APIs, are not provided.
+Discomelon specializes in providing guidance and assistance to users in navigating community resources, tools, and potential APIs. However, more detailed information on their specific abilities and hardware knowledge has not been provided.
 
 ### how-to-reach
-Discomelon's Discord handle is not available.
+Discord handle for Discomelon is not available at this time.
 
 ## connects-to
 [[guides]]
 [[Discord]]
-[[community guides]]
+[[community]]
+[[help]]
 
-<!-- synthesized: 2026-10-23T15:29:38Z -->
+<!-- synthesized: 2026-10-24T14:08:39Z -->
 ```
