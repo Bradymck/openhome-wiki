@@ -1,29 +1,28 @@
 ```markdown
 ---
-title: Emperormidas
-entity_type: builders
+title: Builders/EmperorMidas
+entity_type: builder
 status: stub
-last_updated: 2026-10-24
+last_updated: 2026-10-25
 ---
 
 ### who-they-are
-Emperormidas is an active community builder within the devkit holder ecosystem. They are focused on developing innovative solutions and enhancing user interactions within the platform.
+EmperorMidas is an active member of the community focused on building and enhancing integrations within the developer ecosystem. Their passion lies in providing tools and abilities to facilitate development processes.
 
 ### what-they-built
-No specific abilities or integrations have been documented as shipped by Emperormidas at this time.
+Details about specific abilities or integrations that EmperorMidas has shipped are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Unknown  
-GitHub: Unknown  
-X: Unknown
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[abilities]]  
-[[community builders]]  
-[[devkit]]  
+- [[abilities]]
+- [[integrations]]
 
-<!-- synthesized: 2026-10-24T14:08:39Z -->
+<!-- synthesized: 2026-10-25T14:37:31Z -->
 ```

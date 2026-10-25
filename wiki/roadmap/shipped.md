@@ -3,24 +3,25 @@
 title: Roadmap / Shipped
 entity_type: roadmap
 status: stub
-last_updated: 2026-10-24
+last_updated: 2026-10-25
 ---
 
 ### what-it-is
-The Roadmap / Shipped page is intended to document the features and milestones that have been completed and integrated into the system.
+The roadmap for features and milestones related to development and product improvement.
 
 ### status
 stub
 
 ### why-it-matters
-This page serves as a historical record for users to understand what features have been successfully implemented. It is important for tracking progress and future planning.
+This roadmap serves as a guide for users and stakeholders to understand what features and enhancements are being worked on, what has been completed, and what is planned for future releases. It helps in setting expectations and alignments with user needs.
 
 ### eta
-No specific timeline has been reported.
+Rough timelines for individual features or milestones are currently not available.
 
 ## connects-to
-[[roadmap/planned]]
 [[roadmap/in-progress]]
+[[roadmap/planned]]
 [[roadmap/cancelled]]
-<!-- synthesized: 2026-10-24T14:08:39Z -->
+
+<!-- synthesized: 2026-10-25T14:37:31Z -->
 ```

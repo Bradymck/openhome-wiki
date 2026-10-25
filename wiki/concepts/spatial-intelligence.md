@@ -1,21 +1,20 @@
-```markdown
----
-title: "Spatial Intelligence"
-entity_type: "concepts"
-status: "stub"
-last_updated: "2026-10-24"
----
+```yaml
+title: Spatial Intelligence
+entity_type: concepts
+status: stub
+last_updated: 2026-10-25
+```
 
-### definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships in the environment. It involves understanding how objects relate to each other in space, which is crucial for tasks that require navigation, design, and interaction with physical spaces.
+## definition
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships in one's environment. It encompasses skills such as understanding maps, diagrams, and three-dimensional structures. 
 
-### why-it-matters
-In the context of OpenHome, spatial intelligence enhances user interactions with their environment. It enables users to organize their home space efficiently, understand spatial layouts, and optimize their interactions with various devices and applications. By leveraging spatial intelligence, OpenHome aims to create a more intuitive and seamless user experience.
+## why-it-matters
+In the context of OpenHome, spatial intelligence is crucial for creating intuitive interfaces that allow users to interact with their environments more effectively. By leveraging spatial intelligence, OpenHome can enhance user experience through better spatial awareness and interaction design.
 
-### how-it-manifests
-This concept manifests in OpenHome through features like spatial mapping, where users can map their physical spaces and interact with them through intuitive interfaces. Additionally, applications that utilize augmented reality (AR) or virtual reality (VR) technologies can enhance users' spatial awareness, allowing them to visualize changes or interact with their environment in innovative ways.
+## how-it-manifests
+Spatial intelligence may manifest in OpenHome through features that utilize augmented reality (AR), spatial navigation, and location-based services. These elements can enable users to visualize information in their physical space, improving navigation and interaction within the platform.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +22,4 @@ This concept manifests in OpenHome through features like spatial mapping, where 
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-24T14:08:39Z -->
-```
+<!-- synthesized: 2026-10-25T14:37:31Z -->

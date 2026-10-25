@@ -1,29 +1,26 @@
 ```markdown
 ---
 title: builders/pauldy
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-10-24
+last_updated: 2026-10-25
 ---
 
 ### who-they-are
-Pauldy is a community builder engaged in developing tools and integrations within the blockchain ecosystem. Their focus is on enhancing user experiences through innovative solutions.
+Pauldy is an active community builder involved in developing various tools and integrations within the ecosystem. Additional background information is currently unavailable.
 
 ### what-they-built
-As of now, specific shipped abilities or integrations by Pauldy have not been documented.
+Details on specific abilities or integrations that Pauldy has shipped are not currently available.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not available
-- GitHub: Not available
-- X: Not available
+Contact Pauldy via Discord or GitHub. Specific handles are not provided.
 
-### connects-to
-[[builders]]  
-[[community]]  
-[[blockchain_integrations]]  
-
-<!-- synthesized: 2026-10-24T14:08:39Z -->
+## connects-to
+[[builders]]
+[[community builders]]
+[[devkit]]
+<!-- synthesized: 2026-10-25T14:37:31Z -->
 ```

@@ -1,28 +1,27 @@
 ```markdown
 ---
 title: builders/xtremegamer007
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-10-24
+last_updated: 2026-10-25
 ---
 
 ### who-they-are
-XtremeGamer007 is an active member of the developer community, focusing on building applications and integrations for the platform.
+XtremeGamer007 is a community builder who holds a development kit and is actively involved in shipping innovative abilities.
 
 ### what-they-built
-Details about specific abilities or integrations shipped by XtremeGamer007 are currently unavailable.
+Currently, there is no detailed information available regarding specific abilities or integrations that XtremeGamer007 has shipped.
 
 ### grant-status
-Grant status for XtremeGamer007 is not specified.
+none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
 [[abilities]]
-[[developers]]
-[[community]]
-<!-- synthesized: 2026-10-24T14:08:39Z -->
+
+<!-- synthesized: 2026-10-25T14:37:31Z -->
 ```
