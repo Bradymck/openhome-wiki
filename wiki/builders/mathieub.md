@@ -3,17 +3,17 @@
 title: builders/mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-10-25
+last_updated: 2026-10-26
 ---
 
 ### who-they-are
-Mathieu B. is a community builder actively involved in the development of new abilities in the Homie ecosystem. 
+Mathieu B. is an active member of the community, contributing to various initiatives and developments in the builders' ecosystem. Details about their background and specific projects they are involved in are currently limited.
 
 ### what-they-built
-Currently, there are no specific abilities or integrations recorded as shipped by Mathieu B. 
+Information regarding specific abilities or integrations that Mathieu B. has shipped is not yet available.
 
 ### grant-status
-none
+Applied
 
 ### how-to-reach
 - Discord: Unknown
@@ -21,8 +21,7 @@ none
 - X: Unknown
 
 ## connects-to
-[[abilities]]
-[[integration]]
-[[community builders]]
-<!-- synthesized: 2026-10-25T14:37:31Z -->
+[[builders]]
+
+<!-- synthesized: 2026-10-26T17:02:05Z -->
 ```
