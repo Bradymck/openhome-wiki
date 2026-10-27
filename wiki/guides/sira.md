@@ -1,23 +1,24 @@
 ```markdown
 ---
 title: guides/sira
-entity_type: guides/
+entity_type: Community Guide
 status: stub
-last_updated: 2026-10-26
+last_updated: 2026-10-27
 ---
 
 ### who-they-are
-Information about the individual or team represented by "sira" is currently limited. More details regarding their background and expertise need to be provided.
+Information regarding the background and expertise of Sira is currently unavailable.
 
 ### what-they-help-with
-The specific specialties, abilities, hardware, or APIs that "sira" may assist with are not yet defined and require elaboration.
+Details on Sira's specialties, including abilities, hardware, and APIs, have not been provided.
 
 ### how-to-reach
-Details on how to reach "sira" via Discord or other platforms are not available.
+Sira's Discord handle has not been disclosed.
 
 ## connects-to
-[[guides/]]
-[[Discord]]
-[[Community Guide role]]
-<!-- synthesized: 2026-10-26T17:02:05Z -->
+[[guides]]
+[[community]]
+[[discord]]
+
+<!-- synthesized: 2026-10-27T16:04:39Z -->
 ```

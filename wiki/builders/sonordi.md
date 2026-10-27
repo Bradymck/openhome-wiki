@@ -1,28 +1,29 @@
 ```markdown
 ---
-title: builders/sonordi
-entity_type: builder
-status: stub
-last_updated: 2026-10-26
+title: "builders/sonordi"
+entity_type: "builders"
+status: "stub"
+last_updated: 2026-10-27
 ---
 
 ### who-they-are
-Sonordi is an active member of the community, with a focus on developing integrations and tools that enhance user experiences within the ecosystem. Their work aligns with the initiatives of devkit holders, driving engagement and innovation.
+Sonordi is a community builder focused on enhancing user engagement through innovative integrations and tools. They are part of the Homie community and actively work on projects that leverage the capabilities of devkit holders.
 
 ### what-they-built
-Currently, there is no specific information on the abilities or integrations that Sonordi has shipped.
+Details regarding specific abilities or integrations that Sonordi has shipped are currently unavailable.
 
 ### grant-status
-none
+unknown
 
 ### how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified
+- Discord: Unknown
+- GitHub: Unknown
+- X: Unknown
 
 ## connects-to
-[[builders]]
-[[integrations]]
-[[community]]
-<!-- synthesized: 2026-10-26T17:02:05Z -->
+[[wikilink1]]
+[[wikilink2]]
+[[wikilink3]]
+
+<!-- synthesized: 2026-10-27T16:04:39Z -->
 ```

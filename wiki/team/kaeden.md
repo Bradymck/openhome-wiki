@@ -3,21 +3,21 @@
 title: Kaeden
 entity_type: team
 status: stub
-last_updated: 2026-10-26
+last_updated: 2026-10-27
 ---
 
 ### who-they-are
-Kaeden is a core team member at OpenHome. Further details about their professional background are currently unavailable.
+Kaeden is a member of the OpenHome team, serving in a role that supports the core operations and initiatives of the organization.
 
 ### what-they-own
-Kaeden leads specific areas of the OpenHome platform, but exact responsibilities and ownership details are not provided.
+Kaeden leads various projects within the OpenHome platform, although specific areas of leadership have not been detailed.
 
 ### how-to-reach
-Contact information for Kaeden, including their Discord handle and other preferred contact methods, has not been disclosed.
+Preferred contact methods for Kaeden have not been provided.
 
-## connects-to
+### connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-10-26T17:02:05Z -->
+<!-- synthesized: 2026-10-27T16:04:39Z -->
 ```

@@ -3,26 +3,25 @@
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-10-26
+last_updated: 2026-10-27
 ---
 
 ### who-they-are
-Brady McK is an active community builder in the development ecosystem, known for engaging with fellow developers and users to create innovative solutions.
+Brady McK is a community builder and developer engaged in creating innovative solutions within the ecosystem.
 
 ### what-they-built
-Information on specific abilities or integrations that Brady McK has shipped is currently unavailable.
+No specific abilities or integrations have been documented at this time.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified  
+Discord: Not available  
+GitHub: Not available  
+X: Not available  
 
 ## connects-to
 [[abilities]]
-[[integrations]]
-[[community builders]]
-<!-- synthesized: 2026-10-26T17:02:05Z -->
+
+<!-- synthesized: 2026-10-27T16:04:39Z -->
 ```

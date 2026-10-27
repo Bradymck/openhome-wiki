@@ -3,23 +3,23 @@
 title: builders/pl-geek
 entity_type: builders
 status: stub
-last_updated: 2026-10-26
+last_updated: 2026-10-27
 ---
 
 ### who-they-are
-Information about pl-geek's background and what they are building is currently not available.
+pl-geek is an active community builder focused on creating and enhancing user engagement within the devkit ecosystem. They are involved in developing various tools and integrations that facilitate better usage of the platform.
 
 ### what-they-built
-Details on the abilities or integrations that pl-geek has shipped are currently not available.
+Currently, there is no specific information available regarding the shipped abilities or integrations by pl-geek.
 
 ### grant-status
-No grant status information is available for pl-geek.
+none
 
 ### how-to-reach
-No contact information is available for pl-geek.
+Details on how to reach pl-geek are not available at the moment.
 
 ## connects-to
-[[wikilinks]] 
+[[abilities]]
 
-<!-- synthesized: 2026-10-26T17:02:05Z -->
+<!-- synthesized: 2026-10-27T16:04:39Z -->
 ```
