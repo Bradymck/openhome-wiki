@@ -1,27 +1,25 @@
-```markdown
----
-title: Roadmap Planned
-entity_type: roadmap/planned
+```yaml
+title: roadmap/planned
+entity_type: roadmap
 status: stub
-last_updated: 2026-10-27
----
+last_updated: 2026-10-28
+```
 
 ### what-it-is
-A structured overview of features or milestones that are planned for development.
+This page outlines the planned features and milestones in the development roadmap.
 
 ### status
 stub
 
 ### why-it-matters
-Understanding the planned roadmap helps stakeholders, developers, and users keep track of upcoming features and improvements, as well as offering insights into the priorities and direction of the project.
+Understanding the roadmap is crucial for stakeholders to anticipate upcoming features and improvements, gauge the project's direction, and manage expectations.
 
 ### eta
-Not available at this time.
+No specific timeline is available at this time.
 
 ## connects-to
 [[roadmap/in-progress]]
 [[roadmap/shipped]]
 [[roadmap/cancelled]]
 
-<!-- synthesized: 2026-10-27T16:04:39Z -->
-```
+<!-- synthesized: 2026-10-28T16:51:33Z -->

@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/
+entity_type: concepts/grant-program
 status: stub
-last_updated: 2026-10-27
+last_updated: 2026-10-28
 ---
 
 ### definition
-A grant program refers to a structured initiative that allocates funds or resources to support specific projects, research, or activities deemed beneficial to the community or organization.
+A grant program is a structured initiative that provides financial support to projects or entities that align with specific goals or criteria set by an organization or funding body.
 
 ### why-it-matters
-In the context of OpenHome, grant programs are crucial for fostering innovation and supporting projects that align with the platform’s goals. They help facilitate the development of new features, encourage community participation, and promote sustainable practices within the OpenHome ecosystem.
+In the context of OpenHome, grant programs are crucial for fostering innovation, supporting developers and creators, and encouraging community engagement. They help stimulate the growth of new applications and services that can enhance the OpenHome ecosystem.
 
 ### how-it-manifests
-The grant program concept may manifest in OpenHome through dedicated funding opportunities for developers, researchers, and community members. Participants can apply for grants to build applications, contribute to open-source projects, or engage in research that supports the OpenHome mission.
+Grant programs may manifest through funding opportunities, sponsorships, and collaborative projects within the OpenHome platform. These programs can support various initiatives, from technology development to community workshops, aimed at promoting the platform's values and expanding its reach.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ The grant program concept may manifest in OpenHome through dedicated funding opp
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-10-27T16:04:39Z -->
+<!-- synthesized: 2026-10-28T16:51:33Z -->
 ```

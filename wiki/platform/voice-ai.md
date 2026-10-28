@@ -1,26 +1,26 @@
 ```yaml
 title: Voice AI
-entity_type: platform/voice-ai
+entity_type: platform
 status: stub
-last_updated: 2026-10-27
+last_updated: 2026-10-28
 ```
 
 ## what-it-is
-Voice AI is an artificial intelligence technology that enables users to interact with devices and applications through voice commands, allowing for hands-free control and more intuitive user experiences.
+Voice AI refers to the capabilities and features of artificial intelligence that allow systems to understand and respond to human speech. It encompasses speech recognition, natural language processing, and speech synthesis technologies that enable interactive voice-based user interfaces.
 
 ## how-it-works
-Voice AI systems typically use natural language processing (NLP) algorithms to understand spoken language and respond accordingly. They integrate with various platforms, enabling users to perform tasks such as controlling smart home devices, retrieving information, and accessing applications simply by speaking. The technology often involves continuous learning to improve accuracy and contextual understanding over time.
+Voice AI operates by processing audio input through a series of algorithms that convert speech to text. This text is then interpreted using natural language understanding models to determine user intent. The system generates appropriate responses, which are converted back into speech using text-to-speech technology. These interactions can be embedded into various applications, including smart home devices, virtual assistants, and chatbots.
 
 ## current-status
 stub
 
 ## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+[[platform/openhome]]  
+[[platform/speakers]]  
+[[platform/abilities]]  
+[[platform/dashboard]]  
+[[platform/local-link]]  
+[[platform/marketplace]]  
+[[platform/live-editor]]  
 
-<!-- synthesized: 2026-10-27T16:04:39Z -->
+<!-- synthesized: 2026-10-28T16:51:33Z -->

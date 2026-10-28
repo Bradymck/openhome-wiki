@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Web3 Native
-entity_type: concepts
+title: "Web3 Native"
+entity_type: concepts/
 status: stub
-last_updated: 2026-10-27
+last_updated: 2026-10-28
 ---
 
 ## definition
-Web3 Native refers to a set of principles and technologies centered around decentralized web applications and services designed to give users more control over their data, identity, and interactions online. It emphasizes peer-to-peer interactions without intermediaries.
+Web3 Native refers to a foundational approach that utilizes decentralized technologies and protocols to empower users and enhance privacy and ownership. This paradigm shifts the control from centralized entities to individuals, enabling greater autonomy in digital interactions.
 
 ## why-it-matters
-This concept is significant to OpenHome because it aligns with the platform's goal of empowering users, enhancing privacy, and fostering decentralized interactions. By being web3 native, OpenHome seeks to establish a more equitable digital environment that prioritizes user autonomy and community governance.
+Web3 Native concepts are crucial to OpenHome as they align with the platform's commitment to decentralization, user sovereignty, and privacy. By implementing web3-native principles, OpenHome aims to create an ecosystem where users have full control over their data and digital identities.
 
 ## how-it-manifests
-Web3 native principles manifest in OpenHome through features that promote decentralization, such as user-owned data, the use of blockchain technology, and smart contracts. These functionalities allow for transparent transactions and interactions within the platform, enhancing trust and security among users.
+In the OpenHome platform, web3-native features are integrated through smart contracts, decentralized storage solutions, and user-controlled data management systems. These elements work together to provide a seamless user experience while ensuring security and transparency.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ Web3 native principles manifest in OpenHome through features that promote decent
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-27T16:04:39Z -->
+<!-- synthesized: 2026-10-28T16:51:33Z -->
 ```
