@@ -1,28 +1,29 @@
-```yaml
-title: "News Brief"
-entity_type: "abilities"
-status: "stub"
-last_updated: 2026-10-28
-```
+```markdown
+---
+title: abilities/news-brief
+entity_type: abilities
+status: stub
+last_updated: 2026-10-29
+---
 
-## what-it-does
-News Brief is an ability that provides quick summaries and updates on various news topics, helping users stay informed without having to read through lengthy articles.
+### what-it-does
+The News Brief ability provides users with succinct updates on current events, delivering curated news snippets directly to the user.
 
-## how-to-build
-Details on building the News Brief plugin are currently not available.
+### how-to-build
+Builder notes and API surface for creating the News Brief ability are currently unavailable. Further documentation will be required to outline the technical specifications for building this ability.
 
-## category
+### category
 utility
 
-## built-by
-[[User Profile for Developer]]
+### built-by
+[[builder-name]]  <!-- Replace with the actual builder's page link when available -->
 
-## status
+### status
 stub
 
 ## connects-to
-[[abilities/aquaprime]]  
-[[abilities/deadman-fm]]  
-[[abilities/trivia]]  
-
-<!-- synthesized: 2026-10-28T16:51:33Z -->
+[[abilities/aquaprime]]
+[[abilities/deadman-fm]]
+[[abilities/trivia]]
+<!-- synthesized: 2026-10-29T17:08:01Z -->
+```

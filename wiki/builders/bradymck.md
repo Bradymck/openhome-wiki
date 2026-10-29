@@ -1,23 +1,27 @@
-```yaml
-title: bradymck
+```markdown
+---
+title: Builders/bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-10-28
-```
+last_updated: 2026-10-29
+---
 
-## who-they-are
-bradymck is an active community builder involved in developing various integrations and abilities within the ecosystem. 
+### who-they-are
+Brady McK is an active community builder within the ecosystem, focusing on developing innovative solutions and tools that enhance user experiences.
 
-## what-they-built
-Information on specific abilities or integrations built by bradymck is currently not available.
+### what-they-built
+Details on specific abilities or integrations that Brady McK has shipped are not currently available.
 
-## grant-status
-None
+### grant-status
+none
 
-## how-to-reach
-Information on how to reach bradymck is currently not available.
+### how-to-reach
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[builders]]
+[[abilities]] 
 
-<!-- synthesized: 2026-10-28T16:51:33Z -->
+<!-- synthesized: 2026-10-29T17:08:01Z -->
+```
