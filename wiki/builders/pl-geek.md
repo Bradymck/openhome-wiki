@@ -1,25 +1,25 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: builder
+entity_type: builders
 status: stub
-last_updated: 2026-10-29
+last_updated: 2026-10-30
 ---
 
-## who-they-are
-pl-geek is a member of the active community builders within the developer ecosystem, specifically targeting those interested in Homie and User roles. Details on their background and specific projects they are building are currently unavailable.
+### who-they-are
+pl-geek is an active participant in the community, focusing on building innovative solutions primarily in the development kit ecosystem.
 
-## what-they-built
-No information is currently available regarding any shipped abilities or integrations by pl-geek.
+### what-they-built
+Information on specific abilities or integrations that pl-geek has shipped is currently unavailable.
 
-## grant-status
-No grant status information is available for pl-geek.
+### grant-status
+none
 
-## how-to-reach
-Contact methods for pl-geek are not currently documented.
+### how-to-reach
+Information regarding pl-geek's contact details such as their Discord handle, GitHub, or X account is currently unavailable.
 
 ## connects-to
-No connections to specific abilities are available at this time.
+[[abilities]] 
 
-<!-- synthesized: 2026-10-29T17:08:01Z -->
+<!-- synthesized: 2026-10-30T16:50:24Z -->
 ```

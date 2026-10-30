@@ -3,21 +3,24 @@
 title: Abubakar
 entity_type: team
 status: stub
-last_updated: 2026-10-29
+last_updated: 2026-10-30
 ---
 
 ### who-they-are
-Role at OpenHome: Not specified in available data. Background information is not provided.
+Role at OpenHome: TBD  
+Background: TBD  
 
 ### what-they-own
-Areas of the platform they lead: Not specified in available data.
+Areas of the platform they lead: TBD  
 
 ### how-to-reach
-Preferred contact methods: Not specified in available data.
+Discord handle: TBD  
+X/Twitter: TBD  
+Preferred contact: TBD  
 
 ## connects-to
-[[team/jesse]]
-[[team/shannon]]
+[[team/jesse]]  
+[[team/shannon]]  
 
-<!-- synthesized: 2026-10-29T17:08:01Z -->
+<!-- synthesized: 2026-10-30T16:50:24Z -->
 ```

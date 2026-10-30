@@ -1,24 +1,27 @@
-```yaml
+```markdown
+---
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-10-29
-```
+last_updated: 2026-10-30
+---
 
 ## definition
-Spatial intelligence refers to the capacity to think in three dimensions. It enables individuals to visualize and manipulate objects in space, understand spatial relationships, and navigate environments effectively.
+Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It involves recognizing relationships between objects and understanding how they fit together in various environments.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence plays a critical role in enhancing user interactions within virtual and augmented environments. It allows for more intuitive user experiences, particularly in spatially-aware applications where users can interact with digital elements in a physical context.
+Spatial intelligence is crucial for enhancing user interactions within OpenHome, allowing for more intuitive navigation and understanding of spatial environments. It supports features that rely on context, positioning, and layout, ultimately improving user experience and engagement.
 
 ## how-it-manifests
-While specific implementations within the OpenHome platform are not detailed, spatial intelligence could manifest in features such as 3D modeling tools, augmented reality applications, and spatial mapping functionalities that allow users to engage with their surroundings in enriched ways.
+Though specific implementations within OpenHome are not detailed, spatial intelligence can manifest through features such as 3D mapping, augmented reality interfaces, and context-aware content delivery based on user location and orientation.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-10-29T17:08:01Z -->
+<!-- synthesized: 2026-10-30T16:50:24Z -->
 ```

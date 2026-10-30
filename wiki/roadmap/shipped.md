@@ -1,29 +1,27 @@
 ```markdown
 ---
-title: Roadmap Overview
+title: roadmap/shipped
 entity_type: roadmap
-status: live
-last_updated: 2026-10-29
+status: stub
+last_updated: 2026-10-30
 ---
 
 ### what-it-is
-This page provides an overview of the features and milestones pertaining to the development roadmap, including what has been shipped, what is in progress, and upcoming plans.
+Information regarding shipped features or milestones is currently limited.
 
 ### status
-The current roadmap status is classified as live, indicating that elements within the roadmap are active and undergoing ongoing development.
+stub
 
 ### why-it-matters
-Understanding the roadmap is essential for users and stakeholders as it outlines the vision for future development, provides transparency into the progress of features, and sets expectations for upcoming milestones.
+Understanding what features are shipped is crucial for users to stay informed about the product's evolution and improvements.
 
 ### eta
-Rough timelines for specific features are generally indicated within the roadmap, but no specific dates are available at this time.
+No specific timeline information is available.
 
 ## connects-to
+[[roadmap]]
 [[features]]
 [[milestones]]
-[[development]]
-[[upcoming]]
-[[progress]]
 
-<!-- synthesized: 2026-10-29T17:08:01Z -->
+<!-- synthesized: 2026-10-30T16:50:24Z -->
 ```
